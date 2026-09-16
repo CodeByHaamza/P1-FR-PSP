@@ -51,12 +51,12 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_018.json`](trad/dialogues/E0_018.json) | 83 | 83 | 100 % | terminé |
 | [`E0_019.json`](trad/dialogues/E0_019.json) | 58 | 58 | 100 % | terminé |
 | [`E0_020.json`](trad/dialogues/E0_020.json) | 87 | 87 | 100 % | terminé |
-| [`E0_021.json`](trad/dialogues/E0_021.json) | 89 | 0 | 0 % | libre |
-| [`E0_022.json`](trad/dialogues/E0_022.json) | 52 | 0 | 0 % | libre |
-| [`E0_023.json`](trad/dialogues/E0_023.json) | 65 | 0 | 0 % | libre |
-| [`E0_024.json`](trad/dialogues/E0_024.json) | 96 | 0 | 0 % | libre |
-| [`E0_025.json`](trad/dialogues/E0_025.json) | 93 | 0 | 0 % | libre |
-| [`E0_026.json`](trad/dialogues/E0_026.json) | 77 | 0 | 0 % | libre |
+| [`E0_021.json`](trad/dialogues/E0_021.json) | 89 | 0 | 0 % | en cours par @CodeByHaamza (#12) |
+| [`E0_022.json`](trad/dialogues/E0_022.json) | 52 | 0 | 0 % | en cours par @CodeByHaamza (#12) |
+| [`E0_023.json`](trad/dialogues/E0_023.json) | 65 | 0 | 0 % | en cours par @CodeByHaamza (#12) |
+| [`E0_024.json`](trad/dialogues/E0_024.json) | 96 | 0 | 0 % | en cours par @CodeByHaamza (#12) |
+| [`E0_025.json`](trad/dialogues/E0_025.json) | 93 | 0 | 0 % | en cours par @CodeByHaamza (#12) |
+| [`E0_026.json`](trad/dialogues/E0_026.json) | 77 | 0 | 0 % | en cours par @CodeByHaamza (#12) |
 | [`E0_027.json`](trad/dialogues/E0_027.json) | 40 | 40 | 100 % | terminé |
 | [`E0_028.json`](trad/dialogues/E0_028.json) | 78 | 0 | 0 % | libre |
 | [`E0_029.json`](trad/dialogues/E0_029.json) | 55 | 0 | 0 % | libre |
