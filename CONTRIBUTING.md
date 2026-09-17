@@ -165,6 +165,7 @@ jamais la technique : le robot s'en charge.
 Il existe un dernier message, en **jaune** celui-là, qui ne bloque rien :
 
 | `[TERMINO]` | un terme du [dictionnaire](docs/Dictionnaire.md) apparaît dans l'anglais mais pas sa traduction dans le français |
+| `[ESPACE]` | tu as écrit `[0000]` entre des mots alors que l'anglais a des espaces — ce code coupe la chaîne, mets des espaces |
 | `[DONJON]` | une ligne de `trad/donjons/` plus longue que l'anglais — le jeu resterait bloqué sur un chargement, raccourcis |
 | `[BUDGET]` | une ligne de `trad/eboot/` dépasse son `max` — ça marche, c'est juste plus fragile |
 

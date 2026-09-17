@@ -43,7 +43,9 @@
 #
 # Et une ERREUR propre aux donjons :
 #
-#   8. DONJON    — un texte de donjon plus long que l'anglais. La taille de ces
+#   8. DONJON    — un texte de donjon plus long que l'anglais.
+#   9. ESPACE    — `[0000]` dans le français quand l'anglais a de vrais espaces :
+#      là, ce code termine la chaîne et le jeu n'affiche que le premier mot. La taille de ces
 #      fichiers est inscrite dans l'exécutable ; en grossissant, ils laissent
 #      le jeu sur un écran de chargement sans fin. Vu en jeu. Le moteur la
 #      redirige vers un code cave : ça marche, c'est prouvé en jeu, mais c'est
@@ -371,6 +373,15 @@ module CheckTrad
       gonfle = (e['fr'].gsub(JETON, '').length - e['en'].gsub(JETON, '').length) +
                (e['locuteur_fr'].to_s.empty? ? 0 : e['locuteur_fr'].length - e['locuteur'].to_s.length)
       cout = gonfle * 2 * n
+      # `[0000]` n'est l'espace que dans les zones EBOOT où l'anglais l'emploie
+      # lui-même (« That's[0000]not[0000]true. »). Partout ailleurs c'est une
+      # FIN DE CHAÎNE : « C'est[0000]bien[0000]cela? » s'affiche « C'est » en
+      # combat. Vu en jeu le 17/09/2026 sur 132 lignes de menus.
+      if e['fr'].to_s.include?('[0000]') && !e['en'].to_s.include?('[0000]')
+        soucis << "#{id} [ESPACE] [0000] dans le francais alors que l'anglais a de vrais espaces — " \
+                  'ici [0000] coupe la chaine, ecrire des espaces'
+      end
+
       if id.to_s.start_with?('DNG:') && gonfle > 0
         # Les fichiers de donjon sont à part : ils ne peuvent pas grossir d'un
         # octet. Leur taille est inscrite dans l'exécutable, et un donjon qui

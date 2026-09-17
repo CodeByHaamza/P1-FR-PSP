@@ -80,6 +80,14 @@ disparaître.
 
 Le reste est de la machinerie : on n'y touche pas, on la transporte.
 
+### `[0000]` — espace ou fin de chaîne, selon l'anglais
+
+Dans certains menus, l'anglais lui-même sépare ses mots par `[0000]` :
+`That's[0000]not[0000]true.` Là, tu fais pareil. Mais **quand l'anglais a de
+vrais espaces, écris de vrais espaces** : dans ces zones, `[0000]` termine la
+chaîne, et « C'est[0000]bien[0000]cela? » s'affiche « C'est » en combat. Le
+validateur le refuse (`[ESPACE]`).
+
 ### `[1A2B]` — les caractères bruts
 
 Quatre chiffres hexadécimaux : un caractère que l'extracteur n'a pas su nommer.

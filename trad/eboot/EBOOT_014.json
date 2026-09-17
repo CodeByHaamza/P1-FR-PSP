@@ -2,19 +2,19 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28B800",
     "en": "Mikage-cho 1st Ward",
-    "fr": "Mikage-cho[0000]quartier[0000]1",
+    "fr": "Mikage-cho quartier 1",
     "max": 19
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28B840",
     "en": "Mikage-cho 2nd Ward",
-    "fr": "Mikage-cho[0000]quartier[0000]2",
+    "fr": "Mikage-cho quartier 2",
     "max": 19
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28B880",
     "en": "Mikage-cho 3rd Ward",
-    "fr": "Mikage-cho[0000]quartier[0000]3",
+    "fr": "Mikage-cho quartier 3",
     "max": 19
   },
   {
@@ -26,25 +26,25 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28B900",
     "en": "St. Hermelin High",
-    "fr": "Lycée[0000]St.[0000]Hermelin",
+    "fr": "Lycée St. Hermelin",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28B940",
     "en": "School Entrance",
-    "fr": "Entrée[0000]du[0000]lycée",
+    "fr": "Entrée du lycée",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28B980",
     "en": "Mikage Hospital",
-    "fr": "Hôpital[0000]Mikage",
+    "fr": "Hôpital Mikage",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28B9C0",
     "en": "Hospital Entrance",
-    "fr": "Entrée[0000]hôpital",
+    "fr": "Entrée hôpital",
     "max": 17
   },
   {
@@ -56,38 +56,38 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28BA40",
     "en": "Alaya Shrine",
-    "fr": "Autel[0000]Alaya",
+    "fr": "Autel Alaya",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28BA80",
     "en": "Alaya Shrine Entrance",
-    "fr": "Entrée[0000]autel[0000]Alaya",
+    "fr": "Entrée autel Alaya",
     "max": 21
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28BAC0",
     "en": "Mikage Police Station",
-    "fr": "Police[0000]Mikage",
+    "fr": "Police Mikage",
     "max": 21,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28BB00",
     "en": "Police Station Entrance",
-    "fr": "Entrée[0000]police",
+    "fr": "Entrée police",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28BB40",
     "en": "Abandoned Factory",
-    "fr": "Usine[0000]abandonnée",
+    "fr": "Usine abandonnée",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28BB80",
     "en": "Factory Entrance",
-    "fr": "Entrée[0000]usine",
+    "fr": "Entrée usine",
     "max": 16
   },
   {
@@ -99,13 +99,13 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28BC00",
     "en": "SEBEC Entrance",
-    "fr": "Entrée[0000]SEBEC",
+    "fr": "Entrée SEBEC",
     "max": 14
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28BC40",
     "en": "Subway Entrance",
-    "fr": "Entrée[0000]métro",
+    "fr": "Entrée métro",
     "max": 15
   },
   {
@@ -117,13 +117,13 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28BCC0",
     "en": "Mikage Sun Mall",
-    "fr": "Sun[0000]Mall[0000]Mikage",
+    "fr": "Sun Mall Mikage",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28BD00",
     "en": "Joy Street",
-    "fr": "Rue[0000]Joy",
+    "fr": "Rue Joy",
     "max": 10
   },
   {
@@ -135,44 +135,44 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28BD80",
     "en": "Ruins Entrance",
-    "fr": "Entrée[0000]ruines",
+    "fr": "Entrée ruines",
     "max": 14
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28BDC0",
     "en": "Historical Society",
-    "fr": "Société[0000]d'histoire",
+    "fr": "Société d'histoire",
     "max": 18,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28BE00",
     "en": "Society Entrance",
-    "fr": "Entrée[0000]société",
+    "fr": "Entrée société",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28BE40",
     "en": "Kaneda Mansion",
-    "fr": "Manoir[0000]Kaneda",
+    "fr": "Manoir Kaneda",
     "max": 14
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28BE80",
     "en": "Kaneda Mansion Entrance",
-    "fr": "Entrée[0000]manoir[0000]Kaneda",
+    "fr": "Entrée manoir Kaneda",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28BEC0",
     "en": "Himeno Residence",
-    "fr": "Maison[0000]Himeno",
+    "fr": "Maison Himeno",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28BF00",
     "en": "Himeno Residence Entrance",
-    "fr": "Entrée[0000]maison[0000]Himeno",
+    "fr": "Entrée maison Himeno",
     "max": 25
   },
   {
@@ -197,26 +197,26 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28C040",
     "en": "Yin & Yan",
-    "fr": "Yin[0000]&[0000]Yan",
+    "fr": "Yin & Yan",
     "max": 9,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28C080",
     "en": "Convenience Store Entrance",
-    "fr": "Entrée[0000]supérette",
+    "fr": "Entrée supérette",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28C0C0",
     "en": "Doctor's Office",
-    "fr": "Cabinet[0000]médical",
+    "fr": "Cabinet médical",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28C100",
     "en": "Doctor's Office Entrance",
-    "fr": "Entrée[0000]cabinet",
+    "fr": "Entrée cabinet",
     "max": 24
   },
   {
@@ -228,7 +228,7 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28C180",
     "en": "Mana Castle Entrance",
-    "fr": "Entrée[0000]Mana",
+    "fr": "Entrée Mana",
     "max": 20
   },
   {
@@ -240,25 +240,25 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28C200",
     "en": "Lost Forest Entrance",
-    "fr": "Entrée[0000]forêt",
+    "fr": "Entrée forêt",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28C240",
     "en": "Haunted Mansion",
-    "fr": "Manoir[0000]hanté",
+    "fr": "Manoir hanté",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28C280",
     "en": "Haunted Mansion Entrance",
-    "fr": "Entrée[0000]manoir[0000]hanté",
+    "fr": "Entrée manoir hanté",
     "max": 24
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28C2C0",
     "en": "Black Market",
-    "fr": "Marché[0000]noir",
+    "fr": "Marché noir",
     "max": 12,
     "_occurrences": 2
   },
@@ -271,25 +271,25 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28C380",
     "en": "Sun Mall",
-    "fr": "Sun[0000]Mall",
+    "fr": "Sun Mall",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28C400",
     "en": "SEBEC Building",
-    "fr": "Immeuble[0000]SEBEC",
+    "fr": "Immeuble SEBEC",
     "max": 14
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28C440",
     "en": "Mikage Ruins",
-    "fr": "Ruines[0000]Mikage",
+    "fr": "Ruines Mikage",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28C480",
     "en": "Kaneda Residence",
-    "fr": "Maison[0000]Kaneda",
+    "fr": "Maison Kaneda",
     "max": 16
   },
   {
@@ -337,49 +337,49 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A4054",
     "en": "Use skills",
-    "fr": "User[0000]un[0000]don",
+    "fr": "User un don",
     "max": 10
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A408C",
     "en": "Use items",
-    "fr": "User[0000]objet",
+    "fr": "User objet",
     "max": 9
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A40C4",
     "en": "Change equipment",
-    "fr": "Changer[0000]équipement",
+    "fr": "Changer équipement",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A40FC",
     "en": "Change／View Personas",
-    "fr": "Changer／voir[0000]Personae",
+    "fr": "Changer／voir Personae",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A4134",
     "en": "View status details",
-    "fr": "Détail[0000]de[0000]l'état",
+    "fr": "Détail de l'état",
     "max": 19
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A416C",
     "en": "View battle data",
-    "fr": "Données[0000]de[0000]combat",
+    "fr": "Données de combat",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A41A4",
     "en": "Change settings, save／load",
-    "fr": "Réglages,[0000]sauver／charger",
+    "fr": "Réglages, sauver／charger",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A41DC",
     "en": "View whose status?",
-    "fr": "État[0000]de[0000]qui?",
+    "fr": "État de qui?",
     "max": 18
   },
   {
@@ -391,25 +391,25 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A4224",
     "en": "Auto Settings",
-    "fr": "Réglages[0000]auto",
+    "fr": "Réglages auto",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A4264",
     "en": "Set battle formation",
-    "fr": "Régler[0000]la[0000]formation",
+    "fr": "Régler la formation",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A42A4",
     "en": "Set individual auto actions",
-    "fr": "Régler[0000]l'auto[0000]de[0000]chacun",
+    "fr": "Régler l'auto de chacun",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A42E4",
     "en": "View demon data",
-    "fr": "Données[0000]démons",
+    "fr": "Données démons",
     "max": 15
   },
   {
@@ -436,14 +436,14 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A4364",
     "en": "Always use weapon attacks",
-    "fr": "Toujours[0000]attaquer[0000]à[0000]l'arme",
+    "fr": "Toujours attaquer à l'arme",
     "max": 25,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A43A6",
     "en": "Always use gun attacks",
-    "fr": "Toujours[0000]tirer",
+    "fr": "Toujours tirer",
     "max": 22,
     "_occurrences": 2
   },
@@ -457,7 +457,7 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A442A",
     "en": "Always manually enter commands",
-    "fr": "Toujours[0000]entrer[0000]les[0000]ordres",
+    "fr": "Toujours entrer les ordres",
     "max": 30,
     "_occurrences": 2
   },
@@ -482,31 +482,31 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_288D96",
     "en": "current unsaved data will be lost.",
-    "fr": "les[0000]données[0000]non[0000]sauvées[0000]seront[0000]perdues.",
+    "fr": "les données non sauvées seront perdues.",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_288DDC",
     "en": "Suspend game? The suspend save",
-    "fr": "Suspendre?[0000]La[0000]sauvegarde[0000]rapide",
+    "fr": "Suspendre? La sauvegarde rapide",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_288E22",
     "en": "will be deleted after loading it.",
-    "fr": "sera[0000]effacée[0000]après[0000]chargement.",
+    "fr": "sera effacée après chargement.",
     "max": 33
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_288E68",
     "en": "Load data? Any current unsaved",
-    "fr": "Charger?[0000]Toutes[0000]les[0000]données[0000]non",
+    "fr": "Charger? Toutes les données non",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_288EAC",
     "en": "data will be lost.",
-    "fr": "seront[0000]perdues.",
+    "fr": "seront perdues.",
     "max": 18
   },
   {
@@ -542,38 +542,38 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_288FF4",
     "en": "Use whose skill?",
-    "fr": "Le[0000]don[0000]de[0000]qui?",
+    "fr": "Le don de qui?",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28901A",
     "en": "Use which skill?",
-    "fr": "Quel[0000]don?",
+    "fr": "Quel don?",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_289040",
     "en": "Use it on who?",
-    "fr": "Sur[0000]qui?",
+    "fr": "Sur qui?",
     "max": 14,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_289068",
     "en": "Change whose equipment?",
-    "fr": "Équiper[0000]qui?",
+    "fr": "Équiper qui?",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2890A0",
     "en": "Select equipment manually",
-    "fr": "Choisir[0000]soi-même",
+    "fr": "Choisir soi-même",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2890D8",
     "en": "Equip strongest gear",
-    "fr": "Équiper[0000]le[0000]meilleur",
+    "fr": "Équiper le meilleur",
     "max": 20
   },
   {

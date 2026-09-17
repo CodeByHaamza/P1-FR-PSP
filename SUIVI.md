@@ -48,6 +48,7 @@ Ces lignes sont plus larges que l'anglaise et approchent de la limite de la boî
 - [`E2_017.json`](trad/dialogues/E2_017.json) — 1 ligne
 - [`E3_004.json`](trad/dialogues/E3_004.json) — 1 ligne
 - [`E3_006.json`](trad/dialogues/E3_006.json) — 1 ligne
+- [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) — 1 ligne
 
 ## À vérifier en jeu
 
@@ -56,12 +57,13 @@ Ces lignes dépassent la place que l'anglais occupe dans l'exécutable. Le moteu
 - [`EBOOT_001.json`](trad/eboot/EBOOT_001.json) — 5 lignes
 - [`EBOOT_002.json`](trad/eboot/EBOOT_002.json) — 2 lignes
 - [`EBOOT_003.json`](trad/eboot/EBOOT_003.json) — 14 lignes
+- [`EBOOT_004.json`](trad/eboot/EBOOT_004.json) — 1 ligne
 - [`EBOOT_010.json`](trad/eboot/EBOOT_010.json) — 10 lignes
 - [`EBOOT_011.json`](trad/eboot/EBOOT_011.json) — 5 lignes
 - [`EBOOT_012.json`](trad/eboot/EBOOT_012.json) — 15 lignes
 - [`EBOOT_013.json`](trad/eboot/EBOOT_013.json) — 5 lignes
-- [`EBOOT_014.json`](trad/eboot/EBOOT_014.json) — 7 lignes
-- [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) — 3 lignes
+- [`EBOOT_014.json`](trad/eboot/EBOOT_014.json) — 20 lignes
+- [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) — 21 lignes
 - [`EBOOT_016.json`](trad/eboot/EBOOT_016.json) — 7 lignes
 - [`EBOOT_017.json`](trad/eboot/EBOOT_017.json) — 1 ligne
 
@@ -185,7 +187,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`EBOOT_001.json`](trad/eboot/EBOOT_001.json) | 100 | 100 | 100 % | terminé · 5 à vérifier |
 | [`EBOOT_002.json`](trad/eboot/EBOOT_002.json) | 100 | 100 | 100 % | terminé · 2 à vérifier |
 | [`EBOOT_003.json`](trad/eboot/EBOOT_003.json) | 100 | 100 | 100 % | terminé · 14 à vérifier |
-| [`EBOOT_004.json`](trad/eboot/EBOOT_004.json) | 100 | 100 | 100 % | terminé |
+| [`EBOOT_004.json`](trad/eboot/EBOOT_004.json) | 100 | 100 | 100 % | terminé · 1 à vérifier |
 | [`EBOOT_005.json`](trad/eboot/EBOOT_005.json) | 100 | 100 | 100 % | terminé |
 | [`EBOOT_006.json`](trad/eboot/EBOOT_006.json) | 100 | 100 | 100 % | terminé |
 | [`EBOOT_007.json`](trad/eboot/EBOOT_007.json) | 100 | 100 | 100 % | terminé |
@@ -195,8 +197,8 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`EBOOT_011.json`](trad/eboot/EBOOT_011.json) | 60 | 60 | 100 % | terminé · 5 à vérifier |
 | [`EBOOT_012.json`](trad/eboot/EBOOT_012.json) | 58 | 58 | 100 % | terminé · 15 à vérifier |
 | [`EBOOT_013.json`](trad/eboot/EBOOT_013.json) | 82 | 82 | 100 % | terminé · 5 à vérifier |
-| [`EBOOT_014.json`](trad/eboot/EBOOT_014.json) | 100 | 100 | 100 % | terminé · 7 à vérifier |
-| [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) | 100 | 100 | 100 % | terminé · 3 à vérifier |
+| [`EBOOT_014.json`](trad/eboot/EBOOT_014.json) | 100 | 100 | 100 % | terminé · 20 à vérifier |
+| [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) | 100 | 100 | 100 % | terminé · 1 trop large |
 | [`EBOOT_016.json`](trad/eboot/EBOOT_016.json) | 100 | 100 | 100 % | terminé · 7 à vérifier |
 | [`EBOOT_017.json`](trad/eboot/EBOOT_017.json) | 18 | 18 | 100 % | terminé · 1 à vérifier |
 
