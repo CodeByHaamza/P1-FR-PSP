@@ -1,0 +1,602 @@
+[
+  {
+    "id": "EBOOT.BIN:BE2:OFF_287524",
+    "en": "                      Enhanced reflexes allow{SAUT}",
+    "fr": "",
+    "max": 45
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_287580",
+    "en": "counter-attacks.{FERME}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2875A2",
+    "en": "                       Will singlemindedly{SAUT}",
+    "fr": "",
+    "max": 42
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_287624",
+    "en": "                      Enraged Persona acts{SAUT}",
+    "fr": "",
+    "max": 42
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28767A",
+    "en": "on its own.{FERME}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_287692",
+    "en": "                               Bestial abilities shift{SAUT}",
+    "fr": "",
+    "max": 54
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_287700",
+    "en": "with the moon's phase.{FERME}",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289716",
+    "en": " > The school gates are tightly closed...{ATTENTE}",
+    "fr": "",
+    "max": 41
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289796",
+    "en": "Yo. Say, a cute girl in clothes like{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2897E0",
+    "en": "yours just went inna subway.{ATTENTE}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28981E",
+    "en": " It's covered in a thick fog that{SAUT}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289862",
+    "en": "prevents you from entering...{ATTENTE}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2898AC",
+    "en": "No, (*APELLIDO_HEROE*)! We must hurry and bring{SAUT}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2898EA",
+    "en": "Maki's mother to the school!{ATTENTE}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289926",
+    "en": " > The Himeno residence seems to be{SAUT}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28996E",
+    "en": "locked up...{ATTENTE}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28998A",
+    "en": " (*SPEAKER*)Confused young man{SAUT}",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2899B4",
+    "en": "Let me out of here! Why can't I{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2899F4",
+    "en": "leave town!?{ATTENTE}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289A12",
+    "en": "Confused young man{SAUT}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289A38",
+    "en": "Someone help!{ATTENTE}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289A66",
+    "en": "I wouldn't wanna just wait around until{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289AB6",
+    "en": "someone rescues me.{ATTENTE}",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289AEE",
+    "en": "Hey, let's go to the abandoned factory.{ATTENTE}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289B4C",
+    "en": "He's completely and utterly panicked.{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289B98",
+    "en": "Poor thing...{ATTENTE}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289BC6",
+    "en": "Just as I thought... No one can escape{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289C14",
+    "en": "from this town.{ATTENTE}",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289C36",
+    "en": " > The historical society seems to be{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289C82",
+    "en": "closed...{ATTENTE}",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289CA6",
+    "en": "...Are you planning to run away?{SAUT}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289CE8",
+    "en": "That won't solve anything, you know.{ATTENTE}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289D46",
+    "en": "! Are you just gonna run away?{ATTENTE}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289D96",
+    "en": "Ms. Saeko would get angry again if she{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289DE4",
+    "en": "found out!{ATTENTE}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289E08",
+    "en": "It's a pity to have such splendid ruins{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289E58",
+    "en": "so close at hand, yet inaccessible.{ATTENTE}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289EB0",
+    "en": "Huh? I remember being able to go in...{ATTENTE}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289F0C",
+    "en": "The ruins aren't open to the public, but{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289F5E",
+    "en": "people say there's nothin' here anyways.{ATTENTE}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_289FC0",
+    "en": "Alaya Shrine... That's a funny name.{ATTENTE}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A018",
+    "en": "I wonder what kind of blessings you can{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A068",
+    "en": "get here.{ATTENTE}",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A090",
+    "en": "\"The history of the Alaya Shrine\"...{ATTENTE}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A0EC",
+    "en": "It says, \"The god dwelling within people's{SAUT}",
+    "fr": "",
+    "max": 42
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A142",
+    "en": "souls is enshrined here.\"{ATTENTE}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A186",
+    "en": "What's the matter, (*APELLIDO_HEROE*)? Do you{SAUT}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A1C0",
+    "en": "have business at the historical society?{ATTENTE}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A220",
+    "en": "Heh, then we'll make Kandori fix it.{ATTENTE}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A278",
+    "en": "I'll show that guy what happens when you{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A2CA",
+    "en": "mess with St. Hermelin!{ATTENTE}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A30A",
+    "en": "The Deva System is a terrible thing.{ATTENTE}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A364",
+    "en": "But... was this also part of Kandori's{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A3B2",
+    "en": "scheme?{ATTENTE}",
+    "fr": "",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A3D2",
+    "en": "Regardless, it's far beyond our capacity{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A424",
+    "en": "to fix directly, I'm afraid.{ATTENTE}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A46C",
+    "en": "It's true! The school's really gone!{ATTENTE}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A4C6",
+    "en": "This must be the Deva System at work...{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A516",
+    "en": "How dare Kandori unleash such madness!{ATTENTE}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A574",
+    "en": "What the--The school's gone! What happened{SAUT}",
+    "fr": "",
+    "max": 42
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A5CA",
+    "en": "to Yuko and everyone!?{ATTENTE}",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A5FA",
+    "en": " (*SPEAKER*)Baffled office worker{SAUT}",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A62A",
+    "en": "Oh, my God! The east half of town's{SAUT}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A672",
+    "en": "just... gone!{ATTENTE}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A692",
+    "en": "Baffled office worker{SAUT}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A6BE",
+    "en": "Most of this place seems to be gone{SAUT}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A706",
+    "en": "too, so be careful if you go in there!{ATTENTE}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A764",
+    "en": "Hey, c'mon, man! This ain't the time{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A7AE",
+    "en": "to be wandering around!{ATTENTE}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A7EC",
+    "en": "Start takin' this seriously! The haunted{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A83E",
+    "en": "mansion ain't that way.{ATTENTE}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A87E",
+    "en": "Why are we going back to the school?{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A8C8",
+    "en": "Kandori's in the east side of town.{ATTENTE}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A924",
+    "en": "...You better quit messing around before{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A976",
+    "en": "I lose it. Why would we leave town!?{ATTENTE}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A9D2",
+    "en": "For heaven's sake...{ATTENTE}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28AA0E",
+    "en": "Why on earth are we leaving town?{SAUT}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28AA52",
+    "en": "I thought we were going to the hospital.{ATTENTE}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28AAB4",
+    "en": "Hey, that's the way out of town.{SAUT}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28AAF6",
+    "en": "Aren't we goin' to the hospital?{ATTENTE}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28AB48",
+    "en": "That girl will be fine. C'mon, we have{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28AB96",
+    "en": "to hurry!{ATTENTE}",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28ABB8",
+    "en": "Hey! What're we doin' here? Don't we{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28AC02",
+    "en": "have stuff to do?{ATTENTE}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28AC34",
+    "en": "It's always been here on this side,{SAUT}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28AC7C",
+    "en": "though.{ATTENTE}",
+    "fr": "",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28ACBC",
+    "en": "This place was torn down so they could{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28AD0A",
+    "en": "put up the SEBEC building, right?{ATTENTE}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28AD5C",
+    "en": "If it's still here... does that mean{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28ADA6",
+    "en": "we really did go back in time?{ATTENTE}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28ADF4",
+    "en": "This used to be a flower garden...{ATTENTE}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28AE48",
+    "en": "But ever since it became a forest,{SAUT}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28AE8E",
+    "en": "no one's been able to go inside.{ATTENTE}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28AEE2",
+    "en": "I thought only you and Maki were allowed{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28AF34",
+    "en": "to enter here.{ATTENTE}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28AF60",
+    "en": "Are you going somewhere else? Well, let's{SAUT}",
+    "fr": "",
+    "max": 41
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28AFB4",
+    "en": "do that after we meet up with everyone.{ATTENTE}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B014",
+    "en": "We don't have a reason to come to this{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B062",
+    "en": "dump, right? Then let's go get Kandori.{ATTENTE}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B0E0",
+    "en": "Haha... Yeah, I'm starting to think so.{ATTENTE}",
+    "fr": "",
+    "max": 39
+  }
+]

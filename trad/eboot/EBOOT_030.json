@@ -1,0 +1,197 @@
+[
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADBFE",
+    "en": " Nanjo tried bribing the demon with{SAUT}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADC46",
+    "en": "an item!{FERME}",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADC5A",
+    "en": " Brown tried to startle the demon!{FERME}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADCA2",
+    "en": " Brown made small talk!{FERME}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADCD2",
+    "en": " > Brown told a joke!{FERME}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADCFE",
+    "en": " > Brown hit on the demon!{FERME}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADD36",
+    "en": " Maki pretended to be scared!{FERME}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADD72",
+    "en": " > Maki made something up!{FERME}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADDAA",
+    "en": " Maki tried flattering the demon!{FERME}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADDEE",
+    "en": " > Maki pleaded with the demon!{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADE2E",
+    "en": " > [FFFA] sang a song!{FERME}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADE52",
+    "en": " > [FFFA] invited the demon into{SAUT}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADE8A",
+    "en": "the party!{FERME}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADEA2",
+    "en": " [FFFA] taunted the demon!{FERME}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADECE",
+    "en": " > [FFFA] tried to persuade it!{FERME}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B4CA8",
+    "en": "              1F Room{FERME}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B530A",
+    "en": "             3F Classroom{FERME}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B533E",
+    "en": "           3F Warehouse{FERME}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B536E",
+    "en": "           3F Classroom{FERME}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B539E",
+    "en": "           4F Classroom{FERME}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B53CE",
+    "en": "           5F Classroom{FERME}",
+    "fr": "",
+    "max": 23,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B545E",
+    "en": "           8F Classroom{FERME}",
+    "fr": "",
+    "max": 23,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B54BE",
+    "en": "           9F Classroom{FERME}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B647E",
+    "en": "           1F Passageway{FERME}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B68C8",
+    "en": "              1F Entrance Hall{FERME}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B70B6",
+    "en": "       2F Lobby{FERME}",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B70D6",
+    "en": "               2F Nurse's Center{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B7118",
+    "en": "      3F Lobby{FERME}",
+    "fr": "",
+    "max": 14,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B7136",
+    "en": "               3F Nurse's Center{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B737E",
+    "en": "           2F Nurse's Center{FERME}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B73B8",
+    "en": "      3F Nurse's Center{FERME}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4BAC",
+    "en": "> (*TEXTBOX_PARAM*)βLevel(*TEXTBOX_PARAM*)  increased to (*VALUE*)!{ATTENTE}",
+    "fr": "",
+    "max": 24
+  }
+]

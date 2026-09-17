@@ -14,7 +14,7 @@ Le texte du jeu vit à quatre endroits, et `trad/` a un dossier pour chacun.
 |---|---|---|
 | `trad/dialogues/` | l'histoire, les personnages qui parlent | un champ `locuteur` à traduire aussi |
 | `trad/negociations/` | ce que les démons disent quand on leur parle en combat | un fichier par démon ; `(*RESPONSE*)` ferme la réplique ; la place est comptée (§6) |
-| `trad/eboot/` | menus, écrans, noms de lieux, tutoriels | un champ **`max`** à respecter (§3) |
+| `trad/eboot/` | menus, écrans, noms de lieux, tutoriels, interface de combat, actions de négociation | un champ **`max`** à respecter (§3) |
 | `trad/donjons/` | messages de couloir, portes fermées | rien de particulier |
 
 L'identifiant dit d'où vient la ligne :

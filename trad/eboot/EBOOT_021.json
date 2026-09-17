@@ -1,0 +1,605 @@
+[
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27CCC8",
+    "en": "Weak: Ice, Wind, Earth{FERME}",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27CCF6",
+    "en": "                                                                                       Absorb: 100% Ice{SAUT}",
+    "fr": "",
+    "max": 103
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27CDC6",
+    "en": "Weak: Fire, Wind, Earth{FERME}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27CDF6",
+    "en": "                                                                                       Absorb: 100% Wind{SAUT}",
+    "fr": "",
+    "max": 104
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27CEC8",
+    "en": "Weak: Fire, Ice, Earth{FERME}",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27CEF6",
+    "en": "                                                                                       Absorb: 100% Earth{SAUT}",
+    "fr": "",
+    "max": 105
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27CFCA",
+    "en": "Weak: Fire, Ice, Wind{FERME}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27CFF6",
+    "en": "                                                                                       Strong: Element, Force{SAUT}",
+    "fr": "",
+    "max": 109
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27D2FA",
+    "en": "                                                                                     Strong: Physical{SAUT}",
+    "fr": "",
+    "max": 101
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27D3F0",
+    "en": "                                                                                          Null: Weapons, Force{SAUT}",
+    "fr": "",
+    "max": 110
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27D4E2",
+    "en": "                                                                                                 Strong: Nuclear, Blast, Gravity, Electric{SAUT}",
+    "fr": "",
+    "max": 138
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27D632",
+    "en": "                                                         Null: Gun{SAUT}",
+    "fr": "",
+    "max": 66
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27D6E2",
+    "en": "                                                                                                 Weak: Element, Force{FERME}",
+    "fr": "",
+    "max": 117
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27D7CE",
+    "en": "                                                                                                           Strong: Nuclear, Blast, Gravity, Electric{SAUT}",
+    "fr": "",
+    "max": 148
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27D932",
+    "en": "                                                         Null: Sword, Spear, Arrow{SAUT}",
+    "fr": "",
+    "max": 82
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27DA12",
+    "en": "                                                                         Strong: Magic{SAUT}",
+    "fr": "",
+    "max": 86
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27DADE",
+    "en": "                                                                                                   Absorb: 100% Fire, Death{SAUT}",
+    "fr": "",
+    "max": 123
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27DBD6",
+    "en": "Weak: Ice{FERME}",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27DBEA",
+    "en": "                                                                                             Repel: 50% Physical{SAUT}",
+    "fr": "",
+    "max": 112
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27DCF6",
+    "en": "                                                                                       Absorb: 100% Phys, Death{SAUT}",
+    "fr": "",
+    "max": 111
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27DE00",
+    "en": "                                                                                  Repel: 50% Element, Force{SAUT}",
+    "fr": "",
+    "max": 107
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27DED8",
+    "en": "Weak: Rush, Expel, Miracle{FERME}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27DF0E",
+    "en": "                                                                           Null: All magic besides Expel, Death{SAUT}",
+    "fr": "",
+    "max": 111
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27E00C",
+    "en": "                                                                            Absorb: 100% Element, Force{SAUT}",
+    "fr": "",
+    "max": 103
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27E0FA",
+    "en": "                                                                                     Null: Tech, Rush{SAUT}",
+    "fr": "",
+    "max": 101
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27E1C6",
+    "en": "Weak: Whip, Gun{FERME}",
+    "fr": "",
+    "max": 15,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27E1E6",
+    "en": "                                                                                               Repel: 200% Gun{SAUT}",
+    "fr": "",
+    "max": 110
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27E2C4",
+    "en": "Resist: Magic{FERME}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27E2E0",
+    "en": "                                                                                                  Null: Gun, Tech, Rush{SAUT}",
+    "fr": "",
+    "max": 119
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27E3D0",
+    "en": "Weak: Sword, Fire, Expel{FERME}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27E402",
+    "en": "                                                                                 Null: Physical{SAUT}",
+    "fr": "",
+    "max": 95
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27E4C2",
+    "en": "Weak: Expel{FERME}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27E4DA",
+    "en": "                                                                                                     Strong: Physical, Magic{SAUT}",
+    "fr": "",
+    "max": 124
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27E5D4",
+    "en": "Weak: Spear, Expel{FERME}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27E5FA",
+    "en": "                                                                                     Null: Fire, Ice, Wind, Earth{SAUT}",
+    "fr": "",
+    "max": 113
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27E6DE",
+    "en": "Weak: Axe, Expel, Miracle{FERME}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27E712",
+    "en": "                                                                         Strong: Physical{SAUT}",
+    "fr": "",
+    "max": 89
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27E7C6",
+    "en": "Weak: Thrown, Expel, Miracle{FERME}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27E800",
+    "en": "                                                                                  Resist: Element, Force{SAUT}",
+    "fr": "",
+    "max": 104
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27E8D2",
+    "en": "Weak: Death, Curse{FERME}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27E8F8",
+    "en": "                                                                                      Absorb: 100% Fire, Expel{SAUT}",
+    "fr": "",
+    "max": 110
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27E9D6",
+    "en": "Vulnerable: Ice{FERME}",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27E9F6",
+    "en": "                                                                                       Absorb: 100% Ice, Expel{SAUT}",
+    "fr": "",
+    "max": 110
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27EAD4",
+    "en": "Vulnerable: Fire{FERME}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27EAF6",
+    "en": "                                                                                       Absorb: 100% Earth, Expel{SAUT}",
+    "fr": "",
+    "max": 112
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27EBD8",
+    "en": "Vulnerable: Wind{FERME}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27EBFA",
+    "en": "                                                                                     Absorb: 100% Electric, Expel{SAUT}",
+    "fr": "",
+    "max": 113
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27ECDE",
+    "en": "Vulnerable: Nuclear{FERME}",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27ED06",
+    "en": "                                                                               Strong: Element, Force{SAUT}",
+    "fr": "",
+    "max": 101
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27EECC",
+    "en": "Weak: Magic{FERME}",
+    "fr": "",
+    "max": 11,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27EEE4",
+    "en": "                                                                                                Repel: 100% Physical{SAUT}",
+    "fr": "",
+    "max": 116
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27EFE6",
+    "en": "                                                                                               Repel: 50% Element, Force{SAUT}",
+    "fr": "",
+    "max": 120
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27F0D8",
+    "en": "Weak: Spear, Death, Curse{FERME}",
+    "fr": "",
+    "max": 25,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27F10C",
+    "en": "                                                                            Null: Element, Force{SAUT}",
+    "fr": "",
+    "max": 96
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27F1EC",
+    "en": "                                                                                            Strong: Physical{SAUT}",
+    "fr": "",
+    "max": 108
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27F2F0",
+    "en": "                                                                                          Null: Tech, Rush{SAUT}",
+    "fr": "",
+    "max": 106
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27F3E6",
+    "en": "                                                                                               Resist: Element, Force{SAUT}",
+    "fr": "",
+    "max": 117
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27F4D2",
+    "en": "Weak: Axe, Death, Curse{FERME}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27F502",
+    "en": "                                                                                 Resist: Element, Force{SAUT}",
+    "fr": "",
+    "max": 103
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27F5D2",
+    "en": "Weak: Axe, Arrow, Fist{FERME}",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27F600",
+    "en": "                                                                                  Resist: Gun{SAUT}",
+    "fr": "",
+    "max": 93
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27F6BC",
+    "en": "Weak: Thrown, Death, Curse{FERME}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27F6F2",
+    "en": "                                                                                         Repel: 50% Element, Force{SAUT}",
+    "fr": "",
+    "max": 114
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27F80C",
+    "en": "                                                                            Strong: All attacks{FERME}",
+    "fr": "",
+    "max": 95
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2819B4",
+    "en": "                                                                                                                        Strong: Everything{FERME}",
+    "fr": "",
+    "max": 138
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_283428",
+    "en": "          ab[0202][0401]a[0202][0204]          ,",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_283498",
+    "en": "   ab[0202][0400]   ab[0202][0401]a[0202][0204]       ",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_286B6A",
+    "en": "                                                   Overjoyed. May not{SAUT}",
+    "fr": "",
+    "max": 69
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_286BF6",
+    "en": "follow orders.{FERME}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_286C14",
+    "en": "                              Panicked. Will act{SAUT}",
+    "fr": "",
+    "max": 48
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_286C76",
+    "en": "unpredictably.{FERME}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_286C94",
+    "en": "                              Under the enemy's sway.{SAUT}",
+    "fr": "",
+    "max": 53
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_286D00",
+    "en": "Will attack allies.{FERME}",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_286D28",
+    "en": "                    Frozen. Cannot move;{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_286D7A",
+    "en": "weak to Elec skills.{FERME}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_286DA4",
+    "en": "                      Electrocuted. Cannot{SAUT}",
+    "fr": "",
+    "max": 42
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_286DFA",
+    "en": "move; weak to Ice skills.{FERME}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_286E2E",
+    "en": "                 Unable to move.{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_286E70",
+    "en": "                                                Fast asleep. Cannot move{SAUT}",
+    "fr": "",
+    "max": 72
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_286F02",
+    "en": "or dodge attacks.{FERME}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_286F26",
+    "en": "                     Cannot invoke Personas.{FERME}",
+    "fr": "",
+    "max": 44
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_286F80",
+    "en": "                                        Decreased vision. Hit %{SAUT}",
+    "fr": "",
+    "max": 63
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_287000",
+    "en": "and evade % lowered.{FERME}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28702A",
+    "en": "                   Luck decreases sharply.{FERME}",
+    "fr": "",
+    "max": 42
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_287080",
+    "en": "                                        May flee from battle{SAUT}",
+    "fr": "",
+    "max": 60
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2870FA",
+    "en": "from fear of enemies.{FERME}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_287126",
+    "en": "                     Weight of one's guilt{SAUT}",
+    "fr": "",
+    "max": 42
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28717C",
+    "en": "makes attacks impossible.{FERME}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2871B0",
+    "en": "                Poison slowly reduces{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2871FC",
+    "en": "character's HP.{FERME}",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28721C",
+    "en": "                          Unable to move;{SAUT}",
+    "fr": "",
+    "max": 41
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_287270",
+    "en": "SP slowly decreases.{FERME}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28729A",
+    "en": "                           Cannot move or dodge.{SAUT}",
+    "fr": "",
+    "max": 48
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2872FC",
+    "en": "Physical defense lowers.{FERME}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28732E",
+    "en": "                 Illness drastically{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_287394",
+    "en": "                              Unconscious. Cannot move.{FERME}",
+    "fr": "",
+    "max": 55
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_287404",
+    "en": "                                      Cannot be targeted;{SAUT}",
+    "fr": "",
+    "max": 57
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_287478",
+    "en": "also cannot use skills.{FERME}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2874A8",
+    "en": "                    Under party's control.{SAUT}",
+    "fr": "",
+    "max": 42
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2874FE",
+    "en": "Cannot use skills.{FERME}",
+    "fr": "",
+    "max": 18
+  }
+]
