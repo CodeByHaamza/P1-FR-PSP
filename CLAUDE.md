@@ -81,10 +81,10 @@ comptent mal les caractères.
 
 ### 8. Rallonger les négociations
 
-Dans `trad/negociations/`, chaque fichier de démon n'a que **1 à 2 % de
-marge** en octets, alors que le français rallonge de 10 à 15 %. Un modèle
-produit des répliques plus longues que l'anglais, une par une, et le fichier
-finit par ne plus tenir dans sa place sur le disque. Consigne à lui donner :
+Dans `trad/negociations/`, le fichier d'un démon **ne peut pas grossir d'un
+octet** (le jeu se fige en lui parlant — vu en jeu), alors que le français
+rallonge de 10 à 15 %. Un modèle produit des répliques plus longues que
+l'anglais, une par une, et le total finit positif. Consigne à lui donner :
 « même longueur que l'anglais, ou plus court ; le démon parle sec ». Et garder
 les espaces en tête de ligne : elles sont recopiées automatiquement, mais un
 modèle qui les « nettoie » dans l'anglais fait échouer le canari.

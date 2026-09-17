@@ -2,17 +2,17 @@
   {
     "id": "SLIME.BIN:text:0000",
     "en": "You do know I'm the weakest demon{SAUT}around... But you still want me!?(*RESPONSE*)",
-    "fr": "Je suis le démon le plus faible du{SAUT}coin, tu le sais... Et tu me veux!?(*RESPONSE*)"
+    "fr": "Je suis le démon le plus faible,{SAUT}tu le sais... Et tu me veux!?(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0001",
     "en": "You're just using me to practice{SAUT}negotiating! Cruel, cruel humans!(*RESPONSE*)",
-    "fr": "Tu te sers de moi pour t'entraîner à{SAUT}négocier! Cruels, cruels humains!(*RESPONSE*)"
+    "fr": "Tu te sers de moi pour t'entraîner{SAUT}à négocier! Cruels humains!(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0002",
     "en": " Do ya need me?{SAUT}Do ya really need me?{SAUT}You DO need me!?(*RESPONSE*)",
-    "fr": " T'as besoin de moi?{SAUT}Vraiment besoin de moi?{SAUT}T'as VRAIMENT besoin de moi!?(*RESPONSE*)"
+    "fr": " Besoin de moi?{SAUT}Vraiment besoin?{SAUT}VRAIMENT besoin!?(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0003",
@@ -28,7 +28,7 @@
   {
     "id": "SLIME.BIN:text:0005",
     "en": " I'm the weakest demon, you know...{SAUT}Don't do anything scary...(*RESPONSE*)",
-    "fr": " Je suis le démon le plus faible, tu{SAUT}sais... Fais rien d'effrayant...(*RESPONSE*)",
+    "fr": " Je suis le démon le plus faible...{SAUT}Fais rien d'effrayant...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -50,7 +50,7 @@
   {
     "id": "SLIME.BIN:text:0009",
     "en": "If you sing, I might collapse like a{SAUT}week-old flan! Stop! Stoooop it!(*RESPONSE*)",
-    "fr": "Si tu chantes, je vais m'effondrer comme{SAUT}un flan d'une semaine! Stop! Arrêêête!(*RESPONSE*)"
+    "fr": "Si tu chantes, je fonds comme un{SAUT}vieux flan! Stop! Arrêêête!(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0010",
@@ -75,7 +75,7 @@
   {
     "id": "SLIME.BIN:text:0014",
     "en": "   Do ya need me?{SAUT}Do ya really need me?{SAUT}You DO need me!?(*RESPONSE*)",
-    "fr": "   T'as besoin de moi?{SAUT}Vraiment besoin de moi?{SAUT}T'as VRAIMENT besoin de moi!?(*RESPONSE*)"
+    "fr": "   Besoin de moi?{SAUT}Vraiment besoin?{SAUT}VRAIMENT besoin!?(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0015",
