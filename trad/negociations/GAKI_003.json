@@ -2,141 +2,141 @@
   {
     "id": "GAKI.BIN:text:0205",
     "en": "  You know, that's kinda... Ah, forget it!{SAUT}Whaddaya want me to do?(*OPTION*)",
-    "fr": ""
+    "fr": "Tu sais, c'est un peu... Ah, laisse!{SAUT}Tu veux que je fasse quoi?(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0206",
     "en": "   So... basically... what I'm askin' is...{SAUT}Wh-Whaddaya want from me?(*OPTION*)",
-    "fr": ""
+    "fr": "Donc... en gros... ce que je demande...{SAUT}Qu-Qu'est-ce que tu me veux?(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0207",
     "en": " You're awesome! You're like, my new BFF!{SAUT}I'll grant any wish you've got!(*OPTION*)",
-    "fr": ""
+    "fr": "T'es génial! T'es mon meilleur pote!{SAUT}J'exauce tous tes voeux!(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0208",
     "en": "   ...You're confusin' the hell outta me!{SAUT}Aaaaagh! ＊splat＊(*OPTION*)",
-    "fr": ""
+    "fr": "...Tu m'embrouilles complètement!{SAUT}Aaaaagh! ＊splat＊(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0209",
     "en": "You suck at negotiating!(*OPTION*)",
-    "fr": ""
+    "fr": "T'es nul en négo!(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0210",
     "en": "   ...I'm impressed! What's the other{SAUT}word for that? Ad... Admiralation?(*OPTION*)",
-    "fr": ""
+    "fr": "...Je suis impressionné! C'est quoi{SAUT}l'autre mot? Ad... Admiralation?(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0211",
     "en": "  I want cash! Gimme (*VALUE*) yen!(*OPTION*)",
-    "fr": ""
+    "fr": "Je veux du fric! File (*VALUE*) yens!(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0212",
     "en": "  Alright! Now we're talkin'!(*OPTION*)",
-    "fr": ""
+    "fr": "Bien! Là on se comprend!(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0213",
     "en": "What the? You're broke!? I ain't got{SAUT}time for your games! You got that!?(*OPTION*)",
-    "fr": ""
+    "fr": "Quoi? T'es fauché!? J'ai pas le temps{SAUT}pour tes jeux! Compris!?(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0214",
     "en": "   Oh, so you're a bum...(*OPTION*)",
-    "fr": ""
+    "fr": "Oh, t'es un clochard...(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0215",
     "en": " What was that, lameass!? You're pissin'{SAUT}me off!(*OPTION*)",
-    "fr": ""
+    "fr": "T'as dit quoi, minable!? Tu{SAUT}m'énerves!(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0216",
     "en": "Tch...(*OPTION*)",
-    "fr": ""
+    "fr": "Tss...(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0217",
     "en": " I want a life stone! Gimme one!(*OPTION*)",
-    "fr": ""
+    "fr": "Je veux une pierre de vie! Donne!(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0218",
     "en": "Alright! I like where this is goin'!(*OPTION*)",
-    "fr": ""
+    "fr": "Bien! J'aime la tournure que ça prend!(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0219",
     "en": "   What? You don't have any life stones!?{SAUT}I ain't got time for games, dammit!(*OPTION*)",
-    "fr": ""
+    "fr": "Quoi? T'as pas de pierres de vie!?{SAUT}J'ai pas le temps pour tes jeux!(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0220",
     "en": " Dude... Life stones are a key element{SAUT}of negotiations... You gotta have at{SAUT}least one on hand...(*OPTION*)",
-    "fr": ""
+    "fr": "Mec... Les pierres de vie, c'est la base{SAUT}de la négo... Faut en avoir au{SAUT}moins une sur toi...(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0221",
     "en": "Hey! Nobody makes fun of a preta!{SAUT}Nobody!(*OPTION*)",
-    "fr": ""
+    "fr": "Hé! Personne se moque d'un preta!{SAUT}Personne!(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0222",
     "en": "  Tch!(*OPTION*)",
-    "fr": ""
+    "fr": "Tss!(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0223",
     "en": "   I want a gem! Gimme a [FFF4]!(*OPTION*)",
-    "fr": ""
+    "fr": "Je veux une gemme! File un [FFF4]!(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0224",
     "en": "   Gyahahaha! Gyahahaha!{SAUT}Right on!(*OPTION*)",
-    "fr": ""
+    "fr": "Gyahahaha! Gyahahaha!{SAUT}Voilà!(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0225",
     "en": "You gotta be kiddin' me...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu te fous de moi...(*RESPONSE*)"
   },
   {
     "id": "GAKI.BIN:text:0226",
     "en": " Heh! You're one stingy human!(*OPTION*)",
-    "fr": ""
+    "fr": "Heh! T'es un humain radin!(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0227",
     "en": "  Can't say I'm surprised...(*OPTION*)",
-    "fr": ""
+    "fr": "Ça m'étonne pas...(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0228",
     "en": " Gimme your energy! Just a sip'll do!(*OPTION*)",
-    "fr": ""
+    "fr": "File ton énergie! Une gorgée suffira!(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0229",
     "en": "   It's suckin' time!(*OPTION*)",
-    "fr": ""
+    "fr": "C'est l'heure de sucer!(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0230",
     "en": " I see... Well screw you, human!(*OPTION*)",
-    "fr": ""
+    "fr": "Je vois... Va te faire voir, humain!(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0231",
     "en": "I was only askin' for a little...(*OPTION*)",
-    "fr": ""
+    "fr": "Je demandais juste un petit peu...(*OPTION*)"
   },
   {
     "id": "GAKI.BIN:text:0232",
     "en": "  I was only askin' for a little...(*OPTION*)",
-    "fr": ""
+    "fr": "Je demandais juste un petit peu...(*OPTION*)"
   }
 ]
