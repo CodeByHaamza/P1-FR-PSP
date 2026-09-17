@@ -59,8 +59,8 @@
     "id": "E0.BIN:162:0008",
     "locuteur": "Maki",
     "en": "How often did I try to kill everyone!?{SAUT}How can you be so nice to me!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Que de fois j'ai voulu vous tuer!?{SAUT}Comment pouvez-vous être si gentils!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0009",
@@ -108,8 +108,8 @@
     "id": "E0.BIN:162:0016",
     "locuteur": "Maki",
     "en": "You know it, don't you, (*APELLIDO_HEROE*)!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Tu le sais, pas vrai, (*APELLIDO_HEROE*)!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0017",
@@ -166,8 +166,8 @@
     "id": "E0.BIN:162:0025",
     "locuteur": "Nanjo",
     "en": "We live at the sufferance of others.{SAUT}Each is responsible for each.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Nous vivons de la tolérance des autres.{SAUT}Chacun est responsable de chacun.{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0026",
@@ -180,8 +180,8 @@
     "id": "E0.BIN:162:0027",
     "locuteur": "Nanjo",
     "en": "If you still want to die, even now,{SAUT}go ahead. Put it all behind you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Si vous voulez encore mourir, même là,{SAUT}allez-y. Laissez tout derrière vous.{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0028",
@@ -208,15 +208,15 @@
     "id": "E0.BIN:162:0032",
     "locuteur": "Maki",
     "en": "I'm sorry, everyone... Please...{SAUT}Please let me come along.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Pardon, tout le monde... S'il vous plaît...{SAUT}Laissez-moi venir avec vous.{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0033",
     "locuteur": "Mark",
     "en": "Hehe... Of course you can come!{SAUT}Welcome back, Maki!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Héhé... Bien sûr, tu peux venir!{SAUT}Bon retour, Maki!{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0034",
@@ -264,8 +264,8 @@
     "id": "E0.BIN:162:0040",
     "locuteur": "Maki",
     "en": "Mom... I'm sorry. I've been bad...{SAUT}I remember it all now.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Maman... Pardon. J'ai mal agi...{SAUT}Je me souviens de tout, maintenant.{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0041",
@@ -278,22 +278,22 @@
     "id": "E0.BIN:162:0042",
     "locuteur": "Maki",
     "en": "I forgot you were working for my sake,{SAUT}and held a grudge... I'm so sorry.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "J'ai oublié que tu travaillais pour moi,{SAUT}et je t'en ai voulu... Pardon.{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0043",
     "locuteur": "Setsuko Sonomura",
     "en": "It's okay. It's all right, Maki...{SAUT}I'm sorry, too.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko{PAGE}Sonomura",
+    "fr": "C'est rien. Tout va bien, Maki...{SAUT}Moi aussi, je suis désolée.{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0044",
     "locuteur": "Maki",
     "en": "I'm sorry, Nanjo, and you too,{SAUT}(*APELLIDO_HEROE*)...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Pardon, Nanjo, et toi aussi,{SAUT}(*APELLIDO_HEROE*)...{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0045",
@@ -313,8 +313,8 @@
     "id": "E0.BIN:162:0047",
     "locuteur": "Mark",
     "en": "Nanjo? Dude... are you blushing!?{SAUT}Haha, I get it!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Nanjo? Mec... tu rougis!?{SAUT}Haha, j'ai compris!{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0048",
@@ -348,8 +348,8 @@
     "id": "E0.BIN:162:0054",
     "locuteur": "Maki",
     "en": "Even if I'm a dream, or an illusion,{SAUT}or a shadow, I'm still me...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Même si je suis un rêve, une illusion{SAUT}ou une ombre, je reste moi...{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0055",
@@ -397,15 +397,15 @@
     "id": "E0.BIN:162:0061",
     "locuteur": "Elly",
     "en": "I'm glad everything worked out. But if{SAUT}it had happened to me, (*APELLIDO_HEROE*)...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Contente que tout s'arrange. Mais si ça{SAUT}m'était arrivé à moi, (*APELLIDO_HEROE*)...{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0062",
     "locuteur": "Elly",
     "en": "No. I'm sorry for acting so strange.{SAUT}{PAUSE}[5800]I'm sure you'd come to my aid, (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Non. Pardon d'avoir été si étrange.{SAUT}{PAUSE}[5800]Je savais que tu viendrais m'aider, (*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0063",
@@ -495,8 +495,8 @@
     "id": "E0.BIN:177:0006",
     "locuteur": "Mysterious butterfly",
     "en": "Would you like to go elsewhere?{SAUT}Then rejoin your comrades.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Papillon mysterieux",
+    "fr": "Veux-tu aller ailleurs?{SAUT}Alors rejoins tes camarades.{ATTENTE}"
   },
   {
     "id": "E0.BIN:177:0007",
@@ -537,8 +537,8 @@
     "id": "E0.BIN:177:0012",
     "locuteur": "Maki",
     "en": "Then we'll be off.{SAUT}Let's go, (*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Alors on y va.{SAUT}Allons-y, (*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E0.BIN:177:0013",
@@ -558,8 +558,8 @@
     "id": "E0.BIN:177:0015",
     "locuteur": "Mark",
     "en": "Uh--Uh, nothing! Right, (*APELLIDO_HEROE*)?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Euh--Euh, rien! Pas vrai, (*APELLIDO_HEROE*)?{ATTENTE}"
   },
   {
     "id": "E0.BIN:177:0016",
@@ -572,8 +572,8 @@
     "id": "E0.BIN:177:0017",
     "locuteur": "Maki",
     "en": "Sounds dirty. But never mind that,{SAUT}let's go, (*APELLIDO_HEROE*)! C'mon!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Ça sonne louche. Mais peu importe,{SAUT}allons-y, (*APELLIDO_HEROE*)! Viens!{ATTENTE}"
   },
   {
     "id": "E0.BIN:177:0018",
@@ -636,15 +636,15 @@
     "id": "E0.BIN:177:0026",
     "locuteur": "Elly",
     "en": "Where're you going? I'll go wherever{SAUT}you go, (*APELLIDO_HEROE*), but...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Où vas-tu? Je te suis partout,{SAUT}(*APELLIDO_HEROE*), mais...{ATTENTE}"
   },
   {
     "id": "E0.BIN:177:0027",
     "locuteur": "Elly",
     "en": "Where are you off to? I'll follow you{SAUT}wherever you go, (*APELLIDO_HEROE*), but...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Où vas-tu? Je te suivrai partout,{SAUT}(*APELLIDO_HEROE*), mais...{ATTENTE}"
   },
   {
     "id": "E0.BIN:177:0028",

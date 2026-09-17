@@ -17,8 +17,8 @@
     "id": "E2.BIN:080:0002",
     "locuteur": "Elly",
     "en": "How marvelous... I'm getting so excited!{SAUT}Oh my, please excuse me...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "C'est merveilleux... Je suis si excitée!{SAUT}Oh, pardonnez-moi...{ATTENTE}"
   },
   {
     "id": "E2.BIN:080:0003",
@@ -66,8 +66,8 @@
     "id": "E2.BIN:080:0009",
     "locuteur": "Nurse",
     "en": "Nothing in this hospital is where I{SAUT}remember it!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmiere",
+    "fr": "Rien dans cet hôpital n'est à sa{SAUT}place!{ATTENTE}"
   },
   {
     "id": "E2.BIN:081:0000",
@@ -94,8 +94,8 @@
     "id": "E2.BIN:081:0003",
     "locuteur": "Yukino",
     "en": "It's like even the air's changed...{SAUT}I'm finding it hard to breathe.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "C'est comme si l'air avait changé...{SAUT}J'ai du mal à respirer.{ATTENTE}"
   },
   {
     "id": "E2.BIN:081:0004",
@@ -164,8 +164,8 @@
     "id": "E2.BIN:082:0002",
     "locuteur": "Elly",
     "en": "We need to go to the Alaya Shrine.{SAUT}Please don't forget!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "On doit aller à l'Autel Alaya.{SAUT}Ne l'oublie pas, s'il te plaît!{ATTENTE}"
   },
   {
     "id": "E2.BIN:082:0003",

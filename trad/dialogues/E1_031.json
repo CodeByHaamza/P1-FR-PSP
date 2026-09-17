@@ -45,8 +45,8 @@
     "id": "E1.BIN:209:0006",
     "locuteur": "Queen",
     "en": "I am the Persona known as Night Queen,{SAUT}who once dwelled within Tomomi.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reine",
+    "fr": "Je suis la Persona nommée Reine de la{SAUT}Nuit, qui vivait jadis en Tomomi.{ATTENTE}"
   },
   {
     "id": "E1.BIN:209:0007",
@@ -59,8 +59,8 @@
     "id": "E1.BIN:209:0008",
     "locuteur": "Night Queen",
     "en": "And once the Eternal Night arrives,{SAUT}I shall be complete.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reine{PAGE}Nuit",
+    "fr": "Et quand la Nuit Éternelle viendra,{SAUT}je serai enfin complète.{ATTENTE}"
   },
   {
     "id": "E1.BIN:209:0009",
@@ -129,8 +129,8 @@
     "id": "E1.BIN:210:0004",
     "locuteur": "Ayase",
     "en": "It's... It's all a bad joke, right,{SAUT}Nurse Natsumi!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "C'est... C'est une mauvaise blague, hein,{SAUT}Mlle Natsumi!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:210:0005",
@@ -178,8 +178,8 @@
     "id": "E1.BIN:210:0011",
     "locuteur": "Ayase",
     "en": "I did the best I could... We all did,{SAUT}didn't we!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "J'ai fait de mon mieux... On a tous{SAUT}fait de notre mieux, non!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:210:0012",

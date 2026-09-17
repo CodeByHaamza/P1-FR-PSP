@@ -111,8 +111,8 @@
     "id": "E2.BIN:215:0002",
     "locuteur": "Nanjo",
     "en": "Oh, I didn't mean anything in particular.{SAUT}It just crossed my mind.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Nanjo",
+    "fr": "Oh, je ne pensais à rien de précis.{SAUT}Ça m'a juste traversé l'esprit.{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -127,8 +127,8 @@
     "id": "E2.BIN:215:0004",
     "locuteur": "Elly",
     "en": "I do want to drive out the demons, but...{SAUT}I think I'll regret it, just a bit.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Je veux bien chasser les démons, mais...{SAUT}je crois que je le regretterai un peu.{ATTENTE}"
   },
   {
     "id": "E2.BIN:215:0005",
@@ -194,22 +194,22 @@
     "id": "E2.BIN:216:0009",
     "locuteur": "Doctor",
     "en": "This used to be a wonderful little town,{SAUT}but now it's been devastated.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Docteur",
+    "fr": "C'était une charmante petite ville,{SAUT}et la voilà dévastée.{ATTENTE}"
   },
   {
     "id": "E2.BIN:216:0010",
     "locuteur": "Doctor",
     "en": "But enough about that...{SAUT}How are you feeling?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Docteur",
+    "fr": "Bon, assez parlé de ça...{SAUT}Comment te sens-tu?{ATTENTE}"
   },
   {
     "id": "E2.BIN:216:0011",
     "locuteur": "Nurse",
     "en": "This town's going entirely to pieces.{SAUT}I'm not holding out much hope.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmiere",
+    "fr": "Cette ville part complètement en morceaux.{SAUT}Je n'ai plus beaucoup d'espoir.{ATTENTE}"
   },
   {
     "id": "E2.BIN:216:0012",
@@ -222,8 +222,8 @@
     "id": "E2.BIN:217:0000",
     "locuteur": "Maki",
     "en": "Huh? Aren't we going to the shrine,{SAUT}(*APELLIDO_HEROE*)?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Hein? On va pas à l'autel,{SAUT}(*APELLIDO_HEROE*)?{ATTENTE}"
   },
   {
     "id": "E2.BIN:217:0001",
@@ -271,8 +271,8 @@
     "id": "E2.BIN:217:0007",
     "locuteur": "Mark",
     "en": "What did that monster say? \"Yog Sothuh\"?{SAUT}What was that about?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Qu'a dit ce monstre? \"Yog Sothuh\"?{SAUT}C'était quoi, ce délire?{ATTENTE}"
   },
   {
     "id": "E2.BIN:217:0008",
@@ -313,22 +313,22 @@
     "id": "E2.BIN:217:0013",
     "locuteur": "Brown",
     "en": "We're gonna fight that demon?{SAUT}Seriously...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "On va combattre ce démon?{SAUT}Sérieux...?{ATTENTE}"
   },
   {
     "id": "E2.BIN:217:0014",
     "locuteur": "Brown",
     "en": "Once we have the Expel Mirror, we can...{SAUT}fight that demon... yay.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Avec le Miroir Expel, on pourra...{SAUT}combattre ce démon... youpi.{ATTENTE}"
   },
   {
     "id": "E2.BIN:217:0015",
     "locuteur": "Ayase",
     "en": "Oh? You might not look like it, but{SAUT}you're pretty studious, (*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Oh? Ça ne se voit pas, mais tu es{SAUT}plutôt studieux, (*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E2.BIN:217:0016",
@@ -348,8 +348,8 @@
     "id": "E2.BIN:217:0018",
     "locuteur": "Reiji",
     "en": "You're taking this all a lot better than{SAUT}I thought, (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Tu prends ça beaucoup mieux que je{SAUT}ne le pensais, (*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E2.BIN:217:0019",
@@ -362,8 +362,8 @@
     "id": "E2.BIN:217:0020",
     "locuteur": "Reiji",
     "en": "Looks like there's only one thing to do.{SAUT}Let's find this Expel Mirror.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Il ne reste plus qu'une chose à faire.{SAUT}Trouvons ce Miroir Expel.{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0000",

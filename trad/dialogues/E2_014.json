@@ -428,8 +428,8 @@
     "id": "E2.BIN:198:0000",
     "locuteur": "Maki",
     "en": "I'm really nervous about this,{SAUT}(*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Ça me rend vraiment nerveuse,{SAUT}(*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0001",
@@ -498,8 +498,8 @@
     "id": "E2.BIN:198:0010",
     "locuteur": "Mark",
     "en": "Or maybe she likes someone else now...{SAUT}Heheh, like that'd happen.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ou alors elle en aime un autre...{SAUT}Héhé, comme si ça pouvait arriver.{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0011",
@@ -533,8 +533,8 @@
     "id": "E2.BIN:198:0015",
     "locuteur": "Brown",
     "en": "Hey, so who do you think looks better?{SAUT}That guy over there or me?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Hé, qui est le plus beau, à ton avis?{SAUT}Ce type là-bas ou moi?{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0016",
@@ -568,8 +568,8 @@
     "id": "E2.BIN:198:0020",
     "locuteur": "Ayase",
     "en": "I wonder if the Queen has an afro too...{SAUT}Now I'm really curious.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "La Reine a une coupe afro aussi...?{SAUT}Là, je suis vraiment curieuse.{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0021",
@@ -617,8 +617,8 @@
     "id": "E2.BIN:198:0027",
     "locuteur": "Young man",
     "en": "This is the Harem Queen's painting.{SAUT}Isn't it awesome?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Jeune homme",
+    "fr": "C'est le tableau de la Reine du Harem.{SAUT}Il est génial, non?{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0028",
@@ -631,8 +631,8 @@
     "id": "E2.BIN:198:0029",
     "locuteur": "Young man",
     "en": "She's gotten more moles lately...{SAUT}Oh, but she's still beautiful!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Jeune homme",
+    "fr": "Ses grains se multiplient...{SAUT}Oh, mais elle reste belle!{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0030",

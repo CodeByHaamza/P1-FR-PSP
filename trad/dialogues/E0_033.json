@@ -52,8 +52,8 @@
     "id": "E0.BIN:119:0007",
     "locuteur": "Brown",
     "en": "No wonder she's a magical girl.{SAUT}That was a close call...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Normal, c'est une fille magique.{SAUT}On l'a échappé belle...{ATTENTE}"
   },
   {
     "id": "E0.BIN:119:0008",
@@ -155,8 +155,8 @@
     "id": "E0.BIN:128:0000",
     "locuteur": "Mark",
     "en": "Alright, (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "D'accord, (*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0001",
@@ -169,8 +169,8 @@
     "id": "E0.BIN:128:0002",
     "locuteur": "Nanjo",
     "en": "Wait a second, (*APELLIDO_HEROE*)...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Attends voir, (*APELLIDO_HEROE*)...{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0003",
@@ -211,15 +211,15 @@
     "id": "E0.BIN:128:0008",
     "locuteur": "Mark",
     "en": "Heh! You heard him, (*APELLIDO_HEROE*).{SAUT}Go right ahead.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Heh! T'as entendu, (*APELLIDO_HEROE*).{SAUT}Vas-y, fonce.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0009",
     "locuteur": "Maki",
     "en": "Kandori and Aki are up there...{SAUT}We're getting close, (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Kandori et Aki sont là-haut...{SAUT}On approche, (*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0010",
@@ -281,15 +281,15 @@
     "id": "E0.BIN:128:0018",
     "locuteur": "Elly",
     "en": "I'm very uneasy about this... Be careful,{SAUT}(*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Tout ça m'inquiète... Sois prudent,{SAUT}(*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0019",
     "locuteur": "Elly",
     "en": "I thought as much... But I'm glad nothing{SAUT}happened to you, (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Je m'en doutais... Mais je suis contente{SAUT}qu'il ne te soit rien arrivé, (*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0020",
@@ -316,8 +316,8 @@
     "id": "E0.BIN:128:0023",
     "locuteur": "Ayase",
     "en": "Hurry it up, (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Dépêche-toi, (*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0024",
@@ -384,8 +384,8 @@
     "id": "E0.BIN:128:0033",
     "locuteur": "Mark",
     "en": "That scumbag! Wait, if you knew,{SAUT}why didn't you tell us!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ce salaud! Attends, si tu savais,{SAUT}pourquoi tu nous as rien dit!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0034",
@@ -405,8 +405,8 @@
     "id": "E0.BIN:128:0036",
     "locuteur": "Maki",
     "en": "If he just needed the compact,{SAUT}why would he let us in?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "S'il ne voulait que le poudrier,{SAUT}pourquoi nous laisser entrer?{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0037",
@@ -426,8 +426,8 @@
     "id": "E0.BIN:128:0039",
     "locuteur": "Mark",
     "en": "Fine, then! We'll play along! Let's go,{SAUT}(*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "D'accord! On joue le jeu! Allons-y,{SAUT}(*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0040",
@@ -487,15 +487,15 @@
     "id": "E0.BIN:128:0048",
     "locuteur": "Elly",
     "en": "Let's be on our way to the haunted{SAUT}mansion, (*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Mettons-nous en route vers le manoir{SAUT}hanté, (*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0049",
     "locuteur": "Brown",
     "en": "The haunted mansion's south of here,{SAUT}right?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Le manoir hanté est au sud d'ici,{SAUT}c'est ça?{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0050",
@@ -508,7 +508,7 @@
     "id": "E0.BIN:128:0051",
     "locuteur": "Reiji",
     "en": "You think this is the time for a chat!?{SAUT}We need to go and nail that bastard!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "C'est le moment de bavarder!?{SAUT}Faut aller coincer ce salaud!{ATTENTE}"
   }
 ]

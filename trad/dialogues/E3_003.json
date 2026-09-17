@@ -15,8 +15,8 @@
     "id": "E3.BIN:010:0002",
     "locuteur": "Ayase",
     "en": "Hey! What did you do, (*APELLIDO_HEROE*)!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Hé! T'as fait quoi, (*APELLIDO_HEROE*)!?{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0003",
@@ -112,8 +112,8 @@
     "id": "E3.BIN:010:0017",
     "locuteur": "Brown",
     "en": "It feels like if I keep staring at it,{SAUT}I'll get sucked inside.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Brown",
+    "fr": "On dirait que si je fixe ça trop{SAUT}longtemps, ça va m'aspirer dedans.{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -127,8 +127,8 @@
     "id": "E3.BIN:010:0020",
     "locuteur": "Brown",
     "en": "Sorry I can't go with you guys, but I{SAUT}gotta keep an eye on Toro.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Brown",
+    "fr": "Désolé, je peux pas venir avec vous,{SAUT}je dois garder un oeil sur Toro.{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -189,8 +189,8 @@
     "id": "E3.BIN:010:0030",
     "locuteur": "Elly",
     "en": "I came to give you this. It's a{SAUT}(*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Full Moon Tablet(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Je viens te donner ça. C'est une{SAUT}(*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Tablette de Pleine Lune(*TEXTBOX_PARAM,0000*).{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0031",
@@ -329,8 +329,8 @@
     "id": "E3.BIN:011:0018",
     "locuteur": "Female student",
     "en": "Oww... I fell and landed on my butt.{SAUT}Why's the hall so slippery!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Etudiante",
+    "fr": "Aïe... Je suis tombée sur les fesses.{SAUT}Pourquoi le couloir glisse autant!?{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0019",
@@ -364,8 +364,8 @@
     "id": "E3.BIN:011:0023",
     "locuteur": "Female student",
     "en": "Apparently their stock is, like,{SAUT}completely different now.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Etudiante",
+    "fr": "Paraît que leur stock est, genre,{SAUT}complètement différent maintenant.{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0024",

@@ -24,8 +24,8 @@
     "id": "E1.BIN:192:0003",
     "locuteur": "Masked girl",
     "en": "You have each other... Ms. Saeko... your{SAUT}family... {PAUSE}[1E00]People you can rely on.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Masquee",
+    "fr": "Vous êtes ensemble... Mme Saeko... votre{SAUT}famille... {PAUSE}[1E00]Des gens sur qui compter.{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0004",
@@ -123,8 +123,8 @@
     "id": "E1.BIN:192:0020",
     "locuteur": "Brown",
     "en": "Wow, Maki has some weird fashion sense.{SAUT}You see that mask of hers?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Ouah, Maki a un style vraiment étrange.{SAUT}T'as vu son masque?{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0021",
@@ -137,8 +137,8 @@
     "id": "E1.BIN:192:0022",
     "locuteur": "Brown",
     "en": "Her style, her presentation...{SAUT}Simply amazing.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Son style, sa mise en scène...{SAUT}Tout simplement fascinant.{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0023",
@@ -151,8 +151,8 @@
     "id": "E1.BIN:192:0024",
     "locuteur": "Elly",
     "en": "But Maki can't possibly be here.{SAUT}A demon, perhaps...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Mais Maki ne peut pas être ici.{SAUT}Un démon, peut-être...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0025",

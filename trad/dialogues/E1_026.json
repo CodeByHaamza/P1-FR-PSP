@@ -165,8 +165,8 @@
     "id": "E1.BIN:145:0023",
     "locuteur": "Ms. Saeko",
     "en": "You've all become so strong in such a{SAUT}short time.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme{PAGE}Saeko",
+    "fr": "Vous êtes tous devenus si forts en si{SAUT}peu de temps.{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0024",
@@ -277,8 +277,8 @@
     "id": "E1.BIN:145:0039",
     "locuteur": "Brown",
     "en": "You guys'll do just fine without me.{SAUT}...I'm joking!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Vous vous en sortirez très bien sans moi.{SAUT}...Je plaisante!{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0040",
@@ -305,8 +305,8 @@
     "id": "E1.BIN:147:0002",
     "locuteur": "Yukino",
     "en": "You okay? You must've been so cold...{SAUT}Are you hurt?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Ça va? Vous deviez avoir si froid...{SAUT}Vous êtes blessée?{ATTENTE}"
   },
   {
     "id": "E1.BIN:147:0003",

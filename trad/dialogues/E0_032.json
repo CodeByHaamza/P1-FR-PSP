@@ -607,16 +607,16 @@
     "id": "E0.BIN:118:0089",
     "locuteur": "Maki",
     "en": "Can I see that compact, (*APELLIDO_HEROE*)?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Maki",
+    "fr": "Fais voir ce poudrier, (*APELLIDO_HEROE*)?{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:118:0090",
     "locuteur": "Maki",
     "en": "Wow... It's only half of the whole thing,{SAUT}but it's the same as mine.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Maki",
+    "fr": "Ouah... Ce n'est que la moitié du tout,{SAUT}mais c'est pareil que le mien.{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -685,8 +685,8 @@
     "id": "E0.BIN:118:0099",
     "locuteur": "Ayase",
     "en": "Aww, but I wanted so much stuff! You'll{SAUT}buy them for me, right, (*APELLIDO_HEROE*)?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Ayase",
+    "fr": "Oh, mais je voulais tant de trucs! Tu{SAUT}me les achèteras, hein, (*APELLIDO_HEROE*)?{ATTENTE}",
     "_occurrences": 2
   },
   {

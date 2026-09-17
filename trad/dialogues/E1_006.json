@@ -272,8 +272,8 @@
     "id": "E1.BIN:033:0015",
     "locuteur": "Nanjo",
     "en": "It could be a trap of the Snow Queen's.{SAUT}I advise keeping your guard up.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Ce pourrait être un piège de la Reine{SAUT}des Neiges. Restez sur vos gardes.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0016",
@@ -335,8 +335,8 @@
     "id": "E1.BIN:033:0024",
     "locuteur": "Ayase",
     "en": "Ugh... like, what's she dreaming about?{SAUT}It makes me wanna pinch her nose.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Beurk... elle rêve de quoi, là?{SAUT}Ça me donne envie de lui pincer le nez.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0025",
@@ -356,8 +356,8 @@
     "id": "E1.BIN:033:0027",
     "locuteur": "Yukino",
     "en": "I dunno what to say about Nurse Natsumi.{SAUT}She might as well still be sleeping.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Je sais pas quoi dire sur Mlle Natsumi.{SAUT}Autant la laisser dormir.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0028",

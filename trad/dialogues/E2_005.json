@@ -358,8 +358,8 @@
     "id": "E2.BIN:056:0003",
     "locuteur": "Yukino",
     "en": "I think this is where Yuko Himeno lives.{SAUT}You know, Maki's friend.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Je crois que Yuko Himeno habite ici.{SAUT}Tu sais, l'amie de Maki.{ATTENTE}"
   },
   {
     "id": "E2.BIN:056:0004",
@@ -414,8 +414,8 @@
     "id": "E2.BIN:065:0000",
     "locuteur": "Nanjo",
     "en": "Does that old man really believe such,{SAUT}or is he toying with us...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Ce vieil homme y croit-il vraiment,{SAUT}ou se joue-t-il de nous...?{ATTENTE}"
   },
   {
     "id": "E2.BIN:065:0001",
@@ -498,8 +498,8 @@
     "id": "E2.BIN:066:0002",
     "locuteur": "Nurse",
     "en": "You visited her last week too didn't you?{SAUT}And the week before...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmiere",
+    "fr": "Tu es venu la semaine dernière aussi, non?{SAUT}Et celle d'avant...{ATTENTE}"
   },
   {
     "id": "E2.BIN:066:0003",

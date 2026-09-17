@@ -276,8 +276,8 @@
     "id": "E3.BIN:066:0012",
     "locuteur": "Mariko",
     "en": "Huh? They don't sell film here... Ugh!{SAUT}Of all the rotten luck!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mariko",
+    "fr": "Hein? Ils vendent pas de pellicule... Pff!{SAUT}Quelle poisse!{ATTENTE}"
   },
   {
     "id": "E3.BIN:067:0004",
@@ -290,8 +290,8 @@
     "id": "E3.BIN:067:0005",
     "locuteur": "Brown",
     "en": "Though I look good in anything, of course.{SAUT}Mwahahahaha!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Quoique tout me va bien, bien sûr.{SAUT}Mwahahahaha!{ATTENTE}"
   },
   {
     "id": "E3.BIN:068:0000",
@@ -311,8 +311,8 @@
     "id": "E3.BIN:068:0002",
     "locuteur": "Nanjo",
     "en": "That Snow Queen... I'm sure it's sneering{SAUT}as it watches us gather (*TEXTBOX_PARAM,0500*)mirror shards(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Cette Reine des Neiges... Elle doit rire{SAUT}en nous voyant chercher ses (*TEXTBOX_PARAM,0500*)fragments(*TEXTBOX_PARAM,0000*).{ATTENTE}"
   },
   {
     "id": "E3.BIN:068:0003",
@@ -353,8 +353,8 @@
     "id": "E3.BIN:069:0003",
     "locuteur": "Kumi",
     "en": "U-Um... it's just... the \"Snow Queen,\"{SAUT}see... I was pick--{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "E-Euh... c'est juste... la \"Reine des{SAUT}Neiges\", vous voyez... on m'a choi--{ATTENTE}"
   },
   {
     "id": "E3.BIN:069:0004",
@@ -388,8 +388,8 @@
     "id": "E3.BIN:069:0008",
     "locuteur": "Kumi's father",
     "en": "And I quit playing golf on weekends so I{SAUT}could make more money.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Pere de Kumi",
+    "fr": "Et j'ai arrêté le golf le week-end pour{SAUT}gagner plus d'argent.{ATTENTE}"
   },
   {
     "id": "E3.BIN:069:0009",
@@ -402,8 +402,8 @@
     "id": "E3.BIN:069:0010",
     "locuteur": "Kumi's father",
     "en": "I'm providing for you and your mother,{SAUT}aren't I?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Pere de Kumi",
+    "fr": "Je subviens à tes besoins et à ceux{SAUT}de ta mère, non?{ATTENTE}"
   },
   {
     "id": "E3.BIN:069:0011",
@@ -472,8 +472,8 @@
     "id": "E3.BIN:070:0000",
     "locuteur": "Kumi",
     "en": "...Why is everyone cross at me?{SAUT}What did I do?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "...Pourquoi tout le monde m'en veut?{SAUT}Qu'est-ce que j'ai fait?{ATTENTE}"
   },
   {
     "id": "E3.BIN:070:0001",
@@ -507,8 +507,8 @@
     "id": "E3.BIN:070:0005",
     "locuteur": "Kumi",
     "en": "If only there was a gentle world...{SAUT}filled with gentle people...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "S'il existait un monde doux...{SAUT}rempli de gens doux...{ATTENTE}"
   },
   {
     "id": "E3.BIN:070:0006",
@@ -535,8 +535,8 @@
     "id": "E3.BIN:070:0009",
     "locuteur": "Kumi",
     "en": "It's the only free world I have left,{SAUT}where no one complains about me...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "C'est le seul monde libre qui me reste,{SAUT}où personne ne se plaint de moi...{ATTENTE}"
   },
   {
     "id": "E3.BIN:070:0010",
@@ -625,8 +625,8 @@
     "id": "E3.BIN:072:0003",
     "locuteur": "Nanjo",
     "en": "Even if we pick up high-quality equipment,{SAUT}it's useless unless we put it on.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Même le meilleur équipement ne sert{SAUT}à rien tant qu'on ne le porte pas.{ATTENTE}"
   },
   {
     "id": "E3.BIN:072:0004",

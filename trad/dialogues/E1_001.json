@@ -144,8 +144,8 @@
     "id": "E1.BIN:001:0020",
     "locuteur": "Ms. Saeko",
     "en": "Beautiful, isn't it? A peaceful,{SAUT}perfectly still landscape.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme{PAGE}Saeko",
+    "fr": "C'est beau, non? Un paysage calme,{SAUT}parfaitement immobile.{ATTENTE}"
   },
   {
     "id": "E1.BIN:001:0021",
@@ -480,15 +480,15 @@
     "id": "E1.BIN:001:0068",
     "locuteur": "Ayase",
     "en": "This is all your fault, (*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Tout est de ta faute, (*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E1.BIN:001:0069",
     "locuteur": "Ayase",
     "en": "If you never found that stupid mask,{SAUT}this wouldn't have happened!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Si t'avais pas pris ce fichu masque,{SAUT}rien de tout ça ne serait arrivé!{ATTENTE}"
   },
   {
     "id": "E1.BIN:001:0070",

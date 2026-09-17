@@ -411,8 +411,8 @@
     "id": "E3.BIN:003:0007",
     "locuteur": "Clerk",
     "en": "Mister need this. I sell at low price,{SAUT}you buy!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Vendeur",
+    "fr": "Monsieur besoin ça. Moi vendre pas cher,{SAUT}toi acheter!{ATTENTE}",
     "_occurrences": 4
   },
   {
@@ -578,8 +578,8 @@
     "id": "E3.BIN:004:0009",
     "locuteur": "Yukino",
     "en": "All these clothes have some practical use.{SAUT}They're more like armor than clothes.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Yukino",
+    "fr": "Tous ces vêtements ont une utilité.{SAUT}Plus des armures que des habits.{ATTENTE}",
     "_occurrences": 2
   },
   {

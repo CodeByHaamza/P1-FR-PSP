@@ -108,8 +108,8 @@
     "id": "E2.BIN:019:0003",
     "locuteur": "Gambling-addicted student",
     "en": "Gambling is a man's hobby. And bunny-{SAUT}girls are a must for every casino!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Accro au jeu",
+    "fr": "Le jeu est un loisir d'homme. Et les{SAUT}bunny-girls, un must dans tout casino!{ATTENTE}"
   },
   {
     "id": "E2.BIN:019:0004",
@@ -122,8 +122,8 @@
     "id": "E2.BIN:020:0000",
     "locuteur": "Nanjo",
     "en": "Dreams have no meaning. They're dreams,{SAUT}nothing more.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Un rêve n'a pas de sens. C'est un rêve,{SAUT}rien de plus.{ATTENTE}"
   },
   {
     "id": "E2.BIN:020:0001",
@@ -178,8 +178,8 @@
     "id": "E2.BIN:021:0000",
     "locuteur": "Nanjo",
     "en": "Snooping around is all well and good,{SAUT}but let's not forget the hospital.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Fouiner, c'est bien joli, mais{SAUT}n'oublions pas l'hôpital.{ATTENTE}"
   },
   {
     "id": "E2.BIN:021:0001",
@@ -263,8 +263,8 @@
     "id": "E2.BIN:022:0009",
     "locuteur": "Drama club member",
     "en": "Just kidding! Cool line though, huh?{SAUT}It's part of the script I wrote.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Comedien",
+    "fr": "Je rigole! Classe, la réplique, hein?{SAUT}Elle vient de la pièce que j'ai écrite.{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -348,8 +348,8 @@
     "id": "E2.BIN:023:0011",
     "locuteur": "Male student",
     "en": "Are you studying too much, man?{SAUT}Haha, like that'd happen...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Lyceen",
+    "fr": "Tu bosses trop, mon vieux?{SAUT}Haha, comme si ça risquait d'arriver...!{ATTENTE}"
   },
   {
     "id": "E2.BIN:024:0000",

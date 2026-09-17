@@ -80,8 +80,8 @@
     "id": "E3.BIN:036:0016",
     "locuteur": "Nanjo",
     "en": "\"Set your mind at ease that even the fire{SAUT}may seem cool and refreshing.\"{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "\"Apaisez votre esprit, et même le feu{SAUT}vous semblera frais et rafraîchissant.\"{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0017",
@@ -122,8 +122,8 @@
     "id": "E3.BIN:036:0023",
     "locuteur": "Brown",
     "en": "I guess I'll give it to you, (*APELLIDO_HEROE*).{SAUT}Just kidding!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Bon, je te le donne, (*APELLIDO_HEROE*).{SAUT}Je plaisante!{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0024",
@@ -178,8 +178,8 @@
     "id": "E3.BIN:036:0031",
     "locuteur": "Brown",
     "en": "In fact, I'll offer it to you.{SAUT}No, no, seriously.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "En fait, je te l'offre.{SAUT}Non, non, sérieusement.{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0032",
@@ -269,8 +269,8 @@
     "id": "E3.BIN:037:0005",
     "locuteur": "Elly",
     "en": "The same scenery, wherever we go...{SAUT}Are we really moving forward?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Le même décor, où qu'on aille...{SAUT}On avance vraiment?{ATTENTE}"
   },
   {
     "id": "E3.BIN:037:0013",
@@ -321,8 +321,8 @@
     "id": "E3.BIN:037:0021",
     "locuteur": "Mariko",
     "en": "\"A Mysteriously Frozen School\"!{SAUT}\"The Revival of Demons\"!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mariko",
+    "fr": "\"Un lycée mystérieusement gelé\"!{SAUT}\"Le retour des démons\"!{ATTENTE}"
   },
   {
     "id": "E3.BIN:037:0022",

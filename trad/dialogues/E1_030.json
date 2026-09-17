@@ -165,8 +165,8 @@
     "id": "E1.BIN:203:0000",
     "locuteur": "Night Queen's voice",
     "en": "Urgh... I failed... against these youths?{SAUT}How distressing...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de la{PAGE}Reine Nuit",
+    "fr": "Urgh... J'ai échoué... face à ces jeunes?{SAUT}Quelle déconvenue...{ATTENTE}"
   },
   {
     "id": "E1.BIN:203:0001",
@@ -368,8 +368,8 @@
     "id": "E1.BIN:205:0023",
     "locuteur": "Ms. Saeko",
     "en": "Maybe now he won't be so strict...{SAUT}for a while, at least.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme{PAGE}Saeko",
+    "fr": "Il sera peut-être moins sévère...{SAUT}pour un temps, du moins.{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0024",
@@ -403,8 +403,8 @@
     "id": "E1.BIN:205:0028",
     "locuteur": "Brown",
     "en": "C'mon, what's there to worry about?{SAUT}I'll be with them!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Allez, y a pas de quoi s'inquiéter!{SAUT}Je serai avec eux!{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0029",
@@ -466,8 +466,8 @@
     "id": "E1.BIN:205:0038",
     "locuteur": "Nanjo",
     "en": "Let's go, (*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Allons-y, (*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0039",
@@ -522,8 +522,8 @@
     "id": "E1.BIN:205:0046",
     "locuteur": "Ms. Saeko",
     "en": "Thanks for everything, (*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme{PAGE}Saeko",
+    "fr": "Merci pour tout, (*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0047",
@@ -564,8 +564,8 @@
     "id": "E1.BIN:205:0052",
     "locuteur": "Ms. Saeko",
     "en": "Well, you're still young. No need to rush.{SAUT}Anyway, look after them for me, okay?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme{PAGE}Saeko",
+    "fr": "Bon, tu es jeune. Rien ne presse.{SAUT}Enfin, veille sur eux pour moi, d'accord?{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0053",

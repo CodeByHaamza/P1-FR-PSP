@@ -235,8 +235,8 @@
     "id": "E1.BIN:009:0033",
     "locuteur": "Yukino",
     "en": "Right, (*APELLIDO_HEROE*)?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Yukino",
+    "fr": "Pas vrai, (*APELLIDO_HEROE*)?{ATTENTE}",
     "_occurrences": 2
   },
   {

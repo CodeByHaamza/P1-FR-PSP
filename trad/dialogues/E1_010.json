@@ -150,8 +150,8 @@
     "id": "E1.BIN:055:0021",
     "locuteur": "Hypnos",
     "en": "Indeed, Kumi. You've done nothing wrong!{SAUT}It's clear who's at fault...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Hypnos",
+    "fr": "Certes, Kumi. Tu n'as rien fait de mal!{SAUT}On sait bien qui est fautif...{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0022",
@@ -241,8 +241,8 @@
     "id": "E1.BIN:055:0034",
     "locuteur": "Kumi",
     "en": "For the first time in my life, I'm free,{SAUT}here in the Dream World!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "Pour la première fois de ma vie, je suis{SAUT}libre, ici dans le Monde des Rêves!{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0035",
@@ -276,8 +276,8 @@
     "id": "E1.BIN:055:0039",
     "locuteur": "Yukino",
     "en": "Yyyeah... I'm gonna call that bluff.{SAUT}This is the Dream World, right?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Ouaais... Je relève ce bluff.{SAUT}C'est le Monde des Rêves, non?{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0040",
@@ -367,8 +367,8 @@
     "id": "E1.BIN:055:0052",
     "locuteur": "Brown",
     "en": "I'm smart and I still got problems,{SAUT}so I kinda get how Kumi feels.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Je suis malin et j'ai des soucis quand{SAUT}même, alors je comprends un peu Kumi.{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0053",
@@ -402,8 +402,8 @@
     "id": "E1.BIN:055:0057",
     "locuteur": "Kumi",
     "en": "If you lay even a finger on me,{SAUT}Sir Hypnos will punish you!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "Si vous me touchez ne serait-ce qu'un{SAUT}doigt, Sire Hypnos vous punira!{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0058",

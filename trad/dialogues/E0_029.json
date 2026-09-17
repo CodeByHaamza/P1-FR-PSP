@@ -178,8 +178,8 @@
     "id": "E0.BIN:100:0026",
     "locuteur": "Harem Queen",
     "en": "I'll give you, and only you, one last{SAUT}chance, (*APELLIDO_HEROE*)...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Reine{PAGE}Harem",
+    "fr": "Je te donne, à toi seul, une dernière{SAUT}chance, (*APELLIDO_HEROE*)...{ATTENTE}",
     "_occurrences": 2
   },
   {

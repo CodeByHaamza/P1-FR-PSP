@@ -31,8 +31,8 @@
     "id": "E0.BIN:101:0004",
     "locuteur": "Mark",
     "en": "Don't think I'm happy about all this!{SAUT}Even if she isn't our Maki...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Crois pas que tout ça me réjouit!{SAUT}Même si c'est pas notre Maki...{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0005",
@@ -59,8 +59,8 @@
     "id": "E0.BIN:101:0008",
     "locuteur": "Brown",
     "en": "Does Chisato seem different now to you?{SAUT}It's like... she softened up, kinda.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Tu trouves pas Chisato changée?{SAUT}Genre... elle s'est adoucie, un peu.{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0009",
@@ -108,8 +108,8 @@
     "id": "E0.BIN:101:0015",
     "locuteur": "Yosuke",
     "en": "If I'd been a little more reliable,{SAUT}this wouldn't have happened.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yosuke",
+    "fr": "Si j'avais été un peu plus fiable,{SAUT}ça ne serait pas arrivé.{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0016",
@@ -160,8 +160,8 @@
     "id": "E0.BIN:101:0023",
     "locuteur": "Aki",
     "en": "Though I was never gonna do that anyway!{SAUT}Pbbbbt!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Aki",
+    "fr": "Bon, j'allais pas le faire, en fait!{SAUT}Pbbbbt!{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0024",
@@ -181,8 +181,8 @@
     "id": "E0.BIN:101:0026",
     "locuteur": "Aki",
     "en": "He said, \"Even if Chisato loses, she's{SAUT}not worth our trouble.\"{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Aki",
+    "fr": "Il a dit: \"Même si Chisato perd, elle{SAUT}ne vaut pas qu'on se fatigue.\"{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0027",
@@ -202,8 +202,8 @@
     "id": "E0.BIN:101:0030",
     "locuteur": "Maki",
     "en": "Chisato...! Just wait here for us.{SAUT}We'll go catch that girl.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Chisato...! Attends-nous ici.{SAUT}On va attraper cette fille.{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0031",
@@ -258,8 +258,8 @@
     "id": "E0.BIN:101:0038",
     "locuteur": "Chisato",
     "en": "No! I'm... sure Yosuke still has a{SAUT}thing for you, Maki.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Chisato",
+    "fr": "Non! Je suis... sûre que Yosuke en{SAUT}pince encore pour toi, Maki.{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0039",
@@ -328,8 +328,8 @@
     "id": "E0.BIN:101:0048",
     "locuteur": "Maki",
     "en": "Ohhhh, you're so stubborn! Deep down,{SAUT}you really like Yosuke.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Oh, quelle tête de mule! Au fond,{SAUT}tu aimes vraiment Yosuke.{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0049",
@@ -356,8 +356,8 @@
     "id": "E0.BIN:101:0052",
     "locuteur": "Yosuke",
     "en": "...What happened to your face!?{SAUT}Did you get hurt!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yosuke",
+    "fr": "...T'as quoi au visage!?{SAUT}Tu t'es fait mal!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0053",
@@ -468,8 +468,8 @@
     "id": "E0.BIN:101:0068",
     "locuteur": "Chisato",
     "en": "But... these moles will never come off,{SAUT}you know...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Chisato",
+    "fr": "Mais... ces grains partiront jamais,{SAUT}tu sais...{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0069",
@@ -615,8 +615,8 @@
     "id": "E0.BIN:101:0089",
     "locuteur": "Ayase",
     "en": "And when did Chisato get back to normal!?{SAUT}Geez... You guys lost me!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Et depuis quand Chisato est redevenue{SAUT}normale!? Pff... J'ai rien suivi!{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0090",
@@ -671,8 +671,8 @@
     "id": "E0.BIN:101:0097",
     "locuteur": "Maki",
     "en": "You're still my best friend, Chisato.{SAUT}I'm really happy for you!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Tu restes ma meilleure amie, Chisato.{SAUT}Je suis vraiment contente pour toi!{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0098",

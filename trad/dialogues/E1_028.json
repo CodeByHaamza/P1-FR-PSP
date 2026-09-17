@@ -75,8 +75,8 @@
     "id": "E1.BIN:160:0014",
     "locuteur": "Reiho",
     "en": "Hee! You're right! He's got (*TEXTBOX_PARAM,0500*)Ambrosia(*TEXTBOX_PARAM,0000*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiho",
+    "fr": "Hi! T'as raison! Il a de l'(*TEXTBOX_PARAM,0500*)Ambrosia(*TEXTBOX_PARAM,0000*)!{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0015",
@@ -103,8 +103,8 @@
     "id": "E1.BIN:160:0018",
     "locuteur": "Reiho",
     "en": "Awww, human rules are such a pain.{SAUT}Then hee-how about a trade, ho?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiho",
+    "fr": "Les règles humaines, quelle plaie.{SAUT}Alors hi-que dirais-tu d'un troc, ho?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0020",
@@ -342,8 +342,8 @@
     "id": "E1.BIN:160:0055",
     "locuteur": "Ayase",
     "en": "I-I thought you meant, like...{SAUT}I don't want this!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "J-Je croyais que tu voulais dire...{SAUT}Je veux pas de ça!{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0056",
@@ -501,8 +501,8 @@
     "id": "E1.BIN:160:0080",
     "locuteur": "Brown",
     "en": "Look, I'm the leader here. Therefore,{SAUT}I deserve a totem. Got that?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Écoute, c'est moi le chef ici. Donc{SAUT}je mérite un totem. Compris?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0081",
@@ -541,7 +541,7 @@
     "id": "E1.BIN:160:0086",
     "locuteur": "Brown",
     "en": "Mwahaha, now that's a classy totem.{SAUT}Very fitting for moi.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Mwahaha, ça c'est un totem classe.{SAUT}Tout à fait digne de moi.{ATTENTE}"
   }
 ]

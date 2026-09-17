@@ -120,8 +120,8 @@
     "id": "E1.BIN:006:0017",
     "locuteur": "Male student",
     "en": "H-Hey, Brown... he's completely lost it.{SAUT}What do we do?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Eleve",
+    "fr": "H-Hé, Brown... il a complètement pété{SAUT}les plombs. On fait quoi?{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0018",
@@ -169,8 +169,8 @@
     "id": "E1.BIN:006:0024",
     "locuteur": "Toro",
     "en": "I'm not just a butterball anymore, Yuka!{SAUT}Ahahahahahahaha!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Je ne suis plus un gros tas, Yuka!{SAUT}Ahahahahahahaha!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0025",
@@ -190,8 +190,8 @@
     "id": "E1.BIN:006:0027",
     "locuteur": "Male student",
     "en": "I'll grab a teacher! Keep an eye on him,{SAUT}I'll be right back!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Eleve",
+    "fr": "Je vais chercher un prof! Surveillez-le,{SAUT}je reviens tout de suite!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0028",
@@ -281,8 +281,8 @@
     "id": "E1.BIN:006:0040",
     "locuteur": "Yukino",
     "en": "D-Don't get him mad! You're too blunt,{SAUT}Yuka...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "N-Ne l'énerve pas! T'es trop directe,{SAUT}Yuka...{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0041",
@@ -372,8 +372,8 @@
     "id": "E1.BIN:006:0053",
     "locuteur": "Brown",
     "en": "Quick, apologize! It's not too late!{SAUT}Say you're sorry!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Vite, excuse-toi! C'est pas trop tard!{SAUT}Dis que t'es désolée!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0054",
@@ -400,8 +400,8 @@
     "id": "E1.BIN:006:0057",
     "locuteur": "Ayase",
     "en": "Uh, did the truth really hurt that bad,{SAUT}Toro?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Euh, la vérité t'a blessé à ce point,{SAUT}Toro?{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0058",
@@ -414,8 +414,8 @@
     "id": "E1.BIN:006:0059",
     "locuteur": "Toro",
     "en": "You'll pay for stomping all over my pure,{SAUT}innocent heart...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Tu paieras d'avoir piétiné mon coeur pur{SAUT}et innocent...{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0060",

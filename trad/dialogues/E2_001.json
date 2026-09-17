@@ -455,15 +455,15 @@
     "id": "E2.BIN:012:0003",
     "locuteur": "Yukino",
     "en": "Bows and arrows aren't my thing.{SAUT}I prefer razor blades.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "L'arc, c'est pas mon truc.{SAUT}Je préfère les lames de rasoir.{ATTENTE}"
   },
   {
     "id": "E2.BIN:012:0004",
     "locuteur": "Archery club member",
     "en": "Archery is an intelligent, mature sport!{SAUT}Don't have a bow? We'll lend you one!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Archer",
+    "fr": "Le tir à l'arc, un sport réfléchi, mature!{SAUT}Pas d'arc? On t'en prête un!{ATTENTE}"
   },
   {
     "id": "E2.BIN:013:0000",
@@ -483,8 +483,8 @@
     "id": "E2.BIN:013:0002",
     "locuteur": "Mark",
     "en": "I get fidgety around this stuff. C'mon,{SAUT}let's go to the hospital!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ce truc me rend nerveux. Allez,{SAUT}on va à l'hôpital!{ATTENTE}"
   },
   {
     "id": "E2.BIN:013:0003",
@@ -497,8 +497,8 @@
     "id": "E2.BIN:013:0004",
     "locuteur": "Yukino",
     "en": "A fun dream world the girl saw on {SAUT}Christmas Eve... ＊dreamy sigh＊{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Un monde de rêve vu par la fille un {SAUT}soir de Noël... ＊soupir rêveur＊{ATTENTE}"
   },
   {
     "id": "E2.BIN:013:0005",
@@ -518,8 +518,8 @@
     "id": "E2.BIN:013:0007",
     "locuteur": "Ballet club member",
     "en": "I was pretty surprised the first time I{SAUT}put on a pair.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Danseuse",
+    "fr": "J'ai été assez surprise la première{SAUT}fois que j'en ai mis une paire.{ATTENTE}"
   },
   {
     "id": "E2.BIN:013:0008",
@@ -553,15 +553,15 @@
     "id": "E2.BIN:015:0001",
     "locuteur": "Mark",
     "en": "Yeah, Maki's an awesome artist... C'mon,{SAUT}(*APELLIDO_HEROE*)! Let's go to the hospital!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ouais, Maki est douée... Allez,{SAUT}(*APELLIDO_HEROE*)! On va à l'hôpital!{ATTENTE}"
   },
   {
     "id": "E2.BIN:015:0002",
     "locuteur": "Yukino",
     "en": "I've seen one of Maki's paintings. She{SAUT}won an award for her \"Gate to Paradise.\"{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "J'ai vu une toile de Maki. Elle a eu un{SAUT}prix pour sa \"Porte du Paradis\".{ATTENTE}"
   },
   {
     "id": "E2.BIN:015:0003",
@@ -616,8 +616,8 @@
     "id": "E2.BIN:016:0001",
     "locuteur": "Mark",
     "en": "This place would be great for practicin'{SAUT}dance moves if it had a big mirror.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ce serait parfait pour répéter des pas{SAUT}de danse ici, avec un grand miroir.{ATTENTE}"
   },
   {
     "id": "E2.BIN:016:0002",

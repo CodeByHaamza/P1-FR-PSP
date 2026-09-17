@@ -92,8 +92,8 @@
     "id": "E1.BIN:003:0013",
     "locuteur": "Ayase",
     "en": "'Cause I'm going with you! I feel much{SAUT}safer around you and (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Parce que je viens! Je me sens bien plus{SAUT}en sécurité près de toi et de (*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0014",
@@ -184,8 +184,8 @@
     "id": "E1.BIN:003:0026",
     "locuteur": "Yukino",
     "en": "Y'think the three of us can handle the{SAUT}demons and get those (*TEXTBOX_PARAM,0700*)Mirror Shards(*TEXTBOX_PARAM,0000*)...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Tu crois qu'à trois on gère les démons{SAUT}et qu'on ramène les (*TEXTBOX_PARAM,0700*)Fragments(*TEXTBOX_PARAM,0000*)...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0027",
@@ -198,8 +198,8 @@
     "id": "E1.BIN:003:0028",
     "locuteur": "Ayase",
     "en": "Sure, sure, but let's get inside!{SAUT}I'm freezing to death here!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Ouais, ouais, mais rentrons d'abord!{SAUT}Je meurs de froid ici!{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0029",
@@ -212,8 +212,8 @@
     "id": "E1.BIN:004:0000",
     "locuteur": "Nurse Natsumi",
     "en": "Don't you take off that bandage, Kei!{SAUT}Your wound will reopen!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmiere{PAGE}Natsumi",
+    "fr": "N'enlève pas ce bandage, Kei!{SAUT}Ta blessure va se rouvrir!{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0001",
@@ -294,8 +294,8 @@
     "id": "E1.BIN:004:0012",
     "locuteur": "Nanjo",
     "en": "I haven't time to waste on fools. Now,{SAUT}kindly step aside.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Je n'ai pas de temps pour les sots.{SAUT}Ayez la bonté de vous écarter.{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0013",
@@ -357,8 +357,8 @@
     "id": "E1.BIN:004:0021",
     "locuteur": "Nanjo",
     "en": "...I'm concerned for Masao and Maki.{SAUT}I must get outside at any cost.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "...Je m'inquiète pour Masao et Maki.{SAUT}Je dois sortir à tout prix.{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0022",
@@ -413,8 +413,8 @@
     "id": "E1.BIN:004:0030",
     "locuteur": "Yukino",
     "en": "Are you sure you want Kei's help,{SAUT}(*APELLIDO_HEROE*)?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Yukino",
+    "fr": "Tu veux vraiment l'aide de Kei,{SAUT}(*APELLIDO_HEROE*)?{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -516,15 +516,15 @@
     "id": "E1.BIN:005:0009",
     "locuteur": "Elly",
     "en": "That writing is Greek for \"(*TEXTBOX_PARAM,0700*)Nemesis Tower(*TEXTBOX_PARAM,0000*).\"{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Cet écrit est du grec: \"(*TEXTBOX_PARAM,0700*)tour Nemesis(*TEXTBOX_PARAM,0000*)\".{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0010",
     "locuteur": "Tsutomu",
     "en": "Nemesis? Hmm... Greek, you say?{SAUT}Iiiiiinteresting...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tsutomu",
+    "fr": "Nemesis? Hmm... Du grec, dites-vous?{SAUT}Iiiiiintéressant...{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0011",
@@ -558,15 +558,15 @@
     "id": "E1.BIN:005:0015",
     "locuteur": "Nanjo",
     "en": "As Sun Tzu said, \"Know both yourself and{SAUT}your enemy.\"{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Comme disait Sun Tzu: \"Connais-toi{SAUT}toi-même, et connais ton ennemi.\"{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0016",
     "locuteur": "Ayase",
     "en": "Whaaaat!? I don't wanna sound mean,{SAUT}but... he's not my type.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Quooooi!? Sans vouloir être méchante,{SAUT}mais... c'est pas mon genre.{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0017",
@@ -649,8 +649,8 @@
     "id": "E1.BIN:005:0028",
     "locuteur": "Elly",
     "en": "I love stories of monsters and ghosts,{SAUT}but this...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "J'adore les histoires de monstres et{SAUT}de fantômes, mais là...{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0029",
@@ -695,16 +695,16 @@
     "id": "E1.BIN:005:0036",
     "locuteur": "Elly",
     "en": "By the way, I heard something happened{SAUT}at the (*TEXTBOX_PARAM,0700*)cafeteria(*TEXTBOX_PARAM,0000*). Have you been yet?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "Au fait, il paraît qu'il s'est passé{SAUT}un truc à la (*TEXTBOX_PARAM,0700*)cafétéria(*TEXTBOX_PARAM,0000*). Tu y es allé?{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:005:0037",
     "locuteur": "Elly",
     "en": "If there's anything I can do to help,{SAUT}please don't hesitate to ask.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "Si je peux faire quoi que ce soit,{SAUT}n'hésite surtout pas.{ATTENTE}",
     "_occurrences": 2
   }
 ]

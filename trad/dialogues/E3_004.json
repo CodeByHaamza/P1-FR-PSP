@@ -119,8 +119,8 @@
     "id": "E3.BIN:012:0018",
     "locuteur": "Male student",
     "en": "Everything froze over all of a sudden.{SAUT}Did demons do that, too?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Eleve",
+    "fr": "Tout a gelé d'un coup.{SAUT}C'est aussi un coup des démons?{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0019",
@@ -182,8 +182,8 @@
     "id": "E3.BIN:012:0027",
     "locuteur": "Rumor-loving boy",
     "en": "That classroom wasn't open until now...{SAUT}You know, the one to our left.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Curieux",
+    "fr": "Cette salle était fermée jusque-là...{SAUT}Tu sais, celle sur notre gauche.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0028",
@@ -238,8 +238,8 @@
     "id": "E3.BIN:012:0035",
     "locuteur": "Yukino",
     "en": "Doesn't it seem like it's gotten a{SAUT}little warmer?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "On dirait que c'est devenu un peu{SAUT}plus chaud, non?{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0036",
@@ -252,8 +252,8 @@
     "id": "E3.BIN:012:0037",
     "locuteur": "Ayase",
     "en": "I wonder if Toro's okay. I mean, like,{SAUT}not that I care or anything.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "J'espère que Toro va bien. Genre...{SAUT}pas que ça m'inquiète, hein.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0038",
@@ -308,8 +308,8 @@
     "id": "E3.BIN:012:0045",
     "locuteur": "Brown",
     "en": "I thought about having some hot ramen,{SAUT}but I can't boil any water.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "J'ai pensé à manger des ramen chauds,{SAUT}mais je peux pas faire bouillir d'eau.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0046",
@@ -329,8 +329,8 @@
     "id": "E3.BIN:012:0048",
     "locuteur": "Brown",
     "en": "I mean, who knows what'll happen, y'know?{SAUT}I'm like, so on top of things!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Bon, on sait jamais ce qui peut arriver.{SAUT}Je suis, genre, trop prévoyant!{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0049",
@@ -625,8 +625,8 @@
     "id": "E3.BIN:035:0000",
     "locuteur": "Yukino",
     "en": "Any wounds, (*APELLIDO_HEROE*)?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Des blessures, (*APELLIDO_HEROE*)?{ATTENTE}"
   },
   {
     "id": "E3.BIN:035:0001",

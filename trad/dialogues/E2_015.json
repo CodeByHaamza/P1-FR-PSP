@@ -24,15 +24,15 @@
     "id": "E2.BIN:199:0003",
     "locuteur": "Maki",
     "en": "I'm not being a sore loser, I just mean...{SAUT}Well, it's because I...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Je suis pas mauvaise joueuse, enfin...{SAUT}C'est juste que je...{ATTENTE}"
   },
   {
     "id": "E2.BIN:199:0004",
     "locuteur": "Nanjo",
     "en": "Is she taunting us by trapping us here?{SAUT}Or is she buying time?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Nous piège-t-elle ici pour nous narguer?{SAUT}Ou gagne-t-elle du temps?{ATTENTE}"
   },
   {
     "id": "E2.BIN:199:0005",
@@ -150,8 +150,8 @@
     "id": "E2.BIN:199:0021",
     "locuteur": "Brown",
     "en": "Huh? I should take things more seriously?{SAUT}Haha, sure! Just you watch!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Hein? Je devrais être plus sérieux?{SAUT}Haha, bien sûr! Tu vas voir!{ATTENTE}"
   },
   {
     "id": "E2.BIN:199:0022",
@@ -234,8 +234,8 @@
     "id": "E2.BIN:199:0033",
     "locuteur": "Young man",
     "en": "The \"Queen\" acted all high and mighty,{SAUT}but I'm ten times more attractive!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Jeune homme",
+    "fr": "La \"Reine\" jouait les prétentieuses,{SAUT}mais je suis dix fois plus séduisant!{ATTENTE}"
   },
   {
     "id": "E2.BIN:200:0000",
@@ -283,8 +283,8 @@
     "id": "E2.BIN:200:0006",
     "locuteur": "Ayase",
     "en": "You hear a woman crying? I've been like,{SAUT}hearing it this whole time.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Une femme qui pleure? Moi, genre, je{SAUT}l'entends depuis tout à l'heure.{ATTENTE}"
   },
   {
     "id": "E2.BIN:200:0007",
@@ -339,8 +339,8 @@
     "id": "E2.BIN:201:0000",
     "locuteur": "Maki",
     "en": "These guys seem like they're in the{SAUT}same boat as you, (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Ces gens ont l'air d'être dans le{SAUT}même cas que toi, (*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E2.BIN:201:0001",
@@ -360,8 +360,8 @@
     "id": "E2.BIN:201:0003",
     "locuteur": "Elly",
     "en": "How wonderful! A real, visible ghost!{SAUT}Let's hurry and see it!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Magnifique! Un vrai fantôme visible!{SAUT}Vite, allons le voir!{ATTENTE}"
   },
   {
     "id": "E2.BIN:201:0004",
@@ -381,8 +381,8 @@
     "id": "E2.BIN:201:0006",
     "locuteur": "Reiji",
     "en": "Scientists who are scared of ghosts?{SAUT}Kandori sure can pick 'em...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Des savants effrayés par un fantôme?{SAUT}Kandori sait les choisir...{ATTENTE}"
   },
   {
     "id": "E2.BIN:201:0007",

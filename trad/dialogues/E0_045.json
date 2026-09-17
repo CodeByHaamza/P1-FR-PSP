@@ -186,8 +186,8 @@
     "id": "E0.BIN:197:0001",
     "locuteur": "Maki",
     "en": "No way... Is that...{SAUT}(*APELLIDO_HEROE*)!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Pas vrai... C'est...{SAUT}(*APELLIDO_HEROE*)!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:197:0002",
@@ -214,8 +214,8 @@
     "id": "E0.BIN:197:0005",
     "locuteur": "Maki",
     "en": "A-Are you... really (*APELLIDO_HEROE*)?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "T-Tu es... vraiment (*APELLIDO_HEROE*)?{ATTENTE}"
   },
   {
     "id": "E0.BIN:197:0006",
@@ -305,15 +305,15 @@
     "id": "E0.BIN:199:0008",
     "locuteur": "Maki",
     "en": "Why're you acting like this!?{SAUT}(*APELLIDO_HEROE*) is a nice guy!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Pourquoi tu agis comme ça!?{SAUT}(*APELLIDO_HEROE*) est un mec bien!{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0009",
     "locuteur": "Maki",
     "en": "Let's go, (*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Allons-y, (*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0010",
@@ -450,8 +450,8 @@
     "id": "E0.BIN:199:0035",
     "locuteur": "Maki",
     "en": "Let's get out of here. I don't like{SAUT}that other (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Partons d'ici. Je n'aime pas cet{SAUT}autre (*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0036",
@@ -661,8 +661,8 @@
     "id": "E0.BIN:201:0040",
     "locuteur": "Maki",
     "en": "I... really didn't want you to see me{SAUT}this way, (*APELLIDO_HEROE*)...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Je... voulais pas que tu me voies{SAUT}comme ça, (*APELLIDO_HEROE*)...{ATTENTE}"
   },
   {
     "id": "E0.BIN:201:0041",

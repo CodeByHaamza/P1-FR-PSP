@@ -3,15 +3,15 @@
     "id": "E1.BIN:065:0000",
     "locuteur": "Tadashi",
     "en": "Don't worry... No matter what happens,{SAUT}I'll protect you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "T'inquiète pas... Quoi qu'il arrive,{SAUT}je te protégerai.{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0001",
     "locuteur": "Tadashi",
     "en": "Tamaki... I want you to trust me!{SAUT}I love you!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Tamaki... Fais-moi confiance!{SAUT}Je t'aime!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0002",
@@ -73,8 +73,8 @@
     "id": "E1.BIN:065:0010",
     "locuteur": "Nanjo",
     "en": "They don't seem to remember anything.{SAUT}Ignorance is bliss, as they say.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Ils ne semblent se souvenir de rien.{SAUT}L'ignorance est un bonheur, dit-on.{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0011",
@@ -115,8 +115,8 @@
     "id": "E1.BIN:065:0016",
     "locuteur": "Tadashi",
     "en": "I was having a nice dream, and when I{SAUT}woke up... Tamaki was there...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Je faisais un beau rêve, et quand je{SAUT}me suis réveillé... Tamaki était là...{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0017",
@@ -241,8 +241,8 @@
     "id": "E1.BIN:065:0034",
     "locuteur": "Tadashi",
     "en": "And you kept a secret from me!{SAUT}Oh, the pain!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Et tu m'as caché un secret!{SAUT}Oh, quelle douleur!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0035",
@@ -369,15 +369,15 @@
     "id": "E1.BIN:065:0055",
     "locuteur": "Ayase",
     "en": "Maybe Nurse Natsumi has one, too!{SAUT}Let's ask her!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Et si Mlle Natsumi en avait un aussi!{SAUT}Demandons-lui!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0056",
     "locuteur": "Ayase",
     "en": "Nurse Natsumi? Do you have a{SAUT}Mirror Shard?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Mlle Natsumi? Vous avez un{SAUT}Fragment de Miroir?{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0057",
@@ -404,8 +404,8 @@
     "id": "E1.BIN:065:0060",
     "locuteur": "Nurse Natsumi",
     "en": "A mirror...? Don't have one of those...{SAUT}Good night... Zzzz...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmiere{PAGE}Natsumi",
+    "fr": "Un miroir...? J'en ai pas...{SAUT}Bonne nuit... Zzzz...{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0061",
@@ -418,8 +418,8 @@
     "id": "E1.BIN:065:0062",
     "locuteur": "Yukino",
     "en": "Are those two still half asleep?{SAUT}Not that it matters.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Ces deux-là dorment encore à moitié?{SAUT}Enfin, peu importe.{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0063",
@@ -439,8 +439,8 @@
     "id": "E1.BIN:065:0065",
     "locuteur": "Ayase",
     "en": "Now I see what they meant! Deep down,{SAUT}he's like, super passionate!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Là je comprends! Au fond, il est,{SAUT}genre, super passionné!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0066",
@@ -474,8 +474,8 @@
     "id": "E1.BIN:065:0070",
     "locuteur": "Nanjo",
     "en": "No more complaints, I hope? Good.{SAUT}Then let's move on.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Plus de plaintes, j'espère? Bien.{SAUT}Alors poursuivons.{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0071",
@@ -495,8 +495,8 @@
     "id": "E1.BIN:065:0073",
     "locuteur": "Brown",
     "en": "Why'd she pick Tadashi over me!?{SAUT}Objection, your honor!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Pourquoi Tadashi et pas moi!?{SAUT}Objection, votre honneur!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0074",
@@ -523,8 +523,8 @@
     "id": "E1.BIN:065:0077",
     "locuteur": "Elly",
     "en": "Well, it's good that they're happy, but...{SAUT}I have to agree with Yukino.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Tant mieux s'ils sont heureux, mais...{SAUT}je dois donner raison à Yukino.{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0078",
@@ -593,8 +593,8 @@
     "id": "E1.BIN:065:0087",
     "locuteur": "Nurse Natsumi",
     "en": "Zzzz... Hahaha... How is it...?{SAUT}Is it... tasty...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmiere{PAGE}Natsumi",
+    "fr": "Zzzz... Hahaha... Alors...?{SAUT}C'est... bon...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0088",
