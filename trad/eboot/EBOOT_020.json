@@ -1,612 +1,613 @@
 [
   {
+    "id": "EBOOT.BIN:BE2:OFF_27A4AE",
+    "en": " Medium Wind damage (area)(*TERMINATOR*)",
+    "fr": " Vent moyen (zone)(*TERMINATOR*)",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A4E4",
+    "en": "Medium Wind damage (area)(*TERMINATOR*)",
+    "fr": "Vent moyen (zone)(*TERMINATOR*)",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A518",
+    "en": "Medium Ice damage+Freeze (area)(*TERMINATOR*)",
+    "fr": "Gel moyen+Gelé (zone)(*TERMINATOR*)",
+    "max": 31,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A598",
+    "en": "Medium Fire damage (area)(*TERMINATOR*)",
+    "fr": "Feu moyen (zone)(*TERMINATOR*)",
+    "max": 25,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A600",
+    "en": "Party reflects 25% phys damage, 2 turns(*TERMINATOR*)",
+    "fr": "Groupe renvoie 25% phys, 2 tours(*TERMINATOR*)",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A650",
+    "en": "Party reflects 25% spell damage, 2 turns(*TERMINATOR*)",
+    "fr": "Groupe renvoie 25% sorts, 2 tours(*TERMINATOR*)",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A6A2",
+    "en": " Party absorbs 50% Fire spells, 3 turns(*TERMINATOR*)",
+    "fr": " Groupe absorbe 50% Feu, 3 tours(*TERMINATOR*)",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A6F2",
+    "en": " Party absorbs 50% Ice spells, 3 turns(*TERMINATOR*)",
+    "fr": " Groupe absorbe 50% Gel, 3 tours(*TERMINATOR*)",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A740",
+    "en": "Medium Nerve damage+Blind (area)(*TERMINATOR*)",
+    "fr": "Nerf moyen+Cécité (zone)(*TERMINATOR*)",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A782",
+    "en": " Medium Nerve damage+Poison (area)(*TERMINATOR*)",
+    "fr": " Nerf moyen+Poison (zone)(*TERMINATOR*)",
+    "max": 34
+  },
+  {
     "id": "EBOOT.BIN:BE2:OFF_27A83C",
     "en": "Lowers experience (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Baisse expérience (1 enn.)(*TERMINATOR*)",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27A870",
     "en": "Lowers LV+Paralyze (1 human foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "NV-, Paralysé (1 humain)(*TERMINATOR*)",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27A8B2",
     "en": " Lowers LV+Paralyze (1 female foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " NV-, Paralysé (1 enn. F)(*TERMINATOR*)",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27A8F8",
     "en": "Lowers LV+Paralyze (1 male foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "NV-, Paralysé (1 enn. M)(*TERMINATOR*)",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27A938",
     "en": "Inflicts Charm status (area)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Inflige Charmé (zone)(*TERMINATOR*)",
     "max": 28,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27A972",
     "en": " Inflicts Fear status (area)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Inflige Effroi (zone)(*TERMINATOR*)",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27A9AC",
     "en": "Inflicts Bind status (area)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Inflige Lié (zone)(*TERMINATOR*)",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27A9E4",
     "en": "Inflicts Panic status (area)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Inflige Affolé (zone)(*TERMINATOR*)",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AA1E",
     "en": " Inflicts Sleep status (area)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Inflige Dort (zone)(*TERMINATOR*)",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AA5A",
     "en": " Inflicts Guilt status (area)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Inflige Faute (zone)(*TERMINATOR*)",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AA96",
     "en": " Inflicts Mute status (area)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Inflige Muet (zone)(*TERMINATOR*)",
     "max": 28,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AAD0",
     "en": "Inflicts Unlucky status (area)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Inflige Poisse (zone)(*TERMINATOR*)",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AB0E",
     "en": " Inflicts Happy status (area)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Inflige Joie (zone)(*TERMINATOR*)",
     "max": 29,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AB4A",
     "en": " Inflicts Charm status (area)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Inflige Charmé (zone)(*TERMINATOR*)",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AB86",
     "en": " Inflicts Fear status (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Inflige Effroi (1 enn.)(*TERMINATOR*)",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27ABC2",
     "en": " Inflicts Guilt status (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Inflige Faute (1 enn.)(*TERMINATOR*)",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AC00",
     "en": "Instant Death kill (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Mort : tue net (1 enn.)(*TERMINATOR*)",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AC36",
     "en": " Inflict Stone status (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Inflige Pierre (1 enn.)(*TERMINATOR*)",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AC72",
     "en": " Inflict Paralyze status (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Inflige Paralysé (1 enn.)(*TERMINATOR*)",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27ACB4",
     "en": "Restores Persona change ability (1 ally)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Rend le changement de Persona (1 allié)(*TERMINATOR*)",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AD06",
     "en": " Instant escape from the dungeon(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Fuite immédiate du donjon(*TERMINATOR*)",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AD48",
     "en": "Instant escape from a battle(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Fuite immédiate du combat(*TERMINATOR*)",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AD82",
     "en": " Sacrifice life to fully heal party(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Meurt pour soigner tout le groupe(*TERMINATOR*)",
     "max": 35
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27ADCA",
     "en": " Restores moderate HP (all allies)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Rend moitié des HP (ts alliés)(*TERMINATOR*)",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AE10",
     "en": "Restores a little HP (all allies)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Rend un peu de HP (ts alliés)(*TERMINATOR*)",
     "max": 33
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AE54",
     "en": "Removes stat bonuses (all foes)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Annule bonus (ts enn.)(*TERMINATOR*)",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AE94",
     "en": "Raises Magic (all allies)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Hausse Magie (ts alliés)(*TERMINATOR*)",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AEC8",
     "en": "Raises Hit Rate (all allies)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Hausse Précision (ts alliés)(*TERMINATOR*)",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AF02",
     "en": " Raises Defense (all allies)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Hausse Défense (ts alliés)(*TERMINATOR*)",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AF3C",
     "en": "Raises Attack (all allies)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Hausse Attaque (ts alliés)(*TERMINATOR*)",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AF72",
     "en": " Removes stat penalties (all allies)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Annule malus (ts alliés)(*TERMINATOR*)",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AFBC",
     "en": "Lowers Hit rate (all foes)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Baisse Précision (ts enn.)(*TERMINATOR*)",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AFF2",
     "en": " Lowers Defense (all foes)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Baisse Défense (ts enn.)(*TERMINATOR*)",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B028",
     "en": "Lowers Attack (all foes)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Baisse Attaque (ts enn.)(*TERMINATOR*)",
     "max": 24
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B05A",
     "en": " Expel damage[001E]Instant Grave kill (area)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Expel[001E]Tue Tombes (zone)(*TERMINATOR*)",
     "max": 38
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B0AA",
     "en": " Expel damage[001E]Instant Grave kill (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Expel[001E]Tue Tombes (1 enn.)(*TERMINATOR*)",
     "max": 39
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B0FC",
     "en": "Medium Expel damage each turn (area)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Expel moyen par tour (zone)(*TERMINATOR*)",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B146",
     "en": " Light Expel damage each turn (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Expel léger par tour (1 enn.)(*TERMINATOR*)",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B192",
     "en": " Gives Beast status[001E]Cures ailments (1 ally)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Donne Bête[001E]Soigne (1 allié)(*TERMINATOR*)",
     "max": 42
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B1EA",
     "en": " Gives Berserk status[001E]Cures ailments (1 ally)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Donne Berserk[001E]Soigne (1 allié)(*TERMINATOR*)",
     "max": 44
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B246",
     "en": " Gives Fury status[001E]Cures ailments (1 ally)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Donne Rage[001E]Soigne (1 allié)(*TERMINATOR*)",
     "max": 41
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B29C",
     "en": "Gives Counter status (1 ally)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Donne Riposte (1 allié)(*TERMINATOR*)",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B2D8",
     "en": "Gives Puppet status (1 ally)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Donne Pantin (1 allié)(*TERMINATOR*)",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B312",
     "en": " Gives Cloak status (1 ally)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Donne Voile (1 allié)(*TERMINATOR*)",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B34C",
     "en": "No Persona change for 3 turns (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Pas de chg. Persona 3 tours (1 enn.)(*TERMINATOR*)",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B398",
     "en": "No HP recovery for 3 turns (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Pas de soin HP 3 tours (1 enn.)(*TERMINATOR*)",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B3DE",
     "en": " Inflicts Unlucky status (area)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Inflige Poisse (zone)(*TERMINATOR*)",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B41E",
     "en": " Inflicts Blind status (area)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Inflige Cécité (zone)(*TERMINATOR*)",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B50A",
     "en": " Inflicts Panic status (area)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Inflige Affolé (zone)(*TERMINATOR*)",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B546",
     "en": " Inflicts Bind status (area)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Inflige Lié (zone)(*TERMINATOR*)",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B580",
     "en": "Inflicts Sleep status (area)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Inflige Dort (zone)(*TERMINATOR*)",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B5BA",
     "en": " Death damage[001E]Instant Angel kill (area)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Mort[001E]Tue Anges (zone)(*TERMINATOR*)",
     "max": 38
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B60A",
     "en": " Death damage[001E]Instant Angel kill (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Mort[001E]Tue Anges (1 enn.)(*TERMINATOR*)",
     "max": 39
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B65C",
     "en": "Medium Death damage each turn (area)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Mort moyen par tour (zone)(*TERMINATOR*)",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B6A6",
     "en": " Light Death damage each turn (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Mort léger par tour (1 enn.)(*TERMINATOR*)",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B6F2",
     "en": " Medium Elec damage+Shock (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Élec moyen+Choc (1 enn.)(*TERMINATOR*)",
     "max": 33
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B736",
     "en": " Light Elec damage+Shock (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Élec léger+Choc (1 enn.)(*TERMINATOR*)",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B778",
     "en": "Medium Gravity damage (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Gravité moyen (1 enn.)(*TERMINATOR*)",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B7B4",
     "en": "Light Gravity damage (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Gravité léger (1 enn.)(*TERMINATOR*)",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B7EE",
     "en": " Medium Blast damage (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Éclat moyen (1 enn.)(*TERMINATOR*)",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B828",
     "en": "Light Blast damage (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Éclat léger (1 enn.)(*TERMINATOR*)",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B85E",
     "en": " Medium Nuclear damage (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Atome moyen (1 enn.)(*TERMINATOR*)",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B89C",
     "en": "Light Nuclear damage (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Atome léger (1 enn.)(*TERMINATOR*)",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B8D6",
     "en": " Medium Earth damage (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Terre moyen (1 enn.)(*TERMINATOR*)",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B910",
     "en": "Light Earth damage (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Terre léger (1 enn.)(*TERMINATOR*)",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B946",
     "en": " Medium Wind damage (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Vent moyen (1 enn.)(*TERMINATOR*)",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B97E",
     "en": " Light Wind damage (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Vent léger (1 enn.)(*TERMINATOR*)",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B9B4",
     "en": "Medium Ice damage+Freeze (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Gel moyen+Gelé (1 enn.)(*TERMINATOR*)",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27B9F6",
     "en": " Light Ice damage+Freeze (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Gel léger+Gelé (1 enn.)(*TERMINATOR*)",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27BA38",
     "en": "Medium Fire damage (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Feu moyen (1 enn.)(*TERMINATOR*)",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27BA6E",
     "en": " Light Fire damage (1 foe)(*TERMINATOR*)",
-    "fr": "",
+    "fr": " Feu léger (1 enn.)(*TERMINATOR*)",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27BAA4",
     "en": "Nothing in particular{FERME}",
-    "fr": "",
+    "fr": "Rien de particulier{FERME}",
     "max": 21
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27BAD0",
     "en": "                                                                                                          Repel: 50% Fire{SAUT}",
-    "fr": "",
+    "fr": "                                                                                                        Renvoie : 50% Feu{SAUT}",
     "max": 121
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27BBC4",
     "en": "Weak: Electric, Nuclear, Gravity, Blast{FERME}",
-    "fr": "",
+    "fr": "Faible : Élec, Atome, Gravité, Éclat{FERME}",
     "max": 39,
     "_occurrences": 4
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27BC14",
     "en": "                                                                        Repel: 50% Ice{SAUT}",
-    "fr": "",
+    "fr": "                                                                     Renvoie : 50% Gel{SAUT}",
     "max": 86
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27BD12",
     "en": "                                                                         Repel: 50% Wind{SAUT}",
-    "fr": "",
+    "fr": "                                                                      Renvoie : 50% Vent{SAUT}",
     "max": 88
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27BE14",
     "en": "                                                                        Repel: 50% Earth{SAUT}",
-    "fr": "",
+    "fr": "                                                                     Renvoie : 50% Terre{SAUT}",
     "max": 88
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27BF16",
     "en": "                                                                       Absorb: 100% Electric{SAUT}",
-    "fr": "",
+    "fr": "                                                                       Absorbe : 100% Élec{SAUT}",
     "max": 92
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27BFD0",
     "en": "Weak: Nuclear, Blast, Gravity{FERME}",
-    "fr": "",
+    "fr": "Faible : Atome, Éclat, Gravité{FERME}",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C00C",
     "en": "                                                                            Absorb: 100% Nuclear{SAUT}",
-    "fr": "",
+    "fr": "                                                                            Absorbe : 100% Atome{SAUT}",
     "max": 96
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C0CE",
     "en": "Weak: Electric, Blast, Gravity{FERME}",
-    "fr": "",
+    "fr": "Faible : Élec, Éclat, Gravité{FERME}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C10C",
     "en": "                                                                            Absorb: 100% Blast{SAUT}",
-    "fr": "",
+    "fr": "                                                                          Absorbe : 100% Éclat{SAUT}",
     "max": 94
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C1CA",
     "en": "Weak: Electric, Nuclear, Gravity{FERME}",
-    "fr": "",
+    "fr": "Faible : Élec, Atome, Gravité{FERME}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C20C",
     "en": "                                                                            Strong: Element, Force{SAUT}",
-    "fr": "",
+    "fr": "                                                                            Fort : Éléments, Force{SAUT}",
     "max": 98
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C2D2",
     "en": "Weak: Physical{FERME}",
-    "fr": "",
+    "fr": "Faible : Physique{FERME}",
     "max": 14,
     "_occurrences": 7
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C2F0",
     "en": "                                                                                          Repel: 50% Physical{SAUT}",
-    "fr": "",
+    "fr": "                                                                                       Renvoie : 50% Physique{SAUT}",
     "max": 109,
     "_occurrences": 3
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C3CC",
     "en": "Weak: Element, Force{FERME}",
-    "fr": "",
+    "fr": "Faible : Éléments, Force{FERME}",
     "max": 20,
     "_occurrences": 9
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C3F6",
     "en": "                                                                                       Absorb: 100% Physical{SAUT}",
-    "fr": "",
+    "fr": "                                                                                     Absorbe : 100% Physique{SAUT}",
     "max": 108,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C4FA",
     "en": "                                                                                     Null: Wind{SAUT}",
-    "fr": "",
+    "fr": "                                                                                  Annule : Vent{SAUT}",
     "max": 95
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C5BA",
     "en": "Weak: Gun{FERME}",
-    "fr": "",
+    "fr": "Faible : Tir{FERME}",
     "max": 9,
     "_occurrences": 2
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_27C5CE",
-    "en": "                                                                                                           Absorb: 100% Earth{SAUT}",
-    "fr": "",
-    "max": 125
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_27C6CA",
-    "en": "Weak: Wind, Blast{FERME}",
-    "fr": "",
-    "max": 17
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_27C6EE",
-    "en": "                                                                                           Strong: Element{SAUT}",
-    "fr": "",
-    "max": 106
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_27C7C4",
-    "en": "Weak: Force{FERME}",
-    "fr": "",
-    "max": 11
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_27C7DC",
-    "en": "                                                                                                    Repel: 50% Electric{SAUT}",
-    "fr": "",
-    "max": 119
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_27C8CC",
-    "en": "Weak: Fire, Ice, Wind, Earth{FERME}",
-    "fr": "",
-    "max": 28,
-    "_occurrences": 7
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_27C906",
-    "en": "                                                                               Repel: 50% Nuclear{SAUT}",
-    "fr": "",
-    "max": 97
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_27CA04",
-    "en": "                                                                                Repel: 50% Blast{SAUT}",
-    "fr": "",
-    "max": 96
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_27CB00",
-    "en": "                                                                                  Repel: 50% Gravity{SAUT}",
-    "fr": "",
-    "max": 100
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_27CC04",
-    "en": "                                                                                Absorb: 100% Fire{SAUT}",
-    "fr": "",
-    "max": 97
   }
 ]

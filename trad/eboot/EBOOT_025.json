@@ -1,8 +1,248 @@
 [
   {
+    "id": "EBOOT.BIN:BE2:OFF_29B334",
+    "en": "Attack failed!{ATTENTE}",
+    "fr": "Attaque ratée!{ATTENTE}",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B354",
+    "en": "Resurrection failed!{ATTENTE}",
+    "fr": "Résurrection ratée!{ATTENTE}",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B380",
+    "en": "Wall effect already cast.{ATTENTE}",
+    "fr": "Mur déjà en place.{ATTENTE}",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B3B6",
+    "en": " Cannot be used during New Moon.{ATTENTE}",
+    "fr": " Impossible à la nouvelle lune.{ATTENTE}",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B3FA",
+    "en": " Cannot change Personas.{ATTENTE}",
+    "fr": " Changement impossible.{ATTENTE}",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B42E",
+    "en": " No reserve Personas.{ATTENTE}",
+    "fr": " Aucune réserve.{ATTENTE}",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B45C",
+    "en": "It's sealed in Tartarus.{ATTENTE}",
+    "fr": "Scellé dans le Tartare.{ATTENTE}",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B490",
+    "en": "No active Persona.{ATTENTE}",
+    "fr": "Aucun Persona.{ATTENTE}",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B4B8",
+    "en": "No usable items.{ATTENTE}",
+    "fr": "Aucun objet.{ATTENTE}",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B4DC",
+    "en": "No bullets equipped.{ATTENTE}",
+    "fr": "Aucune munition.{ATTENTE}",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B508",
+    "en": "No gun equipped.{ATTENTE}",
+    "fr": "Aucun flingue.{ATTENTE}",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B52C",
+    "en": "Revert formation?{ATTENTE}",
+    "fr": "Annuler?{ATTENTE}",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B552",
+    "en": " No characters are KO'd.{ATTENTE}",
+    "fr": " Aucun personnage KO.{ATTENTE}",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B586",
+    "en": " Bad status: Blind{ATTENTE}",
+    "fr": " Mal : Cécité{ATTENTE}",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B5AE",
+    "en": " Good status: Puppet{ATTENTE}",
+    "fr": " Bon : Pantin{ATTENTE}",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B5DA",
+    "en": " Bad status: Mute{ATTENTE}",
+    "fr": " Mal : Muet{ATTENTE}",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B600",
+    "en": "Bad status: Guilt{ATTENTE}",
+    "fr": "Mal : Faute{ATTENTE}",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B626",
+    "en": " Good status: Cloak{ATTENTE}",
+    "fr": " Bon : Voile{ATTENTE}",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B650",
+    "en": "Bad compability. Cannot invoke{ATTENTE}",
+    "fr": "Mauvaise affinité. Impossible{ATTENTE}",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B690",
+    "en": "Not enough SP to invoke{ATTENTE}",
+    "fr": "SP insuffisants{ATTENTE}",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B6C2",
+    "en": " There are no enemies nearby.{ATTENTE}",
+    "fr": " Aucun ennemi à proximité.{ATTENTE}",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B700",
+    "en": "Overwrite?{ATTENTE}",
+    "fr": "Écraser?{ATTENTE}",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B726",
+    "en": " A character cannot move{ATTENTE}",
+    "fr": "Un personnage est bloqué{ATTENTE}",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B75A",
+    "en": " No one can choose actions{ATTENTE}",
+    "fr": " Personne ne peut agir{ATTENTE}",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B792",
+    "en": " Counterattack!!{ATTENTE}",
+    "fr": " Riposte!!{ATTENTE}",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B7EA",
+    "en": " Nothing happens{ATTENTE}",
+    "fr": " Sans effet{ATTENTE}",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B80E",
+    "en": " Doughnuts{ATTENTE}",
+    "fr": " Beignets{ATTENTE}",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B826",
+    "en": " No event battles{ATTENTE}",
+    "fr": "Combats fixes off{ATTENTE}",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B84C",
+    "en": "Meatball{ATTENTE}",
+    "fr": "Boulette{ATTENTE}",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B860",
+    "en": "Absolutely no running away!{ATTENTE}",
+    "fr": "Fuite interdite!{ATTENTE}",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B89A",
+    "en": " Demons can only defend{ATTENTE}",
+    "fr": " Démons en défense{ATTENTE}",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B8CC",
+    "en": "Won't be 1{ATTENTE}",
+    "fr": "Jamais à 1{ATTENTE}",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B8E4",
+    "en": "No Game Overs{ATTENTE}",
+    "fr": "Pas de Game Over{ATTENTE}",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B902",
+    "en": " Cement group{ATTENTE}",
+    "fr": " Groupe figé{ATTENTE}",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B920",
+    "en": "Don't receive status ailments{ATTENTE}",
+    "fr": "Immunité aux états{ATTENTE}",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B95E",
+    "en": " Don't use attack[001E]defend skills{ATTENTE}",
+    "fr": " Ni attaque[001E]ni défense{ATTENTE}",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B9A0",
+    "en": "SP won't decrease{ATTENTE}",
+    "fr": "SP inépuisables{ATTENTE}",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B9C6",
+    "en": " Enemies won't move{ATTENTE}",
+    "fr": " Ennemis figés{ATTENTE}",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B9F0",
+    "en": "Guaranteed kill{ATTENTE}",
+    "fr": "Coup fatal sûr{ATTENTE}",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BA12",
+    "en": " Guaranteed survival{ATTENTE}",
+    "fr": " Survie assurée{ATTENTE}",
+    "max": 20
+  },
+  {
     "id": "EBOOT.BIN:BE2:OFF_29BA3E",
     "en": " Guaranteed escape{ATTENTE}",
-    "fr": "",
+    "fr": " Fuite assurée{ATTENTE}",
     "max": 18
   },
   {
@@ -300,6 +540,12 @@
     "max": 9
   },
   {
+    "id": "EBOOT.BIN:BE2:OFF_29C7DA",
+    "en": "Nyarlathotep's voice{SAUT}",
+    "fr": "",
+    "max": 20
+  },
+  {
     "id": "EBOOT.BIN:BE2:OFF_29C804",
     "en": "Hohohoh... {PAUSE}[1000]Foolish man who has gone{SAUT}",
     "fr": "",
@@ -352,252 +598,5 @@
     "en": "Kandori... {PAUSE}[1000]We'll close the curtain on{SAUT}",
     "fr": "",
     "max": 37
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29CB62",
-    "en": "this farce, if that's what you wish!{ATTENTE}",
-    "fr": "",
-    "max": 36
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29CBBE",
-    "en": "Spout that crap in hell. {PAUSE}[1000]I'll send you{SAUT}",
-    "fr": "",
-    "max": 38
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29CC10",
-    "en": "straight there...!{ATTENTE}",
-    "fr": "",
-    "max": 18
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29CC46",
-    "en": "Use all the big words you want!{SAUT}",
-    "fr": "",
-    "max": 31
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29CC86",
-    "en": "It doesn't fool us!{ATTENTE}",
-    "fr": "",
-    "max": 19
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29CCBC",
-    "en": "Shut up!{ATTENTE}",
-    "fr": "",
-    "max": 8
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29CCDC",
-    "en": "A man who can't answer for himself has{SAUT}",
-    "fr": "",
-    "max": 38
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29CD2A",
-    "en": "no right to condemn mankind.{ATTENTE}",
-    "fr": "",
-    "max": 28
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29CD76",
-    "en": "Heh, keep dreamin'!{ATTENTE}",
-    "fr": "",
-    "max": 19
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29CDB2",
-    "en": "Hah... You'd tell a god to condone{SAUT}",
-    "fr": "",
-    "max": 34
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29CDF8",
-    "en": "nonsense? {PAUSE}[1000]That, too, is a grave sin...{ATTENTE}",
-    "fr": "",
-    "max": 38
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29CE5E",
-    "en": "A god commands and condemns. {PAUSE}[1000]It does not{SAUT}",
-    "fr": "",
-    "max": 40
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29CEB4",
-    "en": "lend an ear to the pleas of vermin.{ATTENTE}",
-    "fr": "",
-    "max": 35
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29CF0C",
-    "en": "If what Nanjo said is true...{ATTENTE}",
-    "fr": "",
-    "max": 29
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29CF56",
-    "en": "There's still time! {PAUSE}[1000]Stop this nonsense,{SAUT}",
-    "fr": "",
-    "max": 39
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D004",
-    "en": "Shut up! {PAUSE}[1000]That's our line!{ATTENTE}",
-    "fr": "",
-    "max": 25
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D052",
-    "en": "You won't get an easy death... Are you{SAUT}",
-    "fr": "",
-    "max": 38
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D0A0",
-    "en": "prepared for that?{ATTENTE}",
-    "fr": "",
-    "max": 18
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D0D6",
-    "en": "Here it comes!{ATTENTE}",
-    "fr": "",
-    "max": 14
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D104",
-    "en": "H-Hey! {PAUSE}[1000]Isn't this really Maki's mom?{ATTENTE}",
-    "fr": "",
-    "max": 36
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D164",
-    "en": "My child... {PAUSE}[1000]{PAUSE}[1000]Give Maki baaaaaaack!{ATTENTE}",
-    "fr": "",
-    "max": 33
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D1C4",
-    "en": "Y-You filth... {PAUSE}[1000]{PAUSE}[1000]Are you really sons{SAUT}",
-    "fr": "",
-    "max": 34
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D212",
-    "en": "of man...?{ATTENTE}",
-    "fr": "",
-    "max": 10
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D23C",
-    "en": "I'll make you eat those words!{ATTENTE}",
-    "fr": "",
-    "max": 30
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D288",
-    "en": "We can't waste any time! Let's get this{SAUT}",
-    "fr": "",
-    "max": 39
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D2D8",
-    "en": "over with, quick!{ATTENTE}",
-    "fr": "",
-    "max": 17
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D30E",
-    "en": "Get outta my way, pipsqueak!{ATTENTE}",
-    "fr": "",
-    "max": 28
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D35A",
-    "en": "First a robot and now a stuffed bear!?{PAUSE}[1000]{SAUT}",
-    "fr": "",
-    "max": 38
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D3AC",
-    "en": "I hate to do this, but we have no choice!{ATTENTE}",
-    "fr": "",
-    "max": 41
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D41E",
-    "en": "N-No waaaaay...!{ATTENTE}",
-    "fr": "",
-    "max": 16
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D45E",
-    "en": "Tchahahahaaaaa!{ATTENTE}",
-    "fr": "",
-    "max": 15
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D49A",
-    "en": "That terrified face! That's the face!{PAUSE}[1000]{SAUT}",
-    "fr": "",
-    "max": 37
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D4EA",
-    "en": "That's it! God, I LOVE it!{ATTENTE}",
-    "fr": "",
-    "max": 26
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D530",
-    "en": "Please, Chisato! Stop!{ATTENTE}",
-    "fr": "",
-    "max": 22
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D56C",
-    "en": "If you insist on hurting everyone, I...{SAUT}",
-    "fr": "",
-    "max": 39
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D5C0",
-    "en": "I... {PAUSE}[1000]I'll have to fight you!{ATTENTE}",
-    "fr": "",
-    "max": 28
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D61A",
-    "en": "Tchahahahaha! {PAUSE}[1000]{PAUSE}[1000]My paintings are the best{SAUT}",
-    "fr": "",
-    "max": 39
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D672",
-    "en": "in the world!{ATTENTE}",
-    "fr": "",
-    "max": 13
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D6AA",
-    "en": "Now hurry up and die!{ATTENTE}",
-    "fr": "",
-    "max": 21
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D6DA",
-    "en": "Yog-Sothoth Jr.{SAUT}",
-    "fr": "",
-    "max": 15,
-    "_occurrences": 2
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29D72C",
-    "en": "Shaddup!{ATTENTE}",
-    "fr": "",
-    "max": 8
   }
 ]
