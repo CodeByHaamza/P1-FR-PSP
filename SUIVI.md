@@ -6,9 +6,9 @@
 Dialogues      ███████████░░░░░░░░░░░░░   44 %    3 796 / 8 572 textes
 EBOOT          ████████████████████████  100 %    1 518 / 1 518 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
-Négociations   ░░░░░░░░░░░░░░░░░░░░░░░░    2 %      225 / 12 487 textes
+Négociations   ███░░░░░░░░░░░░░░░░░░░░░   11 %    1 314 / 12 487 textes
 
-Total          ██████░░░░░░░░░░░░░░░░░░   25 %    5 669 / 22 707 textes
+Total          ███████░░░░░░░░░░░░░░░░░   30 %    6 758 / 22 707 textes
 ```
 
 ## Poids à surveiller
@@ -49,6 +49,11 @@ Ces lignes sont plus larges que l'anglaise et approchent de la limite de la boî
 - [`E3_004.json`](trad/dialogues/E3_004.json) — 1 ligne
 - [`E3_006.json`](trad/dialogues/E3_006.json) — 1 ligne
 - [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) — 1 ligne
+- [`KUTISAKE_001.json`](trad/negociations/KUTISAKE_001.json) — 1 ligne
+- [`KUTISAKE_002.json`](trad/negociations/KUTISAKE_002.json) — 3 lignes
+- [`KUTISAKE_003.json`](trad/negociations/KUTISAKE_003.json) — 7 lignes
+- [`YAKUZA_001.json`](trad/negociations/YAKUZA_001.json) — 1 ligne
+- [`YAKUZA_002.json`](trad/negociations/YAKUZA_002.json) — 6 lignes
 
 ## À vérifier en jeu
 
@@ -234,9 +239,9 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`ETC_002.json`](trad/negociations/ETC_002.json) | 100 | 0 | 0 % | libre |
 | [`ETC_003.json`](trad/negociations/ETC_003.json) | 100 | 0 | 0 % | libre |
 | [`ETC_004.json`](trad/negociations/ETC_004.json) | 24 | 0 | 0 % | libre |
-| [`GAKI_001.json`](trad/negociations/GAKI_001.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#17) |
-| [`GAKI_002.json`](trad/negociations/GAKI_002.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#17) |
-| [`GAKI_003.json`](trad/negociations/GAKI_003.json) | 28 | 0 | 0 % | en cours par @CodeByHaamza (#17) |
+| [`GAKI_001.json`](trad/negociations/GAKI_001.json) | 100 | 100 | 100 % | terminé |
+| [`GAKI_002.json`](trad/negociations/GAKI_002.json) | 100 | 100 | 100 % | terminé |
+| [`GAKI_003.json`](trad/negociations/GAKI_003.json) | 28 | 28 | 100 % | terminé |
 | [`HIHO_001.json`](trad/negociations/HIHO_001.json) | 100 | 0 | 0 % | libre |
 | [`HIHO_002.json`](trad/negociations/HIHO_002.json) | 100 | 0 | 0 % | libre |
 | [`HIHO_003.json`](trad/negociations/HIHO_003.json) | 100 | 0 | 0 % | libre |
@@ -280,9 +285,9 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`KOUMAN_007.json`](trad/negociations/KOUMAN_007.json) | 100 | 0 | 0 % | libre |
 | [`KOUMAN_008.json`](trad/negociations/KOUMAN_008.json) | 100 | 0 | 0 % | libre |
 | [`KOUMAN_009.json`](trad/negociations/KOUMAN_009.json) | 93 | 0 | 0 % | libre |
-| [`KUTISAKE_001.json`](trad/negociations/KUTISAKE_001.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#17) |
-| [`KUTISAKE_002.json`](trad/negociations/KUTISAKE_002.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#17) |
-| [`KUTISAKE_003.json`](trad/negociations/KUTISAKE_003.json) | 81 | 0 | 0 % | en cours par @CodeByHaamza (#17) |
+| [`KUTISAKE_001.json`](trad/negociations/KUTISAKE_001.json) | 100 | 100 | 100 % | terminé · 1 trop large |
+| [`KUTISAKE_002.json`](trad/negociations/KUTISAKE_002.json) | 100 | 100 | 100 % | terminé · 3 trop large |
+| [`KUTISAKE_003.json`](trad/negociations/KUTISAKE_003.json) | 81 | 81 | 100 % | terminé · 7 trop large |
 | [`KYOUKI_001.json`](trad/negociations/KYOUKI_001.json) | 100 | 0 | 0 % | libre |
 | [`KYOUKI_002.json`](trad/negociations/KYOUKI_002.json) | 100 | 0 | 0 % | libre |
 | [`KYOUKI_003.json`](trad/negociations/KYOUKI_003.json) | 100 | 0 | 0 % | libre |
@@ -307,9 +312,9 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`SINSI_005.json`](trad/negociations/SINSI_005.json) | 100 | 0 | 0 % | libre |
 | [`SINSI_006.json`](trad/negociations/SINSI_006.json) | 100 | 0 | 0 % | libre |
 | [`SINSI_007.json`](trad/negociations/SINSI_007.json) | 36 | 0 | 0 % | libre |
-| [`SLIME_001.json`](trad/negociations/SLIME_001.json) | 100 | 16 | 16 % | en cours par @CodeByHaamza (#17) |
-| [`SLIME_002.json`](trad/negociations/SLIME_002.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#17) |
-| [`SLIME_003.json`](trad/negociations/SLIME_003.json) | 20 | 0 | 0 % | en cours par @CodeByHaamza (#17) |
+| [`SLIME_001.json`](trad/negociations/SLIME_001.json) | 100 | 100 | 100 % | terminé |
+| [`SLIME_002.json`](trad/negociations/SLIME_002.json) | 100 | 100 | 100 % | terminé |
+| [`SLIME_003.json`](trad/negociations/SLIME_003.json) | 20 | 20 | 100 % | terminé |
 | [`SYOUJO_001.json`](trad/negociations/SYOUJO_001.json) | 100 | 0 | 0 % | libre |
 | [`SYOUJO_002.json`](trad/negociations/SYOUJO_002.json) | 100 | 0 | 0 % | libre |
 | [`SYOUJO_003.json`](trad/negociations/SYOUJO_003.json) | 100 | 0 | 0 % | libre |
@@ -340,9 +345,9 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`WORM_008.json`](trad/negociations/WORM_008.json) | 100 | 0 | 0 % | libre |
 | [`WORM_009.json`](trad/negociations/WORM_009.json) | 86 | 0 | 0 % | libre |
 | [`WTENSI_001.json`](trad/negociations/WTENSI_001.json) | 80 | 0 | 0 % | libre |
-| [`YAKUZA_001.json`](trad/negociations/YAKUZA_001.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#17) |
-| [`YAKUZA_002.json`](trad/negociations/YAKUZA_002.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#17) |
-| [`YAKUZA_003.json`](trad/negociations/YAKUZA_003.json) | 59 | 5 | 8 % | en cours par @CodeByHaamza (#17) |
+| [`YAKUZA_001.json`](trad/negociations/YAKUZA_001.json) | 100 | 100 | 100 % | terminé · 1 trop large |
+| [`YAKUZA_002.json`](trad/negociations/YAKUZA_002.json) | 100 | 100 | 100 % | terminé · 6 trop large |
+| [`YAKUZA_003.json`](trad/negociations/YAKUZA_003.json) | 59 | 59 | 100 % | terminé |
 | [`YOUEN_001.json`](trad/negociations/YOUEN_001.json) | 100 | 0 | 0 % | libre |
 | [`YOUEN_002.json`](trad/negociations/YOUEN_002.json) | 100 | 0 | 0 % | libre |
 | [`YOUEN_003.json`](trad/negociations/YOUEN_003.json) | 100 | 0 | 0 % | libre |
@@ -350,8 +355,8 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`YOUEN_005.json`](trad/negociations/YOUEN_005.json) | 100 | 0 | 0 % | libre |
 | [`YOUEN_006.json`](trad/negociations/YOUEN_006.json) | 87 | 0 | 0 % | libre |
 | [`ZMBITYAN_001.json`](trad/negociations/ZMBITYAN_001.json) | 100 | 100 | 100 % | terminé |
-| [`ZMBITYAN_002.json`](trad/negociations/ZMBITYAN_002.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#17) |
-| [`ZMBITYAN_003.json`](trad/negociations/ZMBITYAN_003.json) | 22 | 0 | 0 % | en cours par @CodeByHaamza (#17) |
+| [`ZMBITYAN_002.json`](trad/negociations/ZMBITYAN_002.json) | 100 | 100 | 100 % | terminé |
+| [`ZMBITYAN_003.json`](trad/negociations/ZMBITYAN_003.json) | 22 | 22 | 100 % | terminé |
 | [`ZOMBIKO_001.json`](trad/negociations/ZOMBIKO_001.json) | 100 | 0 | 0 % | libre |
 | [`ZOMBIKO_002.json`](trad/negociations/ZOMBIKO_002.json) | 90 | 0 | 0 % | libre |
 | [`ZOMB_MAN_001.json`](trad/negociations/ZOMB_MAN_001.json) | 100 | 0 | 0 % | libre |
