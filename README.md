@@ -7,7 +7,7 @@ américaine `ULUS-10432`). Le jeu n'est jamais sorti en français ; ce projet
 vise une version complète, jouable, et écrite en vrai français — accents
 compris.
 
-![avancement](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge.json)
+![total](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge.json)
 ![licence](https://img.shields.io/badge/licence-CC%20BY--NC--SA%204.0-lightgrey)
 
 ![dialogues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_dialogues.json)

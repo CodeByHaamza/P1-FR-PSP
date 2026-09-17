@@ -450,7 +450,7 @@ def main(argv=None):
     # principal comptait autrefois les seuls dialogues, ce qui faisait dire
     # « 20 % » a un projet dont les menus et les donjons etaient finis.
     fait, tout = totaux(sections)
-    ecrire_badge(racine / ".github" / "badge.json", "traduction", fait, tout)
+    ecrire_badge(racine / ".github" / "badge.json", "total", fait, tout)
     for nom, sous_dossier, _par_fichier, total, traduits in sections:
         ecrire_badge(racine / ".github" / f"badge_{Path(sous_dossier).name}.json", nom.lower(), traduits, total)
 
