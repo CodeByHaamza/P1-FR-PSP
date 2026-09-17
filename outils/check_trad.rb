@@ -39,7 +39,13 @@
 #      français fléchit, et reformuler est souvent le bon choix. Mais sur
 #      8 572 textes et des dizaines de traducteurs, c'est le seul défaut
 #      qu'aucun relecteur humain ne verra.
-#   7. BUDGET    — une entrée EBOOT plus longue que son `max`. Le moteur la
+#   7. BUDGET    — une entrée EBOOT plus longue que son `max`.
+#
+# Et une ERREUR propre aux donjons :
+#
+#   8. DONJON    — un texte de donjon plus long que l'anglais. La taille de ces
+#      fichiers est inscrite dans l'exécutable ; en grossissant, ils laissent
+#      le jeu sur un écran de chargement sans fin. Vu en jeu. Le moteur la
 #      redirige vers un code cave : ça marche, c'est prouvé en jeu, mais c'est
 #      plus fragile que de tenir dans la place d'origine. Les dialogues n'ont
 #      pas de `max`, ce contrôle ne s'y déclenche donc jamais.
@@ -365,7 +371,15 @@ module CheckTrad
       gonfle = (e['fr'].gsub(JETON, '').length - e['en'].gsub(JETON, '').length) +
                (e['locuteur_fr'].to_s.empty? ? 0 : e['locuteur_fr'].length - e['locuteur'].to_s.length)
       cout = gonfle * 2 * n
-      if cout > SEUIL_OCTETS
+      if id.to_s.start_with?('DNG:') && gonfle > 0
+        # Les fichiers de donjon sont à part : ils ne peuvent pas grossir d'un
+        # octet. Leur taille est inscrite dans l'exécutable, et un donjon qui
+        # dépasse laisse le jeu sur un écran de chargement infini — vu en jeu
+        # le 17/09/2026 en sortant de l'infirmerie, pour quelques octets de
+        # trop dans quatre fichiers. Erreur, donc, pas avertissement.
+        soucis << "#{id} [DONJON] #{gonfle} car. de plus que l'anglais — " \
+                  'un fichier de donjon ne peut pas grossir (chargement infini)'
+      elsif cout > SEUIL_OCTETS
         avertis << "#{id} [OCTETS] +#{cout} octets (#{gonfle} car. x#{n} occurrences) — " \
                    'un bloc qui deborde renvoie tout le fichier en anglais'
       end

@@ -211,6 +211,12 @@ l'anglais**. Le validateur t'avertit quand une entrée dépasse 48 octets de
 surplus, mais il ne connaît pas la marge réelle du bloc — la prudence reste
 la meilleure méthode.
 
+**Les donjons ne grossissent pas du tout.** Leur taille est inscrite dans
+l'exécutable : un `trad/donjons/` plus long que l'anglais laisse le jeu sur un
+écran de chargement sans fin (vu en jeu). Le validateur le refuse en erreur
+`[DONJON]` : chaque ligne de donjon doit être **aussi courte ou plus courte**
+que l'anglaise, jetons non comptés.
+
 **Les négociations sont les plus serrées.** Chaque fichier de démon n'a que
 quelques centaines d'octets de marge — 1,5 % de son texte en moyenne, contre
 10 à 15 % de rallonge naturelle du français. Vise donc, sur l'ensemble d'un

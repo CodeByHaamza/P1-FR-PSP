@@ -2,7 +2,7 @@
   {
     "id": "DNG:d19/d19.bin:0002",
     "en": " < A mysterious message is written on the{SAUT}door in old-looking script.{ATTENTE}",
-    "fr": " < Un message mystérieux est gravé sur{SAUT}la porte, en écriture ancienne.{ATTENTE}",
+    "fr": " < Un message mystérieux est écrit sur{SAUT}la porte, en lettres antiques.{ATTENTE}",
     "_occurrences": 3
   },
   {
@@ -39,7 +39,7 @@
   {
     "id": "DNG:d19/d19.bin:0011",
     "en": "< It seems a demonic power on this floor{SAUT}is holding it shut...{ATTENTE}",
-    "fr": "< Une force démoniaque de cet étage{SAUT}semble la maintenir fermée...{ATTENTE}"
+    "fr": "< Une force démoniaque de cet étage{SAUT}semble la tenir fermée...{ATTENTE}"
   },
   {
     "id": "DNG:d19/d19.bin:0013",
@@ -169,6 +169,6 @@
   {
     "id": "DNG:d24/d24.bin:0005",
     "en": " < The gym is closed off.{ATTENTE}",
-    "fr": " < Le gymnase est condamné.{ATTENTE}"
+    "fr": " < Le gymnase est fermé.{ATTENTE}"
   }
 ]
