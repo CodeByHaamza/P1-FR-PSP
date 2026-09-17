@@ -307,7 +307,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`SINSI_005.json`](trad/negociations/SINSI_005.json) | 100 | 0 | 0 % | libre |
 | [`SINSI_006.json`](trad/negociations/SINSI_006.json) | 100 | 0 | 0 % | libre |
 | [`SINSI_007.json`](trad/negociations/SINSI_007.json) | 36 | 0 | 0 % | libre |
-| [`SLIME_001.json`](trad/negociations/SLIME_001.json) | 100 | 16 | 16 % | en cours par @CodeByHaamza (#16) |
+| [`SLIME_001.json`](trad/negociations/SLIME_001.json) | 100 | 16 | 16 % | commencé |
 | [`SLIME_002.json`](trad/negociations/SLIME_002.json) | 100 | 0 | 0 % | libre |
 | [`SLIME_003.json`](trad/negociations/SLIME_003.json) | 20 | 0 | 0 % | libre |
 | [`SYOUJO_001.json`](trad/negociations/SYOUJO_001.json) | 100 | 0 | 0 % | libre |
@@ -342,7 +342,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`WTENSI_001.json`](trad/negociations/WTENSI_001.json) | 80 | 0 | 0 % | libre |
 | [`YAKUZA_001.json`](trad/negociations/YAKUZA_001.json) | 100 | 0 | 0 % | libre |
 | [`YAKUZA_002.json`](trad/negociations/YAKUZA_002.json) | 100 | 0 | 0 % | libre |
-| [`YAKUZA_003.json`](trad/negociations/YAKUZA_003.json) | 59 | 5 | 8 % | en cours par @CodeByHaamza (#16) |
+| [`YAKUZA_003.json`](trad/negociations/YAKUZA_003.json) | 59 | 5 | 8 % | commencé |
 | [`YOUEN_001.json`](trad/negociations/YOUEN_001.json) | 100 | 0 | 0 % | libre |
 | [`YOUEN_002.json`](trad/negociations/YOUEN_002.json) | 100 | 0 | 0 % | libre |
 | [`YOUEN_003.json`](trad/negociations/YOUEN_003.json) | 100 | 0 | 0 % | libre |
