@@ -390,7 +390,7 @@
     "locuteur": "Maki",
     "en": "No one wants to die, right?{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "Personne ne veut mourir, non?{ATTENTE}",
+    "fr": "Nul ne veut mourir, non?{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -398,7 +398,7 @@
     "locuteur": "Maki",
     "en": "We can catch Kandori anytime. This man{SAUT}needs our help!{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "Kandori, on peut l'attraper plus tard.{SAUT}Cet homme a besoin de nous!{ATTENTE}",
+    "fr": "Kandori attendra. Cet homme a{SAUT}besoin de notre aide!{ATTENTE}",
     "_occurrences": 2
   },
   {

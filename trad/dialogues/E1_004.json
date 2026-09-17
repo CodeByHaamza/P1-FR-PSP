@@ -236,7 +236,7 @@
     "locuteur": "Yukino",
     "en": "Right, (*APELLIDO_HEROE*)?{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Pas vrai, (*APELLIDO_HEROE*)?{ATTENTE}",
+    "fr": "Hein, (*APELLIDO_HEROE*)?{ATTENTE}",
     "_occurrences": 2
   },
   {
