@@ -59,80 +59,80 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_026.json`](trad/dialogues/E0_026.json) | 77 | 0 | 0 % | en cours par @CodeByHaamza (#12) |
 | [`E0_027.json`](trad/dialogues/E0_027.json) | 40 | 40 | 100 % | terminé |
 | [`E0_028.json`](trad/dialogues/E0_028.json) | 78 | 0 | 0 % | libre |
-| [`E0_029.json`](trad/dialogues/E0_029.json) | 55 | 0 | 0 % | libre |
-| [`E0_030.json`](trad/dialogues/E0_030.json) | 100 | 0 | 0 % | libre |
-| [`E0_031.json`](trad/dialogues/E0_031.json) | 74 | 0 | 0 % | libre |
-| [`E0_032.json`](trad/dialogues/E0_032.json) | 100 | 0 | 0 % | libre |
-| [`E0_033.json`](trad/dialogues/E0_033.json) | 74 | 0 | 0 % | libre |
-| [`E0_034.json`](trad/dialogues/E0_034.json) | 70 | 0 | 0 % | libre |
+| [`E0_029.json`](trad/dialogues/E0_029.json) | 55 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E0_030.json`](trad/dialogues/E0_030.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E0_031.json`](trad/dialogues/E0_031.json) | 74 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E0_032.json`](trad/dialogues/E0_032.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E0_033.json`](trad/dialogues/E0_033.json) | 74 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E0_034.json`](trad/dialogues/E0_034.json) | 70 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
 | [`E0_035.json`](trad/dialogues/E0_035.json) | 57 | 0 | 0 % | libre |
-| [`E0_036.json`](trad/dialogues/E0_036.json) | 53 | 0 | 0 % | libre |
-| [`E0_037.json`](trad/dialogues/E0_037.json) | 99 | 0 | 0 % | libre |
-| [`E0_038.json`](trad/dialogues/E0_038.json) | 79 | 0 | 0 % | libre |
-| [`E0_039.json`](trad/dialogues/E0_039.json) | 56 | 0 | 0 % | libre |
-| [`E0_040.json`](trad/dialogues/E0_040.json) | 89 | 0 | 0 % | libre |
+| [`E0_036.json`](trad/dialogues/E0_036.json) | 53 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E0_037.json`](trad/dialogues/E0_037.json) | 99 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E0_038.json`](trad/dialogues/E0_038.json) | 79 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E0_039.json`](trad/dialogues/E0_039.json) | 56 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E0_040.json`](trad/dialogues/E0_040.json) | 89 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
 | [`E0_041.json`](trad/dialogues/E0_041.json) | 89 | 0 | 0 % | libre |
 | [`E0_042.json`](trad/dialogues/E0_042.json) | 82 | 0 | 0 % | libre |
 | [`E0_043.json`](trad/dialogues/E0_043.json) | 100 | 0 | 0 % | libre |
-| [`E0_044.json`](trad/dialogues/E0_044.json) | 100 | 0 | 0 % | libre |
-| [`E0_045.json`](trad/dialogues/E0_045.json) | 100 | 0 | 0 % | libre |
-| [`E0_046.json`](trad/dialogues/E0_046.json) | 92 | 0 | 0 % | libre |
-| [`E0_047.json`](trad/dialogues/E0_047.json) | 69 | 0 | 0 % | libre |
+| [`E0_044.json`](trad/dialogues/E0_044.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E0_045.json`](trad/dialogues/E0_045.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E0_046.json`](trad/dialogues/E0_046.json) | 92 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E0_047.json`](trad/dialogues/E0_047.json) | 69 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
 | [`E0_048.json`](trad/dialogues/E0_048.json) | 50 | 0 | 0 % | libre |
-| [`E1_001.json`](trad/dialogues/E1_001.json) | 80 | 0 | 0 % | libre |
-| [`E1_002.json`](trad/dialogues/E1_002.json) | 100 | 0 | 0 % | libre |
-| [`E1_003.json`](trad/dialogues/E1_003.json) | 94 | 0 | 0 % | libre |
-| [`E1_004.json`](trad/dialogues/E1_004.json) | 87 | 0 | 0 % | libre |
-| [`E1_005.json`](trad/dialogues/E1_005.json) | 81 | 0 | 0 % | libre |
-| [`E1_006.json`](trad/dialogues/E1_006.json) | 77 | 0 | 0 % | libre |
-| [`E1_007.json`](trad/dialogues/E1_007.json) | 97 | 0 | 0 % | libre |
+| [`E1_001.json`](trad/dialogues/E1_001.json) | 80 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E1_002.json`](trad/dialogues/E1_002.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E1_003.json`](trad/dialogues/E1_003.json) | 94 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E1_004.json`](trad/dialogues/E1_004.json) | 87 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E1_005.json`](trad/dialogues/E1_005.json) | 81 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E1_006.json`](trad/dialogues/E1_006.json) | 77 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E1_007.json`](trad/dialogues/E1_007.json) | 97 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
 | [`E1_008.json`](trad/dialogues/E1_008.json) | 74 | 0 | 0 % | libre |
-| [`E1_009.json`](trad/dialogues/E1_009.json) | 75 | 0 | 0 % | libre |
-| [`E1_010.json`](trad/dialogues/E1_010.json) | 63 | 0 | 0 % | libre |
-| [`E1_011.json`](trad/dialogues/E1_011.json) | 87 | 0 | 0 % | libre |
-| [`E1_012.json`](trad/dialogues/E1_012.json) | 83 | 0 | 0 % | libre |
+| [`E1_009.json`](trad/dialogues/E1_009.json) | 75 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E1_010.json`](trad/dialogues/E1_010.json) | 63 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E1_011.json`](trad/dialogues/E1_011.json) | 87 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E1_012.json`](trad/dialogues/E1_012.json) | 83 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
 | [`E1_013.json`](trad/dialogues/E1_013.json) | 60 | 0 | 0 % | libre |
 | [`E1_014.json`](trad/dialogues/E1_014.json) | 43 | 43 | 100 % | terminé |
-| [`E1_015.json`](trad/dialogues/E1_015.json) | 65 | 0 | 0 % | libre |
+| [`E1_015.json`](trad/dialogues/E1_015.json) | 65 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
 | [`E1_016.json`](trad/dialogues/E1_016.json) | 100 | 0 | 0 % | libre |
 | [`E1_017.json`](trad/dialogues/E1_017.json) | 38 | 38 | 100 % | terminé |
 | [`E1_018.json`](trad/dialogues/E1_018.json) | 100 | 0 | 0 % | libre |
-| [`E1_019.json`](trad/dialogues/E1_019.json) | 46 | 0 | 0 % | libre |
-| [`E1_020.json`](trad/dialogues/E1_020.json) | 67 | 0 | 0 % | libre |
+| [`E1_019.json`](trad/dialogues/E1_019.json) | 46 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E1_020.json`](trad/dialogues/E1_020.json) | 67 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
 | [`E1_021.json`](trad/dialogues/E1_021.json) | 66 | 0 | 0 % | libre |
 | [`E1_022.json`](trad/dialogues/E1_022.json) | 95 | 0 | 0 % | libre |
-| [`E1_023.json`](trad/dialogues/E1_023.json) | 96 | 0 | 0 % | libre |
-| [`E1_024.json`](trad/dialogues/E1_024.json) | 93 | 0 | 0 % | libre |
+| [`E1_023.json`](trad/dialogues/E1_023.json) | 96 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E1_024.json`](trad/dialogues/E1_024.json) | 93 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
 | [`E1_025.json`](trad/dialogues/E1_025.json) | 86 | 0 | 0 % | libre |
-| [`E1_026.json`](trad/dialogues/E1_026.json) | 97 | 0 | 0 % | libre |
-| [`E1_027.json`](trad/dialogues/E1_027.json) | 89 | 1 | 1 % | commencé |
-| [`E1_028.json`](trad/dialogues/E1_028.json) | 79 | 0 | 0 % | libre |
-| [`E1_029.json`](trad/dialogues/E1_029.json) | 99 | 0 | 0 % | libre |
-| [`E1_030.json`](trad/dialogues/E1_030.json) | 96 | 0 | 0 % | libre |
-| [`E1_031.json`](trad/dialogues/E1_031.json) | 97 | 0 | 0 % | libre |
-| [`E2_001.json`](trad/dialogues/E2_001.json) | 95 | 0 | 0 % | libre |
-| [`E2_002.json`](trad/dialogues/E2_002.json) | 100 | 0 | 0 % | libre |
-| [`E2_003.json`](trad/dialogues/E2_003.json) | 96 | 0 | 0 % | libre |
+| [`E1_026.json`](trad/dialogues/E1_026.json) | 97 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E1_027.json`](trad/dialogues/E1_027.json) | 89 | 1 | 1 % | en cours par @CodeByHaamza (#13) |
+| [`E1_028.json`](trad/dialogues/E1_028.json) | 79 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E1_029.json`](trad/dialogues/E1_029.json) | 99 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E1_030.json`](trad/dialogues/E1_030.json) | 96 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E1_031.json`](trad/dialogues/E1_031.json) | 97 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E2_001.json`](trad/dialogues/E2_001.json) | 95 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E2_002.json`](trad/dialogues/E2_002.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E2_003.json`](trad/dialogues/E2_003.json) | 96 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
 | [`E2_004.json`](trad/dialogues/E2_004.json) | 97 | 4 | 4 % | commencé |
-| [`E2_005.json`](trad/dialogues/E2_005.json) | 92 | 3 | 3 % | commencé |
-| [`E2_006.json`](trad/dialogues/E2_006.json) | 92 | 4 | 4 % | commencé |
-| [`E2_007.json`](trad/dialogues/E2_007.json) | 99 | 4 | 4 % | commencé |
-| [`E2_008.json`](trad/dialogues/E2_008.json) | 99 | 0 | 0 % | libre |
-| [`E2_009.json`](trad/dialogues/E2_009.json) | 97 | 0 | 0 % | libre |
+| [`E2_005.json`](trad/dialogues/E2_005.json) | 92 | 3 | 3 % | en cours par @CodeByHaamza (#13) |
+| [`E2_006.json`](trad/dialogues/E2_006.json) | 92 | 4 | 4 % | en cours par @CodeByHaamza (#13) |
+| [`E2_007.json`](trad/dialogues/E2_007.json) | 99 | 4 | 4 % | en cours par @CodeByHaamza (#13) |
+| [`E2_008.json`](trad/dialogues/E2_008.json) | 99 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E2_009.json`](trad/dialogues/E2_009.json) | 97 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
 | [`E2_010.json`](trad/dialogues/E2_010.json) | 97 | 0 | 0 % | libre |
 | [`E2_011.json`](trad/dialogues/E2_011.json) | 90 | 0 | 0 % | libre |
 | [`E2_012.json`](trad/dialogues/E2_012.json) | 91 | 4 | 4 % | commencé |
 | [`E2_013.json`](trad/dialogues/E2_013.json) | 88 | 0 | 0 % | libre |
-| [`E2_014.json`](trad/dialogues/E2_014.json) | 95 | 4 | 4 % | commencé |
-| [`E2_015.json`](trad/dialogues/E2_015.json) | 91 | 0 | 0 % | libre |
+| [`E2_014.json`](trad/dialogues/E2_014.json) | 95 | 4 | 4 % | en cours par @CodeByHaamza (#13) |
+| [`E2_015.json`](trad/dialogues/E2_015.json) | 91 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
 | [`E2_016.json`](trad/dialogues/E2_016.json) | 100 | 3 | 3 % | commencé |
-| [`E2_017.json`](trad/dialogues/E2_017.json) | 80 | 0 | 0 % | libre |
-| [`E3_001.json`](trad/dialogues/E3_001.json) | 93 | 0 | 0 % | libre |
-| [`E3_002.json`](trad/dialogues/E3_002.json) | 97 | 2 | 2 % | commencé |
-| [`E3_003.json`](trad/dialogues/E3_003.json) | 70 | 0 | 0 % | libre |
-| [`E3_004.json`](trad/dialogues/E3_004.json) | 95 | 0 | 0 % | libre |
-| [`E3_005.json`](trad/dialogues/E3_005.json) | 97 | 0 | 0 % | libre |
-| [`E3_006.json`](trad/dialogues/E3_006.json) | 98 | 0 | 0 % | libre |
+| [`E2_017.json`](trad/dialogues/E2_017.json) | 80 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E3_001.json`](trad/dialogues/E3_001.json) | 93 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E3_002.json`](trad/dialogues/E3_002.json) | 97 | 2 | 2 % | en cours par @CodeByHaamza (#13) |
+| [`E3_003.json`](trad/dialogues/E3_003.json) | 70 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E3_004.json`](trad/dialogues/E3_004.json) | 95 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E3_005.json`](trad/dialogues/E3_005.json) | 97 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
+| [`E3_006.json`](trad/dialogues/E3_006.json) | 98 | 0 | 0 % | en cours par @CodeByHaamza (#13) |
 | [`E3_007.json`](trad/dialogues/E3_007.json) | 96 | 0 | 0 % | libre |
 | [`E3_008.json`](trad/dialogues/E3_008.json) | 66 | 1 | 2 % | commencé |
 
