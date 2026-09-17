@@ -23,57 +23,57 @@
     "locuteur": "Yukino",
     "en": "Whoa!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Whoa!{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0004",
     "locuteur": "Yukino",
     "en": "What's this...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "C'est quoi...?{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0005",
     "locuteur": "Yukino",
     "en": "Yeah? I'm ready to go anytime.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Ouais? Prête quand tu veux.{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0006",
     "locuteur": "Yukino",
     "en": "Let's get this show on the road!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Allez, c'est parti!{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0007",
     "locuteur": "Ayase",
     "en": "It's like, so pretty...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "C'est trop joli...{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0008",
     "locuteur": "Ayase",
     "en": "What now? You getting cold feet?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Quoi encore? Tu flippes?{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0009",
     "locuteur": "Nanjo",
     "en": "Watch yourself. They say that every rose{SAUT}has its thorn.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Nanjo",
+    "fr": "Fais attention. Chaque rose a, dit-on,{SAUT}ses épines.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E3.BIN:010:0011",
     "locuteur": "Nanjo",
     "en": "I've been waiting for you. I went on{SAUT}ahead so that I could give you this.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Je t'attendais. J'ai pris de{SAUT}l'avance pour te donner ceci.{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0012",
@@ -86,8 +86,8 @@
     "id": "E3.BIN:010:0013",
     "locuteur": "Nanjo",
     "en": "No need to thank me. You can show your{SAUT}gratitude by saving this school quickly.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Pas de merci à avoir. Montre ta{SAUT}gratitude en sauvant vite ce lycée.{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0014",
@@ -98,15 +98,15 @@
     "id": "E3.BIN:010:0015",
     "locuteur": "Nanjo",
     "en": "Apparently, if you touch this, you'll be{SAUT}teleported elsewhere.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Paraît qu'en touchant ceci, on est{SAUT}téléporte ailleurs.{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0016",
     "locuteur": "Nanjo",
     "en": "I can't say for sure where that might be.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Où exactement, je ne saurais dire.{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0017",
@@ -120,8 +120,8 @@
     "id": "E3.BIN:010:0019",
     "locuteur": "Brown",
     "en": "Geez, you're late.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "T'es en retard.{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0020",
@@ -149,15 +149,15 @@
     "id": "E3.BIN:010:0023",
     "locuteur": "Brown",
     "en": "I won one at the casino, but I had{SAUT}another one on me.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "J'en ai gagné un au casino, mais j'en{SAUT}avais un autre.{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0024",
     "locuteur": "Brown",
     "en": "Nah, no need for thanks. Well, good luck!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Nah, pas de merci. Bon, bonne chance!{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0025",
@@ -168,22 +168,22 @@
     "id": "E3.BIN:010:0027",
     "locuteur": "Elly",
     "en": "Could it be plasma?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "C'est du plasma?{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0028",
     "locuteur": "Elly",
     "en": "Now, let's go!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Bon, allons-y!{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0029",
     "locuteur": "Elly",
     "en": "I had a feeling you'd be here.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Je te sentais ici.{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0030",
@@ -196,15 +196,15 @@
     "id": "E3.BIN:010:0031",
     "locuteur": "Elly",
     "en": "I happened to come across it when I was{SAUT}searching for something in the library...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Je suis tombée dessus alors que je{SAUT}cherchais un truc à la bibliothèque...{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0032",
     "locuteur": "Elly",
     "en": "I thought you might be able to make{SAUT}better use of it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Je me suis dit que tu en ferais{SAUT}meilleur usage.{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0033",
@@ -215,15 +215,15 @@
     "id": "E3.BIN:010:0034",
     "locuteur": "Elly",
     "en": "I wonder what's beyond the light?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Qu'y a-t-il par-delà la lumière?{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0000",
     "locuteur": "Nurse Natsumi",
     "en": "Is everyone all right? Here, let me{SAUT}take a look at your wounds.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "",
+    "fr": "Tout le monde va bien? Montrez-moi{SAUT}vos blessures.{ATTENTE}",
     "_occurrences": 3
   },
   {
@@ -231,56 +231,56 @@
     "locuteur": "Nurse Natsumi",
     "en": "Well, you're all good to go. Try not{SAUT}to push yourself too much!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Voilà, vous êtes remis. Évitez{SAUT}de trop forcer!{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0002",
     "locuteur": "Nurse Natsumi",
     "en": "Why are you staring at me? Wait, let me{SAUT}guess... Have you fallen for me?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Pourquoi me fixer ainsi? Attends, je{SAUT}devine... Tu craques pour moi?{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0003",
     "locuteur": "Nurse Natsumi",
     "en": "Speaking of falling for people... Ayase!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "En parlant de craquer... Ayase!{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0004",
     "locuteur": "Nurse Natsumi",
     "en": "Did I hear that Kenta confessed his love{SAUT}for you?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Il paraît que Kenta t'a avoué son{SAUT}amour?{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0005",
     "locuteur": "Nurse Natsumi",
     "en": "What did you say to him!? That boy's been{SAUT}acting very strange lately.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Tu lui as dit quoi!? Ce garçon est{SAUT}bien étrange en ce moment.{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0006",
     "locuteur": "Nurse Natsumi",
     "en": "You should take people's feelings into{SAUT}consideration before you say something!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Pense aux sentiments des autres{SAUT}avant de dire quoi que ce soit!{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0007",
     "locuteur": "Ayase",
     "en": "Well said! And like, you would know, with{SAUT}all your experience getting rejected.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Bien dit! Et tu t'y connais, vu{SAUT}toutes les vestes que tu as prisés.{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0008",
     "locuteur": "Nurse Natsumi",
     "en": "...Well, back to work for me.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "",
+    "fr": "...Bon, je retourne bosser.{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -295,35 +295,35 @@
     "locuteur": "Setsuko Sonomura",
     "en": "I can't believe the phenomenon has{SAUT}spread to the school...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Dire que le phénomène a gagné{SAUT}le lycée...{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0014",
     "locuteur": "Setsuko Sonomura",
     "en": "Maki... please be safe...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Maki... reste en vie...{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0015",
     "locuteur": "Setsuko Sonomura",
     "en": "If Maki had been a bright, active girl{SAUT}like all of you...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Si Maki avait été vive et gaie{SAUT}comme vous toutes...{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0016",
     "locuteur": "Setsuko Sonomura",
     "en": "That Nanjo boy left here a moment ago.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Ce Nanjo vient de partir d'ici.{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0017",
     "locuteur": "Setsuko Sonomura",
     "en": "He was saying something about being unable{SAUT}to enter a classroom with a frozen door.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Il disait ne pas pouvoir entrer{SAUT}dans une salle à la porte gelée.{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0018",
@@ -343,22 +343,22 @@
     "id": "E3.BIN:011:0020",
     "locuteur": "Wounded girl",
     "en": "I'd go check it out if I hadn't hurt{SAUT}myself when I fell. Owww...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Fille blessée",
+    "fr": "J'irais voir si je m'étais pas{SAUT}blessée en tombant. Aie...{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0021",
     "locuteur": "Female student",
     "en": "Like, did you hear?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Étudiante",
+    "fr": "Genre, t'as entendu?{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0022",
     "locuteur": "Female student",
     "en": "Y'know the market they're holding next{SAUT}door that sells those kickass clothes?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Étudiante",
+    "fr": "Tu sais, le marche à côté{SAUT}qui vend ces fringues géniales?{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0023",
@@ -383,105 +383,105 @@
     "id": "E3.BIN:011:0026",
     "locuteur": "Nanjo",
     "en": "Masao, Maki, wait for us. Once we defeat{SAUT}the Snow Queen, we'll come for you!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Masao, Maki, attendez. Une fois{SAUT}la reine des neiges vaincue, on vient!{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0027",
     "locuteur": "Nanjo",
     "en": "Yes? What is it? Do you still require{SAUT}something of me?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Oui? Qu'y a-t-il? Tu as besoin{SAUT}de moi encore?{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0028",
     "locuteur": "Nanjo",
     "en": "Do you need my assistance after all?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Tu veux mon aide finalement?{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0036",
     "locuteur": "Nanjo",
     "en": "I see. Then I'm going to look for a way{SAUT}out of the school.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Je vois. Alors je vais chercher une{SAUT}sortie du lycée.{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0037",
     "locuteur": "Nanjo",
     "en": "I'll search for a way out of the school{SAUT}on my end as well.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Je chercherai une sortie du lycée{SAUT}de mon côté aussi.{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0038",
     "locuteur": "Nanjo",
     "en": "The lot of you should go defeat the{SAUT}Snow Queen.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Vous devriez aller vaincre la{SAUT}Reine des neiges.{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0039",
     "locuteur": "Yukino",
     "en": "I hate doctors... but if we get hurt, we{SAUT}should go see Nurse Natsumi.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Je hais les médecins... mais blessées,{SAUT}on verra l'infirmière Natsumi.{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0040",
     "locuteur": "Yukino",
     "en": "Better that than force ourselves to keep{SAUT}going while we're injured.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Mieux que de se forcer à continuer{SAUT}en étant blessées.{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0041",
     "locuteur": "Yukino",
     "en": "Everyone doing okay?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Tout le monde ok?{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0042",
     "locuteur": "Ayase",
     "en": "Is this that Agastya thing? I've heard{SAUT}it has, like, weird powers.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "C'est le truc Agastya? Il aurait{SAUT}de drôles de pouvoirs.{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0043",
     "locuteur": "Ayase",
     "en": "This place is freezing, too. It's time{SAUT}we ditched all this cold stuff.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Ici aussi c'est glacial. Il est temps{SAUT}d'en finir avec ce froid.{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0044",
     "locuteur": "Brown",
     "en": "I wonder if there are any love potions{SAUT}around here.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Y aurait-il des philtres d'amour{SAUT}dans le coin.{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0045",
     "locuteur": "Brown",
     "en": "I wonder if there are any smart drugs{SAUT}around here.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Y aurait-il des pilules de génie{SAUT}dans le coin.{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0046",
     "locuteur": "Elly",
     "en": "Thank goodness the infirmary is still{SAUT}intact.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Heureusement, l'infirmerie est{SAUT}intacte.{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0047",
     "locuteur": "Elly",
     "en": "We must hurry and bring the school back{SAUT}to normal so we can find Maki.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Vite, rendons au lycée son état{SAUT}normal pour trouver Maki.{ATTENTE}"
   }
 ]

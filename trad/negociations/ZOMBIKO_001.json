@@ -1,0 +1,503 @@
+[
+  {
+    "id": "ZOMBIKO.BIN:text:0000",
+    "en": "Hmm, what you're saying sounds pretty{SAUT}respectable... it just doesn't apply{SAUT}to me anymore.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0001",
+    "en": "  Don't talk like you know everything!{SAUT}I mean, you're still alive! You can act{SAUT}that way once you've experienced death!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0002",
+    "en": "   Liar! I won't get fooled again!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0003",
+    "en": "Am I still pretty? That was all I used{SAUT}to have going for me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0004",
+    "en": " Hahaha... Shall I take off my head{SAUT}in return?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0005",
+    "en": "  Aaah, stop it...! If I move around too{SAUT}much, I'll fall to pieces...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0006",
+    "en": "Wh-What're you doing? I thought my heart{SAUT}was going to stop!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0008",
+    "en": "You do some pretty bold things. That gave{SAUT}me a good laugh...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0009",
+    "en": "   Haha... Who do you think's stronger,{SAUT}you or me?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0010",
+    "en": "It's okay, I'm not mad. I just want you{SAUT}to become one of us...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0011",
+    "en": " Hey! You're dealing with a demon here...{SAUT}Can't you be scared even a little!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0012",
+    "en": "   I'll tell you a really scary story...{SAUT}You're the heroine in it.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0013",
+    "en": "{PAGE}And now the fear begins!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0014",
+    "en": "  Th-That's not scary at all...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0015",
+    "en": "{PAGE}Wh-Why am I shaking? I-It's cold,{SAUT}that's all...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0016",
+    "en": " That's hilarious! No one knows what{SAUT}true fear is like!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0017",
+    "en": " How dare you talk that way to someone{SAUT}who has so much more life experience!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0018",
+    "en": "   A-Aagh... Stop... Stop it...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0019",
+    "en": "  Haha... You really can do a lot!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0020",
+    "en": "   I'm not the girl I used to be... I'm not{SAUT}going to stand by and let you pick on me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0021",
+    "en": " You're okay with that? Well, I don't{SAUT}wanna hear you cry about it later.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0022",
+    "en": "I like strong men, but I have a pretty{SAUT}twisted way of showing affection.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0023",
+    "en": "   Now hold on... What did I ever do{SAUT}to you...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0024",
+    "en": "   I've been so mellow lately that I don't{SAUT}even feel like getting mad at that.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0025",
+    "en": "I already know that! You don't have to{SAUT}say it twice... That's why I always{SAUT}tried not to stand out!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0026",
+    "en": " When I was still human, I really liked{SAUT}guys like you.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0027",
+    "en": "{PAGE}I was so immature then!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0028",
+    "en": " Well, I'm honored to hear you say so.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0029",
+    "en": "  Oh? What is it? Do you wanna play house?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0030",
+    "en": "   I might not look like it now, but I{SAUT}actually liked kids when I was still{SAUT}a human.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0031",
+    "en": "  Are my moves out of date? That kind of{SAUT}thing worries me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0032",
+    "en": " Sheesh, you suck! And anyway, if you wore{SAUT}that getup, the bouncers would stop you{SAUT}before you could go in.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0033",
+    "en": "  Haha... Leave the dancing to me. I used{SAUT}to dance every day back when... you know.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0034",
+    "en": "  So you're pretty much the class clown,{SAUT}I take it. But actually, I don't mind{SAUT}your lame jokes so much.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0035",
+    "en": "  Your jokes aren't funny at all! Someone{SAUT}tell this guy how lame they are!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0036",
+    "en": "   Well? Are you going to take responsibility{SAUT}for killing the mood?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0037",
+    "en": "   There isn't that much that's fun to do{SAUT}around here. You really brightened my day!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0038",
+    "en": "  Aren't you a little off key?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0039",
+    "en": "   Sing all you want! I'll be biting into{SAUT}your throat in a few seconds!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0040",
+    "en": "   Hey! Can you cut it out with that{SAUT}screeching!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0041",
+    "en": " I want to go to karaoke again! Ahh...{SAUT}just once would be enough...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0042",
+    "en": " Just... don't breathe fire or anything{SAUT}out of the blue, okay...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0043",
+    "en": "   Do it again! I'll figure out the trick{SAUT}this time for sure!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0044",
+    "en": " So a lot's happened? I heard all about it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0045",
+    "en": " I already knew that! Don't underestimate{SAUT}my sources!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0046",
+    "en": "   No way! Seriously?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0047",
+    "en": " How do I always get stuck with guys like{SAUT}this? It really makes me mad!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0048",
+    "en": " Am I... still attractive? I-I'm so{SAUT}happy...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0049",
+    "en": "Will you quit bothering me!?{SAUT}Just stop already!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0050",
+    "en": "Oh wow, you're okay with me? Haha...{SAUT}I'll think about it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0051",
+    "en": "  D-Don't tell me...! Phew, thank goodness.{SAUT}I thought my eyeball had fallen out{SAUT}or something!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0052",
+    "en": "You're looking at me like I'm some kind{SAUT}of monster... Have some self-control!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0053",
+    "en": "  I can tell what you're thinking.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0054",
+    "en": "{PAGE}But the answer is no! I won't be picked{SAUT}up that easily!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0055",
+    "en": "  Look, I'm not interested in cheap trinkets.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0056",
+    "en": "That would have fooled me in the past,{SAUT}but I've learned my lessons.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0057",
+    "en": "No way... Is that... a present? For me!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0058",
+    "en": "   You're interested in me, huh? I guess{SAUT}you can't judge people by their looks.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0059",
+    "en": "   Don't treat me like one of those stupid{SAUT}demons around here.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0060",
+    "en": "Yikes! There's no need to cry over{SAUT}something like that...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0061",
+    "en": "  You're actually cute in your own way.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0062",
+    "en": "  Hey, let me have that body! I deserve{SAUT}it way more than you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0063",
+    "en": "I bet you're going to keep flattering{SAUT}me before making me look like a fool in{SAUT}front of everyone... again...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0064",
+    "en": "Hey... I bet you want to be like me.{SAUT}Want me to give you a helping hand...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0065",
+    "en": "No matter what era it is, young people{SAUT}all tend to think the same way.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0066",
+    "en": " I don't trust words. It takes solid{SAUT}proof to make me believe something.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0067",
+    "en": "   We finally got to meet, and that's all{SAUT}you have to say?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0068",
+    "en": "I don't want to hear that stuff. There's{SAUT}only one thing I want...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0069",
+    "en": " Why are you telling me this...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0070",
+    "en": "Of all the people to tell that to,{SAUT}why me?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0071",
+    "en": " I really do get along much better with{SAUT}humans than demons.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0072",
+    "en": " I feel like I've gone back in time!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0073",
+    "en": "So you need me... Is that so? Huh...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0074",
+    "en": "   Now, what's the most important step in{SAUT}negotiation? You know, right...?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0076",
+    "en": "I can't agree to a request like that.{SAUT}But you'd better agree to mine![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0077",
+    "en": " I dunno... what are you going to use{SAUT}my powers for...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0078",
+    "en": " Ewwww! I can't stand being around you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0079",
+    "en": " Hahaha... This negotion's going pretty{SAUT}well, I'd say...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0080",
+    "en": "I get asked for more favors by humans{SAUT}than demons.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0081",
+    "en": " I still have at least half a brain left,{SAUT}you know... Rotten though it is.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0082",
+    "en": "{PAGE}Anyway, I see what you're trying to do.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0083",
+    "en": " You're rather childish. I don't entirely{SAUT}mind, but...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0084",
+    "en": "  What's with you!? Don't make fun of me{SAUT}just because I'm a zombie!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0085",
+    "en": "  Did you just make fun of me!? You know,{SAUT}I don't think you want to get on my bad{SAUT}side... You better do what I say.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0086",
+    "en": " You seem really out of it...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0087",
+    "en": "   Just because I'm a zombie doesn't mean{SAUT}you can treat me like that...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0088",
+    "en": "   That's your idea of negotiating!?{SAUT}You're such an idiot!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0089",
+    "en": "You're so naive... You'll probably be{SAUT}like that until you die.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0090",
+    "en": " I didn't know street performers showed{SAUT}up around here too...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0091",
+    "en": "   How dare you perform such a lame trick!?{SAUT}I want the time I wasted back![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0092",
+    "en": "   You are so finished!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0093",
+    "en": "   You suck! Get out of my sight!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0094",
+    "en": " What's with you all of a sudden...?{SAUT}I don't like where this is going.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0095",
+    "en": "  What're you trying to say...?{SAUT}I don't get it at all...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0096",
+    "en": " You're pretty good!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0097",
+    "en": "Hahaha...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0098",
+    "en": "  Oops, I'm drooling...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0099",
+    "en": "  Even after becoming a demon, you tend to{SAUT}still want things. I'm no exception...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0100",
+    "en": "   Are you going to add insult to injury?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMBIKO.BIN:text:0101",
+    "en": " One word to my friends and you'll never{SAUT}leave here alive! What's it worth to you{SAUT}for me to stay quiet?[FFF1](*RESPONSE*)",
+    "fr": ""
+  }
+]

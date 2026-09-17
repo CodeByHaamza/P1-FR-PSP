@@ -3,539 +3,539 @@
     "id": "E0.BIN:096:0000",
     "locuteur": "Nanjo",
     "en": "Urgh... {PAUSE}[3000]What's this foreboding?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Urgh... {PAUSE}[3000]Quel est ce pressentiment?{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0001",
     "locuteur": "Elly",
     "en": "It's unpleasant, that's for certain.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "C'est désagréable, assurément.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0002",
     "locuteur": "Ayase",
     "en": "It's so dark... I hate places like{SAUT}these!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Il fait tout noir... Je déteste les{SAUT}endroits comme ça!{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0003",
     "locuteur": "Brown",
     "en": "Man, what's with the doom and gloom?{SAUT}This place could use some brightening up!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Mec, c'est quoi cette ambiance de{SAUT}croque-mort? Faudrait égayer tout ça!{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0004",
     "locuteur": "Reiji",
     "en": "This stale air... Smells like the windows{SAUT}here haven't been opened for a month.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Cet air vicié... On dirait qu'on n'a pas{SAUT}ouvert une fenêtre depuis un mois.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0005",
     "locuteur": "Pink-afroed man",
     "en": "Heh, looks like we got some fresh faces.{SAUT}I bet they're clueless...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme à l'afro rose",
+    "fr": "Tiens, des nouvelles têtes. Ils doivent{SAUT}rien comprendre, ceux-là...{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0006",
     "locuteur": "Pink-afroed man",
     "en": "...Yesss! A straight!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme à l'afro rose",
+    "fr": "...Ouiii! Une suite!{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0007",
     "locuteur": "Red-afroed man",
     "en": "We must look sad to you, huh? Yep...{SAUT}The Harem Queen's our only salvation!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme à l'afro rouge",
+    "fr": "On doit vous faire pitié, hein? Ouais...{SAUT}La Reine du Harem est notre seul salut!{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0008",
     "locuteur": "Red-afroed man",
     "en": "...Hah! Full house!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme à l'afro rouge",
+    "fr": "...Ha! Un full!{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0009",
     "locuteur": "Orange-afroed woman",
     "en": "Teehee... I'm what you'll end up as.{SAUT}You'll understand sooner or later!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Femme à l'afro orange",
+    "fr": "Hihi... Vous finirez comme moi.{SAUT}Vous comprendrez tôt ou tard!{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0010",
     "locuteur": "Afroed drunk",
     "en": "Huhhh...? {PAUSE}[3000]Are you guysh from outshide?{SAUT}Pishes me off... {PAUSE}[3000]I remember now...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ivrogne à l'afro",
+    "fr": "Hein...? {PAUSE}[3000]Vous v'nez du dehorsh?{SAUT}Ça m'énerve... {PAUSE}[3000]Ch'me souviens...{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0011",
     "locuteur": "Afroed drunk",
     "en": "I remember the outshide... {PAUSE}[3000]Waaaah!{SAUT}Nrrrrgh... {PAUSE}[3000]Wanna go outshide...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ivrogne à l'afro",
+    "fr": "Ch'me souviens du dehorsh... {PAUSE}[3000]Ouiiin!{SAUT}Nrrrgh... {PAUSE}[3000]J'veux sortir dehorsh...{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0012",
     "locuteur": "Master",
     "en": "Now, now, everyone! Let's all toast{SAUT}each other with our heads held high!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Patron",
+    "fr": "Allons, allons! Trinquons ensemble,{SAUT}et la tête haute!{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0013",
     "locuteur": "Master",
     "en": "We share a fate... What's the use of{SAUT}this bickering?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Patron",
+    "fr": "Nous partageons un sort... À quoi bon{SAUT}se chamailler?{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0014",
     "locuteur": "Master",
     "en": "None so long as we loyally serve our{SAUT}Harem Queen!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Patron",
+    "fr": "À rien, tant que nous servons{SAUT}la Reine du Harem!{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0015",
     "locuteur": "Pink-afroed man",
     "en": "That dumbstruck look of yours... Been to{SAUT}see the Queen, huh? Yeah, I can tell.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme à l'afro rose",
+    "fr": "Cet air ahuri... Vous revenez de chez{SAUT}la Reine, hein? Ça se voit.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0016",
     "locuteur": "Pink-afroed man",
     "en": "If I was a handsome guy in the Queen's{SAUT}good books like you...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme à l'afro rose",
+    "fr": "Si j'étais un beau gosse bien vu de la{SAUT}Reine, comme toi...{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0017",
     "locuteur": "Pink-afroed man",
     "en": "I coulda lived in her palace.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme à l'afro rose",
+    "fr": "J'aurais pu vivre au palais.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0018",
     "locuteur": "Orange-afroed woman",
     "en": "...I know how you feel, but you have to{SAUT}be an adult about this.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Femme à l'afro orange",
+    "fr": "...Je comprends, mais il faut savoir{SAUT}se montrer adulte.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0019",
     "locuteur": "Orange-afroed woman",
     "en": "Otherwise, you'll never survive this{SAUT}place.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Femme à l'afro orange",
+    "fr": "Sinon, vous ne survivrez pas{SAUT}ici.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0020",
     "locuteur": "Maki",
     "en": "I wonder what this Harem Queen is like...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Elle est comment, cette Reine du Harem?{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0021",
     "locuteur": "Maki",
     "en": "I... I had no idea...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Je... Je n'en savais rien...{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0022",
     "locuteur": "Maki",
     "en": "Did you think I was in shock?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Tu me croyais sous le choc?{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0023",
     "locuteur": "Maki",
     "en": "Well, I think I can really hit it off{SAUT}with Chisato now...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Eh bien, je crois que je m'entendrais{SAUT}bien avec Chisato, maintenant...{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0024",
     "locuteur": "Nanjo",
     "en": "This must be what that brat referred to.{SAUT}It seems we've been locked in again.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Voilà ce dont parlait cette gamine.{SAUT}Nous voilà enfermés de nouveau.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0025",
     "locuteur": "Nanjo",
     "en": "I admit, I'm somewhat surprised, but{SAUT}maybe those were Chisato's true feelings.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "J'avoue être un peu surpris, mais{SAUT}c'était peut-être là le vrai Chisato.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0026",
     "locuteur": "Nanjo",
     "en": "So he remains true even after seeing that{SAUT}side of her? Heh, that's love, I suppose.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Il lui reste fidèle après avoir vu{SAUT}cela? Heh, c'est l'amour, sans doute.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0027",
     "locuteur": "Mark",
     "en": "Ugh, this sucks. We really have to get{SAUT}outta here and go after Kandori!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Pff, ça craint. Faut vraiment qu'on{SAUT}sorte d'ici et qu'on trouve Kandori!{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0028",
     "locuteur": "Mark",
     "en": "Maki... {PAUSE}[3000]This must be a real shock{SAUT}for her.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Maki... {PAUSE}[3000]Ça doit être un sacré choc{SAUT}pour elle.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0029",
     "locuteur": "Mark",
     "en": "Yosuke wasn't such a bad guy after all.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Yosuke était pas si mal, finalement.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0030",
     "locuteur": "Elly",
     "en": "I think I see now why the atmosphere{SAUT}here is so oppressive.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Je crois comprendre pourquoi l'air est{SAUT}si pesant ici.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0031",
     "locuteur": "Elly",
     "en": "Do you dislike people such as the Queen,{SAUT}(*APELLIDO_HEROE*)?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Les gens comme la Reine te déplaisent,{SAUT}(*APELLIDO_HEROE*)?{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0032",
     "locuteur": "Elly",
     "en": "But outwardly pretending to obey while{SAUT}carping behind one's back...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Mais obéir en façade et critiquer{SAUT}dans le dos...{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0033",
     "locuteur": "Elly",
     "en": "That's how the people in town are.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Les gens d'ici sont tous comme ça.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0034",
     "locuteur": "Elly",
     "en": "Why wouldn't Yosuke despise Chisato now?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Yosuke devrait mépriser Chisato, non?{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0035",
     "locuteur": "Elly",
     "en": "Isn't it natural to become disillusioned{SAUT}after seeing someone's unpleasant side?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "N'est-il pas normal d'être déçu quand{SAUT}on voit le mauvais côté de quelqu'un?{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0036",
     "locuteur": "Elly",
     "en": "I can't believe others would still like{SAUT}one after showing everything about oneself.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Qu'on vous aime encore après vous avoir{SAUT}vu tout entier, je n'y crois pas.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0037",
     "locuteur": "Elly",
     "en": "I wonder... {PAUSE}[3000]if there's someone like that{SAUT}for me, too...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Je me demande... {PAUSE}[3000]s'il existe quelqu'un{SAUT}comme ça pour moi aussi...{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0038",
     "locuteur": "Brown",
     "en": "She's a Queen, huh? Sounds like a real{SAUT}hottie, don't you think?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Une Reine, hein? Ça doit être un{SAUT}sacré canon, tu crois pas?{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0039",
     "locuteur": "Brown",
     "en": "Am I right? Man, I can't wait to feast{SAUT}my eyes!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "J'ai raison, non? J'ai hâte de me{SAUT}rincer l'oeil!{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0040",
     "locuteur": "Brown",
     "en": "Y'know... {PAUSE}[2000]I never thought Chisato was{SAUT}that kind of girl. {PAUSE}[2000]What a letdown...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Tu sais... {PAUSE}[2000]j'aurais pas cru Chisato{SAUT}comme ça. {PAUSE}[2000]Quelle déception...{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0041",
     "locuteur": "Brown",
     "en": "A relationship like that... it can run{SAUT}pretty deep, huh?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Une relation comme ça... ça peut aller{SAUT}loin, hein?{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0042",
     "locuteur": "Ayase",
     "en": "I hate this place.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Je déteste cet endroit.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0043",
     "locuteur": "Ayase",
     "en": "I feel like it's, like, draining my{SAUT}powers.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "J'ai genre l'impression que ça me{SAUT}pompe toute mon énergie.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0044",
     "locuteur": "Ayase",
     "en": "Y'know... Chisato is actually{SAUT}pretty gutsy!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Tu sais... Chisato, elle a{SAUT}du cran, en fait!{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0045",
     "locuteur": "Ayase",
     "en": "I...{PAUSE}[2000] I want a mirror like that!{SAUT}I want my own harem!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Moi...{PAUSE}[2000] je veux un miroir comme ça!{SAUT}Je veux mon harem!{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0046",
     "locuteur": "Reiji",
     "en": "\"Harem Queen\"? Heh... funny stuff.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "\"Reine du Harem\"? Heh... c'est drôle.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0047",
     "locuteur": "Reiji",
     "en": "I don't think it's so bad to be honest{SAUT}about what you want.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "C'est pas si mal, d'être honnête{SAUT}sur ce qu'on veut.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0048",
     "locuteur": "Reiji",
     "en": "Kind of an absurd outcome... {PAUSE}[3000]But it's nice{SAUT}for things to end that way now and then.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Une fin un peu absurde... {PAUSE}[3000]Mais ça fait{SAUT}du bien, parfois, que ça finisse ainsi.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0049",
     "locuteur": "Afroed drunk",
     "en": "＊urrrrp＊ Yer painting'sh aweshome,{SAUT}Queen... Can I go home now?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ivrogne à l'afro",
+    "fr": "＊rrrot＊ Elle est shuper, votre{SAUT}peinture, Reine... J'peux rentrer?{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0050",
     "locuteur": "Afroed drunk",
     "en": "The Queen'sh painting ish no better than{SAUT}a kid'sh scribble! Servesh her right!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ivrogne à l'afro",
+    "fr": "La peinture d'la Reine, ch'est pas mieux{SAUT}qu'un gribouillis d'gamin! Bien fait!{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0051",
     "locuteur": "Downcast woman",
     "en": "A labyrinth of sadness forgotten in the{SAUT}oubliette of time...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Femme abattue",
+    "fr": "Un labyrinthe de tristesse oublié dans{SAUT}les oubliettes du temps...{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0052",
     "locuteur": "Downcast woman",
     "en": "Only alcohol dulls my suffering.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Femme abattue",
+    "fr": "Seul l'alcool endort ma peine.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0053",
     "locuteur": "Downcast woman",
     "en": "Dammit... that fricking bitch!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Femme abattue",
+    "fr": "Saleté... quelle garce, celle-là!{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0054",
     "locuteur": "Downcast woman",
     "en": "She took all the decent-looking men!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Femme abattue",
+    "fr": "Elle a pris tous les hommes potables!{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0055",
     "locuteur": "Downcast woman",
     "en": "I wanna go to the harem too!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Femme abattue",
+    "fr": "Moi aussi je veux aller au harem!{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0056",
     "locuteur": "Downcast woman",
     "en": "Even if the stopped clock starts again...{PAUSE}[2000]{SAUT}My suffering continues unabated...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Femme abattue",
+    "fr": "Même si l'horloge arrêtée repart...{PAUSE}[2000]{SAUT}Ma peine, elle, ne cesse pas...{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0057",
     "locuteur": "Downcast woman",
     "en": "Dammit... that fricking witch!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Femme abattue",
+    "fr": "Saleté... quelle sorcière, celle-là!{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0058",
     "locuteur": "Downcast woman",
     "en": "She went and made a harem when she had{SAUT}a damn boyfriend all along!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Femme abattue",
+    "fr": "Elle s'est fait un harem alors qu'elle{SAUT}avait un copain depuis le début!{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0059",
     "locuteur": "Master",
     "en": "No one may leave the market.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Patron",
+    "fr": "Nul ne quitte le marché.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0060",
     "locuteur": "Master",
     "en": "Such is the decree of the Harem Queen,{SAUT}this market's mistress.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Patron",
+    "fr": "Tel est le décret de la Reine du Harem,{SAUT}maîtresse de ce marché.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0061",
     "locuteur": "Master",
     "en": "You must make every effort to curry the{SAUT}Queen's favor.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Patron",
+    "fr": "Faites tout pour gagner les faveurs{SAUT}de la Reine.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0062",
     "locuteur": "Mark",
     "en": "Let's go to the palace. We gotta{SAUT}hurry, man!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "On va au palais. Faut se dépêcher,{SAUT}mec!{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0063",
     "locuteur": "Mark",
     "en": "We don't have any time to waste playing{SAUT}along with this Queen's stupid rules.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "On a pas de temps à perdre avec les{SAUT}règles débiles de cette Reine.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0064",
     "locuteur": "Maki",
     "en": "Masao's right. Let's go meet this Queen!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Masao a raison. Allons voir cette Reine!{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0065",
     "locuteur": "Maki",
     "en": "We can ask her to let us out of here.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "On lui demandera de nous laisser partir.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0066",
     "locuteur": "Master",
     "en": "Now that I know I'm free to come and go{SAUT}as I please... living here isn't so bad.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Patron",
+    "fr": "Maintenant que je peux aller et venir{SAUT}librement... on est bien, ici.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0067",
     "locuteur": "Pink-afroed man",
     "en": "You wanna meet the Harem Queen?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme à l'afro rose",
+    "fr": "Vous voulez voir la Reine du Harem?{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0068",
     "locuteur": "Pink-afroed man",
     "en": "The entrance is by the casino, but I warn{SAUT}you: you don't wanna piss her off.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme à l'afro rose",
+    "fr": "L'entrée est près du casino, mais je{SAUT}préviens: faut pas l'énerver.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0069",
     "locuteur": "Pink-afroed man",
     "en": "That junky old mansion in the southeast?{SAUT}I hear it's connected to another world.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme à l'afro rose",
+    "fr": "Le vieux manoir délabré au sud-est?{SAUT}Il donnerait sur un autre monde.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0070",
     "locuteur": "Red-afroed man",
     "en": "I'll tell you one thing.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme à l'afro rouge",
+    "fr": "Je vais vous dire une chose.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0071",
     "locuteur": "Red-afroed man",
     "en": "Whatever you do, say nice things about{SAUT}the Queen's painting. If you don't...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme à l'afro rouge",
+    "fr": "Quoi qu'il arrive, dites du bien de la{SAUT}peinture de la Reine. Sinon...{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0072",
     "locuteur": "Red-afroed man",
     "en": "I guess in the end, the Queen just{SAUT}had no self-confidence.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme à l'afro rouge",
+    "fr": "Au fond, la Reine manquait juste{SAUT}de confiance en elle.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0073",
     "locuteur": "Red-afroed man",
     "en": "Now that I think about it, I kinda{SAUT}feel sorry for her.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme à l'afro rouge",
+    "fr": "Maintenant que j'y pense, elle me{SAUT}fait un peu pitié.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0074",
     "locuteur": "Orange-afroed woman",
     "en": "You're not going to wear moles?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Femme à l'afro orange",
+    "fr": "Vous ne mettez pas de grains de beauté?{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0075",
     "locuteur": "Orange-afroed woman",
     "en": "Wearing moles like the Queen's is all{SAUT}the rage now.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Femme à l'afro orange",
+    "fr": "Les grains de beauté comme ceux de la{SAUT}Reine, c'est la grande mode.{ATTENTE}"
   },
   {
     "id": "E0.BIN:096:0076",
     "locuteur": "Orange-afroed woman",
     "en": "Whew! Goodbye moles, and good riddance!{SAUT}I didn't look very good with them.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Femme à l'afro orange",
+    "fr": "Ouf! Adieu les grains de beauté!{SAUT}Ça ne m'allait pas très bien.{ATTENTE}"
   }
 ]

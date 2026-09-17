@@ -8,11 +8,12 @@ ce qui permet de les contourner intelligemment plutôt que de buter dessus.
 
 ## 1. Les trois zones, et l'identifiant
 
-Le texte du jeu vit à trois endroits, et `trad/` a un dossier pour chacun.
+Le texte du jeu vit à quatre endroits, et `trad/` a un dossier pour chacun.
 
 | Dossier | Contenu | Ce qui change pour toi |
 |---|---|---|
 | `trad/dialogues/` | l'histoire, les personnages qui parlent | un champ `locuteur` à traduire aussi |
+| `trad/negociations/` | ce que les démons disent quand on leur parle en combat | un fichier par démon ; `(*RESPONSE*)` ferme la réplique ; la place est comptée (§6) |
 | `trad/eboot/` | menus, écrans, noms de lieux, tutoriels | un champ **`max`** à respecter (§3) |
 | `trad/donjons/` | messages de couloir, portes fermées | rien de particulier |
 
@@ -26,7 +27,15 @@ E0.BIN:012:0007            un dialogue
 
 EBOOT.BIN:BE:OFF_2D7B4C    une ligne d'interface, à son adresse dans l'exécutable
 DNG:d00/d00.bin:0000       une ligne de donjon
+SLIME.BIN:text:0002        une réplique de démon (ici, le Slime)
+YAKUZA.BIN:resp:0003       une réponse que le joueur peut lui faire
 ```
+
+Les négociations sont rangées **par personnalité de démon**, un nom de fichier
+par démon : `SLIME`, `YAKUZA` (le voyou), `TENSI` (l'ange), `SYOUJO` (la jeune
+fille), `KEMONO` (la bête)… Chaque démon a son ton, et c'est ce qui fait tout
+le sel de ces lignes. Les `ALIEN_` parlent en chiffres : c'est voulu, et déjà
+rempli.
 
 Il n'a aucune valeur pour la traduction, mais c'est par lui que ta ligne
 retrouve sa place dans le jeu. S'il change, la réplique est perdue.
@@ -201,6 +210,12 @@ Trois choses multiplient l'addition :
 l'anglais**. Le validateur t'avertit quand une entrée dépasse 48 octets de
 surplus, mais il ne connaît pas la marge réelle du bloc — la prudence reste
 la meilleure méthode.
+
+**Les négociations sont les plus serrées.** Chaque fichier de démon n'a que
+quelques centaines d'octets de marge — 1,5 % de son texte en moyenne, contre
+10 à 15 % de rallonge naturelle du français. Vise donc, sur l'ensemble d'un
+fichier, un français **aussi court que l'anglais** : une réplique plus longue se
+paie par une autre plus courte. Le démon parle vite et sec ; ça tombe bien.
 
 ## 7. Le canari
 

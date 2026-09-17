@@ -1,0 +1,592 @@
+[
+  {
+    "id": "TENSI.BIN:text:0207",
+    "en": "{PAGE}I am ever watching you, so do not use{SAUT}my spell card for evil...(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0208",
+    "en": "  I will give you this, so...(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0209",
+    "en": "If I continue talking with you, I will{SAUT}become corrupt as well!(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0210",
+    "en": " If you desire a long life, take this{SAUT}and leave. Put this matter behind you.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0211",
+    "en": "I cannot forgive you... but if we were{SAUT}to do battle, I would be injured as{SAUT}well... That would not be ideal.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0212",
+    "en": "O Lord! What does He wish of me!?{SAUT}I will allow this to run its course...!(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0213",
+    "en": "  Then I must thank you for giving me{SAUT}a chance to face an ordeal... What would{SAUT}you like?(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0214",
+    "en": " Ah, I have an idea. I shall protect you.{SAUT}I will give you my card; please accept it!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0215",
+    "en": "I cannot take actions equivalent to{SAUT}harming you!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0216",
+    "en": "   Please take this.(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0217",
+    "en": "  However! I have an important mission{SAUT}that must be accomplished!(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0218",
+    "en": "...Those are the circumstances under{SAUT}which I will give you my spell card.{SAUT}Let us settle this peacefully...(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0219",
+    "en": " I will ask in His stead: For what purpose{SAUT}do you exist?[FFFD][6CFF][F500]  Is that the latest trend in garments?{SAUT}I would be unable to wear it.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0220",
+    "en": "Our meeting here must be destiny...{SAUT}Please make an offering.[FFF1](*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0221",
+    "en": "  I will warn you in His stead: you shall{SAUT}not obstruct my path![FFFD][6DFF][F500]I will warn you in His stead: an insult{SAUT}to me will not be easily forgiven!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0222",
+    "en": " So you are the one who has been pillaging{SAUT}treasure from demons! Return them to{SAUT}the Lord![FFF1](*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0223",
+    "en": "  I will warn you in His stead: do not{SAUT}come near me![FFFD][6EFF][F500]   I am always watched over by the heavens!{SAUT}There is n-nothing I f-fear...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0224",
+    "en": "Wicked one... Try though you might, you{SAUT}cannot deceive me...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0225",
+    "en": "   It has been some time since I met one{SAUT}capable of such orderly negotiation.{SAUT}Please tell me your story![FFFD][6FFF][F500]I will confess to you... An angel's lot{SAUT}is not an easy one. Do you see?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0226",
+    "en": "A full moon... On a day such as this,{SAUT}it may be a way to entrust myself to you.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0227",
+    "en": "[FFED]We are very busy. You must have important{SAUT}business indeed to stop us, yes?[FFFD][70FF][F500]  [FFEE]You are rather suspicious... It may be{SAUT}necessary to keep watch over you.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0228",
+    "en": "  [FFED]You constantly perform wicked acts,{SAUT}don't you? Now you will atone for{SAUT}those sins![FFF1](*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0229",
+    "en": "[FFEC]N-Normally, I would not have time to hear{SAUT}your words, but this once... I will make{SAUT}an exception.[FFFD][71FF][F500][FFEC]I accept your terms, but never forget{SAUT}that He is with me.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0230",
+    "en": " [FFEE]I called to you because He wished it.{SAUT}But... I feel that my spell card would{SAUT}be of limited use to you...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0231",
+    "en": "  [FFEE]Our encounter here today... Is it His{SAUT}will that I lend you my strength?[FFFD][72FF][F500] [FFEB]First, I must thank Him for being able{SAUT}to meet you...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0232",
+    "en": " [FFEB]Will I be of use to you? I am certain{SAUT}that I will!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0233",
+    "en": "[FFEC]Minions of the ancient serpent!{SAUT}Y-You will go no further![FFFD][73FF][F500]   [FFEC]To encounter such wicked ones here...{SAUT}O Lord! I place my life in Your hands!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0234",
+    "en": "  [FFED]If you are not in league with the{SAUT}Fallen One, then I would have you{SAUT}make an offering...[FFF1](*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0235",
+    "en": "  [FFED]I will warn you in His stead: whatever{SAUT}excuse you make, you will not deceive{SAUT}these eyes![FFFD][74FF][F500][FFEB]I called to you because He wished it.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0236",
+    "en": "{PAGE}Regrettably, I fear you will not be able{SAUT}to understand my words...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0237",
+    "en": " [FFEB]I am [FFF3]!{SAUT}Well? You must be inclined to give an{SAUT}offering now.[FFF1](*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0238",
+    "en": "  [FFEC]Ah... You have no plans to... torture me{SAUT}or the like, do you...?[FFFD][75FF][F500][FFEC]O Lord... Am I committing a mortal sin?{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0239",
+    "en": "{PAGE}I can scarcely believe how my heart leapt{SAUT}to imagine the cold treatment that I will{SAUT}soon face...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0240",
+    "en": " [FFEB]I confess... I... I was wrong.{SAUT}Please punish me...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0241",
+    "en": "I see... I can understand it from your{SAUT}point of view. Then what do you want{SAUT}of me?(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0242",
+    "en": " As I thought... You must be fundamentally{SAUT}corrected!(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0243",
+    "en": "   How dreadful... Is it my fate to die{SAUT}before I accomplish my mission...?(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0244",
+    "en": "I was able to spend my time meaningfully.{SAUT}I thank Him for the chance to meet you!(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0245",
+    "en": "  I have an important task. If there is{SAUT}something you desire, be quick and tell{SAUT}me what it is!(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0246",
+    "en": "   ...I understand. I will listen to your{SAUT}words... Only calm your heart.(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0247",
+    "en": "  It must be His will that I hear your{SAUT}words... Now please tell me.(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0248",
+    "en": "  O Lord... I have been corrupted.{SAUT}No! You are wicked! Urgh... Get thee{SAUT}behind me, tempter!(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0249",
+    "en": "  Even I do not believe that everyone can{SAUT}be saved! And in addition, you have{SAUT}foolishly rejected His salvation!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0250",
+    "en": "  ＊gasp＊ If my delight is so intense...{SAUT}I must have failed...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0251",
+    "en": "{PAGE}I have succumbed to your wicked charms...{SAUT}Was this a test from Him?(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0252",
+    "en": "   The love of money is the root of all evil!{SAUT}I will look after (*VALUE*) yen for you!(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0253",
+    "en": "You have done a good thing. I am certain{SAUT}that His blessings will be with you...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0254",
+    "en": "So you have none... If that is the case,{SAUT}it is quite all right.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0255",
+    "en": "How dare you boast falsely of your own{SAUT}wealth!? Suffer His wrath!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0256",
+    "en": "  How could this be!? Do you intend{SAUT}to sell your immortal soul to the{SAUT}ones below!?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0257",
+    "en": "   I cannot believe you would defy His{SAUT}will... The extent of your blasphemy{SAUT}is almost miraculous...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "TENSI.BIN:text:0258",
+    "en": "   Then I will take one life stone...(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0259",
+    "en": " Continue to do good works.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0260",
+    "en": " You... have none? You are not hiding{SAUT}them from me, are you...?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0261",
+    "en": " How dare you boast falsely of your own{SAUT}wealth!? Suffer His wrath!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0262",
+    "en": "  Poor thing... Your actions just now may{SAUT}have ensured your eternal damnation.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0264",
+    "en": "   You carry a [FFF4], do you not?{SAUT}You should give it to me.(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0265",
+    "en": "   I am astounded by your inner beauty!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0266",
+    "en": "   If you had none, you should have said{SAUT}as much from the start...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0267",
+    "en": "I weep for your attachment to worldly{SAUT}things.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0268",
+    "en": "  It seems that you have very little awe{SAUT}of Him... There is no doubt that{SAUT}judgement will be brought down upon you!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0269",
+    "en": "   That fresh, youthful, vital energy you{SAUT}have about you... That is what I desire.(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0270",
+    "en": "Thank you. You have been most generous.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0271",
+    "en": "Well, I am sure you have your reasons.{SAUT}It is all right. Do not let it get to you.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0272",
+    "en": "  This is your opportunity to devote{SAUT}yourself to His cause! I am sure that{SAUT}judgement will be brought down upon you!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0273",
+    "en": "  There is no need to be modest.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "TENSI.BIN:text:0274",
+    "en": " I think... that you would seem more{SAUT}refined if you said nothing.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 14
+  },
+  {
+    "id": "TENSI.BIN:text:0275",
+    "en": "   You are a rare breed of human to have{SAUT}overcome the ordeal He presented.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 16
+  },
+  {
+    "id": "TENSI.BIN:text:0276",
+    "en": "Lies hurt the liar as well!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 16
+  },
+  {
+    "id": "TENSI.BIN:text:0277",
+    "en": "You stand before Him and yet lie...?{SAUT}How dreadful...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 16
+  },
+  {
+    "id": "TENSI.BIN:text:0278",
+    "en": "   An honest apology is important as well.{SAUT}I am sure His blessing will be with you!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 16
+  },
+  {
+    "id": "TENSI.BIN:text:0279",
+    "en": "   You are wise.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 14
+  },
+  {
+    "id": "TENSI.BIN:text:0280",
+    "en": "  So you will follow His teachings? My time{SAUT}as a messenger was well-spent if I was{SAUT}able to meet a human as wise as you.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 14
+  },
+  {
+    "id": "TENSI.BIN:text:0281",
+    "en": "  Very well, but... you are not going{SAUT}to borrow the power of demons instead,{SAUT}I hope.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 14
+  },
+  {
+    "id": "TENSI.BIN:text:0282",
+    "en": "{PAGE}Listen well: demons cannot be trusted!{SAUT}...Well then, please make an offering...[FFF1](*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 14
+  },
+  {
+    "id": "TENSI.BIN:text:0283",
+    "en": "   Hm... very well, then.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "TENSI.BIN:text:0284",
+    "en": " Perhaps I misheard, but did you just{SAUT}threaten to do something cruel to me?{SAUT}You did...! Me, of all creatures!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0285",
+    "en": "   Perhaps I misheard, but did you just{SAUT}threaten to do something cruel to me?{SAUT}You are a wicked one...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "TENSI.BIN:text:0286",
+    "en": " Ahaha... If you speak such things,{SAUT}you will become a target for the{SAUT}demons, you know...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "TENSI.BIN:text:0287",
+    "en": "If you speak such things, you will be{SAUT}a target for the demons, you know...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "TENSI.BIN:text:0288",
+    "en": " Surely that is the work of demons!{SAUT}Tell me, did your schoolteacher have{SAUT}a tail...?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 10
+  },
+  {
+    "id": "TENSI.BIN:text:0289",
+    "en": " You see? If you try, you can do it too!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 7
+  },
+  {
+    "id": "TENSI.BIN:text:0290",
+    "en": "Such rudeness towards me, one of His{SAUT}messengers... I can scarcely believe{SAUT}that you are a son of man...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 7
+  },
+  {
+    "id": "TENSI.BIN:text:0291",
+    "en": " Do not underestimate an angel!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 8
+  },
+  {
+    "id": "TENSI.BIN:text:0292",
+    "en": " There is no need to be modest.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "TENSI.BIN:text:0298",
+    "en": "   Unfortunately... this is not a game!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0299",
+    "en": "   You will not escape after this! Now draw{SAUT}your weapon!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "TENSI.BIN:text:0300",
+    "en": "  Whew... Good heavens, did you never take{SAUT}music lessons!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0301",
+    "en": "   Whew... That was a near thing... My wings{SAUT}were about to be jarred loose.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0302",
+    "en": "   I let my guard down... I had not expected{SAUT}another form of assault...!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0303",
+    "en": "  I can only say that was marvelous!{SAUT}I was not aware humans like you still{SAUT}existed in this world!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "TENSI.BIN:text:0304",
+    "en": "I feel as though I am under your sway...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "TENSI.BIN:text:0305",
+    "en": "   There is no need to be modest.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "TENSI.BIN:text:0315",
+    "en": "   I can scarcely believe you continue to{SAUT}lie before one of His messengers! There{SAUT}will be no clemency for you!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0316",
+    "en": "Did I err...? No, I cannot have...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "TENSI.BIN:text:0317",
+    "en": " So, you show your true nature!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0318",
+    "en": " Is that so? Then I shall continue to{SAUT}try my hardest!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0319",
+    "en": "   If you are going to be so blunt, even an{SAUT}angel will recall what anger feels like.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "TENSI.BIN:text:0320",
+    "en": "  I understand, but... it is rather{SAUT}disheartening to hear you say it{SAUT}so bluntly...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "TENSI.BIN:text:0321",
+    "en": "   But why? That was what drove your{SAUT}earlier actions!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  }
+]

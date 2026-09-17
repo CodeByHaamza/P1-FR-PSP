@@ -3,11 +3,42 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Dialogues      █████░░░░░░░░░░░░░░░░░░░   20 %    1 724 / 8 572 textes
+Dialogues      ██████████░░░░░░░░░░░░░░   42 %    3 577 / 8 572 textes
 EBOOT          ████████████████████████  100 %    1 518 / 1 518 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
-Négociations   pas encore ouvert — environ 17 408 textes
+Négociations   ░░░░░░░░░░░░░░░░░░░░░░░░    1 %      125 / 12 487 textes
+
+Total          ██████░░░░░░░░░░░░░░░░░░   24 %    5 350 / 22 707 textes
 ```
+
+## Poids à surveiller
+
+Ces entrées alourdissent leur fichier. Un bloc qui franchit sa frontière fait rester **tout le fichier en anglais** dans le jeu, sans erreur au build : c'est le plus sournois des avertissements.
+
+- [`E0_024.json`](trad/dialogues/E0_024.json) — 1 entrée
+- [`E1_023.json`](trad/dialogues/E1_023.json) — 1 entrée
+
+## À relire
+
+Terminologie à confirmer — un terme du dictionnaire apparaît dans l'anglais sans sa traduction officielle dans le français. Ce n'est pas forcément une faute, mais ça mérite un avis.
+
+- [`E2_005.json`](trad/dialogues/E2_005.json) — 1 terme
+- [`E3_001.json`](trad/dialogues/E3_001.json) — 1 terme
+
+## Largeur à surveiller
+
+Ces lignes sont plus larges que l'anglaise et approchent de la limite de la boîte. Elles ne débordent pas à coup sûr, mais un `{SAUT}` de plus serait plus sage.
+
+- [`E0_044.json`](trad/dialogues/E0_044.json) — 1 ligne
+- [`E1_001.json`](trad/dialogues/E1_001.json) — 3 lignes
+- [`E1_002.json`](trad/dialogues/E1_002.json) — 1 ligne
+- [`E1_009.json`](trad/dialogues/E1_009.json) — 2 lignes
+- [`E2_001.json`](trad/dialogues/E2_001.json) — 1 ligne
+- [`E2_002.json`](trad/dialogues/E2_002.json) — 2 lignes
+- [`E2_008.json`](trad/dialogues/E2_008.json) — 2 lignes
+- [`E2_009.json`](trad/dialogues/E2_009.json) — 1 ligne
+- [`E2_015.json`](trad/dialogues/E2_015.json) — 2 lignes
+- [`E3_004.json`](trad/dialogues/E3_004.json) — 1 ligne
 
 ## À vérifier en jeu
 
@@ -51,88 +82,88 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_018.json`](trad/dialogues/E0_018.json) | 83 | 83 | 100 % | terminé |
 | [`E0_019.json`](trad/dialogues/E0_019.json) | 58 | 58 | 100 % | terminé |
 | [`E0_020.json`](trad/dialogues/E0_020.json) | 87 | 87 | 100 % | terminé |
-| [`E0_021.json`](trad/dialogues/E0_021.json) | 89 | 0 | 0 % | en cours par @CodeByHaamza (#12) |
-| [`E0_022.json`](trad/dialogues/E0_022.json) | 52 | 0 | 0 % | en cours par @CodeByHaamza (#12) |
-| [`E0_023.json`](trad/dialogues/E0_023.json) | 65 | 0 | 0 % | en cours par @CodeByHaamza (#12) |
-| [`E0_024.json`](trad/dialogues/E0_024.json) | 96 | 0 | 0 % | en cours par @CodeByHaamza (#12) |
-| [`E0_025.json`](trad/dialogues/E0_025.json) | 93 | 0 | 0 % | en cours par @CodeByHaamza (#12) |
-| [`E0_026.json`](trad/dialogues/E0_026.json) | 77 | 0 | 0 % | en cours par @CodeByHaamza (#12) |
+| [`E0_021.json`](trad/dialogues/E0_021.json) | 89 | 89 | 100 % | terminé |
+| [`E0_022.json`](trad/dialogues/E0_022.json) | 52 | 52 | 100 % | terminé |
+| [`E0_023.json`](trad/dialogues/E0_023.json) | 65 | 65 | 100 % | terminé |
+| [`E0_024.json`](trad/dialogues/E0_024.json) | 96 | 96 | 100 % | terminé · 1 à alléger |
+| [`E0_025.json`](trad/dialogues/E0_025.json) | 93 | 93 | 100 % | terminé |
+| [`E0_026.json`](trad/dialogues/E0_026.json) | 77 | 77 | 100 % | terminé |
 | [`E0_027.json`](trad/dialogues/E0_027.json) | 40 | 40 | 100 % | terminé |
 | [`E0_028.json`](trad/dialogues/E0_028.json) | 78 | 0 | 0 % | libre |
-| [`E0_029.json`](trad/dialogues/E0_029.json) | 55 | 0 | 0 % | libre |
-| [`E0_030.json`](trad/dialogues/E0_030.json) | 100 | 0 | 0 % | libre |
-| [`E0_031.json`](trad/dialogues/E0_031.json) | 74 | 0 | 0 % | libre |
-| [`E0_032.json`](trad/dialogues/E0_032.json) | 100 | 0 | 0 % | libre |
-| [`E0_033.json`](trad/dialogues/E0_033.json) | 74 | 0 | 0 % | libre |
-| [`E0_034.json`](trad/dialogues/E0_034.json) | 70 | 0 | 0 % | libre |
+| [`E0_029.json`](trad/dialogues/E0_029.json) | 55 | 4 | 7 % | commencé |
+| [`E0_030.json`](trad/dialogues/E0_030.json) | 100 | 81 | 81 % | commencé |
+| [`E0_031.json`](trad/dialogues/E0_031.json) | 74 | 5 | 7 % | commencé |
+| [`E0_032.json`](trad/dialogues/E0_032.json) | 100 | 8 | 8 % | commencé |
+| [`E0_033.json`](trad/dialogues/E0_033.json) | 74 | 54 | 73 % | commencé |
+| [`E0_034.json`](trad/dialogues/E0_034.json) | 70 | 1 | 1 % | commencé |
 | [`E0_035.json`](trad/dialogues/E0_035.json) | 57 | 0 | 0 % | libre |
-| [`E0_036.json`](trad/dialogues/E0_036.json) | 53 | 0 | 0 % | libre |
-| [`E0_037.json`](trad/dialogues/E0_037.json) | 99 | 0 | 0 % | libre |
-| [`E0_038.json`](trad/dialogues/E0_038.json) | 79 | 0 | 0 % | libre |
-| [`E0_039.json`](trad/dialogues/E0_039.json) | 56 | 0 | 0 % | libre |
-| [`E0_040.json`](trad/dialogues/E0_040.json) | 89 | 0 | 0 % | libre |
+| [`E0_036.json`](trad/dialogues/E0_036.json) | 53 | 3 | 6 % | commencé |
+| [`E0_037.json`](trad/dialogues/E0_037.json) | 99 | 3 | 3 % | commencé |
+| [`E0_038.json`](trad/dialogues/E0_038.json) | 79 | 1 | 1 % | commencé |
+| [`E0_039.json`](trad/dialogues/E0_039.json) | 56 | 1 | 2 % | commencé |
+| [`E0_040.json`](trad/dialogues/E0_040.json) | 89 | 2 | 2 % | commencé |
 | [`E0_041.json`](trad/dialogues/E0_041.json) | 89 | 0 | 0 % | libre |
 | [`E0_042.json`](trad/dialogues/E0_042.json) | 82 | 0 | 0 % | libre |
 | [`E0_043.json`](trad/dialogues/E0_043.json) | 100 | 0 | 0 % | libre |
-| [`E0_044.json`](trad/dialogues/E0_044.json) | 100 | 0 | 0 % | libre |
-| [`E0_045.json`](trad/dialogues/E0_045.json) | 100 | 0 | 0 % | libre |
-| [`E0_046.json`](trad/dialogues/E0_046.json) | 92 | 0 | 0 % | libre |
-| [`E0_047.json`](trad/dialogues/E0_047.json) | 69 | 0 | 0 % | libre |
+| [`E0_044.json`](trad/dialogues/E0_044.json) | 100 | 58 | 58 % | commencé · 1 trop large |
+| [`E0_045.json`](trad/dialogues/E0_045.json) | 100 | 24 | 24 % | commencé |
+| [`E0_046.json`](trad/dialogues/E0_046.json) | 92 | 12 | 13 % | commencé |
+| [`E0_047.json`](trad/dialogues/E0_047.json) | 69 | 2 | 3 % | commencé |
 | [`E0_048.json`](trad/dialogues/E0_048.json) | 50 | 0 | 0 % | libre |
-| [`E1_001.json`](trad/dialogues/E1_001.json) | 80 | 0 | 0 % | libre |
-| [`E1_002.json`](trad/dialogues/E1_002.json) | 100 | 0 | 0 % | libre |
-| [`E1_003.json`](trad/dialogues/E1_003.json) | 94 | 0 | 0 % | libre |
-| [`E1_004.json`](trad/dialogues/E1_004.json) | 87 | 0 | 0 % | libre |
-| [`E1_005.json`](trad/dialogues/E1_005.json) | 81 | 0 | 0 % | libre |
-| [`E1_006.json`](trad/dialogues/E1_006.json) | 77 | 0 | 0 % | libre |
-| [`E1_007.json`](trad/dialogues/E1_007.json) | 97 | 0 | 0 % | libre |
+| [`E1_001.json`](trad/dialogues/E1_001.json) | 80 | 70 | 88 % | commencé · 3 trop large |
+| [`E1_002.json`](trad/dialogues/E1_002.json) | 100 | 74 | 74 % | commencé · 1 trop large |
+| [`E1_003.json`](trad/dialogues/E1_003.json) | 94 | 47 | 50 % | commencé |
+| [`E1_004.json`](trad/dialogues/E1_004.json) | 87 | 3 | 3 % | commencé |
+| [`E1_005.json`](trad/dialogues/E1_005.json) | 81 | 1 | 1 % | commencé |
+| [`E1_006.json`](trad/dialogues/E1_006.json) | 77 | 34 | 44 % | commencé |
+| [`E1_007.json`](trad/dialogues/E1_007.json) | 97 | 1 | 1 % | commencé |
 | [`E1_008.json`](trad/dialogues/E1_008.json) | 74 | 0 | 0 % | libre |
-| [`E1_009.json`](trad/dialogues/E1_009.json) | 75 | 0 | 0 % | libre |
-| [`E1_010.json`](trad/dialogues/E1_010.json) | 63 | 0 | 0 % | libre |
-| [`E1_011.json`](trad/dialogues/E1_011.json) | 87 | 0 | 0 % | libre |
-| [`E1_012.json`](trad/dialogues/E1_012.json) | 83 | 0 | 0 % | libre |
+| [`E1_009.json`](trad/dialogues/E1_009.json) | 75 | 27 | 36 % | commencé · 2 trop large |
+| [`E1_010.json`](trad/dialogues/E1_010.json) | 63 | 47 | 75 % | commencé |
+| [`E1_011.json`](trad/dialogues/E1_011.json) | 87 | 62 | 71 % | commencé |
+| [`E1_012.json`](trad/dialogues/E1_012.json) | 83 | 1 | 1 % | commencé |
 | [`E1_013.json`](trad/dialogues/E1_013.json) | 60 | 0 | 0 % | libre |
 | [`E1_014.json`](trad/dialogues/E1_014.json) | 43 | 43 | 100 % | terminé |
-| [`E1_015.json`](trad/dialogues/E1_015.json) | 65 | 0 | 0 % | libre |
+| [`E1_015.json`](trad/dialogues/E1_015.json) | 65 | 1 | 2 % | commencé |
 | [`E1_016.json`](trad/dialogues/E1_016.json) | 100 | 0 | 0 % | libre |
 | [`E1_017.json`](trad/dialogues/E1_017.json) | 38 | 38 | 100 % | terminé |
 | [`E1_018.json`](trad/dialogues/E1_018.json) | 100 | 0 | 0 % | libre |
-| [`E1_019.json`](trad/dialogues/E1_019.json) | 46 | 0 | 0 % | libre |
-| [`E1_020.json`](trad/dialogues/E1_020.json) | 67 | 0 | 0 % | libre |
+| [`E1_019.json`](trad/dialogues/E1_019.json) | 46 | 1 | 2 % | commencé |
+| [`E1_020.json`](trad/dialogues/E1_020.json) | 67 | 3 | 4 % | commencé |
 | [`E1_021.json`](trad/dialogues/E1_021.json) | 66 | 0 | 0 % | libre |
 | [`E1_022.json`](trad/dialogues/E1_022.json) | 95 | 0 | 0 % | libre |
-| [`E1_023.json`](trad/dialogues/E1_023.json) | 96 | 0 | 0 % | libre |
-| [`E1_024.json`](trad/dialogues/E1_024.json) | 93 | 0 | 0 % | libre |
+| [`E1_023.json`](trad/dialogues/E1_023.json) | 96 | 8 | 8 % | commencé · 1 à alléger |
+| [`E1_024.json`](trad/dialogues/E1_024.json) | 93 | 1 | 1 % | commencé |
 | [`E1_025.json`](trad/dialogues/E1_025.json) | 86 | 0 | 0 % | libre |
-| [`E1_026.json`](trad/dialogues/E1_026.json) | 97 | 0 | 0 % | libre |
-| [`E1_027.json`](trad/dialogues/E1_027.json) | 89 | 1 | 1 % | commencé |
-| [`E1_028.json`](trad/dialogues/E1_028.json) | 79 | 0 | 0 % | libre |
-| [`E1_029.json`](trad/dialogues/E1_029.json) | 99 | 0 | 0 % | libre |
-| [`E1_030.json`](trad/dialogues/E1_030.json) | 96 | 0 | 0 % | libre |
-| [`E1_031.json`](trad/dialogues/E1_031.json) | 97 | 0 | 0 % | libre |
-| [`E2_001.json`](trad/dialogues/E2_001.json) | 95 | 0 | 0 % | libre |
-| [`E2_002.json`](trad/dialogues/E2_002.json) | 100 | 0 | 0 % | libre |
-| [`E2_003.json`](trad/dialogues/E2_003.json) | 96 | 0 | 0 % | libre |
+| [`E1_026.json`](trad/dialogues/E1_026.json) | 97 | 47 | 48 % | commencé |
+| [`E1_027.json`](trad/dialogues/E1_027.json) | 89 | 7 | 8 % | commencé |
+| [`E1_028.json`](trad/dialogues/E1_028.json) | 79 | 56 | 71 % | commencé |
+| [`E1_029.json`](trad/dialogues/E1_029.json) | 99 | 19 | 19 % | commencé |
+| [`E1_030.json`](trad/dialogues/E1_030.json) | 96 | 64 | 67 % | commencé |
+| [`E1_031.json`](trad/dialogues/E1_031.json) | 97 | 24 | 25 % | commencé |
+| [`E2_001.json`](trad/dialogues/E2_001.json) | 95 | 21 | 22 % | commencé · 1 trop large |
+| [`E2_002.json`](trad/dialogues/E2_002.json) | 100 | 34 | 34 % | commencé · 2 trop large |
+| [`E2_003.json`](trad/dialogues/E2_003.json) | 96 | 7 | 7 % | commencé |
 | [`E2_004.json`](trad/dialogues/E2_004.json) | 97 | 4 | 4 % | commencé |
-| [`E2_005.json`](trad/dialogues/E2_005.json) | 92 | 3 | 3 % | commencé |
-| [`E2_006.json`](trad/dialogues/E2_006.json) | 92 | 4 | 4 % | commencé |
-| [`E2_007.json`](trad/dialogues/E2_007.json) | 99 | 4 | 4 % | commencé |
-| [`E2_008.json`](trad/dialogues/E2_008.json) | 99 | 0 | 0 % | libre |
-| [`E2_009.json`](trad/dialogues/E2_009.json) | 97 | 0 | 0 % | libre |
+| [`E2_005.json`](trad/dialogues/E2_005.json) | 92 | 41 | 45 % | commencé · 1 terme |
+| [`E2_006.json`](trad/dialogues/E2_006.json) | 92 | 28 | 30 % | commencé |
+| [`E2_007.json`](trad/dialogues/E2_007.json) | 99 | 7 | 7 % | commencé |
+| [`E2_008.json`](trad/dialogues/E2_008.json) | 99 | 39 | 39 % | commencé · 2 trop large |
+| [`E2_009.json`](trad/dialogues/E2_009.json) | 97 | 30 | 31 % | commencé · 1 trop large |
 | [`E2_010.json`](trad/dialogues/E2_010.json) | 97 | 0 | 0 % | libre |
 | [`E2_011.json`](trad/dialogues/E2_011.json) | 90 | 0 | 0 % | libre |
 | [`E2_012.json`](trad/dialogues/E2_012.json) | 91 | 4 | 4 % | commencé |
 | [`E2_013.json`](trad/dialogues/E2_013.json) | 88 | 0 | 0 % | libre |
-| [`E2_014.json`](trad/dialogues/E2_014.json) | 95 | 4 | 4 % | commencé |
-| [`E2_015.json`](trad/dialogues/E2_015.json) | 91 | 0 | 0 % | libre |
+| [`E2_014.json`](trad/dialogues/E2_014.json) | 95 | 30 | 32 % | commencé |
+| [`E2_015.json`](trad/dialogues/E2_015.json) | 91 | 52 | 57 % | commencé · 2 trop large |
 | [`E2_016.json`](trad/dialogues/E2_016.json) | 100 | 3 | 3 % | commencé |
-| [`E2_017.json`](trad/dialogues/E2_017.json) | 80 | 0 | 0 % | libre |
-| [`E3_001.json`](trad/dialogues/E3_001.json) | 93 | 0 | 0 % | libre |
-| [`E3_002.json`](trad/dialogues/E3_002.json) | 97 | 2 | 2 % | commencé |
-| [`E3_003.json`](trad/dialogues/E3_003.json) | 70 | 0 | 0 % | libre |
-| [`E3_004.json`](trad/dialogues/E3_004.json) | 95 | 0 | 0 % | libre |
-| [`E3_005.json`](trad/dialogues/E3_005.json) | 97 | 0 | 0 % | libre |
-| [`E3_006.json`](trad/dialogues/E3_006.json) | 98 | 0 | 0 % | libre |
+| [`E2_017.json`](trad/dialogues/E2_017.json) | 80 | 25 | 31 % | commencé |
+| [`E3_001.json`](trad/dialogues/E3_001.json) | 93 | 12 | 13 % | commencé · 1 terme |
+| [`E3_002.json`](trad/dialogues/E3_002.json) | 97 | 7 | 7 % | commencé |
+| [`E3_003.json`](trad/dialogues/E3_003.json) | 70 | 52 | 74 % | commencé |
+| [`E3_004.json`](trad/dialogues/E3_004.json) | 95 | 75 | 79 % | commencé · 1 trop large |
+| [`E3_005.json`](trad/dialogues/E3_005.json) | 97 | 44 | 45 % | commencé |
+| [`E3_006.json`](trad/dialogues/E3_006.json) | 98 | 38 | 39 % | commencé |
 | [`E3_007.json`](trad/dialogues/E3_007.json) | 96 | 0 | 0 % | libre |
 | [`E3_008.json`](trad/dialogues/E3_008.json) | 66 | 1 | 2 % | commencé |
 
@@ -168,4 +199,150 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 |---|---:|---:|---:|---|
 | [`DNG_001.json`](trad/donjons/DNG_001.json) | 99 | 99 | 100 % | terminé |
 | [`DNG_002.json`](trad/donjons/DNG_002.json) | 31 | 31 | 100 % | terminé |
+
+## Négociations
+
+Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en « en cours » dans la minute.
+
+| Fichier | Textes | Traduits | % | État |
+|---|---:|---:|---:|---|
+| [`ALIEN_001.json`](trad/negociations/ALIEN_001.json) | 100 | 100 | 100 % | terminé |
+| [`ALIEN_002.json`](trad/negociations/ALIEN_002.json) | 5 | 4 | 80 % | commencé |
+| [`BASKET_001.json`](trad/negociations/BASKET_001.json) | 100 | 0 | 0 % | libre |
+| [`BASKET_002.json`](trad/negociations/BASKET_002.json) | 100 | 0 | 0 % | libre |
+| [`BASKET_003.json`](trad/negociations/BASKET_003.json) | 100 | 0 | 0 % | libre |
+| [`BASKET_004.json`](trad/negociations/BASKET_004.json) | 100 | 0 | 0 % | libre |
+| [`BASKET_005.json`](trad/negociations/BASKET_005.json) | 100 | 0 | 0 % | libre |
+| [`BASKET_006.json`](trad/negociations/BASKET_006.json) | 100 | 0 | 0 % | libre |
+| [`BASKET_007.json`](trad/negociations/BASKET_007.json) | 100 | 0 | 0 % | libre |
+| [`BASKET_008.json`](trad/negociations/BASKET_008.json) | 56 | 0 | 0 % | libre |
+| [`DOPPEL_001.json`](trad/negociations/DOPPEL_001.json) | 100 | 0 | 0 % | libre |
+| [`DOPPEL_002.json`](trad/negociations/DOPPEL_002.json) | 100 | 0 | 0 % | libre |
+| [`DOPPEL_003.json`](trad/negociations/DOPPEL_003.json) | 14 | 0 | 0 % | libre |
+| [`ETC_001.json`](trad/negociations/ETC_001.json) | 100 | 0 | 0 % | libre |
+| [`ETC_002.json`](trad/negociations/ETC_002.json) | 100 | 0 | 0 % | libre |
+| [`ETC_003.json`](trad/negociations/ETC_003.json) | 100 | 0 | 0 % | libre |
+| [`ETC_004.json`](trad/negociations/ETC_004.json) | 24 | 0 | 0 % | libre |
+| [`GAKI_001.json`](trad/negociations/GAKI_001.json) | 100 | 0 | 0 % | libre |
+| [`GAKI_002.json`](trad/negociations/GAKI_002.json) | 100 | 0 | 0 % | libre |
+| [`GAKI_003.json`](trad/negociations/GAKI_003.json) | 28 | 0 | 0 % | libre |
+| [`HIHO_001.json`](trad/negociations/HIHO_001.json) | 100 | 0 | 0 % | libre |
+| [`HIHO_002.json`](trad/negociations/HIHO_002.json) | 100 | 0 | 0 % | libre |
+| [`HIHO_003.json`](trad/negociations/HIHO_003.json) | 100 | 0 | 0 % | libre |
+| [`HIHO_004.json`](trad/negociations/HIHO_004.json) | 100 | 0 | 0 % | libre |
+| [`HIHO_005.json`](trad/negociations/HIHO_005.json) | 100 | 0 | 0 % | libre |
+| [`HIHO_006.json`](trad/negociations/HIHO_006.json) | 100 | 0 | 0 % | libre |
+| [`HIHO_007.json`](trad/negociations/HIHO_007.json) | 68 | 0 | 0 % | libre |
+| [`KEMONO_001.json`](trad/negociations/KEMONO_001.json) | 100 | 0 | 0 % | libre |
+| [`KEMONO_002.json`](trad/negociations/KEMONO_002.json) | 100 | 0 | 0 % | libre |
+| [`KEMONO_003.json`](trad/negociations/KEMONO_003.json) | 100 | 0 | 0 % | libre |
+| [`KEMONO_004.json`](trad/negociations/KEMONO_004.json) | 100 | 0 | 0 % | libre |
+| [`KEMONO_005.json`](trad/negociations/KEMONO_005.json) | 100 | 0 | 0 % | libre |
+| [`KEMONO_006.json`](trad/negociations/KEMONO_006.json) | 100 | 0 | 0 % | libre |
+| [`KEMONO_007.json`](trad/negociations/KEMONO_007.json) | 100 | 0 | 0 % | libre |
+| [`KEMONO_008.json`](trad/negociations/KEMONO_008.json) | 100 | 0 | 0 % | libre |
+| [`KEMONO_009.json`](trad/negociations/KEMONO_009.json) | 100 | 0 | 0 % | libre |
+| [`KEMONO_010.json`](trad/negociations/KEMONO_010.json) | 69 | 0 | 0 % | libre |
+| [`KOKURI_001.json`](trad/negociations/KOKURI_001.json) | 96 | 0 | 0 % | libre |
+| [`KOROU_001.json`](trad/negociations/KOROU_001.json) | 100 | 0 | 0 % | libre |
+| [`KOROU_002.json`](trad/negociations/KOROU_002.json) | 100 | 0 | 0 % | libre |
+| [`KOROU_003.json`](trad/negociations/KOROU_003.json) | 100 | 0 | 0 % | libre |
+| [`KOROU_004.json`](trad/negociations/KOROU_004.json) | 100 | 0 | 0 % | libre |
+| [`KOROU_005.json`](trad/negociations/KOROU_005.json) | 100 | 0 | 0 % | libre |
+| [`KOROU_006.json`](trad/negociations/KOROU_006.json) | 100 | 0 | 0 % | libre |
+| [`KOROU_007.json`](trad/negociations/KOROU_007.json) | 100 | 0 | 0 % | libre |
+| [`KOROU_008.json`](trad/negociations/KOROU_008.json) | 100 | 0 | 0 % | libre |
+| [`KOROU_009.json`](trad/negociations/KOROU_009.json) | 69 | 0 | 0 % | libre |
+| [`KOSIKI_001.json`](trad/negociations/KOSIKI_001.json) | 100 | 0 | 0 % | libre |
+| [`KOSIKI_002.json`](trad/negociations/KOSIKI_002.json) | 100 | 0 | 0 % | libre |
+| [`KOSIKI_003.json`](trad/negociations/KOSIKI_003.json) | 100 | 0 | 0 % | libre |
+| [`KOSIKI_004.json`](trad/negociations/KOSIKI_004.json) | 100 | 0 | 0 % | libre |
+| [`KOSIKI_005.json`](trad/negociations/KOSIKI_005.json) | 100 | 0 | 0 % | libre |
+| [`KOSIKI_006.json`](trad/negociations/KOSIKI_006.json) | 100 | 0 | 0 % | libre |
+| [`KOSIKI_007.json`](trad/negociations/KOSIKI_007.json) | 25 | 0 | 0 % | libre |
+| [`KOUMAN_001.json`](trad/negociations/KOUMAN_001.json) | 100 | 0 | 0 % | libre |
+| [`KOUMAN_002.json`](trad/negociations/KOUMAN_002.json) | 100 | 0 | 0 % | libre |
+| [`KOUMAN_003.json`](trad/negociations/KOUMAN_003.json) | 100 | 0 | 0 % | libre |
+| [`KOUMAN_004.json`](trad/negociations/KOUMAN_004.json) | 100 | 0 | 0 % | libre |
+| [`KOUMAN_005.json`](trad/negociations/KOUMAN_005.json) | 100 | 0 | 0 % | libre |
+| [`KOUMAN_006.json`](trad/negociations/KOUMAN_006.json) | 100 | 0 | 0 % | libre |
+| [`KOUMAN_007.json`](trad/negociations/KOUMAN_007.json) | 100 | 0 | 0 % | libre |
+| [`KOUMAN_008.json`](trad/negociations/KOUMAN_008.json) | 100 | 0 | 0 % | libre |
+| [`KOUMAN_009.json`](trad/negociations/KOUMAN_009.json) | 93 | 0 | 0 % | libre |
+| [`KUTISAKE_001.json`](trad/negociations/KUTISAKE_001.json) | 100 | 0 | 0 % | libre |
+| [`KUTISAKE_002.json`](trad/negociations/KUTISAKE_002.json) | 100 | 0 | 0 % | libre |
+| [`KUTISAKE_003.json`](trad/negociations/KUTISAKE_003.json) | 81 | 0 | 0 % | libre |
+| [`KYOUKI_001.json`](trad/negociations/KYOUKI_001.json) | 100 | 0 | 0 % | libre |
+| [`KYOUKI_002.json`](trad/negociations/KYOUKI_002.json) | 100 | 0 | 0 % | libre |
+| [`KYOUKI_003.json`](trad/negociations/KYOUKI_003.json) | 100 | 0 | 0 % | libre |
+| [`KYOUKI_004.json`](trad/negociations/KYOUKI_004.json) | 100 | 0 | 0 % | libre |
+| [`KYOUKI_005.json`](trad/negociations/KYOUKI_005.json) | 100 | 0 | 0 % | libre |
+| [`KYOUKI_006.json`](trad/negociations/KYOUKI_006.json) | 100 | 0 | 0 % | libre |
+| [`KYOUKI_007.json`](trad/negociations/KYOUKI_007.json) | 23 | 0 | 0 % | libre |
+| [`MAYOERU_001.json`](trad/negociations/MAYOERU_001.json) | 100 | 0 | 0 % | libre |
+| [`MAYOERU_002.json`](trad/negociations/MAYOERU_002.json) | 100 | 0 | 0 % | libre |
+| [`MAYOERU_003.json`](trad/negociations/MAYOERU_003.json) | 39 | 0 | 0 % | libre |
+| [`POLUTAR_001.json`](trad/negociations/POLUTAR_001.json) | 100 | 0 | 0 % | libre |
+| [`POLUTAR_002.json`](trad/negociations/POLUTAR_002.json) | 100 | 0 | 0 % | libre |
+| [`POLUTAR_003.json`](trad/negociations/POLUTAR_003.json) | 100 | 0 | 0 % | libre |
+| [`POLUTAR_004.json`](trad/negociations/POLUTAR_004.json) | 36 | 0 | 0 % | libre |
+| [`QSIRUBA_001.json`](trad/negociations/QSIRUBA_001.json) | 100 | 0 | 0 % | libre |
+| [`QSIRUBA_002.json`](trad/negociations/QSIRUBA_002.json) | 100 | 0 | 0 % | libre |
+| [`QSIRUBA_003.json`](trad/negociations/QSIRUBA_003.json) | 20 | 0 | 0 % | libre |
+| [`SINSI_001.json`](trad/negociations/SINSI_001.json) | 100 | 0 | 0 % | libre |
+| [`SINSI_002.json`](trad/negociations/SINSI_002.json) | 100 | 0 | 0 % | libre |
+| [`SINSI_003.json`](trad/negociations/SINSI_003.json) | 100 | 0 | 0 % | libre |
+| [`SINSI_004.json`](trad/negociations/SINSI_004.json) | 100 | 0 | 0 % | libre |
+| [`SINSI_005.json`](trad/negociations/SINSI_005.json) | 100 | 0 | 0 % | libre |
+| [`SINSI_006.json`](trad/negociations/SINSI_006.json) | 100 | 0 | 0 % | libre |
+| [`SINSI_007.json`](trad/negociations/SINSI_007.json) | 36 | 0 | 0 % | libre |
+| [`SLIME_001.json`](trad/negociations/SLIME_001.json) | 100 | 16 | 16 % | commencé |
+| [`SLIME_002.json`](trad/negociations/SLIME_002.json) | 100 | 0 | 0 % | libre |
+| [`SLIME_003.json`](trad/negociations/SLIME_003.json) | 20 | 0 | 0 % | libre |
+| [`SYOUJO_001.json`](trad/negociations/SYOUJO_001.json) | 100 | 0 | 0 % | libre |
+| [`SYOUJO_002.json`](trad/negociations/SYOUJO_002.json) | 100 | 0 | 0 % | libre |
+| [`SYOUJO_003.json`](trad/negociations/SYOUJO_003.json) | 100 | 0 | 0 % | libre |
+| [`SYOUJO_004.json`](trad/negociations/SYOUJO_004.json) | 100 | 0 | 0 % | libre |
+| [`SYOUJO_005.json`](trad/negociations/SYOUJO_005.json) | 100 | 0 | 0 % | libre |
+| [`SYOUJO_006.json`](trad/negociations/SYOUJO_006.json) | 100 | 0 | 0 % | libre |
+| [`SYOUJO_007.json`](trad/negociations/SYOUJO_007.json) | 9 | 0 | 0 % | libre |
+| [`TENSI_001.json`](trad/negociations/TENSI_001.json) | 100 | 0 | 0 % | libre |
+| [`TENSI_002.json`](trad/negociations/TENSI_002.json) | 100 | 0 | 0 % | libre |
+| [`TENSI_003.json`](trad/negociations/TENSI_003.json) | 100 | 0 | 0 % | libre |
+| [`TENSI_004.json`](trad/negociations/TENSI_004.json) | 100 | 0 | 0 % | libre |
+| [`TENSI_005.json`](trad/negociations/TENSI_005.json) | 100 | 0 | 0 % | libre |
+| [`TENSI_006.json`](trad/negociations/TENSI_006.json) | 82 | 0 | 0 % | libre |
+| [`TINPRA_001.json`](trad/negociations/TINPRA_001.json) | 100 | 0 | 0 % | libre |
+| [`TINPRA_002.json`](trad/negociations/TINPRA_002.json) | 100 | 0 | 0 % | libre |
+| [`TINPRA_003.json`](trad/negociations/TINPRA_003.json) | 69 | 0 | 0 % | libre |
+| [`TOILET_001.json`](trad/negociations/TOILET_001.json) | 100 | 0 | 0 % | libre |
+| [`TOILET_002.json`](trad/negociations/TOILET_002.json) | 100 | 0 | 0 % | libre |
+| [`TOILET_003.json`](trad/negociations/TOILET_003.json) | 100 | 0 | 0 % | libre |
+| [`TOILET_004.json`](trad/negociations/TOILET_004.json) | 19 | 0 | 0 % | libre |
+| [`WORM_001.json`](trad/negociations/WORM_001.json) | 100 | 0 | 0 % | libre |
+| [`WORM_002.json`](trad/negociations/WORM_002.json) | 100 | 0 | 0 % | libre |
+| [`WORM_003.json`](trad/negociations/WORM_003.json) | 100 | 0 | 0 % | libre |
+| [`WORM_004.json`](trad/negociations/WORM_004.json) | 100 | 0 | 0 % | libre |
+| [`WORM_005.json`](trad/negociations/WORM_005.json) | 100 | 0 | 0 % | libre |
+| [`WORM_006.json`](trad/negociations/WORM_006.json) | 100 | 0 | 0 % | libre |
+| [`WORM_007.json`](trad/negociations/WORM_007.json) | 100 | 0 | 0 % | libre |
+| [`WORM_008.json`](trad/negociations/WORM_008.json) | 100 | 0 | 0 % | libre |
+| [`WORM_009.json`](trad/negociations/WORM_009.json) | 86 | 0 | 0 % | libre |
+| [`WTENSI_001.json`](trad/negociations/WTENSI_001.json) | 80 | 0 | 0 % | libre |
+| [`YAKUZA_001.json`](trad/negociations/YAKUZA_001.json) | 100 | 0 | 0 % | libre |
+| [`YAKUZA_002.json`](trad/negociations/YAKUZA_002.json) | 100 | 0 | 0 % | libre |
+| [`YAKUZA_003.json`](trad/negociations/YAKUZA_003.json) | 59 | 5 | 8 % | commencé |
+| [`YOUEN_001.json`](trad/negociations/YOUEN_001.json) | 100 | 0 | 0 % | libre |
+| [`YOUEN_002.json`](trad/negociations/YOUEN_002.json) | 100 | 0 | 0 % | libre |
+| [`YOUEN_003.json`](trad/negociations/YOUEN_003.json) | 100 | 0 | 0 % | libre |
+| [`YOUEN_004.json`](trad/negociations/YOUEN_004.json) | 100 | 0 | 0 % | libre |
+| [`YOUEN_005.json`](trad/negociations/YOUEN_005.json) | 100 | 0 | 0 % | libre |
+| [`YOUEN_006.json`](trad/negociations/YOUEN_006.json) | 87 | 0 | 0 % | libre |
+| [`ZMBITYAN_001.json`](trad/negociations/ZMBITYAN_001.json) | 100 | 0 | 0 % | libre |
+| [`ZMBITYAN_002.json`](trad/negociations/ZMBITYAN_002.json) | 100 | 0 | 0 % | libre |
+| [`ZMBITYAN_003.json`](trad/negociations/ZMBITYAN_003.json) | 22 | 0 | 0 % | libre |
+| [`ZOMB_MAN_001.json`](trad/negociations/ZOMB_MAN_001.json) | 100 | 0 | 0 % | libre |
+| [`ZOMB_MAN_002.json`](trad/negociations/ZOMB_MAN_002.json) | 82 | 0 | 0 % | libre |
+| [`ZOMBIKO_001.json`](trad/negociations/ZOMBIKO_001.json) | 100 | 0 | 0 % | libre |
+| [`ZOMBIKO_002.json`](trad/negociations/ZOMBIKO_002.json) | 90 | 0 | 0 % | libre |
 

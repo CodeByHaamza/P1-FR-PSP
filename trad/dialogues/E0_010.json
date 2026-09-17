@@ -294,7 +294,7 @@
     "locuteur": "Elly",
     "en": "We need to retrieve Maki's mother...{SAUT}She should still be at the shrine.{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Il faut aller chercher la mère de{SAUT}Maki... Elle est encore au sanctuaire.{ATTENTE}"
+    "fr": "Il faut aller chercher la mère de{SAUT}Maki... Elle est encore à l'autel.{ATTENTE}"
   },
   {
     "id": "E0.BIN:032:0001",
@@ -357,7 +357,7 @@
     "locuteur": "Elly",
     "en": "The shrine isn't far from here.{SAUT}Let's hurry there and come back.{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Le sanctuaire est tout près.{SAUT}Allons-y vite et revenons.{ATTENTE}"
+    "fr": "L'autel est tout près.{SAUT}Allons-y vite et revenons.{ATTENTE}"
   },
   {
     "id": "E0.BIN:032:0010",

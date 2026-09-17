@@ -1,0 +1,521 @@
+[
+  {
+    "id": "KOSIKI.BIN:text:0200",
+    "en": "   This is my spell card... I pray it{SAUT}serves thy purpose well...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0201",
+    "en": "  To fight thee would be an act of{SAUT}betrayal to fate itself!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0202",
+    "en": "  Take this, and hold it close to thee as{SAUT}a keepsake of our encounter...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0203",
+    "en": " No... I must find a way to survive...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0204",
+    "en": "  ...I know! I shall give unto thee my{SAUT}spell card, in hopes that it subdue thy{SAUT}anger...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0205",
+    "en": "  Hahaha... What business doth a human{SAUT}have here?[FFFD][6BFF][F500]  Haha, humans wear such eccentric{SAUT}raiments...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0206",
+    "en": "   Thou art the first human I have met...{SAUT}Wouldst thou honor me with a keepsake?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0207",
+    "en": " Thou art an obstruction in my path!{SAUT}Remove thyself, now![FFFD][6CFF][F500] I am rife with choler this day. Makest{SAUT}thou an ill move, and I shall tear thy{SAUT}throat from 'neath thy head!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0208",
+    "en": " I stand before thee, yet thou dost{SAUT}nothing! Canst thou not even present{SAUT}me with a gift!?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0209",
+    "en": "  Mark me well, beyond where thou standest{SAUT}is my territory...[FFFD][6DFF][F500]  My, how thy face hath contorted... Thou{SAUT}lookest ill, and I shall grant thee no{SAUT}favors...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0210",
+    "en": "   Thy face is one to be reviled...{SAUT}I daren't use the toilet alone this{SAUT}eve...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0211",
+    "en": "Haha, a beautifully rounded moon shineth{SAUT}this eve. But lunar cycles aside, how{SAUT}dost thou fare?[FFFD][6EFF][F500]   Hahaha, 'twould gladden my heart to{SAUT}drink fine mead and take in a dance!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0212",
+    "en": "   Were I to be offered a gift from a{SAUT}winsome lad, I would be most merry![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0213",
+    "en": "[FFED]To think that thou wouldst answer my{SAUT}question! What dost thou desire? If it{SAUT}be nothing, I shall take my leave![FFFD][70FF][F500]  [FFED]If thou hast business with me, thou{SAUT}shouldst be the one to make it known!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0214",
+    "en": " [FFED]...Thou art entirely incompatible with{SAUT}me! A wastrel of a human, thou art!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0215",
+    "en": "{PAGE}So be it... If thou offerest me a{SAUT}gift, I might be persuaded to enter{SAUT}negotiations with thee.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0216",
+    "en": "[FFEC]Pardon me, but if the conversation hath{SAUT}run its course, may I take my leave?[FFFD][71FF][F500][FFEE]...Another savage human... Whatever{SAUT}shall I do? Luck doth forsake me on{SAUT}these moonless nights...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0217",
+    "en": "  [FFEC]Violence is an ill retort, and only{SAUT}those of addled minds resort to steel.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0218",
+    "en": "[FFEB]Hahaha, I wish to abandon my station{SAUT}and go with thee... Were I to say that,{SAUT}what wouldst thou do?[FFFD][72FF][F500]  [FFEE]Hahaha, even encounters of chance are{SAUT}guided by fate.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0219",
+    "en": " [FFEB]If it is thy desire, I shall hear thee{SAUT}further. That is, with a proper gift...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0220",
+    "en": "   [FFEC]Monster! Come n-no closer![FFFD][73FF][F500]  [FFEC]What darkness doth I espy that gathers{SAUT}behind thee? N-No, keep it at bay!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0221",
+    "en": " [FFED]In order to live, I must take life!{SAUT}Thou mustn't fault me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0222",
+    "en": "  [FFEB]Thou and I art as day is to night. A{SAUT}world of difference exists betwixt us!{SAUT}Dost thou understand?[FFFD][74FF][F500]   [FFED]Thou knowest not the proper way to{SAUT}speak to a lady. 'Tis written on thy{SAUT}face like a birthmark!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0223",
+    "en": "[FFEB]My question is answered... And I see{SAUT}that thou hast brought a symbol of{SAUT}surrender![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0224",
+    "en": "   [FFEC]Thy gaze is sharp as needles... What{SAUT}dost thou plan to do with me?[FFFD][75FF][F500]  [FFEB]Though I close mine eyes, thine image{SAUT}remains clear as day. Why is this...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0225",
+    "en": "   [FFEB]O, what art thou doing...? Nay... I mind{SAUT}not whatever thou dost unto me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0226",
+    "en": "Thou art a human of interest! Very well,{SAUT}I shall grant thy wishes; you have only{SAUT}to ask them.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0227",
+    "en": "  Hm, it seems negotiations with humans{SAUT}are a waste of time. I shall tear thy{SAUT}body asunder!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0228",
+    "en": "  How frightful... Is this where my{SAUT}ashes are to be scattered?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0229",
+    "en": "   What a grand moment we've shared! Thou{SAUT}hast stolen my heart...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0230",
+    "en": " I have not time to spare thee, so keep{SAUT}thy negotiations swift! If thou hast{SAUT}business, state it thusly!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0231",
+    "en": " Thou art a dreadful sort... I did not{SAUT}say I would hear thee...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0232",
+    "en": "{PAGE}Tell me thy desires.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0233",
+    "en": "   The moment that hath just passed carried{SAUT}more meaning than a fortnight! 'Tis for{SAUT}thee, I shall be glad to oblige.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0234",
+    "en": "  What evil is this? My skin shivers{SAUT}as though 'twere ice, yet mine eyes{SAUT}boil with choler!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0235",
+    "en": "{PAGE}What hath become of me? Will I be slain{SAUT}by thee where I stand, my tomb marked{SAUT}only by the wild posies?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0236",
+    "en": "   ...Hmm, I grow weary of toying with{SAUT}thee. Thou hast outlived thy use!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0237",
+    "en": "  ...I understand. Our encounter was{SAUT}fated...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0238",
+    "en": "Then I shall take ￥(*VALUE*).(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0239",
+    "en": "  I thank thee...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0240",
+    "en": "I am not so foolish as to barter with{SAUT}beggars and paupers!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0241",
+    "en": " How pathetic...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0242",
+    "en": "Hmph! It seemeth I have been taken for{SAUT}the halfwit fool upon a stage!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0243",
+    "en": "  No matter how deep thy coinpurse, thy{SAUT}fortune shalt not follow thee beyond{SAUT}the grave.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0244",
+    "en": "  I think I should like a life stone.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0245",
+    "en": "I shall cherish this.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0246",
+    "en": "  What!? Thou wouldst negotiate with{SAUT}naught a single life stone!? This{SAUT}offense wounds me deeply!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0247",
+    "en": " What?! Thou wouldst negotiate with{SAUT}demons and carry naught a single life{SAUT}stone!? Thou art a foolish human!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0248",
+    "en": " Life stones are wasted on thee as{SAUT}fine wine is wasted on curs!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0249",
+    "en": " A covetous human... However, survival{SAUT}dictates necessity. Perhaps 'tis{SAUT}natural to become as thou art...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0250",
+    "en": "Then I shall have a [FFF4]!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0251",
+    "en": " A devilish stone that bewitcheth even{SAUT}demons... Hahaha...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0252",
+    "en": "  Hmm... Next time it shan't end like{SAUT}this.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0253",
+    "en": "  Dost thou mean to imply I am unworthy{SAUT}of it!? Curse thee, human!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0254",
+    "en": "   Dost thou mean to imply I am unworthy{SAUT}of it? Hmph... So be it...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0255",
+    "en": "   Give unto me some of thy life...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0256",
+    "en": "   Haha, I fancy obedient humans...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0257",
+    "en": "   'Tis a shame, but I shan't relent!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0258",
+    "en": " 'Tis a shame...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0259",
+    "en": "Hmph! That is not thy true intention!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0260",
+    "en": "  That maketh thee so adorable.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0261",
+    "en": "  Art thou familiar with the phrase, \"the{SAUT}less spoken, the better\"?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "KOSIKI.BIN:text:0262",
+    "en": "  Then all is well.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "KOSIKI.BIN:text:0263",
+    "en": "  Then this shalt not be settled without{SAUT}a proper gift.[FFF1](*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "KOSIKI.BIN:text:0264",
+    "en": " I trust thee as I trust a sleeping{SAUT}serpent!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "KOSIKI.BIN:text:0265",
+    "en": "Understood!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 7
+  },
+  {
+    "id": "KOSIKI.BIN:text:0266",
+    "en": "Oh, is that the truth of it? ...Cursed{SAUT}human!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 7
+  },
+  {
+    "id": "KOSIKI.BIN:text:0267",
+    "en": "  I see... Thou needst this not...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 7
+  },
+  {
+    "id": "KOSIKI.BIN:text:0268",
+    "en": "   Thou speakest thusly after making such{SAUT}threats? Thou art a vexing being.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0269",
+    "en": "   Ha! Art thou so confident?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0270",
+    "en": " Ha, thou art not lacking in confidence.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "KOSIKI.BIN:text:0271",
+    "en": "That is correct. Thou must hone thy{SAUT}devotion daily.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "KOSIKI.BIN:text:0272",
+    "en": "Haha... One's true colors reveal{SAUT}themselves in due time.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "KOSIKI.BIN:text:0273",
+    "en": "   Hmph...! One's true colors reveal{SAUT}themselves in due time.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "KOSIKI.BIN:text:0274",
+    "en": "  Thy kindness hath caught me off-guard.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "KOSIKI.BIN:text:0275",
+    "en": " Conceited knave! Divine retribution{SAUT}wilt smite thee!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0276",
+    "en": "   Conceited knave! Divine retribution{SAUT}wilt strike thee down...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0277",
+    "en": "   Hmph... Is this thy true intention!?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:text:0278",
+    "en": "   That maketh thee rather adorable.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "KOSIKI.BIN:text:0279",
+    "en": "  That is quite bewildering... But I shall{SAUT}tell thee. I seek gifts.[FFF1](*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOSIKI.BIN:text:0280",
+    "en": " Then all is well.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOSIKI.BIN:text:0283",
+    "en": "Never have I seen such an honest{SAUT}villain...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0284",
+    "en": "Never have I seen such an honest{SAUT}villain. Thou art an interesting one!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0285",
+    "en": " All the more suspicious...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0286",
+    "en": " Hmm... Thou art not wanting for{SAUT}confidence...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0287",
+    "en": "  Haha, my spirit surgeth!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:text:0288",
+    "en": "   Ha! How canst thou speak so shamelessly{SAUT}when that was thy true intention!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:text:0289",
+    "en": "  This one... Thou art no human...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0290",
+    "en": "   Oh, is that the truth of it!?{SAUT}Adaptation can be dreadful.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0291",
+    "en": "  Hmph! Unlike thee, I have not grown{SAUT}accustomed to it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0292",
+    "en": "  Why hast thou stopped? Sound thy vocal{SAUT}melodies once more, for my sake.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:text:0293",
+    "en": "Were I to eat thy tongue, perhaps I too,{SAUT}could sing as the nightingale...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0294",
+    "en": "  Haha, o that I could sing as thou{SAUT}dost...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0295",
+    "en": "  Hmph... Is this thy true intention!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0304",
+    "en": "   Haha! It seemeth I have been taken for{SAUT}the halfwit fool upon a stage.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0305",
+    "en": "  Hmph! It seemeth I have been taken for{SAUT}the halfwit fool upon a stage!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0306",
+    "en": "  Thou art a woman possessed of great{SAUT}strength!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0307",
+    "en": "  'Tis not true...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0308",
+    "en": "   Thou knowest not the barbs of sarcasm.{SAUT}Is ignorance truly so blissful, human?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0309",
+    "en": "  Dost thou know nothing of the thorns{SAUT}of sarcasm!?(*RESPONSE*)",
+    "fr": ""
+  }
+]

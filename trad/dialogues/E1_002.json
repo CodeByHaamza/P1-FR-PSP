@@ -8,64 +8,64 @@
     "id": "E1.BIN:003:0001",
     "locuteur": "Yukino",
     "en": "So our job's to find the Mirror Shards{SAUT}and put them in this frame, huh?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Donc faut trouver les fragments du{SAUT}miroir et les mettre au cadre, hein?{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0002",
     "locuteur": "Ayase",
     "en": "Umm, Yukino? You know the towers are{SAUT}guarded by demons, right?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Euh, Yukino? Les tours sont{SAUT}gardées par des démons, tu sais?{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0003",
     "locuteur": "Ayase",
     "en": "Aren't we a little, y'know, shorthanded?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "On manque pas un peu de bras, non?{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0004",
     "locuteur": "Yukino",
     "en": "You can stay here if you want.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Tu peux rester ici si tu veux.{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0005",
     "locuteur": "Yukino",
     "en": "We won't force you to come, not when we{SAUT}don't know what we're up against.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "On ne te forcera pas à venir, pas tant{SAUT}qu'on ignore à quoi on fait face.{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0006",
     "locuteur": "Ayase",
     "en": "Uh, no, I meant... It's just...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Euh, non, je voulais... C'est...{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0007",
     "locuteur": "Yukino",
     "en": "I'll do whatever it takes to save{SAUT}Ms. Saeko.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Je ferai tout pour sauver{SAUT}Mme Saeko.{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0008",
     "locuteur": "Yukino",
     "en": "I used to be a lousy delinquent. Even my{SAUT}parents gave up on me... but not her.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "J'étais une sale délinquante. Même mes{SAUT}parents ont abandonné... pas elle.{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0009",
     "locuteur": "Yukino",
     "en": "She never gave up on me. Ever.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Elle n'a jamais lâche. Jamais.{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0010",
@@ -78,15 +78,15 @@
     "id": "E1.BIN:003:0011",
     "locuteur": "Ayase",
     "en": "Hey, Yukino...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Hé, Yukino...{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0012",
     "locuteur": "Ayase",
     "en": "You're not planning on leaving me here{SAUT}all alone, are you...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Tu comptes pas me laisser ici{SAUT}toute seule, hein...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0013",
@@ -99,8 +99,8 @@
     "id": "E1.BIN:003:0014",
     "locuteur": "Yukino",
     "en": "Haha, sure... whatever floats your boat.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Haha, ok... comme tu veux.{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0015",
@@ -113,43 +113,43 @@
     "id": "E1.BIN:003:0016",
     "locuteur": "Yukino",
     "en": "Hey! Holy crap, Yuka, where did you get{SAUT}a gun!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Hé! Bon sang, Yuka, où as-tu eu{SAUT}un flingue!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0017",
     "locuteur": "Ayase",
     "en": "Kei gave it to me. Him and Masao went{SAUT}to the police station for some weapons.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Kei me l'a donné. Lui et Masao sont{SAUT}allés au poste chercher des armes.{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0018",
     "locuteur": "Ayase",
     "en": "But Kei got hurt, so they came back{SAUT}to school.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Mais Kei s'est blessé, ils sont{SAUT}rentrés.{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0019",
     "locuteur": "Ayase",
     "en": "He handed me some guns and said to hold{SAUT}on to them while he went to the nurse...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Il m'a donné des flingues à garder{SAUT}pendant qu'il allait à l'infirmerie...{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0020",
     "locuteur": "Ayase",
     "en": "So I kept one for myself!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Donc j'en ai gardé un!{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0021",
     "locuteur": "Ayase",
     "en": "Hehehe... I always wanted to try shooting{SAUT}one of these things!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Héhéhé... J'ai toujours voulu tirer{SAUT}avec un truc pareil!{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0022",
@@ -163,22 +163,22 @@
     "id": "E1.BIN:003:0023",
     "locuteur": "Ayase",
     "en": "Gah! The wind's picking up! Brrrr, it's{SAUT}cooooold... My ears hurt!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Gah! Le vent se lève! Brr, il fait{SAUT}froid... Mes oreilles gèlent!{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0024",
     "locuteur": "Ayase",
     "en": "C'mon, let's go inside, quick!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Allez, rentrons vite!{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0025",
     "locuteur": "Yukino",
     "en": "Yeah, standing here won't do anyone{SAUT}any good.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Ouais, rester plante ici ne sert{SAUT}à rien.{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0026",
@@ -191,8 +191,8 @@
     "id": "E1.BIN:003:0027",
     "locuteur": "Yukino",
     "en": "I dunno, maybe we should grab a couple{SAUT}more people, like Yuka said.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Sais pas, on devrait prendre du{SAUT}monde, comme l'a dit Yuka.{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0028",
@@ -205,8 +205,8 @@
     "id": "E1.BIN:003:0029",
     "locuteur": "Yukino",
     "en": "Ms. Saeko... We'll be back for you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Mme Saeko.. On revient te chercher.{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0000",
@@ -219,29 +219,29 @@
     "id": "E1.BIN:004:0001",
     "locuteur": "Nanjo",
     "en": "No worries. The way that bandage was{SAUT}applied, it served no purpose anyway.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Rassurez-vous. Pose ainsi, ce bandage{SAUT}ne servait à rien de toute façon.{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0002",
     "locuteur": "Nurse Natsumi",
     "en": "Hmph... Excuse me for being a little{SAUT}bit of a butterfingers.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Hmph... Excusez-moi d'avoir les{SAUT}doigts un peu gourds.{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0003",
     "locuteur": "Nanjo",
     "en": "Well, if you'll excuse me...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Bien, si vous permettez...{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0004",
     "locuteur": "Nurse Natsumi",
     "en": "Wait, what are you doing? Don't tell me{SAUT}you're going outside...!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Attends, que fais-tu? Ne me dis pas{SAUT}que tu sors dehors...!{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0005",
@@ -254,15 +254,15 @@
     "id": "E1.BIN:004:0006",
     "locuteur": "Female student",
     "en": "Besides... We've been all over campus{SAUT}and we couldn't find any ways out.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "En plus... On a fouillé tout le campus{SAUT}sans trouver la moindre sortie.{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0007",
     "locuteur": "Female student",
     "en": "We can't leave the school!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "On ne peut pas quitter le lycée!{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0008",
@@ -273,15 +273,15 @@
     "id": "E1.BIN:004:0009",
     "locuteur": "Nanjo",
     "en": "Hm? What are you babbling about? This{SAUT}isn't the time to share your daydreams.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Hm? Que racontes-tu là? Ce{SAUT}n'est pas le moment de rêver tout haut.{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0010",
     "locuteur": "Ayase",
     "en": "She's not! It's totally true! The Snow{SAUT}Queen's trapped us all in here.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Non! C'est tout à fait vrai! La reine{SAUT}des Neiges nous a enfermés ici.{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0011",
@@ -301,57 +301,57 @@
     "id": "E1.BIN:004:0013",
     "locuteur": "Yukino",
     "en": "She's right, Kei. There's no exit.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Elle a raison, Kei. Pas de sortie.{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0014",
     "locuteur": "Nanjo",
     "en": "Yukino, not you too--{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Yukino, toi aussi-{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0015",
     "locuteur": "Nanjo",
     "en": "Wait... Has the phenomenon we saw at{SAUT}the hospital reoccurred here!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Attends... Le phénomène vu à{SAUT}l'hôpital se reproduit-il ici!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0016",
     "locuteur": "Elly",
     "en": "I'm afraid so.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "J'en ai peur.{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0017",
     "locuteur": "Elly",
     "en": "With one important difference...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Avec une différence de taille...{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0018",
     "locuteur": "Elly",
     "en": "There are no demons here, but no way{SAUT}out either.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Pas de démons ici, mais pas de{SAUT}sortie non plus.{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0019",
     "locuteur": "Yukino",
     "en": "You got it. On the bright side, it's not{SAUT}swarming with demons...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Exactement. Au moins, ça ne grouille{SAUT}pas de démons...{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0020",
     "locuteur": "Yukino",
     "en": "But the bad news is there's no way out.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Mauvaise nouvelle, aucune sortie.{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0021",
@@ -365,49 +365,49 @@
     "locuteur": "Setsuko Sonomura",
     "en": "Maki...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Maki...{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0023",
     "locuteur": "Setsuko Sonomura",
     "en": "Is there really no exit? I wonder if{SAUT}there's something we can do...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "N'y a-t-il vraiment pas de sortie?{SAUT}Peut-on faire quelque chose...{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0024",
     "locuteur": "Yukino",
     "en": "Turns out, there is. But we need help.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "En fait, oui. Mais il faut de l'aide.{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0026",
     "locuteur": "Ayase",
     "en": "Okay, here goes...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Bon, c'est parti...{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0027",
     "locuteur": "Nanjo",
     "en": "Hm. I see.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Hm. Vu.{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0028",
     "locuteur": "Nanjo",
     "en": "If we save Ms. Saeko from this so-called{SAUT}Snow Queen, the school will be restored.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Si on sauve mme Saeko de cette prétendue{SAUT}Reine des Neiges, le lycée reviendra.{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0029",
     "locuteur": "Nanjo",
     "en": "And you're expecting my help?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Et tu comptes sur mon aide?{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0030",
@@ -421,8 +421,8 @@
     "id": "E1.BIN:004:0031",
     "locuteur": "Nanjo",
     "en": "Very well.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Nanjo",
+    "fr": "Très bien.{ATTENTE}",
     "_occurrences": 4
   },
   {
@@ -445,30 +445,30 @@
     "id": "E1.BIN:004:0036",
     "locuteur": "Nanjo",
     "en": "We may find a clue there.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Nanjo",
+    "fr": "On y trouvera un indice.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:004:0037",
     "locuteur": "Nanjo",
     "en": "Suits me. I'll find a way out on my own.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Soit. Je trouverai la sortie tout seul.{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0000",
     "locuteur": "Elly",
     "en": "How goes it, Tsutomu? Did you discover{SAUT}anything?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Alors, Tsutomu? Tu as découvert{SAUT}quelque chose?{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0001",
     "locuteur": "Tsutomu",
     "en": "Eeeheehee... Of course, Eriko.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tsutomu",
+    "fr": "Hihihi... Bien sûr, Eriko.{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0002",
@@ -481,36 +481,36 @@
     "id": "E1.BIN:005:0003",
     "locuteur": "Tsutomu",
     "en": "I'm 90% sure.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tsutomu",
+    "fr": "J'en 90% sur.{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0005",
     "locuteur": "Tsutomu",
     "en": "I'm sorry...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tsutomu",
+    "fr": "Désolé...{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0006",
     "locuteur": "Tsutomu",
     "en": "But I came up empty. None of the books{SAUT}mention this kind of thing at all.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tsutomu",
+    "fr": "Mais je fais chou blanc. Aucun livre{SAUT}ne parle de ce genre de chose.{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0007",
     "locuteur": "Elly",
     "en": "Oh... is that so?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Oh... vraiment?{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0008",
     "locuteur": "Elly",
     "en": "Then I'll keep up my own search. I'm very{SAUT}intrigued by this door...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Alors je continue ma recherche. Cette{SAUT}porte m'intrigue beaucoup...{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0009",
@@ -530,29 +530,29 @@
     "id": "E1.BIN:005:0011",
     "locuteur": "Elly",
     "en": "Nemesis is the Greek goddess of{SAUT}retribution.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Nemesis est la déesse grecque{SAUT}du châtiment.{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0012",
     "locuteur": "Yukino",
     "en": "Hey, Tsutomu knows tons about the occult{SAUT}and demons and stuff.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Hé, Tsutomu connaît l'occulte, les{SAUT}démons et tout ça.{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0013",
     "locuteur": "Yukino",
     "en": "Wouldn't he be pretty useful? Someone like{SAUT}him would be a big plus, I think.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Il serait bien utile, non? Quelqu'un{SAUT}comme lui serait un atout, je crois.{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0014",
     "locuteur": "Nanjo",
     "en": "That's not a bad idea. We're frankly{SAUT}lacking in information on demons.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Pas une mauvaise idée. On manque{SAUT}franchement d'infos sur les démons.{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0015",
@@ -572,8 +572,8 @@
     "id": "E1.BIN:005:0017",
     "locuteur": "Ayase",
     "en": "I say no.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Non.{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0018",
@@ -586,64 +586,64 @@
     "id": "E1.BIN:005:0019",
     "locuteur": "Yukino",
     "en": "Who cares whether he's your type!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Peu importe qu'il soit ton genre!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0020",
     "locuteur": "Yukino",
     "en": "Though I gotta admit... he looks more{SAUT}than a little flaky.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Cela dit... J'avoue qu'il a l'air{SAUT}plus que louche.{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0021",
     "locuteur": "Ayase",
     "en": "Hey, how 'bout Eriko? She might be able{SAUT}to translate if we meet foreign demons.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Hé, et si on prenait Eriko? Elle pourrait{SAUT}traduire face à un démon étranger.{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0022",
     "locuteur": "Yukino",
     "en": "Hmm... You know, she does seem to know{SAUT}about that stuff. Yeah, that could work.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Hmm... C'est vrai qu'elle a l'air de s'y{SAUT}connaître. Ouais, ça pourrait marcher.{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0023",
     "locuteur": "Elly",
     "en": "Excuse me, but... what were you talking{SAUT}about just now?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Pardon, mais... de quoi parliez-vous{SAUT}à l'instant?{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0024",
     "locuteur": "Elly",
     "en": "I didn't mean to eavesdrop, but I heard{SAUT}my name come up.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Sans vouloir écouter, j'ai entendu{SAUT}mon nom revenir.{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0025",
     "locuteur": "Yukino",
     "en": "Oh, we were just saying you probably{SAUT}know a lot about demons.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Oh, on disait juste que tu t'y{SAUT}connais sans doute en démons.{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0026",
     "locuteur": "Yukino",
     "en": "Here's what's going on...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Voilà ce qui se passe...{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0027",
     "locuteur": "Elly",
     "en": "Ahh, so that's how the school became{SAUT}encased in ice. Fascinating...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Ahh, voilà comment le lycée a{SAUT}gelé. Fascinant...{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0028",
@@ -656,31 +656,31 @@
     "id": "E1.BIN:005:0029",
     "locuteur": "Elly",
     "en": "I never imagined I'd witness multiple{SAUT}supernatural events, one after another.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Je n'aurais jamais cru voir autant{SAUT}d'événements surnaturels d'affilée.{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0030",
     "locuteur": "Elly",
     "en": "Something must be done before it's{SAUT}too late.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "Il faut agir avant qu'il ne soit{SAUT}trop tard.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:005:0031",
     "locuteur": "Yukino",
     "en": "You're sure you want Eriko to help?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Yukino",
+    "fr": "Tu veux vraiment l'aide d' Eriko?{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:005:0032",
     "locuteur": "Elly",
     "en": "All right!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "D'accord!{ATTENTE}",
     "_occurrences": 4
   },
   {

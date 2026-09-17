@@ -1,0 +1,505 @@
+[
+  {
+    "id": "SINSI.BIN:text:0000",
+    "en": "It seems logical, but I'm rather{SAUT}suspicious as to whether or not you{SAUT}comprehend its meaning.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0001",
+    "en": "   So, what merits are there to listening{SAUT}to you speak?[FFFD]É[F500] Such senseless chit-chat... I would{SAUT}rather you refrained from mocking me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0002",
+    "en": "  Another lie... I can already imagine{SAUT}your undignified lifestyle.[FFFD]α[F500] Haha, those eyes of yours... It's all{SAUT}just a pretext to talk with me, no?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0003",
+    "en": "  So you understand how much power is{SAUT}flowing through my superior body?[FFFD][02FF][F500]Hmm... Well, well. Sounds like we{SAUT}should spar.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0004",
+    "en": " Are you using those barbaric negotiation{SAUT}tactics in hopes that I'll listen?[FFFD][03FF][F500]  If you can cross even me, you are really{SAUT}rather hopeless!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0005",
+    "en": "  The changing seasons always bring these{SAUT}types around. It's so troubling...[FFFD][04FF][F500]   It would be easiest were I to just{SAUT}crush you... But I will stay my hand a{SAUT}bit longer...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0006",
+    "en": "If you kill a demon who puts up no{SAUT}resistance, your reputation will suffer.[FFFD][05FF][F500]  It seems logical, but I'm rather{SAUT}suspicious as to whether or not you{SAUT}comprehend its meaning.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0007",
+    "en": "   So, what merits are there to listening{SAUT}to you speak?[FFFD][06FF][F500] Such senseless chit-chat... I would{SAUT}rather you refrained from mocking me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0008",
+    "en": "  Another lie... I can already imagine{SAUT}your undignified lifestyle.[FFFD][07FF][F500] I will not become anyone's slave...{SAUT}I am my own self...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0009",
+    "en": "How many of my compatriots have lost{SAUT}their lives, taken in by those clever{SAUT}words? I am not a fool...[FFFD][08FF][F500] That unsophisticated song is nothing{SAUT}short of disturbing... Stop at once!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0010",
+    "en": "  You thought to gain my interest with{SAUT}such an amateur voice!? How absurd!{SAUT}I recommend voice lessons![FFFD][09FF][F500]  Your poverty... It is too horrible...{SAUT}I can scarcely believe it...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0011",
+    "en": " Is your strategy to destroy my ears...?{SAUT}Ugh... How cowardly...[FFFD][0AFF][F500]   Hmmm... Hmmmmmm... Yes, I like it!{SAUT}Keep it up!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0012",
+    "en": " What a superb song! You must be loved{SAUT}by the muses![FFFD][0BFF][F500]  It seems logical, but I'm rather{SAUT}suspicious as to whether or not you{SAUT}comprehend its meaning.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0013",
+    "en": "   So, what merits are there to listening{SAUT}to you speak?[FFFD][0CFF][F500] Such senseless chit-chat... I would{SAUT}rather you refrained from mocking me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0014",
+    "en": "  Another lie... I can already imagine{SAUT}your undignified lifestyle.[FFFD][0DFF][F500] Haha, those eyes of yours... It's all{SAUT}just a pretext to talk with me, no?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0015",
+    "en": "  So you understand how much power is{SAUT}flowing through my superior body?[FFFD][0EFF][F500]I am not one to be fooled by the shallow{SAUT}wit of humans! I would prefer that you{SAUT}not underestimate me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0016",
+    "en": "  It seems I expected too much of you...{SAUT}I did not assume you were so wretched![FFFD][0FFF][F500]What are you planning...? Surely you{SAUT}wouldn't do something like that without{SAUT}thinking it through...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0017",
+    "en": "I've heard you are one who is feared{SAUT}and respected by other demons...[FFFD][10FF][F500]Hahahaha, unfortunately, the calvary{SAUT}isn't coming.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0018",
+    "en": " You have no need to fear. I just wanted{SAUT}to converse with you...{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SINSI.BIN:text:0019",
+    "en": "{PAGE}See how kind I am? Although, this always{SAUT}leads to trouble... I end up gaining an{SAUT}even larger human fanbase...[FFFD][11FF][F500]   It seems logical, but I'm rather{SAUT}suspicious as to whether or not you{SAUT}comprehend its meaning.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0020",
+    "en": "   So, what merits are there to listening{SAUT}to you speak?[FFFD][12FF][F500] Such senseless chit-chat... I would{SAUT}rather you refrained from mocking me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0021",
+    "en": "  Another lie... I can already imagine{SAUT}your undignified lifestyle.[FFFD][13FF][F500] Haha, those eyes of yours... It's all{SAUT}just a pretext to talk with me, no?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0022",
+    "en": "  So you understand how much power is{SAUT}flowing through my superior body?[FFFD][14FF][F500]Excuse me! There is no need for this{SAUT}baseless fear! I am quite tolerant.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0023",
+    "en": "   You have no need to fear me. I only{SAUT}punish those who forget their place...[FFFD][15FF][F500]   I am not one to be fooled by the shallow{SAUT}wit of humans! I would prefer that you{SAUT}not underestimate me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0024",
+    "en": "  It seems I expected too much of you...{SAUT}I did not assume you were so wretched![FFFD][16FF][F500]Hahahaha, unfortunately, the calvary{SAUT}isn't coming.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0026",
+    "en": "{PAGE}See how kind I am? Although, this always{SAUT}leads to trouble... I end up gaining an{SAUT}even larger human fanbase...[FFFD][17FF][F500]   I cannot believe you, yet... nor can I{SAUT}bring myself to hate you. A mystery...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0027",
+    "en": "  Perhaps this will open a door to a new{SAUT}world...[FFFD][18FF][F500]  No matter how I look at it, you are{SAUT}still a man!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0028",
+    "en": "   I have no interest in this! I prefer{SAUT}an elegant, fair maiden![FFFD][19FF][F500]I should have worn my silk pants...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0029",
+    "en": "I... I am a male. Please, do not make{SAUT}such jokes...[FFFD][1AFF][F500]  This is quite delightful! It seems my{SAUT}charm is not bound by gender.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0030",
+    "en": "I am pleased, but this is unfamiliar{SAUT}ground for me... What am I supposed to{SAUT}do?[FFFD][1BFF][F500]  That's a childish idea. But I understand{SAUT}the need for attention.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0031",
+    "en": "   You! Are you already associated with a{SAUT}talent agency? You truly have an{SAUT}excellent sense of humor!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0032",
+    "en": "  ...What rubbish!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0033",
+    "en": "   I struggle to understand... Can you{SAUT}explain the point of your statement in{SAUT}an essay of 400 words or less?[FFFD][1CFF][F500]Hmmm? I have goosebumps...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0034",
+    "en": " Perhaps that would serve you better as...{SAUT}something else... Yes, quite right!{SAUT}It doesn't work as a joke...[FFFD][1DFF][F500]   In my humble opinion, your face is many{SAUT}times more funny than that joke!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0035",
+    "en": "   You have an excellent sense of humor!{SAUT}Perhaps a singing or TV career is in{SAUT}your near future![FFFD][1EFF][F500] Humans can be quite amusing. I envy you{SAUT}for being able to talk like that.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0036",
+    "en": "  Are those the rumors that circulate{SAUT}among the humans?[FFFD][1FFF][F500]How vulgar! Don't you have anything{SAUT}better to do with your time!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0037",
+    "en": "  What a boring subject! It would be more{SAUT}interesting if my rumors spread![FFFD][20FF][F500] Conversations like this are good for me{SAUT}every so often. I'm always so tense...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0038",
+    "en": " If that is what this is about, it's{SAUT}quite cute. Take me for example. The{SAUT}secrets I know are universe-bending.[FFFD][21FF][F500]That's a childish idea. But I understand{SAUT}the need for attention.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0039",
+    "en": "   You may have a point, but allow me to{SAUT}ask... What was it?[FFFD][22FF][F500]How unsightly...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0040",
+    "en": "  Gentle as I am, even I am moved to anger{SAUT}sometimes![FFFD][23FF][F500]  Did I hurt your feelings? I'm sorry, but{SAUT}your logic is rather flawed. That's not{SAUT}good...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0041",
+    "en": "   Calm down, young man... You are taking{SAUT}this too far...[FFFD][24FF][F500]   You've come all this way to do business?{SAUT}You are a hard worker.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0042",
+    "en": "If you were willing to give me{SAUT}something, I would not refuse it!{SAUT}Is there anything you've forgotten?[FFFD][25FF][F500] Negotiating with demons for your own{SAUT}benefit!? You may as well be a merchant{SAUT}of death! How horrible!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0043",
+    "en": "   Do you think the entire world can be{SAUT}moved with dirty money and power?[FFFD][26FF][F500]   Now I have a souvenir to bring home.{SAUT}Thank you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0044",
+    "en": "I receive many gifts from many women,{SAUT}but this is the first time I've received{SAUT}one from a man.[FFFD][27FF][F500]   It seems logical, but I'm rather{SAUT}suspicious as to whether or not you{SAUT}comprehend its meaning.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0045",
+    "en": "   So, what merits are there to listening{SAUT}to you speak?[FFFD][28FF][F500] Such senseless chit-chat... I would{SAUT}rather you refrained from mocking me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0046",
+    "en": "  Another lie... I can already imagine{SAUT}your undignified lifestyle.[FFFD][29FF][F500] Haha, those eyes of yours... It's all{SAUT}just a pretext to talk with me, no?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0047",
+    "en": "  So you understand how much power is{SAUT}flowing through my superior body?[FFFD][2AFF][F500]Hmm... Well, well. Sounds like we{SAUT}should spar.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0048",
+    "en": " Are you using those barbaric negotiation{SAUT}tactics in hopes that I'll listen?[FFFD][2BFF][F500]  If you can cross even me, you are really{SAUT}rather hopeless!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0049",
+    "en": "  The changing seasons always bring these{SAUT}types around. It's so troubling...[FFFD][2CFF][F500]   It would be easiest were I to just{SAUT}crush you... But I will stay my hand a{SAUT}bit longer...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0050",
+    "en": "If you kill a demon who puts up no{SAUT}resistance, your reputation will suffer.[FFFD][2DFF][F500]  I would not be a gentleman if I raised{SAUT}my eyebrows at everything a child says.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0051",
+    "en": " If you cannot provide a satisfactory{SAUT}greeting, you'll have trouble later in{SAUT}life.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SINSI.BIN:text:0052",
+    "en": "{PAGE}I happen to be a master of etiquette.{SAUT}Would you like some lessons?[FFFD][2EFF][F500]I'd rather not involve myself with a{SAUT}twisted human like you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0053",
+    "en": "   Hmph, a gentleman only by appearance!{SAUT}You humans will be the death of the{SAUT}term![FFFD][2FFF][F500]  It is somewhat embarrassing to receive{SAUT}so much praise...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0054",
+    "en": "   You know a lot for a human! You are{SAUT}truly intelligent.[FFFD][30FF][F500]   How unfortunate... Were you a beautiful{SAUT}woman, I would ask you for a dance,{SAUT}but... ahh, how unfortunate.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0055",
+    "en": "   You are quite skilled! Is that one of{SAUT}the dances young people enjoy nowadays?[FFFD][31FF][F500]Why don't you stop worrying about how{SAUT}you look and focus on the basics!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0056",
+    "en": "It's time to stop your foolishness!{SAUT}You'll hurt yourself spasming like that![FFFD][32FF][F500] Haha! Brings back memories of the last{SAUT}ball I attended!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0057",
+    "en": "Excellent poise! Shall we dance the{SAUT}night away?[FFFD][33FF][F500]  Hmm... Well, well. Sounds like we{SAUT}should spar.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0058",
+    "en": " Are you using those barbaric negotiation{SAUT}tactics in hopes that I'll listen?[FFFD][34FF][F500]  If you can cross even me, you are really{SAUT}rather hopeless!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0059",
+    "en": "  The changing seasons always bring these{SAUT}types around. It's so troubling...[FFFD][35FF][F500]   It would be easiest were I to just{SAUT}crush you... But I will stay my hand a{SAUT}bit longer...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0060",
+    "en": "If you kill a demon who puts up no{SAUT}resistance, your reputation will suffer.[FFFD][36FF][F500]  I know my face is beautiful, but what{SAUT}would you do if you bored a hole right{SAUT}through it? You're a troubling one...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0061",
+    "en": " How troubling... I welcome the{SAUT}passionate gaze of a woman, but this...[FFFD][37FF][F500]   It is rude to stare at a stranger like{SAUT}that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0062",
+    "en": "   You look at me as though I've stolen{SAUT}your love or something of the sort![FFFD][38FF][F500] If you are entranced by my face, then{SAUT}gaze upon it as you will!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0063",
+    "en": "I did not imagine you preferred men!{SAUT}I figured there was a girl somewhere{SAUT}in your heart...[FFFD][39FF][F500]   It seems logical, but I'm rather{SAUT}suspicious as to whether or not you{SAUT}comprehend its meaning.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0064",
+    "en": "   So, what merits are there to listening{SAUT}to you speak?[FFFD][3AFF][F500] Such senseless chit-chat... I would{SAUT}rather you refrained from mocking me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0065",
+    "en": "  Another lie... I can already imagine{SAUT}your undignified lifestyle.[FFFD][3BFF][F500] Haha, those eyes of yours... It's all{SAUT}just a pretext to talk with me, no?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0066",
+    "en": "  So you understand how much power is{SAUT}flowing through my superior body?[FFFD][3CFF][F500]We seek identity through the words of{SAUT}ghosts... What they said carries more{SAUT}weight than any modern tongue.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0067",
+    "en": " How boring! I'll show you something{SAUT}much scarier than that...[FFFD][3DFF][F500]Uwah! ...I-It's nothing...I just{SAUT}thought something touched me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0068",
+    "en": "   I-I don't have time to listen to such{SAUT}frivilous stories...[FFFD][3EFF][F500]   Hmm... You enjoy stories of that sort?{SAUT}I find that becoming of a girl.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0069",
+    "en": " You are easily scared, and yet you still{SAUT}enjoy stories like that!?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0070",
+    "en": "{PAGE}You've piqued my curiosity. Tell me why{SAUT}this is.[FFFD][3FFF][F500] Hm, quite beautiful. Surely, your voice{SAUT}matches your face.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0071",
+    "en": " I see... Now is the voice good, or{SAUT}merely the song?[FFFD][40FF][F500]  That unsophisticated song is nothing{SAUT}short of disturbing... Stop at once!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0072",
+    "en": "  You thought to gain my interest with{SAUT}such an amateur voice!? How absurd!{SAUT}I recommend voice lessons![FFFD][41FF][F500]  Hmmm... Hmmmmmm... Yes, I like it!{SAUT}Keep it up!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0073",
+    "en": " What a superb song! You must be loved{SAUT}by the muses![FFFD][42FF][F500]  Do you perhaps... have children already?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0074",
+    "en": "{PAGE}Ah, pardon me. I should not be so{SAUT}forward with a lady.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0075",
+    "en": "   Hahaha! Despite my boyish face, I am{SAUT}anything but a child.[FFFD][43FF][F500]   I will make you regret taking that tone{SAUT}with me... for the rest of eternity{SAUT}from hell!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0076",
+    "en": " You are surprisingly rude! Were you{SAUT}raised correctly?[FFFD][44FF][F500]Hm, I can sense your kindness. You will{SAUT}make a good mother.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0077",
+    "en": "Hmm... That's nice. I feel relaxed...[FFFD][45FF][F500]It seems logical, but I'm rather{SAUT}suspicious as to whether or not you{SAUT}comprehend its meaning.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0078",
+    "en": "   So, what merits are there to listening{SAUT}to you speak?[FFFD][46FF][F500] Such senseless chit-chat... I would{SAUT}rather you refrained from mocking me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0079",
+    "en": "  Another lie... I can already imagine{SAUT}your undignified lifestyle.[FFFD][47FF][F500] Haha, those eyes of yours... It's all{SAUT}just a pretext to talk with me, no?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0080",
+    "en": "  So you understand how much power is{SAUT}flowing through my superior body?[FFFD][48FF][F500]I would not be a gentleman if I raised{SAUT}my eyebrows at everything a child says.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0082",
+    "en": "{PAGE}I happen to be a master of etiquette.{SAUT}Would you like some lessons?[FFFD][49FF][F500]I will make you regret taking that tone{SAUT}with me... for the rest of eternity{SAUT}from hell!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0083",
+    "en": " You are surprisingly rude! Were you{SAUT}raised correctly?[FFFD][4AFF][F500]Ahh... Ahh... I can't stand it any{SAUT}longer!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0084",
+    "en": " Y-You piece of--! Oh my, excuse me...[FFFD][4BFF][F500]I cannot believe you, yet... nor can I{SAUT}bring myself to hate you. A mystery...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0085",
+    "en": "  Perhaps this will open a door to a new{SAUT}world...[FFFD][4CFF][F500]  If it's your plan to seduce me, you may{SAUT}want to try again in ten years!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0086",
+    "en": "You willingly step forward to be{SAUT}my prey? I am not interested in fools![FFFD][4DFF][F500]  If you insist, I would be happy to!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0087",
+    "en": "I must say, women these days have no{SAUT}sense of shame... Although... it works{SAUT}to my advantage![FFFD][4EFF][F500] That brings a tear to my eye...{SAUT}Your hard work will be rewarded one day.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0088",
+    "en": "   Your tear-stained face is cute, but I'm{SAUT}sure your smile is many times more{SAUT}beautiful... Wipe your tears, child.[FFFD][4FFF][F500]  What proof do I have that those tears{SAUT}are real!? Your plan is to trick me,{SAUT}isn't it!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0089",
+    "en": "  Women have cried a thousand tears, and{SAUT}I have been taken by each one of them!{SAUT}Am I too good at heart...?[FFFD][50FF][F500] M-Miss...? Is something the matter...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0090",
+    "en": " Wh-What is wrong? I don't think this is{SAUT}a very fitting place to cry...[FFFD][51FF][F500]   Hmm... Well, well. Sounds like we{SAUT}should spar.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0091",
+    "en": " Are you using those barbaric negotiation{SAUT}tactics in hopes that I'll listen?[FFFD][52FF][F500]  If you can cross even me, you are really{SAUT}rather hopeless!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0092",
+    "en": "  The changing seasons always bring these{SAUT}types around. It's so troubling...[FFFD][53FF][F500]   It would be easiest were I to just{SAUT}crush you... But I will stay my hand a{SAUT}bit longer...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0093",
+    "en": "If you kill a demon who puts up no{SAUT}resistance, your reputation will suffer.[FFFD][54FF][F500]  I will make you regret taking that tone{SAUT}with me... for the rest of eternity{SAUT}from hell!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0094",
+    "en": " You are surprisingly rude! Were you{SAUT}raised correctly?[FFFD][55FF][F500]This is so sudden... Odd, I don't{SAUT}recall doing anything wrong...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0095",
+    "en": "   If I've done you any wrong, I apologize{SAUT}for it... I beg your forgiveness...[FFFD][56FF][F500]  When I was a child, there was something{SAUT}I too, could not forgive...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0096",
+    "en": "{PAGE}But I have thrown that memory into{SAUT}oblivion, and it no longer upsets me.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SINSI.BIN:text:0097",
+    "en": "  Ahhh! I feel so humiliated... But...{SAUT}Please! Would you be so kind as to{SAUT}torment me more...!?[FFFD][57FF][F500] It seems logical, but I'm rather{SAUT}suspicious as to whether or not you{SAUT}comprehend its meaning.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0098",
+    "en": "   So, what merits are there to listening{SAUT}to you speak?[FFFD][58FF][F500] Such senseless chit-chat... I would{SAUT}rather you refrained from mocking me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0099",
+    "en": "  Another lie... I can already imagine{SAUT}your undignified lifestyle.[FFFD][59FF][F500] Haha, those eyes of yours... It's all{SAUT}just a pretext to talk with me, no?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0100",
+    "en": "  So you understand how much power is{SAUT}flowing through my superior body?[FFFD][5AFF][F500]I will make you regret taking that tone{SAUT}with me... for the rest of eternity{SAUT}from hell!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0101",
+    "en": " You are surprisingly rude! Were you{SAUT}raised correctly?[FFFD][5BFF][F500]This is so sudden... Odd, I don't{SAUT}recall doing anything wrong...(*RESPONSE*)",
+    "fr": ""
+  }
+]

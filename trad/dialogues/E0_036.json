@@ -11,7 +11,7 @@
     "locuteur": "Hariti",
     "en": "Maki...?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Maki...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:137:0002",
@@ -102,8 +102,8 @@
     "id": "E0.BIN:137:0014",
     "locuteur": "Mark",
     "en": "Isn't it?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mark",
+    "fr": "Pas vrai?{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -229,7 +229,7 @@
     "locuteur": "Setsuko Sonomura",
     "en": "What...?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "",
+    "fr": "Quoi...?{ATTENTE}",
     "_occurrences": 2
   },
   {

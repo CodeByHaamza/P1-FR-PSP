@@ -1,0 +1,505 @@
+[
+  {
+    "id": "KYOUKI.BIN:text:0000",
+    "en": "I don't know what nerds like you talk{SAUT}about, but it sounds kinda fun.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0001",
+    "en": "  You don't sound much like a high{SAUT}schooler when you talk... You lyin'{SAUT}about your age?[FFFD]É[F500] You punk! You pullin' one over on me!?{SAUT}Are ya!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0002",
+    "en": "You seriously tryin' to talk me into{SAUT}this? Lying only causes trouble, man!{SAUT}Wanna know why?{ATTENTE}",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KYOUKI.BIN:text:0003",
+    "en": "{PAGE}Because liars get their tongues ripped{SAUT}out by the law![FFFD]α[F500]   Hyahahahaha! You need me? ME, you say!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0004",
+    "en": "You think you could actually control me?{SAUT}ME, [FFF3]?[FFFD][02FF][F500]  Sounds like you're pretty sure of{SAUT}yourself! Better not let it go to your{SAUT}head, or you'll regret it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0005",
+    "en": "You think you could kill me!? Gahaha,{SAUT}you couldn't handle it.[FFFD][03FF][F500]Hehehe! Time to see if the blood of{SAUT}stupid humans runs as red as they say!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0006",
+    "en": " What's that? You want me to kill you{SAUT}first? Ha, my pleasure![FFFD][04FF][F500] I didn't do anything... C'mon, you're{SAUT}fingerin' the wrong guy...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0007",
+    "en": "   I'm beggin' ya, lemme go. I've got a{SAUT}wife and kid back home, and they're{SAUT}starvin'.[FFFD][05FF][F500]   I don't know what nerds like you talk{SAUT}about, but it sounds kinda fun.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0008",
+    "en": "  Bein' invited's fine and all, but are{SAUT}you really a high school kid? You better{SAUT}not be lyin' 'bout your age...[FFFD][06FF][F500]You punk! You pullin' one over on me!?{SAUT}Are ya!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0010",
+    "en": "{PAGE}Because liars get their tongues ripped{SAUT}out by the law![FFFD][07FF][F500]   Where you plannin' on takin' me...?{SAUT}Maybe it's best to steer clear of you...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0011",
+    "en": "   Oh, er, damn! I got errands to run. Man,{SAUT}I almost forgot...[FFFD][08FF][F500]  That song is whack! Unless you're TRYING{SAUT}to sound like a whale!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0012",
+    "en": "Damn, no need to go showin' off!{SAUT}I'm SO sorry I'm tone-deaf, alright!?[FFFD][09FF][F500]   Y-You're good...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0013",
+    "en": "   Damn, are you part banshee!? S-Stop{SAUT}it, please![FFFD][0AFF][F500]  Ah, my heart feels cleansed... Maybe{SAUT}it's time to re-evalute my life...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0014",
+    "en": "   Bravo! Oh, good for you![FFFD][0BFF][F500] I don't know what chicks like you{SAUT}talk about, but it sounds kinda fun.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0015",
+    "en": " You don't sound much like a high{SAUT}schooler when you talk... You lyin'{SAUT}about your age?[FFFD][0CFF][F500] You tramp! You pullin' one over on me!?{SAUT}Are ya!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0016",
+    "en": "   You serious, girl? If it's a lie, you're{SAUT}in deep shit!{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KYOUKI.BIN:text:0017",
+    "en": "{PAGE}Because liars get their tongues ripped{SAUT}out by the law![FFFD][0DFF][F500]   Hyahahahaha! You need me? ME, you say!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0018",
+    "en": "You think you could actually control me?{SAUT}ME, [FFF3], human?[FFFD][0EFF][F500]   I'm the strongest, most popular demon{SAUT}ever to cruise the streets! Don't front!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0019",
+    "en": " Damn girl, what's with that? You ain't{SAUT}got no pride left?[FFFD][0FFF][F500]You gonna shank me when I turn my back?{SAUT}That's scary! I'm gettin' the chills!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0020",
+    "en": "  Don't even bother. Nobody likes me{SAUT}anyway. I bet YOU'RE more popular...[FFFD][10FF][F500]  Well, I'll be ruling this world pretty{SAUT}soon... You can be my queen! Hahaha!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0021",
+    "en": "It's just what you'd think: Demons gotta{SAUT}roll strong!{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KYOUKI.BIN:text:0022",
+    "en": "{PAGE}In other words, if you're a pansy, you{SAUT}ain't a demon at all![FFFD][11FF][F500]  I don't know what chicks like you{SAUT}talk about, but it sounds kinda fun.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0023",
+    "en": " You don't sound much like a high{SAUT}schooler when you talk... You lyin'{SAUT}about your age?[FFFD][12FF][F500] You tramp! You pullin' one over on me!?{SAUT}Are ya!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0025",
+    "en": "{PAGE}Because liars get their tongues ripped{SAUT}out by the law![FFFD][13FF][F500]   I don't even know what you're saying,{SAUT}but I'm pretty sweet huh!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0026",
+    "en": "   You tryin' to sign me on to your{SAUT}cause or somethin'? Whatever, you{SAUT}just want my power, yeah?[FFFD][14FF][F500] Don't be scared! I'm nice to the ladies!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0027",
+    "en": "   Fighting a chick is lame. Bring out{SAUT}your boyfriend, I'll take him on![FFFD][15FF][F500]I'm the strongest, most popular demon{SAUT}ever to cruise the streets! Don't front!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0028",
+    "en": " Damn girl, what's with that? You ain't{SAUT}got no pride left?[FFFD][16FF][F500]Well, I'll be ruling this world pretty{SAUT}soon... You can be my queen! Hahaha!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0030",
+    "en": "{PAGE}In other words, if you're a pansy, you{SAUT}ain't a demon at all![FFFD][17FF][F500]  Hyahaha! You hittin' on me? You've got{SAUT}guts!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0031",
+    "en": "   What!? What the hell is up with this?{SAUT}I feel all weird...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0032",
+    "en": "  Screw men! Er... You know!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0033",
+    "en": " Shut the hell up! One more word outta{SAUT}your mouth, and you're dead![FFFD][18FF][F500]   Hey hey hey! That ain't funny...{SAUT}Oh damn, those eyes mean business...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0034",
+    "en": "  I-I'm a guy...! You want some proof!?{SAUT}Er... nevermind![FFFD][19FF][F500]   You... You're pretty cute. Alright,{SAUT}call me later.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0035",
+    "en": " Sure thing...[FFFD][1AFF][F500]A joke for the new age! You're a{SAUT}funny guy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0036",
+    "en": "Ah, an upcoming comedian, eh? So how's{SAUT}life? Are ya eating well?[FFFD][1BFF][F500] ...What the hell!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0037",
+    "en": " You think you're funny? Well you're not![FFFD][1CFF][F500] Wowww... Just wow...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0038",
+    "en": "   You're tryin' to make me laugh so I put{SAUT}down my guard! That's low, man![FFFD][1DFF][F500]  Hahahaha! You know what's even funnier{SAUT}than that? ...Your FACE!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0039",
+    "en": "I consider myself an upbeat guy, so I've{SAUT}always wanted upbeat friends like you![FFFD][1EFF][F500]  Well, that's life. I may look pretty{SAUT}chill, but I've had it rough...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0040",
+    "en": "   Hey, do humans really think they'd be{SAUT}better off dead?[FFFD][1FFF][F500]   That's stupid! You're dumber than a bag{SAUT}of hammers!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0041",
+    "en": "If you've got time to talk about that,{SAUT}read a book! You're way too low level![FFFD][20FF][F500]Hyahaha! That's funny! But I prefer{SAUT}talking like adults.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0042",
+    "en": "   Never imagined I'd be talking to humans!{SAUT}Good thing I didn't have money on it![FFFD][21FF][F500]   You a performer of some kind? Well,{SAUT}you're funny anyway!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0043",
+    "en": "   That was so... What WAS that?[FFFD][22FF][F500]Why you little...! Don't screw with me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0044",
+    "en": "Hey! Were you absent the day they{SAUT}handed out brains!?[FFFD][23FF][F500]Yikes... What the hell was that...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0045",
+    "en": "H-Hey, hold up... Did I do something to{SAUT}you? I didn't, did I?[FFFD][24FF][F500]This ain't Akiba station! I take my cow{SAUT}there a lot, but it's kinda far, y'know?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0046",
+    "en": "   Sweet! You're giving that to me for{SAUT}free, yeah?[FFFD][25FF][F500]  You've been foolin' demons like that,{SAUT}have ya!? Well this is MY territory!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0047",
+    "en": " That ain't nearly blingin' enough for{SAUT}me! You got better than that, right?[FFFD][26FF][F500]   You're not gonna say you're giving that{SAUT}to me, are you?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0048",
+    "en": "You're a good guy. You should join my{SAUT}posse![FFFD][27FF][F500] I don't know what nerds like you talk{SAUT}about, but it sounds kinda fun.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0049",
+    "en": "  You don't sound much like a high{SAUT}schooler when you talk... You lyin'{SAUT}about your age?[FFFD][28FF][F500] You punk! You pullin' one over on me!?{SAUT}Are ya!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0050",
+    "en": "Argh! This is way over my head! Just{SAUT}tell me what you mean![FFFD][29FF][F500]  Hyahahahaha! You need me? ME, you say!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0051",
+    "en": "You think you could actually control me?{SAUT}ME, [FFF3]?[FFFD][2AFF][F500]  Sounds like you're pretty sure of{SAUT}yourself! Better not let it go to your{SAUT}head, or you'll regret it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0052",
+    "en": "You think you could kill me!? Gahaha,{SAUT}you couldn't handle it.[FFFD][2BFF][F500]Hehehe! Time to see if the blood of{SAUT}stupid humans runs as red as they say!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0053",
+    "en": " What's that? You want me to kill you{SAUT}first? Ha, my pleasure![FFFD][2CFF][F500] I didn't do anything... C'mon, you're{SAUT}fingerin' the wrong guy...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0054",
+    "en": "   I'm beggin' ya, lemme go. I've got a{SAUT}wife and kid back home, and they're{SAUT}starvin'.[FFFD][2DFF][F500]   Hmm... I'd heard you kids were getting{SAUT}more conceited, but it's true.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0055",
+    "en": "  I'll teach ya some manners... Hahaha...{SAUT}Gimme your hand![FFFD][2EFF][F500] You're a dude! Quit yappin' on and on{SAUT}like a chick!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0056",
+    "en": "You makin' fun of me!? I'll show you{SAUT}what the difference is between us![FFFD][2FFF][F500]  Hey man, flattery won't get you anywhere{SAUT}in life.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0057",
+    "en": "  You're one of those intellectuals,{SAUT}aren't you...?[FFFD][30FF][F500]Hey hey, you're good! That was pretty{SAUT}cool!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0058",
+    "en": "You're good. Maybe I should learn to{SAUT}do that...[FFFD][31FF][F500]  You've got no rhythm! You suck!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0059",
+    "en": "What is THAT? Did your granddaddy teach{SAUT}you to dance!?[FFFD][32FF][F500]   Ye-yah! My blood's burning! I'm gonna{SAUT}see some blood tonight! Yeahhhh!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0060",
+    "en": " I-I can dance too, y'know! Check this{SAUT}out! JUMP, JUMP! ...Haha, I kid![FFFD][33FF][F500]   Sounds like you're pretty sure of{SAUT}yourself! Better not let it go to your{SAUT}head, or you'll regret it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0061",
+    "en": "You think you could kill me!? Gahaha,{SAUT}you couldn't handle it.[FFFD][34FF][F500]Hehehe! Time to see if the blood of{SAUT}stupid humans runs as red as they say!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0062",
+    "en": " What's that? You want me to kill you{SAUT}first? Ha, my pleasure![FFFD][35FF][F500] I didn't do anything... C'mon, you're{SAUT}fingerin' the wrong guy...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0063",
+    "en": "   I'm beggin' ya, lemme go. I've got a{SAUT}wife and kid back home, and they're{SAUT}starvin'.[FFFD][36FF][F500]   Oh, this scar? I got this from a fight{SAUT}a few years back. Scars are a man's medal!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0064",
+    "en": "  Uh... Is there... something behind me?[FFFD][37FF][F500]   What, man!? You wanna get started!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0065",
+    "en": "What's with those eyes!? You wanna take{SAUT}this outside!?[FFFD][38FF][F500]   I know I'm cool, but your stare is{SAUT}burnin' me up! I'm melting, man!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0066",
+    "en": "Your radar needs a tune-up. I don't{SAUT}mess with men. Got it!?[FFFD][39FF][F500]  I don't know what nerds like you talk{SAUT}about, but it sounds kinda fun.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0067",
+    "en": "  You don't sound much like a high{SAUT}schooler when you talk... You lyin'{SAUT}about your age?[FFFD][3AFF][F500] You punk! You pullin' one over on me!?{SAUT}Are ya!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0068",
+    "en": "That sounds like a false statement!{SAUT}Lying only causes trouble, man!{SAUT}Wanna know why?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0069",
+    "en": "{PAGE}Because liars get their tongues ripped{SAUT}out by the law![FFFD][3BFF][F500]  I have no clue what you're saying, but{SAUT}I'm havin' fun!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0070",
+    "en": " You on a mission or something?{SAUT}Whatever, you just want my power anyway.[FFFD][3CFF][F500]  You call that scary!? Humans are such{SAUT}wusses! You know that, girl!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0071",
+    "en": "Screw that! Let's make it scarier! You{SAUT}play the chick who gets killed by the{SAUT}demons![FFFD][3DFF][F500] Umm... Wh-Where's the restroom? H-Hurry,{SAUT}or I won't make it in time...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0072",
+    "en": " H-Heh... That's all made up, right?{SAUT}H-How stupid...[FFFD][3EFF][F500]  Gore, screams, fear! I like it! Yeahhh!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0073",
+    "en": "That's interesting! Do humans fear me{SAUT}like that too?[FFFD][3FFF][F500] Damnnnn, nice voice!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0074",
+    "en": "   You wanna do a duet? I'd be cool with{SAUT}that![FFFD][40FF][F500]  That song is whack! Unless you're TRYING{SAUT}to sound like a whale!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0075",
+    "en": "Damn, no need to go showin' off!{SAUT}I'm SO sorry I'm tone-deaf, alright!?[FFFD][41FF][F500]   Ah, my heart feels cleansed... Maybe{SAUT}it's time to re-evalute my life...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0076",
+    "en": "   Bravo! Oh, good for you![FFFD][42FF][F500] Whoa... You totally blew my mind. Was{SAUT}that even a negotiation technique?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0077",
+    "en": "   ...Do I look like a minor?[FFFD][43FF][F500]   What was that!? You better shut your{SAUT}mouth!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0078",
+    "en": "I'm about to beat some sense into you!{SAUT}This may hurt, but you'll live... Maybe![FFFD][44FF][F500]  Hey, hey... Man, this is a crazy{SAUT}predicament...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0079",
+    "en": "Please, just for a little while... Hold{SAUT}me against your chest![FFFD][45FF][F500]   I don't know what chicks like you talk{SAUT}about, but it sounds kinda fun.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0080",
+    "en": " Bein' invited's fine and all, but are{SAUT}you really a high school kid? You better{SAUT}not be lyin' 'bout your age...[FFFD][46FF][F500]You punk! You pullin' one over on me!?{SAUT}Are ya!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0082",
+    "en": "{PAGE}Because liars get their tongues ripped{SAUT}out by the law![FFFD][47FF][F500]   Hyahahahaha! You need me? ME, you say!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0083",
+    "en": "You think you could actually control me?{SAUT}ME, [FFF3]?[FFFD][48FF][F500]  Hmm... I'd heard you kids were getting{SAUT}more conceited, but it's true.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0084",
+    "en": "  I'll teach ya some manners... Hahaha...{SAUT}Gimme your hand![FFFD][49FF][F500] What was that!? You better shut your{SAUT}mouth!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0085",
+    "en": "I'm about to beat some sense into you!{SAUT}This may hurt, but you'll live... Maybe![FFFD][4AFF][F500]  Th-That's kinda cruel... What'd I ever{SAUT}do to you?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0086",
+    "en": "  Look... If you weren't so young,{SAUT}talking big like that wouldn't slide...[FFFD][4BFF][F500] Hyahahaha! You tryin' to tempt me!?{SAUT}You got guts!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0087",
+    "en": "  What!? What the hell is up with this?{SAUT}I feel all weird...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0088",
+    "en": "  I hate live women! I'm serious here...{SAUT}That sucked!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0089",
+    "en": "Hehehehe... Then c'mere, girl![FFFD][4CFF][F500]   ＊whistle＊ Really!? Damn, I'm so popular!{SAUT}It ain't easy bein' a player, y'know!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0090",
+    "en": " My baby doll! Jump into my arms![FFFD][4DFF][F500] To tell ya the truth... I've got kind{SAUT}of a soft spot for that stuff...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0091",
+    "en": " Okay, okay, I won't hurt you. I promise.{SAUT}Just stop crying...[FFFD][4EFF][F500] Oh dammit... I made her cry! God damn it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0092",
+    "en": "  You heartless witch! Using my soft{SAUT}spot for... Aghhh, that's so low![FFFD][4FFF][F500] It wasn't me! I didn't do anything!{SAUT}She just started crying on her own!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0093",
+    "en": "Damn... I don't know what to do...{SAUT}Never thought I'd make a girl cry...[FFFD][50FF][F500]  Sounds like you're pretty sure of{SAUT}yourself! Better not let it go to your{SAUT}head, or you'll regret it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0094",
+    "en": "You think you could get me!? Gahaha,{SAUT}you couldn't handle it.[FFFD][51FF][F500] Hehehe! Time to see if the blood of{SAUT}stupid humans runs as red as they say!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0095",
+    "en": " What's that? You want me to kill you{SAUT}first? Ha, my pleasure![FFFD][52FF][F500] I didn't do anything... C'mon, you're{SAUT}fingerin' the wrong guy...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0096",
+    "en": "   I'm beggin' ya, lemme go. I've got a{SAUT}wife and kid back home, and they're{SAUT}starvin'.[FFFD][53FF][F500]   What was that!? You better shut your{SAUT}mouth!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0097",
+    "en": "I'm about to beat some sense into you!{SAUT}This may hurt, but you'll live... Maybe![FFFD][54FF][F500]  ...I-I'm sorry...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0098",
+    "en": "  You're strong for a chick... But uh,{SAUT}Missy? Lay off picking on the weak, eh?[FFFD][55FF][F500] You're nice and healthy. I've lost my{SAUT}energy... It sucks... Heh, except that{SAUT}I'm totally lying.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0099",
+    "en": "Th-This feeling...I can't contain it!{SAUT}Do some more![FFFD][56FF][F500]  I don't know what nerds like you talk{SAUT}about, but it sounds kinda fun.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0100",
+    "en": "  You don't sound much like a high{SAUT}schooler when you talk... You lyin'{SAUT}about your age?[FFFD][57FF][F500] You punk! You pullin' one over on me!?{SAUT}Are ya!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0101",
+    "en": "You tryin' to preach to me, lady!?{SAUT}Don't you dare go big sister on me![FFFD][58FF][F500]   Hyahahahaha! You need me? ME, you say!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0102",
+    "en": "You think you're the pope or somethin'?{SAUT}Whatever, you just want my power, right?[FFFD][59FF][F500] What was that!? You better shut your{SAUT}mouth!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0103",
+    "en": "I'm about to beat some sense into you!{SAUT}This may hurt, but you'll live... Maybe![FFFD][5AFF][F500]  ...I-I'm sorry...(*RESPONSE*)",
+    "fr": ""
+  }
+]

@@ -172,14 +172,14 @@
     "locuteur": "Brown",
     "en": "What!?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Quoi!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:144:0025",
     "locuteur": "Ayase",
     "en": "N-No way!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "N-Pas vrai!{ATTENTE}"
   },
   {
     "id": "E0.BIN:144:0026",
@@ -270,7 +270,7 @@
     "locuteur": "Elly",
     "en": "Wait!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Stop!{ATTENTE}"
   },
   {
     "id": "E0.BIN:144:0039",

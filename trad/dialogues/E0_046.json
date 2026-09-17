@@ -3,36 +3,36 @@
     "id": "E0.BIN:202:0000",
     "locuteur": "Maki",
     "en": "Sorry to keep you all waiting!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Désolée de l'attente!{ATTENTE}"
   },
   {
     "id": "E0.BIN:202:0001",
     "locuteur": "Mark",
     "en": "'Bout time! I was getting tired of{SAUT}sitting around.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "'Enfin! Je commençais à en avoir{SAUT}marre d'attendre.{ATTENTE}"
   },
   {
     "id": "E0.BIN:202:0002",
     "locuteur": "Nanjo",
     "en": "It seems to have gone well, mm?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Ça s'est bien passé, mm?{ATTENTE}"
   },
   {
     "id": "E0.BIN:202:0003",
     "locuteur": "Nanjo",
     "en": "Now then, let's head to the school{SAUT}and meet this Pandora.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Bon, allons à l'école{SAUT}rencontrer cette Pandore.{ATTENTE}"
   },
   {
     "id": "E0.BIN:202:0004",
     "locuteur": "Maki",
     "en": "They seem to have been pretty bored{SAUT}while we were gone...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Ils ont eu l'air de s'ennuyer{SAUT}pendant notre absence...{ATTENTE}"
   },
   {
     "id": "E0.BIN:202:0005",
@@ -45,22 +45,22 @@
     "id": "E0.BIN:202:0006",
     "locuteur": "Nanjo",
     "en": "What's the matter? Did something happen{SAUT}inside?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Quoi? Il s'est passé quelque chose{SAUT}dedans?{ATTENTE}"
   },
   {
     "id": "E0.BIN:202:0007",
     "locuteur": "Reiji",
     "en": "Looks like you made it back in one{SAUT}piece. When this is all over...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "On dirait que tu t'en es sorti{SAUT}entier. Quand tout sera fini...{ATTENTE}"
   },
   {
     "id": "E0.BIN:202:0008",
     "locuteur": "Reiji",
     "en": "What would you say to some sparring{SAUT}to see who's stronger? You up for it?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Ça te dirait un combat{SAUT}pour voir qui est le plus fort? Partant?{ATTENTE}"
   },
   {
     "id": "E0.BIN:202:0009",
@@ -80,8 +80,8 @@
     "id": "E0.BIN:202:0011",
     "locuteur": "Brown",
     "en": "Tch... You're pretty tough.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Tch... T'es plutôt coriace.{ATTENTE}"
   },
   {
     "id": "E0.BIN:202:0012",
@@ -108,8 +108,8 @@
     "id": "E0.BIN:202:0015",
     "locuteur": "Mysterious butterfly",
     "en": "There isn't much time until this world{SAUT}vanishes completely. You must hurry.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Il reste peu de temps avant que ce monde{SAUT}disparaisse. Vous devez vous hâter.{ATTENTE}"
   },
   {
     "id": "E0.BIN:208:0000",
@@ -333,7 +333,7 @@
     "locuteur": "Maki",
     "en": "Erusaer Tsymmom!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Namam ed rosert!{ATTENTE}"
   },
   {
     "id": "E0.BIN:208:0032",
@@ -512,8 +512,8 @@
     "id": "E0.BIN:211:0012",
     "locuteur": "Igor",
     "en": "We in this room will lend you inhuman{SAUT}power... the power of demons...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Igor",
+    "fr": "Ici, nous te prêtons un pouvoir{SAUT}surhumain... Le pouvoir des démons...{ATTENTE}"
   },
   {
     "id": "E0.BIN:211:0048",

@@ -23,13 +23,20 @@ même chose.
 
 ---
 
-## Les trois dossiers
+## Les quatre dossiers
 
 | Dossier | Contenu | Bon pour |
 |---|---|---|
 | [`trad/dialogues/`](trad/dialogues/) | l'histoire, les personnages qui parlent | qui aime écrire du dialogue vivant |
-| [`trad/eboot/`](trad/eboot/) | menus, écrans, noms de lieux, tutoriels | **commencer** : lignes courtes, contexte évident |
-| [`trad/donjons/`](trad/donjons/) | messages de couloir, portes fermées | une soirée, c'est tout petit |
+| [`trad/negociations/`](trad/negociations/) | ce que les démons disent quand on leur parle en combat, un dossier par personnalité (`SLIME_`, `YAKUZA_`, `TENSI_`…) | qui aime les voix bien typées : chaque démon a son ton, du voyou au petit ange |
+| [`trad/eboot/`](trad/eboot/) | menus, écrans, noms de lieux, tutoriels | **terminé** — il reste à relire |
+| [`trad/donjons/`](trad/donjons/) | messages de couloir, portes fermées | **terminé** |
+
+Dans les négociations, les lignes `…:text:…` sont ce que dit le démon, les
+lignes `…:resp:…` les réponses courtes que le joueur peut choisir. Le code
+`(*RESPONSE*)` ferme chaque réplique ; garde-le comme les autres. Certaines
+lignes anglaises commencent par une, deux ou trois espaces : c'est de la
+technique, elle est recopiée automatiquement, tu n'as pas à t'en occuper.
 
 Les lignes de `trad/eboot/` portent un champ **`max`** en plus : la place que
 prend l'anglais dans l'exécutable du jeu. Vise-la quand tu peux, elle donne un

@@ -1,0 +1,503 @@
+[
+  {
+    "id": "KOROU.BIN:text:0000",
+    "en": "What are ya expectin' from an old man{SAUT}like me? You're an odd one.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0001",
+    "en": "  I'm glad ya think so, but I'm past my{SAUT}prime... I can't help you.[FFFD]É[F500] Argh, whaddaya want from an old man!?{SAUT}Look at a demon before ya open yer trap.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0002",
+    "en": " Hey! If yer tryin' to make friends with{SAUT}demons, ya better be upfront with 'em![FFFD]α[F500]   Ho ho! Ya want my card ya say? Hmmm?[FFFD][02FF][F500] Ho ho! No matter how old ya get, it's{SAUT}nice to be counted on!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0003",
+    "en": "   Heh... The closer ya come to yer death{SAUT}bed, the easier it gets to forgive.{SAUT}The mistakes of youth don't bother me.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0004",
+    "en": "  Ho ho! I'm like a stone wall. You{SAUT}couldn't break me if ya tried![FFFD][03FF][F500] Argh! It don't take much to rough up{SAUT}you high-spirited youths! Ya got no{SAUT}backbone![FFFD][04FF][F500]   I got my pride too! My back may be{SAUT}givin' out, but I accept your challenge!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0005",
+    "en": "I'm old... All I want is to live out{SAUT}the rest of my days like a hermit...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:text:0006",
+    "en": "  Y-You wouldn't... You wouldn't torment a{SAUT}defenseless old man, would ya?[FFFD][05FF][F500]  Ho ho! Never thought I'd be gettin'{SAUT}called out at this age!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0007",
+    "en": "You're sure into strange things... What{SAUT}good you think an old man like me can{SAUT}do for ya?[FFFD][06FF][F500] I just want to live in peace! Please,{SAUT}leave me be!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0008",
+    "en": " Argh! I may be old, but I'm still a{SAUT}[FFF0]! I'm free to pick my work![FFFD][07FF][F500] I know yer just tryin' to sweet talk{SAUT}yer way into my good favor...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0009",
+    "en": " You'd be takin' a loss if you hired an{SAUT}old man like me... You're up to no{SAUT}good...[FFFD][08FF][F500]Argh! This is terrible! There's a limit{SAUT}to bein' tone-deaf, boy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0010",
+    "en": "   I hate this song... It brings back bad{SAUT}memories...[FFFD][09FF][F500]   What is that voice...? Maybe that's{SAUT}why I've got this headache...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0011",
+    "en": "  What a terrible voice... How do ya{SAUT}stay sane listenin' to yourself talk?[FFFD][0AFF][F500] Ho, ho! That a song about havin' a{SAUT}false sense of courage? How delightful.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0012",
+    "en": " That there's a good song. Your tone has{SAUT}a way of makin' a listener happy![FFFD][0BFF][F500]There're tons of other demons more{SAUT}worthy of listenin' to a talented one{SAUT}like you...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0013",
+    "en": "{PAGE}I don't know why you'd be chirpin' at{SAUT}an old fool like me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0014",
+    "en": " They say the healthiest trees provide{SAUT}the best shelter, don't they? What're{SAUT}ya doin' here with me then, eh, Missy?[FFFD][0CFF][F500]   You still plannin' on crackin' the whip{SAUT}on this dyin' old body!? What a cruel{SAUT}little girl you are![FFFD][0DFF][F500]   You're relyin' too much on others...{SAUT}Young'uns nowadays are so lazy! They{SAUT}don't know what hardship means!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0015",
+    "en": "  Heh... So there's even a yen's worth{SAUT}to this old man?[FFFD][0EFF][F500]Shucks, I'm happy! I just can't refuse{SAUT}the siren call of a sweet young lady.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0016",
+    "en": "   Flattery don't give me any warm{SAUT}fuzzies... Just makes me angry!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0017",
+    "en": "Hm... You're... quite a looker, you{SAUT}are...[FFFD][0FFF][F500]   Human girl... Whaddaya think you're{SAUT}gonna get outta bein' on my good side?[FFFD][10FF][F500]   You're waggin' your tail now... But{SAUT}sometimes a dog bites the hand that{SAUT}feeds it...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0018",
+    "en": "Ho, ho! You're lettin' me drain your{SAUT}life, so I might as well. Otherwise I'd{SAUT}be wastin' yer offer.[FFFD][11FF][F500]   Ho ho! What a charming young lady we{SAUT}have here!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0019",
+    "en": "Ho ho! You tryin' to pull one over on{SAUT}me? You've got too much time on your{SAUT}hands, Missy.[FFFD][12FF][F500] Heh! I must say, I tip my hat to the{SAUT}imagination you humans have.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0020",
+    "en": "  Everything you're sayin' is a baseless{SAUT}lie! Nothin' worse than youngsters{SAUT}lyin' through their teeth!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0021",
+    "en": "   Sounds like you've got some ulterior{SAUT}motives... How much fun could it be to{SAUT}prank a geezer like me, Missy?[FFFD][13FF][F500]   Now ya've done it. That goes far and{SAUT}beyond a normal pack of lies, heh!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0022",
+    "en": "Ho ho! I'm right as rain if I've got{SAUT}some candy to suck on.[FFFD][14FF][F500]  Look at that face! It's like you've{SAUT}lost... Hrmm... What was it?[FFFD][15FF][F500] Heh! You've got a lot to learn if you're{SAUT}goin' pale in front of an ol' geezer!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0023",
+    "en": " I ain't gonna eat ya! Stop starin' at{SAUT}me like a deer in headlights![FFFD][16FF][F500]  Argh! I don't eat the likes of you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0024",
+    "en": "There's nothin' to be scared of... I'm{SAUT}just a harmless old man! Heh heh heh!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0025",
+    "en": "   Ho ho! Sounds like I've still got some{SAUT}dignity left in me, eh?[FFFD][17FF][F500]   You must have some real troubles if{SAUT}you're interested in old folks... Heh...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0026",
+    "en": "   Ho ho ho... You may be young, but doin'{SAUT}it with just anyone ain't healthy.[FFFD][18FF][F500]   Now listen here! Stop that! You're{SAUT}makin' me sick! Quit ooglin' me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0027",
+    "en": "Ain't ya got no manners!? Young'uns{SAUT}these days think everything's a joke![FFFD][19FF][F500]Here, here, boy. I ain't interested in{SAUT}men. I don't know what I'm gonna do with{SAUT}you fawnin' all over me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0028",
+    "en": " ...I'm a man, and an old one at that.{SAUT}You need your eyes checked, son?[FFFD][1AFF][F500]   Ho ho ho.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0029",
+    "en": "  Ho ho ho.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0030",
+    "en": "  Ho, ho! I'm havin' trouble holdin' back{SAUT}my laughter. You're pleasant for a{SAUT}human.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0031",
+    "en": "  Ho ho! You're an interesting one!{SAUT}You some kinda comedian actor?[FFFD][1BFF][F500] It's so dry... I'd rather be basking{SAUT}in the sun!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0032",
+    "en": "   What's with that act? It's downright{SAUT}colorless! Do something about it![FFFD][1CFF][F500]   Ho ho... My stomach's all unsettled...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0033",
+    "en": " Whoa, I almost dislocated my jaw there.{SAUT}How frightful...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0034",
+    "en": "   Heh! You're a fun fella. That's a life{SAUT}worth livin'.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0035",
+    "en": "   Ho ho ho... I can't stop laughin'.{SAUT}You stop it for me![FFFD][1DFF][F500]   I'm always up for a good chat. Say...{SAUT}Do ya wanna talk about me?[FFFD][1EFF][F500] It's gotta be hard findin' a subject{SAUT}worth talkin' about with an old man.{SAUT}What a considerate child you are.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0036",
+    "en": "Argh! So nonchalant! You just gonna sit{SAUT}in lukewarm water yer whole life!?[FFFD][1FFF][F500]   You just take life as it comes, don't{SAUT}ya!? You need to train yer guts out,{SAUT}or death'll come knockin'!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0037",
+    "en": "  Heh... I got this tendancy to get all{SAUT}worked up... Small talk is downright{SAUT}relaxin'.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0038",
+    "en": "   Ho ho ho! You're a kitten that just{SAUT}opened its eyes. You don't know anythin'{SAUT}'bout this world.[FFFD][20FF][F500]   Heh! Not good enough, child... Get{SAUT}older, and things'll stop surprising{SAUT}you.[FFFD][21FF][F500] Ho ho! You're quite young, aren't ya?{SAUT}Good, I happen to like children.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0039",
+    "en": " Argh! It'll be a cold day in hell before{SAUT}ya carve out my liver, fellas!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0040",
+    "en": "Argh! You ain't comin' anywhere near{SAUT}the hairs on my ass![FFFD][22FF][F500]Don't bully us geriatrics... How am I{SAUT}supposed to stand up to ya if I can{SAUT}hardly stand?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0041",
+    "en": "Well I'll be! Wh-What're ya gonna do{SAUT}about my liver...?[FFFD][23FF][F500]  Youngsters these days have all sorts of{SAUT}useful gadgets... I'm green with envy.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0042",
+    "en": " Those're all things an old man's pocket{SAUT}change couldn't buy... Don't ya got{SAUT}anythin' a tad cheaper?[FFFD][24FF][F500]  You may as well be givin' me a solar{SAUT}powered lantern! Don't ya got anythin'{SAUT}useful?[FFFD][25FF][F500]  I've gotten picky in my old age! This{SAUT}wouldn't even make for garnish!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0043",
+    "en": "  Ho ho! The pie in the sky became real{SAUT}food![FFFD][26FF][F500]  Heh! This'll be useful. I'm grateful.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0044",
+    "en": "  Ho, ho, young people sure love talkin'.{SAUT}Well, they say it's best to leave life{SAUT}to the young at heart.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0045",
+    "en": "  You've got fire in your speech... Glad{SAUT}you've got passion, but be careful ya{SAUT}don't get burned.[FFFD][27FF][F500]   It's always the bad speakers who babble{SAUT}on and on! I'm sick of this!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0046",
+    "en": "   You talk too much! I've been around much{SAUT}longer than you, ya hear![FFFD][28FF][F500]   Ho, ho! I see you're burnin' up, young{SAUT}man. Like oil paper by a flame!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0047",
+    "en": " Ho, ho! You were born talkin'{SAUT}instead of cryin', weren't ya?[FFFD][29FF][F500] Never imagined bein' yelled at by a{SAUT}greenhorn like you. How much greener is{SAUT}the grass over there, anyway?[FFFD][2AFF][F500]Heh... Lookin' at you reminds me of my{SAUT}younger days.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0048",
+    "en": "{PAGE}You're more conceited than I ever was,{SAUT}but I'll let that slide.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0049",
+    "en": "  You ain't gotta yell! I'm right here!{SAUT}And my hearin's just fine, ya know!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0050",
+    "en": "  Look how you're treatin' your elders!{SAUT}If ya don't got manners, you won't get{SAUT}anywhere in life![FFFD][2BFF][F500]   Hey, child... Is it that much fun to{SAUT}yell at your elders?[FFFD][2CFF][F500]You're supposed to treat your elders{SAUT}kindly, yet here you are... My heart{SAUT}nearly jumped outta my chest...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0051",
+    "en": "  Heh! It's obvious, boy! You're tryin'{SAUT}to test me, ain't ya?[FFFD][2DFF][F500]  It's regrettable, but I've gotten more{SAUT}and more shameless over the years.{SAUT}That won't phase me.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0052",
+    "en": " Hey! I can see right through to your{SAUT}true motives!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0053",
+    "en": " Sarcasm, eh!? You've got a mean spirit,{SAUT}human! I'll knock some sense into ya![FFFD][2EFF][F500]Ho, ho! You agree, don't ya? I may be{SAUT}old, but I'm still a [FFF0].(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0054",
+    "en": "  Heh! I'm gettin' on in years. Say{SAUT}whatever ya darn well please.[FFFD][2FFF][F500]  What a goofy dance. It don't look{SAUT}anythin' like the moves that were all{SAUT}the rage when I was groovin'.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0055",
+    "en": "  Ah, you know how to twist those hips!{SAUT}Just be careful ya don't strain yer{SAUT}back too much.[FFFD][30FF][F500] Stop jigglin' around! Ya look like a{SAUT}darned, childish fool! It's annoying!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0056",
+    "en": " Argh! You ain't even got a handle on{SAUT}the basics! I'll teach ya![FFFD][31FF][F500]  So you kids still know what real dancin'{SAUT}is, eh? I'm impressed.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0057",
+    "en": "Ho, ho! Back in my day, I had quite{SAUT}the jump n' jive! Danced all the time![FFFD][32FF][F500]   Heh... The closer ya come to yer death{SAUT}bed, the easier it gets to forgive.{SAUT}The mistakes of youth don't bother me.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0058",
+    "en": "  Ho ho! I'm like a stone wall. You{SAUT}couldn't break me if ya tried![FFFD][33FF][F500] Argh! It don't take much to rough up{SAUT}you high-spirited youths! Ya got no{SAUT}backbone![FFFD][34FF][F500]   I got my pride too! My back may be{SAUT}givin' out, but I accept your challenge!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0060",
+    "en": "  Y-You wouldn't... You wouldn't torment a{SAUT}defenseless old man, would ya?[FFFD][35FF][F500]  Heh... You tryin' to count my wrinkles{SAUT}or somethin'?[FFFD][36FF][F500] You got passion in that gaze, son!{SAUT}...'Course, I'd like it better if ya were{SAUT}a lady...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0061",
+    "en": " Now stop that! Yer makin' me downright{SAUT}uncomfortable![FFFD][37FF][F500]How rude! Ya shouldn't stare right into{SAUT}someone's eyes like that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0062",
+    "en": "  For such a young mind, you've got some{SAUT}good concentration! Color me impressed!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0063",
+    "en": " Ho, ho! What are ya expectin' to find{SAUT}from inspectin' an old man like me?[FFFD][38FF][F500]Ho, ho! You tryin' to pull one over on{SAUT}me? You got too much time on your hands!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0064",
+    "en": "I'd heard you humans were two-faced, but{SAUT}I never imagined this. How many faces{SAUT}you got, anyway?[FFFD][39FF][F500]  Everything you're sayin' is a baseless{SAUT}lie! Nothin' worse than youngsters{SAUT}lyin' through their teeth![FFFD][3AFF][F500] Argh! Your story's got more holes than{SAUT}swiss cheese! I won't fall for that{SAUT}malarky!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0065",
+    "en": "Now ya've done it. That goes far and{SAUT}beyond a normal pack of lies, heh![FFFD][3BFF][F500]  Ho, ho! This is like watchin' the great{SAUT}comedians of yesteryear! I'm satisfied!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0066",
+    "en": "Hey! What would ya have done if my{SAUT}heart went and stopped cold!?[FFFD][3CFF][F500] Argh! Did ya think that would give me{SAUT}the willies? Whatchya need is drama!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0067",
+    "en": " That story was downright eerie. Why do{SAUT}human girls like those kinda stories?[FFFD][46FF][F500] Boy, that story really curdles my blood.{SAUT}...The world's a scary place.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0068",
+    "en": " Heh! When ya get this old, there ain't{SAUT}nothin' left to scare ya.[FFFD][47FF][F500] You enjoy those kinds of stories? Still{SAUT}a child, I see. Ho ho ho...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0069",
+    "en": "Ho, ho, you've got great posture for a{SAUT}singer. Prettier than a picture.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0070",
+    "en": "You're sittin' pretty in that mediocre{SAUT}range now, but someday you'll rival{SAUT}the nightingale's song.[FFFD][48FF][F500]   Argh! This is terrible! There's a limit{SAUT}to bein' tone-deaf!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0071",
+    "en": "I hate this song... It brings back bad{SAUT}memories...[FFFD][49FF][F500]   Oooh! That there's a beautiful voice!{SAUT}You take good care of it, y'hear?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0072",
+    "en": "That there's a good song. Your tone has{SAUT}a way of makin' a listener happy![FFFD][4AFF][F500]Hmm? I'm well past my prime, Missy.{SAUT}You need seein' lenses?[FFFD][4BFF][F500]  Ho ho ho, you should be sayin' stuff{SAUT}like that to yer children.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0073",
+    "en": "Hey, I still got my wits about me! Don't{SAUT}treat me like a toddler!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0074",
+    "en": "  Argh! Poke fun at me, will ya!? Girl or{SAUT}not, I won't hold back![FFFD][4CFF][F500]  Ho, ho, sounds like I still got it if{SAUT}you're mistakin' me for a youngster.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0075",
+    "en": " You're like an angel, Missy. You keep{SAUT}that heart of yours pure now, y'hear?[FFFD][4DFF][F500]  Ho ho! Never thought I'd be gettin'{SAUT}called out at this age!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0076",
+    "en": "You're sure into strange things... What{SAUT}good you think an old man like me can{SAUT}do for ya?[FFFD][4EFF][F500] I just want to live in peace! Please,{SAUT}leave me be!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0077",
+    "en": " Argh! I may be old, but I'm still a{SAUT}[FFF0]! I'm free to pick my work![FFFD][4FFF][F500] Heh! It's good to be a [FFF0]!{SAUT}I'm still popular, even at this age!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0078",
+    "en": " You'd be takin' a loss if you hired an{SAUT}old man like me... You're up to no{SAUT}good...[FFFD][50FF][F500]I'm just an old man waitin' for death{SAUT}to point his bony finger and take me.{SAUT}You get kicks outta criticizin' me?[FFFD][51FF][F500]  Ho, ho! It'll take more than a few{SAUT}ugly words to get under my skin.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0079",
+    "en": "Argh! Now I'm mad! You reckon you got{SAUT}bite to back up that bark, kid!?[FFFD][52FF][F500]   What a rude li'l lady! Looks like it's{SAUT}time to put ya over my knee!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0080",
+    "en": "I'm bein' made fun of by a girl? ＊sigh＊{SAUT}Oh how the mighty have fallen...[FFFD][53FF][F500] Now what'd I do to deserve this? You{SAUT}young'uns are a frightful bunch...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0081",
+    "en": "Hmm... Ain't that a pity. If young women{SAUT}like you knew how to take care of their{SAUT}skin better, I mighta fallen for ya.[FFFD][54FF][F500]Heh... Sometimes it's good to just enjoy{SAUT}life with the young'uns.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0082",
+    "en": "  Hey! Women oughta be more virtuous![FFFD][55FF][F500]  Argh! You're just a little girl! You{SAUT}ain't supposed to be flirtin' like that{SAUT}'til you're older!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0083",
+    "en": "At my age, there ain't much use{SAUT}expressing those kinds of feelings, if{SAUT}ya catch my drift! Ho ho ho!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0084",
+    "en": "Ho ho! Well, they do say love transcends{SAUT}age, don't they? Guess it's true![FFFD][56FF][F500]   The wheel of fortune gives most everyone{SAUT}their chance. You just gotta be patient.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0085",
+    "en": "  Hey now, you'll get your slice of the{SAUT}pie someday. No sense cryin' about it.[FFFD][57FF][F500] Argh! You've come of age, haven't ya?{SAUT}Stop clingin' to yer elders! You need{SAUT}to be independent![FFFD][58FF][F500]   I don't wanna hear it! Whinin' about{SAUT}things won't change anything!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0086",
+    "en": " The human world is full of hardship...{SAUT}Don't lose hope...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0087",
+    "en": "  The human world seems like a tough{SAUT}place... I don't wanna eat cold meals{SAUT}at this age...[FFFD][59FF][F500]  Ho ho ho. Sorry, Missy, but you ain't{SAUT}got the face for makin' threats.[FFFD][5AFF][F500]   Ho ho! For such a sweet face, you sure{SAUT}say some scary things.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0088",
+    "en": "  Argh! You tryin' to put the pressure on{SAUT}me!? You're a little uppity for my{SAUT}tastes!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0089",
+    "en": " Argh! I've got my pride to consider!{SAUT}I won't lose to a young'un like you![FFFD][5BFF][F500]Wh-What...? I'm just an old man who's{SAUT}about outta fuel...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0090",
+    "en": "  ...I didn't do nothin' wrong, did I?[FFFD][5CFF][F500] Hey! Don't take that arrogant tone with{SAUT}me, young lady!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0091",
+    "en": "Argh! Nothin' worse than punk kids like{SAUT}you![FFFD][5DFF][F500] You some kinda sadist? ...Now that I{SAUT}think about it, you do have the look...[FFFD][5EFF][F500] ...I'm just an old fart. Now quit{SAUT}pesterin' me.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0092",
+    "en": "Ho ho! With an attitude like that, ain't{SAUT}no boy in his right mind gonna marry{SAUT}you![FFFD][5FFF][F500]   Ho, ho! You've got spunk, don't ya!?{SAUT}This'll be fun.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0093",
+    "en": "   Ho ho ho... You're never too old to{SAUT}learn from someone else's mistakes.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0094",
+    "en": "Heh, despite how ya look, you've got a{SAUT}level head on those shoulders.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0095",
+    "en": "  I've been around a hundred times longer{SAUT}than you! Of course I know that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0096",
+    "en": "   Argh! Stop worrying about this old{SAUT}demon and start worrying about yourself![FFFD][60FF][F500]  Ho, ho! Seems like the master is{SAUT}learning from the pupil now![FFFD][61FF][F500]Not everything is black and white.{SAUT}You've got a lot to learn.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0097",
+    "en": "  Hey! Why do I have to eat the{SAUT}leftovers!?[FFFD][62FF][F500]Hey! Just 'cause you're in a bad mood{SAUT}doesn't mean ya should take it out on{SAUT}us demons!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0098",
+    "en": " I don't remember doin' anything that{SAUT}called for a scornin'...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0099",
+    "en": "  Wh-What, all of a sudden you... Boy,{SAUT}human girls are all kinds of scary.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0100",
+    "en": "   Ho, ho! You're drillin' for oil, but{SAUT}this old man's all dried up.(*RESPONSE*)",
+    "fr": ""
+  }
+]

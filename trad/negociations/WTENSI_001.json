@@ -1,0 +1,406 @@
+[
+  {
+    "id": "WTENSI.BIN:text:0023",
+    "en": " You have a great deal of foresight...{SAUT}Though still young, you possess an{SAUT}admirable understanding.[FFFD][11FF][F500]Do you truly wish to form a contract?{SAUT}There is no sincerity in your speech{SAUT}and actions!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0042",
+    "en": "Was that divine intervention...?{SAUT}What was that?[FFFD][21FF][F500]  Do you enjoy surprising His messengers{SAUT}this way!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0043",
+    "en": "  Is it given unto me that I must guide{SAUT}such a fool...?[FFFD][22FF][F500]What a dangerous human... No, I...{SAUT}I am not afraid... you know...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0048",
+    "en": " You have a great deal of foresight...{SAUT}Though still young, you possess an{SAUT}admirable understanding.[FFFD][27FF][F500]Do you truly wish to form a contract?{SAUT}There is no sincerity in your speech{SAUT}and actions!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0053",
+    "en": "  Where did you learn to speak such filth?[FFFD][2BFF][F500] I am an angel; His own messenger...{SAUT}I-I do not yield to threats.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0054",
+    "en": "   As one of His messengers, you must attend{SAUT}to me with respect.[FFFD][2CFF][F500]You speak as though you make sport of{SAUT}me... You are but a child, so I am{SAUT}sure He will forgive your indiscretion.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0062",
+    "en": "  Where did you learn to speak such filth?[FFFD][34FF][F500] I am an angel; His own messenger...{SAUT}I-I do not yield to threats.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0063",
+    "en": "   As one of His messengers, you must attend{SAUT}to me with respect.[FFFD][35FF][F500]Is something the matter with my face?{SAUT}I endeavor to construct the proper{SAUT}expressions while in the human world.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0067",
+    "en": " You have a great deal of foresight...{SAUT}Though still young, you possess an{SAUT}admirable understanding.[FFFD][39FF][F500]Do you truly wish to form a contract?{SAUT}There is no sincerity in your speech{SAUT}and actions!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0078",
+    "en": "   Ahaha... Do I look so young to you?[FFFD][42FF][F500]  Ever since the redemption of humanity,{SAUT}they have become quite insolent!{SAUT}That must now be corrected!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0087",
+    "en": "  I cannot believe you would speak that{SAUT}way to one of His angels... O Lord...{SAUT}I fear this existence...[FFFD][4AFF][F500] You are a pleasant human.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0089",
+    "en": "  Why do you treat yourself so carelessly?{SAUT}You are one of His unique creations![FFFD][4CFF][F500]Could this be an ordeal as well...?{SAUT}Ahaha... It couldn't possibly.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0090",
+    "en": " My heart is wavering... Am I going to{SAUT}be corrupted?[FFFD][4DFF][F500]  Your suffering is an ordeal from Him!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0091",
+    "en": "{PAGE}When you overcome it, true happiness{SAUT}will await you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0092",
+    "en": "Though you are young, you have been{SAUT}through much hardship...[FFFD][4EFF][F500] How reckless of you to lie to an angel!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0096",
+    "en": "  Where did you learn to speak such filth!?[FFFD][52FF][F500]I am an angel; His own messenger...{SAUT}I-I do not yield to threats.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0097",
+    "en": "   As one of His messengers, you must attend{SAUT}to me with respect.[FFFD][53FF][F500]Ever since the redemption of humanity,{SAUT}they have become quite insolent!{SAUT}That must now be corrected!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0098",
+    "en": "How deplorable! Do you not even know{SAUT}your place!?[FFFD][54FF][F500]Did I err...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0115",
+    "en": "  Where did you learn to speak such filth?[FFFD][64FF][F500] I am an angel; His own messenger...{SAUT}I-I do not yield to threats.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0116",
+    "en": "   As one of His messengers, you must attend{SAUT}to me with respect.[FFFD][65FF][F500]It was correct after all to have banished{SAUT}humans from paradise!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0121",
+    "en": "   Your skill is the equivalent to angelic{SAUT}works... I do not mind as long as it does{SAUT}not affect me, but...[FFFD][6AFF][F500]  Tell me, can you produce any object you{SAUT}choose from there?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0123",
+    "en": " Your power is a blessing from the heavens.{SAUT}Use it not for your own sake, but for the{SAUT}sake of those who have strayed.[FFFD][6BFF][F500] Your stories are a great help in learning{SAUT}the state of affairs in the human world.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0148",
+    "en": "I see the light of wisdom in your eyes.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0149",
+    "en": "{PAGE}Thus, your unbelievable actions just now{SAUT}must have been to some purpose.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0150",
+    "en": "  Poor human, unable to grasp my existence...{SAUT}Study His teachings.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0203",
+    "en": "  ...I cannot give you my card. If you{SAUT}desire my protection, you must make{SAUT}of yourself a shining example!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0204",
+    "en": "You may take this, at least...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0212",
+    "en": " Take this and leave. If you wish to live{SAUT}a long life, you must forget everything.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0213",
+    "en": "  I cannot forgive you... but if we were{SAUT}to do battle, I would be injured as{SAUT}well... That would not be ideal.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0216",
+    "en": " Then I shall protect you. I will give{SAUT}you my card; please accept it!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0217",
+    "en": "   I cannot take actions equivalent to{SAUT}harming you!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0232",
+    "en": " [FFEE]I called to you because He wished it.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0233",
+    "en": "{PAGE}But... I feel that my spell card would{SAUT}be of limited use to you...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0234",
+    "en": " [FFEE]Our encounter here today... Is it His{SAUT}will that I lend you my strength?[FFFD][72FF][F500] [FFEB]First, I must thank Him for being able{SAUT}to meet you...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0252",
+    "en": "  Even I do not believe that everyone can{SAUT}be saved!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0253",
+    "en": "{PAGE}And in addition, you have foolishly{SAUT}rejected His salvation!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0254",
+    "en": " ＊gasp＊ If my delight is so intense...{SAUT}I must have failed...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0287",
+    "en": "   Whew... Very well, then.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0288",
+    "en": "   Perhaps I misheard, but did you just{SAUT}threaten to do something cruel to me?{SAUT}You did...! Me, of all creatures!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0304",
+    "en": "  At last, you have stopped! Good heavens,{SAUT}did you never take music lessons!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0305",
+    "en": "Whew... That was a near thing... My wings{SAUT}were about to be jarred loose.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0321",
+    "en": " So, you show your true nature...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0322",
+    "en": "   Is that so? Then I shall continue to{SAUT}try my hardest!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0340",
+    "en": " I cannot believe you continue to lie to{SAUT}one of His messengers! I can show you{SAUT}no more mercy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0341",
+    "en": "   Did I guess wrong? No, that cannot be...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0342",
+    "en": "   So your true nature is revealed...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0343",
+    "en": " Is that so? Then I, too, shall try my{SAUT}best from now forward!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0374",
+    "en": " So that is why... Ahaha... That is not{SAUT}even worth reprimanding!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0375",
+    "en": "I refer to you! You!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0377",
+    "en": "   Ahaha... So you, too, have your pride...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "WTENSI.BIN:text:0378",
+    "en": "   Do you see now that it is all right?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "WTENSI.BIN:text:0379",
+    "en": "   Ah...! Do not tell me that it is because{SAUT}of the shine of my halo... Have you taken{SAUT}leave of your senses?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0397",
+    "en": "   Ahahah... If that is the case, very well.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0398",
+    "en": "  Perhaps I misheard, but did you just{SAUT}threaten to do something cruel to me?{SAUT}You did...! Me, of all creatures!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0412",
+    "en": " Perhaps from your point of view, that is{SAUT}the case...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0413",
+    "en": "   I am still in training. Withstanding{SAUT}insults is also part of my ordeal.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0421",
+    "en": "   Hm... Very well, then.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0432",
+    "en": "Oh my... I sincerely hope that you are{SAUT}not truly trying to open it...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0490",
+    "en": "  ...Atone for your sins and I will{SAUT}forgive you.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0491",
+    "en": "You must not flee simply because my words{SAUT}are painful to you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0497",
+    "en": " Hm? That was true?{SAUT}......(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0498",
+    "en": "  Is it not so? Well, it is your own fault{SAUT}for looking so suspicious!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0501",
+    "en": " Those were false tears, then? Do not{SAUT}alarm me so!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0502",
+    "en": "  ...Very well, then.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0503",
+    "en": "Did you just threaten to do something{SAUT}to me? You did...! Me, of all creatures!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0508",
+    "en": " Ahaha... You certainly know how to show{SAUT}gratitude!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0537",
+    "en": "   There is nothing left of your soul{SAUT}to be saved!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "WTENSI.BIN:text:0538",
+    "en": "This is how you are meant to be!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0543",
+    "en": "  Why such an insolent attitude!?{SAUT}Your demeanor makes Him weep!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0544",
+    "en": "  In your heart, you wished to talk, no?{SAUT}There is no need to pretend otherwise.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0547",
+    "en": "This is how you are meant to be!{SAUT}Let us next work on fixing your speech!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0551",
+    "en": " ...Very well, then.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0552",
+    "en": "Perhaps I misheard, but did you just{SAUT}threaten to kill me? You did...!{SAUT}Me, of all creatures!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0581",
+    "en": "   Ahaha... You thought this through,{SAUT}didn't you?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0582",
+    "en": " I-I warned you not to come near...{SAUT}D-Did you not hear me...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0584",
+    "en": "   To mock me is to mock Him! It seems{SAUT}that you require punishment!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0585",
+    "en": "   Ha... haha...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0595",
+    "en": "  Ahaha... Is that so? How unfortunate.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:text:0596",
+    "en": "  I-I am sorry...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WTENSI.BIN:resp:0202",
+    "en": "It's okay.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  }
+]

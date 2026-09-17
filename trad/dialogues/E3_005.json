@@ -58,22 +58,22 @@
     "id": "E3.BIN:036:0012",
     "locuteur": "Yukino",
     "en": "This girl looks like she wants to{SAUT}say something...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Cette fille semble vouloir{SAUT}dire un truc...{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0013",
     "locuteur": "Yukino",
     "en": "We gotta do all we can for these guys.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Faisons tout notre possible pour eux.{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0014",
     "locuteur": "Ayase",
     "en": "Y'think they'd melt if I cast Agi on 'em?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Ayase",
+    "fr": "Ils fondraient si je lance Agi sur eux?{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -87,36 +87,36 @@
     "id": "E3.BIN:036:0017",
     "locuteur": "Nanjo",
     "en": "Wait... That makes it feel even colder.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Attends... Ça rend le froid pire.{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0018",
     "locuteur": "Nanjo",
     "en": "That was quite a windfall. One hardly{SAUT}expects such an amazing find.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Quelle aubaine. On s'attend rarement{SAUT}à si belle trouvaille.{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0020",
     "locuteur": "Brown",
     "en": "Night Queen or no, I'm not letting{SAUT}whoever did this off the hook!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Reine de la nuit ou pas, je laisse pas{SAUT}le coupable filer!{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0021",
     "locuteur": "Brown",
     "en": "A main character's costume? It should go{SAUT}to me, naturally! ...Oh, man...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Un costume de héros? Il me revient{SAUT}de droit! ...Oh, non...{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0022",
     "locuteur": "Brown",
     "en": "It doesn't fit! Aw well... Much as it{SAUT}breaks my heart to do this...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Il me va pas! Tant pis... Même si ça{SAUT}me brise le coeur...{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0023",
@@ -129,15 +129,15 @@
     "id": "E3.BIN:036:0024",
     "locuteur": "Brown",
     "en": "Hunh?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Hein?{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0025",
     "locuteur": "Brown",
     "en": "H-Hey! Look... There's something on{SAUT}the floor.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "H-Hey! Regarde... Un truc par{SAUT}terre.{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0026",
@@ -150,29 +150,29 @@
     "id": "E3.BIN:036:0027",
     "locuteur": "Brown",
     "en": "Dibs, you hear me!? I saw it first!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "C'est à moi!? Je l'ai vu avant!{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0028",
     "locuteur": "Yukino",
     "en": "Do you ever stop being such a greedy{SAUT}bastard!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Tu arrêtes jamais d'être aussi{SAUT}avide!?{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0029",
     "locuteur": "Brown",
     "en": "Oh, Yukino, please.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Oh, Yukino, pitié.{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0030",
     "locuteur": "Brown",
     "en": "I would never steal money like that.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Jamais je ne volerais ainsi.{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0031",
@@ -192,15 +192,15 @@
     "id": "E3.BIN:036:0033",
     "locuteur": "Brown",
     "en": "Huh? O-Ohhh... you're right. Awwww...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Hein? O-Ohhh... c'est vrai. Awwww...{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0034",
     "locuteur": "Ayase",
     "en": "Totally stupid. There's no doubt you'll{SAUT}pay the piper.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Trop bête. Tu vas payer les{SAUT}pots casses, c'est sûr.{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0035",
@@ -213,57 +213,57 @@
     "id": "E3.BIN:036:0036",
     "locuteur": "Brown",
     "en": "Awww...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Awww...{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0037",
     "locuteur": "Elly",
     "en": "Good heavens... here, too...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Bonté... ici aussi...?{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0038",
     "locuteur": "Elly",
     "en": "What an incredible find!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Quelle trouvaille!{ATTENTE}"
   },
   {
     "id": "E3.BIN:037:0000",
     "locuteur": "Yukino",
     "en": "How'd that girl get all the way up here?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Comment est-elle montée jusqu'ici?{ATTENTE}"
   },
   {
     "id": "E3.BIN:037:0001",
     "locuteur": "Ayase",
     "en": "Hey, look! His eyelashes are frozen.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Hey, regarde! Ses cils sont gelés.{ATTENTE}"
   },
   {
     "id": "E3.BIN:037:0002",
     "locuteur": "Nanjo",
     "en": "Under normal circumstances, I find Ayase{SAUT}barely tolerable...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "En temps normal, je trouve Ayase{SAUT}à peine tolérable...{ATTENTE}"
   },
   {
     "id": "E3.BIN:037:0003",
     "locuteur": "Nanjo",
     "en": "But it's something of a relief to have{SAUT}her around at a time like this.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Mais c'est un soulagement de l'avoir{SAUT}la en un tel moment.{ATTENTE}"
   },
   {
     "id": "E3.BIN:037:0004",
     "locuteur": "Brown",
     "en": "I'm starting to get sleepy...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Je commence à somnoler...{ATTENTE}"
   },
   {
     "id": "E3.BIN:037:0005",
@@ -276,46 +276,46 @@
     "id": "E3.BIN:037:0013",
     "locuteur": "Mariko",
     "en": "I was just exploring those three freaky{SAUT}towers that popped up around campus!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mariko",
+    "fr": "J'explorais ces trois tours flippantes{SAUT}apparues autour du campus!{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E3.BIN:037:0014",
     "locuteur": "Mariko",
     "en": "They're chock-full of demons! You wouldn't{SAUT}believe the photos I got!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mariko",
+    "fr": "Elles sont pleines de démons! Tu{SAUT}croirais pas les photos que j'ai!{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E3.BIN:037:0015",
     "locuteur": "Mariko",
     "en": "I'm gonna submit these babies to some{SAUT}national magazines!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mariko",
+    "fr": "Je vais envoyer ces bijoux à des{SAUT}magazines nationaux!{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E3.BIN:037:0018",
     "locuteur": "Mariko",
     "en": "I'm pretty much done exploring the{SAUT}towers, so I came back this way...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mariko",
+    "fr": "J'ai fini d'explorer les tours,{SAUT}alors je suis revenue par ici...{ATTENTE}"
   },
   {
     "id": "E3.BIN:037:0019",
     "locuteur": "Mariko",
     "en": "But just like I thought, I'm pretty{SAUT}bushed now.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mariko",
+    "fr": "Mais comme je pensais, je suis{SAUT}crevée.{ATTENTE}"
   },
   {
     "id": "E3.BIN:037:0020",
     "locuteur": "Mariko",
     "en": "This is so exciting, though!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mariko",
+    "fr": "C'est si excitant, quand même!{ATTENTE}"
   },
   {
     "id": "E3.BIN:037:0021",
@@ -335,36 +335,36 @@
     "id": "E3.BIN:037:0023",
     "locuteur": "Mariko",
     "en": "So what do you think?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mariko",
+    "fr": "Alors, t'en penses quoi?{ATTENTE}"
   },
   {
     "id": "E3.BIN:037:0024",
     "locuteur": "Mariko",
     "en": "Me, I say it's all a secret conspiracy{SAUT}to take over the world by sorcery...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mariko",
+    "fr": "Moi, je dis que c'est un complot secret{SAUT}pour dominer le monde par magie...{ATTENTE}"
   },
   {
     "id": "E3.BIN:038:0000",
     "locuteur": "Reiho",
     "en": "Hee-ho! This is the 4th floor.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiho",
+    "fr": "Hee-ho! Voici le 4e étage.{ATTENTE}"
   },
   {
     "id": "E3.BIN:038:0001",
     "locuteur": "Raiho",
     "en": "Hee-ho! Hey, you guys!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Hee-ho! Hey, vous là!{ATTENTE}"
   },
   {
     "id": "E3.BIN:038:0002",
     "locuteur": "Raiho",
     "en": "Will you be friends with me?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Tu veux être mon ami, ho?{ATTENTE}"
   },
   {
     "id": "E3.BIN:038:0003",
@@ -377,22 +377,22 @@
     "id": "E3.BIN:038:0004",
     "locuteur": "Raiho",
     "en": "Well, friends? Is there anything I can{SAUT}do for you, ho?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Alors, amis? Puis-je faire quelque chose{SAUT}pour toi, ho?{ATTENTE}"
   },
   {
     "id": "E3.BIN:038:0005",
     "locuteur": "Raiho",
     "en": "I hee-know!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Je hee-sais!{ATTENTE}"
   },
   {
     "id": "E3.BIN:038:0006",
     "locuteur": "Raiho",
     "en": "Want me-ho to take you upstairs?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Je te monte à l'étage, ho?{ATTENTE}"
   },
   {
     "id": "E3.BIN:038:0007",
@@ -406,44 +406,44 @@
     "id": "E3.BIN:038:0008",
     "locuteur": "Raiho",
     "en": "Hee-ho! Well then, hee-close your eyes{SAUT}for a minute, ho...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Raiho",
+    "fr": "Hee-ho! Bon, hee-ferme les yeux{SAUT}une minute, ho...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E3.BIN:038:0010",
     "locuteur": "Yukino",
     "en": "It's those snowmen again. What are they{SAUT}up to this time?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Encore ces bonshommes de neige.{SAUT}Ils veulent quoi cette fois?{ATTENTE}"
   },
   {
     "id": "E3.BIN:038:0011",
     "locuteur": "Ayase",
     "en": "I think they like, want you to talk{SAUT}to them.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Je crois qu'ils veulent, genre,{SAUT}que tu leur parles.{ATTENTE}"
   },
   {
     "id": "E3.BIN:038:0012",
     "locuteur": "Nanjo",
     "en": "Are they lonesome?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Sont-ils seuls?{ATTENTE}"
   },
   {
     "id": "E3.BIN:038:0013",
     "locuteur": "Brown",
     "en": "I was looking at their mouths, and I got{SAUT}this craving for watermelon.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Je fixais leur bouche, et j'ai eu{SAUT}une envie de pastèque.{ATTENTE}"
   },
   {
     "id": "E3.BIN:038:0014",
     "locuteur": "Elly",
     "en": "It seems some demons are amiable and{SAUT}naturally curious as well.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Certains démons semblent aimables et{SAUT}curieux de nature.{ATTENTE}"
   },
   {
     "id": "E3.BIN:039:0000",

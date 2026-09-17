@@ -1,0 +1,502 @@
+[
+  {
+    "id": "SINSI.BIN:text:0102",
+    "en": "   If I've done you any wrong, I apologize{SAUT}for it... I beg your forgiveness...[FFFD][5CFF][F500]  When I was a child, there was something{SAUT}I too, could not forgive...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0104",
+    "en": "  Ahhh! I feel so humiliated... But...{SAUT}Please! Would you be so kind as to{SAUT}torment me more...!?[FFFD][5DFF][F500] How surprising! You don't see a reaction{SAUT}like that every day!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0105",
+    "en": "  I thought you had business with me...{SAUT}Have I misunderstood?[FFFD][5EFF][F500]  I admire your courage, but, you are too{SAUT}bold! In other words, you are being{SAUT}impertinent!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0106",
+    "en": "   To a demon, that is most insolent!{SAUT}Is this considered proper manners to{SAUT}you humans?[FFFD][5FFF][F500]  I have no recollection of doing so,{SAUT}but... it seems I have angered you...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0107",
+    "en": "  ......I am a gentleman, therefore I must{SAUT}remain gentle. ...That was a joke...[FFFD][60FF][F500]How surprising! You don't see a reaction{SAUT}like that every day!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0108",
+    "en": "  I thought you had business with me...{SAUT}Have I misunderstood?[FFFD][61FF][F500]  I admire your courage, but, you are too{SAUT}bold! In other words, you are being{SAUT}impertinent!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0109",
+    "en": "   To a demon, that is most insolent!{SAUT}Is this considered proper manners to{SAUT}you humans?[FFFD][62FF][F500]  I have no recollection of doing so,{SAUT}but... it seems I have angered you...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0110",
+    "en": "  ......I am a gentleman, therefore I must{SAUT}remain gentle. ...That was a joke...[FFFD][63FF][F500]Hmm... Well, well. Sounds like we{SAUT}should spar.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0111",
+    "en": " Are you using those barbaric negotiation{SAUT}tactics in hopes that I'll listen?[FFFD][64FF][F500]  If you can cross even me, you are really{SAUT}rather hopeless!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0112",
+    "en": "  The changing seasons always bring these{SAUT}types around. It's so troubling...[FFFD][65FF][F500]   It would be easiest were I to just{SAUT}crush you... But I will stay my hand a{SAUT}bit longer...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0113",
+    "en": "If you kill a demon who puts up no{SAUT}resistance, your reputation will suffer.[FFFD][66FF][F500]  That's a childish idea. But I understand{SAUT}the need for attention.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0114",
+    "en": "   You may have a point, but allow me to{SAUT}ask... What was it?[FFFD][67FF][F500]Did I hurt your feelings? I'm sorry, but{SAUT}your logic is rather flawed. That's not{SAUT}good...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0115",
+    "en": "   Calm down, young man... You are taking{SAUT}this too far...[FFFD][68FF][F500]   I cannot believe you, yet... nor can I{SAUT}bring myself to hate you. A mystery...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0116",
+    "en": "  Hahaha, I will consider that an overly{SAUT}expressive show of your emotions.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0117",
+    "en": "   That's a childish idea. But I understand{SAUT}the need for attention.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0118",
+    "en": "   Hmmm... Now THIS is entertainment![FFFD][69FF][F500]   Such uncanny trickery... You may be a{SAUT}much stronger opponent than I first{SAUT}imagined...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0119",
+    "en": "  Using such uncanny trickery... How{SAUT}alarming! You are far too dangerous![FFFD][6AFF][F500]  Ah, thank goodness! If you can continue{SAUT}to make such things appear, perhaps we{SAUT}could ride out this depression.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0120",
+    "en": " What superb magic! I won't be able to{SAUT}sleep if I don't know its mechanisms,{SAUT}so I do hope you'll tell me![FFFD][6BFF][F500] No matter the subject, I will learn{SAUT}something new, correct?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0121",
+    "en": "{PAGE}From here on, be a good conversation{SAUT}partner with me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0122",
+    "en": " Hahaha, I admit, I'm quite interested{SAUT}in what humans have to say.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0123",
+    "en": "  Are you saying you'd like me to be the{SAUT}listener? Well, my reply depends on{SAUT}the weight of your reward.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0124",
+    "en": " You talk too much of meaningless things!{SAUT}Learn moderation!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0125",
+    "en": " I grow weary of these boring talks.{SAUT}Let us end this!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0126",
+    "en": "   Oh, be quiet! You needn't speak, only{SAUT}listen![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0127",
+    "en": " I have no time at the moment...{SAUT}But perhaps next time...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0128",
+    "en": "   It has nothing to do with me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0129",
+    "en": "Hahaha, quite an amusing subject.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0130",
+    "en": "  Many of my acquaintances are getting on{SAUT}in years... I've actually been looking{SAUT}for someone like you to speak with.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0131",
+    "en": " Hahaha, you say such amusing things.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0132",
+    "en": "   Both of us stand to benefit... I will{SAUT}lend you my power if I feel so{SAUT}inclined...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0133",
+    "en": "   I won't answer immediately, but...{SAUT}I don't think it's a bad deal.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0134",
+    "en": "  In other words, you would like me to{SAUT}spare my time for you. My answer will{SAUT}depend on your appreciation's weight.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0135",
+    "en": "  Were you never taught the rules of how{SAUT}common folk greet nobility!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0136",
+    "en": "I am shocked that you would think I'd{SAUT}lend you my power after such boring{SAUT}negotiation techniques!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0137",
+    "en": "  Talk is cheap. I want to know how{SAUT}strong your resolution is...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0138",
+    "en": "These are words of humans... You must be{SAUT}up to something...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0139",
+    "en": "I am busy, but... I cannot fathom what{SAUT}you would do if I refused...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0140",
+    "en": "I refuse... My power does not exist for{SAUT}the sake of humans...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0141",
+    "en": "  Hahaha, even when I'm not dressed up,{SAUT}I'm the center of attention.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0142",
+    "en": " Hahaha... You are pure, so listen{SAUT}carefully: You must use your negotiation{SAUT}techniques appropriately.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0143",
+    "en": "   That makes me quite happy. I don't{SAUT}mind lending you my power, but let me{SAUT}tantalize you a little further...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0144",
+    "en": " So you plan on taking the reigns of{SAUT}this negotiation? Ha... Very well.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0145",
+    "en": " It's quite childish of you to use such{SAUT}techniques... I suggest you mature.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0146",
+    "en": " You've dealt quite a blow to my mental{SAUT}state... I request compensation.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0147",
+    "en": "   I'm sorry, but it would jeopardize my{SAUT}reputation if I were to offer a{SAUT}retort to your taunt.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0148",
+    "en": "You thought I would lose my cool over{SAUT}this? How incorrect you were!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0149",
+    "en": "I see you require corrections to your{SAUT}attitude in a most Spartan way!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0150",
+    "en": "{PAGE}Lesson one! Present me with a gift![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0151",
+    "en": "The first indication that one does not{SAUT}know manners is in their speech...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0152",
+    "en": "  I am a demon... Unless you are as well,{SAUT}you should be afraid...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0153",
+    "en": "What are you saying!? Ah... Ahhhh...!{SAUT}O-Oh, please excuse me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0154",
+    "en": "It's best that you get things like that{SAUT}out of your system while you're young!{SAUT}That being said, I will tolerate it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0155",
+    "en": "Hahaha, the things humans do never{SAUT}really change, do they?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0156",
+    "en": " It's not that I mind your attitude...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0157",
+    "en": "{PAGE}But it doesn't exactly inspire my{SAUT}interest, either. You understand,{SAUT}don't you?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0158",
+    "en": " Your performance was rough around{SAUT}the edges, but there could be a diamond{SAUT}in there.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0159",
+    "en": "You're practicing your performance here?{SAUT}Ah, well I have heard that if you skip{SAUT}a day, it takes three to regain it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0160",
+    "en": "I would pay money to see a wonderful{SAUT}performance, but that... wasn't.{SAUT}Thus, the reverse should apply.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0161",
+    "en": " How absurd... Cut it out!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0162",
+    "en": "  Enough of this! I have no business with{SAUT}such amateur performers!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0163",
+    "en": "   I have no need of entertainment!{SAUT}Why don't you give me something useful?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0164",
+    "en": "  What do you think? If a stranger started{SAUT}singing and dancing in front of you,{SAUT}wouldn't you be somewhat disturbed...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0165",
+    "en": "   Have you recently hit your head...?{SAUT}Are you... alright?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0166",
+    "en": "You must not have a care in the{SAUT}world... I envy you.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0167",
+    "en": "   Haha, I feel like I've wandered into{SAUT}a play.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0168",
+    "en": "   Hahaha! That is good! I could use a{SAUT}stiff drink!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0169",
+    "en": "   Honestly, this makes me happy. You are{SAUT}quite a charmer.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0170",
+    "en": "If this is a dream, then... Hmmm...{SAUT}What to do...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0171",
+    "en": " That is quite enticing, but I think I'd{SAUT}like a little extra.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0172",
+    "en": "  Will you stop mocking me!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0173",
+    "en": " Was that an attempt to win me over?{SAUT}I must say, it was not very proper!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0174",
+    "en": "You plan to tempt me over to you, is{SAUT}that it? If so, it's not going to work![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0175",
+    "en": "  You never know what humans like you will{SAUT}do if you don't play along...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0176",
+    "en": " I may be beautiful, but to accept such{SAUT}an invitation... I have a reputation...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0177",
+    "en": " I already have plans. Maybe next time...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0178",
+    "en": "   That is wonderful!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0179",
+    "en": " Hahaha, what a pickle I'm in! I cannot{SAUT}simply decline your offer... Haha,{SAUT}indeed, it's quite a predicament!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0180",
+    "en": "Hahaha! You have a cute side!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0181",
+    "en": "  Well, knowing how much stronger I am{SAUT}than you... I cannot hold back.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0182",
+    "en": "   Hmmm... The rumors said you had more{SAUT}spirit than you're showing me now...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0183",
+    "en": "  No matter how much time passes, you'll{SAUT}never catch up to me! That's how it is!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0184",
+    "en": " How unsightly! Please, knock it off!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0185",
+    "en": "   Then you will listen to whatever I say,{SAUT}correct!?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0186",
+    "en": " Why would you say that...? That's a{SAUT}bit fishy...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0187",
+    "en": "   Wh-What are you trying to say? Let's{SAUT}negotiate normally, shall we...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0188",
+    "en": "  Exactly! I am as strong as I am{SAUT}beautiful! Hahahahaha!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0189",
+    "en": " Admit defeat! If you do, I'll spare{SAUT}your life!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0190",
+    "en": " Finally! I have come so far!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0191",
+    "en": "   Ahh, you already have my spell card!{SAUT}Not bad!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0192",
+    "en": "  Then I shall give you this.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0193",
+    "en": "I see...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0194",
+    "en": "   It seems our values are irreconciably{SAUT}different. We'd only be unhappy, so I{SAUT}think we should break up...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0195",
+    "en": "A low-level demon would be more becoming{SAUT}of such low-level humans. You understand{SAUT}that, right?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0196",
+    "en": " Then at least make use of this!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0197",
+    "en": "Then excuse me, if you will. I look{SAUT}forward to meeting again.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0198",
+    "en": "  Here is a token of my gratitude.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0199",
+    "en": "   If you are done, I'll be on my way!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0200",
+    "en": "Then I will give you my spell card, as{SAUT}you have requested. Make me a Persona{SAUT}both gentle and firm.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0201",
+    "en": " I shall give you this... so... er...{SAUT}Please, just let me go!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0202",
+    "en": "   If I continue this conversation, my{SAUT}level will drop as well!(*OPTION*)",
+    "fr": ""
+  }
+]

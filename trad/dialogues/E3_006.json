@@ -199,8 +199,8 @@
     "id": "E3.BIN:048:0014",
     "locuteur": "Yukino",
     "en": "Ms. Saeko!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Mme Saeko!?{ATTENTE}"
   },
   {
     "id": "E3.BIN:048:0015",
@@ -283,8 +283,8 @@
     "id": "E3.BIN:067:0004",
     "locuteur": "Brown",
     "en": "Oh man, this is totally perfect for me!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Oh là, ça me va parfaitement!{ATTENTE}"
   },
   {
     "id": "E3.BIN:067:0005",
@@ -297,15 +297,15 @@
     "id": "E3.BIN:068:0000",
     "locuteur": "Yukino",
     "en": "So we have until the hour hand points to{SAUT}12 o'clock... This won't be easy.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "On a jusqu'à ce que l'aiguille pointe{SAUT}12 heures... Ça sera pas facile.{ATTENTE}"
   },
   {
     "id": "E3.BIN:068:0001",
     "locuteur": "Ayase",
     "en": "I've been feeling totally sleepy ever{SAUT}since we came to this tower!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Je me sens super endormie depuis{SAUT}qu'on est dans cette tour!{ATTENTE}"
   },
   {
     "id": "E3.BIN:068:0002",
@@ -318,36 +318,36 @@
     "id": "E3.BIN:068:0003",
     "locuteur": "Brown",
     "en": "Hey, don't you feel all sleepy for some{SAUT}reason? No, no, I mean it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Hé, t'as pas sommeil toi{SAUT}pour une raison? Non, non, je le pense.{ATTENTE}"
   },
   {
     "id": "E3.BIN:068:0004",
     "locuteur": "Elly",
     "en": "I wonder what kind of foe awaits us in{SAUT}this tower.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Quel ennemi nous attend{SAUT}dans cette tour.{ATTENTE}"
   },
   {
     "id": "E3.BIN:069:0000",
     "locuteur": "Kumi's father",
     "en": "...Are you still up fooling around with{SAUT}that script, Kumi?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Père de Kumi",
+    "fr": "...Encore en train de jouer avec{SAUT}ce scénario, Kumi?{ATTENTE}"
   },
   {
     "id": "E3.BIN:069:0001",
     "locuteur": "Kumi's father",
     "en": "Refresh my memory, what are you going{SAUT}to school for again?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Père de Kumi",
+    "fr": "Rappelle-moi, tu vas à l'école{SAUT}pour quoi déjà?{ATTENTE}"
   },
   {
     "id": "E3.BIN:069:0002",
     "locuteur": "Kumi's father",
     "en": "To study? Or to fool around?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Père de Kumi",
+    "fr": "Pour étudier? Ou t'amuser?{ATTENTE}"
   },
   {
     "id": "E3.BIN:069:0003",
@@ -367,22 +367,22 @@
     "id": "E3.BIN:069:0005",
     "locuteur": "Kumi's father",
     "en": "You get those low scores because you don't{SAUT}study. You just fool around all the time.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Père de Kumi",
+    "fr": "Ces mauvaises notes car tu n'étudies{SAUT}pas. Tu t'amuses tout le temps.{ATTENTE}"
   },
   {
     "id": "E3.BIN:069:0006",
     "locuteur": "Kumi",
     "en": "But--My average was eighty--{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "Mais--J'avais quatre-vingt-{ATTENTE}"
   },
   {
     "id": "E3.BIN:069:0007",
     "locuteur": "Kumi's father",
     "en": "I gave up drinking and smoking, as much{SAUT}as I loved them...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Père de Kumi",
+    "fr": "J'ai arrêté boire et fumer, autant{SAUT}que je les aimais...{ATTENTE}"
   },
   {
     "id": "E3.BIN:069:0008",
@@ -395,8 +395,8 @@
     "id": "E3.BIN:069:0009",
     "locuteur": "Kumi's father",
     "en": "Who do you think that's for!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Père de Kumi",
+    "fr": "Pour qui crois-tu que c'est!?{ATTENTE}"
   },
   {
     "id": "E3.BIN:069:0010",
@@ -409,50 +409,50 @@
     "id": "E3.BIN:069:0011",
     "locuteur": "Kumi's father",
     "en": "You're attending that school now because{SAUT}your father's working himself to death.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Père de Kumi",
+    "fr": "Tu vas dans cette école car{SAUT}ton père se tue au travail.{ATTENTE}"
   },
   {
     "id": "E3.BIN:069:0012",
     "locuteur": "Kumi",
     "en": "...I know, Father.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "...Je sais, père.{ATTENTE}"
   },
   {
     "id": "E3.BIN:069:0013",
     "locuteur": "Kumi's father",
     "en": "But you still don't even think about what{SAUT}I'm going through...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Père de Kumi",
+    "fr": "Mais tu penses même pas à ce que{SAUT}Je traverse...{ATTENTE}"
   },
   {
     "id": "E3.BIN:069:0014",
     "locuteur": "Kumi's father",
     "en": "Instead, you get lost in some club and{SAUT}never spend a moment studying.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Père de Kumi",
+    "fr": "Au lieu de ça, tu te perds dans un club{SAUT}sans jamais étudier.{ATTENTE}"
   },
   {
     "id": "E3.BIN:069:0015",
     "locuteur": "Kumi's father",
     "en": "You're in the wrong here, Kumi.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Père de Kumi",
+    "fr": "Tu es en tort ici, Kumi.{ATTENTE}"
   },
   {
     "id": "E3.BIN:069:0016",
     "locuteur": "Kumi",
     "en": "...I'm sorry...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "...Désolée...{ATTENTE}"
   },
   {
     "id": "E3.BIN:069:0017",
     "locuteur": "Kumi's father",
     "en": "See, you understand. So why don't you{SAUT}drop that script and hit the books?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Père de Kumi",
+    "fr": "Tu vois, tu comprends. Alors laisse ce{SAUT}scénario et ouvre tes livres?{ATTENTE}"
   },
   {
     "id": "E3.BIN:069:0018",
@@ -465,8 +465,8 @@
     "id": "E3.BIN:069:0019",
     "locuteur": "Kumi's father",
     "en": "Hahah...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Père de Kumi",
+    "fr": "Hahah...{ATTENTE}"
   },
   {
     "id": "E3.BIN:070:0000",
@@ -486,8 +486,8 @@
     "id": "E3.BIN:070:0002",
     "locuteur": "Kumi",
     "en": "The world around me. The people around me.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "Le monde autour. Les gens autour de moi.{ATTENTE}"
   },
   {
     "id": "E3.BIN:070:0003",
@@ -500,8 +500,8 @@
     "id": "E3.BIN:070:0004",
     "locuteur": "Kumi",
     "en": "Do I have to exist in this reality with{SAUT}all these other people...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "Dois- je exister dans cette réalité avec{SAUT}tous ces gens...?{ATTENTE}"
   },
   {
     "id": "E3.BIN:070:0005",
@@ -514,22 +514,22 @@
     "id": "E3.BIN:070:0006",
     "locuteur": "Kumi",
     "en": "A whole world full of kindness and{SAUT}generosity... where I could be free...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "Un monde entier plein de gentillesse et{SAUT}de bonté... où je serais libre...{ATTENTE}"
   },
   {
     "id": "E3.BIN:070:0007",
     "locuteur": "Kumi",
     "en": "Some dream, huh...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "Un sacré rêve...?{ATTENTE}"
   },
   {
     "id": "E3.BIN:070:0008",
     "locuteur": "Kumi",
     "en": "Hah... Yeah, a dream... that only happens{SAUT}when I'm asleep in this bed...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "Hah... Ouais, un rêve... qui n'arrive{SAUT}que quand je dors dans ce lit...{ATTENTE}"
   },
   {
     "id": "E3.BIN:070:0009",
@@ -542,22 +542,22 @@
     "id": "E3.BIN:070:0010",
     "locuteur": "Kumi",
     "en": "The world of dreams... I wish I could{SAUT}just live there...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "Le monde des rêves... Je{SAUT}voudrais pouvoir y vivre...{ATTENTE}"
   },
   {
     "id": "E3.BIN:070:0011",
     "locuteur": "Kumi",
     "en": "In my dream world, made only for me...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "Mon monde de rêve, fait pour moi...{ATTENTE}"
   },
   {
     "id": "E3.BIN:071:0000",
     "locuteur": "Agastya Tree",
     "en": "Ah. It seems that you are rather{SAUT}exhausted, young ones.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "",
+    "fr": "Ah. Vous semblez plutôt{SAUT}épuises, jeunes gens.{ATTENTE}",
     "_occurrences": 3
   },
   {
@@ -565,7 +565,7 @@
     "locuteur": "Agastya Tree",
     "en": "Halting your journey here to rest for{SAUT}the time being may be a wise decision.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "",
+    "fr": "Faire une pause ici pour vous reposer{SAUT}un temps serait peut-être sage.{ATTENTE}",
     "_occurrences": 3
   },
   {
@@ -573,7 +573,7 @@
     "locuteur": "Agastya Tree",
     "en": "But I cannot inscribe your story{SAUT}onto myself.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "",
+    "fr": "Mais je ne peux graver ton histoire{SAUT}sur moi.{ATTENTE}",
     "_occurrences": 3
   },
   {
@@ -581,7 +581,7 @@
     "locuteur": "Agastya Tree",
     "en": "I am only keeping it for your sake until{SAUT}you depart again... Do not forget that...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "",
+    "fr": "Je la garde pour vous jusqu'à votre{SAUT}prochain départ... Ne l'oubliez pas...{ATTENTE}",
     "_occurrences": 3
   },
   {
@@ -589,7 +589,7 @@
     "locuteur": "Agastya Tree",
     "en": "Will you put a temporary halt to{SAUT}your journey?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "",
+    "fr": "Veux-tu suspendre temporairement{SAUT}ton voyage?{ATTENTE}",
     "_occurrences": 3
   },
   {
@@ -597,22 +597,22 @@
     "locuteur": "Agastya Tree",
     "en": "Young ones... I will remember the story{SAUT}of your journey for you.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "",
+    "fr": "Jeunes gens... Je retiendrai l'histoire{SAUT}de votre voyage.{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "E3.BIN:072:0000",
     "locuteur": "Yukino",
     "en": "We've come pretty far up. I think we're{SAUT}near the end.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "On a bien monte. Je crois qu'on{SAUT}approche de la fin.{ATTENTE}"
   },
   {
     "id": "E3.BIN:072:0001",
     "locuteur": "Yukino",
     "en": "I better get psyched for what's coming!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Je ferais mieux de me préparer!{ATTENTE}"
   },
   {
     "id": "E3.BIN:072:0002",
@@ -632,15 +632,15 @@
     "id": "E3.BIN:072:0004",
     "locuteur": "Nanjo",
     "en": "Be sure to check what you're using from{SAUT}time to time.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Vérifie ce que tu utilisés de temps{SAUT}en temps.{ATTENTE}"
   },
   {
     "id": "E3.BIN:072:0005",
     "locuteur": "Brown",
     "en": "Gaaaah! I'm so tired! For crying out{SAUT}loud, can't we take a little rest?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Gaaaah! Je suis crevé! Bon sang,{SAUT}on peut pas souffler un peu?{ATTENTE}"
   },
   {
     "id": "E3.BIN:072:0006",

@@ -1,0 +1,562 @@
+[
+  {
+    "id": "KOSIKI.BIN:resp:0026",
+    "en": "You don't say!(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0027",
+    "en": "I challenge you.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0029",
+    "en": "I didn't mean that.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0030",
+    "en": "What's so wrong!?(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0031",
+    "en": "I'm used to it.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0038",
+    "en": "What's reason?(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0041",
+    "en": "That's not it!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0045",
+    "en": "Umm... Umm...(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0047",
+    "en": "Yeah, that's right!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0049",
+    "en": "Hee hee hee...(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0056",
+    "en": "I've suffered!(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0063",
+    "en": "What'd you see!?(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0070",
+    "en": "On second thought...(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0073",
+    "en": "That's how I roll!(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0074",
+    "en": "Say, \"OK, dude!\"(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0075",
+    "en": "No problem!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0077",
+    "en": "It's a modern joke.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0079",
+    "en": "Hyahahaha!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0080",
+    "en": "I ain't suspicious!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0082",
+    "en": "Wahahaha!(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 7
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0083",
+    "en": "Stop messin' around!(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0092",
+    "en": "That's cute.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0094",
+    "en": "That's stupid.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0097",
+    "en": "Surprise!(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0098",
+    "en": "I'm stupid!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0099",
+    "en": "That's rude!(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0107",
+    "en": "How indulgent!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0109",
+    "en": "Take it afterward.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0110",
+    "en": "Stop joking!(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0111",
+    "en": "Happy now?(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0112",
+    "en": "I know...(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0114",
+    "en": "I'm industrious.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0116",
+    "en": "You're wrong.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0121",
+    "en": "I'll treat you well.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0124",
+    "en": "Care to try?(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0127",
+    "en": "What do you mean!?(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0130",
+    "en": "It's my business!(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0135",
+    "en": "You are a fool.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0136",
+    "en": "You'll adjust soon.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0137",
+    "en": "No can do.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0139",
+    "en": "Well, thanks...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0144",
+    "en": "I'll cherish it.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0145",
+    "en": "I'll beat you.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0148",
+    "en": "I'm strong.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0150",
+    "en": "Oh well...(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0151",
+    "en": "Hahahahaha!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0153",
+    "en": "You're beautiful.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0155",
+    "en": "The hell it'll open.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0157",
+    "en": "What, lady!?(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0159",
+    "en": "It's my first time.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0160",
+    "en": "Pretty? Yeah right!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0162",
+    "en": "That ain't true.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0164",
+    "en": "It was tough!(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0171",
+    "en": "It's the same.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0173",
+    "en": "It's different.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0174",
+    "en": "I'll protect you.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0176",
+    "en": "I would run.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0177",
+    "en": "You're ok with that?(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0179",
+    "en": "I'll pass.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 10
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0183",
+    "en": "It's a challenge.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0189",
+    "en": "You're young.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0190",
+    "en": "＊giggle＊(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0192",
+    "en": "Don't be angry...(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0193",
+    "en": "Son of a bitch.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0194",
+    "en": "You're a good girl.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0195",
+    "en": "I should stop...(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0196",
+    "en": "Oh, nothing.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0198",
+    "en": "I don't know reason.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0203",
+    "en": "No, it's okay.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0206",
+    "en": "It's my business.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0208",
+    "en": "Hey, what!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0209",
+    "en": "Ahahahaha!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0211",
+    "en": "That's so happy!(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0216",
+    "en": "Let's go play!(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0217",
+    "en": "No worries.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 10
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0219",
+    "en": "It's all good!(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0220",
+    "en": "But it suxorz...(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0222",
+    "en": "You got it!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0226",
+    "en": "Never mind...(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0227",
+    "en": "I'll play with you.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0228",
+    "en": "I'll deck you.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0231",
+    "en": "I'll do it!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0233",
+    "en": "Don't be scared.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0234",
+    "en": "You suxorz.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0238",
+    "en": "'Cause you're cute.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0239",
+    "en": "'Cause I hate you.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0241",
+    "en": "Scram!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0244",
+    "en": "Cut it...(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0246",
+    "en": "Heh... I'm good.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0248",
+    "en": "Heh... Nope.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0250",
+    "en": "Don't need it.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0255",
+    "en": "'Cause you're gross.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0260",
+    "en": "It'll be clear out.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0261",
+    "en": "It's nothing.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0267",
+    "en": "Ya want something?(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0270",
+    "en": "Leave me alone...(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0279",
+    "en": "I'll bury you.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0281",
+    "en": "Oooh.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0282",
+    "en": "You got a deathwish?(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:resp:0285",
+    "en": "You wanna die?(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 15
+  }
+]

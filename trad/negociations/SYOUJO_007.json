@@ -1,0 +1,56 @@
+[
+  {
+    "id": "SYOUJO.BIN:resp:0284",
+    "en": "How about the sky?(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0288",
+    "en": "We got business.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0289",
+    "en": "Get out of here.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0290",
+    "en": "Don't leave!(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0293",
+    "en": "You need something?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0295",
+    "en": "Shake your head(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0296",
+    "en": "Spread your arms(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0301",
+    "en": "We're not a match.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0303",
+    "en": "Snort(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  }
+]

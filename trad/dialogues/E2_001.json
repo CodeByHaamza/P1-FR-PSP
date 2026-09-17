@@ -406,29 +406,29 @@
     "id": "E2.BIN:011:0001",
     "locuteur": "Mark",
     "en": "Boxing is so cool! It looks like it{SAUT}would hurt, though.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "La boxe, c'est cool! Mais ça doit{SAUT}faire mal.{ATTENTE}"
   },
   {
     "id": "E2.BIN:011:0002",
     "locuteur": "Yukino",
     "en": "...I could lose some weight myself...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "...Moi aussi je devrais maigrir...{ATTENTE}"
   },
   {
     "id": "E2.BIN:011:0003",
     "locuteur": "Dieting club member",
     "en": "I'm trying to lose weight. Even the boxing{SAUT}gloves are starting to look like candy...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève au régime",
+    "fr": "J'essaie de perdre du poids. Même les{SAUT}gants de boxe me semblent des bonbons...{ATTENTE}"
   },
   {
     "id": "E2.BIN:011:0004",
     "locuteur": "Dieting club member",
     "en": "Hey! Don't open the lockers without{SAUT}permission! Our stuff's in there!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève au régime",
+    "fr": "Hé! N'ouvre pas les casiers sans{SAUT}permission! Nos affaires sont dedans!{ATTENTE}"
   },
   {
     "id": "E2.BIN:012:0000",
@@ -441,15 +441,15 @@
     "id": "E2.BIN:012:0001",
     "locuteur": "Mark",
     "en": "I heard there's a bunch of bows here.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Paraît qu'il y a plein d'arcs ici.{ATTENTE}"
   },
   {
     "id": "E2.BIN:012:0002",
     "locuteur": "Mark",
     "en": "I think I'll borrow one and mess around{SAUT}with it next time.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Un jour, j'en emprunterai un pour{SAUT}m'amuser un peu.{ATTENTE}"
   },
   {
     "id": "E2.BIN:012:0003",
@@ -469,15 +469,15 @@
     "id": "E2.BIN:013:0000",
     "locuteur": "Nanjo",
     "en": "Yamaoka used to take me to the ballet{SAUT}when I was small...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Yamaoka m'emmenait au ballet{SAUT}quand j'étais petit...{ATTENTE}"
   },
   {
     "id": "E2.BIN:013:0001",
     "locuteur": "Nanjo",
     "en": "I suppose he was trying to cultivate my{SAUT}aesthetic sensibilities.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Il voulait sans doute cultiver mon{SAUT}sens de l'esthétique.{ATTENTE}"
   },
   {
     "id": "E2.BIN:013:0002",
@@ -490,8 +490,8 @@
     "id": "E2.BIN:013:0003",
     "locuteur": "Yukino",
     "en": "Ballet, huh...? The Nutcracker is kinda{SAUT}neat, I always thought.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Du ballet...? Le casse-Noisette{SAUT}est joli, enfin, je trouve.{ATTENTE}"
   },
   {
     "id": "E2.BIN:013:0004",
@@ -511,8 +511,8 @@
     "id": "E2.BIN:013:0006",
     "locuteur": "Ballet club member",
     "en": "Did you know toe shoes are actually{SAUT}really hard?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Danseuse",
+    "fr": "Tu savais que les pointes sont très{SAUT}dures, en fait?{ATTENTE}"
   },
   {
     "id": "E2.BIN:013:0007",
@@ -525,22 +525,22 @@
     "id": "E2.BIN:013:0008",
     "locuteur": "Ballet club member",
     "en": "It was nice when they rebuilt the gym{SAUT}and we finally got our own room.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Danseuse",
+    "fr": "Quel bonheur, ce gymnase refait, on a{SAUT}enfin notre propre salle.{ATTENTE}"
   },
   {
     "id": "E2.BIN:013:0009",
     "locuteur": "Ballet club member",
     "en": "Back when we had to change in the{SAUT}classrooms, someone could have seen us!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Danseuse",
+    "fr": "Avant, on se changeait dans les salles{SAUT}de classe, on aurait pu nous voir!{ATTENTE}"
   },
   {
     "id": "E2.BIN:013:0010",
     "locuteur": "Ballet club member",
     "en": "Wait! Were you one of the pervs{SAUT}doing that!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Danseuse",
+    "fr": "Attends! T'étais un des pervers qui{SAUT}matait!?{ATTENTE}"
   },
   {
     "id": "E2.BIN:015:0000",
@@ -574,8 +574,8 @@
     "id": "E2.BIN:015:0004",
     "locuteur": "Art club member",
     "en": "Do you know those two?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Artiste",
+    "fr": "Vous connaissez ces deux-là?{ATTENTE}"
   },
   {
     "id": "E2.BIN:015:0005",
@@ -595,15 +595,15 @@
     "id": "E2.BIN:015:0007",
     "locuteur": "Art club member",
     "en": "Ah, I see. Well, the art club's going{SAUT}through a rough spot right now.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Artiste",
+    "fr": "Ah, je vois. Le club d'art traverse une{SAUT}mauvaise passe en ce moment.{ATTENTE}"
   },
   {
     "id": "E2.BIN:015:0008",
     "locuteur": "Art club member",
     "en": "I dunno, maybe this club's cursed...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Artiste",
+    "fr": "Ce club est peut-être maudit, qui sait...{ATTENTE}"
   },
   {
     "id": "E2.BIN:016:0000",
@@ -623,29 +623,29 @@
     "id": "E2.BIN:016:0002",
     "locuteur": "Yukino",
     "en": "Can we hurry and get to the hospital yet?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "On peut se dépêcher d'aller à l'hôpital?{ATTENTE}"
   },
   {
     "id": "E2.BIN:016:0003",
     "locuteur": "Male student",
     "en": "The sound system's all good to go in the{SAUT}new gym! The concert's gonna be bitchin'!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Lycéen",
+    "fr": "La sono est prêté dans le nouveau{SAUT}gymnase! Le concert va être d'enfer!{ATTENTE}"
   },
   {
     "id": "E2.BIN:016:0004",
     "locuteur": "Male student",
     "en": "I'm gonna skip Sports Day and hole up in{SAUT}the studio to practice!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Lycéen",
+    "fr": "Je vais sécher la fête du sport{SAUT}et rester au studio pour répéter!{ATTENTE}"
   },
   {
     "id": "E2.BIN:016:0005",
     "locuteur": "Rumor-loving boy",
     "en": "I heard a second-year named Yosuke went{SAUT}missing along with his girlfriend...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Fan de rumeurs",
+    "fr": "Il paraît qu'un deuxième année nommé{SAUT}Yosuke a disparu avec sa copine...{ATTENTE}"
   },
   {
     "id": "E2.BIN:016:0006",
@@ -658,7 +658,7 @@
     "id": "E2.BIN:016:0007",
     "locuteur": "Rumor-loving boy",
     "en": "Huh? Proof...? It's just male intuition!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Fan de rumeurs",
+    "fr": "Hein? Preuve...? Simple instinct viril!{ATTENTE}"
   }
 ]

@@ -337,22 +337,22 @@
     "id": "E2.BIN:056:0000",
     "locuteur": "Nanjo",
     "en": "Is no one home? Hmm... What an{SAUT}extraordinarily small house.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Personne? Hmm... Quelle{SAUT}maison si minuscule.{ATTENTE}"
   },
   {
     "id": "E2.BIN:056:0001",
     "locuteur": "Mark",
     "en": "Well, yeah, anyplace would look small{SAUT}next to yours!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ben ouais, tout paraît petit{SAUT}à côté de chez toi!{ATTENTE}"
   },
   {
     "id": "E2.BIN:056:0002",
     "locuteur": "Mark",
     "en": "Tch, this is why I can't stand rich{SAUT}dudes like you...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Tss voilà pourquoi je hais{SAUT}les riches comme toi...{ATTENTE}"
   },
   {
     "id": "E2.BIN:056:0003",
@@ -365,29 +365,29 @@
     "id": "E2.BIN:056:0004",
     "locuteur": "Yukino",
     "en": "I work part-time for myself, but she's{SAUT}doing it for her family...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Je bosse à mi-temps pour moi, mais elle{SAUT}c'est pour sa famille...{ATTENTE}"
   },
   {
     "id": "E2.BIN:056:0005",
     "locuteur": "Mark",
     "en": "Man... talk about a sob story!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Punaise... quel mélodrame!{ATTENTE}"
   },
   {
     "id": "E2.BIN:056:0006",
     "locuteur": "Mark",
     "en": "Yo Nanjo, why don't you work part-time{SAUT}to pay Yamaoka's salary yourself!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Yo Nanjo, bosse à mi-temps{SAUT}toi-même pour payer Yamaoka!?{ATTENTE}"
   },
   {
     "id": "E2.BIN:056:0007",
     "locuteur": "Yukino",
     "en": "Looks like Yuko isn't home yet.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "On dirait Yuko n'est pas là.{ATTENTE}"
   },
   {
     "id": "E2.BIN:057:0019",
@@ -400,15 +400,15 @@
     "id": "E2.BIN:064:0000",
     "locuteur": "Nurse",
     "en": "Hey! You have to wait your turn just{SAUT}like everyone else!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmière",
+    "fr": "Eh! Tu dois attendre ton tour comme{SAUT}tout le monde!{ATTENTE}"
   },
   {
     "id": "E2.BIN:064:0001",
     "locuteur": "Nurse",
     "en": "Now please leave!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmière",
+    "fr": "Sortez!{ATTENTE}"
   },
   {
     "id": "E2.BIN:065:0000",
@@ -421,64 +421,64 @@
     "id": "E2.BIN:065:0001",
     "locuteur": "Mark",
     "en": "Man, what's with him calling you Hiroshi?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Mec, pourquoi il t'appelle Hiroshi?{ATTENTE}"
   },
   {
     "id": "E2.BIN:065:0002",
     "locuteur": "Yukino",
     "en": "It must be rough on the nurse.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Dur pour l'infirmière.{ATTENTE}"
   },
   {
     "id": "E2.BIN:065:0003",
     "locuteur": "Old man",
     "en": "Look, Akiko, Hiroshi came to visit.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Vieil homme",
+    "fr": "Vois, Akiko, Hiroshi est venu.{ATTENTE}"
   },
   {
     "id": "E2.BIN:065:0004",
     "locuteur": "Nurse",
     "en": "That's right. Hiroshi's here...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmière",
+    "fr": "C'est vrai. Hiroshi ici...{ATTENTE}"
   },
   {
     "id": "E2.BIN:065:0005",
     "locuteur": "Old man",
     "en": "Thanks for coming all this way, Hiroshi.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Vieil homme",
+    "fr": "Merci d'être venu de loin, Hiroshi.{ATTENTE}"
   },
   {
     "id": "E2.BIN:065:0006",
     "locuteur": "Old man",
     "en": "Now you listen here, Hiroshi. A man's{SAUT}soul is a complex thing.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Vieil homme",
+    "fr": "Écoute, Hiroshi. L'âme d'un homme{SAUT}est complexé.{ATTENTE}"
   },
   {
     "id": "E2.BIN:065:0007",
     "locuteur": "Old man",
     "en": "The things a person shows to the outside{SAUT}world isn't necessarily what he thinks.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Vieil homme",
+    "fr": "Ce qu'une personne montre au monde{SAUT}n'est pas forcément ce qu'elle pense.{ATTENTE}"
   },
   {
     "id": "E2.BIN:065:0008",
     "locuteur": "Old man",
     "en": "You have to dig deep to find out the{SAUT}truth they're hiding...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Vieil homme",
+    "fr": "Il faut chercher profond pour trouver{SAUT}la vérité cachée...{ATTENTE}"
   },
   {
     "id": "E2.BIN:065:0009",
     "locuteur": "Old man",
     "en": "I see. I'm glad to hear you're enjoying{SAUT}school.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Vieil homme",
+    "fr": "Je vois. Content que tu aimes{SAUT}l'école.{ATTENTE}"
   },
   {
     "id": "E2.BIN:065:0010",
@@ -491,8 +491,8 @@
     "id": "E2.BIN:066:0000",
     "locuteur": "Nurse",
     "en": "Hm? Aren't you Maki Sonomura's friend?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmière",
+    "fr": "Eh? T'es pas Maki l'ami Sonomura?{ATTENTE}"
   },
   {
     "id": "E2.BIN:066:0002",
@@ -505,50 +505,50 @@
     "id": "E2.BIN:066:0003",
     "locuteur": "Nanjo",
     "en": "Is that so...? You're unexpectedly{SAUT}nice to her, I see.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Ah bon...? T'es étonnamment{SAUT}gentil avec elle, je vois.{ATTENTE}"
   },
   {
     "id": "E2.BIN:066:0004",
     "locuteur": "Yukino",
     "en": "Leave him alone, Nanjo.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Laisse-le, Nanjo.{ATTENTE}"
   },
   {
     "id": "E2.BIN:067:0000",
     "locuteur": "Nanjo",
     "en": "There aren't many at this hospital whom{SAUT}Maki could converse with.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Il n'y a pas grand monde à l'hôpital{SAUT}avec qui Maki puisse parler.{ATTENTE}"
   },
   {
     "id": "E2.BIN:067:0001",
     "locuteur": "Nanjo",
     "en": "Small wonder she doesn't feel like{SAUT}leaving her room, if that's the case...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Pas étonnant qu'elle ne veuille pas{SAUT}quitter sa chambre, si c'est le cas...{ATTENTE}"
   },
   {
     "id": "E2.BIN:067:0002",
     "locuteur": "Mark",
     "en": "Maki's room is the second one, straight{SAUT}down from here.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "La chambre de Maki est juste{SAUT}au bout, tout droit.{ATTENTE}"
   },
   {
     "id": "E2.BIN:067:0003",
     "locuteur": "Yukino",
     "en": "It was a good call, coming here. I'm sure{SAUT}Maki will be glad to see us.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Bonne idée de venir. Je suis sûre{SAUT}Maki sera ravie de nous voir.{ATTENTE}"
   },
   {
     "id": "E2.BIN:067:0004",
     "locuteur": "Patient",
     "en": "A high school girl? Hmm... I've never{SAUT}seen her, I don't think.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Patient",
+    "fr": "Une lycéenne? Hum... Je n'ai jamais{SAUT}vu ça, je crois pas.{ATTENTE}"
   },
   {
     "id": "E2.BIN:067:0005",
@@ -561,22 +561,22 @@
     "id": "E2.BIN:067:0006",
     "locuteur": "Patient",
     "en": "There's a girl on this floor who looked{SAUT}like she was in high school...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Patient",
+    "fr": "Il y a une fille à cet étage qui{SAUT}avait l'air d'être au lycée...{ATTENTE}"
   },
   {
     "id": "E2.BIN:067:0007",
     "locuteur": "Patient",
     "en": "But sometimes I hear a little girl's{SAUT}voice from her room.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Patient",
+    "fr": "Parfois j'entends la voix{SAUT}d'une fille dans sa chambre.{ATTENTE}"
   },
   {
     "id": "E2.BIN:067:0008",
     "locuteur": "Patient",
     "en": "There's only one bed in there... Does she{SAUT}have a sister or someone visiting her?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Patient",
+    "fr": "Il n'y a qu'un lit ici... Elle a une{SAUT}soeur ou quelqu'un qui vient la voir?{ATTENTE}"
   },
   {
     "id": "E2.BIN:068:0000",
@@ -589,57 +589,57 @@
     "id": "E2.BIN:068:0001",
     "locuteur": "Mark",
     "en": "Oh, crap! Y'think I should've brought{SAUT}flowers or something?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Merde! Tu te dis fallait apporter{SAUT}des fleurs ou un truc?{ATTENTE}"
   },
   {
     "id": "E2.BIN:068:0002",
     "locuteur": "Mark",
     "en": "Well, too late now!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Bon, trop tard!{ATTENTE}"
   },
   {
     "id": "E2.BIN:068:0003",
     "locuteur": "Yukino",
     "en": "C'mon, Maki's waiting.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Allez, Maki attend.{ATTENTE}"
   },
   {
     "id": "E2.BIN:068:0004",
     "locuteur": "Nurse",
     "en": "Are you Maki's friends? I'm glad you came.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmière",
+    "fr": "Vous amis de Maki? Ravi de vous voir.{ATTENTE}"
   },
   {
     "id": "E2.BIN:068:0005",
     "locuteur": "Nurse",
     "en": "You know she's been in and out of the{SAUT}hospital since she was a child, right?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmière",
+    "fr": "Tu sais qu'elle va et vient de cet{SAUT}hôpital depuis qu'elle est enfant?{ATTENTE}"
   },
   {
     "id": "E2.BIN:068:0006",
     "locuteur": "Nurse",
     "en": "I always worried about her keeping up{SAUT}her friendships...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmière",
+    "fr": "Je me suis toujours inquiétée pour ses{SAUT}amitiés...{ATTENTE}"
   },
   {
     "id": "E2.BIN:068:0007",
     "locuteur": "Nurse",
     "en": "I can hardly believe it!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmière",
+    "fr": "Dur à croire!{ATTENTE}"
   },
   {
     "id": "E2.BIN:068:0008",
     "locuteur": "Nurse",
     "en": "Her only daughter is in the hospital and{SAUT}she hasn't visited even once!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmière",
+    "fr": "Sa seule fille est à l'hôpital et{SAUT}elle n'est jamais venue voir!{ATTENTE}"
   },
   {
     "id": "E2.BIN:068:0009",
@@ -652,7 +652,7 @@
     "id": "E2.BIN:068:0010",
     "locuteur": "Nurse",
     "en": "Poor Maki...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Inf",
+    "fr": "Pauvre Maki...{ATTENTE}"
   }
 ]

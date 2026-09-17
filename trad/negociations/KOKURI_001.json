@@ -1,0 +1,514 @@
+[
+  {
+    "id": "KOKURI.BIN:text:0000",
+    "en": "...I... S-E-E...{SAUT}(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0001",
+    "en": "  ...N-O...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0002",
+    "en": "  ...H-E-E... H-E-E...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 8
+  },
+  {
+    "id": "KOKURI.BIN:text:0003",
+    "en": "   ...I... S-E-E...{SAUT}(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0004",
+    "en": "  ...K-I-L-L...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOKURI.BIN:text:0005",
+    "en": "  ...O-H... C-R-A-P...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOKURI.BIN:text:0006",
+    "en": "   ...I... S-E-E...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 33
+  },
+  {
+    "id": "KOKURI.BIN:text:0007",
+    "en": "   ...N-O...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "KOKURI.BIN:text:0008",
+    "en": "  ...W-H-Y... ?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 10
+  },
+  {
+    "id": "KOKURI.BIN:text:0009",
+    "en": "  ...S-H-U-T... U-P...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0010",
+    "en": "   ...C-R-U-E-L...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOKURI.BIN:text:0011",
+    "en": "...H-A... H-A...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOKURI.BIN:text:0015",
+    "en": "   ...S-H-U-T... U-P...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 12
+  },
+  {
+    "id": "KOKURI.BIN:text:0016",
+    "en": "   ...W-H-Y... ?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "KOKURI.BIN:text:0017",
+    "en": "  ...H-A... H-A...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "KOKURI.BIN:text:0020",
+    "en": "   ...H-A... H-A...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 11
+  },
+  {
+    "id": "KOKURI.BIN:text:0025",
+    "en": "   ...K-I-L-L...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 12
+  },
+  {
+    "id": "KOKURI.BIN:text:0034",
+    "en": "   ...H-E-E... H-E-E...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 7
+  },
+  {
+    "id": "KOKURI.BIN:text:0037",
+    "en": "  ...C-R-U-E-L...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 10
+  },
+  {
+    "id": "KOKURI.BIN:text:0038",
+    "en": "...I... S-E-E...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 7
+  },
+  {
+    "id": "KOKURI.BIN:text:0051",
+    "en": "   ...Y-O-U... S-U-C-K...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOKURI.BIN:text:0052",
+    "en": " ...H-A... H-A...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOKURI.BIN:text:0063",
+    "en": "   ...O-H... C-R-A-P...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOKURI.BIN:text:0086",
+    "en": "...K-I-L-L...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOKURI.BIN:text:0088",
+    "en": "...H-E-E... H-E-E...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOKURI.BIN:text:0104",
+    "en": "...S-H-U-T... U-P...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0112",
+    "en": "   ...S-H-U-T... U-P... G-I-V-E... M-E...{SAUT}S-O-M-E-T-H-I-N-G...[FFF1](*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 8
+  },
+  {
+    "id": "KOKURI.BIN:text:0123",
+    "en": "...C-R-U-E-L...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOKURI.BIN:text:0128",
+    "en": "   ...W-I-L-L... K-I-L-L... Y-O-U...{SAUT}G-I-V-E... M-E... S-O-M-E-T-H-I-N-G...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0129",
+    "en": "  ...W-I-L-L... K-I-L-L... Y-O-U...{SAUT}G-I-V-E... M-E... S-O-M-E-T-H-I-N-G...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0136",
+    "en": "   ...C-A-N-'-T... S-T-A-N-D... S-I-G-H-T...{SAUT}O-F... Y-O-U... G-I-V-E... M-E...{SAUT}S-O-M-E-T-H-I-N-G...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0137",
+    "en": "  ...C-A-N-'-T... S-T-A-N-D... S-I-G-H-T...{SAUT}O-F... Y-O-U... G-I-V-E... M-E...{SAUT}S-O-M-E-T-H-I-N-G...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0158",
+    "en": "   ...H-A-V-E... C-A-R-D...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0159",
+    "en": "   ...T-H-I-S... I-S... F-O-R... Y-O-U...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0160",
+    "en": " ...R-E-A-L-L-Y... N-O-W...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0161",
+    "en": " ...N-O...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0162",
+    "en": "  ...N-O... T-O-O... W-E-A-K...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0163",
+    "en": "  ...T-H-I-S... I-S... F-O-R... Y-O-U...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0164",
+    "en": " ...G-O-O-D... B-Y-E...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0165",
+    "en": " ...T-A-K-E... T-H-I-S... W-I-T-H...{SAUT}Y-O-U... T-O-O...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0166",
+    "en": "  ...H-U-R-R-Y... U-P... A-N-D...{SAUT}C-H-O-O-S-E...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0167",
+    "en": " ...T-A-K-E... T-H-I-S...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0168",
+    "en": "   ...G-O... H-O-M-E...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0169",
+    "en": "   ...I-'-M... L-E-A-V-I-N-G... !...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0170",
+    "en": "  ...I-'-L-L... G-I-V-E... T-H-I-S... T-O...{SAUT}A... M-O-R-O-N... !...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0171",
+    "en": "  ABCDEFGHIJKLMNOPQRSTUVWXYZ{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0172",
+    "en": "{PAGE}Ugh, screw this! I get all irritated{SAUT}if I don't talk normally sometimes.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0173",
+    "en": "   ＊yip＊ I'm not in the mood to use the{SAUT}board this time, so I'll just give you{SAUT}my card.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0174",
+    "en": "   You seem pretty amazing for a human.{SAUT}Let's just talk like normal.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0175",
+    "en": "  ＊yip＊ Not only that, I'll give you my{SAUT}card, too. Gracious, aren't I?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0176",
+    "en": "   ...L-I-K-E... I-T... A... L-O-T...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0177",
+    "en": " ...T-H-I-S... I-S... F-O-R... Y-O-U...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0178",
+    "en": " Alright, I'll talk normally... Just stop{SAUT}scaring me so much...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0179",
+    "en": " C'mon, I'll give you my card. You won't{SAUT}have any complaints if I do that, right?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0180",
+    "en": "   ...G-I-V-E... M-E... S-O-M-E-T-H-I-N-G...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0181",
+    "en": " ...G-I-V-E... M-E... S-O-M-E-T-H-I-N-G...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0182",
+    "en": " ...G-I-M-M-E... S-O-M-E-T-H-I-N-G...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0183",
+    "en": "  ...H-A-N-D... S-O-M-E-T-H-I-N-G...{SAUT}O-V-E-R...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0184",
+    "en": " ...I... W-A-N-T... S-O-M-E-T-H-I-N-G...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0185",
+    "en": "   ...I... W-A-N-T... S-O-M-E-T-H-I-N-G...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0186",
+    "en": "   ＊yip＊ A full moon! This is so awesome!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0187",
+    "en": "{PAGE}Oh crap, I talked normally! Eh, oh well.{SAUT}＊yip＊(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0188",
+    "en": " ＊yip＊ That full moon feels great...{SAUT}By the way, human, do you know who I am?[FFFD]É[F500] [FFEE]...G-I-V-E... M-E... S-O-M-E-T-H-I-N-G...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0189",
+    "en": "[FFED]...H-A-N-D... S-O-M-E-T-H-I-N-G...{SAUT}O-V-E-R...[FFF1](*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOKURI.BIN:text:0190",
+    "en": "[FFEE]...G-I-V-E... M-E... S-O-M-E-T-H-I-N-G...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0191",
+    "en": "[FFEC]...I... W-A-N-T... S-O-M-E-T-H-I-N-G...[FFF1](*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOKURI.BIN:text:0192",
+    "en": "  [FFEE]...G-I-V-E... M-E... S-O-M-E-T-H-I-N-G...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0193",
+    "en": "[FFEB]...G-I-V-E... M-E... S-O-M-E-T-H-I-N-G...[FFF1](*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOKURI.BIN:text:0196",
+    "en": "  [FFED]...H-A-N-D... S-O-M-E-T-H-I-N-G...{SAUT}O-V-E-R...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0199",
+    "en": "  [FFEB]...G-I-V-E... M-E... S-O-M-E-T-H-I-N-G...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0200",
+    "en": "...L-I-K-E... Y-O-U... W-H-A-T... D-O...{SAUT}Y-O-U... W-A-N-T... ?...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0201",
+    "en": "  ...B-O-R-I-N-G... D-I-E... !...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0202",
+    "en": "...S-O... S-C-A-R-Y... S-C-A-R-E-D...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0203",
+    "en": "  ...S-O... N-I-C-E...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0204",
+    "en": "   ...B-O-R-I-N-G... B-U-T... I... W-I-L-L...{SAUT}L-I-S-T-E-N... T-O... Y-O-U-R...{SAUT}R-E-Q-U-E-S-T...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0205",
+    "en": "   I... W-I-L-L... L-I-S-T-E-N... T-O... {SAUT}Y-O-U-R... R-E-Q-U-E-S-T...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0206",
+    "en": " ...Y-O-U-'-R-E... F-U-N-N-Y... T-E-L-L...{SAUT}M-E... W-H-A-T... Y-O-U... W-A-N-T...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0207",
+    "en": "...W-E-I-R-D... H-U-M-A-N...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0208",
+    "en": "   ...L-A-M-E... !...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0209",
+    "en": " ...Y-O-U-R-'-E... A-M-A-Z-I-N-G... !...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0210",
+    "en": "...M-O-N-E-Y...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0211",
+    "en": "＊yip＊(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOKURI.BIN:text:0212",
+    "en": "  ...F-O-O-L...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOKURI.BIN:text:0213",
+    "en": "  ...C-O-M-P-L-E-T-E... L-E-T-D-O-W-N...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOKURI.BIN:text:0214",
+    "en": " ...K-I-L-L...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOKURI.BIN:text:0216",
+    "en": "  ...L-I-F-E... S-T-O-N-E...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0217",
+    "en": " ＊yip＊(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOKURI.BIN:text:0222",
+    "en": "  ...G-E-M...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0224",
+    "en": "  ＊whine＊(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0227",
+    "en": "  ...E-N-E-R-G-Y...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0231",
+    "en": "  No, that's Comet. I like her too,{SAUT}you know.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0232",
+    "en": "No, that's a brokery. Dude, don't mistake{SAUT}me for one of those sharks...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0233",
+    "en": "That's jiggery-pokery! You got it wrong,{SAUT}so I'm gonna curse you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:text:0234",
+    "en": "   That's jiggery-pokery! You got it wrong,{SAUT}so I'm gonna curse you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:resp:0000",
+    "en": "An alien?(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOKURI.BIN:resp:0001",
+    "en": "An insurance agent?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  }
+]

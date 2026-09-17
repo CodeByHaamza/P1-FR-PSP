@@ -1,0 +1,483 @@
+[
+  {
+    "id": "KOUMAN.BIN:resp:0192",
+    "en": "'Course not.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0194",
+    "en": "Impossible.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0196",
+    "en": "Case by case.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0198",
+    "en": "You're mysterious.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0199",
+    "en": "Ex Files.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0200",
+    "en": "This unknown world.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0205",
+    "en": "A hymn(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0206",
+    "en": "Kabuki rock(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0207",
+    "en": "You.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0209",
+    "en": "Gems.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0210",
+    "en": "17(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0211",
+    "en": "24(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0213",
+    "en": "Don't be upset...(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0214",
+    "en": "But you're talking.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0215",
+    "en": "Then smile for me.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0220",
+    "en": "Discount!(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0223",
+    "en": "This is fishy...(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0224",
+    "en": "I will.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0226",
+    "en": "No way in hell.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0227",
+    "en": "I have.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0231",
+    "en": "Oh yeah? Prove it.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0232",
+    "en": "Waaaaaaah!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0235",
+    "en": "Anyone will do.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0236",
+    "en": "Just a little.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0238",
+    "en": "Waaaaaaaaaaah!(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0241",
+    "en": "I'll throw in extra.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0244",
+    "en": "Totally okay!(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0245",
+    "en": "Talk(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0247",
+    "en": "Don't talk(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0248",
+    "en": "Cry more(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0249",
+    "en": "Acknowledge the lie(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0250",
+    "en": "Play it off(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0258",
+    "en": "Threaten more(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0261",
+    "en": "I'm normal.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0262",
+    "en": "How touching.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0264",
+    "en": "Prove it.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0265",
+    "en": "Forgive me.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0268",
+    "en": "Anyone'll do.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0272",
+    "en": "Spell card.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0273",
+    "en": "Jewels.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0274",
+    "en": "Awakening.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0283",
+    "en": "Scold(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0284",
+    "en": "Death is scary, huh?(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0285",
+    "en": "If that's in vain...(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0286",
+    "en": "Death isn't scary.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0287",
+    "en": "Thank(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0290",
+    "en": "Keep ignoring(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 12
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0291",
+    "en": "Ignore a little(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0292",
+    "en": "Quit ignoring(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0294",
+    "en": "Heh...(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0295",
+    "en": "Clear sky tomorrow?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0296",
+    "en": "Haha.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0303",
+    "en": "Smirk(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 16
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0305",
+    "en": "Sideways glare(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0306",
+    "en": "Laugh loudly(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0308",
+    "en": "Don't screw with me.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0309",
+    "en": "I'll take you out.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0310",
+    "en": "I'll kill you.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0315",
+    "en": "I have my gun.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0317",
+    "en": "You're the dead one.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0318",
+    "en": "You'll die with me.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0319",
+    "en": "I won't die.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0320",
+    "en": "I'm mimicking you.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0322",
+    "en": "Magic to kill you.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0323",
+    "en": "Give me a spell.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0324",
+    "en": "Scram.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0325",
+    "en": "There's no point.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0327",
+    "en": "Depends...(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0330",
+    "en": "That'll cost ya.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0332",
+    "en": "Do another trick(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0334",
+    "en": "Ask for donations(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0335",
+    "en": "I'm going home.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0336",
+    "en": "Try to cut me!(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0337",
+    "en": "We've got problems.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0340",
+    "en": "You leave us.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0341",
+    "en": "Don't lie.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0342",
+    "en": "That's incredible.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0343",
+    "en": "I'll write it in.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0344",
+    "en": "I'll go with you.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0347",
+    "en": "I'm not stupid.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0348",
+    "en": "I'm not an idiot.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0349",
+    "en": "You're a fool.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0350",
+    "en": "Look it in the eye(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0351",
+    "en": "Maybe a slime...(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0352",
+    "en": "Look away(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0353",
+    "en": "Too bad(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0354",
+    "en": "You're the fool.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0355",
+    "en": "Wake up.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0356",
+    "en": "I don't fear death.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0357",
+    "en": "Death is natural.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0358",
+    "en": "Being alive matters.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0361",
+    "en": "I'm unlucky.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:resp:0363",
+    "en": "I'm only human.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  }
+]

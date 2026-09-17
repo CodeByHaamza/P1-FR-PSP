@@ -1,0 +1,503 @@
+[
+  {
+    "id": "POLUTAR.BIN:text:0000",
+    "en": "Hyuk hyuk! I like the way you talk,{SAUT}mister.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0001",
+    "en": "{PAGE}It makes me wanna listen more. No lie![FFFD]É[F500]  Uuuurgh! That's not what I wanna hear!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0002",
+    "en": " Ooohehehe! You need me? A [FFF0]?[FFFD]α[F500] You're trying to taunt me like that...?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0003",
+    "en": "{PAGE}Hyuk hyuk! You're funny, mister!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0004",
+    "en": "  Uuurrrrgh! You wanna fight!?[FFFD][02FF][F500] Hyuk... Wh-What did I do...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0005",
+    "en": "   Hyuk hyuk! I think I'm starting to{SAUT}believe what you say...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0006",
+    "en": " It's not easy to pick me up, you know!{SAUT}I'm not a cheap [FFF0]!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0007",
+    "en": "  Hyuk... Your face is scary when you talk{SAUT}to me, mister...[FFFD][03FF][F500]Uuuurrrgh! My brain is rotting!{SAUT}I hate stuff that rots!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0008",
+    "en": "Hyuk... Your throat's all messed up,{SAUT}mister...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0009",
+    "en": " Ooohehehe! You rock, mister! Encore!{SAUT}Encore! Sing another song![FFFD][04FF][F500]  Why are you so desperate? Hyuk hyuk{SAUT}hyuk hyuk!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0010",
+    "en": " No way!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "POLUTAR.BIN:text:0011",
+    "en": "You need me? Really? Yaaaaaay!{SAUT}I'm so happy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0012",
+    "en": "   Uuuurrrgh! I won't fall for your{SAUT}sweet talk, lady!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0013",
+    "en": " Eep... M-Miss... Are you scheming{SAUT}something...?[FFFD][05FF][F500]  Ooohehehe! You really know how it feels{SAUT}to be a [FFF0], lady.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0014",
+    "en": "{PAGE}Maybe you're a ghost too?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0015",
+    "en": "Hyuk hyuk! You say some funny things{SAUT}sometimes, lady!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0016",
+    "en": "{PAGE}How do you come up with your jokes?[FFFD][06FF][F500]   There's no way that's true! You must be{SAUT}dumb! Stupidhead!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0017",
+    "en": "  Ooohehehe! I always knew it! I just{SAUT}had that feeling...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0018",
+    "en": "Hyuk hyuk! Why are you so scared?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0019",
+    "en": "  Uuuurrrrgh! You're even noisier than me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0020",
+    "en": "   Ooohehehe! I'm scary! Rarrr!{SAUT}Oooheeheeheeee!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0021",
+    "en": "   Hyuk hyuk! Mister, are you... an idiot?{SAUT}Are you? Huh?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0022",
+    "en": "{PAGE}How dumb can you be, hitting on me?{SAUT}Stupidhead! You're hopeless!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0023",
+    "en": "Uuuurrrrgh! I'm a BOY! Don't mess with{SAUT}me, or I'll cut you![FFFD][07FF][F500]  Eeep... You're kidding, right...?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0024",
+    "en": "{PAGE}Could you say that stuff to Silvie{SAUT}instead of me...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0025",
+    "en": "[0A89]   Ooohehehe! Good eye, mister!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0026",
+    "en": "{PAGE}There's no [FFF0] cuter{SAUT}than us!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0027",
+    "en": "  Hyuk hyuk! Your jokes are awesome,{SAUT}mister. They never get old!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0028",
+    "en": " Was that supposed to be funny? Ooh...{SAUT}Urge to kill... rising... Go to hell!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0029",
+    "en": "Yikes... Th-That was real lame...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0030",
+    "en": "  Ooohehehe! Ooohehehe! Oooooheeeheeheee![FFFD][08FF][F500]  Hyuk hyuk! And then? And then?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0031",
+    "en": " So what? Just 'cause I'm a [FFF0]{SAUT}doesn't mean I have time to waste!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0032",
+    "en": "Ooohehehe! I like pointless stories{SAUT}like that.[FFFD][09FF][F500]   Hyuk hyuk! You fell for it, just like{SAUT}I hoped!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0033",
+    "en": " Uuuurrrgh! What was that for, you brown-{SAUT}haired meanie!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0034",
+    "en": "   Yikes... What an old trick... That's not{SAUT}very good, mister.[FFFD][0AFF][F500]  Hyuk hyuk! Huh? What's that? It looks{SAUT}even yummier than life stones!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0035",
+    "en": "   Uuuurrrgh! Don't make fun of me, you rich{SAUT}jerk! I don't want that stuff!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0036",
+    "en": "{PAGE}I want something else![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0037",
+    "en": "  Oooh, I like that. Are you gonna give it{SAUT}to me? Ooohehehe![FFFD][0BFF][F500]   Hyuk hyuk! You must be a rationalist,{SAUT}mister. I like those guys.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0038",
+    "en": "   Uuuurrrrgh! How dare you go on and on{SAUT}about [FFF0]!?[FFFD][0CFF][F500]  Ooohehehe! You're so right, mister!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0039",
+    "en": "Hyuk hyuk! Th-That was so cool... I wish{SAUT}I could say stuff like that.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0040",
+    "en": "  Don't make fun of me you rich jerk!{SAUT}You're the one people should be making{SAUT}fun of!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0041",
+    "en": " Eep...! I-I'm scared...![FFFD][0DFF][F500] Huh, so that's how people see us.{SAUT}I learned something new today![FFFD][0EFF][F500] Grrrr! Your face is already a disgrace!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0042",
+    "en": "Ooohehehe! Well said! La la la, la la{SAUT}la la laaa...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0043",
+    "en": "Hyuk hyuk! So that's how they dance{SAUT}in Shibuya!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0044",
+    "en": "Huh? Don't try to dance when you can't{SAUT}even fly!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0045",
+    "en": "{PAGE}Just call it off, mister! There's no{SAUT}reason to push yourself too hard!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0046",
+    "en": "   Not bad, mister! But I'm waaaaaay better{SAUT}than you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0047",
+    "en": " Hyuk hyuk! Are you gonna come after me?{SAUT}Or should I go after you?[FFFD][0FFF][F500]Uuuurrrrgh! Talk normal, idiot!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0048",
+    "en": "Eep... I'm scared, and I'm not even{SAUT}sure why!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0049",
+    "en": "  Hyuk hyuk! Aren't you staring at the{SAUT}wrong person, mister?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0050",
+    "en": " Are you making fun of me? Do you think{SAUT}I'm a lowly [FFF0]!? Grrr...{SAUT}That's really annoying!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0051",
+    "en": " Ooohehehe! Do you need something from{SAUT}me? What is it? C'mon, tell me![FFFD][10FF][F500]Hyuk hyuk! Wow, I didn't know that!{SAUT}But it sounds so fake...[FFFD][11FF][F500] There's no way that's true! Are you{SAUT}stupid mister? You big dummy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0052",
+    "en": "  Ooohehehe! I knew it! I just had{SAUT}this feeling...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0053",
+    "en": "   Uuuurrrrgh! I'm a [FFF0]!{SAUT}Don't make fun of us demons!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0054",
+    "en": "  Yikes... ＊shiver＊(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0055",
+    "en": "  I'm scarier than that story! Hey, tell{SAUT}me another one.[FFFD][12FF][F500]   Wow, lady! You have a cool American{SAUT}accent! Do you come from the same{SAUT}place I do?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0056",
+    "en": "  Uuuurrrrgh! I don't like anything{SAUT}except rap! C'mon, drop some rhymes![FFFD][13FF][F500]   Ooohehehehe! That song's cute!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0057",
+    "en": " Hyuk hyuk! You say some pretty cute{SAUT}things, lady.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0058",
+    "en": "  Uuuurrrgh! I'm not a kid like you think{SAUT}I am!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0059",
+    "en": "  Oooohehehehe! Wanna act like a baby,{SAUT}too? The more, the better![FFFD][14FF][F500]  Hyuk hyuk! It must be tough for you too,{SAUT}lady. Maybe next time, if I'm free, I'll{SAUT}be up for it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0060",
+    "en": "It's not easy to pick me up, you know!{SAUT}I'm not a cheap [FFF0]!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0061",
+    "en": "  Ooohehehe! I guess I'm still useful!{SAUT}Ooohehehehehehe!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0062",
+    "en": "  Hyuk hyuk! You've got style, lady!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0063",
+    "en": "{PAGE}No [FFF0] could ever say such{SAUT}horrible things!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0064",
+    "en": "  Don't make fun of me, you bimbo!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0065",
+    "en": "   Eep... N-No way... I can't believe you{SAUT}went that far...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0066",
+    "en": "Hyuk hyuk! What do you want with me, lady?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0067",
+    "en": "{PAGE}My spell card, maybe?[FFFD][15FF][F500]Uuuurrrgh! Wh-What do you want me to do!?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0068",
+    "en": "{PAGE}I don't understand! It's too hard!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0069",
+    "en": "  Yay! Yaaaaay! Let's do it! You're the{SAUT}best, lady!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0070",
+    "en": "  Hyuk hyuk! You're a weird lady. There's{SAUT}drool coming out your eyes!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0071",
+    "en": "So what? Too much trouble!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0072",
+    "en": " Yikes... The human world is a scary{SAUT}place, huh...?[FFFD][16FF][F500]   Hyuk hyuk! Does that mean you're gonna{SAUT}cut off my head?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0073",
+    "en": "{PAGE}Teeheehee... I don't even have a neck!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0074",
+    "en": "Uuuurrrgh! Don't make fun of me!{SAUT}You stupid, dumb, doodyhead!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0075",
+    "en": "  Eeep... I-I see...[FFFD][17FF][F500]   How could you say something like that!?{SAUT}That's just like a grown-up! You suck!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0076",
+    "en": " Eep... Y-You don't hate me, do you,{SAUT}lady...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0077",
+    "en": "   Ooohehehehe! Do it again! Again![FFFD][18FF][F500] Hyuk hyuk! You really know everything,{SAUT}huh lady? You're amazing![FFFD][19FF][F500] Just 'cause you're more grown up doesn't{SAUT}mean you can be cocky, lady!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0078",
+    "en": "  Ooohehehe! I knew that already!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0079",
+    "en": "{PAGE}I'm smart, huh? Ooohehehehe!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0080",
+    "en": "  I'm a [FFF0], you know!{SAUT}It's normal for us to do that stuff!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0081",
+    "en": "Yikes... Okay... I understand...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0082",
+    "en": "   Ooohehehehe! I mean, I'm not even out{SAUT}of preschool yet!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0083",
+    "en": "Hey, lady. If you know neat stuff, let's{SAUT}talk! Please...?[FFFD][1AFF][F500]What are you looking at!? Uuuurrrrgh!{SAUT}You're SO aggravating!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0084",
+    "en": "   D... Did I do something bad...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0085",
+    "en": "Hyuk hyuk! Hey, what is it? Tell me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0086",
+    "en": "   Uuuurrrrgh! What are you looking at?{SAUT}Don't make me kill you...![FFFD][1BFF][F500]  Y-Yikes... Be honest with me, mister...{SAUT}You're gonna attack, aren't you...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0087",
+    "en": "Hyuk hyuk! You're pretty good at making{SAUT}cool threats, mister.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0088",
+    "en": "  Uuuurrrrgh! I'm not scared at all!{SAUT}You'll see!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0089",
+    "en": " Eep... Th-That's not true...{SAUT}I can still come out on top!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0090",
+    "en": "  Uuuurrrrgh! Uuuurrrrgh! Uuuurrrrgh!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0091",
+    "en": "Eep... eep... eeeeep...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0092",
+    "en": "Oooohehehe! Oooohehehe! Oooohehehe!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0093",
+    "en": "Are you a magician, mister? C-Could you{SAUT}teach me a trick or two sometime...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0094",
+    "en": "   Eeep... Warlocks are scary...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0095",
+    "en": "  Ooohehehe! Your tricks are the best,{SAUT}mister!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0096",
+    "en": "{PAGE}You're so good I bet Mr. Loki would get{SAUT}all jealous of you. Ooohehehehe!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0097",
+    "en": " Hyuk hyuk! I don't really get it, but{SAUT}that's an interesting story.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0098",
+    "en": " Hyuk hyuk! Human stories are so{SAUT}interesting...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0099",
+    "en": "{PAGE}Hey, you're in the mood to give me{SAUT}something just 'cause, right?[FFF1](*RESPONSE*)",
+    "fr": ""
+  }
+]

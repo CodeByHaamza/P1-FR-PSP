@@ -1,0 +1,504 @@
+[
+  {
+    "id": "KOUMAN.BIN:text:0000",
+    "en": "Hmm... Your opinion is foolish, but{SAUT}amusing nonetheless. Consider yourself{SAUT}lucky.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0001",
+    "en": "{PAGE}What? You think I would give my spell{SAUT}card to the likes of you?[FFFD]É[F500]   Hmm... You are an interesting human to{SAUT}so boldly attempt to sway me to your{SAUT}side! Do you not value your life?[FFFD]α[F500]Ha! Do you truly think I could obey{SAUT}beings as weak and foolish as humans!?[FFFD][02FF][F500]   Silence! Your words are meaningless![FFFD][03FF][F500] Muahaha! You say such asinine things.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0002",
+    "en": "{PAGE}I ask of you: what value do you place{SAUT}on my spell card?[FFFD][04FF][F500]   As I expected! The weaker the being, the{SAUT}more desperate they are for my help!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0003",
+    "en": "{PAGE}I, [FFF3], walk amongst you{SAUT}as a god, wouldn't you agree?[FFFD][05FF][F500]  Muahaha! No feeling is greater than{SAUT}watching the weak put on such a display!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0004",
+    "en": "   Your insolent attitude does little more{SAUT}than prove your inferiority...{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOUMAN.BIN:text:0005",
+    "en": "{PAGE}Shall I show you the extent of my power?[FFFD][06FF][F500] How foolish for a being as low as you to{SAUT}mock me in such a way!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0006",
+    "en": "{PAGE}How low do you place the rank of the{SAUT}[FFF0]?[FFFD][07FF][F500] I wouldn't bother to concern myself with{SAUT}a being of your inferior power!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0007",
+    "en": "   Urgh... Who are you...? Are you not{SAUT}afraid of me...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0008",
+    "en": "   Stop. I have no intention of fighting{SAUT}you...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0009",
+    "en": "{PAGE}Now begone, or I cannot guarantee your{SAUT}survival...[FFFD][08FF][F500] Hmm... So even those who lack insight{SAUT}can see my grandeur.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0010",
+    "en": " I see... You want my power? I assume{SAUT}there is something in it for me, yes?[FFFD][09FF][F500]   Fool! I don't bother dealing with{SAUT}halfwits such as you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0011",
+    "en": "How ridiculous! You thought I would{SAUT}accept an invitation such as that!?{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOUMAN.BIN:text:0012",
+    "en": "{PAGE}If you hope to pacify my rage, your{SAUT}apology had better be sincere![FFFD][0AFF][F500]  Who are you...? You must not be of{SAUT}sound mind to invite me so...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0013",
+    "en": "   I believe only in myself. That being{SAUT}said, do you still have business with{SAUT}me?[FFFD][0BFF][F500]   Stop it! Stop it, I say! My ears will{SAUT}burst if you continue!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0014",
+    "en": "{PAGE}Your kind says God gave you the gift{SAUT}of song, but I say it's a curse!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0015",
+    "en": "Stop it! I denounce your voice! You can{SAUT}be silent now![FFFD][0CFF][F500]   Ugh... It's hard to believe... a being{SAUT}such as you could emit ultrasonic{SAUT}soundwaves...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0016",
+    "en": " You... You have a likable voice.{SAUT}How did you come across it?[FFFD][0DFF][F500] Muahaha! You are truly the inferior{SAUT}race. Are those twisted warblings the{SAUT}only sounds you can emit?[FFFD][0EFF][F500]  Hm, not bad. Do you know any others?[FFFD][0FFF][F500] Hmm... A sheep has wandered too far{SAUT}from the flock... Girl, what do you{SAUT}take me for?[FFFD][10FF][F500] Hmm... You desire my power?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0017",
+    "en": "{PAGE}What do small beings like you even need{SAUT}such grandiose power for?[FFFD][11FF][F500]   You are a foolish girl who cannot tell{SAUT}the difference between us! Do not rouse{SAUT}my fury!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0018",
+    "en": "Impudent girl! You cannot simply rely{SAUT}on my power! Do you understand?[FFFD][12FF][F500]Huaha... It isn't such a bad feeling to{SAUT}be relied on by a sweet, helpless girl!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0019",
+    "en": "{PAGE}What do you wish of me?[FFFD][13FF][F500] Muahaha! I revel in being relied on by{SAUT}such a sweet, helpless girl!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0020",
+    "en": "{PAGE}Do you desire my power?[FFFD][14FF][F500] Ha! Using your wiles to reign me in?{SAUT}How shameful! Only a foolish woman would{SAUT}resort to such tactics!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0021",
+    "en": "  Ha! If you mean those words, I shall{SAUT}have you as my slave![FFFD][15FF][F500]   Urgh... What does a lowly human want of{SAUT}me? This had better not be one of your{SAUT}ill-conceived traps...[FFFD][16FF][F500]Urgh... Your words are eerie...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0022",
+    "en": "Muaha! So even amongst the incompetent{SAUT}and ignorant humans, there are those{SAUT}with wisdom.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0023",
+    "en": "{PAGE}So, tell me... What aspect of mine{SAUT}attracted you to me?[FFFD][17FF][F500]It's fine. I will live up to your{SAUT}expectations. Tell me your desires.[FFFD][18FF][F500]Hmm... Your words are eccentric.{SAUT}Humans may have some merit after all.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0024",
+    "en": " You speak lies without the slightest{SAUT}hesitation. Do you mean to mock society?[FFFD][19FF][F500]I am not so blind as to be deceived!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0025",
+    "en": "   Rubbish! If you must gossip, do so with{SAUT}a female demon!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0026",
+    "en": "Muahaha! A conversation that lacked any{SAUT}real value, human girl, but I did enjoy{SAUT}it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0027",
+    "en": "Huaha... Could you lie like that on{SAUT}judgement day?[FFFD][1AFF][F500]   Huaha... An honest reaction. Fear not,{SAUT}I won't harm you.[FFFD][1BFF][F500] I know it is difficult to be unafraid{SAUT}of me, but...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0028",
+    "en": "{PAGE}I am mortified to be dreaded like this.[FFFD][1CFF][F500] Ha! Be silent! If you fear me, begone!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0029",
+    "en": " Ha! The weak are only waiting to die.{SAUT}Are you going to sit there and cry until{SAUT}you comprehend this!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0030",
+    "en": "   The look of terror on the faces of the{SAUT}weak and the horrified screams of those{SAUT}about to die bring me bliss!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0031",
+    "en": "Muahahaha! Show me the weight of life.[FFFD][1DFF][F500]   Hmm... To show such interest in me...{SAUT}Are you... female?[FFFD][1EFF][F500] Pitiful being... With my beauty, social{SAUT}rank, and notoriety, I am in demand{SAUT}wherever I go.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0032",
+    "en": " Are you such an impertinent fool that{SAUT}you've forgotten how to ask for things{SAUT}properly!? Who do you think you are!?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0033",
+    "en": "{PAGE}You disgust me! Take back your words![FFFD][1FFF][F500]Insolent wretch! Men do not interest me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0034",
+    "en": "   I know humans use so very little of{SAUT}their brains, but do try to think for{SAUT}a moment: I'm a man...[FFFD][20FF][F500] Human boy... Now would be a good time{SAUT}to turn back...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0035",
+    "en": "  Muahaha! You expected that technique{SAUT}to spark my interest?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0036",
+    "en": "{PAGE}I believe a monkey could have thought{SAUT}that one up.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0037",
+    "en": " Muahaha! You jest in desperation!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0038",
+    "en": "  Ha... Don't strain yourself. I can{SAUT}already see the punchline, and I'd hate{SAUT}for you to exert your minisucle brain.[FFFD][21FF][F500]As a high-ranking demon, I don't often{SAUT}understand the hobbies of my inferiors.{SAUT}What do you find fun about that...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0039",
+    "en": " That was utterly senseless! I believe{SAUT}you've cost me a few brain cells!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0040",
+    "en": "If those are your last words, then{SAUT}I will do you the favor of laughing!{SAUT}Muahaha! Now give me your head![FFFD][22FF][F500]  Urgh... What logic... You are not an{SAUT}ordinary human...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0041",
+    "en": " I wondered what you would do... But I am{SAUT}no less confused by you humans...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0042",
+    "en": " Muahaha! I have not heard such a vulgar{SAUT}joke in an eon!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0043",
+    "en": "Hmm... What else can you do? Carry on.[FFFD][23FF][F500]   A certain type of rumor, you say?{SAUT}What do people say of my greatness these{SAUT}days?[FFFD][24FF][F500] Hm, melting ice... No doubt a ploy to{SAUT}gain my favor, but I shall allow it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0044",
+    "en": " What are you trying to say!? I have no{SAUT}time for inane chatter!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0045",
+    "en": " How can you speak such carefree words{SAUT}in these turbulent times!? If you've{SAUT}time to talk, you've time to fight![FFFD][25FF][F500]   My greatness has its downside. I am{SAUT}surrounded by yes men...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0046",
+    "en": "{PAGE}It's enjoyable to chat idly with lower{SAUT}beings like you. Amuse me further.[FFFD][26FF][F500]  The idle banter of inferior beings is{SAUT}a nice escape. I don't have time to think.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0047",
+    "en": "   You thought that would startle me? If{SAUT}so, you are more foolish than Atlas.{SAUT}You need to change your perception.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0048",
+    "en": " How childish. Even if you were to{SAUT}startle me, how would that benefit you?[FFFD][27FF][F500]How absurd! Did you truly think to{SAUT}startle me? Did you expect me to wince{SAUT}at your eccentric behavior!?[FFFD][28FF][F500]   Silence! Nothing that an inferior being{SAUT}could do to me will work!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0049",
+    "en": "  Did you do that, knowing I am{SAUT}[FFF3]? If so...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0050",
+    "en": "  ...Have you gone mad, human?[FFFD][29FF][F500] Ha... Do you think I have any use for{SAUT}such a philistine thing?[FFFD][2AFF][F500]   Ha... Aimlessly creating things and then{SAUT}senselessly consuming them... I'd expect{SAUT}no less from you inferior beings.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0051",
+    "en": "You weak, pathetic fool! You dare to{SAUT}attempt bribery before the very mirror{SAUT}of nobility!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0052",
+    "en": "  Everything is unnecessary! Instead,{SAUT}I shall ask for your head. Name your{SAUT}price.[FFFD][2BFF][F500]  Ha... Do you think I have any use for{SAUT}such a philistine thing!?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0053",
+    "en": "{PAGE}But... being that you show respect{SAUT}toward your betters, I will spare your{SAUT}life.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0054",
+    "en": "   Hmm... a gift, you say? What else do{SAUT}you have? Something that would suit a{SAUT}higher being such as myself?[FFFD][2CFF][F500]  It is important to have your own{SAUT}opinions. That is admirable.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0055",
+    "en": "  That is your principle? Then answer me{SAUT}this! Are you contented with killing{SAUT}demons?[FFFD][2DFF][F500]  A fool's expression of foolishness!{SAUT}Place a priority on thinking before you{SAUT}open your mouth![FFFD][2EFF][F500] Don't make me laugh! You would be lucky{SAUT}to hold a dead man's attention with{SAUT}such childish preaching!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0056",
+    "en": "   You have a strong desire to appease{SAUT}yourself. Huaha, humans as vigorous as{SAUT}you are rare.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0057",
+    "en": "   Muahahaha! You say such interesting{SAUT}things. Perhaps you could be groomed{SAUT}into my successor.[FFFD][2FFF][F500]  Huahaha! What a vigorous little human!{SAUT}You'd make an excellent pet.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0058",
+    "en": "Hm... Do you inferior beings have no{SAUT}sense of fear? What emotions do I stir{SAUT}in you?[FFFD][30FF][F500]  Child! I am the wrong demon for this{SAUT}display of arrogance! Now is your only{SAUT}chance to apologize.[FFFD][31FF][F500] What are you weaklings saying!? I hope{SAUT}you die from hitting your head on the{SAUT}corner of tofu!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0059",
+    "en": "   Urgh... What is this pressure I feel?{SAUT}Who are you? State your name.[FFFD][32FF][F500]  To say such things to me... You are{SAUT}either a fool, or...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0060",
+    "en": "   Hmm... Then I will make you my slave.[FFFD][33FF][F500]Huaha... Sarcasm does not beget the{SAUT}truth. I am worlds apart from your kind.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0061",
+    "en": "   Human, if you are mocking me... death{SAUT}will come faster than you think![FFFD][34FF][F500]   Fool! Do you think me unable to see{SAUT}through your lies!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0062",
+    "en": "Muahahaha! And what if I were to deny{SAUT}these pleas for mercy?[FFFD][35FF][F500] Of course. You may continue these acts{SAUT}of submission.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0063",
+    "en": "  What an unsightly gyration. I will{SAUT}coach you; tell me where you'd like to{SAUT}improve.[FFFD][36FF][F500]   You were hoping to get my attention with{SAUT}those bumbling steps? How foolish...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0064",
+    "en": "  Urgh! I can't stand to witness this any{SAUT}longer! Stop, or I shall rip your legs{SAUT}from underneath you![FFFD][37FF][F500]  To put it simply, you annoy me!{SAUT}Be gone from my sight!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0065",
+    "en": " You are clumsy, but I enjoyed it despite{SAUT}your shortcomings. What kind of reward{SAUT}are you seeking?[FFFD][38FF][F500] Muahaha! I didn't know you could train{SAUT}a monkey to dance like that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0066",
+    "en": "Muahaha! No feeling is greater than{SAUT}watching the weak put on such a display!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0068",
+    "en": "{PAGE}Shall I show you the extent of my power?[FFFD][39FF][F500] I wouldn't bother to concern myself with{SAUT}a being of your inferior power!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0069",
+    "en": "   How foolish for a being as low as you to{SAUT}mock me in such a way!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0070",
+    "en": "{PAGE}You! Just how highly do you think you{SAUT}rank on the social ladder?[FFFD][3AFF][F500]Urgh... Who are you...? Are you not{SAUT}afraid of me...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0071",
+    "en": "   Stop. I have no intention of fighting{SAUT}you...[FFFD][3BFF][F500] Hmm... You show promise. The malice{SAUT}in your glare is as powerful as mine.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0072",
+    "en": "{PAGE}That being so, I ask of you! How does{SAUT}this ruined world look in your eyes?[FFFD][3CFF][F500]It troubles me to be stared at in such{SAUT}a way by a man... You are strange...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0073",
+    "en": "Insolent cur! I can't negotiate with{SAUT}barbarians!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0074",
+    "en": "   Avert your eyes, idiot! Your tainted{SAUT}stare is defiling me![FFFD][3DFF][F500]   Huaha, it is only natural to be{SAUT}fascinated by me. You have my permission{SAUT}to look.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0075",
+    "en": "  Truly, I am an attractive [FFF0].{SAUT}Specifically, what has drawn you to me?[FFFD][3EFF][F500] Hmm... Your words are strange, but{SAUT}I find that interesting...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0076",
+    "en": "  You speak lies without the slightest{SAUT}hesitation... You wouldn't happen to be{SAUT}mocking me, would you?[FFFD][3FFF][F500]  Those who defy me shall burn in the{SAUT}fires of hell. Are you ready to be{SAUT}judged?[FFFD][40FF][F500]   Rubbish! If you must gossip, do so with{SAUT}a female demon!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0077",
+    "en": "Muahaha! A conversation that lacked any{SAUT}real value, human boy, but I did enjoy{SAUT}it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0078",
+    "en": " Huaha... Could you lie like that on{SAUT}judgement day?[FFFD][41FF][F500]   Don't speak so clumsily! It is not my{SAUT}wish to hurt such beauty!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0079",
+    "en": "Did you hope to make me flinch? It seems{SAUT}beauty and wisdom exist only in female{SAUT}demons.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0080",
+    "en": "Urgh... H-Hmm... Things like that are{SAUT}but fantasy... They don't happen...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0081",
+    "en": "  Hmm... That is interesting. Do you{SAUT}believe such tales to be true?[FFFD][42FF][F500]Muahaha! Women are such absurd beings{SAUT}to put stock in such fiction!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0082",
+    "en": "Huaha... So what? You bore me; change{SAUT}the subject.[FFFD][43FF][F500]   Hmm... Your voice is quite beautiful.{SAUT}I would like to be your partner.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0083",
+    "en": " Hmm... I like your song. Did you write{SAUT}it yourself?[FFFD][44FF][F500]  You can stop that now! Your voice is not{SAUT}something to be endured for this long!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0084",
+    "en": "Desist! This does not suit my noble{SAUT}tastes. Sing something that does.[FFFD][45FF][F500]Muahahaha! Your voice is splendid!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0085",
+    "en": " Huahaha, how fitting of you to dedicate{SAUT}a song to me. What are your wishes?[FFFD][46FF][F500]  Hmm... So this the \"motherly love\" they{SAUT}say humans have...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0086",
+    "en": " Hmm... You treat me as a child? How many{SAUT}eons have passed since you were brought{SAUT}into this world?[FFFD][47FF][F500]Know your place, girl! Never have I been{SAUT}so insulted!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0087",
+    "en": "  Do you know what you're saying, little{SAUT}girl!? I am patient, but I will not{SAUT}tolerate being treated as a child![FFFD][48FF][F500]Huaha, you are like an angel, naive and{SAUT}beautiful. Would you like my company?[FFFD][49FF][F500]It's mysteriously soothing... No...{SAUT}It can't... It can't be...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0088",
+    "en": " Hmm... So even those who lack insight{SAUT}can see my grandeur.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0089",
+    "en": " Hmm... So you desire my power. My asking{SAUT}price is your life. Is this acceptable?[FFFD][4AFF][F500] How ridiculous! Do not think I will be{SAUT}moved by mere words!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0091",
+    "en": "{PAGE}If you hope to pacify my rage, your{SAUT}apology had better be sincere![FFFD][4BFF][F500]  Muahaha! It is only natural that the{SAUT}weak turn to me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0092",
+    "en": "  Huaha, you say amusing things, woman.{SAUT}Invitations should be initiated by men.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0093",
+    "en": "{PAGE}Why don't you become my mistress?{SAUT}It would be for your own good.[FFFD][4CFF][F500]  Hmm... Mocking me, I see. You must be{SAUT}brimming with confidence...[FFFD][4DFF][F500]I see. So it is true that inferior{SAUT}creatures become confused when they{SAUT}encounter beings of incomparable power.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0094",
+    "en": " Conceited women live short lives!{SAUT}Shall I prove this truth to you?[FFFD][4EFF][F500]   How laughable! Huaha, to think that I{SAUT}would be taken by a woman's taunting!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0095",
+    "en": "Do you understand what you're saying?{SAUT}If you do, yet you say it anyway...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0096",
+    "en": "  Ugh... Do you comprehend who stands{SAUT}before you?[FFFD][4FFF][F500]  A little girl's charm is as valuable{SAUT}as a chipped life stone. Now, what{SAUT}should I do...?[FFFD][50FF][F500]  Hmmm... But a human girl... Well, maybe{SAUT}every so often.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0097",
+    "en": "Ha! It is the apex of stupidity to{SAUT}think I would fall for seduction!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0098",
+    "en": "   Fool! I can see through your trickery![FFFD][51FF][F500]   You wish for my affection that much?{SAUT}Ah, you've fallen in love with me...?[FFFD][52FF][F500]   It is natural that women are attracted{SAUT}to me. I am used to it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0099",
+    "en": " Women shed tears only before men that{SAUT}they trust. Speak your mind, child.[FFFD][53FF][F500]What's the matter, human girl?{SAUT}Tears alone won't change anything.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0100",
+    "en": "  You inferior beings can't supress your{SAUT}own emotions! Be silent, or be gone!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0101",
+    "en": "Tears should be reserved for times of{SAUT}sorrow! I see no truth to your story![FFFD][54FF][F500]  Urgh... The tears of a woman... They are{SAUT}a trap more often than not...(*RESPONSE*)",
+    "fr": ""
+  }
+]

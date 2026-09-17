@@ -1,0 +1,509 @@
+[
+  {
+    "id": "BASKET.BIN:text:0419",
+    "en": "Hey, punk! Don't underestimate me! There{SAUT}ain't nothin' I can't do in this world!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0420",
+    "en": "   You callin' me a shrimp!? I'll dunk on{SAUT}your face!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0421",
+    "en": "  Oh! I love the chicken dance! That's how{SAUT}the party gets started, right!? Hahaha!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0422",
+    "en": "   That's... a dance? I can't keep up with{SAUT}these human fads...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0423",
+    "en": "Oooh, they like it! Way to go, me!{SAUT}You're awesome!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0424",
+    "en": " Oh... No good huh? U-Um... Anyone{SAUT}wanna do the New York Hustle with me?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0425",
+    "en": "No dice? ...Well, whatever. I'm no{SAUT}dancer anyway.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0429",
+    "en": " Oh, I get it... You're sayin' you wanna{SAUT}give me somethin'! Sorry,I was{SAUT}confused. So let's see here...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0430",
+    "en": " Oooh, that makes me happy. Youngsters{SAUT}should act more like that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0434",
+    "en": " That's a bluff, right? It's no fun if{SAUT}the trick is obvious...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0435",
+    "en": "  N-No way... Gimme back my skills, man...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0436",
+    "en": "   Hahaha! It's useless! But keep goin'!{SAUT}It's funny!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0437",
+    "en": "  Whoa! If someone as perfect as me has{SAUT}any flaws, you better let me know!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0438",
+    "en": "   You didn't have to be so... blunt{SAUT}about it...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0439",
+    "en": "  There is something, isn't there!? Are{SAUT}my free-throws bad? Do I telegraph my{SAUT}shots!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0440",
+    "en": "If you say so, I guess I'll have to put{SAUT}my foot down! But I'm kinda scared...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0441",
+    "en": "  Huh? That was easy! Tch! Is that all{SAUT}you're gonna bring to the table!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0442",
+    "en": " You still frontin' with lies!?{SAUT}That's not good, man!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0450",
+    "en": " You're a strange chick... But I find{SAUT}that kinda interesting...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0451",
+    "en": " Why, man...? I might get famous and{SAUT}sign a movie deal!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0452",
+    "en": " You don't get it! This is your chance{SAUT}to be a star!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0453",
+    "en": "{PAGE}In the credits, you'll be listed as{SAUT}victim number one!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0454",
+    "en": "No way...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0455",
+    "en": "  Hahaha! Figures!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0456",
+    "en": "   Stay outta the way of my shots! You get{SAUT}hit, ya die!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0457",
+    "en": "   Wh-Why am I being laughed at!?{SAUT}You lied, lady!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0458",
+    "en": " This can't be... I'm being laughed at{SAUT}by humans...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0459",
+    "en": " Hahahaha! There's no woman who'd turn{SAUT}me down!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0460",
+    "en": " You're a cold one, lady! That pisses me{SAUT}off, gettin' rejected like that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0461",
+    "en": "   I don't need your sympathy! So what if{SAUT}my only skill is ballin'!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0464",
+    "en": "Encore! Encore! Sing another one!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0467",
+    "en": "Hold on man... If I keep listening,{SAUT}I'll be like a charmed snake...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0468",
+    "en": "Then I'll do somethin' bad now!{SAUT}Gimme somethin'![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0469",
+    "en": "  What's up with that crazy accent!?{SAUT}You're weird!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0470",
+    "en": "   Hahahaha! Guess the jig's up!{SAUT}But I ain't a kid, y'know.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0471",
+    "en": "   Oh... You wanna fight? Well, I ain't{SAUT}much for violence, but...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:text:0472",
+    "en": " So you're jealous of the genius, huh?{SAUT}That's pathetic, man...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0473",
+    "en": "  Hahaha! It's no use! This guy's off in{SAUT}la-la land!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0474",
+    "en": " That's good to know! But... I ain't{SAUT}gonna forgive ya for treatin' me like a{SAUT}child, y'hear!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0475",
+    "en": "What!? I... I! I'm chasing the dream!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0476",
+    "en": "  Huh? Ya really think so? Alright, I'll{SAUT}do it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0479",
+    "en": " I guess I'm gonna hafta break you off a{SAUT}little sumthin' sumthin'!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0480",
+    "en": "  I don't mind if you're serious, but you{SAUT}should know, I'm already married to{SAUT}the hoop!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0481",
+    "en": "  You ain't worthy to speak to the super-{SAUT}star of the basketball world!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0483",
+    "en": "  You're right... I probably shouldn't...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:text:0484",
+    "en": "Haha... I like your attitude.{SAUT}It's interesting.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0485",
+    "en": "Hahaha! You've got a level head on your{SAUT}shoulders! I like that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0486",
+    "en": "What the heck are you...? Aren't you{SAUT}afraid of me...?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:text:0487",
+    "en": "  Well, I ain't too big on violence,{SAUT}but...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0488",
+    "en": " What!? That ticks me off!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0489",
+    "en": "  Huh? What that's about a kitchen? Wait!{SAUT}You're not gonna eat me, are you?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:text:0490",
+    "en": "  Oh, is that so!? Then I hate you too!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:text:0492",
+    "en": "   Let's see... Gimme somethin', and I'll{SAUT}think about it.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0493",
+    "en": "Lay off, woman! I ain't gonna let my{SAUT}dreams get shaken by no perfume!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0494",
+    "en": "  Hahaha! That's right! I AM a star, huh?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0495",
+    "en": "What the heck!? Weren't we gonna do{SAUT}somethin' awesome!? You were toyin' with{SAUT}me, weren't you!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0496",
+    "en": " No way...You aren't diggin' me?{SAUT}I didn't know girls like that existed...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0497",
+    "en": "   That was a quick reversal! Those were{SAUT}crocodile tears, then, eh!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0498",
+    "en": "  Oh, I'm just glad I could make ya happy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0499",
+    "en": "   Whoa! Not bad, man! I like ya!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0500",
+    "en": " Huh!? I piss you off!? I'm about to{SAUT}make you cry for real!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0501",
+    "en": " For real? Hmm... Oh well.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0502",
+    "en": "  Which means... That was a lie?{SAUT}You're one scary chick...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0503",
+    "en": "   What's with this chick? She crazy or{SAUT}somethin'?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0504",
+    "en": "I didn't mean it like that... It hurts{SAUT}knowing how wrong I was...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0506",
+    "en": "Heh, what a bull! You see what you want,{SAUT}and you charge! I like that!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:text:0507",
+    "en": "  Hahaha! You've got a level head on your{SAUT}shoulders! I like that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0509",
+    "en": "  Oooh, that makes me happy. Youngsters{SAUT}should act more like that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0510",
+    "en": "   What!? That ticks me off!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0513",
+    "en": "  Hahaha! You a fool or somethin'?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0515",
+    "en": " Want me to set that annoying attitude{SAUT}of yours straight!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0516",
+    "en": "  What's up with that attitude? You tryin'{SAUT}to make a fool outta a genius?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0517",
+    "en": "That's right! It's not okay! Got it?{SAUT}So don't do that again.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0518",
+    "en": "   Do we have really bad chemistry!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0519",
+    "en": "  Hahaha! You've got composure! You'd{SAUT}make a great shooting guard!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0520",
+    "en": "   You can't stop! If you stop in the{SAUT}middle, damn it, I won't forgive you!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:text:0521",
+    "en": "   You're a bully, aren't ya!? I, the hero{SAUT}of the school, will take you down!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0522",
+    "en": " You got guts to ignore my question!{SAUT}When'd you become such a big shot, huh?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0523",
+    "en": "Sorry 'bout that! But still, you're{SAUT}pretty mature for a high schooler!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0524",
+    "en": " Whoa... She's a real dominatrix...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0525",
+    "en": " People like you annoy me! I hate it when{SAUT}fools don't know themselves!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0526",
+    "en": "  Don't drag me into this...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0527",
+    "en": " You want me to dunk on your face!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0528",
+    "en": " Hahaha! You tell it like it is! That's{SAUT}refreshing in a woman.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0529",
+    "en": "  Oh... You wanna fight? Well, I ain't{SAUT}much for violence, but...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0530",
+    "en": " No difference!? You don't understand age{SAUT}in demon years, do you!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0531",
+    "en": "  No, it's not okay! I'll serve justice{SAUT}to fools like you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0532",
+    "en": "   That's right! It's not okay! Got it?{SAUT}So don't do that again.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0533",
+    "en": "   This chick's crazy...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0534",
+    "en": "  Hahaha! Don't be so shy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0536",
+    "en": "   Why not...? You'd be able to watch my{SAUT}godly plays every day...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0537",
+    "en": " Really? Then I'll show you what fear is{SAUT}all about!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0538",
+    "en": " What a mean girl... But I'm kinda{SAUT}diggin' that...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0539",
+    "en": "  What's up with this guy?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0540",
+    "en": "   But it's all about playin' it cool and{SAUT}kind now... Is it the end of my era?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0541",
+    "en": "You can block my dunks!? Incredible!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0542",
+    "en": "   You wanna eat my jump shot? You'll{SAUT}have a flat face!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0543",
+    "en": "   Well, you say that, but... I mean, I am{SAUT}a demon, after all...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0544",
+    "en": "  Ugh... ＊cough＊(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0545",
+    "en": " You like baseball, then? Well, if Mike{SAUT}did it, so can I...(*RESPONSE*)",
+    "fr": ""
+  }
+]

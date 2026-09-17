@@ -1,0 +1,503 @@
+[
+  {
+    "id": "BASKET.BIN:text:0000",
+    "en": "Athletic types like me are suckers for{SAUT}passionate logic... Eh, I'll think{SAUT}about it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0001",
+    "en": "I don't mind helping, but my goal is to{SAUT}make it to finals...[FFFD]É[F500] I ain't stupid enough to fall for some{SAUT}weak-ass rhetoric!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0002",
+    "en": "  Shut up, man! The only thing on my mind{SAUT}is making it to the pros![FFFD]α[F500]Hahaha! You need me on your team?{SAUT}You'd make a good scout!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0003",
+    "en": " Can a nerd like you tap into the raw{SAUT}power of a true baller?[FFFD][02FF][F500] Hey, push your luck and you'll get a{SAUT}technical foul!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0004",
+    "en": "   Think you're better than me or{SAUT}somethin'? Ha! Don't waste your time.[FFFD][03FF][F500] Basketball is a gentleman's sport!{SAUT}Don't be hatin'!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0005",
+    "en": "Hmmm? What's that? You want me to kill{SAUT}you first?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0006",
+    "en": "{PAGE}Heheh, sure thing![FFFD][04FF][F500]Don't say such scary things... I'm sorry{SAUT}about that last foul, so c'mon...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0007",
+    "en": " C'mon, can't ya look the other way? I'm{SAUT}gonna be on the dream team some day...[FFFD][05FF][F500]   Jocks like me always fall for the{SAUT}passionate invitations...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0008",
+    "en": "{PAGE}Well, I'll think about it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0009",
+    "en": "I don't mind helping, but my goal is to{SAUT}make it to finals...[FFFD][06FF][F500] I can see straight through you! I ain't{SAUT}dumb enough to fall for that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0010",
+    "en": "  Shut up, man! The only thing on my mind{SAUT}is making it to the pros![FFFD][07FF][F500]Where you tryin' to take me? I'm not{SAUT}goin' anywhere that don't got a ball...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0011",
+    "en": "   Oh yeah! I almost forgot about practice!{SAUT}Sorry, gotta go![FFFD][08FF][F500]Your song is all... uh... talk!{SAUT}That don't hit home at all!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0012",
+    "en": "Damn, you showin' off in front of me?{SAUT}Yeah, so what if I can't sing!?[FFFD][09FF][F500]What are you thinkin'? How can you break{SAUT}into song in front of a demon?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0013",
+    "en": "Those sound waves are whack! Make them{SAUT}stop! P-Please![FFFD][0AFF][F500]   That song ain't half bad! It'd make a{SAUT}perfect theme song for me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0014",
+    "en": "   Bravo! Bravooo![FFFD][0BFF][F500]  I'm a sucker for the pleas of a lady...{SAUT}I'll think about it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0015",
+    "en": "   I don't mind helping, but my goal is to{SAUT}make it to finals...[FFFD][0CFF][F500] You think I'm weak enough to be{SAUT}persuaded by some girl's sweet talk!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0016",
+    "en": "  Shut up, man! The only thing on my mind{SAUT}is making it to the pros![FFFD][0DFF][F500]Hahaha! It ain't easy bein' the man!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0017",
+    "en": "   You think a girl like you can tap into{SAUT}the raw power of a true demon baller?[FFFD][0EFF][F500] I'm tryin' to practice here! Go get in{SAUT}some other dude's way, will ya!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0018",
+    "en": "Hey lady! You're not a spy from the{SAUT}enemy team, are ya!?[FFFD][0FFF][F500] I'm not a very well-known demon, so why{SAUT}are you so full of compliments?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0019",
+    "en": "{PAGE}Creeps me out...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0020",
+    "en": "  You plan on beating my mad ballin'{SAUT}skills with that kind of attitude?[FFFD][10FF][F500]I'll be the number 23 of the demon{SAUT}world pretty soon! Wish me luck!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0021",
+    "en": "Well, yeah! I can dunk on anyone![FFFD][11FF][F500]You bookworms say such far-out things.{SAUT}Seriously!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0022",
+    "en": "  Hey, I ain't gonna condone lying, but{SAUT}imagination is important in sports![FFFD][12FF][F500]Hey woman, are you tryin' to pull a{SAUT}fast one on me!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0023",
+    "en": "   You better not be playin' me, girlie...{SAUT}If you are, you're in for it!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0024",
+    "en": "{PAGE}The rule is, liars get their tongues{SAUT}pulled out![FFFD][13FF][F500]  I don't know what the hell you're{SAUT}sayin', but you must mean I'm a genius!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0025",
+    "en": "  Huh!? I've never heard that before!{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:text:0026",
+    "en": "{PAGE}You should cut back on the TV.[FFFD][14FF][F500]  Don't be scared! I'm a nice guy to the{SAUT}ladies!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0027",
+    "en": " Hey, c'mon, I'm a baller! I would never{SAUT}try to beat you down! ...Right?[FFFD][15FF][F500]  You're in the way of my practice!{SAUT}Stop your squawkin'!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0028",
+    "en": " You're not pretending to be scared, are{SAUT}ya? You must be a rival team's spy![FFFD][16FF][F500]  Hahaha! Am I really that incredible?{SAUT}Man, I'm a total sensation!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0029",
+    "en": "   Hahaha! You might be so impressed,{SAUT}you'd keel over and die![FFFD][17FF][F500]  Hahaha! You got guts, hittin' on me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0030",
+    "en": "   Wait, what? I mean, really, what the hell?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0031",
+    "en": "{PAGE}I'm gettin' nervous here.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0032",
+    "en": "  I don't need men! I want a cute team{SAUT}manager, right now!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0033",
+    "en": "   Shut up! Say another word, and I'll{SAUT}crush you![FFFD][18FF][F500]   Hey, that's a foul. Even if you're{SAUT}joking, this--Uh oh, you're serious, huh?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0034",
+    "en": "   I-I'm a guy... Want me to prove it?[FFFD][19FF][F500]  You? My fan? Hahaha! It ain't easy{SAUT}bein' a genius on the court!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0035",
+    "en": "Sure thing![FFFD][1AFF][F500]  Hahaha! That gag's barely a legal play!{SAUT}You're a funny guy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0036",
+    "en": "Oh, I'm not that into comedy. So, how's life?{SAUT}Are ya eatin' right?[FFFD][1BFF][F500]   That's a foul. That was so bad, even{SAUT}the ref's against you now!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0037",
+    "en": "Your jokes are lame![FFFD][1CFF][F500] Ugh... That was horrible...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0038",
+    "en": "You're gonna attack me while I'm{SAUT}laughing, eh? That's cheap![FFFD][1DFF][F500] Hahaha! Your face is a thousand times{SAUT}funnier than that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0039",
+    "en": "   I'm not a gloomy guy, y'know? I always{SAUT}wanted an upbeat buddy like you![FFFD][1EFF][F500]  I may look easygoing, but I've seen{SAUT}my share of tough times...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0040",
+    "en": " So, all you humans think about is death?[FFFD][1FFF][F500] Shut up! I'm trying to practice here!{SAUT}Go talk somewhere else!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0041",
+    "en": "  If you got time to talk, you got time{SAUT}to practice! No practice, no victory![FFFD][20FF][F500]  It's kinda nice to talk about somethin'{SAUT}other than basketball!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0042",
+    "en": " I never imagined I'd be talking to{SAUT}someone who didn't know basketball![FFFD][21FF][F500]   You a performer or somethin'? You're{SAUT}pretty interesting!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0043",
+    "en": "   What... was that?[FFFD][22FF][F500]What!? Hey, cut the crap!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0044",
+    "en": "  You got a few screws loose or{SAUT}somethin'!?[FFFD][23FF][F500]...Don't scare me like that...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0045",
+    "en": " What the? You got somethin' against{SAUT}me? I'm just a plain ol' b-ball guy...[FFFD][24FF][F500]   I don't get it... Is that gonna help{SAUT}my game? Well, it IS interesting...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0046",
+    "en": "   Ooooh yeah! You're giving that to me{SAUT}for free, right?[FFFD][25FF][F500]Are you stupid!? Don't you have anything{SAUT}useful, like shoes or a ball?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0047",
+    "en": " A hoop master like me doesn't need that!{SAUT}Don't you have anything practical?[FFFD][26FF][F500]  Haha! It's tough bein' a baller! Well,{SAUT}your intentions sound good enough to me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0048",
+    "en": "You're pretty interesting! I'll make you{SAUT}my manager![FFFD][27FF][F500] Jock demons are suckers for a passionate{SAUT}speech... Man, I feel pumped!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0049",
+    "en": " You don't sound much like a high school{SAUT}kid... Are you lyin' 'bout your age?[FFFD][28FF][F500] I ain't dumb enough to fall for a cold{SAUT}speech like that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0050",
+    "en": "   Shut up, man! The only thing on my mind{SAUT}is making it to the pros![FFFD][29FF][F500]Hahaha! You some kinda honor student!?{SAUT}Well, whatever!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0051",
+    "en": " Can a nerd like you tap into the raw{SAUT}power of a true baller?[FFFD][2AFF][F500] Hey, push your luck and you'll get a{SAUT}technical foul!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0052",
+    "en": "   Think you're better than me or{SAUT}somethin'? Ha! Don't waste your time.[FFFD][2BFF][F500] Basketball is a gentleman's sport!{SAUT}Don't be hatin'!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0053",
+    "en": "You the fool tryin' to step to a baller{SAUT}with crazy dunk action?[FFFD][2CFF][F500]  Don't say such scary things... I'm sorry{SAUT}about that last foul, so c'mon...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0054",
+    "en": " Why you yellin', man? I'm just a player{SAUT}practicin' his game...[FFFD][2DFF][F500]   You got that right!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0055",
+    "en": "{PAGE}I've got mad handles, and I'll drain{SAUT}shots from anywhere on the floor!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0056",
+    "en": "Cut it out, it's embarrassing! You one{SAUT}of my fans too?[FFFD][2EFF][F500]   Shut up! The only cheerleaders I need{SAUT}are cute chicks!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0057",
+    "en": " Somethin' about the way you put that...{SAUT}You makin' fun of me?[FFFD][2FFF][F500]Hahaha! Flattery won't get you anywhere!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0058",
+    "en": "   You're smart aren't ya? You must be a{SAUT}genius deluxe or somethin'![FFFD][30FF][F500]Hmm, you're good! I bet you could bring{SAUT}those skills to the court!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0059",
+    "en": " You're pretty good. Maybe I should learn{SAUT}to dance too...[FFFD][31FF][F500] You gotta have a faster beat than that!{SAUT}Three second violation!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0060",
+    "en": "What was that? Looked like you were{SAUT}startin' a lawnmower or somethin'![FFFD][32FF][F500]   Ya know, there's kind of a connection{SAUT}between b-ball and dance.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0061",
+    "en": "I can dance too! I've got the Friday{SAUT}night fever![FFFD][33FF][F500]Hey, push your luck and you'll get a{SAUT}technical foul!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0062",
+    "en": "   Think you're better than me or{SAUT}somethin'? Ha! Don't waste your time.[FFFD][34FF][F500] Basketball is a gentleman's sport!{SAUT}Don't be hatin'!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0063",
+    "en": "You the fool tryin' to step to a baller{SAUT}with crazy dunk action?[FFFD][35FF][F500]  Don't say such scary things... I'm sorry{SAUT}about that last foul, so c'mon...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0064",
+    "en": " Why you yellin', man? I'm just a player{SAUT}practicin' his game...[FFFD][36FF][F500]   You like basketball too? I getcha,{SAUT}brother.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0065",
+    "en": "{PAGE}It's the greatest sport in the world!{SAUT}Recognize!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0066",
+    "en": "  Tch! You're gonna need years of practice{SAUT}before you can swipe the rock from me,{SAUT}fool![FFFD][37FF][F500]Hey! Whatcha lookin' at!? This ball{SAUT}is mine!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0067",
+    "en": "   What...? You got a problem with me!?[FFFD][38FF][F500] Whoa man! Hahaha! Such a passionate{SAUT}gaze!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0068",
+    "en": "  I'm happy and all, but I don't deal{SAUT}with guys! Catch my drift!?[FFFD][39FF][F500]  You bookworms say such far-out things.{SAUT}Seriously!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0069",
+    "en": "  Hey, I ain't gonna condone lying, but{SAUT}imagination is important in sports![FFFD][3AFF][F500]Hey, punk! You tryin' to pull a fast{SAUT}one on me!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0070",
+    "en": "   You better not be playin' me...{SAUT}If you are, you're in for it!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0071",
+    "en": "{PAGE}The rule is, law, liars get their tongues{SAUT}pulled out![FFFD][3BFF][F500] I don't know what the hell you're{SAUT}sayin', but you must mean I'm a genius!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0073",
+    "en": "{PAGE}You should cut back on the TV.[FFFD][3CFF][F500]  That's not scary at all! Argh![FFED]{SAUT}I coulda been practicin' that whole time!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0074",
+    "en": "  I could tell a scarier story than that!{SAUT}The heroine killed by a demon will be{SAUT}played by you![FFFD][3DFF][F500] That's really depressing... I shoulda{SAUT}tuned you out...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0075",
+    "en": " H-Hey, that wasn't a true story...{SAUT}Right?[FFFD][3EFF][F500]It's a little childish, but I like{SAUT}stories with blood and guts!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0076",
+    "en": "That was good! Do humans fear me like{SAUT}that too?[FFFD][3FFF][F500]  Hm, you've got a nice voice! With you{SAUT}cheering me on, the next game's as{SAUT}good as won!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0077",
+    "en": "  You're good! How 'bout we do a duet?{SAUT}You'd be okay with that, right?[FFFD][40FF][F500] Your song is all... uh... talk!{SAUT}That don't hit home at all!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0078",
+    "en": "Damn, you showin' off in front of me?{SAUT}Yeah, so what if I can't sing!?[FFFD][41FF][F500]That song ain't half bad! It'd make a{SAUT}perfect theme song for me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0079",
+    "en": "   Bravo! Bravooo![FFFD][42FF][F500]  Ain't you a little old to be playin'{SAUT}house, man? Not that I care...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0080",
+    "en": "Hey, hey... Do I look like a kid to you?[FFFD][43FF][F500] What the hell!? I'm not playin' house{SAUT}ever again!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0081",
+    "en": "  I know... It's like I've got the ball{SAUT}on a string, isn't it?[FFFD][44FF][F500] Hahaha! Your negotation style doesn't{SAUT}jive with me. Well, it's been fun.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0082",
+    "en": "   Do I look like a baby? You're losin' it![FFFD][45FF][F500] I'm a sucker for the pleas of a lady...{SAUT}I'll think about it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0083",
+    "en": "   I don't mind helping, but my goal is to{SAUT}make it to finals...[FFFD][46FF][F500] You think I'm weak enough to be{SAUT}persuaded by some girl's sweet talk!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0084",
+    "en": "  Shut up, man! The only thing on my mind{SAUT}is making it to the pros![FFFD][47FF][F500]Hahaha! It ain't easy bein' the man!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0085",
+    "en": "   You want me to work for you? Hahaha!{SAUT}What a comedian![FFFD][48FF][F500]Hey, push your luck and you'll get a{SAUT}technical foul!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0086",
+    "en": "   Think you're better than me or{SAUT}somethin'? Ha! I won't lose to a chick![FFFD][49FF][F500]   What's up with that? You ain't even my{SAUT}type, ya good for nothin'!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0087",
+    "en": "  You the dumb girl tryin' to step to my{SAUT}ballin' skills?[FFFD][4AFF][F500]   What the heck are you? Talkin' like that{SAUT}to a god among ballers...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0088",
+    "en": " Why...? Why would I need you to tell{SAUT}me that?[FFFD][4BFF][F500]I always fall for the seductive types...{SAUT}I'll give it some thought.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0089",
+    "en": "My pheromones must be goin' nuts! It's{SAUT}tough sometimes, ya know?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0090",
+    "en": "   Listen! I'm gonna be a basketball god{SAUT}soon! You're nothin' to me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0091",
+    "en": "  Shut up, man! The only thing on my mind{SAUT}is making it to the pros![FFFD][4CFF][F500]Hahaha! It ain't easy bein' the man!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0092",
+    "en": "   Hey baby! I'll embrace you with open{SAUT}arms! Come to daddy![FFFD][4DFF][F500]You're goin' through a lot, huh? I've{SAUT}seen hard times too, so I understand.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0093",
+    "en": "Hey, hey, don't cry now... I'll give{SAUT}you tickets to my next game if that'll{SAUT}cheer you up.[FFFD][4EFF][F500]So what!? Compared to my training{SAUT}regimen, that's nothin'!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0094",
+    "en": " You stupid or somethin'!? No way I'd{SAUT}fall for some brat's crocodile tears![FFFD][4FFF][F500]   High school girls' households are{SAUT}pretty crazy these days, huh...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0095",
+    "en": " I can't believe you grew up in a{SAUT}household like that... I'm speechless.[FFFD][50FF][F500]  That was weak. I was hoping for crazier{SAUT}threats than that.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0096",
+    "en": " Think you're better than me or{SAUT}somethin'? Ha! I won't lose to a chick![FFFD][51FF][F500]   What's up with that? You ain't even my{SAUT}type, ya good for nothin'!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0097",
+    "en": "  You the dumb girl makin' threats to a{SAUT}demon baller like me?[FFFD][52FF][F500]  I just like shootin' hoops... I don't{SAUT}know why you'd be after me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0098",
+    "en": "Why...? Why would I need you to tell{SAUT}me that?[FFFD][53FF][F500]Did you think I'd be happy bein' picked{SAUT}on by you!? If you did, you're an idiot!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0099",
+    "en": "   You didn't think I'd be afraid of that,{SAUT}did ya!? Huh!?[FFFD][54FF][F500]   What the heck are you? Talkin' like that{SAUT}to a god among ballers...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0100",
+    "en": " Why...? Why would I need you to tell{SAUT}me that?[FFFD][55FF][F500]Hahaha! You may be interested, but{SAUT}I sure as hell ain't!(*RESPONSE*)",
+    "fr": ""
+  }
+]

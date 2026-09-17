@@ -17,57 +17,57 @@
     "id": "E1.BIN:065:0002",
     "locuteur": "Tamaki",
     "en": "We fought a lot, but that was because{SAUT}I worried about you, Tadashi.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "On se disputait souvent, mais{SAUT}c'était car je m'inquiétais, Tadashi.{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0003",
     "locuteur": "Tamaki",
     "en": "You're always so reckless... You probably{SAUT}had no idea how I felt.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Si imprudent... Tu ignorais{SAUT}sans doute ce que je ressentais.{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0004",
     "locuteur": "Tamaki",
     "en": "But thanks to that dream, I can admit{SAUT}my feelings... I love you, Tadashi!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Grâce à ce rêve, je peux avouer{SAUT}mes sentiments... Je t'aime, Tadashi!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0005",
     "locuteur": "Yukino",
     "en": "Oh, here it comes... I dunno how they{SAUT}can keep at it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Oh, ça recommence... Comment font-ils{SAUT}pour continuer.{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0006",
     "locuteur": "Yukino",
     "en": "On the plus side, all three of you are{SAUT}awake. Anyone feel sick or anything?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Au moins, vous êtes réveillés tous{SAUT}les trois. Quelqu'un se sent mal?{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0007",
     "locuteur": "Tadashi",
     "en": "Argh! It was just getting good! Why'd you{SAUT}have to butt in!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Argh! Ça devenait bon! Pourquoi tu{SAUT}dois t'en mêler!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0008",
     "locuteur": "Tadashi",
     "en": "Right, Tamaki?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Oui, Tamaki?{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0009",
     "locuteur": "Tamaki",
     "en": "Yukino...? You guys... what are you{SAUT}doing here?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Yukino...? Vous tous... que faites-vous{SAUT}ici?{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0010",
@@ -87,29 +87,29 @@
     "id": "E1.BIN:065:0012",
     "locuteur": "Brown",
     "en": "Whaaaaat!? Get real, Tamaki!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Quoiiiii!? Sérieux, Tamaki!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0013",
     "locuteur": "Brown",
     "en": "I went through allllll that trouble to{SAUT}save you, and you don't remember a thing!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Je me suis donné tant de mal pour te{SAUT}sauver, et tu ne te souviens de rien!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0014",
     "locuteur": "Brown",
     "en": "Now that hurts... This sucks.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Là, ça fait mal... Ça craint.{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0015",
     "locuteur": "Tadashi",
     "en": "Remember? What the heck are you talking{SAUT}about? We were... Huh? Why are we here?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Me souvenir? De quoi tu parles donc?{SAUT}On était... Hein? Pourquoi on est là?{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0016",
@@ -122,29 +122,29 @@
     "id": "E1.BIN:065:0017",
     "locuteur": "Tadashi",
     "en": "Looking right at me...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Elle me regardait...{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0018",
     "locuteur": "Yukino",
     "en": "Alright, alright! We get it!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Bon, bon! On a compris!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0019",
     "locuteur": "Yukino",
     "en": "Congrats, both of you. Just keep the{SAUT}lovey-dovey crap to yourselves!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Félicitations à vous deux. Gardez vos{SAUT}mièvreries pour vous!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0020",
     "locuteur": "Yukino",
     "en": "I'll get out of your hair if you just{SAUT}tell me one thing...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Je vous laisse tranquilles si vous{SAUT}me dites une chose...{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0021",
@@ -157,15 +157,15 @@
     "id": "E1.BIN:065:0022",
     "locuteur": "Yukino",
     "en": "It's really important.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "C'est très important.{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0023",
     "locuteur": "Nanjo",
     "en": "Hmph. As I expected.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Hmph. Comme prévu.{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0024",
@@ -178,29 +178,29 @@
     "id": "E1.BIN:065:0025",
     "locuteur": "Elly",
     "en": "We need them to save the school. Do you{SAUT}have any idea what we're talking about?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Il nous les faut pour sauver l'école.{SAUT}Sais-tu de quoi on parle au juste?{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0026",
     "locuteur": "Tadashi",
     "en": "...Nope!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "...Non!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0027",
     "locuteur": "Tadashi",
     "en": "All I have is my hand mirror for fixing{SAUT}my hair. Is that good enough?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Tout ce que j'ai c'est mon miroir pour{SAUT}mes cheveux. Ça suffira?{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0028",
     "locuteur": "Tamaki",
     "en": "Of course not, dummy!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Mais non, idiot!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0029",
@@ -213,29 +213,29 @@
     "id": "E1.BIN:065:0030",
     "locuteur": "Tamaki",
     "en": "I don't know how it got there, but this{SAUT}was in my pocket...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "J'ignore comment, mais c'était{SAUT}dans ma poche...{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0031",
     "locuteur": "Tadashi",
     "en": "Wh... What!? Tamaki!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Qu... Quoi!? Tamaki!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0032",
     "locuteur": "Tadashi",
     "en": "Y-You never told me you had that!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Y-Tu m'as caché que tu avais ça!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0033",
     "locuteur": "Tadashi",
     "en": "No... We pledged ourselves to each{SAUT}other...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Non... On s'était promis l'un à{SAUT}l'autre...{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0034",
@@ -248,16 +248,16 @@
     "id": "E1.BIN:065:0035",
     "locuteur": "Tamaki",
     "en": "Hey! I only just noticed, okay!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Tamaki",
+    "fr": "Hé! Je viens de le voir, ok!?{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:065:0036",
     "locuteur": "Tamaki",
     "en": "Quit being stupid! Just... let me talk!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Tamaki",
+    "fr": "Arrête tes bêtises! Laisse-moi parler!{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -279,43 +279,43 @@
     "id": "E1.BIN:065:0039",
     "locuteur": "Tamaki",
     "en": "Well, it looks like I was right. But I'm{SAUT}sure you'll do fine.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Bon, on dirait j'avais raison.{SAUT}Mais je suis sûre que ça ira.{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0040",
     "locuteur": "Tamaki",
     "en": "Good luck!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Courage!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0044",
     "locuteur": "Tamaki",
     "en": "Sorry... I wish I could do more{SAUT}to help...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Pardon... Si seulement je pouvais{SAUT}aider...{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0045",
     "locuteur": "Tamaki",
     "en": "I mean, I guess Tadashi and me could{SAUT}go with you, but...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Bon, je suppose Tadashi et moi{SAUT}pourrions venir, mais...{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0046",
     "locuteur": "Tamaki",
     "en": "I think we'd only hold you guys back.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Je crois qu'on vous ralentirait.{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0047",
     "locuteur": "Tamaki",
     "en": "Thanks for saving us. Best of luck!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Merci du sauvetage. Bon courage!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0048",
@@ -327,15 +327,15 @@
     "id": "E1.BIN:065:0049",
     "locuteur": "Tadashi",
     "en": "Uhh... I don't really understand what's{SAUT}going on, but good luck, guys!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Euh... Je comprends pas trop ce qui{SAUT}se passe, mais bonne chance!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0050",
     "locuteur": "Tadashi",
     "en": "Leave Tamaki to me!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Laisse-moi Tamaki!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0051",
@@ -348,22 +348,22 @@
     "id": "E1.BIN:065:0052",
     "locuteur": "Ayase",
     "en": "Good thing we took a little side trip{SAUT}to the Dream World.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Heureux d'avoir fait un détour{SAUT}par le monde des rêves.{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0053",
     "locuteur": "Ayase",
     "en": "Oh, hey!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Tiens!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0054",
     "locuteur": "Ayase",
     "en": "If Tamaki and Tadashi had a shard...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Si Tamaki et Tadashi ont un éclat...{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0055",
@@ -390,15 +390,15 @@
     "id": "E1.BIN:065:0058",
     "locuteur": "Ayase",
     "en": "Caaaan youuuu heaaaaar meeeee? Weee neeed{SAUT}aaaa shaaaard! Are you even awake!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Tuuu m'entennnds? Onnn veuut{SAUT}unnn eclaaaat! Tu es réveillée!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0059",
     "locuteur": "Nurse Natsumi",
     "en": "...Stop yelling... I have low blood{SAUT}pressure... Ow ow ow... my head...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "...Criez pas... Je fais de la tension{SAUT}basse... Aie... ma tête...{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0060",
@@ -411,8 +411,8 @@
     "id": "E1.BIN:065:0061",
     "locuteur": "Ayase",
     "en": "Aww, she doesn't have one? Guess we woke{SAUT}her up for nothing. Bleaaaaah!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Zut, elle en a pas? On l'a réveillée{SAUT}pour rien. Bleaaaaah!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0062",
@@ -425,15 +425,15 @@
     "id": "E1.BIN:065:0063",
     "locuteur": "Yukino",
     "en": "Well then, wanna go beat up the boss?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Bon, on va casser le boss?{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0064",
     "locuteur": "Ayase",
     "en": "I've heard people say Tadashi can get{SAUT}pretty crazy...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "On dit que Tadashi peut devenir{SAUT}assez fou...{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0065",
@@ -446,29 +446,29 @@
     "id": "E1.BIN:065:0066",
     "locuteur": "Ayase",
     "en": "Ooooh, I wish I could be in a totally{SAUT}hot relationship too!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Ooooh, j'aimerais vivre une relation{SAUT}aussi torride!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0067",
     "locuteur": "Nanjo",
     "en": "Do they still think they're in the{SAUT}Dream World?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Se croient-ils encore dans le{SAUT}Monde des rêves?{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0068",
     "locuteur": "Nanjo",
     "en": "It makes me wonder why we bothered to{SAUT}awaken them...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Pourquoi s'être donné la peine{SAUT}de les réveiller...{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0069",
     "locuteur": "Nanjo",
     "en": "Well, there goes a good deal of our{SAUT}precious time.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Voilà un bon bout de notre{SAUT}temps précieux perdu.{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0070",
@@ -481,15 +481,15 @@
     "id": "E1.BIN:065:0071",
     "locuteur": "Nanjo",
     "en": "Though... I admit, I'm glad to see the{SAUT}three of them safe.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Cela dit... J'avoue, content{SAUT}de les savoir sains et saufs.{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0072",
     "locuteur": "Brown",
     "en": "Nooooo! Tell me Tamaki's still dreaming!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Nooooon! Dis-moi que Tamaki rêve encore!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0073",
@@ -502,22 +502,22 @@
     "id": "E1.BIN:065:0074",
     "locuteur": "Brown",
     "en": "Thanks to my incredible work, all three{SAUT}of them are just dandy. Mwahahahaha!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Grâce à mon travail génial, tous les{SAUT}trois vont super bien. Mwahahahaha!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0075",
     "locuteur": "Brown",
     "en": "I'm a natural-born leader!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Je suis un chef ne!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0076",
     "locuteur": "Elly",
     "en": "Are they still under the influence of{SAUT}Hypnos's power? Mm... evidently not.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Subissent-ils encore le pouvoir{SAUT}d'Hypnos? Mm... visiblement non.{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0077",
@@ -530,22 +530,22 @@
     "id": "E1.BIN:065:0078",
     "locuteur": "Elly",
     "en": "It was purely a coincidence...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Pur hasard, rien de plus...{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0079",
     "locuteur": "Elly",
     "en": "But ultimately, Hypnos played Cupid for{SAUT}Tadashi and Tamaki.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Au final, Hypnos a joué Cupidon pour{SAUT}Tadashi et Tamaki.{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0080",
     "locuteur": "Tadashi",
     "en": "Argh! Stop bothering us!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Argh! Lâchez-nous!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0081",
@@ -558,22 +558,22 @@
     "id": "E1.BIN:065:0082",
     "locuteur": "Tadashi",
     "en": "Whatever it is, can't it wait for later!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Quoi que ce soit, ça peut attendre!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0083",
     "locuteur": "Tadashi",
     "en": "You're done, right? Then can you give us{SAUT}some privacy?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "T'as fini, non? Alors laisse-nous{SAUT}un peu d'intimité?{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0084",
     "locuteur": "Tadashi",
     "en": "Please?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Pitié?{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0085",
@@ -586,8 +586,8 @@
     "id": "E1.BIN:065:0086",
     "locuteur": "Tamaki",
     "en": "I'm sorry, but Tadashi's all I can think{SAUT}about right now.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Désolée, mais Tadashi est tout ce qui{SAUT}m'occupe l'esprit.{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0087",
@@ -601,13 +601,13 @@
     "locuteur": "Nurse Natsumi",
     "en": "Aaaaargh! I'm wide awake now, but I've{SAUT}got a whopper of a headache.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Aaaaargh! Je suis réveillée, mais j'ai{SAUT}un mal de crane atroce.{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0089",
     "locuteur": "Nurse Natsumi",
     "en": "I had a nice dream, though... Too bad it{SAUT}got interrupted right at the best part...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "J'ai fait un beau rêve... Dommage qu'il{SAUT}soit coupé au meilleur moment...{ATTENTE}"
   }
 ]

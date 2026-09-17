@@ -1,0 +1,507 @@
+[
+  {
+    "id": "YAKUZA.BIN:text:0000",
+    "en": "If you're travelin' with me, you better{SAUT}be ready to cross the gates of hell...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "YAKUZA.BIN:text:0001",
+    "en": " You want a fist in yer face, punk!?{SAUT}I don't trust no empty suits like you{SAUT}who get interested in yakuza!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0002",
+    "en": "Hey kid! You got a lot of guts talkin' to{SAUT}those who walk the bloody path.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0003",
+    "en": "  Ha, right, punk... Oh well. I guess yer{SAUT}more manly than some weak-ass dude with{SAUT}no spirit.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0004",
+    "en": " You better cut the crap, kid. Or do you{SAUT}wanna see what hell looks like!?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "YAKUZA.BIN:text:0005",
+    "en": "   I'm being made fun of by a buncha{SAUT}regular Joes... Maybe it's time to{SAUT}retire...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "YAKUZA.BIN:text:0006",
+    "en": " If you're travelin' with me, you better{SAUT}be ready to cross the gates of hell...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0007",
+    "en": " In our world, we've got duty and{SAUT}formalities. You can't ignore that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0008",
+    "en": "   I've exchanged cups with the Boss...{SAUT}I won't hurt a civvy...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0009",
+    "en": "   You wanna get decked!? No man sings{SAUT}before me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0010",
+    "en": " You're singing... in front of me...{SAUT}I guess honor is really dead...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0011",
+    "en": "That song reminds me of myself in my{SAUT}younger days. I see the shadow of a{SAUT}yakuza in you.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0013",
+    "en": " You wanna be a yakuza wife? You can't!{SAUT}If ya stay happy, you just keep{SAUT}mindin' the law!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0014",
+    "en": "Hahaha, You're crazy to come lookin'{SAUT}for help from a yakuza, girl!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0015",
+    "en": " Whaddaya think you're doing!? Yakuza{SAUT}aren't dumb enough to fall for some{SAUT}broad's con job!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0016",
+    "en": "  You tryin' to get on our good side?{SAUT}You ain't an undercover cop, are ya?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0017",
+    "en": "   Hahaha! The gang world doesn't move on{SAUT}empty compliments.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0018",
+    "en": "  You're interesting. In our world, it's{SAUT}the smooth talkers that make their way{SAUT}to the top... If they stay alive...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0019",
+    "en": "  You better cut the crap, lady! Yakuza{SAUT}aren't dumb enough to fall for some{SAUT}broad's con job!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0020",
+    "en": " You tryin' to con a yakuza!? Hahaha!{SAUT}Damn shame that you're a woman.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0021",
+    "en": "   Don't worry. Yakuza don't hurt the{SAUT}civvies.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0022",
+    "en": "Whaddaya gettin' all excited about!?{SAUT}I don't give you law-abidin' citizens{SAUT}a second thought!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0023",
+    "en": "   Hahaha! Yakuza never bruise a woman's{SAUT}face.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0024",
+    "en": "You sniff too much product? Look real{SAUT}close, I'm a man.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0025",
+    "en": "What're you thinking!? Yakuza don't{SAUT}drink tea with you nobodies!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0026",
+    "en": "   You should get that checked out...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0027",
+    "en": " You better quit with the jokes while{SAUT}I'm still smilin'.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0028",
+    "en": "Heh, funny. Yakuza gotta have a sense{SAUT}of humor too, ya know.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0029",
+    "en": "   You better cut the crap! I've killed{SAUT}guys for tellin' better jokes than{SAUT}that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0030",
+    "en": "  SAD DUMMY, APPARENTLY.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0031",
+    "en": " You're funny. Who's your manager? I'll{SAUT}buy him out.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0032",
+    "en": "You wanna talk with a yakuza? Guess{SAUT}there's some real crazies out there.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0033",
+    "en": "   Pipe down a bit, will ya?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0034",
+    "en": "  Haha, a yakuza and a civvy talkin' to{SAUT}each other like old friends! Times{SAUT}must be good.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0035",
+    "en": " If you're set on followin' the law, you{SAUT}better quit bein' stupid. Idiots don't{SAUT}last long out there.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0036",
+    "en": "You don't like having all ten fingers?{SAUT}Or maybe we'll go straight to the dirt{SAUT}nap.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0037",
+    "en": " I'm being made fun of by a buncha{SAUT}damn kids... Maybe it's time to{SAUT}retire...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0038",
+    "en": "You're pretty understanding for a{SAUT}civilian. I don't use my head when I{SAUT}don't have to.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0039",
+    "en": "  Don't mess with a yakuza! Bribes are{SAUT}against the code!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0040",
+    "en": " Hahaha! In this world, you gotta take{SAUT}while the takin's good.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0041",
+    "en": "  You're quite a looker. When you become{SAUT}a politican, take care of us, alright?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0042",
+    "en": "  Pipe down a bit, will ya?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0043",
+    "en": "  Hahaha! You have a big head, and you{SAUT}talk big too! Too funny, man.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0044",
+    "en": " You've got balls, kid. Maybe you'd be{SAUT}a good yakuza.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0045",
+    "en": "   Hey, you wanna take a peek at hell?{SAUT}If I don't use my sword once in a while,{SAUT}the blade'll start cryin'.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0046",
+    "en": "I ain't no civvy... If you're from{SAUT}another gang...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "YAKUZA.BIN:text:0047",
+    "en": " Kid, one day I'll hand you a cup{SAUT}personally!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0048",
+    "en": "   You must be ready to live in hell if{SAUT}you're makin' fun of a yakuza, kid!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0049",
+    "en": "   Hahaha! All demons who walk the{SAUT}gangster's path end up like me.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0050",
+    "en": "You're pretty good. We could use a{SAUT}singer or two in our crew.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0051",
+    "en": "  What an eyesore. I better swat this fly{SAUT}with my sword.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0052",
+    "en": " Hahaha! You're still young, kid. Go back{SAUT}and train s'more.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0053",
+    "en": " Ha, right, punk... Oh well. I guess yer{SAUT}more manly than some weak-ass dude with{SAUT}no spirit.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0056",
+    "en": " You've got your eyes set on a yakuza?{SAUT}You've got more guts than most punks{SAUT}out there.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0057",
+    "en": "  You're glarin' at a yakuza. You must{SAUT}want to meet Buddha!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0058",
+    "en": "  Hahaha! You're creepin' me out with that{SAUT}weird stare. Lighten up, kid.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0059",
+    "en": " You're interesting. In our world, it's{SAUT}the smooth talkers that make their way{SAUT}to the top... If they stay alive...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0060",
+    "en": "  You better cut the crap! Yakuza aren't{SAUT}patient enough to listen to human BS{SAUT}all day!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0061",
+    "en": "   Hahaha! It's pretty bold to try and con{SAUT}a yakuza.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0062",
+    "en": "  You messin' with a yakuza? Well my gun's{SAUT}scarier than your BS.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0063",
+    "en": " ...Even us yakuza have weaknesses...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0064",
+    "en": "   Hahaha! You really are a civilian lady.{SAUT}You say some cute things.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0065",
+    "en": "  Your singing reminds me of this lady{SAUT}I knew who ran a bar... I think maybe{SAUT}I'm in love.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0066",
+    "en": "You lookin' for trouble!? We don't let{SAUT}women sing with that kinda language!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0067",
+    "en": "Hey! Nice voice ya got there.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0068",
+    "en": "  You're crazy... Look kid, quit takin'{SAUT}whatever you're on. Your kids'll thank{SAUT}you for it someday.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0069",
+    "en": "   The hell you doing!? To caress a yakuza{SAUT}is to mock him!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0070",
+    "en": "Man, this is something. But I guess it{SAUT}ain't bad to be treated like a normal{SAUT}demon sometimes.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0071",
+    "en": "  If you're gonna take me to the gates of{SAUT}hell, you better be able to carry the{SAUT}burden of my karma...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0072",
+    "en": "In our world, we've got duty and{SAUT}formalities. You can't ignore that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0073",
+    "en": "   Lady, you got a lot of guts talkin' to{SAUT}those who walk the bloody path.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0074",
+    "en": " You've got a strong heart for a woman.{SAUT}Maybe you'd make a good yakuza wife.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0075",
+    "en": "Think you're ready to see nirvana? I bet{SAUT}Buddha's pretty lonely.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0076",
+    "en": "   Are you made? If you're from some other{SAUT}gang, then...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0077",
+    "en": "  You got as much sex appeal as my left{SAUT}toe. I'd love to see the suckers that{SAUT}fall for you.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0078",
+    "en": "  Shut up! We don't deal with no law-{SAUT}abiding women folk!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0079",
+    "en": "Hahaha! It's been true throughout the{SAUT}ages! Women are always attracted to the{SAUT}scent of evil!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0080",
+    "en": "   If I just ignored you, I'd be putting my{SAUT}rep on the line. Leave it to me.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0081",
+    "en": "  This biz ain't a charity. You must not{SAUT}have done your homework.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0082",
+    "en": "...There was a time when they called me{SAUT}an atrocity... But compared to you...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0083",
+    "en": "  You beat me at my own game... You'd{SAUT}definitely make a good yakuza wife.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0084",
+    "en": "You plan on dying soon? I could speed{SAUT}up the process for ya.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0085",
+    "en": "   I ain't no civvy... If you're from{SAUT}another gang...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0086",
+    "en": " Looks like you've got a deathwish. We{SAUT}say yakuza don't hurt outsiders, but{SAUT}that's just our front!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0087",
+    "en": "  You ain't a normal woman... Which gang{SAUT}you from?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0088",
+    "en": "   Hahaha! You're pretty confident! I like{SAUT}that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0089",
+    "en": "  You talkin' about yakuza? Maybe you'll{SAUT}turn out alright...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0090",
+    "en": " Shut your trap! Nothin' worse than a{SAUT}yappin' woman!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0091",
+    "en": "Hahaha! You're a powerful woman! Fitting{SAUT}of those manly words!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0092",
+    "en": " An outsider telling off a yakuza?{SAUT}That's pretty funny.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0093",
+    "en": " You tellin' off a yakuza? Naw, that'd{SAUT}be impossible...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0094",
+    "en": " Hahaha! No matter what century, women{SAUT}never cease their meddling.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0095",
+    "en": "  A law-abiding citizen and a student on{SAUT}top of that--you really shouldn't be{SAUT}hanging out with me. Go on home.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "YAKUZA.BIN:text:0096",
+    "en": "   When you talk, you look the other person{SAUT}in the eyes. Don't tell me you didn't{SAUT}know that.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0097",
+    "en": "  I'm being coaxed into something by a{SAUT}girl... Maybe it's time to retire...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0099",
+    "en": "   When you talk, you look the other person{SAUT}in the eyes. Don't tell me you didn't{SAUT}know that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0100",
+    "en": "  You tryin' to be a lone wolf? If I got{SAUT}bit by a kid, I'd lose respect...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0101",
+    "en": "   You beat me at my own game... You're a{SAUT}pretty capable punk.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0102",
+    "en": "You wanna get outta here? I could do{SAUT}that for ya...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0104",
+    "en": " You wanna get your ass kicked!?{SAUT}Shut your trap before I make you scream!(*RESPONSE*)",
+    "fr": ""
+  }
+]

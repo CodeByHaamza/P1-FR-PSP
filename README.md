@@ -7,8 +7,13 @@ américaine `ULUS-10432`). Le jeu n'est jamais sorti en français ; ce projet
 vise une version complète, jouable, et écrite en vrai français — accents
 compris.
 
-![avancement](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/HamzaKarrouchi/P1-FR-PSP/main/.github/badge.json)
+![avancement](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge.json)
 ![licence](https://img.shields.io/badge/licence-CC%20BY--NC--SA%204.0-lightgrey)
+
+![dialogues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_dialogues.json)
+![menus](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_eboot.json)
+![donjons](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_donjons.json)
+![négociations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_negociations.json)
 
 **On cherche des traducteurs.** Rien à installer : tu ouvres un fichier dans
 ton navigateur, tu écris, tu proposes. Un robot vérifie la technique à ta
@@ -105,8 +110,8 @@ besoin du jeu, ni de savoir coder, ni d'avoir fini le fichier d'un coup.
 | **Dialogues** (`trad/dialogues/`) | 8 572 textes, 104 fichiers — **ouvert** |
 | **Menus et écrans** (`trad/eboot/`) | 1 518 textes, 17 fichiers — **ouvert** |
 | **Donjons** (`trad/donjons/`) | 130 textes, 2 fichiers — **ouvert** |
+| **Négociations** (`trad/negociations/`) | 12 487 textes, 139 fichiers — **ouvert**. Ce que les démons répondent quand on leur parle en combat, un dossier par personnalité de démon |
 | Noms de démons, de Personas et sorts signature | **gardés en anglais** : Pixie reste Pixie, Bufu reste Bufu, comme dans toute la série |
-| Négociations de démons | leur texte n'est pas encodé comme le reste du jeu, et on n'a pas encore percé comment. On ne fait pas traduire 17 408 lignes qu'on ne saurait pas réinjecter |
 
 Le jeu répète énormément : 17 685 lignes de dialogue pour 8 572 textes
 distincts. Trois répliques de l'Arbre Agastya reviennent près de 570 fois
@@ -119,10 +124,11 @@ toutes ses occurrences est automatique.
 - [x] accents dessinés et validés en jeu
 - [x] introduction traduite, images de l'écran-titre traduites
 - [x] validation automatique des contributions
-- [x] menus, écrans et donjons cartographiés et ouverts à la traduction
+- [x] menus, écrans et donjons cartographiés, ouverts à la traduction — et
+      **terminés**
+- [x] négociations extraites, réinjectées et ouvertes à la traduction
 - [ ] **les dialogues** — c'est là qu'on a besoin de monde
-- [ ] **les menus et les écrans** — plus courts, parfaits pour commencer
-- [ ] percer l'encodage du texte des négociations, puis les ouvrir
+- [ ] **les négociations** — le plus gros morceau, 29 personnalités de démons
 - [ ] reporter les 1 427 noms d'objets, d'armes et de sorts déjà arbitrés
 - [ ] retrouver les noms de lieux — le bandeau `1F Empty Classroom` de la
       capture ci-dessus n'apparaît dans aucune extraction : ce texte vit
@@ -151,6 +157,7 @@ besoin du jeu pour contribuer, mais si tu l'as :
 trad/dialogues/   l'histoire et les personnages
 trad/eboot/       menus, écrans, noms de lieux, tutoriels
 trad/donjons/     messages de couloir, portes fermées
+trad/negociations/ ce que les démons disent quand on leur parle en combat
 docs/             le guide, les règles de style, le dictionnaire
 outils/           le validateur, qu'on peut lancer chez soi (Ruby)
 SUIVI.md          généré, jamais édité à la main

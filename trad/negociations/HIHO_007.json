@@ -1,0 +1,379 @@
+[
+  {
+    "id": "HIHO.BIN:resp:0190",
+    "en": "Did you have fun?(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0191",
+    "en": "It's not enough.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0192",
+    "en": "Hehehe...(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "HIHO.BIN:resp:0199",
+    "en": "Okay.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 20
+  },
+  {
+    "id": "HIHO.BIN:resp:0200",
+    "en": "What!? No!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "HIHO.BIN:resp:0204",
+    "en": "Hahaha...(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0205",
+    "en": "A plain face, maybe.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0206",
+    "en": "Sure.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "HIHO.BIN:resp:0209",
+    "en": "Go closer(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:resp:0211",
+    "en": "Stay on guard(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0212",
+    "en": "Later is fine.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:resp:0214",
+    "en": "What? No!(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0215",
+    "en": "Seriously...?(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "HIHO.BIN:resp:0216",
+    "en": "Put a sock in it!(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:resp:0218",
+    "en": "You found out?(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:resp:0220",
+    "en": "Eeeeeeek!(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:resp:0227",
+    "en": "You got a problem!?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "HIHO.BIN:resp:0229",
+    "en": "Ahahaha!(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:resp:0232",
+    "en": "That's way happy!(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0233",
+    "en": "The Philippines...?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:resp:0235",
+    "en": "Quit toying with me!(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:resp:0237",
+    "en": "Because you're cute.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "HIHO.BIN:resp:0239",
+    "en": "Because I hate you.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 14
+  },
+  {
+    "id": "HIHO.BIN:resp:0240",
+    "en": "Don't laugh like that!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:resp:0241",
+    "en": "Forget about it.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:resp:0243",
+    "en": "Haha... Cut it out.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0245",
+    "en": "So you get it.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0249",
+    "en": "Nuh-uh.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 7
+  },
+  {
+    "id": "HIHO.BIN:resp:0250",
+    "en": "Physics...?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:resp:0259",
+    "en": "Hehe...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:resp:0262",
+    "en": "Nice weather...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "HIHO.BIN:resp:0264",
+    "en": "Can't I ignore you?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:resp:0267",
+    "en": "La la tra la-la...(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0268",
+    "en": "Leave me alone.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 19
+  },
+  {
+    "id": "HIHO.BIN:resp:0276",
+    "en": "Ba da ba, oh yeah.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0278",
+    "en": "...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0280",
+    "en": "You wanna die!?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "HIHO.BIN:resp:0283",
+    "en": "Fine.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 8
+  },
+  {
+    "id": "HIHO.BIN:resp:0289",
+    "en": "Can't I yell!?(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0290",
+    "en": "Raaaaaaarrrrr!(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0293",
+    "en": "Ha. Surprised?(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:resp:0295",
+    "en": "It's not magic!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0297",
+    "en": "I won't do that.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:resp:0301",
+    "en": "Sword hunting.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0302",
+    "en": "Treasure hunting.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0303",
+    "en": "Ambushing.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0304",
+    "en": "I challenge you!(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0305",
+    "en": "I'm not doing that.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:resp:0307",
+    "en": "You're in my way!(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0309",
+    "en": "I don't mind burns.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0310",
+    "en": "You're a scary demon.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0311",
+    "en": "Who are you?(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0312",
+    "en": "Gimme an autograph.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:resp:0314",
+    "en": "I hate you.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0315",
+    "en": "We've got business.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:resp:0316",
+    "en": "Go home.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "HIHO.BIN:resp:0317",
+    "en": "Stay here.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:resp:0322",
+    "en": "Do we have business?(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0323",
+    "en": "You're welcome!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0324",
+    "en": "Stay away!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:resp:0326",
+    "en": "If you could come...(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0327",
+    "en": "Quiet!(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0329",
+    "en": "Laugh!(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0330",
+    "en": "Of course!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 8
+  },
+  {
+    "id": "HIHO.BIN:resp:0331",
+    "en": "You're not my type.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:resp:0333",
+    "en": "We're a perfect pair.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0334",
+    "en": "Bully(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:resp:0335",
+    "en": "Flirt(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 3
+  }
+]

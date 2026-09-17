@@ -1,0 +1,502 @@
+[
+  {
+    "id": "KEMONO.BIN:text:0000",
+    "en": "HMMM... ME UNDERSTAND PERSUASION.{SAUT}ME LIKE YOU IF YOU GOOD NEGOTIATOR.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0001",
+    "en": "  HMMM... ME UNDERSTAND YOU WANT ME.{SAUT}GIVE ME SOMETHING. THEN ME LIKE YOU.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0002",
+    "en": "   YOU HUMAN ME [FFF0]!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0003",
+    "en": "{PAGE}BLOOD NO MATCH. NO CARD FOR YOU!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0004",
+    "en": "  YOU HUMAN ME [FFF0]!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0005",
+    "en": "{PAGE}BLOOD NO MATCH!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0006",
+    "en": "{PAGE}YOU ANNOYING! ROOARRR! SHUT UP![FFFD]É[F500]ME [FFF3]. YOU PERSUADE ME.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0007",
+    "en": "{PAGE}AWOOOO! ME HAPPY.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0008",
+    "en": "  YOU PERSUADE. ME HAPPY.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0009",
+    "en": "{PAGE}YOU WANT MY POWER?[FFFD]α[F500]  HMMM... YOU CONFIDENT.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0010",
+    "en": "{PAGE}ME STRONG. YOU STRONG?[FFFD][02FF][F500]   HMM... YOU RECKLESS. HMM... ME RECKLESS!{SAUT}HMM... WE GO GOOD TOGETHER.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0011",
+    "en": "   ROOOOARRR! ME MAD NOW!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0012",
+    "en": "{PAGE}ME EAT YOU WHOLE! YOU GIVE SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0013",
+    "en": " YOU TAUNT [FFF3]!?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0014",
+    "en": "{PAGE}ROAAAAR! ME MAD! YOU HATE!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0015",
+    "en": "  ＊whimper＊ ME TIRED. HIBERNATING. YOU NO{SAUT}BOTHER.[FFFD][03FF][F500]  ＊whimper＊ YOU SCARY... ME GO HOME...{SAUT}BUT ME CAN'T GO NOW...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0016",
+    "en": "HMM... ME UNDERSTAND. YOU SCOUTING.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0017",
+    "en": "{PAGE}GIVE ME SOMETHING AND ME HELP YOU.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0018",
+    "en": "   HMM... YOU SCOUT ME. ME HAPPY.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0019",
+    "en": "{PAGE}HMM... ME HAVE NO TRICKS. STILL OK?[FFFD][04FF][F500]  YOU HUMAN! ME, [FFF0]! BLOOD NO MATCH!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0020",
+    "en": "{PAGE}ROAAAAR! THINK BEFORE TALK!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0021",
+    "en": " ROAAAAAR! YOU ANNOYING [FFF3]! YOU{SAUT}UNDERSTAND?[FFFD][05FF][F500]＊whimper＊ WHAT SHOULD ME DO?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0022",
+    "en": "{PAGE}＊whimper＊ ME NO UNDERSTAND HUMANS...[FFFD][06FF][F500]   ＊whimper＊ ME HAPPY YOU SCOUTED ME...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0023",
+    "en": "{PAGE}BUT THIS TRAP? ME NO LIKE DANGER.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0024",
+    "en": "YOU BAD! BAD SONG!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0025",
+    "en": "{PAGE}ROAAAAAR! ME MAD! GIVE SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0026",
+    "en": " ME LIKE THAT SONG! BUT YOU SUCK!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0027",
+    "en": "{PAGE}ROAAAR! BAD SINGER! ME CANNOT UNHEAR!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0028",
+    "en": "HORRIBLE SONG... ME HEAD HURTS...{SAUT}YOU STOP NOW...[FFFD][07FF][F500]YOU SING... ME HEAD HURTS...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0029",
+    "en": "{PAGE}＊whimper＊ ME NO LIKE THAT SONG.{SAUT}YOU STOP...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0030",
+    "en": "  AWOOOO! ME HAPPY! YOU GOOD VOICE!{SAUT}ME LIKE!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0031",
+    "en": " AWOOO! ME LIKE SONGS.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0032",
+    "en": "{PAGE}YOU HAVE GOOD VOICE. ME HAPPY. ME HEAR{SAUT}YOU SING MORE SONGS![FFFD][08FF][F500]   HMMM...ME UNDERSTAND YOU NEED ME.{SAUT}ME LIKE YOU IF YOU NEGOTIATE WELL.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0033",
+    "en": "{PAGE}HMM... ME LIKE BLUE. WHAT COLOR YOU{SAUT}LIKE?[FFFD][09FF][F500]  HMM... ME UNDERSTAND WISHES.{SAUT}GIVE SOMETHING AND ME HELP YOU.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0034",
+    "en": "  ROAAAAR! YOU ANNOYING! ME MAD!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0035",
+    "en": " ME [FFF3]! YOU HUMAN. NO INTEREST!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0036",
+    "en": "{PAGE}ROAAAR! YOU INTEREST IN ME. WHY?[FFFD][0AFF][F500]  AWWOOO! ME LIKE RELIABLE ONES! YOU LIKE{SAUT}ME A LOT? THEN GIVE ME SOMETHING.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0037",
+    "en": " AWOOO! ME RELIED ON. YOU WANT POWER?[FFFD][0BFF][F500] YOU FLATTER. ME HATE!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0038",
+    "en": "{PAGE}ROAAAR! ME EAT YOU WHOLE.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0039",
+    "en": "   ME FLATTER. YOU FLATTERED!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0040",
+    "en": "{PAGE}ROAAAAR! ME EAT YOU WHOLE![FFFD][0CFF][F500]   ME EMBARRASSED... BUT... ＊whimper＊{SAUT}BAD FEELING...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0041",
+    "en": "{PAGE}＊whimper＊ ME TEST. WHAT FOOD YOU LIKE?[FFFD][0DFF][F500]＊whimper＊ BAD FEELING... YOU FLATTER,{SAUT}ME EMBARRASSED. TOO SMOOTH.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0042",
+    "en": "  AWOOO! ME HAPPY! YOU SAY GOOD THING!{SAUT}ME GET SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0043",
+    "en": "AWOOO! YOU SAY GOOD THING! ME HAPPY!{SAUT}HOW MUCH YOU LIKE ME?[FFFD][0EFF][F500]   HMM... ME SURPRISED! YOU SMART...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0044",
+    "en": "{PAGE}ME WANT YOU! WANT... WANT SOMETHING...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0045",
+    "en": " HMM... ME SURPRISED! YOU SMART...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0046",
+    "en": "{PAGE}HMM... ME NO SMART. WHERE YOU GET?[FFFD][0FFF][F500]ROAAAAAR! YOU LIAR! ME NO LIKE LIES!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0047",
+    "en": "{PAGE}GIVE SOMETHING OR LIARS GET EATEN![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0048",
+    "en": "  ROAAAAAR! YOU LIAR! ME NO LIKE LIES!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0049",
+    "en": "{PAGE}ROAAAAAR! ME EAT YOU WHOLE! STICK OUT{SAUT}HEAD, MAKE IT EASY![FFFD][10FF][F500]  AWOOO! ME HAPPY YOU INTERESTED!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0050",
+    "en": "{PAGE}YOU LIKE LIES? ME LIKE TOO! GIVE ME{SAUT}SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0051",
+    "en": "   AWOOO! YOU LIKE LIES! ME LIKE MORE!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0052",
+    "en": "{PAGE}AWOOO! YOU LIKES! TALK TO ME![FFFD][11FF][F500]   HMM... YOU NOT CONFIDENT. ME EAT YOU.[FFFD][12FF][F500]HMM... YOU NOT CONFIDENT. ME STRONG...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0053",
+    "en": "{PAGE}HMM... GIVE ME SOMETHING. I LET YOU{SAUT}ESCAPE.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0054",
+    "en": "   ROAAAR! ME [FFF3]! ME HATE COWARDS!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0055",
+    "en": " ROAAAAR! YOU ANNOYING! ME MAD!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0056",
+    "en": "{PAGE}YOU COWARD. ME NO EAT YOU. YOU GIVE{SAUT}SOMETHING INSTEAD![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0057",
+    "en": "AWOOO! ME STRONG! ME STRONGEST!{SAUT}YOU GIVE STRONG GIFT![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0058",
+    "en": " AWOOO! ME HAPPY! YOU GOOD AT TALKING{SAUT}TO ME! WHAT YOU WANT TO EAT?[FFFD][13FF][F500]HMM...? ME MALE... YOU MALE... HMM...{SAUT}YOU SAY FUNNY THINGS! ME HAPPY!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0059",
+    "en": "  HMM...? ME MALE... YOU MALE... HMM...{SAUT}WHAT YOU PLANNING?[FFFD][14FF][F500] ROAAAAR! ME MALE! YOU MALE!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0060",
+    "en": "{PAGE}SOMETHING FUNNY, HERE! ME FEEL STRANGE![FFFD][15FF][F500] ROAAAAR! ME MALE! YOU MALE!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0061",
+    "en": "{PAGE}YOU THINK I FEMALE!? FEMALE IN YOUR{SAUT}PARTY! GET HER, STUPID!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0062",
+    "en": "   ＊whimper＊ YOU MALE... ME MALE...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0063",
+    "en": "{PAGE}HMM... ME KIND OF SCARED...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0064",
+    "en": "  ＊whimper＊ ME BEING HIT ON...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0065",
+    "en": "{PAGE}ME LIKE GIRL DEMONS. YOU LIKE BOY{SAUT}DEMONS?[FFFD][16FF][F500]  AWOOO! YOU HIT ME, ME HAPPY! ME ASK{SAUT}BEFORE DATE THOUGH... YOU WEAR PAJAMA?[FFFD][17FF][F500]   AWOOO! ME FEMALE? REALLY!?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0066",
+    "en": "{PAGE}AWOOO! ME NO CARE ANYMORE! GIVE{SAUT}SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0067",
+    "en": "HMM... YOU JOKESTER? YOU HAVE OTHER{SAUT}FUNNIES?[FFFD][18FF][F500] HMM...ME UNDERSTAND YOUR JOKE! YOU{SAUT}GIVE ME SOMETHING FOR JUDGING.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0068",
+    "en": " ROAAAR! YOU BORING! JOKES SUCK!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0069",
+    "en": "{PAGE}ME NOT HAPPY! YOU GET NEW MATERIAL{SAUT}NEXT TIME![FFFD][19FF][F500]   ROAAAAR! JOKE SUCKS! YOU A COMEDIAN{SAUT}FAILURE!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0070",
+    "en": "{PAGE}ROAAAAR! HAND SOMETHING OVER OR I MAKE{SAUT}YOU FAIL HARDER![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0071",
+    "en": " ＊whimper＊ SO HORRIBLE... THAT...{SAUT}A JOKE...?[FFFD][1AFF][F500]  ＊whimper＊ BORING... WHAT ME DO NOW?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0072",
+    "en": "{PAGE}ME SHOULD PROBABLY LAUGH... AWOO! AWOOO!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0073",
+    "en": "  AWOOO! YOU COOL! JOKE AWESOME!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0074",
+    "en": "{PAGE}AWOOO! ME LIKE YOU! ME GET SOMETHING{SAUT}TO REMEMBER YOU BY![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0075",
+    "en": "  AWOOO! JOKE FUNNY! YOU AWESOME!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0076",
+    "en": "{PAGE}ME SO HAPPY, ME SING! YOU HAVE REQUEST?[FFFD][1BFF][F500] HMM... HUMAN STRANGE. YOU LIKE SOUND OF{SAUT}OWN VOICE THAT MUCH?[FFFD][1CFF][F500] HMM... ME NO UNDERSTAND... HMM... NO{SAUT}GET. ME TAKE SOMETHING INSTEAD.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0077",
+    "en": "  YOU HUMAN, ME [FFF0]! ROAAAR!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0078",
+    "en": "{PAGE}WE DON'T MATCH! ME ANGRY!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0079",
+    "en": "YOU HUMAN, ME [FFF0]!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0080",
+    "en": "{PAGE}ROAAAAR! WE DON'T MATCH! YOU TRY{SAUT}MATCHING ME![FFFD][1DFF][F500]  AWOOOO! ME LIKE TALKING! YOU LIKE TOO?[FFFD][1EFF][F500]   AWOOO! YOU MAKE SMALL TALK. THIS MY{SAUT}FIRST TIME!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0081",
+    "en": "{PAGE}AWO0OO! ME HAPPY! ME WANT SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0082",
+    "en": " ME SURPRISED! YOU DID IT!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0083",
+    "en": "{PAGE}HMM...ME NO REMEMBER LAST TIME I WAS{SAUT}SURPRISED. GOOD FEELING...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0084",
+    "en": " HMM... ME SURPRISED! YOU TOO?[FFFD][1FFF][F500]ROAAAR! ME SURPRISED! NOT GOOD...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0085",
+    "en": "{PAGE}YOU APOLOGIZE! GIVE ME SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0086",
+    "en": "  ROAAAR! ME CAUGHT OFF GUARD!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0087",
+    "en": "{PAGE}ROAAAR! ME CATCH YOU OFF GUARD NOW![FFFD][20FF][F500]＊whimper＊ ME CAN'T MOVE...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0088",
+    "en": " ＊whimper＊ YOU A MEAN BULLY...[FFFD][21FF][F500]HMM... ME WANT THAT. BUT ME NOT KNOW{SAUT}YOU VERY WELL...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0089",
+    "en": "{PAGE}HMM... IF YOU REALLY GIVE ME THAT,{SAUT}FIRST GIVE ME USUAL THING.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0090",
+    "en": "  HMM... YOU HAVE COOL THING. ME WANT...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0091",
+    "en": "{PAGE}HMM... ME NO LIKE FAKES. THAT REAL?[FFFD][22FF][F500]  ROAAAR! ME NO NEED THAT! ME WANT{SAUT}SOMETHING FOR EVERYDAY USE![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0092",
+    "en": "  ROAAAR! ME NO NEED THAT! GIVE ME{SAUT}SOMETHING ELSE![FFFD][23FF][F500] AWOOO! HOW YOU KNOW I WANTED THIS!?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0093",
+    "en": "{PAGE}AWOOO! ME HAPPY! GIVE ME SOMETHING ELSE{SAUT}I WANT![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0094",
+    "en": "  AWOOO! HOW YOU KNOW I WANTED THIS!?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0095",
+    "en": "{PAGE}ME CHECK AFFINITY! YOU ARE TEA KETTLE.{SAUT}WHAT THAT MAKE ME?[FFFD][24FF][F500]   HMM... YOU EXTREME! ME EXTREME TOO!{SAUT}GIVE SOMETHING AND MAYBE WE MATCH...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0096",
+    "en": "  HMM... YOU LEVEL HEADED. ME LEVEL{SAUT}HEADED TOO. ME WANT YOU AS FRIEND...[FFFD][25FF][F500]   ROAAAAR! ME [FFF3]! ME NOT{SAUT}INTERESTED IN SPEECHES!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0097",
+    "en": "{PAGE}ROAAAR! ME WANT SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0098",
+    "en": " ROAAAAR! ME [FFF3]! ME NOT{SAUT}INTERESTED IN SPEECHES!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:text:0099",
+    "en": "{PAGE}WHY YOU SPEECH ME?[FFFD][26FF][F500]AWOOOO! YOU SPEECH ME!{ATTENTE}",
+    "fr": ""
+  }
+]

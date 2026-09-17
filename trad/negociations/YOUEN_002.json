@@ -1,0 +1,503 @@
+[
+  {
+    "id": "YOUEN.BIN:text:0100",
+    "en": " Are you trying to ignore me? How dare you{SAUT}make a fool of me![FFFD][63FF][F500] ...I haven't done anything, have I?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0101",
+    "en": "Um... Um, sorry about that...[FFFD][64FF][F500]I see. You have that much confidence in{SAUT}yourself? I'd love to put that to{SAUT}the test!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0102",
+    "en": "You seem pretty strong. So... what are{SAUT}you going to do to me, hmmm?[FFFD][65FF][F500]  Oh, is that so? Well, I wouldn't mind{SAUT}fighting you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0103",
+    "en": "Well, if nothing else, you have quite the{SAUT}silver tongue. Where'd you learn to talk{SAUT}like that?[FFFD][66FF][F500]You don't have to threaten me like that...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0104",
+    "en": " Don't make such awful faces...[FFFD][67FF][F500]   Wh-What the!? Sheesh! Don't surprise me{SAUT}like that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0105",
+    "en": " What was that for!? You moron![FFFD][68FF][F500]   Eeeeek! Wh-What was that for?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0106",
+    "en": "  I won't do anything, okay? Relax...[FFFD][69FF][F500]  What an odd boy... Still, you're a{SAUT}cute one!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0107",
+    "en": "   You're dangerous! But I like that in{SAUT}a man![FFFD][6AFF][F500]  All that, just to get my attention?{SAUT}You're such a child...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0108",
+    "en": " Wooooow! You can use spells!?[FFFD][6BFF][F500]I can't believe it... a human,{SAUT}using spells...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0109",
+    "en": " I haven't done anything, right...? You{SAUT}won't make me disappear or anything?[FFFD][6CFF][F500]  Wooooow! Can you pull anything out of{SAUT}that? I think I just hit the jackpot{SAUT}with this negotiation!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0110",
+    "en": "  You're not that famous magician, are you?{SAUT}Ummm... Who-dini?[FFFD][6DFF][F500]  That's an interesting story! Hey, tell{SAUT}me more!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0111",
+    "en": "You must be really interested in me if{SAUT}you're saying all that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0112",
+    "en": " I don't mind hearing you out, but you{SAUT}have to do something for me first![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0113",
+    "en": "  This is no fun... What a letdown.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0114",
+    "en": "  Stop going on and on about that{SAUT}stupid crap!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0115",
+    "en": "   Will you shut up already!? You're making{SAUT}me mad! Give me something or else![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0116",
+    "en": "   You get this scary look in your eyes when{SAUT}you talk to me... Are you under someone's{SAUT}control...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0117",
+    "en": "If that's what you want to talk about,{SAUT}I think someone else would understand{SAUT}it better than me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0118",
+    "en": "  Heehee... I haven't felt this nice in{SAUT}a while.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0119",
+    "en": " Heehee... You say such cute things!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0120",
+    "en": "You're good at making small talk...{SAUT}I'd like to chat a little more.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0121",
+    "en": "You want me? Heehee... What should{SAUT}I do...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0122",
+    "en": "I like how you started this. If you give{SAUT}me something, I might really listen to{SAUT}what you have to say.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0123",
+    "en": " Lend you my power...? But you're still{SAUT}just a kid... Let me think about it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0124",
+    "en": "I'm not interested in kids like you in{SAUT}the slightest.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0125",
+    "en": "  Boring! If you want to negotiate, do{SAUT}something more interesting!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0126",
+    "en": "   Hmph! That was pitiful... Who do you{SAUT}think I am? I'm [FFF0] [FFF3]!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0127",
+    "en": "{PAGE}If you really want my help, listen to{SAUT}what I have to say![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0128",
+    "en": "  I feel like there's something else at{SAUT}work here...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0129",
+    "en": " Aren't you a human...? You shouldn't be{SAUT}asking demons for help.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0130",
+    "en": "If you have a request, try some other{SAUT}demon--not me.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0131",
+    "en": "   Ahaha... What should I do...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0132",
+    "en": "  Ahaha... It's so nice to hear that you{SAUT}need me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0133",
+    "en": "I simply love being asked favors...{SAUT}Ask me another one!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0134",
+    "en": "{PAGE}...Wait a second! I think I deserve{SAUT}something from you first.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0135",
+    "en": "What's with that attitude? Are you trying{SAUT}to make me mad on purpose? Something's{SAUT}strange about this...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0136",
+    "en": " It's useless to try and get me angry.{SAUT}Not a bad try, though.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0137",
+    "en": "   It's no use doing that. There are better{SAUT}ways to get your opponent's interest.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0138",
+    "en": "How dare you make fun of me! I hope{SAUT}you're prepared for the consequences!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0139",
+    "en": "  You really make me mad! But then, if you{SAUT}didn't... you wouldn't be worth killing!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0140",
+    "en": "  How dare you make a fool out of me!?{SAUT}Now I'm really mad! I'm not going to{SAUT}calm down unless you give me something![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0141",
+    "en": " You're making fun of me...?{SAUT}You're so cruel...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0142",
+    "en": " This isn't how a normal negotiation goes...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0143",
+    "en": "Wh-What the...? I can't figure out what{SAUT}you're trying to accomplish...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0144",
+    "en": " Wow, that attitude... You must be really{SAUT}self-confident! I like that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0145",
+    "en": "  I'll let a couple rude things slide here{SAUT}and there. Kids should be aggressive!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0146",
+    "en": " Ahaha... You're trying to figure out what{SAUT}I like... That's so cute!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0147",
+    "en": "Hm? Are you a budding entertainer?{SAUT}Remember to give me credit when you{SAUT}make it big.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0148",
+    "en": "Don't you need some practice? Let's try{SAUT}this again after you brush up on your{SAUT}skills. I'll be looking forward to it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0149",
+    "en": "   I feel like something's missing...{SAUT}I can give you advice, but I'll expect{SAUT}payment for it![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0150",
+    "en": " What was that about? It was so inane{SAUT}that I feel like you should die!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0151",
+    "en": "  You suck! Get off the stage!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0152",
+    "en": "   You want money for THAT? Ha! What a joke!{SAUT}I think I'll take YOUR money instead![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0153",
+    "en": "   What is that...? I don't understand!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0154",
+    "en": "   Is this some forbidden ritual of black{SAUT}magic? It doesn't have anything to do{SAUT}with me, right...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0155",
+    "en": "Ahaha... Well done. I'd like to hear{SAUT}that again!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0156",
+    "en": "   Marvelous! I wonder if I should learn{SAUT}something too.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0157",
+    "en": "   Bravissimo! Encore, encore!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0158",
+    "en": "Humans, huh...? Might be a good way{SAUT}to kill time.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0159",
+    "en": "  Heehee... Will you talk a while with an{SAUT}old lady like me, too?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0160",
+    "en": " So you want me? I don't mind if you try{SAUT}to deceive me, but I prefer generous{SAUT}types![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0162",
+    "en": "  I'm not so foolish a demon as to betray{SAUT}my comrades over something like that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0163",
+    "en": "  What're you doing? Wait... you're not{SAUT}trying to seduce me, are you!?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0164",
+    "en": "{PAGE}The other demons will tear you apart if{SAUT}they find out you seduced me! How badly{SAUT}do you want me to keep this secret...?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0165",
+    "en": "  Wait a second... I-I wouldn't know what{SAUT}to do even if you told me something{SAUT}like that...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0166",
+    "en": "   Wait a second... I-I wouldn't know what{SAUT}to do even if you told me something{SAUT}like that...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "YOUEN.BIN:text:0168",
+    "en": "   Ahaha...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0169",
+    "en": "   Awesome!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0170",
+    "en": "   I... I feel like I'm falling for you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0171",
+    "en": "  Is that supposed to be a compliment!?{SAUT}You're not really that weak, are you...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0172",
+    "en": " That's right! You understand just how{SAUT}dreadful I am.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0173",
+    "en": "{PAGE}Which means you'll give me something,{SAUT}won't you!?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0174",
+    "en": "   Don't bother stating the obvious!{SAUT}You can't even compare to me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0175",
+    "en": "Hmph! You've got another thing coming if{SAUT}you think I'll forgive you with that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0176",
+    "en": " If that's the case, I don't mind making{SAUT}you my slave!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0177",
+    "en": "{PAGE}But first, you need to make me want you![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0178",
+    "en": "   You're scheming something, aren't you...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0179",
+    "en": "  Are you really angry...? Hey, you're{SAUT}actually mad, aren't you? Awww...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0180",
+    "en": " Ohohohoho! Humans are nothing but slaves{SAUT}for demons!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0181",
+    "en": "   Ohohohoho! Now beg for your life!{SAUT}Or else I'll rip you to shreds![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0182",
+    "en": " Ohohohoho! So even humans can grasp{SAUT}my greatness!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0183",
+    "en": "  You already have my spell card, right?{SAUT}Make me into a beautiful Persona!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0184",
+    "en": "   Then I'll give you this.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0185",
+    "en": "   Oh, is that so?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0186",
+    "en": "It's a shame, but it seems like our{SAUT}interests are too different.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0187",
+    "en": "   Hey, aren't you a little cocky for{SAUT}a greenhorn?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0188",
+    "en": "{PAGE}It's useless to negotiate unless you're{SAUT}mature enough to handle it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0189",
+    "en": "   In any case, I'll give you this to{SAUT}commemorate our meeting.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0190",
+    "en": "Well, I hope we meet again!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0191",
+    "en": "This isn't much... but you can have{SAUT}it, too.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0192",
+    "en": "   Well, I'm pretty busy, so...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0193",
+    "en": "   Here's my spell card. Make me into a{SAUT}Persona with beauty and brawn!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0194",
+    "en": "I'll give you this, just forgive me!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0195",
+    "en": "   I'm tired of negotiating with you.{SAUT}There's no depth to your technique!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0196",
+    "en": " I'm tired of negotiating with you.{SAUT}Children who can't even negotiate{SAUT}should just take this and run along!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0197",
+    "en": "  I'm so irritated with myself being too{SAUT}stupid even to negotiate with humans!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0198",
+    "en": "   I give up! I'll give you my spell card!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0199",
+    "en": "This is my first time negotiating with{SAUT}someone as strong and funny as you...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0200",
+    "en": "   Here, a small gift from me... I hope{SAUT}it helps.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0202",
+    "en": "   I'll give you this. Please take good{SAUT}care of it.(*OPTION*)",
+    "fr": ""
+  }
+]

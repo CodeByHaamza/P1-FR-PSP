@@ -1,0 +1,512 @@
+[
+  {
+    "id": "QSIRUBA.BIN:text:0000",
+    "en": "＊ring＊ ＊ring＊ Y-You called Q? You-you-{SAUT}you're so cuuuute!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0001",
+    "en": "  Eeeeeeee! Q told you she's not inter-{SAUT}inter-interested!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0002",
+    "en": "Heeheehee! That meansyouneed Q, right!?{SAUT}I feel pretty-pre-pretty good!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0003",
+    "en": " ＊ring＊ ＊ring＊ Q isn't scary!{SAUT}You you're a go-go-good person.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0004",
+    "en": "   Eeeeeeee! Areyoupicking a f-f-fight{SAUT}with Q!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0005",
+    "en": "   ＊crackle＊ Wh-What d-d-did Q do?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0006",
+    "en": "＊ring＊ ＊ring＊ I can almost-most-most{SAUT}believe it!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0007",
+    "en": "   Eeeeeeee! Q isn't the helpful{SAUT}[FFF0] you think-ink-ink she is!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0008",
+    "en": "  ＊crackle＊ You-you-you're planning to{SAUT}sell Q off, aren't you...?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0009",
+    "en": "Eeeeeeee! You-you-you really suck!{SAUT}Do me a fav-favor and shut up!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0010",
+    "en": "  S-S-So you're a p-poltergeist too...{SAUT}Butthisplace is... Q's territory...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0011",
+    "en": "   Heeheehee! S-So you're apoltergeisttoo!{SAUT}It's great to see a fellow poltergeist!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0012",
+    "en": "＊ring＊ ＊ring Y-Y-You want Q?{SAUT}Awwww, that'ssocuuuute!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0013",
+    "en": "   Eeeeeeeee! Q told you, she's not{SAUT}inter-inter-interested!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0014",
+    "en": "   Heeheehee! That means youneedQ, right!?{SAUT}I feel pretty-pre-pretty good!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0015",
+    "en": " Eeeeeeee! Q won't fall-f-fall for that{SAUT}kind of sweet talk!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0016",
+    "en": " ＊crackle＊... You-you you're... scheming{SAUT}something... aren't you...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0017",
+    "en": "Heeheehee! You-you know what to say{SAUT}tomakeQ happy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0018",
+    "en": " ＊ring＊ ＊ring＊ You say some weirWEIRweird{SAUT}things, weirdo!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0019",
+    "en": "   Eeeeeeee! It's wrong to l-l-lie!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0020",
+    "en": "   Heeheehee! You-you tell someinteresting{SAUT}stories! I-I-I-I like them!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0021",
+    "en": "＊ring＊ ＊ring＊ Are-are you weak?{SAUT}Are you?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0022",
+    "en": "   Eeeeeeee! B-B-Be quQUIET!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0023",
+    "en": "  Heeheehee! You-you know how scary Q is!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0024",
+    "en": "＊ring＊ ＊ring＊ You-you're so cute...{SAUT}You mightmakea good comp-comp-companion{SAUT}for Q!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0025",
+    "en": " Eeeeeee! You-you're not worthy to{SAUT}bemypart-partner!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0026",
+    "en": "＊crackle＊(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0027",
+    "en": "  Heeheehee! Is this Q's static cling?{SAUT}Heeheehee! Ohhh, whatshouldQ do?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0028",
+    "en": "  ＊ring＊ ＊ring＊ That was too funnyyyyyyy!{SAUT}Q is a fanofyours now!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0029",
+    "en": " Eeeeeeee! Q likes the dry hu-HUmor of{SAUT}British comedy best!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0030",
+    "en": " ＊crackle＊ Something's not righ-right{SAUT}right with your head...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0031",
+    "en": "   Heeheehee! Heeheehee! Heeheehee!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0032",
+    "en": "   ＊ring＊ ＊ring＊ Now you canlistento{SAUT}Q's story!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0033",
+    "en": "   Eeeeeeee! Don't tell such boring{SAUT}sto-stor-stories!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0034",
+    "en": " Heeheehee! Whatasilly storyyyyyy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0035",
+    "en": "  ＊ring＊ ＊ring＊ Not-not-not bad.{SAUT}Q f-f-fellforit!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0036",
+    "en": "Eeeeeee! You stupid brownhair!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0037",
+    "en": " ＊crackle＊ What'swiththis human...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0038",
+    "en": " ＊ring＊ ＊ring＊ I know-know-know your{SAUT}heart's in the right plaaaaaaace!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0039",
+    "en": "  Eeeeeeee! Q doesn't need tha-that stuff!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0040",
+    "en": "   Heeheehee! Q willtakeanything she{SAUT}can get!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0041",
+    "en": " ＊ring＊ ＊ring＊ You-you-you must be very{SAUT}self-confident! Not bad-ba-BAD!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0042",
+    "en": " Eeeeeeee! Hey-hey y-y-y-y-you!{SAUT}Stop bragGINGsomuch to Q!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0043",
+    "en": "   Heeheehee! You-you're exactly right!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0044",
+    "en": "   Q isn't scared. You-you're a ggggggood{SAUT}person after all!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0045",
+    "en": "   Eeeeeeee! Some rich moronispicking{SAUT}a f-f-f-fiiiIIIGHT with Q!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0046",
+    "en": " ＊crackle＊ You-you must be scaredofthis{SAUT}place!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0047",
+    "en": "  ＊ring＊ ＊ring＊ You-you know a lot about Q!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0048",
+    "en": "  Eeeeeeeee! Q knows ever-everyTHING{SAUT}you'rethinkinggggg!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0049",
+    "en": " Heeheehee! That's just how Q-Q-Q is!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0050",
+    "en": "   ＊ring＊ ＊ring＊ Dance! Dance!{SAUT}D-D-D-Daance!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0051",
+    "en": "  Eeeeeeee! You-you have no skillllllls!{SAUT}It's like watching a car wreck-eck-eck!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0052",
+    "en": " Heeheehee! N-N-Not bad! Heeheehee!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0053",
+    "en": " ＊ring＊ ＊ring＊ Q isn't scared!{SAUT}You you're a go-go-good person.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0054",
+    "en": "  Eeeeeeee! Areyoupicking a f-f-fight{SAUT}with Q!?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0056",
+    "en": "＊ring＊ ＊ring＊ You're i-i-in-in-interested{SAUT}in Q? What should I do-I do...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0057",
+    "en": "  Eeeeeeeee! What're youlookingat!?{SAUT}Don't make me paint-aint-aint your face!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0058",
+    "en": " Heeheehee! Q loves the look in your-{SAUT}your-your eyes! It makesherwant to suck{SAUT}them outttttt!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0059",
+    "en": "＊ring＊ ＊ring＊ You say some weir-weir-{SAUT}weird things, weirdo!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0060",
+    "en": "Eeeeeeee! It's wrong to l-l-lie!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0062",
+    "en": "Eeeeeee! That isn't s-s-SCARY at alllll!{SAUT}Boooooriiiiing!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0063",
+    "en": "   ＊crackle＊ You-you got-go-gotta be{SAUT}joking...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0064",
+    "en": "Heeheehee! You-your stories soundlikethey{SAUT}really hap-happened-ed-ed-ed!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0065",
+    "en": "＊ring＊ ＊ring＊ You're pretty-pret-pretty{SAUT}good! Notbadfor a human!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0066",
+    "en": "   Eeeeeeee! You-you really suck!{SAUT}Do me a favorandshut up!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0067",
+    "en": "Heeheehee! S-So you're apoltergeisttoo!{SAUT}It's great to see a fellow poltergeist!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0068",
+    "en": "＊ring＊ ＊ring＊ You-you must like Q, huh!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0069",
+    "en": "Eeeeeeee! Q is pretty old! Don't make{SAUT}fun of h-h-heeeeeeeer!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0070",
+    "en": "   Heeheehee! Can I take-ake-ake you up{SAUT}on thatttttt!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0074",
+    "en": "＊ring＊ ＊ring＊ You-you've gotafoul mouth,{SAUT}but it sounds delight-de-DEEElightfulll!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0075",
+    "en": "  Eeeeeee! Q doesn't like hearing that{SAUT}fromat-t-tanned girl!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0076",
+    "en": " ＊crackle＊ What-what's wrong with{SAUT}y-y-you...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0077",
+    "en": "   ＊ring＊ ＊ring＊ You-you're cute, but...{SAUT}howcompatible are weeEEEE?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0078",
+    "en": "   Eeeeeeeeee! What-wh-what are you{SAUT}thinking!? Q is a giiiiiiirl!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0079",
+    "en": " Heeheehee! Q ishappyto hear that!{SAUT}But Q is a girl-irl-irl...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0080",
+    "en": "  ＊ring＊ ＊ring＊ There's no need-need-eed{SAUT}to crrrYYYYY. ＊ring＊ ＊ring＊(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0081",
+    "en": " Eeeeeeeee! B-B-Be quiet! Thathasnothing{SAUT}to do with Q!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0082",
+    "en": "  ＊crackle＊ Why are you crying...?{SAUT}Is it that tough-ough being huuUUUman?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0083",
+    "en": "＊ring＊ ＊ring＊ Q's not scaredofthreats{SAUT}like that. You-you're a gggggood person,{SAUT}aren't you?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0084",
+    "en": " Eeeeeeee! Areyoupicking a f-f-fight{SAUT}with Q!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0085",
+    "en": "   ＊crackle＊ Wh-What-at did Q do...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0086",
+    "en": "  Eeeeeeeee! Wh-Who-who do youthinkyou are?{SAUT}Are you pi-pi-picking a fight with Q!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0087",
+    "en": "   ＊crackle＊ You-you annoy me... Butyou're{SAUT}scaaaarrrryyyy...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0088",
+    "en": "  Heeheehee! There's nopointsaying stuff{SAUT}like that-at-at- to Q!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0089",
+    "en": "  ＊ring＊ ＊ring＊ You-you seem smart.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0090",
+    "en": "  Eeeeeeeee! Who-who do you thinkYOUARE!?{SAUT}Stop trying to act-act like an adult!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0091",
+    "en": "  Heeheehee! Q knowwwwws thatttttt!{SAUT}She's smart too!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0092",
+    "en": " Eeeeeeeee! Q-Q-Q doesn't remember-ber-ber{SAUT}you having the righttoscold herrrr!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0093",
+    "en": "  ＊crackle＊ Wh-What d-d-did Q dooooo?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0094",
+    "en": "Heeheehee! I really like-ike{SAUT}thethingsyou say!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0095",
+    "en": " ＊ring＊ ＊ring＊ Are y-y-ou going-going to{SAUT}keepignorrrrrriiiiinnnnnggggg Q?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0096",
+    "en": "   Eeeeeeeee! So you neverwantedto negotiate!{SAUT}Q's ang-angrrr-angrrrryyyy now!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0097",
+    "en": " ＊crackle＊ Talk-alk to Q...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0104",
+    "en": "Eeeeeeeee! Eeeeeeeee! Eeeeeeeee!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0105",
+    "en": "   ＊crackle＊ ＊crackle＊ ＊crackle＊(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0106",
+    "en": "  Heeheehee! Heeheehee! Heeheehee!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0107",
+    "en": "   ＊ring＊ ＊ring＊ You-you're amazinggggg!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0108",
+    "en": "  ＊crackle＊ S-so-soooo suspiciouSSSS...{SAUT}Q is scare-care-cared...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0109",
+    "en": " Heeheehee! Humans still-stilllll can{SAUT}can onlydochildish tricks like th-that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "QSIRUBA.BIN:text:0110",
+    "en": "   Q doesn't understand... butshe'sstill{SAUT}interested in stories like tha-thattttt!(*RESPONSE*)",
+    "fr": ""
+  }
+]

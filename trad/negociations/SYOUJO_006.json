@@ -1,0 +1,597 @@
+[
+  {
+    "id": "SYOUJO.BIN:resp:0023",
+    "en": "Absolutely right.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0024",
+    "en": "Stop(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 31
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0036",
+    "en": "Heeheehee.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 23
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0039",
+    "en": "Act disgusted(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0041",
+    "en": "Nod(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0045",
+    "en": "What did you say!?(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0054",
+    "en": "Roger that.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0055",
+    "en": "Awwww...(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0056",
+    "en": "You're quite rude!(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0059",
+    "en": "It'll be okay!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0062",
+    "en": "Explain in detail(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 8
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0063",
+    "en": "Make it laugh again(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0066",
+    "en": "Don't joke with me!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 11
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0068",
+    "en": "Mwahahahaha!(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 11
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0072",
+    "en": "O-kaaay!(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0073",
+    "en": "NO. WAY.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 12
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0075",
+    "en": "You're cute.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0076",
+    "en": "So lame.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0078",
+    "en": "Lie(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0081",
+    "en": "Yep, I'm an idiot!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0083",
+    "en": "You callin' me dumb!?(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0084",
+    "en": "Calm down(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0087",
+    "en": "All right.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 19
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0089",
+    "en": "Heh... I refuse.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0091",
+    "en": "I'll give you this.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0092",
+    "en": "Don't joke with me.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 12
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0095",
+    "en": "The fruit of my labor.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0097",
+    "en": "I'm lying.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0102",
+    "en": "I won't do anythying!(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0110",
+    "en": "Keep threatening(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 9
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0111",
+    "en": "That's right...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0112",
+    "en": "You were a woman?(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0114",
+    "en": "I guess I will...(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0115",
+    "en": "None of your business.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0117",
+    "en": "But you're an idiot.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0118",
+    "en": "All right!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0119",
+    "en": "I ain't telling.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0120",
+    "en": "Well, thanks!(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0121",
+    "en": "That ain't it!(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0125",
+    "en": "I'm doing nothing.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0126",
+    "en": "I'm gonna bully you!(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0131",
+    "en": "Oh crap...(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0133",
+    "en": "Hey, hey!(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0134",
+    "en": "It's rare.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0136",
+    "en": "It ain't rare.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0137",
+    "en": "'Cause you're pretty.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0138",
+    "en": "Whaddaya want!?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 13
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0139",
+    "en": "Oh yeah!(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0140",
+    "en": "That's so dumb.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0142",
+    "en": "It's for real.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0143",
+    "en": "I'm lyyyyying!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0150",
+    "en": "Continue(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0151",
+    "en": "Please do so.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0153",
+    "en": "I'll guide you.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 10
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0155",
+    "en": "That's a secret.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0159",
+    "en": "You say something?(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0160",
+    "en": "I didn't mean that...(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 7
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0164",
+    "en": "You're a child too.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0166",
+    "en": "I'm sorry...(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0169",
+    "en": "Keep soothing(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0170",
+    "en": "Act serious(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 13
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0171",
+    "en": "It's only natural.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0172",
+    "en": "Who knows...?(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0174",
+    "en": "You are correct.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0175",
+    "en": "No, thank you.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0177",
+    "en": "O-kay!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0178",
+    "en": "None of your business!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0179",
+    "en": "I'm soooorry.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0183",
+    "en": "Bleaaaaah!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0184",
+    "en": "Well, all right...(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0185",
+    "en": "Whaaat!? No!(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 7
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0186",
+    "en": "Get closer(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0187",
+    "en": "Be cautious(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0189",
+    "en": "I like you too!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0190",
+    "en": "Are you serious?(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0192",
+    "en": "You're right!(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0194",
+    "en": "But it hurts...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0195",
+    "en": "You figured it out!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0196",
+    "en": "Waaaaaaaah!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 8
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0198",
+    "en": "Keep crying(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0209",
+    "en": "I'll apologize...(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0212",
+    "en": "To see you cry.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0215",
+    "en": "Hell no!(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 11
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0216",
+    "en": "I stopped.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 12
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0218",
+    "en": "Stop it...(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0219",
+    "en": "A lot has happened...(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0221",
+    "en": "Who knows?(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 11
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0236",
+    "en": "Talk to it(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0258",
+    "en": "I'm an idiot.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0260",
+    "en": "You wanna die, huh!?(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0267",
+    "en": "Were you surprised? ",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0268",
+    "en": "It's not a spell.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0270",
+    "en": "I dunno about that.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0274",
+    "en": "Hunting demons.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0275",
+    "en": "Waiting for you.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0276",
+    "en": "Something nice.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0277",
+    "en": "Say(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0278",
+    "en": "Don't say(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0281",
+    "en": "Don't go in(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0282",
+    "en": "Like I give a damn!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 5
+  }
+]

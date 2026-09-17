@@ -158,7 +158,7 @@
     "locuteur": "Pandora",
     "en": "Thank you...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Merci...{ATTENTE}"
   },
   {
     "id": "E0.BIN:215:0013",
@@ -426,7 +426,7 @@
     "locuteur": "Mark",
     "en": "What do you mean?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Comment ça?{ATTENTE}"
   },
   {
     "id": "E0.BIN:216:0024",

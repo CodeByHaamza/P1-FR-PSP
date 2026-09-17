@@ -534,8 +534,8 @@
     "id": "E3.BIN:009:0000",
     "locuteur": "Yukino",
     "en": "Why a casino? Is the idea to forget{SAUT}about reality and waste away?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Yukino",
+    "fr": "Pourquoi un casino? L'idée,{SAUT}oublier le réel et gâcher sa vie?{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -564,22 +564,22 @@
     "id": "E3.BIN:009:0006",
     "locuteur": "Nanjo",
     "en": "What IS this place!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Quoi iCet endroit!?{ATTENTE}"
   },
   {
     "id": "E3.BIN:009:0007",
     "locuteur": "Nanjo",
     "en": "Remember, our finances are in your{SAUT}hands. Don't squander them.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Souviens-toi, nos fonds sont entre tes{SAUT}mains. Ne gaspille pas.{ATTENTE}"
   },
   {
     "id": "E3.BIN:009:0008",
     "locuteur": "Brown",
     "en": "Hehehehe... I could spend all day here!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Héhéhé... Je passerais ma journée ici!{ATTENTE}"
   },
   {
     "id": "E3.BIN:009:0009",
@@ -592,8 +592,8 @@
     "id": "E3.BIN:009:0010",
     "locuteur": "Elly",
     "en": "This is still our school, right...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "C'est toujours notre lycée, non...?{ATTENTE}"
   },
   {
     "id": "E3.BIN:009:0011",

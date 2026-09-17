@@ -94,8 +94,8 @@
     "id": "E2.BIN:192:0015",
     "locuteur": "Doctor",
     "en": "My fee is 1,500 yen. Well?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Docteur",
+    "fr": "Tarif 1,500 yen. Bon?{ATTENTE}",
     "_occurrences": 3
   },
   {
@@ -435,64 +435,64 @@
     "id": "E2.BIN:198:0001",
     "locuteur": "Maki",
     "en": "...What's gotten into Chisato?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "...Qu'est-ce qu'a Chisato?{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0002",
     "locuteur": "Maki",
     "en": "It feels like everyone's walking on{SAUT}eggshells around me. I'm fine, really.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "On dirait que tout le monde me ménage{SAUT}trop. Je vais bien, vraiment.{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0003",
     "locuteur": "Nanjo",
     "en": "Yamaoka always told me to be proud{SAUT}of myself.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Yamaoka me disait d'être fier{SAUT}de moi.{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0004",
     "locuteur": "Nanjo",
     "en": "He also said never to curry favor with{SAUT}those stronger than you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Il disait aussi de ne jamais flatter{SAUT}les plus forts que soi.{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0005",
     "locuteur": "Nanjo",
     "en": "First she disappears, then Aki kidnaps{SAUT}her... and now she's the Harem Queen.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "D'abord elle disparaît, puis Aki{SAUT}l'enlève... et la voilà reine du Harem.{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0006",
     "locuteur": "Nanjo",
     "en": "It's not easy understanding a woman's{SAUT}feelings, is it?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Pas facile de comprendre le coeur{SAUT}d'une femme, hein?{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0007",
     "locuteur": "Mark",
     "en": "When we get to this Queen, she's{SAUT}goin' down!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Cette reine, elle va{SAUT}s'en prendre une!{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0008",
     "locuteur": "Mark",
     "en": "I can't believe she's here playing{SAUT}dictator. What do we tell Yosuke?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "J'arrive pas à croire qu'elle joue{SAUT}au tyran. On dit quoi à Yosuke?{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0009",
     "locuteur": "Mark",
     "en": "I wonder if Maki's given up on Yosuke.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Je me demande si Maki oublié Yosuke.{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0010",
@@ -505,15 +505,15 @@
     "id": "E2.BIN:198:0011",
     "locuteur": "Elly",
     "en": "This Queen must have very particular{SAUT}taste in men.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Cette reine a des goûts bien précis{SAUT}en hommes.{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0012",
     "locuteur": "Elly",
     "en": "Using people as decoration... It sounds{SAUT}like a detective novel I once read.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Se servir des gens comme décor... On{SAUT}dirait un roman policier que j'ai lu.{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0013",
@@ -526,8 +526,8 @@
     "id": "E2.BIN:198:0014",
     "locuteur": "Elly",
     "en": "People's hearts are the hardest thing{SAUT}to understand.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Le coeur humain, rien de plus dur{SAUT}à comprendre.{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0015",
@@ -540,29 +540,29 @@
     "id": "E2.BIN:198:0016",
     "locuteur": "Brown",
     "en": "It's me, right? Right?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "C'est moi, non? Hein?{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0017",
     "locuteur": "Brown",
     "en": "Wow, she had a ridiculous amount{SAUT}of moles...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Wow, elle avait plein de grains de{SAUT}beauté...{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0018",
     "locuteur": "Brown",
     "en": "Even Chisato had her own troubles.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Même Chisato avait ses soucis.{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0019",
     "locuteur": "Brown",
     "en": "Me? Hell, I'm perfect! I got nothing{SAUT}like that!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Moi? Ha, je suis parfait! J'ai rien{SAUT}de tout ça!{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0020",
@@ -575,43 +575,43 @@
     "id": "E2.BIN:198:0021",
     "locuteur": "Ayase",
     "en": "How'd she get all those moles...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "D'où sortent tous ces grains...?{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0022",
     "locuteur": "Ayase",
     "en": "It just goes to show, you gotta be{SAUT}careful of UV rays!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Comme quoi, faut se méfier{SAUT}des rayons UV!{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0023",
     "locuteur": "Ayase",
     "en": "That was so not fair! She had all that{SAUT}fun and still got back with Yosuke.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "C'est trop injuste! Elle s'est amusée et{SAUT}elle récupère Yosuke en plus.{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0024",
     "locuteur": "Reiji",
     "en": "You need something from me?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "T'as besoin de moi?{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0025",
     "locuteur": "Reiji",
     "en": "Better she found out now instead of{SAUT}going on thinking they were friends.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Mieux vaut qu'elle le sache plutôt{SAUT}que de la croire encore son amie.{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0026",
     "locuteur": "Reiji",
     "en": "This is such crap... I can't keep up{SAUT}with this high school drama.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Quelle connerie... Je peux pas suivre{SAUT}ces drames de lycéens.{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0027",
@@ -624,8 +624,8 @@
     "id": "E2.BIN:198:0028",
     "locuteur": "Young man",
     "en": "Our Queen is both talented and gorgeous!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Jeune homme",
+    "fr": "Notre reine est belle et talentueuse!{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0029",
@@ -638,15 +638,15 @@
     "id": "E2.BIN:198:0030",
     "locuteur": "Young man",
     "en": "This painting is worthless! There's not{SAUT}a shred of artistic talent in it!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Jeune homme",
+    "fr": "Ce tableau ne vaut rien! Pas la{SAUT}moindre trace de talent la-dedans!{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0031",
     "locuteur": "Young man",
     "en": "She should be ashamed of calling herself{SAUT}Queen, producing something like this!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Jeune homme",
+    "fr": "Elle devrait avoir honte de se dire{SAUT}Reine en produisant un truc pareil!{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0032",

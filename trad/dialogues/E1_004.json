@@ -116,8 +116,8 @@
     "id": "E1.BIN:009:0016",
     "locuteur": "Ayase",
     "en": "Omigod!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Oh non!{ATTENTE}"
   },
   {
     "id": "E1.BIN:009:0017",
@@ -292,8 +292,8 @@
     "id": "E1.BIN:009:0041",
     "locuteur": "Brown",
     "en": "Mwahahahaha...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Mouahahaha...{ATTENTE}"
   },
   {
     "id": "E1.BIN:009:0042",
@@ -335,8 +335,8 @@
     "id": "E1.BIN:010:0003",
     "locuteur": "Raiho",
     "en": "Hee-ho!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Raiho",
+    "fr": "Hi-ho!{ATTENTE}",
     "_occurrences": 5
   },
   {

@@ -169,16 +169,16 @@
     "id": "E2.BIN:110:0014",
     "locuteur": "Doctor",
     "en": "Anything else you need?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Docteur",
+    "fr": "Autre chose?{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E2.BIN:110:0015",
     "locuteur": "Doctor",
     "en": "Well, I can't treat patients who can't{SAUT}pay. Come back when you have the fee.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Docteur",
+    "fr": "Bon, je ne traité pas qui peut pas{SAUT}payer. Reviens avec le fric.{ATTENTE}",
     "_occurrences": 4
   },
   {
@@ -305,7 +305,7 @@
     "locuteur": "Brown",
     "en": "Right...?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Bon,...?{ATTENTE}"
   },
   {
     "id": "E2.BIN:112:0008",

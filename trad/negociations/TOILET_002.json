@@ -1,0 +1,511 @@
+[
+  {
+    "id": "TOILET.BIN:text:0118",
+    "en": " Huh... so you're a sorcerer![FFFD][62FF][F500] W-Waaaaah! There's something spooky{SAUT}about this guy... I-I'm scared...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0119",
+    "en": "  Don't try anything funny, like making{SAUT}me disappear, okay...?[FFFD][63FF][F500] Magic tricks, huh...? Hee hee!{SAUT}You're so refined, mister!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0120",
+    "en": "  Hey, Mr. Handsome! Use your magic to{SAUT}conjure me up a new toilet![FFFD][64FF][F500] Hmm... Human stories are interesting!{SAUT}I love listening to them.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0126",
+    "en": " W-Waaaaah! That glare you have when you{SAUT}talk to me is scary...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0127",
+    "en": " I hesitate to bring this up, but...{SAUT}you're scaring me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0128",
+    "en": "   Hee hee! It's been a long time since{SAUT}I've been this happy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0129",
+    "en": " Hee hee! It's been a long time since{SAUT}I heard such a fun story!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0130",
+    "en": " Hee hee! This is so much fun... I wish I{SAUT}could keep chatting like this forever...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0131",
+    "en": "  Hmm... You actually have a keen eye for{SAUT}demons... I have some pretty high{SAUT}expectations for you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0134",
+    "en": "I'm not lending my powers to some human!{SAUT}Who do you think I am?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0135",
+    "en": "Are you stupid or something!? Why would{SAUT}you ask for help from a toilet like me!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0140",
+    "en": "  I don't feel like listening to requests{SAUT}from humans. I really want to just get{SAUT}out of here...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0141",
+    "en": "  Huh? You actually want me? Wow, this is{SAUT}so great!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0143",
+    "en": "  Hee hee! My charms drive humans mad, too.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0144",
+    "en": "  Aren't you doing that on purpose? Well,{SAUT}I get it, already, so hurry up and get{SAUT}to the point.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0150",
+    "en": "  W-Waaaaah! You're so cruel, taunting a{SAUT}cute demon like me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0151",
+    "en": "   What's wrong with you? Stop making fun{SAUT}of me... W-Waaaaah!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0152",
+    "en": " W-Waaaaah! I'm just a cute girl...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0153",
+    "en": " Hee hee! You're full of confidence!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0154",
+    "en": "Hee hee! Well, it's something a kid like{SAUT}you would do, so I guess it's okay.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0155",
+    "en": "   Hee hee! Well, it's something a kid like{SAUT}you would do, so I guess it's okay.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0156",
+    "en": "   Hmm... could you be a fresh face on the{SAUT}entertainment scene? Good luck with that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0157",
+    "en": "  Sorry, but not quite! You weren't bad,{SAUT}though, so please try again sometime!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0163",
+    "en": "  Was that a ritual or something...?{SAUT}W-Waaaaah! It's a cultist...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0164",
+    "en": "   Hee hee! Man, you're funny. I could{SAUT}watch you all day!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0165",
+    "en": " I wish I could do some kind of trick,{SAUT}too... Maybe I should take up a hobby.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0166",
+    "en": "   Hee hee! Show me more!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0167",
+    "en": " Huh... So you want me? Maybe I'll let{SAUT}myself fall for it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0168",
+    "en": "  Huh... I'm actually much older than{SAUT}I look. Are you okay with that?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0169",
+    "en": "Hmm... I'll think about it, sure...{SAUT}But you gotta show some generosity![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0171",
+    "en": "  I can't betray my toilet for that! Do I{SAUT}LOOK that stupid to you?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0172",
+    "en": "   One yell from me and loads of my friends{SAUT}will show up. You wouldn't want that to{SAUT}happen, right?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0179",
+    "en": "Hee hee! I want something![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0180",
+    "en": "Huh... So you have to do stuff like that{SAUT}because you're so weak!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0182",
+    "en": "  Shut up!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0183",
+    "en": "   Ugh, you're annoying the crap out of me!{SAUT}Will you stop it!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0185",
+    "en": "  Something seems wrong... {SAUT}You're suspicious...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0186",
+    "en": " Are you scheming something? If you are,{SAUT}just come out and tell me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0187",
+    "en": "   Hee hee! Maybe I should make you my{SAUT}bodyguard!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0188",
+    "en": " Hee hee! I feel like I finally have{SAUT}a minion of my own!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0199",
+    "en": "   I'll give you my card, but don't make too{SAUT}big of a Persona out of it, okay? I don't{SAUT}want it clogging up my drain!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0218",
+    "en": "   Hee hee! It's such a nice day today![FFFD][68FF][F500] Hey, do you prefer well-behaved girls?{SAUT}Hee hee!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0219",
+    "en": "A full moon! Hee hee! Gimme something![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0220",
+    "en": "[FFED]I got a full schedule, so if you don't{SAUT}need anything, I'm gonna go.[FFFD][69FF][F500] [FFED]I'm busy! If you have something to say,{SAUT}make it quick!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0222",
+    "en": "  [FFEC]Um... if you don't really have any{SAUT}business with me, I wanna go home.[FFFD][6AFF][F500]   [FFEE]A human really wants something with me...?{SAUT}I don't want any trouble, okay?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0223",
+    "en": "[FFEC]If you make one wrong move, I'll be gone{SAUT}in a flash...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0226",
+    "en": "  [FFEC]Um, do you happen to be [FFFA]?[FFFD][6CFF][F500]  [FFEC]No! No! Stay away from me, you{SAUT}＊bleeeeeep＊!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0228",
+    "en": "  [FFED]Hey! Don't tell me you think you and me{SAUT}are on equal grounds here.[FFFD][6DFF][F500]  [FFED]Humans again...? I'm tired of dealing{SAUT}with all of you! I wanna go home!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0229",
+    "en": "   [FFEB]Hey, human! C'mon, where's your gift for{SAUT}your queen?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0249",
+    "en": "  Hee hee! I'm so happy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0250",
+    "en": " So you were negotiating with me and you{SAUT}didn't have any life stones? Ohhh, you{SAUT}make me so mad!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0257",
+    "en": " I've had it! I'm gonna kill you and flush{SAUT}your corpse to the ocean!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0258",
+    "en": "...You can't possibly be my darling,{SAUT}so I guess I'll let this one slide!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0260",
+    "en": "Hee hee! I'll be extra gentle!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0261",
+    "en": " Grrr! I only wanted a little.{SAUT}You're so stingy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0268",
+    "en": " That's what I thought! Hey, but don't{SAUT}take a dump on me, okay!?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "TOILET.BIN:text:0269",
+    "en": "So you're pretty constipated, huh mister?{SAUT}Hee hee... just like me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0270",
+    "en": " What're you holding back for? Hmph!{SAUT}I know you want to let it all out and{SAUT}feel refreshed!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0271",
+    "en": "  Thank goodness... I was wondering what{SAUT}I'd do if you went all over me...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "TOILET.BIN:text:0272",
+    "en": "   Oh, is that so!? Then why don't we test{SAUT}it out!? I'm much harder than you!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "TOILET.BIN:text:0273",
+    "en": " W-Waaaaah! You're scary!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "TOILET.BIN:text:0274",
+    "en": "   Hmph, don't you understand sarcasm?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "TOILET.BIN:text:0279",
+    "en": "W-Waaaaah! I hate you...!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "TOILET.BIN:text:0280",
+    "en": "  I can't believe it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0281",
+    "en": "Hmmm... I think we can get along{SAUT}pretty good!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0282",
+    "en": "  Hee hee! I feel like I'm the heroine{SAUT}on some show!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0283",
+    "en": " W-Wait a second... are you taking me and{SAUT}the toilet all together?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0284",
+    "en": "  Hee hee! That's good! I can't live{SAUT}without my toilet!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0285",
+    "en": "  What's up with that!? You're just a kid{SAUT}yourself!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0286",
+    "en": "  Really, sound echoes inside a toilet,{SAUT}so I end up hearing a lot!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0287",
+    "en": "   You told me it would be amazing, but I{SAUT}didn't think it would be THIS good!{SAUT}Thanks for the tip!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0288",
+    "en": " W-Waaaaah...! I thought I was going{SAUT}to die...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0289",
+    "en": "  It's so bad it could kill me!{SAUT}Seriously, stop it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0290",
+    "en": "  You were awesome, mister! That was really{SAUT}cool...! Hee hee!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0291",
+    "en": "You still have enough air in you...?{SAUT}Hey mister, are you really human?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0303",
+    "en": "Umm... I just like toilets. The toilet{SAUT}itself isn't my main body...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TOILET.BIN:text:0304",
+    "en": "Really? Hey, what should I do?{SAUT}Should I become an idol?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TOILET.BIN:text:0308",
+    "en": " W-Waaaaah! Don't get all mad...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0310",
+    "en": "There's no need to get all embarrassed{SAUT}over something like this...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0318",
+    "en": "Huh, so you're pretty poor... Well, I{SAUT}don't mind! No worries!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0319",
+    "en": "  Hee hee! You're so dumb!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0320",
+    "en": "   Hee hee! Sorry, mister, but toilets are{SAUT}usually only built for one.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0321",
+    "en": "That's right! Now get out of my sight!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0322",
+    "en": " Never mind! I mean, I'm most comfortable{SAUT}inside a toilet.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0323",
+    "en": "  I really shouldn't go with a guy{SAUT}this easily...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0325",
+    "en": "  Oh, so that's what you mean! Yes, I get{SAUT}it now! Hee hee!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0326",
+    "en": "   Enough's enough!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0327",
+    "en": "   Hey! Don't come over here!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0332",
+    "en": "Huh, so you do... Then tell me later!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0333",
+    "en": "  Oh, is that so...? I'll flush anyone who{SAUT}bullies me out to the ocean!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0334",
+    "en": "  W-Waaaaah! Why're you bullying me...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0335",
+    "en": "  Hey! I just told you to be more serious!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0337",
+    "en": "If you're not going to listen to what{SAUT}I say, then screw you!!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0338",
+    "en": "  Hee hee! You think so?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0342",
+    "en": "Uhh, what was that? C'mon, stop being so{SAUT}high and mighty and tell me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0343",
+    "en": "  It really doesn't help even if you{SAUT}explain it...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0344",
+    "en": "   Hee hee! That's what I thought!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0345",
+    "en": "W-Waaaah! You're more dangerous than{SAUT}a complete idiot!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0346",
+    "en": " Hmph!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0349",
+    "en": " W-Waaaaah! You're gross...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  }
+]

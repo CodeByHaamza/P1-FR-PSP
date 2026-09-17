@@ -1,0 +1,502 @@
+[
+  {
+    "id": "SLIME.BIN:text:0112",
+    "en": "Just leave me alone!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0113",
+    "en": "   If you wanna talk to me, give me{SAUT}something![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0114",
+    "en": "   Leave me alone... I just wanna find out{SAUT}how to turn back into the demon I{SAUT}once was...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0115",
+    "en": "  I haven't done anything... Stop putting{SAUT}these weird ideas in my head...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0116",
+    "en": "You're talking to me! That's enough to{SAUT}make me happy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0117",
+    "en": "  What a great guy you are to wanna{SAUT}negotiate with me! Give me something![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0118",
+    "en": "   I don't really get it...{SAUT}Well... I kinda do!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0119",
+    "en": "   You want me? Then I want something too.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0120",
+    "en": "   I don't want anything that'll give me{SAUT}trouble! Go away!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0121",
+    "en": "If you want my help, then gimme{SAUT}something![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0122",
+    "en": "Leave me alone... I just wanna find out{SAUT}how to turn back into the demon I{SAUT}once was...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0123",
+    "en": "  You're dangerous... I don't think you'd{SAUT}take very good care of my spell card...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0124",
+    "en": "You need... ME!? ...I'm like... totally{SAUT}thrilled!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0125",
+    "en": "  Sure, I'll negotiate with ya! To kick{SAUT}it off, give me something![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0126",
+    "en": "  Come on, what's the use in makin' fun of{SAUT}me? Just negotiate straight!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0127",
+    "en": "  You're interested in me after all? Well,{SAUT}how about you give me something then![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0128",
+    "en": "That really chaps my hide! Gimme{SAUT}somethin'![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0129",
+    "en": "   I'm pissed! You need to make up for{SAUT}this! Give me something NOW![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0130",
+    "en": "  What're you gonna accomplish by making{SAUT}fun of me...? I've got a bad feeling...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0131",
+    "en": " I hate you... I don't wanna do this{SAUT}anymore, but I still want something...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0132",
+    "en": "I'm a slime! Scum of the demon world!{SAUT}So what good is making fun of me!?{SAUT}I should be the one laughing at you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0133",
+    "en": "  You really know how to entertain!{SAUT}You think this is gonna make me angry!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0134",
+    "en": "  You really are human... It's so nice{SAUT}for things to be so lively...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0135",
+    "en": " I like what you do... But I'd like you{SAUT}better if you gave me something![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0136",
+    "en": "   Will you shut up!? I'm not interested!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0137",
+    "en": " I was looking forward to something...{SAUT}you know, enjoyable! What a let down!{SAUT}Give me something instead![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0138",
+    "en": "What was that all about? Are you one{SAUT}of...\"those\" guys? If that's the case,{SAUT}I'll pass...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0139",
+    "en": "   Dude, you literally made me freeze up...{SAUT}Don't do that again...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0140",
+    "en": "I like stuff like that! Show me more!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0141",
+    "en": "  I'm so delighted! I want you to delight{SAUT}me even more! Give me something![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0142",
+    "en": "  Are you really inviting me...?{SAUT}But you're human, aren't you...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0143",
+    "en": "I don't mind doing what you ask, but{SAUT}you've gotta give me something first.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0144",
+    "en": "I bet you were just gonna make fun of{SAUT}me because I'm so low class! What a{SAUT}nasty human!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0145",
+    "en": " I don't get this! Aren't you going to{SAUT}pay some tribute to me? Well, are ya!?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0146",
+    "en": "  You must stumble on traps pretty{SAUT}often...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0147",
+    "en": "  You're human, aren't you? Helloooo,{SAUT}I'm a SLIME.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0148",
+    "en": "   You need me!? Does that mean I've still{SAUT}got a chance!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0149",
+    "en": " I can't believe a slime like me is being{SAUT}seduced! This is the best day of my life!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0150",
+    "en": " I'm the weakest demon ever, so why ya{SAUT}gotta act be like that!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0151",
+    "en": " If you're more courteous than me, maybe{SAUT}I should make a request too![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0152",
+    "en": "  That has to be a lie! I know for myself{SAUT}that I'm the weakest demon ever!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0153",
+    "en": "   If you really mean that, you better{SAUT}cough up some proof! Got it!?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0154",
+    "en": " Dude... What's the plan? You've totally{SAUT}got something up your sleeve...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0155",
+    "en": "Listening to tricks like that is what{SAUT}gave me this slime problem...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0156",
+    "en": "This feels great! Today is the happiest{SAUT}day of my life!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0157",
+    "en": "If you insist, maybe I should try{SAUT}threatening you! Give me something![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0158",
+    "en": " You already have my card! No reason for{SAUT}me to be here then, I guess...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0159",
+    "en": " I'll give you this... That won't be a{SAUT}problem, will it?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0160",
+    "en": "I guess I'm just a slime after all...{SAUT}I'm so sad...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0161",
+    "en": "＊glub＊ ＊blub＊(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0162",
+    "en": "  Are you actually weaker than me?{SAUT}You must really suck...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0163",
+    "en": "   Hey, may as well take this...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0164",
+    "en": "  I'll fade back into darkness...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0165",
+    "en": "You're awesome, so take this too!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0166",
+    "en": "  I'm takin' off...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0167",
+    "en": "  Take care of my spell card...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0168",
+    "en": "{PAGE}I'd like it if you made me into a really{SAUT}cool Persona, but you don't have to...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0169",
+    "en": " I'll give you this... In return, you{SAUT}have to let me go...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0170",
+    "en": "  I've got ambition, so I'm gonna go{SAUT}negotiate with different humans!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0171",
+    "en": "I'm off to negotiate with another human!{SAUT}Here's some inspiration to work on your{SAUT}negotiation skills!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0172",
+    "en": "   If that's how you wanna play it, then{SAUT}I'll play dirty too! Eat my card!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0173",
+    "en": "It's not like my card would be any use{SAUT}to you! ...So will this work?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0174",
+    "en": "   I wanna be useful for ya... So what{SAUT}should I do...?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0175",
+    "en": "I'll give you my spell card! I hope{SAUT}you use it to make a cool Persona!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0176",
+    "en": " That's why I don't wanna fight you...{SAUT}I don't like fighting...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0177",
+    "en": " Here's something to show my gratitude...{SAUT}It isn't much, but you can have it!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0178",
+    "en": "   I can't run... I'd never make it out{SAUT}alive... Guess I'll have to bribe my way{SAUT}outta this...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0179",
+    "en": "The only card I've got is my own...{SAUT}I'll give it to ya, but, sorry...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0180",
+    "en": "  Aren't you scared to be out when the{SAUT}moon isn't? You must have guts...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0181",
+    "en": " Does this mean you're gonna give me{SAUT}something? I've got a feeling you will![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0182",
+    "en": "   You're makin' fun of me, eh!? See!?{SAUT}Those eyes piss me off!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0183",
+    "en": "I hate you! If you want me to like you,{SAUT}then give me something![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0184",
+    "en": "   There's no moon... I'm scared...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0185",
+    "en": "   I know this is sudden... But please,{SAUT}can't you spare something for the{SAUT}weakest creature ever? Anything?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0186",
+    "en": "   Such a nice moon out tonight! Makes me{SAUT}wanna dance! Isn't it awesome!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0187",
+    "en": " I wished I could talk to a human, and{SAUT}my wish came true!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0188",
+    "en": "   [FFED]Do ya need me for something? ...Don't{SAUT}call me over for something stupid! Er...{SAUT}Was I the one who called you?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0189",
+    "en": "  [FFEE]I don't mind negotiating, but I don't do{SAUT}it for free! You'll have to give me{SAUT}something![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0190",
+    "en": "  [FFEC]I'd like to negotiate with you... But if{SAUT}you're too scary, I'm outta here...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0191",
+    "en": "  [FFEE]You look scary... But maybe you'll give{SAUT}me something...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0192",
+    "en": "  [FFEB]I'm in a good mood for once! Lucky you!{SAUT}Better negotiate with me fast!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0193",
+    "en": "[FFEB]I'm gonna negotiate with you! I just{SAUT}love humans! But first, gimme something![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0194",
+    "en": "[FFED]I didn't call you or anything, so what's{SAUT}up with that!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0195",
+    "en": "   [FFEC]Are you picking a fight with me? It's{SAUT}fine if you aren't...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0196",
+    "en": "   [FFED]I don't wanna look at your face. I'd{SAUT}prefer a beautiful moon any day!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0197",
+    "en": " [FFEB]Your face is stupid! So I'll let you{SAUT}give me something![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0198",
+    "en": "  [FFEC]You look scary, but I wanna talk...{SAUT}I think I'm anticipating something...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0199",
+    "en": " [FFEB]I love a tense situation! Don't you...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0200",
+    "en": "   You and I get along pretty well!{SAUT}Alright, it's a deal! Tell me what{SAUT}ya want!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0201",
+    "en": "   Hey! Are you gonna do anything besides{SAUT}pester me, or do we have a problem!?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0202",
+    "en": "Humans do such scary things... I don't{SAUT}wanna be here anymore with you...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0203",
+    "en": "   You do interesting things! I'm glad you{SAUT}gave me such a pleasant negotiation!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0204",
+    "en": "   You're a nasty human, but I suppose{SAUT}you've got some good traits... So it's{SAUT}a deal. Whaddaya want?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0205",
+    "en": "  I'm scared, but kinda curious too...{SAUT}What do you want?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0206",
+    "en": " You're so awesome! If I ever get{SAUT}reincarnated, I wanna be a human!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0207",
+    "en": "{PAGE}Anyway, it's a deal, buddy! What do you{SAUT}want me to do?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0208",
+    "en": " I don't understand you at all... I don't{SAUT}wanna continue a negotiation that{SAUT}stopped making sense!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0209",
+    "en": "   You can't even do a decent negotiation!{SAUT}You're worse than me!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0210",
+    "en": "  You're amazing! I'm totally impressed...{SAUT}I mean like, wow...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0211",
+    "en": "   I want money! Gimme (*VALUE*) yen!(*OPTION*)",
+    "fr": ""
+  }
+]

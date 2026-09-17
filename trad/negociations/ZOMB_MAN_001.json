@@ -1,0 +1,502 @@
+[
+  {
+    "id": "ZOMB_MAN.BIN:text:0000",
+    "en": "Iunno wut yur saying, but thaa voice{SAUT}sounz nostalgic.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0001",
+    "en": "  You dun even kno how painful thiz{SAUT}coldness iz...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0002",
+    "en": "  There'z no proov you won't trick me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0003",
+    "en": " I wuz so lonely bein all 'lone...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0004",
+    "en": "  Yur funny... I uzed to see guyz like{SAUT}you on TV alot...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0005",
+    "en": " Whu wuz thaa for? I'm not good to eat!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0006",
+    "en": " Whut're you doing!? I'll eat you, starting{SAUT}with yur head!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0007",
+    "en": "  Whu wuz thaat for!? Are you scared ov me!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0008",
+    "en": " Yur weird... but I like it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0009",
+    "en": "I've never lossa fight before...{SAUT}Wanna try me?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0010",
+    "en": " I wanna drag you into the earth...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0011",
+    "en": " Howcum yur not scared ov me...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0012",
+    "en": "I useda be a real scaredy cat... but I'm{SAUT}fine now...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0013",
+    "en": "   H-Hey... There'z not really anything{SAUT}behind me, right...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0014",
+    "en": "  Yur scared ov something like thaa?{SAUT}Haw... I could write storiez thaa'd make{SAUT}King run'n hide!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0015",
+    "en": "   My gramma sayz when people die, they go{SAUT}to heaven.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0016",
+    "en": "{PAGE}How dare you talk thaa way to a heav'nly{SAUT}creazure like me!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0017",
+    "en": "Why're you being so mean to me...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0018",
+    "en": " Yur juzt like my old lady... I wunner if{SAUT}she'z doing okay...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0019",
+    "en": "   You pick on me, and I'll get you back{SAUT}a hunzred times over!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0020",
+    "en": "Di'nt you have some kinda business{SAUT}with me...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0021",
+    "en": " I hate people with no manners!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0022",
+    "en": " Wut're you all mad for?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0023",
+    "en": "If I wuz my old self, I wudn't forgive{SAUT}you... nope...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0024",
+    "en": "  Girlz these dayz're scary...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0025",
+    "en": "   Yur alive, wearing cool clothez, and{SAUT}you still wanna pick on me?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0026",
+    "en": "   Hurrhurr... How embarrazing...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0027",
+    "en": " Wut'z with you allova sudden? I'm not{SAUT}a baby, y'kno...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0028",
+    "en": " Izzit okay if I act like a kid...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0029",
+    "en": " I never got to go to a club. I wunner{SAUT}wut kinda place it iz.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0030",
+    "en": "   I alrea'y kno I suck at dancing!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0031",
+    "en": "   If I could dance, would I be popular too?{SAUT}W-Would the kogalz be all over me...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0032",
+    "en": "Wanna do stand-up routinez with me?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0033",
+    "en": "Thaa wuz booooring! I'm picky when it{SAUT}comez to stan'up comedy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0034",
+    "en": " So coooold... I feel like I'm in{SAUT}the Ar'tic...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0035",
+    "en": " You gotta sense ov humor... I promize!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0036",
+    "en": " Wuz thaa song called?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0037",
+    "en": "  I alwayz got D'z in muzic class...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0038",
+    "en": " I never knew anywun inna world sucked{SAUT}thaa much at singing!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0039",
+    "en": "My muzic teazure wuz a real beauty...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0040",
+    "en": "  Wudduya think yur doing? Where'd you{SAUT}think this iz...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0041",
+    "en": " Yur pretty good! Iunno how you did it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0042",
+    "en": " Even after I died, the world keeps on{SAUT}turning...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0043",
+    "en": "   Thaa haz nuthing to do with me anymore!{SAUT}Don' even bring it up!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0044",
+    "en": " There'z a lotta stuff I wanna ask about.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0045",
+    "en": "   Hey, I'm just a guy. Can't you tell by{SAUT}looking at me?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0046",
+    "en": "  S-Stoppit... I alrea'y have a girl I like!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0047",
+    "en": " I wud'nt mind being frienz with you.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0048",
+    "en": "   Yur not my kinda girl! Get away!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0049",
+    "en": "   You look like a tasty lumpa meat.{SAUT}Not bad...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0050",
+    "en": "   Do I have blood on me...? The meat I ate{SAUT}earlier wuz pretty messy.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0051",
+    "en": " I'm not yur bruther or yur friend.{SAUT}Everywun mistakes me for somewun else{SAUT}lately...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0052",
+    "en": " Whu...? Do you need something with me?{SAUT}I need you for something too...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0053",
+    "en": "Wut's thaa?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0054",
+    "en": "I gave her all thoze prezents... but thaa{SAUT}witch wuz still cheating on me... Dammit!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0055",
+    "en": "Yur gonna give thaa to me!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0056",
+    "en": "Y'kno... I went through sum hard timez{SAUT}myself...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0057",
+    "en": "   There'z nuthing more s'picious than{SAUT}a woman's tearz...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0058",
+    "en": " H-Hey, don't cry...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0059",
+    "en": "   I'm starting to get the hang ov acting{SAUT}like a demon.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0060",
+    "en": "   Then get strong like me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0061",
+    "en": "   Women're scary. Wut're they thinking...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0062",
+    "en": "   Am I strong? Am I scary? Huhuh...{SAUT}I'm glad I became a demon!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0063",
+    "en": "   Sounz like yur talking about some{SAUT}hard stuff.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0064",
+    "en": "  If you really mean it, prove it...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0065",
+    "en": "C'mon... Thaa'z all you have to say?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0066",
+    "en": "   Enuff with all the talking! Here'z wut{SAUT}I want...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0067",
+    "en": "  Wut language iz thaa? I don't unnerstand{SAUT}it at all...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0068",
+    "en": "  Wut am I s'posedta do after being told{SAUT}something like thaa...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0069",
+    "en": " This's like running into an old buddy.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0070",
+    "en": " The stuff humanz talk about is fun no{SAUT}matter how many timez I hear it...{SAUT}It'z real inneresting.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0071",
+    "en": "Hrmmm... Duz thaa mean you need my help?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0072",
+    "en": "   If you really mean thaa, then prove it.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0073",
+    "en": "   Thaa made my eyeball pop out! How're you{SAUT}gonna pay for this!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0074",
+    "en": "  I don't have any power to lend you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0075",
+    "en": "So you need me... Yur prob'ly closer to{SAUT}us than humanz...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0076",
+    "en": "  Wut language're you speaking? I don't{SAUT}geddit at all...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0077",
+    "en": " I guess a zombie like me izn't completely{SAUT}useless if humanz're asking for my help!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0078",
+    "en": " I'm real happy to hear it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0079",
+    "en": " I might not look like it, but my IQ'z{SAUT}1300. I kno just wut yur thinking.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0080",
+    "en": "   Y'think thaa's the right attitude for{SAUT}negoshiashun? Sounz like yur brain'z{SAUT}pretty rotten too.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0081",
+    "en": "  You ain't smart at all! You got no{SAUT}right to make fun ov me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0082",
+    "en": "You've gone way too far, making fun{SAUT}ov me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0083",
+    "en": " Don't unnerestimate me just cuz I'm{SAUT}a zombie...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0084",
+    "en": "You ain't smart at all! You got no{SAUT}right to make fun ov me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0085",
+    "en": "Yur real childish. But yur funny!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0086",
+    "en": "  I guess this iz wut they mean by the{SAUT}\"recklessness ov youth\"... I like it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0087",
+    "en": " Huhuh... Thaa'z so stupid!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0088",
+    "en": " You better make up for the time I lost{SAUT}watching yur stupid trick somehow...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0089",
+    "en": "   How dare you sho me something so{SAUT}frickin' lame...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0090",
+    "en": " You suck! Lemme do it instead! I wuz in{SAUT}a festival band once!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0091",
+    "en": "  Yur not making any sense at all!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0092",
+    "en": "   Are you frickin' nuts...? I'd better{SAUT}do wut you say...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0093",
+    "en": " Iz this like a party? Ahuhuhuh!{SAUT}I luv parties!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0094",
+    "en": " Ahuhuhuh! Yur hilarious!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0095",
+    "en": "   Woah, I'm starting to drool all over{SAUT}the place! Hurhurhur!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0096",
+    "en": " I uzed to be real stoic when I wuz{SAUT}still human... but now I'm a demon![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0097",
+    "en": "Iz it thaa much fun mocking me!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0098",
+    "en": "   I've been pretty unnerrated... Thaa'z{SAUT}not wut I want![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ZOMB_MAN.BIN:text:0099",
+    "en": " O-Ov course everywun's free to chooze{SAUT}thaa... But I'm not like them!{SAUT}I'm different!(*RESPONSE*)",
+    "fr": ""
+  }
+]

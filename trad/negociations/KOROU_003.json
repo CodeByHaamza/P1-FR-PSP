@@ -1,0 +1,502 @@
+[
+  {
+    "id": "KOROU.BIN:text:0204",
+    "en": " I'm tired... Mind if I skidaddle?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0205",
+    "en": "  My back may not be in the best shape,{SAUT}but I'm still active.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0206",
+    "en": "{PAGE}My spell card's kinda old, but you{SAUT}better not put it in storage.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0207",
+    "en": "  Urgh... I'm gettin' pains... I better{SAUT}get home. G-G-Goodbye...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0208",
+    "en": " Aw, knock it off! Humans are much more{SAUT}boring than I coulda thought! I'm{SAUT}hittin' the road!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0209",
+    "en": " Aw, knock it off! Humans are much more{SAUT}boring than I coulda thought!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0210",
+    "en": "{PAGE}If I give ya this, I can go, right!?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0211",
+    "en": " Hrrnng... I'm feelin' dizzy... You're{SAUT}a real whippersnapper, raisin' my blood{SAUT}pressure like that!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0212",
+    "en": "  But, I guess it's okay. Even meetings{SAUT}by chance are meetings of fate.{SAUT}...Take my card.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0213",
+    "en": " You may be able to forge a new{SAUT}path...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0214",
+    "en": " So, take my spell card.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0215",
+    "en": "...I don't want to hafta fight you.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0216",
+    "en": "It ain't an easy world to get by in for{SAUT}you humans. I'm worried about ya, so{SAUT}take this with you...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0217",
+    "en": " Argh! M-My back...! I'm done for...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0218",
+    "en": "I ain't gonna defy ya. I'll give ya{SAUT}my spell card if ya just lemme go...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0219",
+    "en": "   Ho, ho! Quite a surprise to find humans{SAUT}in a place like this.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0220",
+    "en": "{PAGE}But what are ya doin' here without the{SAUT}moonlight as your guide?[FFFD][73FF][F500]   If this shows up, it's a bug.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0221",
+    "en": "  Ho ho ho, didn't expect to find anyone{SAUT}out walkin' with me here...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0222",
+    "en": "{PAGE}It's lonely without a moon, ain't it?{SAUT}I'll keep ya company, but how 'bout{SAUT}somethin' to make it worth my while?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0223",
+    "en": "Hey! This path is private! Ya'll are{SAUT}trespassing if ya ain't got permission!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0224",
+    "en": "{PAGE}Hm... And yer human, too! Ugh, this is{SAUT}deplorable![FFFD][74FF][F500] Hey! This is my walkin' path! I don't{SAUT}need no humans trashin' it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0225",
+    "en": "  Hey! This is my strollin' path! You{SAUT}need my permission to be here!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0226",
+    "en": "{PAGE}Ya wanna pass, then pay the toll![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0227",
+    "en": " Without the moon... us old folks can't{SAUT}see the ground so well. Makes it hard{SAUT}to take evening strolls...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0228",
+    "en": "{PAGE}...Why does the moon disappear?[FFFD][75FF][F500] If this shows up, it's a bug.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0229",
+    "en": "  I ain't anybody suspicious... just{SAUT}an old geezer... Please don't hurt me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0230",
+    "en": "It's best to watch the moon with some{SAUT}snacks in hand! Just when I figured that{SAUT}out, you showed up!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0231",
+    "en": "{PAGE}You must be heaven sent... so you've{SAUT}got some for me, right?[FFFD][76FF][F500] Well, wouldya look at that! The moon's{SAUT}lookin' mighty fine tonight!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0232",
+    "en": "{PAGE}It's such an inspiration. Feels good{SAUT}to be alive at times like these.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0233",
+    "en": " Ho, ho! An unsuspecting human's been{SAUT}caught in my net!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0234",
+    "en": "{PAGE}Welcome to the darkness of the{SAUT}netherworld! If ya want out, give me{SAUT}somethin'![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0235",
+    "en": "[FFED]Eh? A human? Please, no boring stories!{SAUT}Hm...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0236",
+    "en": "{PAGE}But if ya manage to impress me, maybe{SAUT}you'll get my card.[FFFD][77FF][F500][FFEE]This is peculiar... It ain't like me to{SAUT}talk to humans, but...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0237",
+    "en": "[FFED]What? I thought I'd found company, but{SAUT}it was just some wayward humans!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0238",
+    "en": "{PAGE}I'll negotiate with ya, but ya better{SAUT}make it worth my while with sometin'![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0239",
+    "en": " [FFEE]I'm reachin' out to ya because I've got{SAUT}a question... Gimme yer best answer.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0240",
+    "en": "{PAGE}What do you think of moonless nights{SAUT}like tonight, human?[FFFD][78FF][F500] If this shows up, it's a bug.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0241",
+    "en": "  [FFEC]Why are ya meanderin' around in my{SAUT}territory? I don't get it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0242",
+    "en": " [FFEB]Oooh! You here to keep me company?{SAUT}Perfect!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0243",
+    "en": "{PAGE}Luck is with me today! Why don't ya{SAUT}tell me a story? Make it interesting![FFFD][79FF][F500]  [FFEE]Ooh! Ooh! You mind keepin' me company{SAUT}for a bit? Sorry to trouble you.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0244",
+    "en": "{PAGE}I don't have much to offer at my age,{SAUT}but I'll negotiate with ya on faith.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0245",
+    "en": "[FFEE]Heh, you've got a nice face for a human.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0246",
+    "en": "{PAGE}Maybe you'll be a saint someday! Hohoho!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0247",
+    "en": "[FFED]Hey! Ain't ya got manners!? The first{SAUT}greeting comes from the younger or the{SAUT}inferior!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0248",
+    "en": "{PAGE}Wh-Whatchya starin' at? Cat got yer{SAUT}tongue?[FFFD][7AFF][F500] If this shows up, it's a bug.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0249",
+    "en": "  [FFED]...! So it WAS a human! So that's why{SAUT}I felt queasy! Now I'm havin' mixed{SAUT}emotions, no thanks to you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0250",
+    "en": " [FFEB]Hee hee! Another victim ensnared by the{SAUT}moon's charms!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0251",
+    "en": "{PAGE}You're already fish in a bucket. If{SAUT}you've got last words, I'll hear 'em.[FFFD][7BFF][F500]   [FFEB]Take a gander at the moon! It's such{SAUT}a beautiful night!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0252",
+    "en": "{PAGE}It really makes the spirit flow over,{SAUT}even in an old fogey like me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0253",
+    "en": "  [FFEB]Hee hee! Another victim ensnared by the{SAUT}moon's charms!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0254",
+    "en": "{PAGE}I'm feelin' generous tonight. I'll take{SAUT}somethin' other than yer life.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0255",
+    "en": "   [FFEC]...Eh? I thought you were an old{SAUT}acquaintance. ...Who goes there?[FFFD][7CFF][F500]   If this shows up, it's a bug.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0256",
+    "en": "  [FFEB]...Eh? I thought you were an old{SAUT}acquaintance. Seems I'm mistaken.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0257",
+    "en": "{PAGE}I don't know you from Adam... Hohoho...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0258",
+    "en": "   Ooh! A life of servitude is a life{SAUT}well lived. You got any wishes?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0259",
+    "en": " Argh! I'm blowin' my top! You ready to{SAUT}put up your dukes!?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0260",
+    "en": " Yeargh! It's a demon! Ya know what they{SAUT}say, he who runs fights another day!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0261",
+    "en": "   Hohoho! Not every day ya laugh this{SAUT}much!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0262",
+    "en": "  Still! This is a pain! Let's pick up{SAUT}the pace on this negotiation!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0263",
+    "en": "{PAGE}Come on, don't just stand there all{SAUT}slack-jawed! Hurry up and state yer{SAUT}business!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0264",
+    "en": "  Still! Why you usin' techniques like{SAUT}that on me...?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0265",
+    "en": "{PAGE}No matter how old I get, I don't{SAUT}understand humans any better. Whaddaya{SAUT}want from me?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0266",
+    "en": " Ho, ho! That was hospitality at its{SAUT}finest! You're as sincere as they come!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0267",
+    "en": "{PAGE}Alright, to show my gratitude, I'll{SAUT}return the favor!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0268",
+    "en": " What the...!? Why's an old-timer like{SAUT}me gotta go through with this!?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0269",
+    "en": "  Your negotiation style's a bit immature!{SAUT}Try it again later.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0270",
+    "en": "   Hmmm... Maybe if I went with you, I'd{SAUT}have a peaceful life. Perhaps it's time{SAUT}to give over...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0271",
+    "en": "  Well... Hmm... What should I ask for...?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0272",
+    "en": "{PAGE}I guess I'll take my share of the money.{SAUT}￥(*VALUE*).(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0273",
+    "en": " Ho, ho! You make it seem like money{SAUT}really does grow on trees!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0274",
+    "en": " Empty pockets, eh?! You're hopeless...{SAUT}But I guess ya can't give what ya{SAUT}ain't got...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0275",
+    "en": "  Hey! You're comin' up short! Lyin' never{SAUT}pays!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0276",
+    "en": " What a waste... Yer supposed to be{SAUT}savin' money at your age, ain't ya?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0277",
+    "en": " Nobody likes emptyin' their wallet...{SAUT}But ya still gotta do it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0278",
+    "en": "Let's see... I think I'll take a{SAUT}delicious life stone. One oughta do.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0279",
+    "en": "  Ho ho! You're well-behaved for your age.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0280",
+    "en": "   You ain't got the goods!? Anyone who'd{SAUT}negotiate without life stones is a real{SAUT}terror...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0281",
+    "en": "   Hey! You're comin' up short! Lyin' never{SAUT}pays!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0282",
+    "en": " You don't get it, do ya? There ain't no{SAUT}door a life stone can't open. Ya best{SAUT}keep that in mind.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0283",
+    "en": "   Nobody likes emptyin' their wallet...{SAUT}But ya still gotta do it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0284",
+    "en": "I ain't no profiteer, but I'd like a{SAUT}[FFF4] very much.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0285",
+    "en": "  You'll give it to me? I guess anything's{SAUT}worth a shot. Hohoho.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0286",
+    "en": " It was my mistake.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0287",
+    "en": " Ho ho ho! I was just tryin' to be a bit{SAUT}ambitious. Don't pay this old man no{SAUT}heed.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0288",
+    "en": " Argh! What a waste! You tryin' to make{SAUT}a mockery of livin' within your means!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0289",
+    "en": " Lemme see... I'll take food over flowers{SAUT}any day. Gimme some life.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0290",
+    "en": " Ho ho! How delicious! I better not{SAUT}over-eat. Gives me indigestion!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0291",
+    "en": " Eh? You feelin' alright? You gotta take{SAUT}better care of yourself.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0292",
+    "en": "   Argh! Ya won't let me take any!? You{SAUT}shouldn't be so finicky!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0293",
+    "en": "  Really!? Well, I understand the need to{SAUT}be modest!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0294",
+    "en": " What's that!? Ya say there're things{SAUT}even I can't accomplish? Intriguing!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0295",
+    "en": "  I'm old. I shouldn't strain myself...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0296",
+    "en": "  That's right! Gimme the details, and{SAUT}I'll give ya my ear.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0297",
+    "en": "  Hohoho, you've got some fine pickins.{SAUT}Maybe it's worth complyin' with you...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0298",
+    "en": "   Hey! Ain't no worse negotiation tactic{SAUT}than bribery!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0299",
+    "en": "   What ya gettin' all excited about!?{SAUT}I never said I'd give ya my spell card!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0300",
+    "en": "Heh, I'm glad yer honest.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0301",
+    "en": "  Eh? You don't need it? Well yer no{SAUT}fun...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0302",
+    "en": "  Argh! You don't get it! That won't{SAUT}effect me in the slightest!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0303",
+    "en": " Ah, you haven't taken the first step{SAUT}toward spirituality. Not that I blame ya{SAUT}at your age.(*RESPONSE*)",
+    "fr": ""
+  }
+]

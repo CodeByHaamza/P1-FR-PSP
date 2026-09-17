@@ -1,0 +1,516 @@
+[
+  {
+    "id": "BASKET.BIN:text:0201",
+    "en": " If you want. Alright! Here ya go!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0202",
+    "en": "  Tch, is that so!?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0203",
+    "en": "  Seems you and me don't get along.{SAUT}Well, guess that can't be helped.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0204",
+    "en": "Huh? You!? YOU want my spell card!?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0205",
+    "en": "{PAGE}I don't think I heard you right!{SAUT}You're way too weak!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0206",
+    "en": " Oh well. Go ahead, take it.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0207",
+    "en": "Lates.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0208",
+    "en": " I'll give this to you, too. Nice{SAUT}meetin' ya!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0209",
+    "en": "   ＊sigh＊ Stick around here too long, and{SAUT}I'll have roots growin' outta my ass.{SAUT}I'm outta here.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0210",
+    "en": "   Here's my card. I don't care who you{SAUT}fuse me with, just not with any crap,{SAUT}okay!?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0211",
+    "en": "{PAGE}Make me a Persona that can bring his{SAUT}A game to the hoop!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0212",
+    "en": "...Oh yeah! I'll give you this! You're{SAUT}happy now, right? Right!? So, please!{SAUT}Just lemme go!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0213",
+    "en": "Man, if I hang around you any longer,{SAUT}my head's gonna get moldy!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0214",
+    "en": "   I'll give ya this, so scram! Hahaha!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0215",
+    "en": "   Now then, what should I do with you...?{SAUT}I have no idea! Is my brain that weak!?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0216",
+    "en": "Argh! I don't get it! You want a card,{SAUT}right!? Fine, take it!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0217",
+    "en": "  I'm not too good with words, but I wanna{SAUT}help you guys out.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0218",
+    "en": "If it's okay with you, take my card!{SAUT}I don't think it's a bad offer...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0219",
+    "en": " Damn it! I don't wanna fight you!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0220",
+    "en": "  I must be goin' soft... But here's a{SAUT}present! Take it!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0221",
+    "en": " I know! You want my card, right?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0222",
+    "en": "   But if you kill me after I give you my{SAUT}card, there's no point...Yeahhh, huh...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0223",
+    "en": " Heh heh! Well, if it isn't a human!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0224",
+    "en": "{PAGE}Hmm... Why are you guys runnin'{SAUT}around here?[FFFD][6CFF][F500]Tryin' to negotiate with a demon? Man,{SAUT}talk about crazy...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0225",
+    "en": " It must be fate that we've met here!{SAUT}Gimme somethin' to remember you by![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0226",
+    "en": "  Hey, you! You're in my way![FFFD][6DFF][F500]  What the hell!? Don't talk to me!{SAUT}I was just out havin' a stroll!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0227",
+    "en": "  Look, if you wanna pass, gimme{SAUT}somethin'! Those're the rules![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0228",
+    "en": " You might get hurt if something happens{SAUT}while you're near me...[FFFD][6EFF][F500]  Ugh, you guys... I knew it was bad luck{SAUT}when that black cat walked in front of{SAUT}me this morning...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0229",
+    "en": "  There's no way demons could lose to{SAUT}humans! Um, that's what the others{SAUT}think, anyway.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0230",
+    "en": "  Hey, what's happening? There a game{SAUT}goin' on?[FFFD][6FFF][F500]You answered! Is it because I'm just{SAUT}so popular?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0231",
+    "en": "   Y'know, I don't talk to humans too{SAUT}often. I'm actually kinda nervous...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0232",
+    "en": "[FFED]Well, I'm glad you answered my call,{SAUT}but I have a question...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0233",
+    "en": "{PAGE}If you've got time to be doin' this,{SAUT}don't you have somethin' better you{SAUT}could be doin'?[FFFD][70FF][F500] [FFED]You got some business with me!? Or are{SAUT}you just here to chill? Gimme a straight{SAUT}answer!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0234",
+    "en": "   [FFEE]Gimme somethin', and maybe I'll be{SAUT}willing to listen![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0235",
+    "en": "[FFEC]You don't really want anything from me,{SAUT}huh? Guess I'll be off...[FFFD][71FF][F500]   [FFEC]Aw crap, humans! Man, I have the worst{SAUT}luck...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0236",
+    "en": "{PAGE}I always get the troublemakers. Same{SAUT}with my love life.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0237",
+    "en": "   [FFEC]First off, let's set some ground rules.{SAUT}NO VIOLENCE! I'll treat ya right...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0238",
+    "en": "   [FFEB]To tell you the truth, my heart is{SAUT}pounding. Man, I just wanna go nuts![FFFD][72FF][F500] [FFEE]Y'know, I think we're close enough to{SAUT}call each other brothers!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0239",
+    "en": "   [FFEE]I love humans... But I shouldn't be{SAUT}going on like that, huh?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0240",
+    "en": "  [FFEC]You some kinda spy? You can't fool{SAUT}me, spy![FFFD][73FF][F500] [FFEC]It wasn't me! It wasn't me, man!{SAUT}Have a heart!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0241",
+    "en": "[FFED]Ugh... [FFF9]... I'm your... grandpa...{SAUT}Thank you for calling me here...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0242",
+    "en": "{PAGE}...Violence is not the way... You must{SAUT}not harm demons... Guwah!? Did I just{SAUT}say somethin'!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0243",
+    "en": " [FFED]Do you really think you can change{SAUT}things on your own!?[FFFD][74FF][F500] [FFEB]Just as ants cannot comprehend the size{SAUT}of an elephant, you cannot comprehend{SAUT}my greatness!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0244",
+    "en": "   [FFED]I'll be king of the world someday!{SAUT}It's best if you don't mess with me![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0245",
+    "en": "  [FFEC]What play are you guys gonna use on me?{SAUT}Is it the pick and roll!? Anything but{SAUT}the pick and roll![FFFD][75FF][F500]   [FFEB]What is this? I've never felt my heart{SAUT}pound so fast...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0246",
+    "en": "   [FFEB]Hurt me morrrrrrre!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0247",
+    "en": "   Sooo... Whatcha tryin' to say?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0248",
+    "en": " You've pissed me off, and that's{SAUT}a foul punishable by death! Time{SAUT}to pay up!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0249",
+    "en": "   Wha-What...? You don't like me, huh?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0250",
+    "en": "   I don't feel like we're strangers{SAUT}anymore. Can I call ya \"bro\"?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0251",
+    "en": "How long you plannin' on dragging this{SAUT}out? If ya got business with me, come{SAUT}out with it!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0252",
+    "en": "  I'm willin' to hear ya out, so put{SAUT}away those shiny weapons, will ya?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0253",
+    "en": "  Ah, the smell of blood is in the air.{SAUT}I'm feelin' good today, so I'll hear{SAUT}ya out!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0254",
+    "en": " I can't take it anymore! Someone, help{SAUT}me! These guys are whack!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0255",
+    "en": "   I can smell blood! It looks fun over{SAUT}there!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0256",
+    "en": "If I cut my stomach open, would you eat{SAUT}it? I'd eat you, ya know...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0257",
+    "en": "It's all about the Yenjamins, baby!{SAUT}I gotta buy a new ball! Gimme (*VALUE*)!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0258",
+    "en": "   Sorry 'bout that, man!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0259",
+    "en": " Don't mess with me, punk! You ain't{SAUT}pullin' no fast ones on me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0260",
+    "en": "Don't mess with me, punk! That's pretty{SAUT}funny to say ya've got somethin' when{SAUT}ya don't!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0261",
+    "en": "Look, I ain't askin' ya to give me{SAUT}somethin'. I'm ordering you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0262",
+    "en": "You ain't the sharpest tool in the shed,{SAUT}are ya? There's no point in saving up{SAUT}money. Once ya die, it's useless.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0263",
+    "en": "   One life stone! I'll settle for that!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0264",
+    "en": "  You've got more than I thought! But{SAUT}I've gotta say, this doesn't feel like{SAUT}it's enough.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0265",
+    "en": "Hey, hey, hey, hey! Gimme a break!{SAUT}This is going nowhere!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0266",
+    "en": "  Hey! Don't be lyin' to me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0267",
+    "en": " My hearing must be going! I didn't just{SAUT}hear you say \"no,\" did I!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0268",
+    "en": " Huh? If ya want my wrath, I'll give it{SAUT}to ya free of charge!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0269",
+    "en": "   [FFF4]......{SAUT}...Naw, you don't have to give me one if{SAUT}ya don't want to!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0270",
+    "en": " Hey, check this out! Isn't this a{SAUT}pretty gem?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0271",
+    "en": "  Tch! It's pointless talking to you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0272",
+    "en": "If ya desire too much, it'll destroy you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0273",
+    "en": "  ...Well, I did say you didn't have to{SAUT}give it to me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0274",
+    "en": " If you give me some of your life,{SAUT}I'm sure I'd feel a little better!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0275",
+    "en": "   There, there, you're a good kid.{SAUT}I'll make sure it doesn't hurt!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0276",
+    "en": "   Tch! You're a bad kid, so I'm gonna{SAUT}punish you! That's right, ya brat!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0277",
+    "en": " Denied!? But I really want some!{SAUT}I've got a craving for blood!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0278",
+    "en": " What!? I... I! I'm chasing the dream!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:text:0279",
+    "en": "  Well said! Positive thinking is{SAUT}important!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:text:0280",
+    "en": " Well, there you have it.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:text:0281",
+    "en": "   You're an honest one, huh? It might be{SAUT}fun to watch honesty turn around and{SAUT}bite ya...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "BASKET.BIN:text:0282",
+    "en": " You'll see whether or not that's{SAUT}possible when ya eat my dunk!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "BASKET.BIN:text:0283",
+    "en": " You've got confidence... Something's{SAUT}up... Something's up with you!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "BASKET.BIN:text:0284",
+    "en": "Oh well. Guess I'll do some babysitting!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:text:0285",
+    "en": "   Oh well! This is why I hate kids!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:text:0286",
+    "en": "  Is that so? Then let's try it out!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "BASKET.BIN:text:0287",
+    "en": " Heh, what a bull! You see what you want,{SAUT}and you charge! I like that!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "BASKET.BIN:text:0288",
+    "en": "  Well, yeah! If you get it, can't you{SAUT}have a little more humility!?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "BASKET.BIN:text:0289",
+    "en": " Oh, that so? Then... Maybe I should have{SAUT}you shine my ball!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0290",
+    "en": "Oooh, that makes me happy. Youngsters{SAUT}should act more like that!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:text:0291",
+    "en": "   Oooh, that makes me happy! And it makes{SAUT}it even easier to kill you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0292",
+    "en": "It's rough, man. Practice is a battle{SAUT}where your opponent is yourself.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0293",
+    "en": " Whaddaya mean!? This is important to me!{SAUT}You don't get it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0299",
+    "en": " Oh er... Um... I'm short on time here,{SAUT}and this guy ain't even listening...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0300",
+    "en": "You idiot! You can't win without practice!{SAUT}Don't you get it!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0301",
+    "en": "  I don't need your sympathy! So what if{SAUT}my only skill is ballin'!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0302",
+    "en": "  Huh!? Well, aren't we frank!{SAUT}I'll crush your throat!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:text:0303",
+    "en": "   I'm goin' to nationals! Not like{SAUT}I wanna be a singer...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:text:0304",
+    "en": "What are you doing to me!? I've got a{SAUT}game comin' up! You're dead, man!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:text:0305",
+    "en": "I'm losing consciousness... It's kinda{SAUT}different from runnin' outta breath...(*RESPONSE*)",
+    "fr": ""
+  }
+]

@@ -95,16 +95,16 @@
     "id": "E2.BIN:215:0000",
     "locuteur": "Maki",
     "en": "Are you finished here? Can we leave yet?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Maki",
+    "fr": "T'as fini? On peut partir?{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:215:0001",
     "locuteur": "Nanjo",
     "en": "Psychological wounds are difficult to{SAUT}treat, since they can't be seen.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Nanjo",
+    "fr": "Les blessures psy sont difficiles{SAUT}à soigner, car invisibles.{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -119,8 +119,8 @@
     "id": "E2.BIN:215:0003",
     "locuteur": "Mark",
     "en": "What're we waiting for? Let's get patched{SAUT}up and go!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mark",
+    "fr": "Qu'on attend quoi? Allons{SAUT}se soigner et on y va!{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -134,61 +134,61 @@
     "id": "E2.BIN:215:0005",
     "locuteur": "Brown",
     "en": "When's the time come when I'm considered{SAUT}a local hero? No, a national hero!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Brown",
+    "fr": "Quand viendra le jour où je suis vu{SAUT}héros local? Non, national!{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:215:0006",
     "locuteur": "Ayase",
     "en": "I just wanna hurry up and get back to{SAUT}normal life!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Ayase",
+    "fr": "Je veux juste retrouver vite{SAUT}une vie normale!{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:215:0007",
     "locuteur": "Reiji",
     "en": "I want to get this all over with as soon{SAUT}as I can.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Reiji",
+    "fr": "Je veux que ça finisse vite{SAUT}possible je peux.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:215:0008",
     "locuteur": "Reiji",
     "en": "Don't you have someone waiting for you{SAUT}to come home, too?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Reiji",
+    "fr": "T'as pas quelqu'un qui t'attend aussi{SAUT}à la maison?{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:215:0009",
     "locuteur": "Nurse",
     "en": "It's dangerous outside, so don't go{SAUT}wandering around too much!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmière",
+    "fr": "C'est dangereux dehors, alors ne traîne{SAUT}pas trop!{ATTENTE}"
   },
   {
     "id": "E2.BIN:215:0010",
     "locuteur": "Doctor",
     "en": "I hope the demons go away soon...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Docteur",
+    "fr": "Vivement la fin des démons...{ATTENTE}"
   },
   {
     "id": "E2.BIN:215:0011",
     "locuteur": "Doctor",
     "en": "Then again, that might put us out of{SAUT}business. Haha!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Docteur",
+    "fr": "Mais ça pourrait nous mettre au chômage{SAUT}aussi haha!{ATTENTE}"
   },
   {
     "id": "E2.BIN:216:0004",
     "locuteur": "Elly",
     "en": "I want to drive out the demons and return{SAUT}this town to normal...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Je veux chasser les démons et rendre{SAUT}cette ville normale...{ATTENTE}"
   },
   {
     "id": "E2.BIN:216:0009",
@@ -215,8 +215,8 @@
     "id": "E2.BIN:216:0012",
     "locuteur": "Nurse",
     "en": "I even find myself sometimes wishing{SAUT}it would all disappear.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmière",
+    "fr": "Parfois, je voudrais que tout{SAUT}disparaisse.{ATTENTE}"
   },
   {
     "id": "E2.BIN:217:0000",
@@ -229,36 +229,36 @@
     "id": "E2.BIN:217:0001",
     "locuteur": "Maki",
     "en": "I think I know that monster in the subway{SAUT}from some book... by Lovecraft, I think.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Je crois je connais ce monstre du métro{SAUT}d'un livre... de Lovecraft, je crois.{ATTENTE}"
   },
   {
     "id": "E2.BIN:217:0002",
     "locuteur": "Maki",
     "en": "The Expel Mirror is here, right?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Le miroir d'Expulsion est ici?{ATTENTE}"
   },
   {
     "id": "E2.BIN:217:0003",
     "locuteur": "Nanjo",
     "en": "You don't trust Tsutomu? He seems much{SAUT}more reliable than the one we know.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Tu ne fais pas confiance à Tsutomu?{SAUT}Il semble plus fiable que l'autre.{ATTENTE}"
   },
   {
     "id": "E2.BIN:217:0004",
     "locuteur": "Nanjo",
     "en": "Dear lord, that stench...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Bon dieu, cette odeur...!{ATTENTE}"
   },
   {
     "id": "E2.BIN:217:0005",
     "locuteur": "Nanjo",
     "en": "That's right. The Expel Mirror was on{SAUT}display here.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "C'est vrai. Le miroir d'Expulsion était{SAUT}expose ici.{ATTENTE}"
   },
   {
     "id": "E2.BIN:217:0006",
@@ -278,36 +278,36 @@
     "id": "E2.BIN:217:0008",
     "locuteur": "Mark",
     "en": "That suspicious dude again...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Encore ce type louche...{ATTENTE}"
   },
   {
     "id": "E2.BIN:217:0009",
     "locuteur": "Elly",
     "en": "I wish they had more exhibits about{SAUT}demons here.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "J'aimerais plus d'expos{SAUT}sur les démons ici.{ATTENTE}"
   },
   {
     "id": "E2.BIN:217:0010",
     "locuteur": "Elly",
     "en": "That demon we saw was marvelous! I was{SAUT}so moved to lay eyes on it...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Ce démon qu'on a vu était merveilleux!{SAUT}J'étais si émue de le voir...{ATTENTE}"
   },
   {
     "id": "E2.BIN:217:0011",
     "locuteur": "Elly",
     "en": "We can fight the demon in the subway if{SAUT}we have the Expel Mirror, correct?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "On peut combattre le démon du métro si{SAUT}on a le miroir d'Expulsion, non?{ATTENTE}"
   },
   {
     "id": "E2.BIN:217:0012",
     "locuteur": "Brown",
     "en": "This stuff isn't really my thing.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "C'est pas trop mon truc.{ATTENTE}"
   },
   {
     "id": "E2.BIN:217:0013",
@@ -334,15 +334,15 @@
     "id": "E2.BIN:217:0016",
     "locuteur": "Ayase",
     "en": "Uuuugh, I can't get that monster's smell{SAUT}off me.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Beurk, je n'arrive pas à enlever{SAUT}cette odeur.{ATTENTE}"
   },
   {
     "id": "E2.BIN:217:0017",
     "locuteur": "Ayase",
     "en": "Someday I'll find out who that weird guy{SAUT}really is!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Un jour je saurai qui est ce type{SAUT}bizarre!{ATTENTE}"
   },
   {
     "id": "E2.BIN:217:0018",
@@ -355,8 +355,8 @@
     "id": "E2.BIN:217:0019",
     "locuteur": "Reiji",
     "en": "I've never seen a monster like that.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "J'ai jamais vu un monstre pareil.{ATTENTE}"
   },
   {
     "id": "E2.BIN:217:0020",

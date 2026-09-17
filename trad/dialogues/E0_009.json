@@ -620,7 +620,7 @@
     "locuteur": "Elly",
     "en": "Oh, but I nearly forgot! We should go{SAUT}to the (*TEXTBOX_PARAM,0700*)shrine(*TEXTBOX_PARAM,0000*) first.{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Oh, j'allais oublier! Passons d'abord{SAUT}par le (*TEXTBOX_PARAM,0700*)sanctuaire(*TEXTBOX_PARAM,0000*).{ATTENTE}"
+    "fr": "Oh, j'allais oublier! Passons d'abord{SAUT}par l'(*TEXTBOX_PARAM,0700*)autel(*TEXTBOX_PARAM,0000*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:025:0021",
@@ -669,7 +669,7 @@
     "locuteur": "Elly",
     "en": "The shrine isn't far from the school.{SAUT}We should have no problems.{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Le sanctuaire est près du lycée.{SAUT}Cela devrait aller.{ATTENTE}"
+    "fr": "L'autel est près du lycée.{SAUT}Cela devrait aller.{ATTENTE}"
   },
   {
     "id": "E0.BIN:027:0000",

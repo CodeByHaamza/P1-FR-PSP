@@ -1,0 +1,302 @@
+[
+  {
+    "id": "YAKUZA.BIN:text:0209",
+    "en": "You oughta learn to carry life stones.{SAUT}They're important if ya wanna seal the{SAUT}deal.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0210",
+    "en": "You screwin' with the yakuza!? Ya better{SAUT}start followin' orders, or someone's{SAUT}gonna be sleepin' with the fishies.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0211",
+    "en": "  What's a law-abidin' citizen gonna do{SAUT}with a life stone? Don't tell me you{SAUT}eat 'em...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0212",
+    "en": "  I like gems. I'll take a [FFF4].(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0213",
+    "en": "You're an obedient kid. Keep it up,{SAUT}you'll go far in life.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0214",
+    "en": " Ya don't have it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0215",
+    "en": "  You screwin' with the yakuza!? Ya better{SAUT}start followin' orders, or someone's{SAUT}gonna get found in a closet.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0216",
+    "en": " You put that much value on jewels?{SAUT}Greed'll destroy you, kid.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0217",
+    "en": "  Lemme suck some life outta ya. I won't{SAUT}hurt ya too bad.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0218",
+    "en": "I like civilian blood. It ain't dirty.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0219",
+    "en": " You screwin' with the yakuza!? You think{SAUT}I'm gonna defile ya or sometin'!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0220",
+    "en": " You got a cold? If I caught whatever{SAUT}you've got, I'd be in trouble...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0221",
+    "en": "  I know a lotta humans don't make good{SAUT}on their debts. You must have it{SAUT}rough.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0222",
+    "en": "  That's pretty weak stuff. But I guess{SAUT}building a foundation is important, so{SAUT}keep at it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0223",
+    "en": "   You got a death wish?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0224",
+    "en": "  I don't think you fully understand the{SAUT}situation here... You're not up to no{SAUT}good, are ya?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0225",
+    "en": " Then how's about I crush you, just like{SAUT}the doctor ordered!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0226",
+    "en": "   You're keepin' your cool. I guess I'll{SAUT}let ya off the hook for havin' guts.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0227",
+    "en": "I like kids that are easy to understand.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0228",
+    "en": "   You're underestimating me, kid...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "YAKUZA.BIN:text:0229",
+    "en": "  You wanna get whacked!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0230",
+    "en": "That's all you've got? C'mon, put a{SAUT}little more twist in it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0231",
+    "en": "   You're pretty twisted, kid. Want me to{SAUT}straighten ya out!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0232",
+    "en": " You're already bent outta shape for your{SAUT}age... You'll be just another good-for-{SAUT}nothing...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0233",
+    "en": "C'mon, sissy. Work harder.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0234",
+    "en": " If you think you're bein' cool, think{SAUT}again! I'm that demon!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0235",
+    "en": "   You said it! I think I can trust ya!{SAUT}You've got balls of steel!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0236",
+    "en": "Hmm... You're working a poor man's job,{SAUT}kid. This world's about money. Remember{SAUT}that.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0237",
+    "en": "  Who're you checkin' out? Me? You ain't{SAUT}an undercover cop, are ya...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0238",
+    "en": "   You must think you're really somebody,{SAUT}strollin' right into my workplace!{SAUT}I should kill you for sport!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0239",
+    "en": " Hahaha! You're gonna go far, kid.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0240",
+    "en": "  So there's a man amongst you after all.{SAUT}You'd be just fine livin' the yakuza{SAUT}life.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0241",
+    "en": " I ain't gonna let you off the hook with{SAUT}that kinda attitude! You may never have{SAUT}the chance to speak again!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0242",
+    "en": " If you're scared, then why'd you answer{SAUT}in the first place!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0244",
+    "en": "  You shouldn't talk like such a big shot,{SAUT}kid. Or do you wanna know how bad it{SAUT}hurts when ya get stabbed!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0245",
+    "en": "  You're talkin' big for a civilian!{SAUT}You think you can mess with a yakuza!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0246",
+    "en": "  Of course. It ain't easy to walk the{SAUT}yakuza path for you law-abiders.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0247",
+    "en": "  What're you sayin, kid!? Mess with me,{SAUT}and you'll be leavin' in a body bag!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0248",
+    "en": "You spoke... Hey, you ain't my real{SAUT}contact! You can go to hell for pullin'{SAUT}a fast one on a yakuza!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0249",
+    "en": "Haha, I got the wrong guy, huh...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:text:0250",
+    "en": "  I thought you were dead... This ain't{SAUT}real...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "YAKUZA.BIN:resp:0000",
+    "en": "Getting donations.(*RESPONSE*) ",
+    "fr": "Faire la quête.(*RESPONSE*)",
+    "_occurrences": 2
+  },
+  {
+    "id": "YAKUZA.BIN:resp:0001",
+    "en": "A stakeout.(*RESPONSE*)",
+    "fr": "Une planque.(*RESPONSE*)",
+    "_occurrences": 2
+  },
+  {
+    "id": "YAKUZA.BIN:resp:0002",
+    "en": "Stab.(*RESPONSE*)  ",
+    "fr": "Poignarder.(*RESPONSE*)"
+  },
+  {
+    "id": "YAKUZA.BIN:resp:0003",
+    "en": "Crush.(*RESPONSE*) ",
+    "fr": "Écraser.(*RESPONSE*)"
+  },
+  {
+    "id": "YAKUZA.BIN:resp:0004",
+    "en": "Don't crush.(*RESPONSE*)   ",
+    "fr": "Pas écraser.(*RESPONSE*)"
+  },
+  {
+    "id": "YAKUZA.BIN:resp:0005",
+    "en": "What fly?(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:resp:0008",
+    "en": "I'm not sleepy.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:resp:0009",
+    "en": "True.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:resp:0010",
+    "en": "You're kinda ugly.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:resp:0012",
+    "en": "It's for show.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:resp:0013",
+    "en": "I stalk demons.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:resp:0014",
+    "en": "It's not for show.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:resp:0018",
+    "en": "Give a response(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:resp:0019",
+    "en": "Don't do that...(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:resp:0021",
+    "en": "I'm scared.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:resp:0024",
+    "en": "Me me a yakuza.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:resp:0025",
+    "en": "I won't go astray.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "YAKUZA.BIN:resp:0028",
+    "en": "Wrong person.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  }
+]

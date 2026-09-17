@@ -1,0 +1,521 @@
+[
+  {
+    "id": "KYOUKI.BIN:text:0314",
+    "en": " That so? Maybe I'm not that bad after{SAUT}all!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0315",
+    "en": " Don't talk like you know! Humans don't{SAUT}need weak-ass guys like you either!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0316",
+    "en": " Right? Humanity doesn't need weak-ass{SAUT}guys either!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KYOUKI.BIN:text:0317",
+    "en": " Hey hey, that's common knowledge, lady.{SAUT}Lemme put it this way...{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KYOUKI.BIN:text:0318",
+    "en": "{PAGE}If an insect says its a demon, you'd{SAUT}crush it all the same, right?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KYOUKI.BIN:text:0319",
+    "en": "   You got a lotta guts lyin' to me! When{SAUT}did you grow a pair?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KYOUKI.BIN:text:0324",
+    "en": "Oh well. Guess I'll take care of the{SAUT}kids!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KYOUKI.BIN:text:0325",
+    "en": " Haha, no need to lie! Sticking to your{SAUT}plans is important!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KYOUKI.BIN:text:0326",
+    "en": " My rage just hit 11 on the 10-point{SAUT}scale, bro! Time to kill some people!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KYOUKI.BIN:text:0327",
+    "en": "  Heh, you're on! I'll crush you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0328",
+    "en": "You're a girl... I don't like how guilty{SAUT}that makes me feel about this...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0329",
+    "en": "  Eh, don't sweat it. Just gimme something{SAUT}and we'll be cool.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0330",
+    "en": "   So you threw away your pride for that?{SAUT}You must have some deeper reason...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0333",
+    "en": "   Don't talk like you know! Humans don't{SAUT}need weak-ass guys like you either!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0337",
+    "en": "   Arrrgh! This isn't good!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0338",
+    "en": "   I-It's really okay to destroy them...?{SAUT}No... I don't want to...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0339",
+    "en": "Huh? Well, I can't tell you that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0340",
+    "en": "  Agh, stop it! Don't come any closer!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0341",
+    "en": "   Ahh! ...Don't startle me! That pisses{SAUT}me off!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0342",
+    "en": "  Ahh! ...Don't startle me like that...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0343",
+    "en": "  No, thank you for being born for the{SAUT}sole purpose of meeting me here!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0344",
+    "en": "  What the hell!? Be clear about what{SAUT}you--Ugh, forget it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0345",
+    "en": "   Sometimes you've gotta be decisive! So{SAUT}let's go! We'll hit up worlds you{SAUT}never knew existed!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0346",
+    "en": "   Hey, have you been eating better than{SAUT}me!? Whatever, I'll rip it outta your{SAUT}stomach!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0347",
+    "en": "   Huh? If you keep crying, I'm gonna{SAUT}throw some salt on the wound.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0348",
+    "en": "  A bad comedian can't just apologize on{SAUT}stage and expect to be forgiven!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0349",
+    "en": "Well, at least you've got the pride of{SAUT}an entertainer. That's commendable!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0350",
+    "en": " Don't try to play it off! I... I won't{SAUT}be f-fooled...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0351",
+    "en": "  ...Which means... Uh oh...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0352",
+    "en": " See!? The great [FFF3] knows all!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0353",
+    "en": "   We're already buddies, right? We{SAUT}should go rob someone!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0354",
+    "en": "{PAGE}But first... I should practice on you![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0355",
+    "en": "   We're already buddies, right? We{SAUT}should go rob someone!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0356",
+    "en": "Tch, why would I want a punk like you{SAUT}anyway!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0357",
+    "en": " If you're gonna do that, you may as well{SAUT}be lunch for me, man! Don't waste food!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0358",
+    "en": "   Dumbass, fools like you don't need to{SAUT}bother!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0359",
+    "en": "  Huh? What am I reading? Haven't you{SAUT}ever seen a comic book before!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0360",
+    "en": "Huh? What am I reading? Haven't you{SAUT}ever seen a comic book before!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0361",
+    "en": "Alright, I'll lecture you on Japanese{SAUT}literature then! I recommend Kawabata{SAUT}or Akutagawa! They're like... art!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0362",
+    "en": " I'm such a sinful demon, trying to eat{SAUT}a good guy like you... Geheheh!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0363",
+    "en": " C'mon... That's not what you do when{SAUT}someone opens their heart to you...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0364",
+    "en": "   C'mon... That's not what you do when{SAUT}someone opens their heart to you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0365",
+    "en": " If it's a joke, I'm supposed to laugh!{SAUT}Hyahahahaha! Haah ha... Ha... Hahaha!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0366",
+    "en": "   Oooh, a joke... Hmm... Huh...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0367",
+    "en": "  Tch! How boring! What a poseur...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0368",
+    "en": " Shut up, shut up! I hate dudes who can't{SAUT}even make a decision!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0369",
+    "en": " Gyahaha! You really are whacked out!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KYOUKI.BIN:text:0370",
+    "en": "   Gyahaha! You really are whack! ...{SAUT}Maybe I'll join you! Grr... RAAHHHH!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KYOUKI.BIN:text:0371",
+    "en": "What...? Why are you laughing!? Aagh!{SAUT}Whyyyyy!?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KYOUKI.BIN:text:0372",
+    "en": "You wanna take me on, eh!? It's kill or{SAUT}be killed...! Er... Not that I like{SAUT}those odds...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KYOUKI.BIN:text:0373",
+    "en": "  If you're up to it, that makes things{SAUT}easier. Whoever wins is right!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KYOUKI.BIN:text:0374",
+    "en": "   Ooh, you're a stand-up guy! I'm pretty{SAUT}stoked.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0375",
+    "en": " That's it! Hand it over right now!{SAUT}I said, hand it over!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0376",
+    "en": "   What!? You're tryin' to sell it to me!?{SAUT}You're in deep trouble if you're tryin'{SAUT}to haggle with demons!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0377",
+    "en": " I use only the best!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0378",
+    "en": "   So you're not gonna give it to me, eh!?{SAUT}Now I'm pissed! You better not{SAUT}underestimate my rage!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0379",
+    "en": "  You were just trying to save face, huh?{SAUT}No worries! It'll be our little secret!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0380",
+    "en": "First, bring me a soul. We'll split it{SAUT}70:30!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0381",
+    "en": "{PAGE}Ha! But you humans can't DO that, can{SAUT}ya!? You'd never make it in my crew!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0382",
+    "en": "  So there's something to this, huh?{SAUT}Damn, bein' greedy can be dangerous...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0383",
+    "en": "  Oh come on, man, don't turn everything{SAUT}into a joke! Take it seriously for once!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0386",
+    "en": "   That's really makin' me wonder, kid!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0387",
+    "en": "   \"Ha...\" My ass! You wanna get choked!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0388",
+    "en": " Are you laughing...? This doesn't sound{SAUT}so good...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0389",
+    "en": " Now you're all confident? That's fishy.{SAUT}You're up to something, aren't you!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0393",
+    "en": " Heh! Confident, aren't ya!? Not bad!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0395",
+    "en": "Then I'll take something from ya!{SAUT}I know it's outta the blue, but don't{SAUT}sweat it![FFF1](*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KYOUKI.BIN:text:0396",
+    "en": " Ooh, now we're talking. Why can't kids{SAUT}be more like that?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "KYOUKI.BIN:text:0399",
+    "en": "  Whaddaya mean, stupid!? It's important,{SAUT}man! You just don't get it!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KYOUKI.BIN:text:0400",
+    "en": "Wha... What's with those puppy-dog{SAUT}eyes!? That was a lie... I feel so{SAUT}defiled...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0401",
+    "en": "   Haha, an attitude like that only makes{SAUT}me more interested.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KYOUKI.BIN:text:0402",
+    "en": " That's too bad! Sometimes they call me{SAUT}the gentleman of the demon world!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KYOUKI.BIN:text:0403",
+    "en": "   Hahaha! Alright, leave it to me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0404",
+    "en": "   Tch! Like it'd go that smoothly, you{SAUT}little punk!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0405",
+    "en": "  Tch... Apologizing so quickly takes all{SAUT}the fun outta it...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0406",
+    "en": "Wow! I like arrogant pricks like you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0407",
+    "en": "  Ha, you can't step to me! I'm the master{SAUT}of the times tables, y'know!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0408",
+    "en": "  Hahaha! That's right! I'm stupid!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0409",
+    "en": "  Dancing's great, isn't it!? Gets me{SAUT}all excited!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0410",
+    "en": "   Then never mind...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0411",
+    "en": " Don't look down on me! I can do anything{SAUT}I set my mind to!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0412",
+    "en": " So you think I can't dance, huh!?{SAUT}Don't mess with me, punk!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0413",
+    "en": "What ya need is a good party dance!{SAUT}That's what I'm talkin' about! Hahaha!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0414",
+    "en": " That's... a dance...? I don't understand{SAUT}human tastes sometimes...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0415",
+    "en": " Oooh, ya like it, huh!? I've got talent,{SAUT}huh!? HUH!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0416",
+    "en": "   Oh, guess that's a no-go then... H-How{SAUT}about the lambada...? No...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0417",
+    "en": "Oh, guess that's a no-go then... How{SAUT}about the lambada? C'mon!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0418",
+    "en": " That so...? Let's test it out!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KYOUKI.BIN:text:0426",
+    "en": "It was a bluff, huh? Well it's no fun{SAUT}now that I know...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0427",
+    "en": "   What? What do I need? C'mon, please,{SAUT}tell me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0428",
+    "en": "  ...Me. ＊blush＊(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0429",
+    "en": " Whoa, if a perfect guy like me has a{SAUT}fault, you better tell me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0430",
+    "en": "You don't gotta be so blunt...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0431",
+    "en": " What fault do I have!? Like, am I a{SAUT}loser demon, or is it just that I don't{SAUT}make a big enough impact!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0432",
+    "en": " You get it now? Then hook me up with a{SAUT}hottie!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0433",
+    "en": " Huh? You're not fawning over me!? Tch!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0434",
+    "en": " Heh, so little Mark is all grown-up{SAUT}now, huh? Hahahaha!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0435",
+    "en": "Oh, nothing! I don't give a damn about{SAUT}you!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0436",
+    "en": "{PAGE}But I'll take something from ya anyway![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:text:0437",
+    "en": "  I got it, I got it. You can finish your{SAUT}conversation in hell.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  }
+]
