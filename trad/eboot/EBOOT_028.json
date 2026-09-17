@@ -1,5 +1,283 @@
 [
   {
+    "id": "EBOOT.BIN:BE2:OFF_2A80AA",
+    "en": "Your request is denied unless you mend{SAUT}",
+    "fr": "",
+    "max": 38,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A80F8",
+    "en": "the situation.{FERME}",
+    "fr": "",
+    "max": 14,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A818A",
+    "en": "There's no room for me!{FERME}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A81BA",
+    "en": " What the hell!?[FFFC]{SAUT}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A81DE",
+    "en": "You need to throw away a card, punk!{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8228",
+    "en": "Hurry up before I beat them outta ya!{FERME}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8274",
+    "en": "YOU HAVE TOO MANY CARDS! [FFFC]GWAOHHHH!{SAUT}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A82BC",
+    "en": "ME NO LIKE! YOU THROW AWAY SOME!{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A83B0",
+    "en": "C'mon, throw one of them away!{FERME}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A83EE",
+    "en": " [0056]ring[0056] [0056]ring[0056] Too many-any cardddddds![FFFC]{SAUT}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A848A",
+    "en": " You have too many cards... [FFFC]if you don't{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A84DE",
+    "en": "hurry and throw some away, I'll do it{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A852A",
+    "en": "for you!{FERME}",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A853C",
+    "en": "Ugh, I don't believe this! [FFFC]If you want{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A858C",
+    "en": "me, throw someone else's card away.{FERME}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A85D4",
+    "en": "Augh...[FFFC]{SAUT}",
+    "fr": "",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A85E8",
+    "en": " has no place...{SAUT}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A860A",
+    "en": "even as a card...{FERME}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A862E",
+    "en": " Hey! [FFFC]You can't have more than 12 cards.{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8682",
+    "en": "Throw away the ones you don't need.{FERME}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A86CA",
+    "en": " Wuuuut? [FFFC]You got too many cardz...{SAUT}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8712",
+    "en": "Thro one of 'em away.{FERME}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A873E",
+    "en": " ...Are you an idiot?[FFFC] You'd better{SAUT}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A87D4",
+    "en": "Oh my, you're carrying too many...[FFFC]{SAUT}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A881C",
+    "en": "If you want me, throw someone else's{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8866",
+    "en": "card away.{FERME}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A887C",
+    "en": "It seems thy limit is reached...[FFFC]{SAUT}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A88C0",
+    "en": "My card is to be treated with respect.{FERME}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A890E",
+    "en": " GAAAHHH! [FFFC]NOT WANT TO BE 13TH!{SAUT}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A894E",
+    "en": "THROW AWAY SOMEONE ELSE.{FERME}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A89D4",
+    "en": "You need to hee-throw one away, ho.{FERME}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8A1C",
+    "en": "Why you little...![FFFC]{SAUT}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8A82",
+    "en": "Keep the best and toss the rest!{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8AC4",
+    "en": "Ho, ho! Now just a minute![FFFC]{SAUT}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8AFC",
+    "en": "Looks like you've got a full deck!{FERME}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8B42",
+    "en": " Heh! That's too many cards, moron![FFFC]{SAUT}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8B8C",
+    "en": "Can't you manage your own stuff?{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8BCE",
+    "en": " Wait just a moment! [FFFC]You can't hold that{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8C22",
+    "en": "many cards.{SAUT}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8C3A",
+    "en": "I suggest that you sort them.{FERME}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8EC2",
+    "en": " Grave{FERME}",
+    "fr": " Grave{FERME}",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A93B6",
+    "en": " > [FFFA] sang a song.{FERME}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A93DA",
+    "en": " > [FFFA] invited the demon.{FERME}",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A940A",
+    "en": " > [FFFA] taunted the demon.{FERME}",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A943A",
+    "en": " > [FFFA] persuaded the demon.{FERME}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A947E",
+    "en": "Watch, as I power a small lamp by my{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
     "id": "EBOOT.BIN:BE2:OFF_2A94C8",
     "en": "chi alone...{FERME}",
     "fr": "",
@@ -322,281 +600,5 @@
     "en": "My mom joined an evil cult...{ATTENTE}",
     "fr": "",
     "max": 29
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA476",
-    "en": "And now I've been taken apart and put{SAUT}",
-    "fr": "",
-    "max": 37
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA4C2",
-    "en": "back together as a cyborg...{FERME}",
-    "fr": "",
-    "max": 28
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA50A",
-    "en": "Won't someone buy my matches...? If I{SAUT}",
-    "fr": "",
-    "max": 37
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA556",
-    "en": "don't sell any, Papa will beat me...{FERME}",
-    "fr": "",
-    "max": 36
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA5AE",
-    "en": "I'm the oldest of 23 brothers and{SAUT}",
-    "fr": "",
-    "max": 33
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA5F2",
-    "en": "sisters... I have to feed them all...{FERME}",
-    "fr": "",
-    "max": 37
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA64E",
-    "en": "Ooooh, my chest is sore...{SAUT}",
-    "fr": "",
-    "max": 26
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA684",
-    "en": "Maybe if you gave it a little rub...?{FERME}",
-    "fr": "",
-    "max": 37
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA6DE",
-    "en": "C'mon, don't make that awful face...{SAUT}",
-    "fr": "",
-    "max": 36
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA728",
-    "en": "We just need to get to know each other.{FERME}",
-    "fr": "",
-    "max": 39
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA786",
-    "en": "Y'know... I'm usually really innocent...{SAUT}",
-    "fr": "",
-    "max": 40
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA826",
-    "en": "Hey... does it smell funny around here?{SAUT}",
-    "fr": "",
-    "max": 39
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA876",
-    "en": "It's you, isn't it? Uchhh, gag me.{FERME}",
-    "fr": "",
-    "max": 34
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA8CA",
-    "en": "Wow, you must be REALLY old, 'cause that{SAUT}",
-    "fr": "",
-    "max": 40
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA91C",
-    "en": "style is like, PRE-prehistoric.{FERME}",
-    "fr": "",
-    "max": 31
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA96A",
-    "en": "You're seriously willing to be seen{SAUT}",
-    "fr": "",
-    "max": 35
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA9B2",
-    "en": "outside looking like that? What a dork!{FERME}",
-    "fr": "",
-    "max": 39
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AAA10",
-    "en": "I'd like a demon like you to walk me{SAUT}",
-    "fr": "",
-    "max": 36
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AAA5A",
-    "en": "home on my way back from school.{FERME}",
-    "fr": "",
-    "max": 32
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AAAA8",
-    "en": "I have an offer for you. Wouldn't you like{SAUT}",
-    "fr": "",
-    "max": 42
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AAAFE",
-    "en": "to protect a beautiful woman like me?{FERME}",
-    "fr": "",
-    "max": 37
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AAB58",
-    "en": "You're a very capable demon. Won't you{SAUT}",
-    "fr": "",
-    "max": 38
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AABA6",
-    "en": "take on a job as my bodyguard?{FERME}",
-    "fr": "",
-    "max": 30
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AABF0",
-    "en": "Yes? Would you like some milk?{FERME}",
-    "fr": "",
-    "max": 30
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AAC3C",
-    "en": "There... that's a dear... Goodnight,{SAUT}",
-    "fr": "",
-    "max": 36
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AAC86",
-    "en": "my sweet child.{FERME}",
-    "fr": "",
-    "max": 15
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AACB4",
-    "en": "There, there, little demon... Play nice.{FERME}",
-    "fr": "",
-    "max": 40
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AAD06",
-    "en": " > Elly sang a touching ballad.{FERME}",
-    "fr": "",
-    "max": 31
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AAD46",
-    "en": " > Elly sang her favorite song.{FERME}",
-    "fr": "",
-    "max": 31
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AAD86",
-    "en": " > Elly sang a chic bossa nova.{FERME}",
-    "fr": "",
-    "max": 31
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AADD4",
-    "en": "If you see 11:11:11 on the clock on three{SAUT}",
-    "fr": "",
-    "max": 41
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AAE28",
-    "en": "straight days, you'll live six fewer days.{FERME}",
-    "fr": "",
-    "max": 42
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AAE8C",
-    "en": "The children of people who witnessed a{SAUT}",
-    "fr": "",
-    "max": 38
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AAF34",
-    "en": "You can imagine what happens next.{FERME}",
-    "fr": "",
-    "max": 34
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AAF88",
-    "en": "Have you heard of the restroom stall you{SAUT}",
-    "fr": "",
-    "max": 40
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AAFDA",
-    "en": "can't escape?{ATTENTE}",
-    "fr": "",
-    "max": 13
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AB004",
-    "en": "Once you go inside, the door won't open{SAUT}",
-    "fr": "",
-    "max": 39
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AB054",
-    "en": "until you've done your business.{FERME}",
-    "fr": "",
-    "max": 32
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AB0A4",
-    "en": "Ah, my dear child... [FFF3]!{SAUT}",
-    "fr": "",
-    "max": 22
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AB0F8",
-    "en": "I'm only in this human form 'cause I{SAUT}",
-    "fr": "",
-    "max": 36
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AB168",
-    "en": "I'm actually a prince of the underworld,{SAUT}",
-    "fr": "",
-    "max": 40
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AB202",
-    "en": " > Mark stared flirtatiously at the demon.{FERME}",
-    "fr": "",
-    "max": 42
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AB25A",
-    "en": " Mark stared intensely at the demon.{FERME}",
-    "fr": "",
-    "max": 36
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AB2A6",
-    "en": " Mark stared passionately at the demon.{FERME}",
-    "fr": "",
-    "max": 39
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AB304",
-    "en": "Hey! I'm right here!{FERME}",
-    "fr": "",
-    "max": 20
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AB33C",
-    "en": "You think you're bad? Then try me!{FERME}",
-    "fr": "",
-    "max": 34
   }
 ]

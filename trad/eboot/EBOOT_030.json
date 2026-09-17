@@ -1,5 +1,508 @@
 [
   {
+    "id": "EBOOT.BIN:BE2:OFF_2AC2B8",
+    "en": "Eeeeek! Please... spare me!{FERME}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC2FC",
+    "en": "Hmm... I think your mother's grandpa is{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC34C",
+    "en": "your guardian angel. He's really strong!{FERME}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC3AC",
+    "en": "Want to know the truth? The ones behind{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC3FC",
+    "en": "all this... are really aliens.{FERME}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC448",
+    "en": "If you do what I say, by some miracle{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC494",
+    "en": "a bronze statue of you will be erected!{FERME}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC4F0",
+    "en": "Hey, how can I get power like yours?{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC53A",
+    "en": "Because I'm super jealous of it.{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC588",
+    "en": "Many artists have been captivated by you,{SAUT}",
+    "fr": "",
+    "max": 41
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC5DC",
+    "en": "and now I see why!{FERME}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC610",
+    "en": "Are you [FFF3]?{ATTENTE}",
+    "fr": "",
+    "max": 9,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC634",
+    "en": "I could tell right off! You have a unique{SAUT}",
+    "fr": "",
+    "max": 41,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC688",
+    "en": "aura about you...{FERME}",
+    "fr": "",
+    "max": 17,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC6B8",
+    "en": "I can't do much for you, but I promise{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC706",
+    "en": "our time together will be exciting.{ATTENTE}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC75C",
+    "en": "So c'mon, lend me your strength!{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC7AC",
+    "en": "Demons live the way they want, right?{ATTENTE}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC806",
+    "en": "It would be nice if you could put aside{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC856",
+    "en": "our differences and help me out.{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC8A4",
+    "en": "I can only do so much on my own.{SAUT}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC8E6",
+    "en": "I could use your help... Please?{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC9D6",
+    "en": " Yell{FERME}",
+    "fr": "Crier{FERME}",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC9E2",
+    "en": " Threaten{FERME}",
+    "fr": " Menacer{FERME}",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC9F6",
+    "en": " Ignore{FERME}",
+    "fr": "Ignorer{FERME}",
+    "max": 7,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACA16",
+    "en": " Scold{FERME}",
+    "fr": "Gronder{FERME}",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACA24",
+    "en": "Persuade{FERME}",
+    "fr": "Persuader{FERME}",
+    "max": 8,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACA36",
+    "en": " Bully{FERME}",
+    "fr": "Brimer{FERME}",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACA44",
+    "en": "Threaten{FERME}",
+    "fr": "Menacer{FERME}",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACA56",
+    "en": " Cry{FERME}",
+    "fr": "Pleurer{FERME}",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACA6E",
+    "en": " Abuse{FERME}",
+    "fr": "Insulter{FERME}",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACA7C",
+    "en": "Invite{FERME}",
+    "fr": "Inviter{FERME}",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACA8A",
+    "en": " Soothe{FERME}",
+    "fr": "Apaiser{FERME}",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACA9A",
+    "en": " Sing{FERME}",
+    "fr": "Chanter{FERME}",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACAA6",
+    "en": " Horrify{FERME}",
+    "fr": "Horrifier{FERME}",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACAB8",
+    "en": "Brag{FERME}",
+    "fr": "Se vanter{FERME}",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACAC2",
+    "en": " Stare{FERME}",
+    "fr": " Fixer{FERME}",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACAD0",
+    "en": "Taunt{FERME}",
+    "fr": "Railler{FERME}",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACADC",
+    "en": "Dance{FERME}",
+    "fr": "Danser{FERME}",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACAE8",
+    "en": "Sarcasm{FERME}",
+    "fr": "Sarcasme{FERME}",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACAF8",
+    "en": "Condescend{FERME}",
+    "fr": "Dédaigner{FERME}",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACB34",
+    "en": "Startle{FERME}",
+    "fr": "Effrayer{FERME}",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACB44",
+    "en": "Chat{FERME}",
+    "fr": "Discuter{FERME}",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACB4E",
+    "en": " Joke{FERME}",
+    "fr": "Blaguer{FERME}",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACB5A",
+    "en": " Pickup{FERME}",
+    "fr": "Draguer{FERME}",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACB6A",
+    "en": " Cringe{FERME}",
+    "fr": "Trembler{FERME}",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACB7A",
+    "en": " Lie{FERME}",
+    "fr": "Mentir{FERME}",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACB84",
+    "en": "Flatter{FERME}",
+    "fr": "Flatter{FERME}",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACB94",
+    "en": "Plead{FERME}",
+    "fr": "Supplier{FERME}",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACBA0",
+    "en": "Sing{FERME}",
+    "fr": "Chanter{FERME}",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACBAA",
+    "en": " Invite{FERME}",
+    "fr": "Inviter{FERME}",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACBBA",
+    "en": " Taunt{FERME}",
+    "fr": "Railler{FERME}",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACC0C",
+    "en": "Snappish{FERME}",
+    "fr": "Hargneux{FERME}",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACC1E",
+    "en": " Timid{FERME}",
+    "fr": "Timide{FERME}",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACC2C",
+    "en": "Forceful{FERME}",
+    "fr": "Brutal{FERME}",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACC3E",
+    "en": " Gloomy{FERME}",
+    "fr": " Morose{FERME}",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACC4E",
+    "en": " Joyful{FERME}",
+    "fr": " Joyeux{FERME}",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACC5E",
+    "en": " Foolish{FERME}",
+    "fr": " Idiot{FERME}",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACC70",
+    "en": "Wise{FERME}",
+    "fr": "Sage{FERME}",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACC82",
+    "en": " > Obtained a Life Stone.{FERME}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD6CA",
+    "en": " Reiji performed a magic trick!{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD70A",
+    "en": " > Reiji gave a loud yell!{FERME}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD742",
+    "en": " Reiji threatened the demon!{FERME}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD77E",
+    "en": " Reiji ignored the demon!{FERME}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD7B2",
+    "en": " > Yukino ignored the demon!{FERME}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD7EE",
+    "en": " Yukino scolded the demon!{FERME}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD826",
+    "en": " Yukino tried a logical appeal!{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD866",
+    "en": " > Yukino picked on the demon!{FERME}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD8A6",
+    "en": " Ayase threatened the demon!{FERME}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD8E2",
+    "en": " Ayase cried crocodile tears!{FERME}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD91E",
+    "en": " > Ayase seduced the demon!{FERME}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD956",
+    "en": " > Ayase dissed the demon!{FERME}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD98E",
+    "en": " Elly invited the demon into the party!{FERME}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD9DE",
+    "en": " > Elly soothed the demon!{FERME}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADA16",
+    "en": " Elly sang a song!{FERME}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADA3E",
+    "en": " Elly told a scary story!{FERME}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADA72",
+    "en": " > Mark started bragging!{FERME}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADAA6",
+    "en": " > Mark stared at the demon!{FERME}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADAE2",
+    "en": " Mark taunted the demon!{FERME}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADB16",
+    "en": " Mark busted a move!{FERME}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADB42",
+    "en": " Nanjo delivered a sarcastic remark!{FERME}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADB8E",
+    "en": " Nanjo insulted the demon!{FERME}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADBC6",
+    "en": " Nanjo delivered a speech!{FERME}",
+    "fr": "",
+    "max": 26
+  },
+  {
     "id": "EBOOT.BIN:BE2:OFF_2ADBFE",
     "en": " Nanjo tried bribing the demon with{SAUT}",
     "fr": "",
@@ -90,108 +593,16 @@
     "max": 25
   },
   {
-    "id": "EBOOT.BIN:BE2:OFF_2B4CA8",
-    "en": "              1F Room{FERME}",
-    "fr": "",
-    "max": 21
+    "id": "EBOOT.BIN:BE2:OFF_2B1C94",
+    "en": "Agastya Tree{FERME}",
+    "fr": "Arbre Agastya{FERME}",
+    "max": 12
   },
   {
-    "id": "EBOOT.BIN:BE2:OFF_2B530A",
-    "en": "             3F Classroom{FERME}",
-    "fr": "",
-    "max": 25
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B533E",
-    "en": "           3F Warehouse{FERME}",
-    "fr": "",
-    "max": 23
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B536E",
-    "en": "           3F Classroom{FERME}",
-    "fr": "",
-    "max": 23
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B539E",
-    "en": "           4F Classroom{FERME}",
-    "fr": "",
-    "max": 23
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B53CE",
-    "en": "           5F Classroom{FERME}",
-    "fr": "",
+    "id": "EBOOT.BIN:BE2:OFF_2B1CAE",
+    "en": "           Agastya Tree{FERME}",
+    "fr": "          Arbre Agastya{FERME}",
     "max": 23,
-    "_occurrences": 3
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B545E",
-    "en": "           8F Classroom{FERME}",
-    "fr": "",
-    "max": 23,
-    "_occurrences": 2
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B54BE",
-    "en": "           9F Classroom{FERME}",
-    "fr": "",
-    "max": 23
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B647E",
-    "en": "           1F Passageway{FERME}",
-    "fr": "",
-    "max": 24
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B68C8",
-    "en": "              1F Entrance Hall{FERME}",
-    "fr": "",
-    "max": 30
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B70B6",
-    "en": "       2F Lobby{FERME}",
-    "fr": "",
-    "max": 15
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B70D6",
-    "en": "               2F Nurse's Center{FERME}",
-    "fr": "",
-    "max": 32
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B7118",
-    "en": "      3F Lobby{FERME}",
-    "fr": "",
-    "max": 14,
-    "_occurrences": 2
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B7136",
-    "en": "               3F Nurse's Center{FERME}",
-    "fr": "",
-    "max": 32
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B737E",
-    "en": "           2F Nurse's Center{FERME}",
-    "fr": "",
-    "max": 28
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B73B8",
-    "en": "      3F Nurse's Center{FERME}",
-    "fr": "",
-    "max": 23
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A4BAC",
-    "en": "> (*TEXTBOX_PARAM*)βLevel(*TEXTBOX_PARAM*)  increased to (*VALUE*)!{ATTENTE}",
-    "fr": "",
-    "max": 24
+    "_occurrences": 171
   }
 ]

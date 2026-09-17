@@ -1,0 +1,20 @@
+[
+  {
+    "id": "EBOOT.BIN:BE2:OFF_286918",
+    "en": "SUN",
+    "fr": "SOLEIL",
+    "max": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4BAC",
+    "en": "> (*TEXTBOX_PARAM*)βLevel(*TEXTBOX_PARAM*)  increased to (*VALUE*)!{ATTENTE}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2D61A0",
+    "en": "Clerk{SAUT}",
+    "fr": "",
+    "max": 5
+  }
+]

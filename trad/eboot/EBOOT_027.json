@@ -1,5 +1,276 @@
 [
   {
+    "id": "EBOOT.BIN:BE2:OFF_29E6F0",
+    "en": "Sheesh, that girl's crazy!{ATTENTE}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E738",
+    "en": "Eriko! This is no ordinary enemy!{ATTENTE}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E78C",
+    "en": "No worries! {PAUSE}[1000]I may not look it, but I'm{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E7DE",
+    "en": "a rather capable fencer.{ATTENTE}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E822",
+    "en": "Eriko! Get back!{ATTENTE}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E846",
+    "en": " Thou art I... and I am thou...{PAUSE}[1000]{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E88A",
+    "en": "From the sea of thy soul, I cometh...{PAUSE}[1000]{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E8DA",
+    "en": "I shall lend you my strength...{ATTENTE}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E940",
+    "en": "How the hell are we supposed to fight{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E98C",
+    "en": "somethin' that's already dead!?{ATTENTE}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E9E0",
+    "en": "Careful, guys!{ATTENTE}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29EA0E",
+    "en": "I'll never forgive you bastards!{ATTENTE}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29FC36",
+    "en": "c[0405][0640]ab,[0405][0600],[0002]c[0405][0604],[0002]c",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A1E92",
+    "en": " [FF15]'s Persona, (*TEXTBOX_PARAM*)[0600][FF0C](*TEXTBOX_PARAM*) ,{SAUT}",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A1F22",
+    "en": " > [FF15]'s Persona, (*TEXTBOX_PARAM*)[0600][FF0C](*TEXTBOX_PARAM*) ,{SAUT}",
+    "fr": "",
+    "max": 17,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4BE6",
+    "en": " > (*TEXTBOX_PARAM*)[0200]Strength(*TEXTBOX_PARAM*)  increased!{ATTENTE}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4C1E",
+    "en": "     > (*TEXTBOX_PARAM*)[0200]Vitality(*TEXTBOX_PARAM*)  increased!{ATTENTE}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4C5E",
+    "en": "     > (*TEXTBOX_PARAM*)[0200]Dexterity(*TEXTBOX_PARAM*)  increased!{ATTENTE}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4CA0",
+    "en": "    > (*TEXTBOX_PARAM*)[0200]Agility(*TEXTBOX_PARAM*)  increased!{ATTENTE}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4CDC",
+    "en": "      > (*TEXTBOX_PARAM*)[0200]Luck(*TEXTBOX_PARAM*)  increased!{ATTENTE}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4D16",
+    "en": "         Please distribute the points.{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4D64",
+    "en": "((*VALUE*) points remaining.){SAUT}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4EDA",
+    "en": "What is this, an (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*)  [FFFC]Heh...{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4F24",
+    "en": "I don't need it.{ATTENTE}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4F4A",
+    "en": " Reiji tossed the Avatar aside...{ATTENTE}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4F92",
+    "en": " [FFFA] picked up the Avatar...{FERME}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4FD8",
+    "en": "This is one hell of an amazing card...{ATTENTE}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5038",
+    "en": "Huh. So this is the totem (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*) , huh?{ATTENTE}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5090",
+    "en": "Looks like it's my lucky day...{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A50DE",
+    "en": "Hey! Don't stick me with this weird{SAUT}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5126",
+    "en": "card...{ATTENTE}",
+    "fr": "",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5146",
+    "en": "...[FFFC]Wait... [FFFC]Is this for real!?{ATTENTE}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5196",
+    "en": "Is this (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*)  thingie related to{SAUT}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A51E2",
+    "en": "Vishnu!? Wow, that's some luck!{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5230",
+    "en": "This (*TEXTBOX_STYLE*)[0200](*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*)  is an incarnation of Vishnu!{SAUT}",
+    "fr": "",
+    "max": 41
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A528E",
+    "en": "I'm very fortunate to have found it!{FERME}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A52E4",
+    "en": "No way... for real!?{ATTENTE}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A531C",
+    "en": "But what's an \"Avatar\"? [FFFC]It's not gonna{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A536C",
+    "en": "explode or nothin', is it...?{ATTENTE}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A53B6",
+    "en": "Seriously, what do I do with this thing?{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A540A",
+    "en": "...[FFFC]Hah! Whatever it is, it's mine!{FERME}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5462",
+    "en": "Ah... [FFFC]the totem (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*) , hmm? [FFFC]It must be{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A54BE",
+    "en": "a reward for my exemplary behavior...{FERME}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A551A",
+    "en": "Daaaamn! [FFFC]So this is an (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*) , huh?[FFFC]{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A556E",
+    "en": "Good thing you had me along!{FERME}",
+    "fr": "",
+    "max": 28
+  },
+  {
     "id": "EBOOT.BIN:BE2:OFF_2A55B4",
     "en": "Wow, lucky me!{ATTENTE}",
     "fr": "",
@@ -332,277 +603,5 @@
     "fr": "",
     "max": 38,
     "_occurrences": 2
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A80AA",
-    "en": "Your request is denied unless you mend{SAUT}",
-    "fr": "",
-    "max": 38,
-    "_occurrences": 2
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A80F8",
-    "en": "the situation.{FERME}",
-    "fr": "",
-    "max": 14,
-    "_occurrences": 2
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A818A",
-    "en": "There's no room for me!{FERME}",
-    "fr": "",
-    "max": 23
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A81BA",
-    "en": " What the hell!?[FFFC]{SAUT}",
-    "fr": "",
-    "max": 16
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A81DE",
-    "en": "You need to throw away a card, punk!{SAUT}",
-    "fr": "",
-    "max": 36
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A8228",
-    "en": "Hurry up before I beat them outta ya!{FERME}",
-    "fr": "",
-    "max": 37
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A8274",
-    "en": "YOU HAVE TOO MANY CARDS! [FFFC]GWAOHHHH!{SAUT}",
-    "fr": "",
-    "max": 34
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A82BC",
-    "en": "ME NO LIKE! YOU THROW AWAY SOME!{FERME}",
-    "fr": "",
-    "max": 32
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A83B0",
-    "en": "C'mon, throw one of them away!{FERME}",
-    "fr": "",
-    "max": 30
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A83EE",
-    "en": " [0056]ring[0056] [0056]ring[0056] Too many-any cardddddds![FFFC]{SAUT}",
-    "fr": "",
-    "max": 35
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A848A",
-    "en": " You have too many cards... [FFFC]if you don't{SAUT}",
-    "fr": "",
-    "max": 40
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A84DE",
-    "en": "hurry and throw some away, I'll do it{SAUT}",
-    "fr": "",
-    "max": 37
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A852A",
-    "en": "for you!{FERME}",
-    "fr": "",
-    "max": 8
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A853C",
-    "en": "Ugh, I don't believe this! [FFFC]If you want{SAUT}",
-    "fr": "",
-    "max": 38
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A858C",
-    "en": "me, throw someone else's card away.{FERME}",
-    "fr": "",
-    "max": 35
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A85D4",
-    "en": "Augh...[FFFC]{SAUT}",
-    "fr": "",
-    "max": 7
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A85E8",
-    "en": " has no place...{SAUT}",
-    "fr": "",
-    "max": 16
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A860A",
-    "en": "even as a card...{FERME}",
-    "fr": "",
-    "max": 17
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A862E",
-    "en": " Hey! [FFFC]You can't have more than 12 cards.{SAUT}",
-    "fr": "",
-    "max": 40
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A8682",
-    "en": "Throw away the ones you don't need.{FERME}",
-    "fr": "",
-    "max": 35
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A86CA",
-    "en": " Wuuuut? [FFFC]You got too many cardz...{SAUT}",
-    "fr": "",
-    "max": 34
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A8712",
-    "en": "Thro one of 'em away.{FERME}",
-    "fr": "",
-    "max": 21
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A873E",
-    "en": " ...Are you an idiot?[FFFC] You'd better{SAUT}",
-    "fr": "",
-    "max": 34
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A87D4",
-    "en": "Oh my, you're carrying too many...[FFFC]{SAUT}",
-    "fr": "",
-    "max": 34
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A881C",
-    "en": "If you want me, throw someone else's{SAUT}",
-    "fr": "",
-    "max": 36
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A8866",
-    "en": "card away.{FERME}",
-    "fr": "",
-    "max": 10
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A887C",
-    "en": "It seems thy limit is reached...[FFFC]{SAUT}",
-    "fr": "",
-    "max": 32
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A88C0",
-    "en": "My card is to be treated with respect.{FERME}",
-    "fr": "",
-    "max": 38
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A890E",
-    "en": " GAAAHHH! [FFFC]NOT WANT TO BE 13TH!{SAUT}",
-    "fr": "",
-    "max": 30
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A894E",
-    "en": "THROW AWAY SOMEONE ELSE.{FERME}",
-    "fr": "",
-    "max": 24
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A89D4",
-    "en": "You need to hee-throw one away, ho.{FERME}",
-    "fr": "",
-    "max": 35
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A8A1C",
-    "en": "Why you little...![FFFC]{SAUT}",
-    "fr": "",
-    "max": 18
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A8A82",
-    "en": "Keep the best and toss the rest!{FERME}",
-    "fr": "",
-    "max": 32
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A8AC4",
-    "en": "Ho, ho! Now just a minute![FFFC]{SAUT}",
-    "fr": "",
-    "max": 26
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A8AFC",
-    "en": "Looks like you've got a full deck!{FERME}",
-    "fr": "",
-    "max": 34
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A8B42",
-    "en": " Heh! That's too many cards, moron![FFFC]{SAUT}",
-    "fr": "",
-    "max": 35
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A8B8C",
-    "en": "Can't you manage your own stuff?{FERME}",
-    "fr": "",
-    "max": 32
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A8BCE",
-    "en": " Wait just a moment! [FFFC]You can't hold that{SAUT}",
-    "fr": "",
-    "max": 40
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A8C22",
-    "en": "many cards.{SAUT}",
-    "fr": "",
-    "max": 11
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A8C3A",
-    "en": "I suggest that you sort them.{FERME}",
-    "fr": "",
-    "max": 29
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A93B6",
-    "en": " > [FFFA] sang a song.{FERME}",
-    "fr": "",
-    "max": 16
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A93DA",
-    "en": " > [FFFA] invited the demon.{FERME}",
-    "fr": "",
-    "max": 22
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A940A",
-    "en": " > [FFFA] taunted the demon.{FERME}",
-    "fr": "",
-    "max": 22
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A943A",
-    "en": " > [FFFA] persuaded the demon.{FERME}",
-    "fr": "",
-    "max": 24
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A947E",
-    "en": "Watch, as I power a small lamp by my{SAUT}",
-    "fr": "",
-    "max": 36
   }
 ]
