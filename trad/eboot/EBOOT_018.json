@@ -1,0 +1,607 @@
+[
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2527AC",
+    "en": "Casino coins(*TERMINATOR*)",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2527C6",
+    "en": " Casino coins(*TERMINATOR*)",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2641E8",
+    "en": "Deleting suspend data. Please do not{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_264232",
+    "en": "remove the Memory Stick[0019].(*TERMINATOR*)",
+    "fr": "",
+    "max": 24,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_264266",
+    "en": " Saving system data. Please do not{SAUT}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2642E2",
+    "en": " System data loaded.(*TERMINATOR*)",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26430C",
+    "en": "This game can autosave. The Memory Stick[0019]{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_264360",
+    "en": "access indicator will blink during{SAUT}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2643A6",
+    "en": "autosaving, so please do not remove the{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2643F6",
+    "en": "Memory Stick[0019] or turn the power off.(*TERMINATOR*)",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_264440",
+    "en": "This cannot be used here.{ATTENTE}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_265D16",
+    "en": "   [4B00][4B00]Ame no Uzume(*TERMINATOR*)",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26D934",
+    "en": "t [7805] [4000][08A0]Guren no Muchi(*TERMINATOR*)",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26DA36",
+    "en": " [FC21] [4000][08A0]Kyubi no Muchi(*TERMINATOR*)",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26DDB6",
+    "en": " [8025] [8000][08A0]Wu Huo Shen Yan Shan,",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26E3B6",
+    "en": " [A438] [0001][08A0]Stroke of Darkness(*TERMINATOR*)",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27054A",
+    "en": "a[0001][0001]a[0001]a[0001]aaa[0001][0100]aa[0001]a[0001]a[0001]a[0001]a[0001]a[0001]aa[0001][0100]a aa",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2705B6",
+    "en": "a aa",
+    "fr": "",
+    "max": 4,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27060E",
+    "en": " a [0100][0001]a[0001]a[0001]aaa[0001][0100]aa[0001]a[0001]a[0001]a[0001]a[0001]a[0001]aa a[0100][0001] ",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2706BE",
+    "en": "a[0100]aa a[0001][0100]aa[0100]a[0001][0100]a[0001][0001]a[0001]a[0001]aaa[0001][0100]aa[0001]a[0001]a[0001]a[0001]a[0001]a[0001]aa a[0100][0001] ",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27079E",
+    "en": " a [0100][0001]a[0001]a[0001]aaa[0001][0100]aa[0001]a[0001]a[0001]a[0001]a[0001]a[0001]aa[0001][0100]a aa",
+    "fr": "",
+    "max": 21,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_270A48",
+    "en": "a[0001] [0100]a[0001] [0001][0100]a[0001] [0100][0001]a[0001]a[0001]aaa[0001][0100]aa[0001]a[0001]a[0001]a[0001]a[0001]a[0001]aa[0001][0100]a aa",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_270B10",
+    "en": "a[0001] [0100]a[0001] [0001][0100]a[0001] [0100][0001]a[0001]a[0001]aaa[0001][0100]aa[0001]a[0001]a[0001]a[0001]a[0001]a[0001]aa [0001] [0100]a ",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_270B86",
+    "en": " a [0100][0001]a[0001]a[0001]aaa[0001][0100]aa[0001]a[0001]a[0001]a[0001]aaaaaa a[0100][0001] ",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_272802",
+    "en": " [F902] [7E04] Yato no Kami(*TERMINATOR*)",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27314A",
+    "en": " , [4E0C] Mangadhai(*TERMINATOR*)",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2744E2",
+    "en": " [3F01] [2600] Mr. Zombie(*TERMINATOR*)",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2745CE",
+    "en": "  ;[1700] [AD01] [EA00] [7F06] [6600][5800](*SCENE_END*) [6302] [C407] Doppelganger(*TERMINATOR*)",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_274EDA",
+    "en": "   [3A07] Yog-Sothoth Jr.(*TERMINATOR*)",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_275404",
+    "en": "  [6207] Mr. Bear(*TERMINATOR*)",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_276114",
+    "en": "  [50C3] Mr. Bear(*TERMINATOR*)",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_276518",
+    "en": " ;[2000] [8403] [EC04] [8813] [BC00](*SCENE_SEP*)[8813] [0C02] [8813] Malphas(*TERMINATOR*)",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2769AC",
+    "en": ", [204E] Mangadhai(*TERMINATOR*)",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2774B8",
+    "en": "Wards off weak foes(*TERMINATOR*)",
+    "fr": "",
+    "max": 19,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2774E0",
+    "en": "Proof you conquered Devil's Peak(*TERMINATOR*)",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277522",
+    "en": " Proof you conquered the Mikage Ruins(*TERMINATOR*)",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27756E",
+    "en": " Equipment help? (temp)(*TERMINATOR*)",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27759E",
+    "en": " A special item used in fusion(*TERMINATOR*)",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27764E",
+    "en": " A fragment of the Mirror of Chaos(*TERMINATOR*)",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2776C8",
+    "en": "The mysterious girl's compact(*TERMINATOR*)",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277704",
+    "en": "Nullifies a certain demon's power(*TERMINATOR*)",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277748",
+    "en": "If you use it at the ruins...(*TERMINATOR*)",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277784",
+    "en": "Opens the police cells(*TERMINATOR*)",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2777D2",
+    "en": " Opens the secret factory entrance(*TERMINATOR*)",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277818",
+    "en": "The last piece of aqqIe pie(*TERMINATOR*)",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277850",
+    "en": "The last piece of appIe pie(*TERMINATOR*)",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277888",
+    "en": "The last piece of apple pie(*TERMINATOR*)",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2778C0",
+    "en": "A frame that can hold 12 Mirror Shards(*TERMINATOR*)",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27790E",
+    "en": " The food of the gods(*TERMINATOR*)",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27793A",
+    "en": " The key to the cell in the Dream World(*TERMINATOR*)",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27798A",
+    "en": " A fragment of the Demon Mirror(*TERMINATOR*)",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2779CA",
+    "en": " The drama club's Snow Queen mask(*TERMINATOR*)",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277A0E",
+    "en": " Some aqqIe pie Ayase baked(*TERMINATOR*)",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277A46",
+    "en": " Some appIe pie Ayase baked(*TERMINATOR*)",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277A7E",
+    "en": " Some apple pie Ayase baked(*TERMINATOR*)",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277AB6",
+    "en": " A beautiful gem(*TERMINATOR*)",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277AD8",
+    "en": "A beautiful gem(*TERMINATOR*)",
+    "fr": "",
+    "max": 15,
+    "_occurrences": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277CB8",
+    "en": "Restores full HP (all allies)(*TERMINATOR*)",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277CF4",
+    "en": "Expel damage[001E]Instant Grave kill (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 41
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277D4A",
+    "en": " Heavy Expel damage each turn (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277DA4",
+    "en": "Inflicts Sick status (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277DDE",
+    "en": " Inflicts Poison status (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277E1E",
+    "en": " Inflicts Paralyze status (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277E62",
+    "en": " Inflicts Stone status (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277EA0",
+    "en": "Instant Curse kill (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277ED6",
+    "en": " Death damage[001E]Instant Angel kill (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 42
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277F2E",
+    "en": " Heavy Death damage each turn (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277F80",
+    "en": "Heavy Elec damage+Shock (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_277FC6",
+    "en": " Medium Elec damage+Shock (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278010",
+    "en": "Light Elec damage+Shock (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278056",
+    "en": " Heavy Elec damage+Shock (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278096",
+    "en": " Heavy Gravity damage (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2780D8",
+    "en": "Medium Gravity damage (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27811A",
+    "en": " Light Gravity damage (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27815C",
+    "en": "Heavy Gravity damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278194",
+    "en": "Heavy Blast damage (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2781D0",
+    "en": "Medium Blast damage (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27820E",
+    "en": " Light Blast damage (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27824C",
+    "en": "Heavy Blast damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278280",
+    "en": "Heavy Nuclear damage (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2782C0",
+    "en": "Medium Nuclear damage (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278302",
+    "en": " Light Nuclear damage (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278344",
+    "en": "Heavy Nuclear damage (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27837E",
+    "en": " Heavy Earth damage (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2783BC",
+    "en": "Medium Earth damage (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2783FA",
+    "en": " Light Earth damage (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278438",
+    "en": "Heavy Earth damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27846C",
+    "en": "Heavy Wind damage (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2784A6",
+    "en": " Medium Wind damage (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2784E4",
+    "en": "Light Wind damage (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27851E",
+    "en": " Heavy Wind damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278552",
+    "en": " Heavy Ice damage+Freeze (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27859A",
+    "en": " Medium Ice damage+Freeze (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2785E4",
+    "en": "Light Ice damage+Freeze (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27862A",
+    "en": " Heavy Ice damage+Freeze (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27866A",
+    "en": " Heavy Fire damage (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2786A6",
+    "en": " Medium Fire damage (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2786E4",
+    "en": "Light Fire damage (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27871E",
+    "en": " Heavy Fire damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278752",
+    "en": " Play 1 game of Code Breaker(*TERMINATOR*)",
+    "fr": "",
+    "max": 28
+  }
+]

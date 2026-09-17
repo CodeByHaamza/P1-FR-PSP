@@ -29,7 +29,7 @@ même chose.
 |---|---|---|
 | [`trad/dialogues/`](trad/dialogues/) | l'histoire, les personnages qui parlent | qui aime écrire du dialogue vivant |
 | [`trad/negociations/`](trad/negociations/) | ce que les démons disent quand on leur parle en combat, un dossier par personnalité (`SLIME_`, `YAKUZA_`, `TENSI_`…) | qui aime les voix bien typées : chaque démon a son ton, du voyou au petit ange |
-| [`trad/eboot/`](trad/eboot/) | menus, écrans, noms de lieux, tutoriels | **terminé** — il reste à relire |
+| [`trad/eboot/`](trad/eboot/) | menus, écrans, noms de lieux, tutoriels, et depuis `EBOOT_018` l'interface de combat et les actions de négociation | **commencer** : lignes courtes, contexte évident |
 | [`trad/donjons/`](trad/donjons/) | messages de couloir, portes fermées | **terminé** |
 
 Dans les négociations, les lignes `…:text:…` sont ce que dit le démon, les

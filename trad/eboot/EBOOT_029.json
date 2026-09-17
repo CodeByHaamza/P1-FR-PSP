@@ -1,0 +1,605 @@
+[
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB390",
+    "en": "You want some of this!?{FERME}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB3C2",
+    "en": " Mark did a seductive slow dance.{FERME}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB406",
+    "en": " > Mark danced crazy!{FERME}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB432",
+    "en": " > Mark showed off his smooth moves.{FERME}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB48A",
+    "en": "There's definitely no comparison between{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB4DC",
+    "en": "humans and your kind.{FERME}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB516",
+    "en": "Your beauty is... stunning.{FERME}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB55E",
+    "en": "You have NO idea how honored I am to{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB5A8",
+    "en": "speak to a demon of your status...{FERME}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB5FE",
+    "en": "I've never known such a dunce!{FERME}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB64A",
+    "en": "You're an utter imbecile!{FERME}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB68E",
+    "en": "Hmph... [FFFC]What a cretin.{FERME}",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB6CE",
+    "en": "\"Good\" humans and \"evil\" demons...{SAUT}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB714",
+    "en": "Pure nonsense! Cooperation is vital!{FERME}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB76E",
+    "en": "Are you happy with your station in life?{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB7C0",
+    "en": "Then act, or nothing will change!{FERME}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB812",
+    "en": "The masses are only truly happy when{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB85C",
+    "en": "being shepherded by the elite!{FERME}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB8AA",
+    "en": "Here, have a signed photo!{FERME}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB8EE",
+    "en": "Here, a down payment... a coin whose{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB938",
+    "en": "front and back are reversed.{FERME}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB982",
+    "en": "Land? Stocks? Name it, and it's yours.{FERME}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB9DE",
+    "en": "Blrgh... Urrrrgh... [0056]puke[0056][FFFC]{SAUT}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABA16",
+    "en": "...Just kidding! Mwahahaha!{FERME}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABA5E",
+    "en": "Wh... What's that!? [FFFC]Hee heeeee!{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABAA0",
+    "en": "You fell for it!{FERME}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABAD2",
+    "en": "BOO!{SAUT}",
+    "fr": "",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABADC",
+    "en": "Hehe, did I scare ya?{FERME}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABB16",
+    "en": "So, got any crushes? Yeah, there's been{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABB66",
+    "en": "someone on my mind, too.{FERME}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABBA6",
+    "en": "Man, it's hot out! I like summer, but{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABBF2",
+    "en": "not this kind of extreme heat.{FERME}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABC3E",
+    "en": "How've you been? I heard you're on{SAUT}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABC84",
+    "en": "a roll. Not me, it's been pretty slow.{FERME}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABCE2",
+    "en": "Why did the buffalos throw a party on{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABD2E",
+    "en": "their 200th birthday?{ATTENTE}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABD6A",
+    "en": "It was their bisontennial!{FERME}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABDAE",
+    "en": "What do you do if you're on a horse and{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABDFE",
+    "en": "you see a giraffe and lion next to you?{ATTENTE}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABE5E",
+    "en": "Get off the carousel! [FFFC]C'mon, laugh!{FERME}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABEB6",
+    "en": "Alright, what's the difference between{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABF04",
+    "en": "a rottweiler and a poodle?{ATTENTE}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABF4A",
+    "en": "They're two totally different breeds!{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABF96",
+    "en": "Get it?{FERME}",
+    "fr": "",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABFB6",
+    "en": "Are you seeing anyone? If you aren't...{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC006",
+    "en": "How about you and me go out sometime?{ATTENTE}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC062",
+    "en": "C'mon, it'll be fun! What do you say?{FERME}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC0BE",
+    "en": "Hey there! Wanna come to karaoke with me?{SAUT}",
+    "fr": "",
+    "max": 41
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC112",
+    "en": "I'm a really good singer.{FERME}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC156",
+    "en": "So you're a demon? So what! C'mon, baby,{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC1A8",
+    "en": "let's play a symphony of love!{FERME}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC1F4",
+    "en": "A-A demon! D-Don't come near me!{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC244",
+    "en": "I got lost and wandered here...{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC284",
+    "en": "Please forgive me!{FERME}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC2B8",
+    "en": "Eeeeek! Please... spare me!{FERME}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC2FC",
+    "en": "Hmm... I think your mother's grandpa is{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC34C",
+    "en": "your guardian angel. He's really strong!{FERME}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC3AC",
+    "en": "Want to know the truth? The ones behind{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC3FC",
+    "en": "all this... are really aliens.{FERME}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC448",
+    "en": "If you do what I say, by some miracle{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC494",
+    "en": "a bronze statue of you will be erected!{FERME}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC4F0",
+    "en": "Hey, how can I get power like yours?{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC53A",
+    "en": "Because I'm super jealous of it.{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC588",
+    "en": "Many artists have been captivated by you,{SAUT}",
+    "fr": "",
+    "max": 41
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC5DC",
+    "en": "and now I see why!{FERME}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC610",
+    "en": "Are you [FFF3]?{ATTENTE}",
+    "fr": "",
+    "max": 9,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC634",
+    "en": "I could tell right off! You have a unique{SAUT}",
+    "fr": "",
+    "max": 41,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC688",
+    "en": "aura about you...{FERME}",
+    "fr": "",
+    "max": 17,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC6B8",
+    "en": "I can't do much for you, but I promise{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC706",
+    "en": "our time together will be exciting.{ATTENTE}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC75C",
+    "en": "So c'mon, lend me your strength!{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC7AC",
+    "en": "Demons live the way they want, right?{ATTENTE}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC806",
+    "en": "It would be nice if you could put aside{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC856",
+    "en": "our differences and help me out.{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC8A4",
+    "en": "I can only do so much on my own.{SAUT}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC8E6",
+    "en": "I could use your help... Please?{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ACC82",
+    "en": " > Obtained a Life Stone.{FERME}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD6CA",
+    "en": " Reiji performed a magic trick!{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD70A",
+    "en": " > Reiji gave a loud yell!{FERME}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD742",
+    "en": " Reiji threatened the demon!{FERME}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD77E",
+    "en": " Reiji ignored the demon!{FERME}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD7B2",
+    "en": " > Yukino ignored the demon!{FERME}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD7EE",
+    "en": " Yukino scolded the demon!{FERME}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD826",
+    "en": " Yukino tried a logical appeal!{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD866",
+    "en": " > Yukino picked on the demon!{FERME}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD8A6",
+    "en": " Ayase threatened the demon!{FERME}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD8E2",
+    "en": " Ayase cried crocodile tears!{FERME}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD91E",
+    "en": " > Ayase seduced the demon!{FERME}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD956",
+    "en": " > Ayase dissed the demon!{FERME}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD98E",
+    "en": " Elly invited the demon into the party!{FERME}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD9DE",
+    "en": " > Elly soothed the demon!{FERME}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADA16",
+    "en": " Elly sang a song!{FERME}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADA3E",
+    "en": " Elly told a scary story!{FERME}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADA72",
+    "en": " > Mark started bragging!{FERME}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADAA6",
+    "en": " > Mark stared at the demon!{FERME}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADAE2",
+    "en": " Mark taunted the demon!{FERME}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADB16",
+    "en": " Mark busted a move!{FERME}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADB42",
+    "en": " Nanjo delivered a sarcastic remark!{FERME}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADB8E",
+    "en": " Nanjo insulted the demon!{FERME}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADBC6",
+    "en": " Nanjo delivered a speech!{FERME}",
+    "fr": "",
+    "max": 26
+  }
+]

@@ -1,0 +1,603 @@
+[
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BA3E",
+    "en": " Guaranteed escape{ATTENTE}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BA76",
+    "en": "Urgh... she's not the only one who's{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BAC0",
+    "en": "had it...!{ATTENTE}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BAEC",
+    "en": "Excuse me!? Oh, I have HAD it!{PAUSE}[1000]{SAUT}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BB2E",
+    "en": "I'm SO not forgiving you for that!{ATTENTE}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BB86",
+    "en": "Pbbbbt! You're uglier than death{SAUT}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BBC8",
+    "en": "warmed over!{ATTENTE}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BBF8",
+    "en": "Transformation complete!{PAUSE}[1000]{SAUT}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BC6A",
+    "en": "All righty, time to beat everyone up.{PAUSE}[1000]{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BCBA",
+    "en": "Hope you're ready!{ATTENTE}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BCF6",
+    "en": "ScreeeeeeEEEEE! {PAUSE}[1000]Silence! Silence!{SAUT}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BD3E",
+    "en": "SILENCE!{ATTENTE}",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BD64",
+    "en": "I'll slice those insolent faces right off!{ATTENTE}",
+    "fr": "",
+    "max": 42
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BDCA",
+    "en": "Like, have you ever even SEEN a mirror!?{PAUSE}[1000]{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BE20",
+    "en": "You don't look like that at ALL!{ATTENTE}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BE74",
+    "en": "...{PAUSE}[1000]You gotta be joking! {PAUSE}[1000]I've had enough{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BECC",
+    "en": "with the fun and games already!{ATTENTE}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BF1E",
+    "en": "I'm so disgusted I can barely speak.{ATTENTE}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BF7E",
+    "en": "Aaaaaaahahahaha! {PAUSE}[1000]THIS is my true form!{ATTENTE}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BFE4",
+    "en": "Soooo lovely... {PAUSE}[1000]and soooo elegant!{ATTENTE}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C040",
+    "en": "Yeah, right... in your dreams, pal!{ATTENTE}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C09C",
+    "en": "Allow me to teach you the wonders of the{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C0EE",
+    "en": "Dream World...{ATTENTE}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C11E",
+    "en": "An eternal slumber from whence there is{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C16E",
+    "en": "no awakening...{ATTENTE}",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C1BE",
+    "en": "Whoa whoa whoa... {PAUSE}[1000]What IS this thing!?{ATTENTE}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C220",
+    "en": "I didn't give it permission to come out{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C270",
+    "en": "of me like that!{ATTENTE}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C2A2",
+    "en": "Yikes! {PAUSE}[1000]Huh? What the--!? {PAUSE}[1000]{SAUT}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C2DE",
+    "en": "What NOW!?{ATTENTE}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C308",
+    "en": "Agh! {PAUSE}[1000]Dammit... How dare you!?{ATTENTE}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C358",
+    "en": "Ahahahahahahahahaha... {PAUSE}[1000]It's much, much,{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C3AC",
+    "en": "much, much, much too laaaaate!{ATTENTE}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C3F8",
+    "en": "Eat THIS!{ATTENTE}",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C41E",
+    "en": "Haha... ha... {PAUSE}[1000]S-Sorry, Kenta. {PAUSE}[1000]Is, uh, it{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C478",
+    "en": "too late to apologize?{ATTENTE}",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C4B8",
+    "en": "Whoa! {PAUSE}[1000]What's with him!?{ATTENTE}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C502",
+    "en": "Why won't you give up?{PAUSE}[1000] Please...{SAUT}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C548",
+    "en": "give up... {PAUSE}[1000]please...{ATTENTE}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C584",
+    "en": "It's beautiful...{ATTENTE}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C5B8",
+    "en": "Damn, man...{ATTENTE}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C5E6",
+    "en": "Aaaaaaaah!{ATTENTE}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C612",
+    "en": "Rrrrwwaaaaa...! {PAUSE}[1000]Now, let us disappear{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C662",
+    "en": "togetherrrr!{ATTENTE}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C692",
+    "en": "I am Kandori... {PAUSE}[1000]{PAUSE}[1000]God Kandori...{ATTENTE}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C6EA",
+    "en": "Have his body and soul been dominated{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C736",
+    "en": "by the Persona!?{ATTENTE}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C768",
+    "en": "Holy shit...{ATTENTE}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C790",
+    "en": "Wh-What the!?{ATTENTE}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C7C2",
+    "en": "N-Nooooo!{ATTENTE}",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C804",
+    "en": "Hohohoh... {PAUSE}[1000]Foolish man who has gone{SAUT}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C850",
+    "en": "astray...{ATTENTE}",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C892",
+    "en": "I shall give you the power you desire.{ATTENTE}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C8F6",
+    "en": "Nrrrrrrrghaaaaaaa!?{ATTENTE}",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C932",
+    "en": "Wh-What the... Something's forcing{PAUSE}[1000]{PAUSE}[1000]{SAUT}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29C9BA",
+    "en": "Ngh... {PAUSE}[1000]{PAUSE}[1000]{PAUSE}[1000]I refuse to accept this!{PAUSE}[1000]{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29CA0A",
+    "en": "I'm supposed to have transcended man!{ATTENTE}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29CA6A",
+    "en": "Who am I!? {PAUSE}[1000]{PAUSE}[1000]I am Takahisa Kandori!{PAUSE}[1000]{PAUSE}[1000]{SAUT}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29CB12",
+    "en": "Kandori... {PAUSE}[1000]We'll close the curtain on{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29CB62",
+    "en": "this farce, if that's what you wish!{ATTENTE}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29CBBE",
+    "en": "Spout that crap in hell. {PAUSE}[1000]I'll send you{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29CC10",
+    "en": "straight there...!{ATTENTE}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29CC46",
+    "en": "Use all the big words you want!{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29CC86",
+    "en": "It doesn't fool us!{ATTENTE}",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29CCBC",
+    "en": "Shut up!{ATTENTE}",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29CCDC",
+    "en": "A man who can't answer for himself has{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29CD2A",
+    "en": "no right to condemn mankind.{ATTENTE}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29CD76",
+    "en": "Heh, keep dreamin'!{ATTENTE}",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29CDB2",
+    "en": "Hah... You'd tell a god to condone{SAUT}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29CDF8",
+    "en": "nonsense? {PAUSE}[1000]That, too, is a grave sin...{ATTENTE}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29CE5E",
+    "en": "A god commands and condemns. {PAUSE}[1000]It does not{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29CEB4",
+    "en": "lend an ear to the pleas of vermin.{ATTENTE}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29CF0C",
+    "en": "If what Nanjo said is true...{ATTENTE}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29CF56",
+    "en": "There's still time! {PAUSE}[1000]Stop this nonsense,{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D004",
+    "en": "Shut up! {PAUSE}[1000]That's our line!{ATTENTE}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D052",
+    "en": "You won't get an easy death... Are you{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D0A0",
+    "en": "prepared for that?{ATTENTE}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D0D6",
+    "en": "Here it comes!{ATTENTE}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D104",
+    "en": "H-Hey! {PAUSE}[1000]Isn't this really Maki's mom?{ATTENTE}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D164",
+    "en": "My child... {PAUSE}[1000]{PAUSE}[1000]Give Maki baaaaaaack!{ATTENTE}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D1C4",
+    "en": "Y-You filth... {PAUSE}[1000]{PAUSE}[1000]Are you really sons{SAUT}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D212",
+    "en": "of man...?{ATTENTE}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D23C",
+    "en": "I'll make you eat those words!{ATTENTE}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D288",
+    "en": "We can't waste any time! Let's get this{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D2D8",
+    "en": "over with, quick!{ATTENTE}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D30E",
+    "en": "Get outta my way, pipsqueak!{ATTENTE}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D35A",
+    "en": "First a robot and now a stuffed bear!?{PAUSE}[1000]{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D3AC",
+    "en": "I hate to do this, but we have no choice!{ATTENTE}",
+    "fr": "",
+    "max": 41
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D41E",
+    "en": "N-No waaaaay...!{ATTENTE}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D45E",
+    "en": "Tchahahahaaaaa!{ATTENTE}",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D49A",
+    "en": "That terrified face! That's the face!{PAUSE}[1000]{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D4EA",
+    "en": "That's it! God, I LOVE it!{ATTENTE}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D530",
+    "en": "Please, Chisato! Stop!{ATTENTE}",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D56C",
+    "en": "If you insist on hurting everyone, I...{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D5C0",
+    "en": "I... {PAUSE}[1000]I'll have to fight you!{ATTENTE}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D61A",
+    "en": "Tchahahahaha! {PAUSE}[1000]{PAUSE}[1000]My paintings are the best{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D672",
+    "en": "in the world!{ATTENTE}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D6AA",
+    "en": "Now hurry up and die!{ATTENTE}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D6DA",
+    "en": "Yog-Sothoth Jr.{SAUT}",
+    "fr": "",
+    "max": 15,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D72C",
+    "en": "Shaddup!{ATTENTE}",
+    "fr": "",
+    "max": 8
+  }
+]

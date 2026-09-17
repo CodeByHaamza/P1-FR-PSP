@@ -1,0 +1,603 @@
+[
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D7B0",
+    "en": "A ia ia ia iaaaaaaa!{ATTENTE}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D7EA",
+    "en": "Zgweaaaaaaak!{ATTENTE}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D816",
+    "en": "Take it seriously or pay the price!{ATTENTE}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D86C",
+    "en": "That wasn't cute! {PAUSE}[1000]That wasn't cute {SAUT}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D8B8",
+    "en": "at ALL!{ATTENTE}",
+    "fr": "",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D8DA",
+    "en": "What was that for!? {PAUSE}[1000]It's, like, not cute{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D930",
+    "en": "at all!{ATTENTE}",
+    "fr": "",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D950",
+    "en": "I, ah, take back what I said before.{ATTENTE}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D9AA",
+    "en": "Th-That was close!{ATTENTE}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29D9E0",
+    "en": "Awww... it's adorable!{ATTENTE}",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DA1E",
+    "en": "I-It's kinda... cute!{ATTENTE}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DA58",
+    "en": "When you look closely, it's actually{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DAA2",
+    "en": "pretty cute!{ATTENTE}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DACE",
+    "en": "Mwahaha! {PAUSE}[1000]This is gonna be cake!{ATTENTE}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DB20",
+    "en": "What the hell IS this thing!?{ATTENTE}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DB6E",
+    "en": "Sgweaaaaak!{ATTENTE}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DB96",
+    "en": "What an idiot...{ATTENTE}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DBCA",
+    "en": "You wanna kill ME? {PAUSE}[1000]{PAUSE}[1000]{PAUSE}[1000]What a joke...{SAUT}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DC1A",
+    "en": "You're the one that's going down!{ATTENTE}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DC70",
+    "en": "Damn kids! {PAUSE}[1000]You're not taking one step{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DCC0",
+    "en": "outta here!{ATTENTE}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DCEA",
+    "en": "Now taste the power of my Persona!{ATTENTE}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DD44",
+    "en": "Oh, no you don't!{ATTENTE}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DD7A",
+    "en": "You're going nowhere!{ATTENTE}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DDB8",
+    "en": "Yes, Sir.{ATTENTE}",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DDE2",
+    "en": "Takeda. I leave this to you. {PAUSE}[1000]{PAUSE}[1000]You can{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DE34",
+    "en": "handle a few children, mm?{ATTENTE}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DE78",
+    "en": "What!? Don't tell me... {PAUSE}[1000]You too!?{ATTENTE}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DED6",
+    "en": "What a surprise... {PAUSE}[1000]{PAUSE}[1000]I didn't expect that{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DF2E",
+    "en": "you'd be Persona-users as well.{ATTENTE}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DF7E",
+    "en": "Kandori!{ATTENTE}",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DFA4",
+    "en": "Mr. Kandori, please step back!{ATTENTE}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29DFF4",
+    "en": "All right, don't let a single one of{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E03E",
+    "en": "them escape!{ATTENTE}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E06A",
+    "en": "Gah! Watch it! What were you gonna do{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E0B6",
+    "en": "if that hit me!? Murderers!{ATTENTE}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E126",
+    "en": "Right M.I.B.{SAUT}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E188",
+    "en": "leaking out. Dispose of them.{ATTENTE}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E1D6",
+    "en": "Haha...ha...! You're all so cool!{SAUT}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E21A",
+    "en": "It's reaaaally fascinating.{ATTENTE}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E262",
+    "en": "So c'mon, let us go! Pretty please?{ATTENTE}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E2BA",
+    "en": "Waaaaaah! I don't wanna die!{ATTENTE}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E31C",
+    "en": "Rrrrrrrgh! {PAUSE}[1000]I'm taking at least one of{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E36C",
+    "en": "you down with me!{ATTENTE}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E3A2",
+    "en": "What the hell, man!?{PAUSE}[1000]{SAUT}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E3D0",
+    "en": "What happened to you guys!?{ATTENTE}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E41A",
+    "en": "Huh!? {PAUSE}[1000]Wh-Wh-What the...!?{ATTENTE}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E478",
+    "en": "Execution, execution, execution!{PAUSE}[1000]{SAUT}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E4F8",
+    "en": "We didn't have a choice! No hard feelings,{SAUT}",
+    "fr": "",
+    "max": 42
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E54E",
+    "en": "right, old man?{ATTENTE}",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E57E",
+    "en": "Wh-Whooooa! I... {PAUSE}[1000]I'm gonna die!{ATTENTE}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E5D2",
+    "en": "Owwwww! {PAUSE}[1000]That HURT!{ATTENTE}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E60E",
+    "en": "Hahaha! {PAUSE}[1000]I barely felt that!{ATTENTE}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E65A",
+    "en": "Maki, don't do anything foolish!{ATTENTE}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E6AC",
+    "en": "I won't go down that easy!{ATTENTE}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E6F0",
+    "en": "Sheesh, that girl's crazy!{ATTENTE}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E738",
+    "en": "Eriko! This is no ordinary enemy!{ATTENTE}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E78C",
+    "en": "No worries! {PAUSE}[1000]I may not look it, but I'm{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E7DE",
+    "en": "a rather capable fencer.{ATTENTE}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E822",
+    "en": "Eriko! Get back!{ATTENTE}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E846",
+    "en": " Thou art I... and I am thou...{PAUSE}[1000]{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E88A",
+    "en": "From the sea of thy soul, I cometh...{PAUSE}[1000]{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E8DA",
+    "en": "I shall lend you my strength...{ATTENTE}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E940",
+    "en": "How the hell are we supposed to fight{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E98C",
+    "en": "somethin' that's already dead!?{ATTENTE}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E9E0",
+    "en": "Careful, guys!{ATTENTE}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29EA0E",
+    "en": "I'll never forgive you bastards!{ATTENTE}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29FC36",
+    "en": "c[0405][0640]ab,[0405][0600],[0002]c[0405][0604],[0002]c",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A1E92",
+    "en": " [FF15]'s Persona, (*TEXTBOX_PARAM*)[0600][FF0C](*TEXTBOX_PARAM*) ,{SAUT}",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A1F22",
+    "en": " > [FF15]'s Persona, (*TEXTBOX_PARAM*)[0600][FF0C](*TEXTBOX_PARAM*) ,{SAUT}",
+    "fr": "",
+    "max": 17,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4BE6",
+    "en": " > (*TEXTBOX_PARAM*)[0200]Strength(*TEXTBOX_PARAM*)  increased!{ATTENTE}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4C1E",
+    "en": "     > (*TEXTBOX_PARAM*)[0200]Vitality(*TEXTBOX_PARAM*)  increased!{ATTENTE}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4C5E",
+    "en": "     > (*TEXTBOX_PARAM*)[0200]Dexterity(*TEXTBOX_PARAM*)  increased!{ATTENTE}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4CA0",
+    "en": "    > (*TEXTBOX_PARAM*)[0200]Agility(*TEXTBOX_PARAM*)  increased!{ATTENTE}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4CDC",
+    "en": "      > (*TEXTBOX_PARAM*)[0200]Luck(*TEXTBOX_PARAM*)  increased!{ATTENTE}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4D16",
+    "en": "         Please distribute the points.{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4D64",
+    "en": "((*VALUE*) points remaining.){SAUT}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4EDA",
+    "en": "What is this, an (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*)  [FFFC]Heh...{SAUT}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4F24",
+    "en": "I don't need it.{ATTENTE}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4F4A",
+    "en": " Reiji tossed the Avatar aside...{ATTENTE}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4F92",
+    "en": " [FFFA] picked up the Avatar...{FERME}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4FD8",
+    "en": "This is one hell of an amazing card...{ATTENTE}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5038",
+    "en": "Huh. So this is the totem (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*) , huh?{ATTENTE}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5090",
+    "en": "Looks like it's my lucky day...{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A50DE",
+    "en": "Hey! Don't stick me with this weird{SAUT}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5126",
+    "en": "card...{ATTENTE}",
+    "fr": "",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5146",
+    "en": "...[FFFC]Wait... [FFFC]Is this for real!?{ATTENTE}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5196",
+    "en": "Is this (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*)  thingie related to{SAUT}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A51E2",
+    "en": "Vishnu!? Wow, that's some luck!{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5230",
+    "en": "This (*TEXTBOX_STYLE*)[0200](*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*)  is an incarnation of Vishnu!{SAUT}",
+    "fr": "",
+    "max": 41
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A528E",
+    "en": "I'm very fortunate to have found it!{FERME}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A52E4",
+    "en": "No way... for real!?{ATTENTE}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A531C",
+    "en": "But what's an \"Avatar\"? [FFFC]It's not gonna{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A536C",
+    "en": "explode or nothin', is it...?{ATTENTE}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A53B6",
+    "en": "Seriously, what do I do with this thing?{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A540A",
+    "en": "...[FFFC]Hah! Whatever it is, it's mine!{FERME}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5462",
+    "en": "Ah... [FFFC]the totem (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*) , hmm? [FFFC]It must be{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A54BE",
+    "en": "a reward for my exemplary behavior...{FERME}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A551A",
+    "en": "Daaaamn! [FFFC]So this is an (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*) , huh?[FFFC]{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A556E",
+    "en": "Good thing you had me along!{FERME}",
+    "fr": "",
+    "max": 28
+  }
+]

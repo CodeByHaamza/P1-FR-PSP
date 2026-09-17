@@ -1,0 +1,608 @@
+[
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A55B4",
+    "en": "Wow, lucky me!{ATTENTE}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A55E0",
+    "en": "Isn't this an (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*) {SAUT}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5612",
+    "en": "Wow, this is so cool!{FERME}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5678",
+    "en": "Avatar(*TEXTBOX_PARAM*) !{FERME}",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A568E",
+    "en": " There was another card stuck to the{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A56DA",
+    "en": " spell card!(*OPTION*)",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A577E",
+    "en": " The demon spoke to you!{FERME}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A57B2",
+    "en": " But [FFF9] didn't have any{SAUT}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A57E0",
+    "en": "life stones.{FERME}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A57FA",
+    "en": " > But [FFF9] didn't have enough.{FERME}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5836",
+    "en": " [FFF9] took damage.{FERME}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5856",
+    "en": " > [FFF9] was healed!{FERME}",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A587A",
+    "en": " [FFF3] used a life stone.{FERME}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A58A6",
+    "en": " > Gained (*VALUE*) EXP.{FERME}",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A58CA",
+    "en": " Obtained (*VALUE*) yen.{FERME}",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A58EE",
+    "en": " Obtained [FFF4].{FERME}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A590A",
+    "en": " The demon is sulking.{FERME}",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A593A",
+    "en": " The demon is snickering.{FERME}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A596E",
+    "en": " > The demon seems happy!{FERME}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A59A2",
+    "en": " > The demon is scared.{FERME}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A59D2",
+    "en": " > The demon is terrified!{FERME}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5A0A",
+    "en": " The demon ran away.{FERME}",
+    "fr": "",
+    "max": 20,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5A36",
+    "en": " The demon is fascinated.{FERME}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5A6A",
+    "en": " > The demon is charmed!{FERME}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5A9E",
+    "en": " But you just glared back!{FERME}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5AD6",
+    "en": " The demon intimidated you!{FERME}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5B0E",
+    "en": " > The demon is coercing you...{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5B4E",
+    "en": " > The demon surprised you!{FERME}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5B86",
+    "en": " > The demon is pissed off!{FERME}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5BBE",
+    "en": " > The demon is losing it.{FERME}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5BF6",
+    "en": " The demon is panicking!{FERME}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5C56",
+    "en": " The demon is worked up.{FERME}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5C8A",
+    "en": " Obtained the [FFF3]{SAUT}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5CAA",
+    "en": "spell card.{FERME}",
+    "fr": "",
+    "max": 11,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5CC2",
+    "en": " > Discarded the [FFF2]{SAUT}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5D02",
+    "en": " Discard the [FFF2]{SAUT}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5D20",
+    "en": "spell card?{FERME}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5D3A",
+    "en": " You have too many spell cards!{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5D7A",
+    "en": " > Which spell card will you discard?{FERME}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5DC6",
+    "en": " > The demon left.{FERME}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5DEC",
+    "en": "Can't talk right now...{FERME}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5E1C",
+    "en": "It's in no state to answer.{FERME}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5F92",
+    "en": "                                                                                                                                                                                                                                                                                                     [0202][2004]b[4002],[0804]bb",
+    "fr": "",
+    "max": 297
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A7DA4",
+    "en": "You're over the card limit![FFFC]{SAUT}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A7DDE",
+    "en": "Throw some away!{FERME}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A7E00",
+    "en": "Oh my god, you have like, 12 cards![FFFC]{SAUT}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A7E4A",
+    "en": "That's like... waaaay too many!{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A7E8A",
+    "en": " Hey! You cheater![FFFC]{SAUT}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A7EB2",
+    "en": "You've got too many cards!{SAUT}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A7EE8",
+    "en": "Take the lame ones off the court!{FERME}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A7F2C",
+    "en": "...Are you an idiot?[FFFC] You'd better{SAUT}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A7F72",
+    "en": "remember how many cards you can carry!{FERME}",
+    "fr": "",
+    "max": 38,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A7FC0",
+    "en": "Ya makin' fun o' me!? [FFFC]Well ya got too{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A800E",
+    "en": "many cards! Hurry and throw one away!{FERME}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A805A",
+    "en": " ...You carry too many needless cards.[FFFC]{SAUT}",
+    "fr": "",
+    "max": 38,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A80AA",
+    "en": "Your request is denied unless you mend{SAUT}",
+    "fr": "",
+    "max": 38,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A80F8",
+    "en": "the situation.{FERME}",
+    "fr": "",
+    "max": 14,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A818A",
+    "en": "There's no room for me!{FERME}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A81BA",
+    "en": " What the hell!?[FFFC]{SAUT}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A81DE",
+    "en": "You need to throw away a card, punk!{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8228",
+    "en": "Hurry up before I beat them outta ya!{FERME}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8274",
+    "en": "YOU HAVE TOO MANY CARDS! [FFFC]GWAOHHHH!{SAUT}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A82BC",
+    "en": "ME NO LIKE! YOU THROW AWAY SOME!{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A83B0",
+    "en": "C'mon, throw one of them away!{FERME}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A83EE",
+    "en": " [0056]ring[0056] [0056]ring[0056] Too many-any cardddddds![FFFC]{SAUT}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A848A",
+    "en": " You have too many cards... [FFFC]if you don't{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A84DE",
+    "en": "hurry and throw some away, I'll do it{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A852A",
+    "en": "for you!{FERME}",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A853C",
+    "en": "Ugh, I don't believe this! [FFFC]If you want{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A858C",
+    "en": "me, throw someone else's card away.{FERME}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A85D4",
+    "en": "Augh...[FFFC]{SAUT}",
+    "fr": "",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A85E8",
+    "en": " has no place...{SAUT}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A860A",
+    "en": "even as a card...{FERME}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A862E",
+    "en": " Hey! [FFFC]You can't have more than 12 cards.{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8682",
+    "en": "Throw away the ones you don't need.{FERME}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A86CA",
+    "en": " Wuuuut? [FFFC]You got too many cardz...{SAUT}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8712",
+    "en": "Thro one of 'em away.{FERME}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A873E",
+    "en": " ...Are you an idiot?[FFFC] You'd better{SAUT}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A87D4",
+    "en": "Oh my, you're carrying too many...[FFFC]{SAUT}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A881C",
+    "en": "If you want me, throw someone else's{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8866",
+    "en": "card away.{FERME}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A887C",
+    "en": "It seems thy limit is reached...[FFFC]{SAUT}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A88C0",
+    "en": "My card is to be treated with respect.{FERME}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A890E",
+    "en": " GAAAHHH! [FFFC]NOT WANT TO BE 13TH!{SAUT}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A894E",
+    "en": "THROW AWAY SOMEONE ELSE.{FERME}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A89D4",
+    "en": "You need to hee-throw one away, ho.{FERME}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8A1C",
+    "en": "Why you little...![FFFC]{SAUT}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8A82",
+    "en": "Keep the best and toss the rest!{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8AC4",
+    "en": "Ho, ho! Now just a minute![FFFC]{SAUT}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8AFC",
+    "en": "Looks like you've got a full deck!{FERME}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8B42",
+    "en": " Heh! That's too many cards, moron![FFFC]{SAUT}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8B8C",
+    "en": "Can't you manage your own stuff?{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8BCE",
+    "en": " Wait just a moment! [FFFC]You can't hold that{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8C22",
+    "en": "many cards.{SAUT}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8C3A",
+    "en": "I suggest that you sort them.{FERME}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A93B6",
+    "en": " > [FFFA] sang a song.{FERME}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A93DA",
+    "en": " > [FFFA] invited the demon.{FERME}",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A940A",
+    "en": " > [FFFA] taunted the demon.{FERME}",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A943A",
+    "en": " > [FFFA] persuaded the demon.{FERME}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A947E",
+    "en": "Watch, as I power a small lamp by my{SAUT}",
+    "fr": "",
+    "max": 36
+  }
+]

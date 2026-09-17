@@ -1,0 +1,602 @@
+[
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A94C8",
+    "en": "chi alone...{FERME}",
+    "fr": "",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A94F2",
+    "en": "Watch the top... Don't take your eyes{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A953E",
+    "en": "off it...{FERME}",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9562",
+    "en": "With a snap of my fingers...[FFFC] presto!{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A95AE",
+    "en": "Flowers appear. Beautiful, aren't they?{FERME}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A960E",
+    "en": "Haaaaaaaaaaaaah!{FERME}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A963E",
+    "en": "Grrrwaaaaaaahhhh!{FERME}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9672",
+    "en": "Rrrrrwwaaaaaoooarrr!{FERME}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A96AA",
+    "en": "First I'll break your legs, and then{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A96F4",
+    "en": "dislocate your arms...{ATTENTE}",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9732",
+    "en": "I'll bend each finger backwards until it{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9784",
+    "en": "snaps, and then I'll take your eyes...{FERME}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A97E2",
+    "en": "Only one of us is gonna die of old age,{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9832",
+    "en": "and it ain't you... Go to hell!{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9882",
+    "en": "This isn't your lucky day... You won't{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A98D0",
+    "en": "be leaving here alive.{FERME}",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A98FE",
+    "en": " > Reiji is thinking of an unrelated{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9948",
+    "en": "thing.{FERME}",
+    "fr": "",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9956",
+    "en": " > Reiji whistles to himself.{FERME}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A99C0",
+    "en": "I should decide soon which photo I'm{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9A0A",
+    "en": "going to enter in the next contest...{FERME}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9A68",
+    "en": "Hm...? Did I remember to turn the lights{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9ABA",
+    "en": "off when I left?{FERME}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9AEC",
+    "en": "Hmm... what should I make for dinner...?{FERME}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9B50",
+    "en": "Stay quiet for once and listen to what{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9B9E",
+    "en": "others have to say!{ATTENTE}",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9BD8",
+    "en": "And don't you make fun of them, or I'll{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9C28",
+    "en": "make you regret it!{FERME}",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9C60",
+    "en": "Stop whining! No one likes it!{FERME}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9CB0",
+    "en": "Hey! Didn't they teach you in kindergarten{SAUT}",
+    "fr": "",
+    "max": 42
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9D44",
+    "en": "It's better to stay in bed than to go{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9D90",
+    "en": "through life half-assed.{ATTENTE}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9DD4",
+    "en": "There's too many people like that{SAUT}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9E18",
+    "en": "already.{FERME}",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9E3C",
+    "en": "Y'know, I've been thinking about the{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9E86",
+    "en": "difference between humans and demons...{ATTENTE}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9EE8",
+    "en": "And it's useless. There isn't any.{FERME}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9F40",
+    "en": "Your actions have no worth unless you{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9F8C",
+    "en": "choose them of your own free will.{FERME}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9FE4",
+    "en": "Who the hell do you think you're talking{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA036",
+    "en": "to? I hate rudeness worse than anything!{FERME}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA098",
+    "en": "Hmph! It's true what they say...{SAUT}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA0DA",
+    "en": "A demon's bark is worse than its bite!{FERME}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA138",
+    "en": "You'll be calling ME a demon soon.{ATTENTE}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA190",
+    "en": "Heheh... Now where should I start...?{FERME}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA1EA",
+    "en": "I'd watch out if I were you...{ATTENTE}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA238",
+    "en": "I'm nice and calm now, but I go nuts{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA282",
+    "en": "in a snap.{FERME}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA2A6",
+    "en": "I got this hobby... I collect severed{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA2F2",
+    "en": "demon heads! Wanna join my collection?{FERME}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA34E",
+    "en": "You're not gonna do what I say!? Don't{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA39C",
+    "en": "make me blow your brains out!{FERME}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA3E6",
+    "en": "My daddy was abducted by a UFO...{SAUT}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA42A",
+    "en": "My mom joined an evil cult...{ATTENTE}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA476",
+    "en": "And now I've been taken apart and put{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA4C2",
+    "en": "back together as a cyborg...{FERME}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA50A",
+    "en": "Won't someone buy my matches...? If I{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA556",
+    "en": "don't sell any, Papa will beat me...{FERME}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA5AE",
+    "en": "I'm the oldest of 23 brothers and{SAUT}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA5F2",
+    "en": "sisters... I have to feed them all...{FERME}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA64E",
+    "en": "Ooooh, my chest is sore...{SAUT}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA684",
+    "en": "Maybe if you gave it a little rub...?{FERME}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA6DE",
+    "en": "C'mon, don't make that awful face...{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA728",
+    "en": "We just need to get to know each other.{FERME}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA786",
+    "en": "Y'know... I'm usually really innocent...{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA826",
+    "en": "Hey... does it smell funny around here?{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA876",
+    "en": "It's you, isn't it? Uchhh, gag me.{FERME}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA8CA",
+    "en": "Wow, you must be REALLY old, 'cause that{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA91C",
+    "en": "style is like, PRE-prehistoric.{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA96A",
+    "en": "You're seriously willing to be seen{SAUT}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA9B2",
+    "en": "outside looking like that? What a dork!{FERME}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AAA10",
+    "en": "I'd like a demon like you to walk me{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AAA5A",
+    "en": "home on my way back from school.{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AAAA8",
+    "en": "I have an offer for you. Wouldn't you like{SAUT}",
+    "fr": "",
+    "max": 42
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AAAFE",
+    "en": "to protect a beautiful woman like me?{FERME}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AAB58",
+    "en": "You're a very capable demon. Won't you{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AABA6",
+    "en": "take on a job as my bodyguard?{FERME}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AABF0",
+    "en": "Yes? Would you like some milk?{FERME}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AAC3C",
+    "en": "There... that's a dear... Goodnight,{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AAC86",
+    "en": "my sweet child.{FERME}",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AACB4",
+    "en": "There, there, little demon... Play nice.{FERME}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AAD06",
+    "en": " > Elly sang a touching ballad.{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AAD46",
+    "en": " > Elly sang her favorite song.{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AAD86",
+    "en": " > Elly sang a chic bossa nova.{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AADD4",
+    "en": "If you see 11:11:11 on the clock on three{SAUT}",
+    "fr": "",
+    "max": 41
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AAE28",
+    "en": "straight days, you'll live six fewer days.{FERME}",
+    "fr": "",
+    "max": 42
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AAE8C",
+    "en": "The children of people who witnessed a{SAUT}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AAF34",
+    "en": "You can imagine what happens next.{FERME}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AAF88",
+    "en": "Have you heard of the restroom stall you{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AAFDA",
+    "en": "can't escape?{ATTENTE}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB004",
+    "en": "Once you go inside, the door won't open{SAUT}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB054",
+    "en": "until you've done your business.{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB0A4",
+    "en": "Ah, my dear child... [FFF3]!{SAUT}",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB0F8",
+    "en": "I'm only in this human form 'cause I{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB168",
+    "en": "I'm actually a prince of the underworld,{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB202",
+    "en": " > Mark stared flirtatiously at the demon.{FERME}",
+    "fr": "",
+    "max": 42
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB25A",
+    "en": " Mark stared intensely at the demon.{FERME}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB2A6",
+    "en": " Mark stared passionately at the demon.{FERME}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB304",
+    "en": "Hey! I'm right here!{FERME}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB33C",
+    "en": "You think you're bad? Then try me!{FERME}",
+    "fr": "",
+    "max": 34
+  }
+]

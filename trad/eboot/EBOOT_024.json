@@ -1,0 +1,606 @@
+[
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2912DA",
+    "en": "                 Kama Palace B8{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29131A",
+    "en": "                 Kama Palace B7{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29135A",
+    "en": "                 Kama Palace B6{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29139A",
+    "en": "                 Kama Palace B5{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2913DA",
+    "en": "                 Kama Palace B4{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29141A",
+    "en": "                 Kama Palace B3{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29145A",
+    "en": "                 Kama Palace B2{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29149A",
+    "en": "                 Kama Palace B1{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_291626",
+    "en": "           Mikage Ruins B12{FERME}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29165E",
+    "en": "               Mikage Ruins B11{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29169E",
+    "en": "               Mikage Ruins B10{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2916DE",
+    "en": "               Mikage Ruins B9{FERME}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29171C",
+    "en": "                Mikage Ruins B8{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29175C",
+    "en": "                Mikage Ruins B7{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29179C",
+    "en": "                Mikage Ruins B6{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2917DC",
+    "en": "                Mikage Ruins B5{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29181C",
+    "en": "                Mikage Ruins B4{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29185C",
+    "en": "                Mikage Ruins B3{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29189C",
+    "en": "                Mikage Ruins B2{FERME}",
+    "fr": "",
+    "max": 31,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29191C",
+    "en": "                Mikage Ruins B1{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29195C",
+    "en": "                St. Hermelin ???{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29199E",
+    "en": "               St. Hermelin ???{FERME}",
+    "fr": "",
+    "max": 31,
+    "_occurrences": 5
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_291ADE",
+    "en": "               St. Hermelin 1F{FERME}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_291B9C",
+    "en": "                St. Hermelin 1F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_291CA8",
+    "en": "          SEBEC Building 5F{FERME}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_291CE0",
+    "en": "              SEBEC Building 1F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_291D20",
+    "en": "              SEBEC Building 2F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_291D60",
+    "en": "              SEBEC Building 3F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_291DA0",
+    "en": "              SEBEC Building 4F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_291DE0",
+    "en": "              SEBEC Building 5F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_291F9C",
+    "en": "                Mikage Police Station 1F{FERME}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_291FEE",
+    "en": "       Mikage Police Station 2F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29202E",
+    "en": "       Mikage Hospital 1F{FERME}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_292062",
+    "en": "             Mikage Hospital 2F{FERME}",
+    "fr": "",
+    "max": 31,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2920A2",
+    "en": "             Mikage Hospital 3F{FERME}",
+    "fr": "",
+    "max": 31,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2920E2",
+    "en": "             Mikage Hospital 1F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2921D2",
+    "en": "                     St. Hermelin 1F{FERME}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_292D20",
+    "en": "                                                                                      (*HIDE_MSG*) (*WAIT_INPUT*)(*SHOW_MSG*) (*SCENE_INIT*)  < The effect of Liftoma has worn off.{ATTENTE}",
+    "fr": "",
+    "max": 127
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_292E2A",
+    "en": " (*HIDE_MSG*) (*WAIT_INPUT*)(*SHOW_MSG*) (*SCENE_INIT*)  < The Core Shield's effect has worn off.{ATTENTE}",
+    "fr": "",
+    "max": 45
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29AE1C",
+    "en": "This character cannot be commanded{FERME}",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29AED4",
+    "en": "Load commands{ATTENTE}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29AEF2",
+    "en": " Set manually{ATTENTE}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29AF10",
+    "en": "Set individual commands{ATTENTE}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29AF42",
+    "en": " Reuse last turn's commands{ATTENTE}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29AF7C",
+    "en": "Weapon attack - all{ATTENTE}",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29AFDA",
+    "en": " Fire gun{ATTENTE}",
+    "fr": "",
+    "max": 9
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29AFF0",
+    "en": "Use an item{ATTENTE}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B02C",
+    "en": "Weapon attack{ATTENTE}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B06E",
+    "en": " Change formation{ATTENTE}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B0A4",
+    "en": "Enter auto-battle{ATTENTE}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B0CA",
+    "en": " Begin negotiations{ATTENTE}",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B110",
+    "en": "Obtained a mop.{ATTENTE}",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B132",
+    "en": " Obtained a scalpel.{ATTENTE}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B15E",
+    "en": " Ambushed from behind!{ATTENTE}",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B18E",
+    "en": " Preemptive strike!{ATTENTE}",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B1BA",
+    "en": " and friends were annihilated...{ATTENTE}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B1FE",
+    "en": " (*APELLIDO_HEROE*) was revived.{ATTENTE}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B220",
+    "en": "Distribute (*VALUE*){SAUT}",
+    "fr": "",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B23A",
+    "en": " points.{ATTENTE}",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B24E",
+    "en": " Are you sure?{ATTENTE}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B26E",
+    "en": " You couldn't escape!{PAUSE}[3C00]{FERME}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B29E",
+    "en": " Successfully escaped.{PAUSE}[3C00]{FERME}",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B2F6",
+    "en": " Failed!{ATTENTE}",
+    "fr": "",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B30A",
+    "en": " Invocation failed!{ATTENTE}",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B334",
+    "en": "Attack failed!{ATTENTE}",
+    "fr": "",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B354",
+    "en": "Resurrection failed!{ATTENTE}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B380",
+    "en": "Wall effect already cast.{ATTENTE}",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B3B6",
+    "en": " Cannot be used during New Moon.{ATTENTE}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B3FA",
+    "en": " Cannot change Personas.{ATTENTE}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B42E",
+    "en": " No reserve Personas.{ATTENTE}",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B45C",
+    "en": "It's sealed in Tartarus.{ATTENTE}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B490",
+    "en": "No active Persona.{ATTENTE}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B4B8",
+    "en": "No usable items.{ATTENTE}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B4DC",
+    "en": "No bullets equipped.{ATTENTE}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B508",
+    "en": "No gun equipped.{ATTENTE}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B52C",
+    "en": "Revert formation?{ATTENTE}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B552",
+    "en": " No characters are KO'd.{ATTENTE}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B586",
+    "en": " Bad status: Blind{ATTENTE}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B5AE",
+    "en": " Good status: Puppet{ATTENTE}",
+    "fr": "",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B5DA",
+    "en": " Bad status: Mute{ATTENTE}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B600",
+    "en": "Bad status: Guilt{ATTENTE}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B626",
+    "en": " Good status: Cloak{ATTENTE}",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B650",
+    "en": "Bad compability. Cannot invoke{ATTENTE}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B690",
+    "en": "Not enough SP to invoke{ATTENTE}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B6C2",
+    "en": " There are no enemies nearby.{ATTENTE}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B700",
+    "en": "Overwrite?{ATTENTE}",
+    "fr": "",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B726",
+    "en": " A character cannot move{ATTENTE}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B75A",
+    "en": " No one can choose actions{ATTENTE}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B792",
+    "en": " Counterattack!!{ATTENTE}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B7B6",
+    "en": " Dormant power activates{ATTENTE}",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B7EA",
+    "en": " Nothing happens{ATTENTE}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B826",
+    "en": " No event battles{ATTENTE}",
+    "fr": "",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B860",
+    "en": "Absolutely no running away!{ATTENTE}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B89A",
+    "en": " Demons can only defend{ATTENTE}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B902",
+    "en": " Cement group{ATTENTE}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B920",
+    "en": "Don't receive status ailments{ATTENTE}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B95E",
+    "en": " Don't use attack[001E]defend skills{ATTENTE}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B9C6",
+    "en": " Enemies won't move{ATTENTE}",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B9F0",
+    "en": "Guaranteed kill{ATTENTE}",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BA12",
+    "en": " Guaranteed survival{ATTENTE}",
+    "fr": "",
+    "max": 20
+  }
+]

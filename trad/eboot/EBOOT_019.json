@@ -1,0 +1,615 @@
+[
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2787C8",
+    "en": "Blows all foes backwards(*TERMINATOR*)",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2787FA",
+    "en": " Sucks in all foes(*TERMINATOR*)",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278820",
+    "en": "Reduce HP to 1 (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278854",
+    "en": "Restores a little HP each turn (all allies)(*TERMINATOR*)",
+    "fr": "",
+    "max": 43
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2788AC",
+    "en": "Cures all ailments but KO(*TERMINATOR*)",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2788E0",
+    "en": "Cures all but severe ailments(*TERMINATOR*)",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278966",
+    "en": " Restores HP[001E]Increase max HP (1 ally)(*TERMINATOR*)",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2789B2",
+    "en": " Increase maximum SP by 5(*TERMINATOR*)",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2789E6",
+    "en": " Increase maximum HP by 5(*TERMINATOR*)",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278A1A",
+    "en": " Increase Luck by 1(*TERMINATOR*)",
+    "fr": "",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278A42",
+    "en": " Increase Agility by 1(*TERMINATOR*)",
+    "fr": "",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278ACE",
+    "en": " Increase Strength by 1(*TERMINATOR*)",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278AFE",
+    "en": " Temporarily nulls damage floors(*TERMINATOR*)",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278B40",
+    "en": "25% chance to escape battle(*TERMINATOR*)",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278B78",
+    "en": "Shows a map of the area(*TERMINATOR*)",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278BA8",
+    "en": "Reflects 25% phys damage, 1 turn(*TERMINATOR*)",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278BEA",
+    "en": " Reflects 25% magic damage, 1 turn(*TERMINATOR*)",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278C30",
+    "en": "Removes LV decrease (all allies)(*TERMINATOR*)",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278C72",
+    "en": " Cures 1 degree of ailments (all allies)(*TERMINATOR*)",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278CC4",
+    "en": "Cures ailments (1 ally)(*TERMINATOR*)",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278CF4",
+    "en": "Cures Sick status (1 ally)(*TERMINATOR*)",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278D2A",
+    "en": " Cures Poison status (1 ally)(*TERMINATOR*)",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278D66",
+    "en": " Cures Paralyze status (1 ally)(*TERMINATOR*)",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278DA6",
+    "en": " Cures Stone status (1 ally)(*TERMINATOR*)",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278DE0",
+    "en": "Revives 1 ally with full HP(*TERMINATOR*)",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278E36",
+    "en": " Restores full HP (1 ally)(*TERMINATOR*)",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278E6C",
+    "en": "Restores moderate HP (1 ally)(*TERMINATOR*)",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279334",
+    "en": "Boss-only spell(*TERMINATOR*)",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279354",
+    "en": "1 damage each turn (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27938A",
+    "en": " Split into two(*TERMINATOR*)",
+    "fr": "",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2793AA",
+    "en": " Instant kill; user dies (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2793EC",
+    "en": "Heavy special Phys damage (all foes)(*TERMINATOR*)",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279436",
+    "en": " Special Phys damage; user dies (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279484",
+    "en": "Special Phys damage+Affinity change (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 42
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2794DA",
+    "en": " Random damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279506",
+    "en": " Special Phys damage+Charge (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27954E",
+    "en": " Special Phys damage (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279588",
+    "en": "Light Rifle damage (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2795BE",
+    "en": " Light Shotgun damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2795F8",
+    "en": "Light Machine Gun damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279638",
+    "en": "Light Machine Gun damage (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27967A",
+    "en": " Light Handgun damage (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2796B6",
+    "en": " Heavy Arrow damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2796EC",
+    "en": "Medium Arrow damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279722",
+    "en": " Medium Arrow damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27975A",
+    "en": " Heavy Thrown damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279792",
+    "en": " Medium Thrown damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2797CC",
+    "en": "Light Thrown damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279802",
+    "en": " Medium Whip damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279838",
+    "en": "Medium Whip damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27986C",
+    "en": "Light Whip damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27989E",
+    "en": " Heavy Axe damage (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 25,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27993A",
+    "en": " Heavy Spear damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279970",
+    "en": "Heavy Spear damage (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2799A6",
+    "en": " Medium Spear damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2799DE",
+    "en": " Heavy Two-Hand damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279A1A",
+    "en": " Heavy Two-Hand damage (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279A58",
+    "en": "Medium Two-Hand damage (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279A96",
+    "en": " Heavy Sword damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279ACC",
+    "en": "Heavy Sword damage (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279B02",
+    "en": " Medium Sword damage (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279B3C",
+    "en": "Medium Tech damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279B70",
+    "en": "Light Tech damage (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 25,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279BD8",
+    "en": "Medium Fist damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279C0C",
+    "en": "Light Fist damage (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 25,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279C74",
+    "en": "Light Rush damage (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 25,
+    "_occurrences": 5
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279D78",
+    "en": "Heavy Rush damage (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 25,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279DE0",
+    "en": "Medium Rush damage (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279E16",
+    "en": " Medium Rush damage (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 27,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279E86",
+    "en": " Light Tech damage (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 26,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279EBC",
+    "en": "Light Tech damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279EEE",
+    "en": " Light Tech damage+Paralyze (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279F34",
+    "en": "Light Tech damage+Poison (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279F74",
+    "en": "Light Tech damage+Petrify (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279FB8",
+    "en": "Light Tech damage+Sick (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_279FF6",
+    "en": " Light Tech damage+Paralyze (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A03E",
+    "en": " Light Tech damage+Poison (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A0B8",
+    "en": "Light Rush damage+Petrify (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A0FC",
+    "en": "Light Rush damage+Sick (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A13A",
+    "en": " Light Rush damage+Paralyze (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A182",
+    "en": " Light Rush damage+Poison (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A1C6",
+    "en": " Light Rush damage (1 foe)(*TERMINATOR*)",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A1FC",
+    "en": "Prevents escape from battle, 3 turns(*TERMINATOR*)",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A246",
+    "en": " Summons multiple demons(*TERMINATOR*)",
+    "fr": "",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A278",
+    "en": "Heavy Miracle damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 27,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A2E8",
+    "en": "Heavy Curse damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 25,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A350",
+    "en": "Medium Elec damage+Shock (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 31,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A3D0",
+    "en": "Medium Blast damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A406",
+    "en": " Medium Blast damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A43E",
+    "en": " Medium Earth damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 27,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A4AE",
+    "en": " Medium Wind damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A4E4",
+    "en": "Medium Wind damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A518",
+    "en": "Medium Ice damage+Freeze (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 31,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A598",
+    "en": "Medium Fire damage (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 25,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A600",
+    "en": "Party reflects 25% phys damage, 2 turns(*TERMINATOR*)",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A650",
+    "en": "Party reflects 25% spell damage, 2 turns(*TERMINATOR*)",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A6A2",
+    "en": " Party absorbs 50% Fire spells, 3 turns(*TERMINATOR*)",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A6F2",
+    "en": " Party absorbs 50% Ice spells, 3 turns(*TERMINATOR*)",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A740",
+    "en": "Medium Nerve damage+Blind (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A782",
+    "en": " Medium Nerve damage+Poison (area)(*TERMINATOR*)",
+    "fr": "",
+    "max": 34
+  }
+]

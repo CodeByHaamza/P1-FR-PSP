@@ -108,7 +108,7 @@ besoin du jeu, ni de savoir coder, ni d'avoir fini le fichier d'un coup.
 | | |
 |---|---|
 | **Dialogues** (`trad/dialogues/`) | 8 572 textes, 104 fichiers — **ouvert** |
-| **Menus et écrans** (`trad/eboot/`) | 1 518 textes, 17 fichiers — **ouvert** |
+| **Menus, écrans et combat** (`trad/eboot/`) | 2 750 textes, 30 fichiers — **ouvert** ; les 13 derniers (interface de combat, actions de négociation, descriptions d'objets et de sorts) viennent d'ouvrir |
 | **Donjons** (`trad/donjons/`) | 130 textes, 2 fichiers — **ouvert** |
 | **Négociations** (`trad/negociations/`) | 12 487 textes, 139 fichiers — **ouvert**. Ce que les démons répondent quand on leur parle en combat, un dossier par personnalité de démon |
 | Noms de démons, de Personas et sorts signature | **gardés en anglais** : Pixie reste Pixie, Bufu reste Bufu, comme dans toute la série |
@@ -129,6 +129,7 @@ toutes ses occurrences est automatique.
 - [x] négociations extraites, réinjectées et ouvertes à la traduction
 - [ ] **les dialogues** — c'est là qu'on a besoin de monde
 - [ ] **les négociations** — le plus gros morceau, 29 personnalités de démons
+- [ ] **l'interface de combat** (`EBOOT_018` à `EBOOT_030`) — « Mark a raillé le démon ! », le menu de contact, les descriptions de sorts : court et très visible
 - [ ] reporter les 1 427 noms d'objets, d'armes et de sorts déjà arbitrés
 - [ ] retrouver les noms de lieux — le bandeau `1F Empty Classroom` de la
       capture ci-dessus n'apparaît dans aucune extraction : ce texte vit

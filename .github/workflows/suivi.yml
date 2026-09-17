@@ -109,13 +109,13 @@ jobs:
 
       - name: Committer si ça a bougé
         run: |
-          if git diff --quiet -- SUIVI.md .github/badge.json; then
+          if git diff --quiet -- SUIVI.md .github/badge*.json; then
             echo "rien de neuf"
             exit 0
           fi
           git config user.name  "robot du suivi"
           git config user.email "actions@github.com"
-          git add SUIVI.md .github/badge.json
+          git add SUIVI.md .github/badge*.json
           git commit -m "[Suivi] Avancement recalcule"
           # Une fusion peut atterrir pendant qu'on calcule. Plutot que
           # d'echouer et de laisser un suivi perime, on rejoue par-dessus.

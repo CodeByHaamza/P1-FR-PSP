@@ -1,0 +1,609 @@
+[
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B13E",
+    "en": "C'mon, let's go!{ATTENTE}",
+    "fr": "",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B170",
+    "en": "Maki? What're you talking about? This is{SAUT}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B1C2",
+    "en": "the hospital you were cooped up in.{ATTENTE}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B218",
+    "en": "You have amnesia or somethin'?{ATTENTE}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B264",
+    "en": "Weird... Wasn't this place a castle...?{ATTENTE}",
+    "fr": "",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B2C2",
+    "en": "Even before that, I remember it being{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B30E",
+    "en": "impossible to come here...{ATTENTE}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B358",
+    "en": "What's he so smug for? It's getting{SAUT}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B3A0",
+    "en": "on my nerves... Let's just go.{ATTENTE}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B3EC",
+    "en": "What's he acting all superior about!?{SAUT}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B438",
+    "en": "It really makes me mad!{ATTENTE}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B476",
+    "en": "C'mon, guys, let's go! Pbbbbt!{ATTENTE}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B4B6",
+    "en": " (*SPEAKER*)Man in black{SAUT}",
+    "fr": "",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B4D4",
+    "en": "Past here is SEBEC property! No entry!{ATTENTE}",
+    "fr": "",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B530",
+    "en": "Hey, (*APELLIDO_HEROE*), was the police station{SAUT}",
+    "fr": "",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B56E",
+    "en": "always a building like this?{ATTENTE}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B5B8",
+    "en": "Nanjo, you dick...{ATTENTE}",
+    "fr": "",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B5EE",
+    "en": "I don't recall having anything to do{SAUT}",
+    "fr": "",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B638",
+    "en": "at such a shabby place.{ATTENTE}",
+    "fr": "",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B678",
+    "en": "Huh? I thought there was a castle here...{ATTENTE}",
+    "fr": "",
+    "max": 41
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B6DE",
+    "en": "Does this look like the police station{SAUT}",
+    "fr": "",
+    "max": 38,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28B72C",
+    "en": "to you? Stop fooling around!{ATTENTE}",
+    "fr": "",
+    "max": 28,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28FC3E",
+    "en": "                               St. Hermelin 1F{FERME}",
+    "fr": "",
+    "max": 46
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28FC9C",
+    "en": "                St. Hermelin 2F{FERME}",
+    "fr": "",
+    "max": 31,
+    "_occurrences": 4
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28FCDC",
+    "en": "                St. Hermelin 3F{FERME}",
+    "fr": "",
+    "max": 31,
+    "_occurrences": 4
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28FD1C",
+    "en": "                St. Hermelin Gym{FERME}",
+    "fr": "",
+    "max": 32,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28FDD6",
+    "en": "                   Ice Castle 9F{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28FE18",
+    "en": "                  Ice Castle 10F{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28FE5A",
+    "en": "                 Ice Castle 11F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28FE9A",
+    "en": "                 Ice Castle 5F{FERME}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28FED8",
+    "en": "                  Ice Castle 6F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28FF18",
+    "en": "                  Ice Castle 7F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28FF58",
+    "en": "                  Ice Castle 8F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28FFBE",
+    "en": "                               Ice Castle 2F{FERME}",
+    "fr": "",
+    "max": 44
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290018",
+    "en": "                  Ice Castle 3F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290058",
+    "en": "                  Ice Castle 4F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2900CE",
+    "en": "                       Thanatos Tower 1F{FERME}",
+    "fr": "",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290120",
+    "en": "              Thanatos Tower 2F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290160",
+    "en": "              Thanatos Tower 3F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2901A0",
+    "en": "              Thanatos Tower 4F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2901E0",
+    "en": "              Thanatos Tower 5F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290220",
+    "en": "              Thanatos Tower 6F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290260",
+    "en": "              Thanatos Tower 7F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2902A0",
+    "en": "              Nemesis Tower 1F{FERME}",
+    "fr": "",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2902DE",
+    "en": "               Nemesis Tower 2F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29031E",
+    "en": "               Nemesis Tower 3F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29035E",
+    "en": "               Nemesis Tower 4F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29039E",
+    "en": "               Nemesis Tower 5F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2903DE",
+    "en": "               Nemesis Tower 6F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29041E",
+    "en": "               Nemesis Tower 7F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29045E",
+    "en": "               Nemesis Tower 8F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2904D4",
+    "en": "                    Hypnos Tower 1F{FERME}",
+    "fr": "",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29051C",
+    "en": "                Hypnos Tower 2F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29055C",
+    "en": "                Hypnos Tower 3F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29059C",
+    "en": "                Hypnos Tower 4F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2905DC",
+    "en": "                Hypnos Tower 5F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29061C",
+    "en": "                Hypnos Tower 6F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29065C",
+    "en": "                Hypnos Tower 7F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29069C",
+    "en": "                Hypnos Tower 8F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2906DC",
+    "en": "                Devil's Peak 1F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29071C",
+    "en": "                Devil's Peak 2F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29075C",
+    "en": "                Devil's Peak 3F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29079C",
+    "en": "                Devil's Peak 4F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2907DC",
+    "en": "                Devil's Peak 5F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29081C",
+    "en": "                Devil's Peak 6F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29085C",
+    "en": "                Devil's Peak 7F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29089C",
+    "en": "                Devil's Peak 8F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2908DC",
+    "en": "                Devil's Peak 9F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29091C",
+    "en": "                Devil's Peak 10F{FERME}",
+    "fr": "",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29095E",
+    "en": "               Devil's Peak 11F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29099E",
+    "en": "               Devil's Peak 12F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2909DE",
+    "en": "               Ice Castle 1F{FERME}",
+    "fr": "",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290A18",
+    "en": "                  Avidya World 1F{FERME}",
+    "fr": "",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290A5C",
+    "en": "                Avidya World 2F{FERME}",
+    "fr": "",
+    "max": 31,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290A9C",
+    "en": "                Avidya World 1F{FERME}",
+    "fr": "",
+    "max": 31,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290B9C",
+    "en": "                Alaya Cavern B9{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290BDC",
+    "en": "                Alaya Cavern B8{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290C1C",
+    "en": "                Alaya Cavern B7{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290C5C",
+    "en": "                Alaya Cavern B6{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290C9C",
+    "en": "                Alaya Cavern B5{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290CDC",
+    "en": "                Alaya Cavern B4{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290D1C",
+    "en": "                Alaya Cavern B3{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290D5C",
+    "en": "                Alaya Cavern B2{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290D9C",
+    "en": "                Alaya Cavern B1{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290E20",
+    "en": "              Deva Yuga 1F{FERME}",
+    "fr": "",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290E56",
+    "en": "                   Deva Yuga 2F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290E96",
+    "en": "                   Deva Yuga 3F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290ED6",
+    "en": "                   Deva Yuga 4F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290F16",
+    "en": "                   Deva Yuga 5F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290F56",
+    "en": "                   Deva Yuga 6F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290F96",
+    "en": "                   Haunted Mansion 1F{FERME}",
+    "fr": "",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_290FE2",
+    "en": "             Haunted Mansion 2F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_291022",
+    "en": "             Haunted Mansion 3F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_291062",
+    "en": "             Mana Castle 1F{FERME}",
+    "fr": "",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29109A",
+    "en": "                 Mana Castle 2F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2910DA",
+    "en": "                 Mana Castle 3F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29111A",
+    "en": "                 Mana Castle 4F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29115A",
+    "en": "                 Mana Castle 5F{FERME}",
+    "fr": "",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29123E",
+    "en": "                               Kama Palace B10{FERME}",
+    "fr": "",
+    "max": 46
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29129C",
+    "en": "                Kama Palace B9{FERME}",
+    "fr": "",
+    "max": 30
+  }
+]
