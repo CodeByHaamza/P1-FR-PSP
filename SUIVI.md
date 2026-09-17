@@ -4,11 +4,11 @@
 
 ```text
 Dialogues      ███████████░░░░░░░░░░░░░   44 %    3 796 / 8 572 textes
-EBOOT          ████████████████████████  100 %    1 518 / 1 518 textes
+EBOOT          █████████████░░░░░░░░░░░   55 %    1 518 / 2 750 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
 Négociations   ███░░░░░░░░░░░░░░░░░░░░░   11 %    1 314 / 12 487 textes
 
-Total          ███████░░░░░░░░░░░░░░░░░   30 %    6 758 / 22 707 textes
+Total          ███████░░░░░░░░░░░░░░░░░   28 %    6 758 / 23 939 textes
 ```
 
 ## Poids à surveiller
@@ -206,6 +206,19 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) | 100 | 100 | 100 % | terminé · 1 trop large |
 | [`EBOOT_016.json`](trad/eboot/EBOOT_016.json) | 100 | 100 | 100 % | terminé · 7 à vérifier |
 | [`EBOOT_017.json`](trad/eboot/EBOOT_017.json) | 18 | 18 | 100 % | terminé · 1 à vérifier |
+| [`EBOOT_018.json`](trad/eboot/EBOOT_018.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_019.json`](trad/eboot/EBOOT_019.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_020.json`](trad/eboot/EBOOT_020.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_021.json`](trad/eboot/EBOOT_021.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_022.json`](trad/eboot/EBOOT_022.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_023.json`](trad/eboot/EBOOT_023.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_024.json`](trad/eboot/EBOOT_024.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_025.json`](trad/eboot/EBOOT_025.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_026.json`](trad/eboot/EBOOT_026.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_027.json`](trad/eboot/EBOOT_027.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_028.json`](trad/eboot/EBOOT_028.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_029.json`](trad/eboot/EBOOT_029.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_030.json`](trad/eboot/EBOOT_030.json) | 32 | 0 | 0 % | libre |
 
 ## Donjons
 
