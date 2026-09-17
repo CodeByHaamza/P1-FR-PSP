@@ -1,0 +1,368 @@
+[
+  {
+    "id": "KEMONO.BIN:resp:0209",
+    "en": "Sure, I guess...(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KEMONO.BIN:resp:0212",
+    "en": "Your face.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0213",
+    "en": "You look strong.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0214",
+    "en": "You look rich.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0215",
+    "en": "I'll try.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0216",
+    "en": "I'll work out...(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0217",
+    "en": "Wayyy impossible.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0218",
+    "en": "I totally love you!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "KEMONO.BIN:resp:0220",
+    "en": "You mean that?(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0221",
+    "en": "Gimme a card!(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0222",
+    "en": "Gimme something!(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KEMONO.BIN:resp:0223",
+    "en": "I don't need stuff!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0226",
+    "en": "Waaaaaahhh!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KEMONO.BIN:resp:0228",
+    "en": "Hey!(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 9
+  },
+  {
+    "id": "KEMONO.BIN:resp:0229",
+    "en": "I'm straight.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0230",
+    "en": "I know that.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0231",
+    "en": "I don't know that.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0232",
+    "en": "I don't care.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "KEMONO.BIN:resp:0233",
+    "en": "You're a Wing, yeah?(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0234",
+    "en": "[FFF0], right?(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0235",
+    "en": "You're Jirae, yeah?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0239",
+    "en": "That's human.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KEMONO.BIN:resp:0242",
+    "en": "Eat vegetables.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0243",
+    "en": "Become human.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0244",
+    "en": "It's too late.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0245",
+    "en": "Hmhm...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 11
+  },
+  {
+    "id": "KEMONO.BIN:resp:0248",
+    "en": "The face.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0249",
+    "en": "The brains.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0250",
+    "en": "It's too horrifying.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0252",
+    "en": "Yukino Mayuzumi.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KEMONO.BIN:resp:0253",
+    "en": "I won't tell.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KEMONO.BIN:resp:0255",
+    "en": "Be mad as you want.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0258",
+    "en": "It's Reiji.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KEMONO.BIN:resp:0263",
+    "en": "Leave me alone!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "KEMONO.BIN:resp:0265",
+    "en": "Not interested.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0268",
+    "en": "You wanna die, eh?(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0269",
+    "en": "Worthless...(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0271",
+    "en": "Die, dumbass...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0273",
+    "en": "Sleep forever!(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0274",
+    "en": "I like yelling.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0276",
+    "en": "I want to kill.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0277",
+    "en": "I'm not telling you.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KEMONO.BIN:resp:0278",
+    "en": "Continue the trick(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KEMONO.BIN:resp:0280",
+    "en": "And so what?(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0284",
+    "en": "You ate it.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KEMONO.BIN:resp:0285",
+    "en": "It'll come back.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0286",
+    "en": "Earth's other side.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0287",
+    "en": "A student.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0288",
+    "en": "An adult.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0289",
+    "en": "A devil summoner.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0290",
+    "en": "Introduce yourself(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KEMONO.BIN:resp:0292",
+    "en": "Don't answer(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KEMONO.BIN:resp:0293",
+    "en": "I've got nothing.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KEMONO.BIN:resp:0295",
+    "en": "I don't have time.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KEMONO.BIN:resp:0296",
+    "en": "Circle.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0297",
+    "en": "Square.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0298",
+    "en": "Triangle.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0299",
+    "en": "The bigger one.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0300",
+    "en": "The smaller one.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0302",
+    "en": "I'm fine.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "KEMONO.BIN:resp:0303",
+    "en": "Not so good.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0304",
+    "en": "I'm screwed.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0306",
+    "en": "I didn't know.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0307",
+    "en": "It was an accident.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0308",
+    "en": "I like.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0309",
+    "en": "I hate.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0310",
+    "en": "Neither.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0311",
+    "en": "Watermelons.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KEMONO.BIN:resp:0312",
+    "en": "Strawberries.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  }
+]

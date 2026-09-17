@@ -1,0 +1,548 @@
+[
+  {
+    "id": "SYOUJO.BIN:text:0437",
+    "en": " That's what I thought!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0442",
+    "en": " Well, I guess that's fine.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0443",
+    "en": " Umm... I don't think I wanna die...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "SYOUJO.BIN:text:0445",
+    "en": "   Hmph! In your face!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0446",
+    "en": "Y-You make me so mad!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0447",
+    "en": "  Okay, okay. We'll just go Dutch on it!{SAUT}Man, human women are so stern...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0448",
+    "en": "Huh? So you're not going? You're so{SAUT}scatterbrained, Ayase!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0449",
+    "en": " Boy, Ayase, you sure are naive, huh...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0450",
+    "en": "You won't get anywhere if you're scared{SAUT}all the time!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0451",
+    "en": "  You won't get anywhere if you're scared{SAUT}all the time!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0452",
+    "en": "  If you die, I'll make sure to eat you,{SAUT}Miss!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0453",
+    "en": "   Sheesh, you're annoying! What are you{SAUT}so scared for!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0454",
+    "en": "  Huh? What're you scared about all of{SAUT}a sudden...?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0455",
+    "en": "  But noble people like you only make me{SAUT}want to bully them!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0456",
+    "en": " But noble people like you make me want{SAUT}to bully them even more!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0457",
+    "en": "If you don't mind, I'll lend you my help!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0458",
+    "en": "  There's a few tricks to fake crying.{SAUT}I'll teach you some later.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0459",
+    "en": "Ahahaha! WHATEVER!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0460",
+    "en": " Sheesh! You so don't mean that!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0461",
+    "en": "I don't know what to do...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0462",
+    "en": " Thank goodness...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0463",
+    "en": "  For reals?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0469",
+    "en": "  Hmm, you're pretty gullible.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0475",
+    "en": "   Oh, so you like that sort of thing!{SAUT}Okay then, miss!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:text:0476",
+    "en": "   You're a fiend!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:text:0477",
+    "en": "You're a fiend...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0478",
+    "en": "  Oh, I'm so happy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0479",
+    "en": "  Why'd you stop!?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0480",
+    "en": "   That kind of mean stuff is... Hmmm,{SAUT}it's not bad either...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0481",
+    "en": " This isn't something to get all{SAUT}embarrassed about!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0482",
+    "en": " Huh, that's cool of you!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0494",
+    "en": "Y-You're a fiend...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0495",
+    "en": "Oh, I'm so happy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0498",
+    "en": " You're such a nasty human!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0499",
+    "en": " C'mon, don't tease me like that!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:text:0500",
+    "en": "   Are you shy, miss? Hmmm?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0501",
+    "en": "   Grrr! You better stop underestimating me!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0502",
+    "en": "  What is it? You want something from me,{SAUT}right...?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "SYOUJO.BIN:text:0503",
+    "en": "  What's with you!? If you don't want{SAUT}anything with me, get out of my sight!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "SYOUJO.BIN:text:0504",
+    "en": " Ohhh... If you wanted to negotiate,{SAUT}you should've said so from the start.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:text:0505",
+    "en": "  You're such a nasty human!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "SYOUJO.BIN:text:0507",
+    "en": "   Are you shy, Miss? Are ya?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0508",
+    "en": " Grrr! You better stop underestimating me!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0509",
+    "en": "  Ahahaha... What is it?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0510",
+    "en": " What's with you!? If you don't want{SAUT}anything with me, get out of my sight!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0518",
+    "en": "  Haha... You're so naive that it's easy{SAUT}to trick you, mister!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0521",
+    "en": "That's what I thought!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0522",
+    "en": " I knew it... I try not to go near{SAUT}dangerous humans...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0527",
+    "en": "Just kidding!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0528",
+    "en": "  Don't you want me to like you!?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0529",
+    "en": "Huh? Don't you want me to like you?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0530",
+    "en": "Yeah! That really surprised me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0531",
+    "en": "Huuuuuh?! Then what is it...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0532",
+    "en": "  Huuuuh!? Then what is it? I'm really{SAUT}curious now!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0533",
+    "en": "  Are you threatning me!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0534",
+    "en": "B-But if you did something like that,{SAUT}I'd never hear the end of it from my{SAUT}friends...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0535",
+    "en": "  Really? Then I want a skirt, shoes,{SAUT}and a bag! I'll take overnight shipping,{SAUT}please.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0536",
+    "en": "   I was lying when I said it was cool!{SAUT}Cheapskate! You're nowhere near cool!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0537",
+    "en": " Oh crap... R-Really?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0538",
+    "en": "   Sheesh, you're good!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0539",
+    "en": "   Wh-What the? Teach me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0540",
+    "en": " Shut up!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0541",
+    "en": "   What's with you? I won't understand{SAUT}unless you speak up!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0542",
+    "en": "   I won't understand unless you speak up.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0543",
+    "en": "I won't lose even if you threaten me!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0544",
+    "en": "  Okay!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0545",
+    "en": "  Territory is territory!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0546",
+    "en": "But... territory is territory...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0547",
+    "en": "   Nope! You get none!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0548",
+    "en": "Man, it seems like it's gonna be{SAUT}cold this year.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0549",
+    "en": "   Hmm... Well, it's a greeting after{SAUT}all...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0550",
+    "en": "  The weather's important, you know!{SAUT}The moon affects how I feel, too.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0551",
+    "en": "   What do you want with me? I bet it's{SAUT}gonna be some stupid negotiation!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0552",
+    "en": " Then I'm not going back home!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0553",
+    "en": "  Awwwww... you're so cute!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0554",
+    "en": "  What if this is a crime...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0555",
+    "en": "Oh, really?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0556",
+    "en": "Huh? Me?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0557",
+    "en": "   You think so too, mister?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0558",
+    "en": "  That's not it? I see...{SAUT}I understand...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0559",
+    "en": "You want me to jump in there? Ahahaha!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0560",
+    "en": " ...No way! I won't fall for it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0562",
+    "en": "   No way! I totally smell demon blood{SAUT}on you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0563",
+    "en": "I heard [FFFA] slaughters any demon{SAUT}he meets... That's a lie, right?{SAUT}They mean someone else, right?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0564",
+    "en": " I envy your self-confidence...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0565",
+    "en": " Of course!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0566",
+    "en": " Ahahaha! If you get angry, your blood{SAUT}pressure's gonna rise!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0567",
+    "en": "   I'll do it just how you like it,{SAUT}mister...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0568",
+    "en": " ...Things aren't getting any livelier...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0569",
+    "en": "   I don't really get it... but I'm scared!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0001",
+    "en": "A lot happened...(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0003",
+    "en": "It might be a lie.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 14
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0005",
+    "en": "Bingo.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0006",
+    "en": "I don't want it.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 22
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0009",
+    "en": "I'll do something bad.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 10
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0011",
+    "en": "It's not that great.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 11
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0012",
+    "en": "But I can't beat you.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 20
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0014",
+    "en": "Console it(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 21
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0016",
+    "en": "Surprise it more(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:resp:0019",
+    "en": "I'll kidnap you.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 4
+  }
+]

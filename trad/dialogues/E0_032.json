@@ -334,7 +334,7 @@
     "locuteur": "Maki",
     "en": "What...?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Quoi...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:118:0049",
@@ -482,7 +482,7 @@
     "locuteur": "Mai",
     "en": "I'm sorry.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Désolé.{ATTENTE}"
   },
   {
     "id": "E0.BIN:118:0072",
@@ -607,40 +607,40 @@
     "id": "E0.BIN:118:0089",
     "locuteur": "Maki",
     "en": "Can I see that compact, (*APELLIDO_HEROE*)?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Maki",
+    "fr": "Fais voir ce poudrier, (*APELLIDO_HEROE*)?{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:118:0090",
     "locuteur": "Maki",
     "en": "Wow... It's only half of the whole thing,{SAUT}but it's the same as mine.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Maki",
+    "fr": "Ouah... Ce n'est que la moitié du tout,{SAUT}mais c'est pareil que le mien.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:118:0091",
     "locuteur": "Maki",
     "en": "Though mine doesn't have a mirror like{SAUT}this one.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Maki",
+    "fr": "Mais le mien n'a pas de miroir{SAUT}comme celui-ci.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:118:0092",
     "locuteur": "Mark",
     "en": "Well, wishes are supposed to be things{SAUT}you grant for yourself, after all.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mark",
+    "fr": "Ben, un voeu, c'est censé s'exaucer{SAUT}soi-même, après tout.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:118:0093",
     "locuteur": "Mark",
     "en": "It would be boring if everything all{SAUT}went the way you wanted it to.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mark",
+    "fr": "Ce serait ennuyeux si tout se{SAUT}passait comme on le veut.{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -661,32 +661,32 @@
     "id": "E0.BIN:118:0096",
     "locuteur": "Elly",
     "en": "When I was little, I pretended the mirror{SAUT}in my house was magic.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "Quand j'étais petite, je croyais le{SAUT}miroir chez moi magique.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:118:0097",
     "locuteur": "Elly",
     "en": "I'd make wishes to it, too, like to{SAUT}become a beautiful girl everyone loved...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "Je lui faisais des voeux, comme{SAUT}devenir une belle fille aimée de tous...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:118:0098",
     "locuteur": "Brown",
     "en": "Man, this bites. I had a ton of wishes{SAUT}all lined up.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Brown",
+    "fr": "Mince, ça craint. J'avais plein de voeux{SAUT}en réserve.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:118:0099",
     "locuteur": "Ayase",
     "en": "Aww, but I wanted so much stuff! You'll{SAUT}buy them for me, right, (*APELLIDO_HEROE*)?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Ayase",
+    "fr": "Oh, mais je voulais tant de trucs! Tu{SAUT}me les achèteras, hein, (*APELLIDO_HEROE*)?{ATTENTE}",
     "_occurrences": 2
   },
   {

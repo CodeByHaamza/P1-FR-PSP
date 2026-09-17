@@ -3,71 +3,71 @@
     "id": "E0.BIN:119:0000",
     "locuteur": "Mai",
     "en": "Nooo! Mr. Bear! He's dead...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mai",
+    "fr": "Noon! M. Ours! Il est mort...{ATTENTE}"
   },
   {
     "id": "E0.BIN:119:0001",
     "locuteur": "Mai",
     "en": "Waaaaaaaaaah! Now no one will be{SAUT}my friend!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mai",
+    "fr": "Waaaaaaaaah! Plus personne ne sera{SAUT}mon ami!{ATTENTE}"
   },
   {
     "id": "E0.BIN:119:0002",
     "locuteur": "Mai",
     "en": "You're so mean...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mai",
+    "fr": "Vous êtes durs...{ATTENTE}"
   },
   {
     "id": "E0.BIN:119:0003",
     "locuteur": "Maki",
     "en": "She disappeared... I feel like we did{SAUT}something bad to her.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Elle a disparu.. J'ai l'impression qu'on{SAUT}lui a fait du mal.{ATTENTE}"
   },
   {
     "id": "E0.BIN:119:0004",
     "locuteur": "Nanjo",
     "en": "Indeed... Why did you go and threaten{SAUT}her, Masao!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "En effet... Pourquoi l'avoir{SAUT}menacé, Masao!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:119:0005",
     "locuteur": "Nanjo",
     "en": "Now we've lost a valuable source of{SAUT}information.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "On a perdu une précieuse source{SAUT}d'information.{ATTENTE}"
   },
   {
     "id": "E0.BIN:119:0006",
     "locuteur": "Elly",
     "en": "That bear... It must have been her only{SAUT}friend. And we...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Cet ours... C'était sans doute son seul{SAUT}ami. Et nous...{ATTENTE}"
   },
   {
     "id": "E0.BIN:119:0007",
     "locuteur": "Brown",
     "en": "No wonder she's a magical girl.{SAUT}That was a close call...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Normal, c'est une fille magique.{SAUT}On l'a échappé belle...{ATTENTE}"
   },
   {
     "id": "E0.BIN:119:0008",
     "locuteur": "Brown",
     "en": "Still, I feel kinda bad for her.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Quand même, je la plains un peu.{ATTENTE}"
   },
   {
     "id": "E0.BIN:119:0009",
     "locuteur": "Ayase",
     "en": "Sheesh! It's 'cause you had to go and{SAUT}shoot your mouth off, Masao!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Pff! C'est parce que t'as ouvert{SAUT}ta grande gueule, Masao!{ATTENTE}"
   },
   {
     "id": "E0.BIN:119:0010",
@@ -80,71 +80,71 @@
     "id": "E0.BIN:119:0011",
     "locuteur": "Nanjo",
     "en": "Hm? What's that on the floor?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Hm? Qu'y a-t-il par terre?{ATTENTE}"
   },
   {
     "id": "E0.BIN:119:0012",
     "locuteur": "Maki",
     "en": "Whoa! It's Mai's compact!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Ouah! Le poudrier de Mai!{ATTENTE}"
   },
   {
     "id": "E0.BIN:119:0013",
     "locuteur": "Mark",
     "en": "Huh... She must've dropped it. It feels{SAUT}kinda wrong, but we should borrow it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Hein... Elle a dû le perdre. Ça gêne{SAUT}un peu, mais on devrait l'emprunter.{ATTENTE}"
   },
   {
     "id": "E0.BIN:119:0014",
     "locuteur": "Maki",
     "en": "It grants any wish, right? Why don't{SAUT}we have it send us to the castle?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Il exauce tous les voeux, non? Et s'il{SAUT}nous envoyait au château?{ATTENTE}"
   },
   {
     "id": "E0.BIN:119:0015",
     "locuteur": "Nanjo",
     "en": "Good idea. Give it a try, Masao.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Bonne idée. Essaie donc, Masao.{ATTENTE}"
   },
   {
     "id": "E0.BIN:119:0016",
     "locuteur": "Mark",
     "en": "Okay. How'd it go...? Erusaer Tsymmom.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Bon. Comment...? Erusaer Tsymmom.{ATTENTE}"
   },
   {
     "id": "E0.BIN:119:0017",
     "locuteur": "Maki",
     "en": "...Nothing happened.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Rien ne s'est passé.{ATTENTE}"
   },
   {
     "id": "E0.BIN:119:0018",
     "locuteur": "Nanjo",
     "en": "There's always a catch... That child{SAUT}must be the only one who can use it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Il y a un hic... Cette enfant{SAUT}est sans doute la seule à s'en servir.{ATTENTE}"
   },
   {
     "id": "E0.BIN:119:0019",
     "locuteur": "Mark",
     "en": "Oh well, we'll just have to hoof it{SAUT}back to the castle.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Tant pis, on rentrera au château{SAUT}à pied.{ATTENTE}"
   },
   {
     "id": "E0.BIN:119:0025",
     "locuteur": "Nanjo",
     "en": "Kandori... What's he scheming to do{SAUT}by acquiring that compact...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Kandori... Que manigance-t-il en{SAUT}récupérant ce poudrier...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:119:0031",
@@ -155,141 +155,141 @@
     "id": "E0.BIN:128:0000",
     "locuteur": "Mark",
     "en": "Alright, (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "D'accord, (*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0001",
     "locuteur": "Mark",
     "en": "Let's try fitting that compact half{SAUT}into the pedestal.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Essayons d'emboîter ce demi-poudrier{SAUT}dans le socle.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0002",
     "locuteur": "Nanjo",
     "en": "Wait a second, (*APELLIDO_HEROE*)...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Attends voir, (*APELLIDO_HEROE*)...{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0003",
     "locuteur": "Maki",
     "en": "'Sup, Nanjo?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "'Hey, Nanjo?{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0004",
     "locuteur": "Nanjo",
     "en": "...It's nothing. Carry on.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Ce n'est rien. Continuez.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0005",
     "locuteur": "Mark",
     "en": "Man, you've always been weird, but it's{SAUT}really ramped up lately.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Mince, t'as toujours été bizarre, mais{SAUT}la ça empire vraiment.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0006",
     "locuteur": "Mark",
     "en": "You've been acting funny for a while now.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Tu agis bizarrement depuis un moment.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0007",
     "locuteur": "Nanjo",
     "en": "...Don't worry about it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "...Ne t'en fais pas.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0008",
     "locuteur": "Mark",
     "en": "Heh! You heard him, (*APELLIDO_HEROE*).{SAUT}Go right ahead.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Heh! T'as entendu, (*APELLIDO_HEROE*).{SAUT}Vas-y, fonce.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0009",
     "locuteur": "Maki",
     "en": "Kandori and Aki are up there...{SAUT}We're getting close, (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Kandori et Aki sont là-haut...{SAUT}On approche, (*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0010",
     "locuteur": "Maki",
     "en": "Now what do we do!? We have to get{SAUT}Mai's compact back!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "On fait quoi la!? Faut{SAUT}reprendre le poudrier de Mai!{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0011",
     "locuteur": "Mark",
     "en": "Hurry up, man. Just put that compact{SAUT}into the pedestal.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Grouille, mec. Mets ce poudrier{SAUT}dans le socle.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0012",
     "locuteur": "Mark",
     "en": "Dammit! We fell right for their trap!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Merde! On est tombés dans le piège!{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0013",
     "locuteur": "Nanjo",
     "en": "This is dirty pool, Kandori...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Quel coup bas, Kandori...{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0014",
     "locuteur": "Nanjo",
     "en": "We had no choice but to dance according{SAUT}to his tune.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "On a dû danser sur son air{SAUT}sans avoir le choix.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0015",
     "locuteur": "Nanjo",
     "en": "A dirty trick, but one well played.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Un sale tour, mais bien joue.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0016",
     "locuteur": "Reiji",
     "en": "Kandori's not going anywhere. He'll get{SAUT}what's coming to him in the end.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Kandori n'ira nulle part. Il finira{SAUT}par avoir ce qu'il mérite.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0017",
     "locuteur": "Reiji",
     "en": "He's a devil, just like his father...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Un démon, comme son père...{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0018",
     "locuteur": "Elly",
     "en": "I'm very uneasy about this... Be careful,{SAUT}(*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Tout ça m'inquiète... Sois prudent,{SAUT}(*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0019",
     "locuteur": "Elly",
     "en": "I thought as much... But I'm glad nothing{SAUT}happened to you, (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Je m'en doutais... Mais je suis contente{SAUT}qu'il ne te soit rien arrivé, (*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0020",
@@ -302,29 +302,29 @@
     "id": "E0.BIN:128:0021",
     "locuteur": "Brown",
     "en": "What, you want me to do it for you?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Quoi, tu veux que je le fasse?{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0022",
     "locuteur": "Brown",
     "en": "That was... I... What was that!? Oh my{SAUT}God, I am so pissed off right now!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "C'était... I... C'était quoi!? Oh mon{SAUT}Dieu, je suis furax là!{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0023",
     "locuteur": "Ayase",
     "en": "Hurry it up, (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Dépêche-toi, (*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0024",
     "locuteur": "Ayase",
     "en": "That was so cheap! Using people like{SAUT}that... Oh, he pisses me off so bad!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "C'était minable! Se servir des gens{SAUT}comme ça... Il m'énerve tellement!{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0025",
@@ -335,99 +335,99 @@
     "id": "E0.BIN:128:0026",
     "locuteur": "Mark",
     "en": "Wh-What just happened?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Qu-Que s'est-il passé?{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0027",
     "locuteur": "Nanjo",
     "en": "I'm sure Kandori is laughing himself{SAUT}hoarse right now.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Je parie que Kandori rit{SAUT}à gorge déployée maintenant.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0028",
     "locuteur": "Maki",
     "en": "What do you mean?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Comment ça?{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0029",
     "locuteur": "Nanjo",
     "en": "Kandori wanted that compact.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Kandori voulait ce poudrier.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0030",
     "locuteur": "Nanjo",
     "en": "Since Mai wouldn't come out, he needed{SAUT}someone to get it and bring it to him.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Comme Mai refusait de sortir, il lui{SAUT}fallait quelqu'un pour le lui apporter.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0031",
     "locuteur": "Nanjo",
     "en": "We were his patsies.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "On était ses jouets.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0032",
     "locuteur": "Mark",
     "en": "What?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Quoi?{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0033",
     "locuteur": "Mark",
     "en": "That scumbag! Wait, if you knew,{SAUT}why didn't you tell us!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ce salaud! Attends, si tu savais,{SAUT}pourquoi tu nous as rien dit!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0034",
     "locuteur": "Nanjo",
     "en": "Because it's still the only way to{SAUT}get to him.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Car c'est encore le seul moyen{SAUT}de l'atteindre.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0035",
     "locuteur": "Maki",
     "en": "Why, though?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Pourquoi?{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0036",
     "locuteur": "Maki",
     "en": "If he just needed the compact,{SAUT}why would he let us in?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "S'il ne voulait que le poudrier,{SAUT}pourquoi nous laisser entrer?{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0037",
     "locuteur": "Nanjo",
     "en": "He's inviting us in. He has a rather{SAUT}high opinion of himself...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Il nous invite à entrer. Il a une{SAUT}haute opinion de lui-même...{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0038",
     "locuteur": "Mark",
     "en": "I hate looking like an idiot...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Je déteste passer pour un con...{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0039",
     "locuteur": "Mark",
     "en": "Fine, then! We'll play along! Let's go,{SAUT}(*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "D'accord! On joue le jeu! Allons-y,{SAUT}(*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0040",
@@ -438,64 +438,64 @@
     "id": "E0.BIN:128:0041",
     "locuteur": "Maki",
     "en": "The haunted mansion, huh? I remember{SAUT}sneaking in there when I was a kid...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Le manoir hante, hein? Je me souviens{SAUT}y être entrée en douce enfant...{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0042",
     "locuteur": "Maki",
     "en": "Wait... huh...? Who was it that used{SAUT}to yell at me for doing that...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Attends... hein...? Qui me grondait{SAUT}quand je faisais ça, déjà...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0043",
     "locuteur": "Mark",
     "en": "Kind of a surprise to hear Reiji is{SAUT}that bastard's half-brother.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Surprenant d'apprendre que Reiji est{SAUT}le demi-frère de ce salaud.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0044",
     "locuteur": "Mark",
     "en": "But now that I think about it, they do{SAUT}kinda have similar eyes.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Mais à bien y réfléchir, ils ont un peu{SAUT}les mêmes yeux.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0045",
     "locuteur": "Mark",
     "en": "Reiji must be pretty pissed.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Reiji doit être furieux.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0046",
     "locuteur": "Nanjo",
     "en": "...No, that's not it. But if I think of{SAUT}it another way... No, wait...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "...Non, c'est pas ça. Mais si j'y pense{SAUT}autrement... Non, attends...{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0047",
     "locuteur": "Nanjo",
     "en": "Hm? Sorry, but I'm busy now.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Hm? Désolé je suis occupé.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0048",
     "locuteur": "Elly",
     "en": "Let's be on our way to the haunted{SAUT}mansion, (*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Mettons-nous en route vers le manoir{SAUT}hanté, (*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0049",
     "locuteur": "Brown",
     "en": "The haunted mansion's south of here,{SAUT}right?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Le manoir hanté est au sud d'ici,{SAUT}c'est ça?{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0050",
@@ -508,7 +508,7 @@
     "id": "E0.BIN:128:0051",
     "locuteur": "Reiji",
     "en": "You think this is the time for a chat!?{SAUT}We need to go and nail that bastard!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "C'est le moment de bavarder!?{SAUT}Faut aller coincer ce salaud!{ATTENTE}"
   }
 ]

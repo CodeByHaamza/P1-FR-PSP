@@ -1,0 +1,507 @@
+[
+  {
+    "id": "DOPPEL.BIN:text:0000",
+    "en": "> [FFF3] persuaded you.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0001",
+    "en": " > [FFF3] persuaded you.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "DOPPEL.BIN:text:0003",
+    "en": " > [FFF3] taunted you.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0004",
+    "en": "   > [FFF3] taunted you.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "DOPPEL.BIN:text:0006",
+    "en": "   > [FFF3] invited you.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "DOPPEL.BIN:text:0009",
+    "en": "   > [FFF3] sang a song.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "DOPPEL.BIN:text:0012",
+    "en": "   I can't do much for you, but I promise{SAUT}our time together will be exciting.{SAUT}So c'mon, lend me your strength!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0013",
+    "en": "Humans live the way they want, right?{SAUT}It would be nice if you could put aside{SAUT}our differences and help me out.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0014",
+    "en": " Ahahahahaha!{SAUT}I can only do so much on my own.{SAUT}So I'd like your help!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0015",
+    "en": "   Many artists have been captivated by you.{SAUT}I don't see why, though!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0016",
+    "en": " Hey, how can I get power like yours?{SAUT}I really, really want it...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0017",
+    "en": "   Are you Maki Sonomura?{SAUT}I could tell right off! You have a unique{SAUT}aura about you...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0018",
+    "en": " Hmm... I think your mother's grandpa is{SAUT}your guardian angel. He's really strong!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0019",
+    "en": "   Want to know the truth? The ones behind{SAUT}all this... are really aliens. Or not!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0020",
+    "en": " If you do what I say, by some miracle{SAUT}a bronze statue of you will be erected!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0021",
+    "en": "  I got lost and wandered here...{SAUT}Please forgive me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0022",
+    "en": " A-A human! D-Don't come near me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0023",
+    "en": "   Ahahahahaha!{SAUT}Please... spare me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0024",
+    "en": "   So you're a human? So what! C'mon, baby,{SAUT}let's play a symphony of love!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0025",
+    "en": "Bullshit!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0026",
+    "en": "  Oh no... oh, no, no, no...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0027",
+    "en": " Heeheehee! You and me could have some{SAUT}good times together!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0028",
+    "en": " Alright, what's the difference between{SAUT}a rottweiler and a poodle? They're two{SAUT}totally different breeds! Get it?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0029",
+    "en": "Hell no, Hidehiko! You're not going to{SAUT}make me mimic something that awful,{SAUT}are you? Have a heart!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0030",
+    "en": "  Sheesh... You're really going to make me{SAUT}mimic a weapons-grade joke like that...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0031",
+    "en": "  What do you do if you're on a horse and{SAUT}you see a giraffe and lion next to you?{SAUT}Get off the carousel! C'mon, laugh!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0032",
+    "en": "How've you been? I heard you're on{SAUT}a roll. Not me, it's been pretty slow.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0033",
+    "en": "  Man, it's hot out! I like summer, but{SAUT}not this kind of... Ugh, screw this!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0034",
+    "en": " So, got any crushes? Yeah, there's been{SAUT}someone on my mind, too. Heeheehee...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0035",
+    "en": "  Blrgh... Urrrrgh... ＊puke＊{SAUT}That surprised you, didn't it!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0036",
+    "en": " BOO!{SAUT}Heh, you fell for it.{SAUT}...Just kidding, moron!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0037",
+    "en": " Dude... I can't possibly mimic something{SAUT}like that... What should I do?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0038",
+    "en": "This is just a down payment. Do you want{SAUT}land? Stocks? Hmph! I'll give you a photo{SAUT}of myself!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0039",
+    "en": "  I refuse!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0040",
+    "en": "  I'll give you a coin whose front and back{SAUT}are reversed. I even signed it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0041",
+    "en": "  Are you happy with your station in life?{SAUT}That way is the epitome of foolishness!{SAUT}I'll grasp true happiness on my own!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0042",
+    "en": "  Hell no!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0043",
+    "en": "   The masses must act, or their station in{SAUT}life will never change!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0044",
+    "en": "   You're an utter imbecile!{SAUT}But don't worry about it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0045",
+    "en": "I've never known such a dunce!{SAUT}You think you're a match for me!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0046",
+    "en": "   Hmph... What a cretin...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0047",
+    "en": "   Your egotism is... stunning.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0048",
+    "en": "   There's definitely no comparison between{SAUT}demons and your kind.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0049",
+    "en": " I know...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0050",
+    "en": "  > [FFF3] showed off his{SAUT}smooth moves.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0051",
+    "en": "   > [FFF3] danced crazy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0052",
+    "en": "  > [FFF3] danced happily.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0053",
+    "en": "You think you're bad? Then try me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0054",
+    "en": " You want some of this!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0055",
+    "en": "Hey! I'm right here...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0056",
+    "en": " > [FFF3] stared passionately{SAUT}at Masao.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0057",
+    "en": "  > [FFF3] glared at Masao!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0058",
+    "en": "   > [FFF3] stared flirtatiously{SAUT}at Masao!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0059",
+    "en": " I'm actually a prince of the human world,{SAUT}studying abroad in the underworld!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0060",
+    "en": "   Ah, my dear child... Masao Inaba!{SAUT}Ugh, va te faire foutre!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0061",
+    "en": " I'm in this amazing demon form 'cause I{SAUT}got cursed!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0062",
+    "en": "If you see 11:11:11 on the clock on three{SAUT}straight days, the door won't open!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0063",
+    "en": "  Oh my God...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0064",
+    "en": "   Heheh... I know that's not true.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0065",
+    "en": "   > [FFF3] sang a chic, touching{SAUT}American bossa nova.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0066",
+    "en": " I'm not as bad a singer as you!{SAUT}How rude!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0067",
+    "en": "  Oh, this is wonderful! Thank you for{SAUT}singing that lovely song just for me.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0068",
+    "en": " There, there, little Eriko... Play nice.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0069",
+    "en": "   Yes? Would you like some milk?{SAUT}...I can't keep this up!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0070",
+    "en": "Heehee...That's a dear.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0071",
+    "en": "You're a very capable human. Won't you{SAUT}take on a job as my bodyguard?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0072",
+    "en": "  What did you just say...?{SAUT}I refuse.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0073",
+    "en": "Ahahah... What should I do?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0074",
+    "en": "I may have a smart mouth, but I'm really{SAUT}a good girl!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0075",
+    "en": "  It smells kind of funny around here!{SAUT}And that style is like, PRE-prehistoric!{SAUT}What a dork!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0076",
+    "en": " You're seriously willing to be seen{SAUT}outside looking like that?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0077",
+    "en": " Ooooh, my chest is sore...{SAUT}Maybe if you gave it a little rub...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0078",
+    "en": "   Hey! Don't make that face!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0079",
+    "en": " Y'know... I'm usually really innocent...{SAUT}But today? I'm feeling daring.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0080",
+    "en": "My daddy was abducted by a UFO... My mom{SAUT}joined an evil cult...Now I've been taken{SAUT}apart and put back together as a cyborg...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0081",
+    "en": "  Won't someone buy my matches...? If I{SAUT}don't sell any, Papa will beat me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0082",
+    "en": " I'm the oldest of 23 brothers and{SAUT}sisters... I have to eat them all...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0083",
+    "en": " I'd watch out if I were you... I'm nice{SAUT}and calm now, but I go nuts in a snap.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0084",
+    "en": " You're not gonna do what I say!? Don't{SAUT}make me blow your brains out!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0085",
+    "en": "   My hobby is collecting severed demon{SAUT}heads...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0086",
+    "en": "  Hmph! It's true what they say...{SAUT}A human's bark is worse than its bite!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0087",
+    "en": "You'll be calling ME a demon soon.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0088",
+    "en": " Who the hell do you think you're talking{SAUT}to? I hate rudeness worse than anything!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0089",
+    "en": "  Y'know, I've been thinking about the{SAUT}difference between humans and demons...{SAUT}And it's useless. There isn't any.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0090",
+    "en": "It's better to stay in bed than to go{SAUT}through life half-assed. There's too{SAUT}many people like that already.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0091",
+    "en": "  Your actions have no worth.{SAUT}I'm so smart!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0092",
+    "en": "  Stay quiet for once and listen to what{SAUT}others have to say! And don't you make{SAUT}fun of them, or I'll make you regret it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0093",
+    "en": " Stop whining... No one likes it...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0094",
+    "en": " Haha... who knows?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0095",
+    "en": " ......(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "DOPPEL.BIN:text:0101",
+    "en": " This isn't your lucky day... I'll take{SAUT}your eyes last... So go to hell!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0102",
+    "en": "Sounds like you wanna die!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0103",
+    "en": " Leave me alone...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0104",
+    "en": "  Rrrrrwwaaaaaoooarrr!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0105",
+    "en": "   Grrrwaaaaaaahhhh!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0106",
+    "en": "  Haaaaaaaaaaaaah!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0107",
+    "en": "   Wow!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0108",
+    "en": "   ...So what?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0109",
+    "en": "I spin the top with the power of my{SAUT}chi alone...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0110",
+    "en": "   You're exceptionally talented. I'm going{SAUT}to study your manner of speaking...{SAUT}It rather interests me.(*RESPONSE*)",
+    "fr": ""
+  }
+]

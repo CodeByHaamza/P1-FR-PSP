@@ -233,7 +233,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2C80C0",
     "en": "winnings.{ATTENTE}",
-    "fr": "les[0000]gains.{ATTENTE}",
+    "fr": "les gains.{ATTENTE}",
     "max": 9,
     "_occurrences": 2
   },

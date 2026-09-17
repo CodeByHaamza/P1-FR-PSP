@@ -3,363 +3,363 @@
     "id": "E0.BIN:069:0000",
     "locuteur": "Aki",
     "en": "Hey! Grrr... I'm gonna tell my Daddy{SAUT}on you!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Aki",
+    "fr": "Hé! Grrr... Je vais le dire{SAUT}à mon papa!{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0001",
     "locuteur": "Aki",
     "en": "Daddy's REAL strong! You guys won't{SAUT}stand a chance!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Aki",
+    "fr": "Mon papa est SUPER fort! Vous avez{SAUT}aucune chance!{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0002",
     "locuteur": "Maki",
     "en": "Hold it right there!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Arrête-toi tout de suite!{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0003",
     "locuteur": "Maki",
     "en": "Aww...! She got away again.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Oh non...! Elle s'est encore enfuie.{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0004",
     "locuteur": "Nanjo",
     "en": "...Who is that girl...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "...Qui est cette enfant...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0005",
     "locuteur": "Yosuke",
     "en": "Is everyone okay!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yosuke",
+    "fr": "Tout le monde va bien!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0006",
     "locuteur": "Maki",
     "en": "Yosuke! Is everything all right!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Yosuke! Tout va bien!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0007",
     "locuteur": "Yosuke",
     "en": "Yeah! The school's back to normal,{SAUT}thanks to you guys.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yosuke",
+    "fr": "Oui! Le lycée est redevenu normal,{SAUT}grâce à vous.{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0008",
     "locuteur": "Elly",
     "en": "It was my pleasure.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Tout le plaisir était pour moi.{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0009",
     "locuteur": "Brown",
     "en": "Mwahahah! No need to thank me!{SAUT}Just doin' what's right.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Mouahaha! Pas besoin de me remercier!{SAUT}Je fais ce qu'il faut, c'est tout.{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0010",
     "locuteur": "Ayase",
     "en": "You could never have enough lives for{SAUT}all the trouble you get into...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Avec tous les ennuis que tu t'attires,{SAUT}t'aurais besoin de neuf vies...{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0011",
     "locuteur": "Ayase",
     "en": "Though it's not like it'll do any{SAUT}good to tell you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Remarque, ça sert à rien de te{SAUT}le dire.{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0012",
     "locuteur": "Yosuke",
     "en": "I really can't thank you guys enough.{SAUT}By the way... I want you to meet someone.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yosuke",
+    "fr": "Je ne vous remercierai jamais assez.{SAUT}Au fait... venez voir quelqu'un.{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0013",
     "locuteur": "Yosuke",
     "en": "Would you mind coming with me?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yosuke",
+    "fr": "Ça vous dérange de me suivre?{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0014",
     "locuteur": "Nanjo",
     "en": "Why?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Pourquoi?{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0015",
     "locuteur": "Yosuke",
     "en": "There's a guy who's helped me out since{SAUT}I came here. He actually believed me...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yosuke",
+    "fr": "Un type m'aide depuis mon arrivée ici.{SAUT}Lui, au moins, il m'a cru...{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0016",
     "locuteur": "Yosuke",
     "en": "He's investigating the two worlds...{SAUT}Maybe he's figured something out by now.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yosuke",
+    "fr": "Il enquête sur les deux mondes...{SAUT}Il a peut-être trouvé quelque chose.{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0017",
     "locuteur": "Mark",
     "en": "Wow, I'm kinda surprised someone took{SAUT}you seriously. Who is this guy?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ouah, ça m'étonne que quelqu'un t'ait{SAUT}pris au sérieux. C'est qui, ce type?{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0018",
     "locuteur": "Yosuke",
     "en": "Uh... you'll see. Alright, I'll be{SAUT}waiting at the (*TEXTBOX_PARAM,0700*)library(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yosuke",
+    "fr": "Euh... vous verrez. Bon, je vous{SAUT}attends à la (*TEXTBOX_PARAM,0700*)bibliothèque(*TEXTBOX_PARAM,0000*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0019",
     "locuteur": "Elly",
     "en": "What's with him, I wonder? In any case,{SAUT}let's head to the (*TEXTBOX_PARAM,0700*)library(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Qu'est-ce qu'il a? Enfin bref,{SAUT}allons à la (*TEXTBOX_PARAM,0700*)bibliothèque(*TEXTBOX_PARAM,0000*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0020",
     "locuteur": "Brown",
     "en": "H-Hey! Ugh, he's already gone.{SAUT}Is he really hurt...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "H-Hé! Pff, il est déjà parti.{SAUT}Il est vraiment blessé...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0021",
     "locuteur": "Ayase",
     "en": "We're going somewhere else AGAIN!?{SAUT}Don't we get, like, a break...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "On repart ENCORE ailleurs!?{SAUT}On a pas droit à une pause, genre...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0022",
     "locuteur": "Mark",
     "en": "So you wanna stay here alone, Ayase?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Tu veux rester ici toute seule, Ayase?{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0023",
     "locuteur": "Ayase",
     "en": "All right! Sheesh! Stupid Masao...{SAUT}Monkeyboy! Ook ook, eek eek!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "C'est bon! Pff! Masao l'idiot...{SAUT}Sale singe! Ouh ouh, hi hi!{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0024",
     "locuteur": "Mark",
     "en": "Hey! Did you just call me monkeyboy!?{SAUT}AND Masao!? Quit using that lame name!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Hé! Tu m'as traité de sale singe!?{SAUT}ET de Masao!? Arrête avec ce nom nul!{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0025",
     "locuteur": "Maki",
     "en": "That's enough, you two! C'mon,{SAUT}(*APELLIDO_HEROE*), let's get to the (*TEXTBOX_PARAM,0700*)library(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Ça suffit, vous deux! Allez,{SAUT}(*APELLIDO_HEROE*), on va à la (*TEXTBOX_PARAM,0700*)bibliothèque(*TEXTBOX_PARAM,0000*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0026",
     "locuteur": "Mark",
     "en": "Don't worry about it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Laisse tomber.{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0027",
     "locuteur": "Mark",
     "en": "Uhhh... wow. He just went off hopping{SAUT}on one leg...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Euuuh... ouah. Il est parti en{SAUT}sautillant sur une jambe...{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0028",
     "locuteur": "Mark",
     "en": "Wanna go after him then, Reiji?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Tu veux le suivre, Reiji?{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0030",
     "locuteur": "Mark",
     "en": "Man! You really don't know how to play{SAUT}along. You gotta take it easy, y'know?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Mec! Tu sais vraiment pas t'amuser.{SAUT}Faut te détendre un peu, tu sais?{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0031",
     "locuteur": "Reiji",
     "en": "...Leave me alone...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "...Laisse-moi tranquille...{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0032",
     "locuteur": "Mark",
     "en": "Whatever you say, man. Alright, let's{SAUT}get going, (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Comme tu veux, mec. Bon, on y va,{SAUT}(*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0033",
     "locuteur": "Maki",
     "en": "I wonder if he's the one Yosuke means...{SAUT}If so, he'll definitely be at the library.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Yosuke parlait peut-être de lui...{SAUT}Alors il sera forcément à la bibliothèque.{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0034",
     "locuteur": "Nanjo",
     "en": "That girl referred to Kandori as her{SAUT}father, but is she really his child?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Cette enfant appelle Kandori son père,{SAUT}mais est-elle vraiment sa fille?{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0035",
     "locuteur": "Nanjo",
     "en": "This is the first I've heard of him{SAUT}having a daughter.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "C'est la première fois que j'entends{SAUT}parler d'une fille.{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0036",
     "locuteur": "Mark",
     "en": "Ugh, that brat pisses me off! She's not{SAUT}getting away with it next time!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Pff, cette gamine me sort par les yeux!{SAUT}La prochaine fois, elle y coupera pas!{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0037",
     "locuteur": "Mark",
     "en": "Man, Ayase has a filthy mouth...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Mec, Ayase est vraiment mal élevée...{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0038",
     "locuteur": "Mark",
     "en": "But I guess some guys like her like{SAUT}that. What is this world coming to...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Mais y en a qui aiment ça, paraît-il.{SAUT}Où va le monde, franchement...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0039",
     "locuteur": "Mark",
     "en": "That Reiji jerk sure acts strange{SAUT}around people.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ce Reiji, il est bizarre avec{SAUT}les gens, quand même.{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0040",
     "locuteur": "Mark",
     "en": "Hey, let's you and me do something{SAUT}about it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Hé, toi et moi, on va arranger{SAUT}ça.{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0041",
     "locuteur": "Elly",
     "en": "Yosuke has lost someone dear to him,{SAUT}too... It must be hard.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Yosuke aussi a perdu quelqu'un qui{SAUT}comptait... Ça doit être dur.{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0042",
     "locuteur": "Brown",
     "en": "Kids can be cruel, y'know. They don't{SAUT}know when a game's not funny anymore.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Les gamins sont cruels, tu sais. Ils{SAUT}voient pas quand le jeu s'arrête.{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0043",
     "locuteur": "Brown",
     "en": "What was she gonna do if we ended{SAUT}up dead?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Elle aurait fait quoi, si on y{SAUT}était restés?{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0044",
     "locuteur": "Brown",
     "en": "Oh, wait, she was always planning to kill{SAUT}us. Hahaha! Man, that's disturbing...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Ah non, elle voulait nous tuer depuis{SAUT}le début. Hahaha! Ça fait peur...{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0045",
     "locuteur": "Ayase",
     "en": "I wanna hurry and get back already.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "J'ai trop envie de rentrer, moi.{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0046",
     "locuteur": "Ayase",
     "en": "I SHOULD be chilling at the club{SAUT}right now.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Là, je DEVRAIS être en train de{SAUT}chiller en boîte.{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0047",
     "locuteur": "Reiji",
     "en": "...I told you to leave me alone.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Reiji",
+    "fr": "...Je t'ai dit de me laisser.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:069:0048",
     "locuteur": "Maki",
     "en": "That reminds me... Where did everyone{SAUT}from this world go?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Au fait... où sont passés les gens{SAUT}de ce monde?{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0049",
     "locuteur": "Maki",
     "en": "You were here, Masao was... Everyone{SAUT}was here.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Toi, tu étais là, Masao aussi...{SAUT}Tout le monde était là.{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0050",
     "locuteur": "Mark",
     "en": "It looks just the same as our stone.{SAUT}Hard to believe it's another world...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Elle est pareille que notre pierre.{SAUT}Dur de croire qu'on est ailleurs...{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0051",
     "locuteur": "Elly",
     "en": "...Oh, sorry. I was just thinking about{SAUT}something.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "...Oh, pardon. Je pensais à quelque{SAUT}chose.{ATTENTE}"
   },
   {
     "id": "E0.BIN:069:0052",
     "en": "{FERME}  > Hiremon Stone{SAUT}This megalith was excavated when the{SAUT}school was first built in 1963.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}  > Pierre de Hiremon{SAUT}Ce mégalithe a été déterré lors de la{SAUT}construction du lycée, en 1963.{ATTENTE}"
   }
 ]

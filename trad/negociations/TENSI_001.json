@@ -1,0 +1,585 @@
+[
+  {
+    "id": "TENSI.BIN:text:0000",
+    "en": "Since you require my intervention,{SAUT}your point is indeed reasonable.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0001",
+    "en": "You have a great deal of foresight.{SAUT}Young though you are, you are both{SAUT}admirable and reliable.[FFFD]É[F500]   Do you truly require my intervention?{SAUT}There is no sincerity in your speech{SAUT}and actions!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0002",
+    "en": "As a redeemed human, you must speak only{SAUT}the truth!{ATTENTE}",
+    "fr": "",
+    "_occurrences": 16
+  },
+  {
+    "id": "TENSI.BIN:text:0003",
+    "en": "{PAGE}Pursuing personal gain and deceitfully{SAUT}hiding your true intentions will only{SAUT}anger Him![FFFD]α[F500] Your instincts are right to be interested{SAUT}in me... Now turn your heart to the Lord{SAUT}and let us walk a path of righteousness!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0004",
+    "en": "Do you wish to form a contract with me,{SAUT}one of His messengers?[FFFD][02FF][F500]   You are overflowing with confidence.{SAUT}Should the chance ever arise, I would{SAUT}like a personal match with you.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0005",
+    "en": " I understand now your strength...{SAUT}But what will you do with me?[FFFD][03FF][F500]  I shall mend your twisted mind for{SAUT}your own sake!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0006",
+    "en": "  Where did you learn to speak such filth?[FFFD][04FF][F500] I am an angel; His own messenger...{SAUT}I do not yield to threats.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0007",
+    "en": " As one of His messengers, you must attend{SAUT}to me with respect.[FFFD][05FF][F500]Since you require my intervention,{SAUT}your point is indeed reasonable.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0008",
+    "en": "You have a great deal of foresight.{SAUT}Young though you are, you are both{SAUT}admirable and reliable.[FFFD][06FF][F500]   Do you truly require my intervention?{SAUT}There is no sincerity in your speech{SAUT}and actions!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0010",
+    "en": "{PAGE}Pursuing personal gain and deceitfully{SAUT}hiding your true intentions will only{SAUT}anger Him![FFFD][07FF][F500] An invitation from a fallen one...?{SAUT}You demon-ridden human...!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0011",
+    "en": " ...I believe there are others better{SAUT}suited than I...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0012",
+    "en": "  Though you try to appease angels with{SAUT}such songs, His order will not be{SAUT}swayed!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0013",
+    "en": "An enchanting singer who seduces souls...{SAUT}Humans are indeed dangerous creatures.{SAUT}They cannot be left unshepherded![FFFD][08FF][F500]   I cannot bear to listen any longer...{SAUT}This must be a form of ordeal...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0014",
+    "en": " Your song is not pleasing to His ears...{SAUT}S-Stop at once...![FFFD][09FF][F500]  Ah, such singing is truly the music of{SAUT}the spheres!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0015",
+    "en": "That voice must be a gift from Him, no?{SAUT}I am deeply moved...![FFFD][0AFF][F500]Since you require my intervention,{SAUT}your point is indeed reasonable.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0016",
+    "en": "You have a great deal of foresight.{SAUT}Young though you are, you are both{SAUT}admirable and reliable.[FFFD][0BFF][F500]   Do you truly require my intervention?{SAUT}There is no sincerity in your speech{SAUT}and actions!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0018",
+    "en": "{PAGE}Pursuing personal gain and deceitfully{SAUT}hiding your true intentions will only{SAUT}anger Him![FFFD][0CFF][F500] Your instincts are right to be interested{SAUT}in me... Now turn your heart to the Lord{SAUT}and let us walk a path of righteousness!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0019",
+    "en": "Do you wish to form a contract with me,{SAUT}one of His messengers?[FFFD][0DFF][F500]   That will change nothing! You must cling{SAUT}fast to your beliefs to live your life!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0020",
+    "en": "   What an obvious charade... Your true{SAUT}intentions are known to me![FFFD][0EFF][F500] I feel there must be some catch to{SAUT}this... How uncanny...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0021",
+    "en": "  Oh, not at all... I still lack experience{SAUT}as one of His messengers.[FFFD][0FFF][F500]  Very true! Obedience to me is indeed the{SAUT}first step on the path to redemption!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0022",
+    "en": " So you instinctively sensed that an{SAUT}almighty, transcendent entity is{SAUT}enthroned in the heavens![FFFD][10FF][F500]   Since you have been redeemed, your point{SAUT}is indeed reasonable.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0023",
+    "en": " You have a great deal of foresight.{SAUT}Young though you are, you are both{SAUT}admirable and reliable.[FFFD][11FF][F500]   Do you truly wish to form a contract?{SAUT}There is no sincerity in your speech{SAUT}and actions!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0025",
+    "en": "{PAGE}Pursuing personal gain and deceitfully{SAUT}hiding your true intentions will only{SAUT}anger Him![FFFD][12FF][F500] Speaking of the world is a good habit...{SAUT}You have turned your heart to the Lord,{SAUT}and you walk the path of righteousness!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0026",
+    "en": "   Do you wish to form a contract with me,{SAUT}one of His messengers?[FFFD][13FF][F500]   To be humble, avoiding conflict...{SAUT}That is desirable in humans who have{SAUT}been banished from paradise.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0027",
+    "en": "   Though you had been banished from{SAUT}paradise, you have a keen understanding{SAUT}of your true strengths.[FFFD][14FF][F500]That will change nothing! You must cling{SAUT}fast to your beliefs to live your life!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0028",
+    "en": "   What an obvious charade... Your true{SAUT}intentions are known to me![FFFD][15FF][F500] I feel there must be some catch to{SAUT}this... How uncanny...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0029",
+    "en": "  Oh, not at all... I still lack experience{SAUT}as one of His messengers.[FFFD][16FF][F500]  You are a pleasant human...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0030",
+    "en": "You wish to converse with me? Shall I{SAUT}teach you about the Lord, mankind,{SAUT}and love?[FFFD][17FF][F500]   How dare you, towards an angel and one{SAUT}of His messengers! Be ashamed!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0031",
+    "en": "  It is useless to try and deceive me.{SAUT}Such things should not be so easily said{SAUT}in the first place![FFFD][18FF][F500]I-I... am neither male nor female...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0032",
+    "en": "   S-Stop this! Upsetting the peace and{SAUT}order is a grave offense![FFFD][19FF][F500]   It does not shame me to hear this...{SAUT}But until the fated day on which we form{SAUT}a contract, remember those words well.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0033",
+    "en": "   Your invitation may be an ordeal from{SAUT}Him as well... What should I do?[FFFD][1AFF][F500]   If you wish to draw my attention, you{SAUT}need only praise Him on high with your{SAUT}hand to heart.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0034",
+    "en": "Fools can be unexpectedly wise... You may{SAUT}be one who makes up peace and order{SAUT}as well...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0035",
+    "en": "   Your jest is utterly lacking in wit!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0036",
+    "en": "   What about that pointless story was meant{SAUT}to be humorous?[FFFD][1BFF][F500]Ah! I'm getting goosebumps... It must be{SAUT}divine intervention...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0037",
+    "en": "What is the meaning of this...? Are you{SAUT}entirely mentally balanced?[FFFD][1CFF][F500]  That was not a poor effort for one who{SAUT}had been banished from paradise.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0038",
+    "en": "You are talented indeed! Would you{SAUT}consider becoming a comedic missionary{SAUT}to spread His truth across the world?[FFFD][1DFF][F500]  I am interested in the human world's{SAUT}state of affairs as well.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0039",
+    "en": " I ask this not of personal interest...{SAUT}But do you know any stories that are{SAUT}more engaging?[FFFD][1EFF][F500]   These vulgar stories hold no interest for{SAUT}His messengers!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0040",
+    "en": "  I am aghast... Are you truly making small{SAUT}talk during a discussion of contracts?{SAUT}You must take this seriously![FFFD][1FFF][F500]   What a pleasant story. Perhaps later,{SAUT}I shall relate firsthand accounts of{SAUT}Heaven to you.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0041",
+    "en": "  I must listen to your story, that I might{SAUT}learn more about humans who had been{SAUT}banished from paradise...[FFFD][20FF][F500] If you wish to draw my attention, you{SAUT}need only praise Him on high with your{SAUT}hand to heart.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0042",
+    "en": "Was that divine intervention...?{SAUT}What was that?[FFFD][21FF][F500]  Do you enjoy surprising His messengers{SAUT}this way?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0043",
+    "en": "   Is it given unto me that I must guide{SAUT}such a fool...?[FFFD][22FF][F500]What a dangerous human... No, I...{SAUT}I am not afraid... you know...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0044",
+    "en": "  With His protection, I fear nothing.{SAUT}Thus, I am not afraid... You see...?[FFFD][23FF][F500]I can scarcely believe it would occur{SAUT}to you to behave that way in the{SAUT}presence of one of His messengers.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0045",
+    "en": "  That is prudent of you. The rich should{SAUT}give their wealth to the poor.[FFFD][24FF][F500]   You think to control me with material{SAUT}goods? You are unworthy of salvation!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0046",
+    "en": "Ahem... It is important to ascertain{SAUT}what others desire as well.[FFFD][25FF][F500] So that is your offering to Him? Your{SAUT}generosity is indeed admirable.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0047",
+    "en": "  Thank you very much. I shall use it{SAUT}with care.[FFFD][26FF][F500]   Since you have been redeemed, your point{SAUT}is indeed reasonable.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0048",
+    "en": " You have a great deal of foresight.{SAUT}Young though you are, you are both{SAUT}admirable and reliable.[FFFD][27FF][F500]   Do you truly require my intervention?{SAUT}There is no sincerity in your speech{SAUT}and actions!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0050",
+    "en": "{PAGE}Pursuing personal gain and deceitfully{SAUT}hiding your true intentions will only{SAUT}anger Him![FFFD][28FF][F500] Speaking of the world is a good habit...{SAUT}You have turned your heart to the Lord,{SAUT}and you walk the path of righteousness!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0051",
+    "en": "   Do you wish to form a contract with me,{SAUT}one of His messengers?[FFFD][29FF][F500]   You are overflowing with confidence.{SAUT}Should the chance ever arise, I would{SAUT}like a personal match with you.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0052",
+    "en": " I understand now your strength...{SAUT}But what will you do with me?[FFFD][2AFF][F500]  I shall mend your twisted mind for{SAUT}your own sake!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0053",
+    "en": "  Where did you learn to speak such filth?[FFFD][2BFF][F500] I am an angel; His own messenger...{SAUT}I do not yield to threats.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0054",
+    "en": " As one of His messengers, you must attend{SAUT}to me with respect.[FFFD][2CFF][F500]You speak as though you make sport of{SAUT}me... You are but a child, so I am{SAUT}sure He will forgive your indiscretion.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0055",
+    "en": "   Those who forget their manners make{SAUT}needless enemies![FFFD][2DFF][F500]Barbed words hurt not only others, but{SAUT}can be turned upon yourself!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0056",
+    "en": "How old do I appear to you? Suffice to{SAUT}say I am older than you, so speak to me{SAUT}in a more appropriate manner![FFFD][2EFF][F500] Your words of praise... I am certain{SAUT}that He is pleased with them.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0057",
+    "en": " It seems that you are a quick thinker,{SAUT}if nothing else.[FFFD][2FFF][F500]  I would like to show you the dance of{SAUT}we heavenly creatures someday.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0058",
+    "en": "   That is quite a dance. I would like you{SAUT}to teach it to me as well.[FFFD][30FF][F500]   You seem to lack training. Your dancing{SAUT}is a form of ordeal... You must not{SAUT}neglect your practice!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0059",
+    "en": " How unsightly! The restroom is that way![FFFD][31FF][F500] Your dance is an expression of the joys{SAUT}of living! Magnificent! I feel as though{SAUT}I would like to join in!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0060",
+    "en": "  Your dance is an expression of the joys{SAUT}of living! Well then, let us dance{SAUT}together![FFFD][32FF][F500] You are overflowing with confidence.{SAUT}Should the chance ever arise, I would{SAUT}like a personal match with you.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0061",
+    "en": " I understand now your strength...{SAUT}But what will you do with me?[FFFD][33FF][F500]  I shall mend your twisted mind for{SAUT}your own sake!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0062",
+    "en": "  Where did you learn to speak such filth?[FFFD][34FF][F500] I am an angel; His own messenger...{SAUT}I do not yield to threats.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0063",
+    "en": " As one of His messengers, you must attend{SAUT}to me with respect.[FFFD][35FF][F500]Is something the matter with my face?{SAUT}I endeavor to construct the proper{SAUT}expressions while in the human world.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0064",
+    "en": " If you observe me that closely, your{SAUT}eyes may bore a hole in me![FFFD][36FF][F500] That defiant look is unacceptable!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0065",
+    "en": " You must not look that way at one of{SAUT}His messengers![FFFD][37FF][F500] What is the matter? You look bewildered.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0066",
+    "en": "   What is the matter? Have you never seen{SAUT}someone of my beauty before? Ahaha...[FFFD][38FF][F500]Since you have been redeemed, your point{SAUT}is indeed reasonable.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0067",
+    "en": " You have a great deal of foresight.{SAUT}Young though you are, you are both{SAUT}admirable and reliable.[FFFD][39FF][F500]   Do you truly require my intervention?{SAUT}There is no sincerity in your speech{SAUT}and actions!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0069",
+    "en": "{PAGE}Pursuing personal gain and deceitfully{SAUT}hiding your true intentions will only{SAUT}anger Him![FFFD][3AFF][F500] This contract is based on my conjecture...{SAUT}You have turned your heart to the Lord,{SAUT}and you walk the path of righteousness!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0070",
+    "en": " Do you wish to form a contract with me,{SAUT}one of His messengers?[FFFD][3BFF][F500]   That is a lie, spread by the wicked!{SAUT}It is foolish of you to believe it!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0071",
+    "en": "   That was not a harmonious story. Why do{SAUT}humans enjoy stories of disrupting peace{SAUT}and order!?[FFFD][3CFF][F500] H-Hold a moment... I must hence to{SAUT}the lavatory...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0072",
+    "en": " To be plain... I do not deal well with{SAUT}such stories...[FFFD][3DFF][F500]   If you speak of such things, they will{SAUT}gather near you. Look... There is one{SAUT}behind you now!{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0073",
+    "en": "{PAGE}Ahaha... Were you frightened? If you{SAUT}obey Him, these things will no longer{SAUT}trouble you.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0074",
+    "en": "  You seem very familiar with that. Are{SAUT}there dreadful places in such utter{SAUT}disorder here too?[FFFD][3EFF][F500] Magnificent! You are one graced with{SAUT}both intelligence and beauty.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0075",
+    "en": " How marvelous! Had I not been an angel,{SAUT}I would have succumbed to your charms.[FFFD][3FFF][F500]   Though you try to appease angels with{SAUT}such songs, His order will not be{SAUT}swayed!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0076",
+    "en": "An enchanting singer who seduces souls...{SAUT}Humans are indeed dangerous creatures.{SAUT}They cannot be left unshepherded![FFFD][40FF][F500]   Ah, such singing is truly the music of{SAUT}the spheres!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0077",
+    "en": "That voice must be a gift from Him, no?{SAUT}I am deeply moved...![FFFD][41FF][F500]What is it? Rather, \"what ish it, mommy?\"{SAUT}Is that how I was meant to say it?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0078",
+    "en": "   Ahaha... Angels do not age, but do I{SAUT}look so young to you?[FFFD][42FF][F500]   Ever since the redemption of humanity,{SAUT}they have become quite insolent!{SAUT}That must now be corrected!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0079",
+    "en": "How deplorable! Do you not even know{SAUT}your place!?[FFFD][43FF][F500]I feel as though I experienced something{SAUT}like that in the world gone by...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0080",
+    "en": " Is the mother of life one like you?[FFFD][44FF][F500]  Since you require my intervention,{SAUT}your point is indeed reasonable.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0081",
+    "en": "You have a great deal of foresight.{SAUT}Young though you are, you are both{SAUT}admirable and reliable.[FFFD][45FF][F500]   Do you truly require my intervention?{SAUT}There is no sincerity in your speech{SAUT}and actions!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0083",
+    "en": "{PAGE}Pursuing personal gain and deceitfully{SAUT}hiding your true intentions will only{SAUT}anger Him![FFFD][46FF][F500] Your instincts are right to be interested{SAUT}in me... Now turn your heart to the Lord{SAUT}and let us walk a path of righteousness!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0084",
+    "en": "Do you wish to form a contract with me,{SAUT}one of His messengers?[FFFD][47FF][F500]   You speak as though you make sport of{SAUT}me... You are but a child, so I am{SAUT}sure He will forgive your indiscretion.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0085",
+    "en": "   Those who forget their manners make{SAUT}needless enemies![FFFD][48FF][F500]Ever since the redemption of humanity,{SAUT}they have become quite insolent!{SAUT}That must now be corrected!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0086",
+    "en": "How deplorable, not to even know{SAUT}your place![FFFD][49FF][F500] When you put it that way... I-I become{SAUT}less sure of myself...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0087",
+    "en": "  I cannot believe you would speak that{SAUT}way to one of His angels... Oh Lord...{SAUT}I am dreadful...[FFFD][4AFF][F500]You are a pleasant human.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0088",
+    "en": "  You wish to converse with me? Shall I{SAUT}teach you about the Lord, mankind,{SAUT}and love?[FFFD][4BFF][F500]   Sinful woman! Be ashamed of yourself!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0089",
+    "en": "  Why do you treat yourself so carelessly?{SAUT}You are one of His unique creations![FFFD][4CFF][F500]Could this be an ordeal as well...?{SAUT}But the circumstances are so delightful...{SAUT}What... what should I do...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0090",
+    "en": "My heart is wavering... Am I going to{SAUT}be corrupted?[FFFD][4DFF][F500]  This is an ordeal from Him! When you{SAUT}overcome it, true happiness will{SAUT}await you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0091",
+    "en": "   Though you are young, you have been{SAUT}through much hardship...[FFFD][4EFF][F500] How reckless of you to lie to an angel!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0092",
+    "en": "Know that you are well known for your{SAUT}false tears![FFFD][4FFF][F500]   P-Please stop! At this rate, I will{SAUT}appear to be a wicked angel...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0093",
+    "en": " You are putting me in a difficult{SAUT}situation, crying while we work out{SAUT}a contract...[FFFD][50FF][F500]  You are overflowing with confidence.{SAUT}Should the chance ever arise, I would{SAUT}like a personal match with you.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0094",
+    "en": " I understand now your strength...{SAUT}But what will you do with me?[FFFD][51FF][F500]  I shall mend your twisted mind for{SAUT}your own sake!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0095",
+    "en": "  Where did you learn to speak such filth?[FFFD][52FF][F500] I am an angel; His own messenger...{SAUT}I do not yield to threats.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0096",
+    "en": " As one of His messengers, you must attend{SAUT}to me with respect.[FFFD][53FF][F500]Ever since the redemption of humanity,{SAUT}they have become quite insolent!{SAUT}That must now be corrected!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0097",
+    "en": "How deplorable, not to even know{SAUT}your place![FFFD][54FF][F500] Did I err...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TENSI.BIN:text:0098",
+    "en": "  Please, hold a moment!{SAUT}Have I done something?[FFFD][55FF][F500]You must have been sent to test me!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0099",
+    "en": "This must be an ordeal as well! Hurl as{SAUT}much abuse as you see fit![FFFD][56FF][F500]   Since you have been redeemed, your point{SAUT}is indeed reasonable.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0100",
+    "en": " You have a great deal of foresight.{SAUT}Young though you are, you are both{SAUT}admirable and reliable.[FFFD][57FF][F500]   Do you truly wish to form a contract?{SAUT}There is no sincerity in your speech{SAUT}and actions!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0102",
+    "en": "{PAGE}Pursuing personal gain and deceitfully{SAUT}hiding your true intentions will only{SAUT}anger Him![FFFD][58FF][F500] This contract is based on my conjecture...{SAUT}You have turned your heart to the Lord,{SAUT}and you walk the path of righteousness!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0103",
+    "en": " Do you wish to form a contract with me,{SAUT}one of His messengers?[FFFD][59FF][F500]   Ever since the redemption of humanity,{SAUT}they have become quite insolent!{SAUT}That must now be corrected!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0104",
+    "en": "How deplorable, not to even know{SAUT}your place![FFFD][5AFF][F500] Did I err...?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0105",
+    "en": "  Please, hold a moment! Have I done{SAUT}something to offend you?[FFFD][5BFF][F500]  You must have been sent to test me!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TENSI.BIN:text:0106",
+    "en": "This must be an ordeal as well! Hurl as{SAUT}much abuse as you see fit![FFFD][5CFF][F500]   The Lord may have some hidden reason{SAUT}for your actions...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  }
+]

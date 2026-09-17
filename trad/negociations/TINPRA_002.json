@@ -1,0 +1,505 @@
+[
+  {
+    "id": "TINPRA.BIN:text:0104",
+    "en": "  Whaddaya talkin' about!? It's pissin' me{SAUT}off, so you better shut the hell up!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0105",
+    "en": "  Guess I went soft, if even the humans{SAUT}are underestimatin' me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0106",
+    "en": "Look, I don't mind if ya yell, but do{SAUT}it where there ain't no one around,{SAUT}or else ya might get arrested someday.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0107",
+    "en": "   Man, that's rich! Wanna be partners?{SAUT}We'll hit it big in showbiz!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0108",
+    "en": "  Magic tricks, of all things? Ain't ya{SAUT}a little old for that...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0109",
+    "en": "Man, it's a real waste usin' your brain{SAUT}on that crap! You gotta take better care{SAUT}of your noggin than that.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0110",
+    "en": " You're pretty damn smart. I bet you know{SAUT}just what to say to hoods like me.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0111",
+    "en": "   Ya tryin' to negotiate with me? Let me{SAUT}show ya how it's done. First, hand over{SAUT}your valuables.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0112",
+    "en": "Ya know what a guy like me loves most?{SAUT}Silence. Think about it, willya?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0113",
+    "en": "Man, we can't talk without no{SAUT}preconditions, man! Ya gotta hand{SAUT}somethin' over first.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0114",
+    "en": " What's an honest guy want with me?{SAUT}I got a meeting I gotta get to...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0115",
+    "en": "   If you're talkin' to me, I know you{SAUT}ain't THAT honest. So let's see what{SAUT}ya got for me.[FFF1](*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TINPRA.BIN:text:0116",
+    "en": "   That jaw of yours never stops flappin',{SAUT}does it? Think of me when ya finish{SAUT}law school.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TINPRA.BIN:text:0117",
+    "en": "You're pretty calm. As a li'l token of{SAUT}my goodwill, I ain't gonna ask too much{SAUT}from ya.[FFF1](*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TINPRA.BIN:text:0118",
+    "en": "   Ya got some real guts there. Ain't too{SAUT}many people who could pull off a{SAUT}negotiation like that.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0119",
+    "en": " I think I got a good idea of what you're{SAUT}thinkin'. I'll let you give me somethin'.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0120",
+    "en": "Ya don't think too much, do ya? Ya gotta{SAUT}use your brain when ya negotiate.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0121",
+    "en": " Geez Louise, ya never shut up. Noise{SAUT}pollution's a crime, ya know. Now c'mon,{SAUT}let's get real here![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0122",
+    "en": "What's an honest guy want with me?{SAUT}I got a meeting I gotta get to...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0126",
+    "en": "   Ya got a hell of a strong will not to{SAUT}get pissed or scared around me.{SAUT}I like it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0127",
+    "en": "   You're pretty bold if you ain't scared{SAUT}or mad at me. Let's see how bold ya can{SAUT}be, hmmm?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0128",
+    "en": "  Ya makin' fun o' me? Humans die real{SAUT}easy, ya know!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0129",
+    "en": "Ya wanna see Hell? Then before I send{SAUT}ya off, ya better take everything ya{SAUT}got with ya.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0130",
+    "en": "   What's an honest guy want with me?{SAUT}I got a meeting I gotta get to...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0131",
+    "en": "   Ain't ya scared that I'm mad at ya?{SAUT}Kids these days...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0132",
+    "en": " A man's gotta rein his anger in. That{SAUT}blusterin' crap don't work on me.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0133",
+    "en": "I bet you're tryin' to piss me off, but{SAUT}it ain't gonna work. You're gonna have{SAUT}to cough up, okay?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0134",
+    "en": " Man, you go all out. Keep it up!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0135",
+    "en": "   You're a hell of a clown, pullin' that{SAUT}stuff while you're talkin' to me.{SAUT}Let's see what else ya got.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0136",
+    "en": "  Cut the bullshit! Us hoods ain't so laid-{SAUT}back that we'll just watch that crap{SAUT}without a word!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0137",
+    "en": " Man, don't even try. You're just wastin'{SAUT}your time. Hand over your stuff and let's{SAUT}get this over with.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0138",
+    "en": "You're all screwed up. I don't even know{SAUT}where to start...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0139",
+    "en": " ...I don't get how normal people think{SAUT}nowadays. Explain it to me usin' real{SAUT}simple words.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0140",
+    "en": "C'mon, don't make me laugh. I never knew{SAUT}it'd be this tough to hold back a smile!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0141",
+    "en": "  You're pretty talented, and I like your{SAUT}style. I'm lookin' forward to seein'{SAUT}what you do next.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0142",
+    "en": " Anyone who wants me on their team is{SAUT}great in some way. You're gonna make{SAUT}it big someday, kid, I can tell.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0143",
+    "en": " You invitin' me in? Then you gotta pay up.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0144",
+    "en": "You underestimatin' me? I ain't sure I{SAUT}like folks like you takin' me lightly.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0145",
+    "en": "  You callin' me greedy!? Talk about bein'{SAUT}underappreciated!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0146",
+    "en": " ...I ain't interested in no regular folks.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0147",
+    "en": " ...I ain't interested in no regular folks.{SAUT}But you gimme somethin' and I might just{SAUT}change my tune.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0148",
+    "en": "   Alright, first off, a man can't be greedy{SAUT}in this world. It keeps ya from bein'{SAUT}swayed by that kinda deal.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0149",
+    "en": " Don't go doin' stuff that pisses me off.{SAUT}Like bribin' me... I hate that.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0150",
+    "en": "  What're you all scared for? We wouldn't{SAUT}do nothin' to a regular gal like you.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0151",
+    "en": "  Don't worry about nothin'. I'm a nice{SAUT}guy, long as I get what I want.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0152",
+    "en": " Women who don't try to do nothin' but{SAUT}please their man are so narrow minded!{SAUT}They ain't worth trustin'!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0153",
+    "en": "If ya really wanna make me happy,{SAUT}ya know what to do.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0154",
+    "en": " I bet ya got somethin' up your sleeve...{SAUT}Ya can't trust \"honest\" folks after all.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0155",
+    "en": "  Judgin' from experience, I'd say your{SAUT}attitude's pretty fishy...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0156",
+    "en": "   No need to worry. It's a big world,{SAUT}but there ain't too many good-ass guys{SAUT}like me who're nice to women.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0157",
+    "en": "   Guys like me that lived their whole life{SAUT}underground understand. Don't worry.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0158",
+    "en": "  Alright, so you got my card. Now hurry{SAUT}up and make me into one hell of a kickass{SAUT}Persona!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0159",
+    "en": "  Here, ya can have this.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0160",
+    "en": "A hood is a hood... If ya ain't from{SAUT}the underground, ya won't understand...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0161",
+    "en": "   Ya ain't like me, are ya?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0162",
+    "en": "  It's too bad, but... ya ain't got enough{SAUT}experience. I'm gonna keep my card{SAUT}for now.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0163",
+    "en": "   Here, ya can have this. Use it when{SAUT}you're trainin'.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0164",
+    "en": "   See ya 'round.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0165",
+    "en": " Ya don't need any o' that false modesty{SAUT}around me.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0166",
+    "en": " Willya hurry and decide!? Are we done{SAUT}here or not!?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0167",
+    "en": "This card proves we're pals! Make sure{SAUT}you make one hell of a kickass Persona{SAUT}outta me!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0168",
+    "en": "Here, take this... Arguin' over nothin'{SAUT}ain't gonna do either of us any good.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0169",
+    "en": "  A normal guy like you should stay home{SAUT}and play games. I'm gonna get goin'.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0170",
+    "en": "A normal guy like you should stay home{SAUT}and play games. Here, take this and buy{SAUT}yourself a new one.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0171",
+    "en": " I'm gonna take this knife and--What the!?{SAUT}The blade's chipped... Aw, hell, that was{SAUT}my favorite knife!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0172",
+    "en": " I got nothin' to lose! Take my spell-card{SAUT}and get outta here!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0173",
+    "en": "  ...I ain't like ya. Guys like me, we{SAUT}don't know no other way but to live{SAUT}underground...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0174",
+    "en": "{PAGE}So yeah, it's true that sometimes I{SAUT}wished I could've gone straight...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0175",
+    "en": "I'll leave that dream I gave up with you.{SAUT}Here's my spell card... Good luck with it.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0176",
+    "en": "   I ain't got nothin' to gain from arguin'{SAUT}with folks like you...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0177",
+    "en": "It was fate, us meetin' like this. Here,{SAUT}this is for you... Who knows? Maybe next{SAUT}time, we'll be enemies...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0178",
+    "en": "It's true, our place was raided not too{SAUT}long ago. The boss is in bad shape, too...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0179",
+    "en": " Let's be adults here. I don't think{SAUT}you'll be disappointed if you get to{SAUT}have my spell card...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0180",
+    "en": " What's a regular human doin' out on a{SAUT}moonless night? Better answer quick.[FFFD]É[F500]   Man, talk about carelessness... Ya better{SAUT}watch yourself on moonless nights. Got my{SAUT}warnin' fee?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0181",
+    "en": "  What're ya hangin' around me for!?{SAUT}I'll crush you kids like bugs![FFFD]α[F500]What, you ain't even gonna say hi?{SAUT}Rude guys like you gotta pay for havin'{SAUT}no manners![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0182",
+    "en": "Whaddaya want...? Kids should stay home{SAUT}and sleep...[FFFD][02FF][F500] What ARE you...? Eh, I'll let you give{SAUT}me somethin' if ya hurry on home.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0183",
+    "en": "  Hey, take a look at that! Ain't every{SAUT}day you get to see a beautiful full{SAUT}moon like that.[FFFD][03FF][F500]Willya take a look at that? That's one{SAUT}hell of a moon! Why don't ya gimme{SAUT}somethin' to remember it by?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0184",
+    "en": "[FFED]Ya got guts, answerin' my call when{SAUT}you're nothin' special. but ya can go to{SAUT}hell if you're gonna act all arrogant![FFFD][04FF][F500] [FFEE]Hey, you're in my way. Better pay the{SAUT}trespassing fee![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0185",
+    "en": "   [FFEE]What's a regular joe doin' out on a{SAUT}moonless night? Gimme a straight answer.[FFFD][05FF][F500][FFEC]If you're interested in the yakuza,{SAUT}I'm sure ya know already... Ya gotta{SAUT}pay up.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0186",
+    "en": " [FFEB]I'm a hoodlum, ya know. But it ain't bad{SAUT}to talk to honest folks once in a while.[FFFD][06FF][F500]   [FFEE]Man, ya look like you're rollin' in dough!{SAUT}C'mon, share the wealth a little.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0187",
+    "en": " [FFEC]Ya ain't scared of me? If ya don't{SAUT}shape up, someday ya'll get stabbed in{SAUT}the back...[FFFD][07FF][F500]   [FFED]Hey, you're supposed to greet your{SAUT}superiors first. Let's see a little{SAUT}show of faith, huh?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0188",
+    "en": "   [FFED]...What's a regular guy like you doin'{SAUT}answerin' my call!? You wanna walk on{SAUT}the wild side a little?[FFFD][08FF][F500][FFEB]You? You came when I called? That's a{SAUT}laugh. I'll let ya go this time...{SAUT}long as you pay the fee.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0189",
+    "en": "[FFEB]Dude, I been lookin' all over for ya!{SAUT}I'll be countin' on you to take care{SAUT}of the Tendou family for us.[FFFD][09FF][F500] [FFEC]Ya got a lotta nerve, talkin' to a{SAUT}junior yakuza type like me that way.{SAUT}Gimme whatever ya got.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0190",
+    "en": "   I like the hell outta you! Y'know what,{SAUT}I'm gonna make ya one of the family.{SAUT}Tell me what you want, and it's yours.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0191",
+    "en": "You underestimatin' me!? I ain't gonna{SAUT}calm down again till I see some blood{SAUT}on the ground!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0192",
+    "en": "What's with you? Ain't you scared of{SAUT}hoodlums...? If you met my boss...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0193",
+    "en": "Hahahaha! This's the greatest!{SAUT}Hahahahahaha!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0194",
+    "en": "   I don't quite feel like you're takin' me{SAUT}seriously here, but I'll let it slide.{SAUT}So tell me what ya want.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0195",
+    "en": "   It's a huge relief knowin' I ain't gonna{SAUT}have to fight ya. Anyways, tell me what{SAUT}it is ya want.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0196",
+    "en": "You're like a role model for hoods!{SAUT}I'll design your tattoo myself! So come{SAUT}on, tell me what ya want.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0197",
+    "en": "  If that's true... man, your tricks{SAUT}are just like the ones us pros use!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0198",
+    "en": " You ain't quite got what it takes to{SAUT}hold up your end of a conversation.{SAUT}Don't underestimate me, kid.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0199",
+    "en": "  ...Ya got guts. I ain't never heard any{SAUT}regular joe talk about that stuff...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0200",
+    "en": "   Maybe ya could gimme a little loan.{SAUT}(*VALUE*) yen oughtta do it.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0201",
+    "en": "   Kids seem pretty well-off nowadays!{SAUT}Thanks, I appreciate it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0202",
+    "en": "   Ya think I ain't serious!? It's just{SAUT}common sense to flash a little cash{SAUT}durin' a negotiation!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0203",
+    "en": " The hell'd ya spend all your money on?{SAUT}If you're not smart with your dough when{SAUT}you're young, ya'll regret it later.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0204",
+    "en": "   Ya think I ain't serious!? If ya don't{SAUT}hand it over like a good kid, ya'll{SAUT}regret it later for sure.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0205",
+    "en": "   Ya don't know much about hoods, do ya?{SAUT}Well, this oughtta teach ya whether ya{SAUT}like 'em or not.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0206",
+    "en": " Gimme a life stone. One'll do.(*OPTION*)",
+    "fr": ""
+  }
+]

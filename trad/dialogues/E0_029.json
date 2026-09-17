@@ -18,7 +18,7 @@
     "locuteur": "Mark",
     "en": "Chisato!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Chisato!{ATTENTE}"
   },
   {
     "id": "E0.BIN:100:0003",
@@ -178,8 +178,8 @@
     "id": "E0.BIN:100:0026",
     "locuteur": "Harem Queen",
     "en": "I'll give you, and only you, one last{SAUT}chance, (*APELLIDO_HEROE*)...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Reine{PAGE}Harem",
+    "fr": "Je te donne, à toi seul, une dernière{SAUT}chance, (*APELLIDO_HEROE*)...{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -187,7 +187,7 @@
     "locuteur": "Harem Queen",
     "en": "Which is better? My breathtaking{SAUT}painting, or Maki's piece?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "",
+    "fr": "Lequel est mieux? Mon superbe{SAUT}tableau, ou celui de Maki?{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -195,7 +195,7 @@
     "locuteur": "Harem Queen",
     "en": "And I want an honest answer!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "",
+    "fr": "Et je veux la vérité!{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -287,7 +287,7 @@
     "locuteur": "Harem Queen",
     "en": "Erusaer Tsymmom!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Namam ed rosert!{ATTENTE}"
   },
   {
     "id": "E0.BIN:100:0042",

@@ -1,0 +1,105 @@
+[
+  {
+    "id": "TOILET.BIN:text:0563",
+    "en": " Huh... I envy your self-confidence...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0564",
+    "en": "  Hey! You're forgetting to add \"totally\"!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0565",
+    "en": "   Hee hee! If you get angry, your blood{SAUT}pressure's gonna rise!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0566",
+    "en": "   Hee hee! It's 'cause it's just how you{SAUT}wanted it, mister!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0567",
+    "en": "  ...Things aren't getting any livelier...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:text:0568",
+    "en": "   I don't really get it... but I'm scared!{SAUT}W-Waaaaaah!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TOILET.BIN:resp:0018",
+    "en": "I just decided to.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:resp:0039",
+    "en": "Aren't you a toilet?(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "TOILET.BIN:resp:0056",
+    "en": "I'll be a toilet too!(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:resp:0078",
+    "en": "It's nothin'.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TOILET.BIN:resp:0081",
+    "en": "Yep, I'm dumb!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TOILET.BIN:resp:0090",
+    "en": "Quiet or I'll do it!(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:resp:0091",
+    "en": "Here, some deodorant.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:resp:0120",
+    "en": "I'll relieve myself!(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:resp:0235",
+    "en": "I don't need a toilet.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "TOILET.BIN:resp:0239",
+    "en": "Then let's talk.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TOILET.BIN:resp:0243",
+    "en": "Wanna talk, then?(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "TOILET.BIN:resp:0257",
+    "en": "Keep threatening(*RESPONSE*)[0A89]  ",
+    "fr": ""
+  },
+  {
+    "id": "TOILET.BIN:resp:0267",
+    "en": "Were you surprised?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  }
+]

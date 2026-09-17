@@ -3,8 +3,8 @@
     "id": "E1.BIN:192:0000",
     "locuteur": "Masked girl",
     "en": "I'm painting over your future with{SAUT}blackness.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Masquée",
+    "fr": "Je recouvre ton avenir de{SAUT}noirceur.{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0001",
@@ -17,36 +17,36 @@
     "id": "E1.BIN:192:0002",
     "locuteur": "Masked girl",
     "en": "How can you withstand the pain?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Masquée",
+    "fr": "Comment supportes-tu la douleur?{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0003",
     "locuteur": "Masked girl",
     "en": "You have each other... Ms. Saeko... your{SAUT}family... {PAUSE}[1E00]People you can rely on.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Masquee",
+    "fr": "Vous êtes ensemble... Mme Saeko... votre{SAUT}famille... {PAUSE}[1E00]Des gens sur qui compter.{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0004",
     "locuteur": "Masked girl",
     "en": "But I'm always alone. I can only watch{SAUT}the happiness of others.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Masquée",
+    "fr": "Mais je suis toujours seule. Je{SAUT}ne vois que le bonheur des autres.{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0005",
     "locuteur": "Yukino",
     "en": "Wait a sec, are you...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Attends, tu es...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0006",
     "locuteur": "Masked girl",
     "en": "You can never understand how I feel!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Masquée",
+    "fr": "Tu ne comprends pas ce que je ressens!{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0007",
@@ -59,107 +59,107 @@
     "id": "E1.BIN:192:0008",
     "locuteur": "Yukino",
     "en": "Maki, wait!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Stop, Maki!{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0011",
     "locuteur": "Yukino",
     "en": "Maki...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Maki...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0012",
     "locuteur": "Yukino",
     "en": "Maki...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Maki...{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0013",
     "locuteur": "Yukino",
     "en": "The paint hasn't dried.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "La peinture est humide.{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0014",
     "locuteur": "Ayase",
     "en": "Check out that painting... It's all{SAUT}black. Freaky...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Ayase",
+    "fr": "Regarde ce tableau... Tout en{SAUT}noir. Flippant...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:192:0016",
     "locuteur": "Nanjo",
     "en": "Is this an illusion?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Est-ce une illusion?{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0017",
     "locuteur": "Nanjo",
     "en": "It can't be... Maki was outside the{SAUT}school grounds.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Impossible... Maki était hors de{SAUT}l'enceinte.{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0018",
     "locuteur": "Nanjo",
     "en": "Was someone just here?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Quelqu'un était là?{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0019",
     "locuteur": "Brown",
     "en": "Hey, isn't that Maki?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Hé, c'est Maki?{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0020",
     "locuteur": "Brown",
     "en": "Wow, Maki has some weird fashion sense.{SAUT}You see that mask of hers?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Ouah, Maki a un style vraiment étrange.{SAUT}T'as vu son masque?{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0021",
     "locuteur": "Brown",
     "en": "Don't any of you understand art?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Aucun de vous ne comprend l'art?{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0022",
     "locuteur": "Brown",
     "en": "Her style, her presentation...{SAUT}Simply amazing.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Son style, sa mise en scène...{SAUT}Tout simplement fascinant.{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0023",
     "locuteur": "Elly",
     "en": "Be careful! This could be one of the{SAUT}Queen's traps.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Attention! Un piège de la{SAUT}Reine, peut-être.{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0024",
     "locuteur": "Elly",
     "en": "But Maki can't possibly be here.{SAUT}A demon, perhaps...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Mais Maki ne peut pas être ici.{SAUT}Un démon, peut-être...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0025",
     "locuteur": "Elly",
     "en": "Someone who wasn't frozen must have{SAUT}been here fairly recently.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Quelqu'un de non gèle est venu ici{SAUT}il y a peu, forcément.{ATTENTE}"
   },
   {
     "id": "E1.BIN:193:0000",
@@ -288,7 +288,7 @@
     "locuteur": "Ayase",
     "en": "H-Hey!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "H-Hey!{ATTENTE}"
   },
   {
     "id": "E1.BIN:193:0018",
@@ -316,7 +316,7 @@
     "locuteur": "Mai",
     "en": "Thanks!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Merci!{ATTENTE}"
   },
   {
     "id": "E1.BIN:193:0022",

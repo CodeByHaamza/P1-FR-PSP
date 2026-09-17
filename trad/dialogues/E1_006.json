@@ -167,15 +167,15 @@
     "id": "E1.BIN:033:0000",
     "locuteur": "Yukino",
     "en": "What the... Who's that on the floor?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "C'est quoi... Qui est par terre?{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0001",
     "locuteur": "Yukino",
     "en": "Tadashi and Tamaki!? And Nurse Natsumi!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Tadashi et Tamaki!? Et inf. Natsumi!{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0002",
@@ -188,43 +188,43 @@
     "id": "E1.BIN:033:0003",
     "locuteur": "Nanjo",
     "en": "It took some time, but regular students{SAUT}are being claimed as victims...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Avec le temps, de simples élèves{SAUT}deviennent des victimes...{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0004",
     "locuteur": "Nanjo",
     "en": "I pity them, but there isn't time to{SAUT}waste. We could be next.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Dommage, mais pas de temps{SAUT}à perdre. On est les prochains.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0005",
     "locuteur": "Brown",
     "en": "Tadashi... Tamaki... Nurse Natsumi...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Tadashi... Tamaki... Inf. Natsumi...{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0006",
     "locuteur": "Brown",
     "en": "How could this happen...!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Comment est-ce arrive...!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0007",
     "locuteur": "Brown",
     "en": "Damn that Snow Queen!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Rah reine des neiges!{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0008",
     "locuteur": "Brown",
     "en": "I'll avenge their deaths if it's the{SAUT}last thing I do!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Je vengerai leur mort, dut-ce être{SAUT}mon ultime acte!{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0009",
@@ -244,64 +244,64 @@
     "id": "E1.BIN:033:0011",
     "locuteur": "Yukino",
     "en": "Wait... they're all just sleeping!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Attends... ils dorment juste!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0012",
     "locuteur": "Yukino",
     "en": "Tch... well, that was a lot of panic{SAUT}over nothing.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Tss... tout ce stress{SAUT}pour rien, alors.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0013",
     "locuteur": "Nanjo",
     "en": "Hold it, Yukino.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Attends, Yukino.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0014",
     "locuteur": "Nanjo",
     "en": "Even if they are only sleeping, it's odd{SAUT}they should be here and not at school.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Même s'ils dorment, c'est étrange{SAUT}qu'ils soient ici et pas à l'école.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0015",
     "locuteur": "Nanjo",
     "en": "It could be a trap of the Snow Queen's.{SAUT}I advise keeping your guard up.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Ce pourrait être un piège de la Reine{SAUT}des Neiges. Restez sur vos gardes.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0016",
     "locuteur": "Elly",
     "en": "Hypnos Tower...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Tour Hypnos...{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0017",
     "locuteur": "Elly",
     "en": "Hypnos is the god of sleep...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Hypnos, dieu du sommeil...!{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0018",
     "locuteur": "Elly",
     "en": "Careful, everyone!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Prudence, tous!{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0019",
     "locuteur": "Elly",
     "en": "These three may have been forced into{SAUT}sleep by the Snow Queen!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Ces trois ont pu être endormis{SAUT}par la reine des neiges!{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0020",
@@ -314,15 +314,15 @@
     "id": "E1.BIN:033:0021",
     "locuteur": "Ayase",
     "en": "Look at those faces, though... they seem{SAUT}so happy!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Regarde leurs visages... ils ont{SAUT}l'air si heureux!{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0022",
     "locuteur": "Ayase",
     "en": "I dunno if the Snow Queen really has{SAUT}anything to do with this.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Sais pas si la reine des neiges y est{SAUT}pour quelque chose.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0023",
@@ -335,43 +335,43 @@
     "id": "E1.BIN:033:0024",
     "locuteur": "Ayase",
     "en": "Ugh... like, what's she dreaming about?{SAUT}It makes me wanna pinch her nose.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Beurk... elle rêve de quoi, là?{SAUT}Ça me donne envie de lui pincer le nez.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0025",
     "locuteur": "Yukino",
     "en": "Even if they are just sleeping, we can't{SAUT}leave them here surrounded by monsters.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Même s'ils dorment, on peut pas les{SAUT}laisser ici, cernes par les monstres.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0026",
     "locuteur": "Yukino",
     "en": "Let's wake them up before we move on.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Réveillons-les avant de continuer.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0027",
     "locuteur": "Yukino",
     "en": "I dunno what to say about Nurse Natsumi.{SAUT}She might as well still be sleeping.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Je sais pas quoi dire sur Mlle Natsumi.{SAUT}Autant la laisser dormir.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0028",
     "locuteur": "Ayase",
     "en": "Y'know what?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Tu sais?{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0029",
     "locuteur": "Ayase",
     "en": "Tadashi acts up a lot, but he's not that{SAUT}bad-looking when he's asleep.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Tadashi est pénible, mais il est{SAUT}pas mal du tout quand il dort.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0030",
@@ -384,15 +384,15 @@
     "id": "E1.BIN:033:0031",
     "locuteur": "Nanjo",
     "en": "If they're not in mortal peril, it should{SAUT}be fine to leave them. We don't have time.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "S'ils ne risquent pas la mort, on peut{SAUT}les laisser. Le temps pressé.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0032",
     "locuteur": "Nanjo",
     "en": "Time is money, as they say. Let's proceed.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Le temps, c'est de l'argent. Avançons.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0033",
@@ -405,29 +405,29 @@
     "id": "E1.BIN:033:0034",
     "locuteur": "Nanjo",
     "en": "Ugh... I have to make a conscious effort{SAUT}to avoid falling asleep.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Pff... Je dois lutter sciemment{SAUT}pour ne pas m'endormir.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0035",
     "locuteur": "Nanjo",
     "en": "I'd like it if we could spend as little{SAUT}time here as possible.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "J'aimerais qu'on reste ici{SAUT}le moins longtemps possible.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0036",
     "locuteur": "Brown",
     "en": "What, so they're just sleeping? I got{SAUT}all anxious over nothing...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Quoi, ils dorment, c'est tout?{SAUT}Je me suis inquiété pour rien...{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0037",
     "locuteur": "Brown",
     "en": "Then again, I suspected from the start{SAUT}that was what was happening. Really.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Cela dit, je m'en doutais depuis le{SAUT}début, en fait. Vraiment.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0038",
@@ -447,36 +447,36 @@
     "id": "E1.BIN:033:0040",
     "locuteur": "Brown",
     "en": "I was subconsciously coming up with{SAUT}a plan!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Je faisais un plan{SAUT}sans m'en rendre compte!{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0041",
     "locuteur": "Elly",
     "en": "If Hypnos is, in fact, tied to their{SAUT}strange slumber...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Si Hypnos est bien lie à leur{SAUT}étrange sommeil...{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0042",
     "locuteur": "Elly",
     "en": "I doubt they'll wake up no matter how{SAUT}long we wait here.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Ils ne s'éveilleront pas quoi{SAUT}qu'on attende.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0043",
     "locuteur": "Elly",
     "en": "Have a firm grip on yourself and don't{SAUT}fall asleep.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Restez maîtres de vous et{SAUT}ne vous endormez pas.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0044",
     "locuteur": "Elly",
     "en": "That's the key to conquering{SAUT}Hypnos Tower.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "C'est la clé pour vaincre{SAUT}la Tour Hypnos.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0045",
@@ -511,7 +511,7 @@
     "locuteur": "Nurse Natsumi",
     "en": "I have low blood pressure... Just let{SAUT}me sleep a little more...!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "J'ai une tension basse... Laissez-moi{SAUT}dormir encore un peu...!{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0050",

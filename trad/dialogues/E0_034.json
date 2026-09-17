@@ -480,8 +480,8 @@
     "id": "E0.BIN:134:0031",
     "locuteur": "Maki",
     "en": "Wait!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Maki",
+    "fr": "Stop!{ATTENTE}",
     "_occurrences": 2
   },
   {

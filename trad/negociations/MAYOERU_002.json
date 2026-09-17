@@ -1,0 +1,502 @@
+[
+  {
+    "id": "MAYOERU.BIN:text:0101",
+    "en": "Augh... Wh-Where is this...? So many{SAUT}cold bodies of flesh...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0102",
+    "en": "   Man of flesh... That body looks{SAUT}energetic. [FFF3] wants it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0103",
+    "en": " Uuuurhh!{SAUT}[FFF3] won't be scared!{SAUT}Not until [FFF3] finds body of flesh!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0104",
+    "en": "   Augh... [FFF3] is just lost...{SAUT}Why get in the way...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0105",
+    "en": "   Uuuurhh! Quiet, man of flesh! Curses{SAUT}upon you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0106",
+    "en": " Augh... Man of flesh has gone insane...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0107",
+    "en": "Is that greeting of those with flesh?{SAUT}Weird... Not the same as remembered...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0108",
+    "en": "   So cold here... Nothing amusing...{SAUT}Envious of man of flesh...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0109",
+    "en": "  Augh... S-So cold... P-Painful...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0110",
+    "en": "  So mysterious... Heart feels warm...{SAUT}This is... fun.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0111",
+    "en": "   Would be able to talk more with mouth{SAUT}of flesh... Want... mouth...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0112",
+    "en": " Point understood...{SAUT}But [FFF3] is cold.{SAUT}Give something warm.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0113",
+    "en": "   Uuuurhh! No need for body of flesh to{SAUT}be involved with [FFF3]!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0114",
+    "en": "  Uuurh! Not interested in that story.{SAUT}Interested in warm! Give warmth![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0115",
+    "en": " Augh... Scary... Where is home of{SAUT}[FFF3]...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0116",
+    "en": "Aughhh... It has nothing to do with{SAUT}[FFF3]...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0117",
+    "en": "   [FFF3] is glad to have {SAUT}spoken with those of flesh.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0118",
+    "en": " Uiii! Words of flesh-havers are useful!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0119",
+    "en": "Might be good... But there is long{SAUT}road ahead.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0120",
+    "en": " If lend help to those of flesh, perhaps{SAUT}home will be found...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0121",
+    "en": "  Uuuurhh! Those of flesh should not get{SAUT}involved with [FFF3]!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0122",
+    "en": "[FFF3] does not want to help!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0123",
+    "en": "   Will [FFF3] be able to help{SAUT}those of flesh...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0124",
+    "en": "  Augh... [FFF3] is just lost...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0125",
+    "en": "  Flesh-havers want [FFF0] help!?{SAUT}So glad, so warm...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0126",
+    "en": " [FFF3] will prove useful!{SAUT}Truthfully!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0127",
+    "en": "   Those of flesh dare anger [FFF3]?{SAUT}Man of flesh is bizarre...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0128",
+    "en": "Those of flesh... [FFF3]{SAUT}will accept something to show how much{SAUT}fleshlings like [FFF3].[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0129",
+    "en": " Uuuurhhh!{SAUT}Taunting [FFF3]!?{SAUT}Never forgive!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0130",
+    "en": "  Uuurrhh! [FFF3] is angry!{SAUT}Time frame to beg for life shrinking.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0131",
+    "en": "Augh... Fleshlings seem strong...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0132",
+    "en": "  Augh... Was teased...{SAUT}[FFF3] is just lost...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0133",
+    "en": "[FFF3] wants to be in good{SAUT}mood always... Will not get angry.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0134",
+    "en": "   [FFF3] is not of living flesh.{SAUT}This is why emotional expressions by{SAUT}those of flesh are fun.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0135",
+    "en": " Man of flesh, improve feats more.{SAUT}[FFF3] will look forward.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0136",
+    "en": " Feats of flesh-havers are intriguing.{SAUT}[FFF3] cannot perform feats...{SAUT}Will take something instead.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0137",
+    "en": "  Uuuuurh! So what?{SAUT}Was boring and unpleasant!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0138",
+    "en": "   Do those of flesh want to see the{SAUT}anger of [FFF3]!?{SAUT}Now, make up for leading astray![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0139",
+    "en": "   Augh... Cold for some reason...{SAUT}The flesh-havers' lives are cold...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0140",
+    "en": "S-So cold... Not warm being with those{SAUT}of flesh... Should go home...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0141",
+    "en": "   Those of flesh bring delight!{SAUT}[FFF3] should find place for{SAUT}self too!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0142",
+    "en": "Good going! Do more! [FFF3]{SAUT}will watch.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0143",
+    "en": " [FFF3] is interested in those{SAUT}of flesh... Might be good to accept{SAUT}invitation.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0144",
+    "en": "   Will spend time with those of flesh,{SAUT}but [FFF3] has request too.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0145",
+    "en": "   Uuuurh! [FFF3] is [FFF0].{SAUT}Incomptabible with flesh-havers!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0146",
+    "en": "   [FFF3] is looking for place{SAUT}to belong! Have no time to give to those{SAUT}of flesh! Buy own time![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0147",
+    "en": "   Augh... Those of flesh are sly...{SAUT}This may be a trap...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0148",
+    "en": "Augh... Cannot understand actions of{SAUT}those of flesh... Urgh... Painful.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0149",
+    "en": "Uiiii!{SAUT}Need [FFF3]'s help!?{SAUT}So happy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0150",
+    "en": "   [FFF3] loves seduction.{SAUT}Those of flesh, let us seduce together!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0151",
+    "en": " [FFF3] won't prey on the weak.{SAUT}Those of flesh, be relieved.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0152",
+    "en": " Those of flesh say good things.{SAUT}[FFF3] likes you.{SAUT}Will accept something.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0153",
+    "en": "   Uuuuurh!{SAUT}[FFF3] won't allow lies!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0154",
+    "en": "   Doubtful if really means that! Those{SAUT}of flesh take blame for having no{SAUT}guarantee![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0155",
+    "en": " Augh... [FFF3] is a good{SAUT}[FFF0]... Am being teased?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0156",
+    "en": "  Augh... Actions of the flesh-havers{SAUT}always have a catch...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0157",
+    "en": " [FFF3] is good!{SAUT}Those of flesh know well!{SAUT}Say more!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0158",
+    "en": " Even [FFF3] is embarrassed{SAUT}to be praised so much... But still{SAUT}happy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0159",
+    "en": "Those of flesh carry spell card of{SAUT}[FFF3]... Take care of it.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0160",
+    "en": "   Will give this.{SAUT}Take good care of it.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0161",
+    "en": "  ...[FFF3] will wander once{SAUT}again...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0162",
+    "en": " [FFF3] has different affinity,{SAUT}so no.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0163",
+    "en": "   [FFF3] is interested in those{SAUT}of flesh, but doesn't like weak ones.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0164",
+    "en": " Will give this to commemorate meeting.{SAUT}Take good care of it.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0165",
+    "en": "   Well then, time to part ways...{SAUT}[FFF3] will begin another{SAUT}journey to be lost.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0166",
+    "en": "   [FFF3] likes those of flesh,{SAUT}so will give this as well.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0167",
+    "en": " [FFF3] is busy looking for{SAUT}places to be...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0168",
+    "en": "  [FFF3] has a place to call{SAUT}home again! Take good care of card...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0169",
+    "en": "Augh... Augh... Forgive with this...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0170",
+    "en": "   [FFF3] is bored!{SAUT}More fun being lost!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0171",
+    "en": "   Being lost is more exciting!{SAUT}Will give this so [FFF3] can{SAUT}leave!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0172",
+    "en": "Thinking back... Been some time since{SAUT}made this angry! Feel kind of relieved{SAUT}now...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0173",
+    "en": "Wonder why?{SAUT}Well, good.{SAUT}Will give spell card!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0174",
+    "en": "  Maybe become warm Persona if go with{SAUT}those of flesh...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0175",
+    "en": " Giving spell card... make into Persona{SAUT}that has home to return to...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0176",
+    "en": "   Augh... [FFF3] will not{SAUT}face flesh-havers in battle...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0177",
+    "en": "  Will give this to those of flesh.{SAUT}Take good care of it.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0178",
+    "en": "What can be done for those of flesh{SAUT}to let [FFF3] leave safely?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0179",
+    "en": " Will give [FFF3] 's spell card.{SAUT}No more cold things please...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0180",
+    "en": "   Augh... So envious!{SAUT}That body looks so warm...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0181",
+    "en": "{PAGE}[FFF3] wants flesh body{SAUT}suddenly!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0182",
+    "en": "   Those of flesh must have something{SAUT}warm... [FFF3] wants...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0183",
+    "en": " That body looks so warm...{SAUT}But it isn't [FFF3]'s!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0184",
+    "en": "{PAGE}[FFF3] is in bad mood now!{SAUT}Those of flesh to blame!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0185",
+    "en": "   That body looks so warm...{SAUT}But it isn't [FFF3]'s!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0186",
+    "en": "{PAGE}Uuuuuurh! Am angry now!{SAUT}Give something![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0187",
+    "en": " Augh... Something's different in the{SAUT}air... No moon...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0188",
+    "en": "{PAGE}This place doesn't feel good... Wonder{SAUT}if should wander again...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0189",
+    "en": "   [FFF3] used to be of living{SAUT}flesh too... Was very nice flesh...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0190",
+    "en": "{PAGE}Are all flesh-havers scary these days?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0191",
+    "en": " So pleasant... The world is much warmer{SAUT}with those of flesh around.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0192",
+    "en": "Uiiiiii! Was able to converse with{SAUT}those of living flesh! Feel so happy...{SAUT}Was worth getting lost.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0193",
+    "en": " No fair! Such nice bodies of flesh!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0194",
+    "en": "{PAGE}Annoyed! But... will still hear out.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0195",
+    "en": "  [FFED]No fair! Such nice bodies of flesh!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0196",
+    "en": "{PAGE}Pissed off! Give something and will{SAUT}negotiate.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0197",
+    "en": "  [FFEC]Wants to talk with those of flesh.{SAUT}That's why called for you... Don't do{SAUT}cold things though...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0198",
+    "en": "[FFEE]Those of flesh answered... Looks warm.{SAUT}But should wait and see what happens...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0199",
+    "en": "[FFEE]Those of flesh seem fun!{SAUT}[FFF3] wants to learn more!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0200",
+    "en": "   [FFEB]The warmth of flesh is enjoyable!{SAUT}[FFF3] is thankful!(*RESPONSE*)",
+    "fr": ""
+  }
+]

@@ -10,15 +10,15 @@
     "id": "E1.BIN:145:0001",
     "locuteur": "Ayase",
     "en": "N-No way...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "N-Pas vrai...{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0002",
     "locuteur": "Elly",
     "en": "What... What's going on?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Quoi... Qu'arrive-t-il?{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0003",
@@ -31,57 +31,57 @@
     "id": "E1.BIN:145:0004",
     "locuteur": "Ayase",
     "en": "That can't be right!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "C'est impossible!{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0005",
     "locuteur": "Ayase",
     "en": "We all tried so hard to gather the{SAUT}Mirror Shards...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "On a tant lutte pour réunir les{SAUT}Eclats du miroir...{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0006",
     "locuteur": "Ayase",
     "en": "C-C'mon, let's try holding it up again!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "C-Allez, brandissons-le encore!{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0007",
     "locuteur": "Yukino",
     "en": "This can't be happening... T-Try again!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Ça ne peut pas arriver... T-Encore!{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0008",
     "locuteur": "Snow Queen's voice",
     "en": "Ahaha... There's no use in thrusting that{SAUT}gap-riddled mirror at me.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Ahaha... Inutile de brandir contre moi{SAUT}ce miroir crible de brèches.{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0009",
     "locuteur": "Snow Queen's voice",
     "en": "You've lost.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Vous avez perdu.{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0010",
     "locuteur": "Nanjo",
     "en": "What!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Quoi!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0011",
     "locuteur": "Brown",
     "en": "Dammit!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Brown",
+    "fr": "Zut!{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -89,63 +89,63 @@
     "locuteur": "Snow Queen",
     "en": "Ahahahah... You did well in gathering the{SAUT}shards, but not well enough, it seems.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Ahahahah... Vous avez bien réuni les{SAUT}éclats, mais pas assez, on dirait.{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0013",
     "locuteur": "Snow Queen",
     "en": "Now, come!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Venez!{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0014",
     "locuteur": "Snow Queen",
     "en": "Join your Saeko in tasting the eternal{SAUT}despair of pitch-black night!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Rejoignez votre Saeko et sombrez{SAUT}dans la nuit de désespoir noire!{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0015",
     "locuteur": "Snow Queen",
     "en": "Guh... aaah...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Gah, aaah...{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0016",
     "locuteur": "Yukino",
     "en": "Is it working!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Ça marche!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0017",
     "locuteur": "Snow Queen",
     "en": "Gyaaaaaaaah! My face... it's buuurniiiing!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Gyaaaaaaaah! Mon visage... il bruuule!{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0018",
     "locuteur": "Burned student",
     "en": "Hoooow daaaare youuuuu...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève brûlée",
+    "fr": "Cooomment osez-voouuus...{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0019",
     "locuteur": "Burned student",
     "en": "Whyyyy... Whyyy dooooes everyyyyone{SAUT}taaaake... Saekoooo's siiiiide...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève brûlée",
+    "fr": "Pourquoiii... Pourquoi tooous{SAUT}preeennent... Le parti de Saekooo...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0020",
     "locuteur": "Ayase",
     "en": "Eeeeeeeeek!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Iiiiiiiiik!{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0021",
@@ -158,29 +158,29 @@
     "id": "E1.BIN:145:0022",
     "locuteur": "Elly",
     "en": "Good heavens...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Grands dieux...{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0023",
     "locuteur": "Ms. Saeko",
     "en": "You've all become so strong in such a{SAUT}short time.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme{PAGE}Saeko",
+    "fr": "Vous êtes tous devenus si forts en si{SAUT}peu de temps.{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0024",
     "locuteur": "Ms. Saeko",
     "en": "You have a look in your eye that says{SAUT}there's nothing you can't do.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Vous avez ce regard qui dit que{SAUT}rien ne vous résiste.{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0025",
     "locuteur": "Ms. Saeko",
     "en": "I have a feeling you're capable of taking{SAUT}care of the rest.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "J'ai le sentiment que vous saurez{SAUT}vous occuper du reste.{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0026",
@@ -194,14 +194,14 @@
     "locuteur": "Ms. Saeko",
     "en": "I'm counting on you...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Je compte sur vous...{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0028",
     "locuteur": "Yukino",
     "en": "The Night Queen, huh...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "La reine de la nuit...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0029",
@@ -214,15 +214,15 @@
     "id": "E1.BIN:145:0030",
     "locuteur": "Yukino",
     "en": "Maybe there's a passage or something the{SAUT}Queen used to get up top. Let's find it!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Il y a peut-être un passage que la{SAUT}Reine a pris pour monter. Trouvons-le!{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0031",
     "locuteur": "Yukino",
     "en": "Just a little more, and we've got our{SAUT}school back... Let's keep it together!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Encore un effort et nous{SAUT}reprenons notre lycée... Tenons bon!{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0032",
@@ -235,36 +235,36 @@
     "id": "E1.BIN:145:0033",
     "locuteur": "Ayase",
     "en": "Oh, yeah! Maybe that door that was frozen{SAUT}shut up to now is open!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Ah oui! La porte gelée jusqu'ici{SAUT}est peut-être ouverte!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0034",
     "locuteur": "Ayase",
     "en": "Hey, let's hurry upstairs.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Vite, montons à l'étage.{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0035",
     "locuteur": "Ayase",
     "en": "If my tummy gets cold before we beat the{SAUT}Queen, I won't be able to focus!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Si j'ai froid au ventre avant de battre{SAUT}la Reine, je perdrai mes moyens!{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0036",
     "locuteur": "Nanjo",
     "en": "It's been quite some time since Masao{SAUT}and Maki left the school.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Cela fait un moment que Masao{SAUT}et Maki ont quitté le lycée.{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0037",
     "locuteur": "Nanjo",
     "en": "I fear for those two if we don't make{SAUT}haste and put an end to this...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Je crains pour eux deux si nous{SAUT}tardons à mettre fin à tout ceci...{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0038",
@@ -277,127 +277,127 @@
     "id": "E1.BIN:145:0039",
     "locuteur": "Brown",
     "en": "You guys'll do just fine without me.{SAUT}...I'm joking!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Vous vous en sortirez très bien sans moi.{SAUT}...Je plaisante!{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0040",
     "locuteur": "Brown",
     "en": "C'mon, let's go!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Allez, on y va!{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0041",
     "locuteur": "Elly",
     "en": "In order to sever the mask's curse, we{SAUT}absolutely must defeat the Night Queen.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Pour briser la malédiction du masque,{SAUT}il faut vaincre la reine de la nuit.{ATTENTE}"
   },
   {
     "id": "E1.BIN:147:0000",
     "locuteur": "Ayase",
     "en": "We did it!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Gagne!{ATTENTE}"
   },
   {
     "id": "E1.BIN:147:0002",
     "locuteur": "Yukino",
     "en": "You okay? You must've been so cold...{SAUT}Are you hurt?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Ça va? Vous deviez avoir si froid...{SAUT}Vous êtes blessée?{ATTENTE}"
   },
   {
     "id": "E1.BIN:147:0003",
     "locuteur": "Ms. Saeko",
     "en": "I'm all right, thank you. But... where{SAUT}is Tomomi?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Je vais bien, merci. Mais... où{SAUT}est Tomomi?{ATTENTE}"
   },
   {
     "id": "E1.BIN:147:0004",
     "locuteur": "Brown",
     "en": "Tomomi? Who?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Tomomi? Qui?{ATTENTE}"
   },
   {
     "id": "E1.BIN:147:0005",
     "locuteur": "Nanjo",
     "en": "Tomomi...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Tomomi...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:147:0006",
     "locuteur": "Ms. Saeko",
     "en": "Tomomi is the spirit who was possessing{SAUT}that mask...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Tomomi est l'esprit qui possédait{SAUT}ce masque...{ATTENTE}"
   },
   {
     "id": "E1.BIN:147:0007",
     "locuteur": "Ms. Saeko",
     "en": "She's one of the students who fell under{SAUT}the Snow Queen's thrall.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "C'est une élève tombée sous{SAUT}l'emprise de la reine des neiges.{ATTENTE}"
   },
   {
     "id": "E1.BIN:147:0008",
     "locuteur": "Ms. Saeko",
     "en": "She's... also my best friend, from when{SAUT}I used to be in the drama club.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "C'est aussi ma meilleure amie, du{SAUT}temps où j'étais au club de théâtre.{ATTENTE}"
   },
   {
     "id": "E1.BIN:147:0009",
     "locuteur": "Yukino",
     "en": "Th-Then... the Snow Queen possessing{SAUT}you was your friend...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "A-Alors... la reine des neiges en vous{SAUT}était votre amie...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:147:0010",
     "locuteur": "Elly",
     "en": "So that's why the Queen seemed to be so{SAUT}familiar with you...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Voilà pourquoi la reine semblait si{SAUT}proche de vous...{ATTENTE}"
   },
   {
     "id": "E1.BIN:147:0011",
     "locuteur": "Elly",
     "en": "But whyever would your best friend{SAUT}possess you?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Mais pourquoi votre amie{SAUT}vous posséder?{ATTENTE}"
   },
   {
     "id": "E1.BIN:147:0012",
     "locuteur": "Nanjo",
     "en": "Hm. No wonder it seemed to know you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Hm. Voilà pourquoi elle vous savait.{ATTENTE}"
   },
   {
     "id": "E1.BIN:147:0013",
     "locuteur": "Nanjo",
     "en": "But why would your best friend try to{SAUT}use you as a sacrifice...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Mais pourquoi votre meilleure amie{SAUT}vous offrir en sacrifice...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:147:0014",
     "locuteur": "Ms. Saeko",
     "en": "I had no idea she thought of me{SAUT}that way...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "J'ignorais qu'elle me voyait{SAUT}ainsi...{ATTENTE}"
   },
   {
     "id": "E1.BIN:147:0015",
     "locuteur": "Ms. Saeko",
     "en": "I guess... sometimes you hurt people{SAUT}without realizing it...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Parfois... on blessé les gens{SAUT}sans s'en rendre compte...{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0000",

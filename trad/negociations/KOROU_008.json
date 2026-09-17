@@ -1,0 +1,528 @@
+[
+  {
+    "id": "KOROU.BIN:resp:0080",
+    "en": "It's not about age.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0081",
+    "en": "Really, Ms.Kawasaki?(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0083",
+    "en": "I'm not a tabloid.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0084",
+    "en": "Make it blue.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0085",
+    "en": "Make it red.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0086",
+    "en": "Make it green.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0088",
+    "en": "A salt and battery.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0089",
+    "en": "Whine and cheese.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0090",
+    "en": "'Course I do.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0092",
+    "en": "Never did.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0093",
+    "en": "It's a good bath.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0094",
+    "en": "It's good for you.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0096",
+    "en": "No need to know.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0098",
+    "en": "I'm just spiritless.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0099",
+    "en": "I'll kill you!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0101",
+    "en": "I don't need hairs.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0102",
+    "en": "I'll yank 'em out!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0104",
+    "en": "Soup, maybe?(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0105",
+    "en": "I'll cool them.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0106",
+    "en": "I'll rub them.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0107",
+    "en": "Unfortunately, no.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0108",
+    "en": "Then don't buy it.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0109",
+    "en": "If only Yamaoka...(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0110",
+    "en": "I have a kotatsu.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0111",
+    "en": "I have a cat.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0113",
+    "en": "I have dentures.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0114",
+    "en": "I can't eat this.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0116",
+    "en": "It's delicious.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0118",
+    "en": "You too.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0120",
+    "en": "Age matters not.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0121",
+    "en": "So you're invalid...(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0125",
+    "en": "Clear skies.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0126",
+    "en": "Cloudy skies.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0127",
+    "en": "Rain.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0130",
+    "en": "Another roar(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0131",
+    "en": "How amusing.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0133",
+    "en": "How boring.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0135",
+    "en": "You found me out.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "KOROU.BIN:resp:0137",
+    "en": "I'm honored.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0139",
+    "en": "Need spare change?(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0140",
+    "en": "What a fool...(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0142",
+    "en": "I am humbled.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0143",
+    "en": "Oh yeah.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0144",
+    "en": "I'm not like you.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0146",
+    "en": "Learn(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0147",
+    "en": "Refuse(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0148",
+    "en": "Ignore(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 11
+  },
+  {
+    "id": "KOROU.BIN:resp:0149",
+    "en": "Listen to stories.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0152",
+    "en": "Hey, hey, hey!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0154",
+    "en": "I'll rip you.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0155",
+    "en": "I'll test you!(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0156",
+    "en": "Damn, you found out!(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0159",
+    "en": "I'll spare you.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0161",
+    "en": "Yeah, exactly.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0164",
+    "en": "Gaze harder(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0165",
+    "en": "I'll scratch ya.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0170",
+    "en": "One.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0171",
+    "en": "Two.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0172",
+    "en": "Three and a third.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0173",
+    "en": "I'm fine with that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0174",
+    "en": "I'm just embellishing!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0176",
+    "en": "Just this one.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0177",
+    "en": "51,670,000,000.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0178",
+    "en": "24／7.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0179",
+    "en": "I'll call for help.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0180",
+    "en": "I'll perform CPR.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0181",
+    "en": "How 'bout an elbow?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0182",
+    "en": "Curiosity.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0183",
+    "en": "Respect.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0184",
+    "en": "No reason.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0185",
+    "en": "Really?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0186",
+    "en": "Lying is wrong.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0187",
+    "en": "Wow, incredible!(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0188",
+    "en": "Thank you so much.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0190",
+    "en": "When will that be?(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0191",
+    "en": "Another song(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0192",
+    "en": "The same song(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0193",
+    "en": "A made-up song(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0194",
+    "en": "Boast(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0195",
+    "en": "Be modest(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0196",
+    "en": "Recommend a CD(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0197",
+    "en": "You look too young.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0199",
+    "en": "You're not happy?(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOROU.BIN:resp:0200",
+    "en": "No need to be upset.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0203",
+    "en": "I'll treasure it.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0204",
+    "en": "I'm not pure.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0205",
+    "en": "Are angels good?(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0209",
+    "en": "Few demons are free.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0210",
+    "en": "You have no choice.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0214",
+    "en": "I won't lose.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "KOROU.BIN:resp:0215",
+    "en": "It's way fun.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0216",
+    "en": "Is that fun?(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0217",
+    "en": "It's boring!(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0218",
+    "en": "Your breath smells!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0219",
+    "en": "I'm sorry.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 10
+  },
+  {
+    "id": "KOROU.BIN:resp:0220",
+    "en": "It'll be nice out.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0223",
+    "en": "It's buried.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0224",
+    "en": "It's healthy.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0225",
+    "en": "You don't like tans?(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0226",
+    "en": "I'm hiding freckles.(*RESPONSE*)   ",
+    "fr": ""
+  }
+]

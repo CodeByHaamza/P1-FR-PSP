@@ -325,8 +325,8 @@
     "id": "E1.BIN:099:0046",
     "locuteur": "Brown",
     "en": "Mwahahahaha!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Brown",
+    "fr": "Mouahahaha!{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -562,48 +562,48 @@
     "id": "E1.BIN:112:0037",
     "locuteur": "Girl with a camera",
     "en": "Oh, hello! Nice to meet you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Fille photo",
+    "fr": "Oh, salut! Enchantée.{ATTENTE}",
     "_occurrences": 6
   },
   {
     "id": "E1.BIN:112:0038",
     "locuteur": "Girl with a camera",
     "en": "I'm Mariko Yabe from Yamakumo High's{SAUT}Paranormal Watchers Club!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Fille photo",
+    "fr": "Je suis Mariko Yabe du lycée Yamakumo{SAUT}Club de surveillance du Paranormal!{ATTENTE}",
     "_occurrences": 6
   },
   {
     "id": "E1.BIN:112:0039",
     "locuteur": "Mariko",
     "en": "Good to know you!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mariko",
+    "fr": "Ravie de te voir!{ATTENTE}",
     "_occurrences": 6
   },
   {
     "id": "E1.BIN:112:0040",
     "locuteur": "Mariko",
     "en": "It's an unofficial club, and I'm the{SAUT}president and only member!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mariko",
+    "fr": "C'est un club officieux, et j'en suis la{SAUT}présidente et seule membre!{ATTENTE}",
     "_occurrences": 6
   },
   {
     "id": "E1.BIN:112:0041",
     "locuteur": "Mariko",
     "en": "My homeroom teach refuses to recognize my{SAUT}club, just 'cause he thinks it's lame!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mariko",
+    "fr": "Mon prof principal refuse mon club,{SAUT}juste parce qu'il le trouve nul!{ATTENTE}",
     "_occurrences": 6
   },
   {
     "id": "E1.BIN:112:0042",
     "locuteur": "Mariko",
     "en": "So I came to visit Tsutomu, my fellow{SAUT}devotee, but... {PAUSE}[1E00]I... {PAUSE}[1E00]this is...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mariko",
+    "fr": "Alors je venais voir Tsutomu, un mordu{SAUT}comme moi, mais... {PAUSE}[1E00]Je... {PAUSE}[1E00]c'est...{ATTENTE}",
     "_occurrences": 6
   },
   {
@@ -626,16 +626,16 @@
     "id": "E1.BIN:112:0045",
     "locuteur": "Mariko",
     "en": "If the media admits they're real, maybe{SAUT}my teach will recognize my club!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mariko",
+    "fr": "Si les médias les valident, mon prof{SAUT}reconnaîtra peut-être mon club!{ATTENTE}",
     "_occurrences": 6
   },
   {
     "id": "E1.BIN:112:0046",
     "locuteur": "Mariko",
     "en": "Here goes nothin'!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mariko",
+    "fr": "C'est parti'!{ATTENTE}",
     "_occurrences": 6
   }
 ]

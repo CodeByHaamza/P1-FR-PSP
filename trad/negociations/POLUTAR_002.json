@@ -1,0 +1,502 @@
+[
+  {
+    "id": "POLUTAR.BIN:text:0100",
+    "en": "  Uuuurrrrgh! So what!? Will you shut up{SAUT}already!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0101",
+    "en": "   Uuuurrrgh! I don't wanna hear a story{SAUT}like that! I want something physical![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0102",
+    "en": "   Eep... I think... I've found the truth...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0103",
+    "en": "  Eep...! That doesn't have anything to do{SAUT}with me...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0104",
+    "en": "   Ooohehehe! I knew you'd try that!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0105",
+    "en": "{PAGE}Every [FFF0] has a good{SAUT}sixth sense.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0106",
+    "en": " Ooohehehe! Humans say some fun things!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0107",
+    "en": " Hyuk hyuk! You can tell how strong{SAUT}I am!? You're amazing!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0108",
+    "en": "  You want my help!? Wow, what a surprise...{SAUT}Gimme something in return for surprising{SAUT}me like that.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0109",
+    "en": " Uuuurrrgh! I'm a [FFF0]!{SAUT}I can't help humans!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0110",
+    "en": "   Uuuurrrgh! That's boring! You oughtta{SAUT}give me something![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0111",
+    "en": "  Eep... Th-That has nothing to do{SAUT}with me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0112",
+    "en": "Eep... I don't wanna...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0113",
+    "en": "   Ooohehehehe! I don't get it, but it's{SAUT}still fun!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0114",
+    "en": "   Ooohehehehe! It's great to be needed!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0115",
+    "en": "  Hyuk hyuk! Are you trying to make{SAUT}me mad?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0116",
+    "en": "{PAGE}Teehee... You're funny!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0117",
+    "en": " Hyuk hyuk! I don't feel a thing from{SAUT}stuff like that.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0118",
+    "en": "{PAGE}C'mon, do something else! Please?{SAUT}Pretty please?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0119",
+    "en": "Uuuurrrgh! Don't make fun of me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0120",
+    "en": "   Uuuurrrgh! That's boring! You gotta{SAUT}give me something![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0121",
+    "en": "Eep... Do you have fun doing stuff{SAUT}I don't like?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0122",
+    "en": "   Eep... The way you're treating me...{SAUT}Are you one of those dangerous humans?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0123",
+    "en": "Ooohehehehe! I don't get it, but it's{SAUT}still fun!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0124",
+    "en": "   Ooohehehehe! I figured out what you're{SAUT}trying to do!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0125",
+    "en": "{PAGE}I'm not gonna run away just 'cause you{SAUT}did that, though.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0126",
+    "en": " Hyuk hyuk! Hey, can you do anything else?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0127",
+    "en": "  Hyuk hyuk! Alright, I'll let you give{SAUT}me something.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0128",
+    "en": "   Uuuurrrgh! Sooo booooring...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0129",
+    "en": "   Uuuurrrgh! This is so boring, I hope{SAUT}you roll over and die!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0130",
+    "en": "{PAGE}But first, gimme something.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0131",
+    "en": "  Eep... What was that all about...?{SAUT}Is your brain still in your head?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0132",
+    "en": "   Eeep... Are you one of those guys{SAUT}who's... not all there?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0133",
+    "en": "  Ooohehehe! This is sooo much fun!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0134",
+    "en": "  Yaaaaaay! This is so fun!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0135",
+    "en": "  Hyuk hyuk! Awww, that's so cool!{SAUT}I wonder what I should do.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0136",
+    "en": "What should I do...? Okay, I got it!{SAUT}Listen to my request![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0137",
+    "en": "Uuuurrrgh! You can't upset me that easy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0138",
+    "en": "   Uuuurrrgh! I'm greedy, you know?{SAUT}Real greedy![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0139",
+    "en": " Eep... I'm sweating a different kind{SAUT}of sweat than usual...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0140",
+    "en": "Eep... What's this feeling...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0141",
+    "en": " Ooohehehehe! Now you're talking!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0142",
+    "en": "   Ooohehehehe! I'm right on the edge of{SAUT}being seduced, huh!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0143",
+    "en": " That's riiiiight! You really know a lot{SAUT}about me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0144",
+    "en": "  Hyuk hyuk! That's right. Don't you think{SAUT}so too?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0145",
+    "en": "{PAGE}Hmm... Well then... how about if you{SAUT}give me a present![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0146",
+    "en": " Uuuurrrgh! You don't mean that at all!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0147",
+    "en": " Uuuurrrgh! Then prove you meant it![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0148",
+    "en": "   Eeep... How do you know so much{SAUT}about me...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0149",
+    "en": "   Eep... I'm worried what happens next if{SAUT}you're flattering me this much...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0150",
+    "en": "  Ooohehehehe! I haven't been in this good{SAUT}of a mood in a while!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0151",
+    "en": " Ooohehehe! That's right! I'm amazing!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0152",
+    "en": "  Ohhh... You already have my spell card!{SAUT}Oooooheeheeheeeee!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0153",
+    "en": " I'm Polter Poltoleon. If you see this{SAUT}message, you'll go \"ooohehehehe!\" too!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0154",
+    "en": "   Huhhh...? Aren't you weaker than me?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0155",
+    "en": "{PAGE}Haha, you're so lame! I'm not giving{SAUT}you my spell card!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0156",
+    "en": "  Huh!? C'mon, don't be so cruel...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0157",
+    "en": "  Alright! I'll give you this!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0158",
+    "en": "   This is for you too.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0159",
+    "en": "   Um, well... I guess I'll give you this.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0160",
+    "en": "See you later! Oooooheeheeheeeeee!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0161",
+    "en": " I gotta get going... A [FFF0]{SAUT}doesn't have much free time!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0162",
+    "en": "  I'll give you this if you forgive me...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0163",
+    "en": "I don't wanna talk to you anymore.{SAUT}Seeya!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0164",
+    "en": "  You're so finished. I'll give you this...{SAUT}Let's just say goodbye here.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0165",
+    "en": " If I was gonna express how I'm feeling{SAUT}right now, I'd say... Uuuurrrgh!{SAUT}Seriously!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0166",
+    "en": " I'm glad to meet you... I mean, take good{SAUT}care of my card!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0167",
+    "en": " I made up my mind! I'm coming too!{SAUT}But that's not really up to me, huh...?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0168",
+    "en": " I don't like to fight. I'm tired of{SAUT}everyone getting hurt.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0169",
+    "en": " Instead... I'll give you this.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0170",
+    "en": " Eep...! I'll give you my spell card!{SAUT}Just please let me go...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0171",
+    "en": "  Hyuk hyuk! Us and humans are pretty{SAUT}different!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0172",
+    "en": " Hyuk hyuk! I'm really curious now!{SAUT}Can you pique my interest...?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0173",
+    "en": "  Uuuurrrgh! Why did you answer, mister!?{SAUT}Now I'm all annoyed!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0174",
+    "en": "   Uuuurrrgh! If you want me to calm down,{SAUT}you have to gimme something![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0175",
+    "en": "  Eep... I called someone and it turns{SAUT}out they're really scary...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0176",
+    "en": "{PAGE}A-Am I... gonna get beat up...? Noooo!{SAUT}I don't want to!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0177",
+    "en": "  Eeep...! L-Let me make it clear...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0178",
+    "en": "{PAGE}I-I'm not good to eat... And I'm not{SAUT}crunchy in milk either...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0179",
+    "en": " Ooohehehehe! I'm really happy right now!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0180",
+    "en": "   Ooohehehe! Let's play, mister! Okay?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0181",
+    "en": "   [FFEE]Uh-oh... humans! Hmm... I don't really{SAUT}wanna deal with them, but I don't feel{SAUT}like running away either.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0182",
+    "en": "   [FFED]Why are humans human!? I don't get it.{SAUT}And that annoys me, so gimme something![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0183",
+    "en": "   [FFEC]Hyuk... For me, it's like how they{SAUT}say... curiosity trumps fear...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0184",
+    "en": "[FFEE]I felt like there was something I was{SAUT}drawn to... But I guess I'll hang around{SAUT}with you a while...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0185",
+    "en": "[FFEE]I think tonight's the night I finally{SAUT}fall in love with humans!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0186",
+    "en": "   [FFEB]I want lots of kinds of friends. Hmm...{SAUT}Maybe humans would be good too...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0187",
+    "en": " [FFEC]Who're you, mister...? Who!? Who are{SAUT}you, darn it...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0188",
+    "en": " [FFED]Eep... Th-That was scary!{SAUT}But I'm not gonna run!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0189",
+    "en": "  [FFED]Ooohehehe! Haha... By the way, I'm pretty{SAUT}mad right now!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0190",
+    "en": "  [FFEB]What a great full moon! You just have to{SAUT}gimme something!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0191",
+    "en": "{PAGE}Teeheehee! There's lots of stuff I{SAUT}want... What should I ask for?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0192",
+    "en": " [FFEB]I'm trembling... Is this excitement!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0193",
+    "en": " [FFEC]Hyuk... Humans are nice, right?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0194",
+    "en": "{PAGE}I don't have to be nervous, right?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0195",
+    "en": "   Hyuk hyuk! Humans are interesting.{SAUT}What do you need from me?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0196",
+    "en": "   Uuuurrrgh! I don't like this kind of{SAUT}negotiation! I'm real mad now!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0197",
+    "en": "Eep... Why are you doing that...?{SAUT}I'm scared...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0198",
+    "en": "Ooohehehehe! Ooohehehe! That was REALLY{SAUT}fun! I'm so happy!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "POLUTAR.BIN:text:0199",
+    "en": " So basically, you want me to do{SAUT}something, right!?(*OPTION*)",
+    "fr": ""
+  }
+]

@@ -3,54 +3,54 @@
     "id": "E1.BIN:160:0000",
     "locuteur": "Raiho",
     "en": "Hee-ho! We saw a girl wearing a funky{SAUT}mask upstairs.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Hi-ho! On a vu une fille au{SAUT}drôle de masque en haut.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0001",
     "locuteur": "Reiho",
     "en": "She-ho was saying crazy stuff, like{SAUT}\"I'll hee-stroy this schoo!\", ho.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Reiho",
+    "fr": "Elle-ho disait un truc fou, genre{SAUT}\"Je vais hi-truire l'ecol!\", ho.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:160:0002",
     "locuteur": "Raiho",
     "en": "Nooo! What are we-ho gonna do if the{SAUT}hee-school gets destroyed?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Raiho",
+    "fr": "Nooon! Qu'est-ce qu'on-ho va faire si{SAUT}l'hi-école est détruite?{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:160:0003",
     "locuteur": "Reiho",
     "en": "Work! Work your hee-hiney off and{SAUT}support me for life!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Reiho",
+    "fr": "Bosse! Use tes hi-fesses et{SAUT}nourris-moi à vie!{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:160:0004",
     "locuteur": "Raiho",
     "en": "So cold...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Raiho",
+    "fr": "Si froid...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:160:0005",
     "locuteur": "Reiho",
     "en": "Going up? Well, hee-have fun.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiho",
+    "fr": "Tu montes? Bon, hi-amuse-toi.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0006",
     "locuteur": "Raiho",
     "en": "Hee, you know what? We saw a girl{SAUT}wearing a funky mask upstairs.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Hi, tu sais quoi? On a vu une{SAUT}fille au drôle de masque en haut.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0011",
@@ -68,43 +68,43 @@
     "id": "E1.BIN:160:0013",
     "locuteur": "Raiho",
     "en": "Hee-ho! Woah... That's a pretty nice{SAUT}thing you have.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Hi-ho! Ouah... C'est un bien joli{SAUT}truc que tu as.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0014",
     "locuteur": "Reiho",
     "en": "Hee! You're right! He's got (*TEXTBOX_PARAM,0500*)Ambrosia(*TEXTBOX_PARAM,0000*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiho",
+    "fr": "Hi! T'as raison! Il a de l'(*TEXTBOX_PARAM,0500*)Ambrosia(*TEXTBOX_PARAM,0000*)!{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0015",
     "locuteur": "Raiho",
     "en": "That's hee-so cool! I want one!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Trop hi-cool! J'en veux un!{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0016",
     "locuteur": "Reiho",
     "en": "Give it! Give it now, you hee-hear me!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiho",
+    "fr": "Donne! Donne ça de suite, compris!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0017",
     "locuteur": "Raiho",
     "en": "Ummm... Reiho... Our teacher said it's{SAUT}bad to steal-ho from people...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Euuh... Reiho... Le prof a dit que voler{SAUT}les gens-ho, c'est mal...{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0018",
     "locuteur": "Reiho",
     "en": "Awww, human rules are such a pain.{SAUT}Then hee-how about a trade, ho?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiho",
+    "fr": "Les règles humaines, quelle plaie.{SAUT}Alors hi-que dirais-tu d'un troc, ho?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0020",
@@ -117,50 +117,50 @@
     "id": "E1.BIN:160:0021",
     "locuteur": "Reiho",
     "en": "I hear-ho if you fuse the totems with{SAUT}demons, something good will hee-happen.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiho",
+    "fr": "J'ai oui-ho qu'en fusionnant les totems{SAUT}aux démons, un bien hi-arrive.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0022",
     "locuteur": "Raiho",
     "en": "I have five totems, and you have five{SAUT}people...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "J'ai cinq totems, et vous êtes cinq{SAUT}personnes...{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0023",
     "locuteur": "Reiho",
     "en": "So it's one totem per person, ho!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiho",
+    "fr": "Donc un totem par personne, ho!{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0024",
     "locuteur": "Raiho",
     "en": "Think about hee-how much Ambrosia you{SAUT}have left before you decide who gets one.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Pense à la hi-quantité d' Ambrosia qu'il{SAUT}te reste avant de choisir qui en a un.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0025",
     "locuteur": "Reiho",
     "en": "When you're ready, talk to whoever you{SAUT}want to get a hee-totem for, ho.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiho",
+    "fr": "Quand tu es prêt, parle à celui à qui tu{SAUT}veux offrir un hi-totem, ho.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0026",
     "locuteur": "Raiho",
     "en": "If you want your own totem, talk to{SAUT}one of us!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Pour ton propre totem, parle à{SAUT}l'un de nous!{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0027",
     "locuteur": "Reiho",
     "en": "Hee... All this talking makes me-ho{SAUT}tired.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiho",
+    "fr": "Hi... Tout ce blabla me-ho{SAUT}fatigue.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0029",
@@ -173,15 +173,15 @@
     "id": "E1.BIN:160:0030",
     "locuteur": "Reiho",
     "en": "You're sure you hee-won't regret it?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiho",
+    "fr": "Sur que tu hi-regretteras pas?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0031",
     "locuteur": "Raiho",
     "en": "Hee-ho! Then it's a deal!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Hi-ho! Marche conclu!{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0032",
@@ -199,57 +199,57 @@
     "id": "E1.BIN:160:0034",
     "locuteur": "Raiho",
     "en": "Hee-hokay! Go ahead and talk to{SAUT}your friends!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Hi-daccord! Vas-y, parle à{SAUT}tes amis!{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0035",
     "locuteur": "Yukino",
     "en": "Are they following us or something?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Ils nous suivent ou quoi?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0036",
     "locuteur": "Yukino",
     "en": "Alright, thanks.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "D'accord, merci.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0037",
     "locuteur": "Yukino",
     "en": "I got mine already.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "J'ai déjà le mien.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0038",
     "locuteur": "Yukino",
     "en": "We don't have many Ambrosia. You should{SAUT}think hard about who gets a totem.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "On n'a pas beaucoup d' Ambrosia.{SAUT}Réfléchis bien à qui recevra un totem.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0039",
     "locuteur": "Yukino",
     "en": "You want me to have one?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Tu veux que j'en aie un?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0040",
     "locuteur": "Yukino",
     "en": "You're the boss. Whatever you say is cool{SAUT}with me.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "C'est toi le chef. Ce que tu dis me va{SAUT}très bien.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0041",
     "locuteur": "Yukino",
     "en": "I just wanna be clear... You're cool{SAUT}with this, right?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Je veux être claire... Ça te va{SAUT}vraiment, hein?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0042",
@@ -267,22 +267,22 @@
     "id": "E1.BIN:160:0044",
     "locuteur": "Yukino",
     "en": "I'll hold on to these.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Je vais garder ça.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0045",
     "locuteur": "Ayase",
     "en": "Whoa, she's got him totally under{SAUT}her thumb.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Ouah, elle le mène par le bout{SAUT}du nez.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0046",
     "locuteur": "Ayase",
     "en": "Uhhh... I have one, remember?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Euuh... J'en ai un, non?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0047",
@@ -295,29 +295,29 @@
     "id": "E1.BIN:160:0048",
     "locuteur": "Ayase",
     "en": "Totems are valuable, right?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Les totems ont une valeur?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0049",
     "locuteur": "Ayase",
     "en": "Ooh, I can have one?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Ooh, j'en ai un?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0050",
     "locuteur": "Ayase",
     "en": "Fine! Jerk!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Bon! Idiot!{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0051",
     "locuteur": "Ayase",
     "en": "Awesome! No fooling?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Génial! Sans blague?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0052",
@@ -342,51 +342,51 @@
     "id": "E1.BIN:160:0055",
     "locuteur": "Ayase",
     "en": "I-I thought you meant, like...{SAUT}I don't want this!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "J-Je croyais que tu voulais dire...{SAUT}Je veux pas de ça!{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0056",
     "locuteur": "Nanjo",
     "en": "It appears that he's having his own{SAUT}difficulties...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Il semble avoir ses propres{SAUT}difficultés...{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0057",
     "locuteur": "Nanjo",
     "en": "Yamaoka...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Nanjo",
+    "fr": "Yamaoka...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:160:0059",
     "locuteur": "Nanjo",
     "en": "I'm sure you're aware that Ambrosia is{SAUT}a rare commodity.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Tu sais sûrement que l' Ambrosia est une{SAUT}denrée rare.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0060",
     "locuteur": "Nanjo",
     "en": "Am I to understand that you want me to{SAUT}have a totem?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Dois je comprendre que tu veux que j'aie{SAUT}un totem?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0061",
     "locuteur": "Nanjo",
     "en": "I leave it to your judgement.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Je te laisse en juger.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0062",
     "locuteur": "Nanjo",
     "en": "If you're sure...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Si tu es sûr...{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0063",
@@ -404,65 +404,65 @@
     "id": "E1.BIN:160:0065",
     "locuteur": "Nanjo",
     "en": "These are... Yamaoka's! Why are{SAUT}they here...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "C'est... À Yamaoka! Pourquoi{SAUT}sont-ils ici...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0066",
     "locuteur": "Nanjo",
     "en": "Do you still watch over me, Yamaoka...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Veilles-tu encore sur moi, Yamaoka...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0067",
     "locuteur": "Elly",
     "en": "These demons don't seem hostile.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Ces démons semblent pacifiques.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0068",
     "locuteur": "Elly",
     "en": "I'm taking good care of mine.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Je prends bien soin du mien.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0069",
     "locuteur": "Elly",
     "en": "Thank you!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "Merci!{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:160:0070",
     "locuteur": "Elly",
     "en": "Totems are quite valuable. It's best that{SAUT}you give them to those most in need.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Les totems sont précieux. Donne-les{SAUT}plutôt aux plus démunis.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0071",
     "locuteur": "Elly",
     "en": "You'd like me to have one?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Tu veux que j'en aie un?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0072",
     "locuteur": "Elly",
     "en": "By all means, take your time before{SAUT}deciding.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Prends bien ton temps avant de{SAUT}décider.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0073",
     "locuteur": "Elly",
     "en": "Are you certain?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Tu es certain?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0074",
@@ -480,50 +480,50 @@
     "id": "E1.BIN:160:0077",
     "locuteur": "Brown",
     "en": "Poor dude... I can totally sympathize.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Pauvre gars... Je compatis à fond.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0078",
     "locuteur": "Brown",
     "en": "Heheh, right on!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Heheh, ouais!{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0079",
     "locuteur": "Brown",
     "en": "Heheh... this is great!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Heheh... c'est génial!{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0080",
     "locuteur": "Brown",
     "en": "Look, I'm the leader here. Therefore,{SAUT}I deserve a totem. Got that?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Écoute, c'est moi le chef ici. Donc{SAUT}je mérite un totem. Compris?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0081",
     "locuteur": "Brown",
     "en": "So this one's mine.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Donc lui est à moi.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0082",
     "locuteur": "Brown",
     "en": "C'mon... you won't reconsider?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Allez... tu changes pas?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0083",
     "locuteur": "Brown",
     "en": "R-Really? You don't mind?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "R-Vrai? Ça te gêne pas?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0084",
@@ -541,7 +541,7 @@
     "id": "E1.BIN:160:0086",
     "locuteur": "Brown",
     "en": "Mwahaha, now that's a classy totem.{SAUT}Very fitting for moi.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Mwahaha, ça c'est un totem classe.{SAUT}Tout à fait digne de moi.{ATTENTE}"
   }
 ]

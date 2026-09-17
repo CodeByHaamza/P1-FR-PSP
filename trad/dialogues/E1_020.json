@@ -123,7 +123,7 @@
     "locuteur": "Brown",
     "en": "PLEASE!?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Pitié!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:087:0018",
@@ -333,7 +333,7 @@
     "locuteur": "Michiko",
     "en": "I can't believe this!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "C'est pas croyable!{ATTENTE}"
   },
   {
     "id": "E1.BIN:087:0048",
@@ -455,7 +455,7 @@
     "locuteur": "Yukino",
     "en": "C'mon, let's go.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Allez, on y va.{ATTENTE}"
   },
   {
     "id": "E1.BIN:087:0067",

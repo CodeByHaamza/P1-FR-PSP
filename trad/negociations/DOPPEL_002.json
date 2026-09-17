@@ -1,0 +1,511 @@
+[
+  {
+    "id": "DOPPEL.BIN:text:0111",
+    "en": "   You're exceptionally talented. I'm going{SAUT}to study your manner of speaking...{SAUT}It rather interests me.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0112",
+    "en": "{PAGE}Oh, I almost forgot to make my demands.{SAUT}That's the most important part![FFF1](*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 12
+  },
+  {
+    "id": "DOPPEL.BIN:text:0113",
+    "en": " That isn't even worth mimicking!{SAUT}Can't you say anything to pique my{SAUT}curiosity a bit!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0114",
+    "en": "  Even a copycat has its pride, you know!{SAUT}I refuse to mimic something so cheap!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "DOPPEL.BIN:text:0115",
+    "en": "  What do you hope to gain, saying that{SAUT}stuff to a double? I can't tell what{SAUT}you're thinking...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "DOPPEL.BIN:text:0117",
+    "en": "  What a bizarre story... You've already{SAUT}surpassed my expectations!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0118",
+    "en": "  What a bizarre story... You've already{SAUT}surpassed my expectations!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0120",
+    "en": "You're exceptionally talented. I'm going{SAUT}to study your method of expression...{SAUT}It rather interests me.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0121",
+    "en": " You're exceptionally talented. I'm going{SAUT}to study your method of expression...{SAUT}It rather interests me.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0123",
+    "en": "   That isn't even worth mimicking!{SAUT}Can't you do anything to pique my{SAUT}curiosity a bit!?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "DOPPEL.BIN:text:0124",
+    "en": "   Even a copycat has its pride, you know!{SAUT}I refuse to mimic something so cheap!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "DOPPEL.BIN:text:0125",
+    "en": "  So, you plan to harness a double's power...{SAUT}To do what, exactly? I can't figure out{SAUT}what you're thinking...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0126",
+    "en": "So, you plan to harness a double's power...{SAUT}To do what, exactly? I can't figure out{SAUT}what you're thinking...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0127",
+    "en": "You're trying to borrow a double's{SAUT}power...? You've already surpassed{SAUT}my expectations!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0128",
+    "en": " You're trying to borrow a double's{SAUT}power...? You've already surpassed{SAUT}my expectations!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0130",
+    "en": "   You're exceptionally talented. I'm going{SAUT}to study your expressions...{SAUT}They rather interest me.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0131",
+    "en": " You're exceptionally talented. I'm going{SAUT}to study your expressions...{SAUT}They rather interest me.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0135",
+    "en": "  What do you hope to gain, taunting{SAUT}a double? I can't tell what you're{SAUT}thinking...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "DOPPEL.BIN:text:0137",
+    "en": "  You're taunting a double...? You've{SAUT}already surpassed my expectations!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0138",
+    "en": " You're taunting a double...? You've{SAUT}already surpassed my expectations!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0140",
+    "en": "   You're exceptionally talented. I'm going{SAUT}to study the way you perform your tricks...{SAUT}It rather interests me.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0141",
+    "en": "   You're exceptionally talented. I'm going{SAUT}to study the way you perform your tricks...{SAUT}It rather interests me.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0143",
+    "en": " That isn't even worth mimicking!{SAUT}Don't you have any tricks that would{SAUT}pique my curiosity a bit!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0145",
+    "en": "  What do you hope to gain, showing those{SAUT}tricks to a double? I can't tell what{SAUT}you're thinking...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0146",
+    "en": "   What do you hope to gain, showing those{SAUT}tricks to a double? I can't tell what{SAUT}you're thinking...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0147",
+    "en": "   You did a trick for a double like me!?{SAUT}You've already surpassed my expectations!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0148",
+    "en": "   You did a trick for a double like me!?{SAUT}You've already surpassed my expectations!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0150",
+    "en": " You're exceptionally talented. I'm going{SAUT}to study your methods of seduction...{SAUT}They rather interest me.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0151",
+    "en": "You're exceptionally talented. I'm going{SAUT}to study your methods of seduction...{SAUT}They rather interest me.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0153",
+    "en": "  That isn't even worth mimicking!{SAUT}Can't you seduce me in a way that{SAUT}piques my curiosity a bit!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0154",
+    "en": " Even a copycat has its pride, you know!{SAUT}I refuse to mimic something so cheap!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0155",
+    "en": "  What do you hope to gain, seducing a{SAUT}double like me? I can't tell what{SAUT}you're thinking...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "DOPPEL.BIN:text:0157",
+    "en": "  You're trying to seduce a double!?{SAUT}You've already surpassed my expectations!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0158",
+    "en": "   You're trying to seduce a double!?{SAUT}You've already surpassed my expectations!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0160",
+    "en": " You're exceptionally talented. I'm going{SAUT}to study your way of currying favor...{SAUT}It rather interests me.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0161",
+    "en": "You're exceptionally talented. I'm going{SAUT}to study your way of currying favor...{SAUT}It rather interests me.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0163",
+    "en": "  That isn't even worth mimicking!{SAUT}Can't you butter me up in a way that{SAUT}piques my curiosity a bit!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0165",
+    "en": "  What do you hope to gain, buttering up{SAUT}a double? I can't tell what you're{SAUT}thinking...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "DOPPEL.BIN:text:0167",
+    "en": "  You're buttering up a double!? You've{SAUT}already surpassed my expectations!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0168",
+    "en": "   You're buttering up a double!? You've{SAUT}already surpassed my expectations!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0170",
+    "en": " You already have my card... I have no{SAUT}further interest in you.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0171",
+    "en": " Take this...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0172",
+    "en": "   ...I see...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0173",
+    "en": "You can't use it...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0174",
+    "en": "You're too weak to have it...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0175",
+    "en": "  Then take this, at least...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0176",
+    "en": "Well then, it's time for us to part...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0177",
+    "en": " This is good for you. Take it...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0178",
+    "en": "   I'll be going now...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0179",
+    "en": "   It doesn't seem right, giving you a{SAUT}double's card, but feel free to make{SAUT}a Persona or whatever...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0180",
+    "en": "  It seems I still need more training...{SAUT}Let us meet again after I've had more{SAUT}training as a double...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0181",
+    "en": "   I'll be going my own way now. There's{SAUT}someone else whose double I have to be!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0182",
+    "en": "  I'm off to be someone else's double...{SAUT}Here, take this and keep on trying!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0183",
+    "en": " I enjoyed that. It would be a waste for{SAUT}you to come away with nothing...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0184",
+    "en": "{PAGE}So please accept my card as a memento!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0185",
+    "en": "   If you weren't satisfied, feel free to{SAUT}throw the card away! I won't mind at all!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0186",
+    "en": "   I'm not allowed to fight you...{SAUT}It's because I'm your double...{SAUT}And you are mine...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0187",
+    "en": "It's natural for doubles to merge{SAUT}together as one... I'll give you{SAUT}my card...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0188",
+    "en": "  I can't fight you... I'm your double,{SAUT}after all...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0189",
+    "en": " Here... a gift from your alter ego...{SAUT}I'd like you to take it...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0190",
+    "en": "   Ironically, as your double, I know all{SAUT}too well that I cannot escape...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0191",
+    "en": "I also know that you'll spare my life{SAUT}if I give you my card...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0192",
+    "en": " Yo, [FFFA]! How's it goin'?{SAUT}Let's get down to negotiations!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0193",
+    "en": " Yo [FFFA], how you been? You got{SAUT}anything for your alter ego?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0194",
+    "en": "  For a guy who's my double, you don't{SAUT}stand out much... Shall we settle for{SAUT}good which of us is the true self?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0195",
+    "en": "  So you're my alter ego...? I'll make you{SAUT}pay for being a killjoy![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0196",
+    "en": " How ominous to encounter my own double...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0197",
+    "en": "  I had a bad feeling about this...{SAUT}but then, you are my double...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0198",
+    "en": "   I never thought I'd meet my alter ego.{SAUT}It really is a small world...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0199",
+    "en": "   If you're my double, I don't need to be{SAUT}shy! Gimme something![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0200",
+    "en": " [FFED]The moon shall be our witness... Let us{SAUT}determine who is the true [FFFA]...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0201",
+    "en": "[FFEE]So if you're me, you should be able{SAUT}to grant this request of mine...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0202",
+    "en": " [FFEC]The new moon is in the sky, and you're{SAUT}not afraid... That's the difference{SAUT}between you and me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0203",
+    "en": "  [FFEE]You're trying to negotiate with your{SAUT}double? Well, give me something, and{SAUT}maybe I can put my feelings aside...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0204",
+    "en": "   [FFEE]Hello, [FFFA]!{SAUT}I am [FFFA]too!{SAUT}It's amazing, but true!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0205",
+    "en": "  [FFEB]Hello, [FFFA]!{SAUT}I am [FFFA]too!{SAUT}Give me a memento of our meeting![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0206",
+    "en": "   [FFEC]Ah! I had an uneasy feeling about this...{SAUT}So you were my double. I wonder if this,{SAUT}too, is fate...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0207",
+    "en": "[FFED]I'm in a very foul mood... As my double,{SAUT}couldn't you give me something?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0208",
+    "en": " [FFEB]You certainly don't stand out much for{SAUT}someone who's my double. Let's see once{SAUT}and for all who the true self is!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0209",
+    "en": "  [FFED]If you're my double, then there's no need{SAUT}for modesty! Give me a gift![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0210",
+    "en": "   [FFEC]You're my double...? I don't know about{SAUT}this... How is it going to end...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0211",
+    "en": "[FFEB]If you're my double, I may as well ask...{SAUT}Give me something.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0212",
+    "en": " ...I thank you, as your double, for the{SAUT}chance to experience something so rare...{SAUT}Tell me what you desire.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0213",
+    "en": " ...Absurd! I don't want to share my{SAUT}experiences as a double with you!{SAUT}Of all the nerve!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0214",
+    "en": "You're a dreadful thing... Not even I,{SAUT}your double, can understand...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0215",
+    "en": "  ...It was pleasant, the time I spent as{SAUT}your double. I quite enjoyed it!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0216",
+    "en": "   It wasn't so remarkable an experience,{SAUT}being your double... but oh well.{SAUT}Tell me what you want.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0217",
+    "en": "You're a dreadful thing... Not even I,{SAUT}your double, can understand...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0218",
+    "en": "{PAGE}Still... you did pique my curiosity...{SAUT}Tell me what you desire...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0219",
+    "en": "   ...It was pleasant, the time I spent as{SAUT}your double. I quite enjoyed it!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0220",
+    "en": "{PAGE}I thank you for the chance to experience{SAUT}something so rare... If I can grant you{SAUT}anything, I will.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0221",
+    "en": "   ...I've never felt this way before in my{SAUT}time as a double... What could it mean?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0222",
+    "en": "   On the whole, that was delightful...{SAUT}But it was so childish, I question{SAUT}whether it was even worth it!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0223",
+    "en": "  My encounter with you gave me a small{SAUT}taste of the unknown... I'm in awe.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0224",
+    "en": "  I request... (*VALUE*) yen...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0225",
+    "en": "  I appreciate your understanding of{SAUT}a double's needs.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0226",
+    "en": "   I have no intentions of becoming a{SAUT}poor person's alter ego!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0227",
+    "en": "...What did you use all that money on?{SAUT}I'm not impressed by your wasteful ways.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0228",
+    "en": "I have no intentions of becoming a{SAUT}stingy person's alter ego!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0229",
+    "en": "  You don't understand the terror of a{SAUT}double... But you'll realize it someday.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  }
+]

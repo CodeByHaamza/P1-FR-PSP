@@ -3,64 +3,64 @@
     "id": "E1.BIN:209:0000",
     "locuteur": "Ayase",
     "en": "Did that do it...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Ça a suffi...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:209:0001",
     "locuteur": "Yukino",
     "en": "Where's Ms. Saeko!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Où est Mme Saeko!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:209:0002",
     "locuteur": "Voice",
     "en": "Hmhmhm...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix",
+    "fr": "Hmhmhm...{ATTENTE}"
   },
   {
     "id": "E1.BIN:209:0003",
     "locuteur": "Voice",
     "en": "Ahahahaha...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix",
+    "fr": "Ahahahaha...!{ATTENTE}"
   },
   {
     "id": "E1.BIN:209:0004",
     "locuteur": "Ayase",
     "en": "Wh-Who's that!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Qu-Qui est-ce!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:209:0005",
     "locuteur": "Queen",
     "en": "Saeko, your beacon of hope, has become{SAUT}a sacrifice... as did Tomomi.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reine",
+    "fr": "Saeko, ton phare d'espoir, est devenu{SAUT}un sacrifice... comme Tomomi.{ATTENTE}"
   },
   {
     "id": "E1.BIN:209:0006",
     "locuteur": "Queen",
     "en": "I am the Persona known as Night Queen,{SAUT}who once dwelled within Tomomi.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reine",
+    "fr": "Je suis la Persona nommée Reine de la{SAUT}Nuit, qui vivait jadis en Tomomi.{ATTENTE}"
   },
   {
     "id": "E1.BIN:209:0007",
     "locuteur": "Night Queen",
     "en": "You have my thanks. I am at last freed{SAUT}from my host and the mask that bound me.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Merci à vous. Je suis enfin libre de{SAUT}mon hôte et du masque qui m'enchaînait.{ATTENTE}"
   },
   {
     "id": "E1.BIN:209:0008",
     "locuteur": "Night Queen",
     "en": "And once the Eternal Night arrives,{SAUT}I shall be complete.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reine{PAGE}Nuit",
+    "fr": "Et quand la Nuit Éternelle viendra,{SAUT}je serai enfin complète.{ATTENTE}"
   },
   {
     "id": "E1.BIN:209:0009",
@@ -74,133 +74,133 @@
     "locuteur": "Night Queen",
     "en": "Ahahahahahahaha...!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Ahahahahahahaha...!{ATTENTE}"
   },
   {
     "id": "E1.BIN:209:0012",
     "locuteur": "Night Queen",
     "en": "Fools! Open your eyes and witness the{SAUT}advent of the Eternal Night.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Idiots! Ouvrez les yeux et voyez{SAUT}venir la nuit éternelle.{ATTENTE}"
   },
   {
     "id": "E1.BIN:209:0014",
     "locuteur": "Night Queen",
     "en": "Hmhmhm... Ahahahahahaha!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Hmhmhm... Ahahahahahaha!{ATTENTE}"
   },
   {
     "id": "E1.BIN:209:0015",
     "locuteur": "Yukino",
     "en": "H-Hey! Wait!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "H-He! Stop!{ATTENTE}"
   },
   {
     "id": "E1.BIN:210:0000",
     "locuteur": "Ayase",
     "en": "Omigod...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Oh non...{ATTENTE}"
   },
   {
     "id": "E1.BIN:210:0001",
     "locuteur": "Ayase",
     "en": "They're frozen!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Ils sont gelés!{ATTENTE}"
   },
   {
     "id": "E1.BIN:210:0002",
     "locuteur": "Brown",
     "en": "It's over...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "C'est fini...{ATTENTE}"
   },
   {
     "id": "E1.BIN:210:0003",
     "locuteur": "Nanjo",
     "en": "This is... unthinkable...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "C'est... impensable...{ATTENTE}"
   },
   {
     "id": "E1.BIN:210:0004",
     "locuteur": "Ayase",
     "en": "It's... It's all a bad joke, right,{SAUT}Nurse Natsumi!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "C'est... C'est une mauvaise blague, hein,{SAUT}Mlle Natsumi!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:210:0005",
     "locuteur": "Ayase",
     "en": "C'mon, Tsutomu! I'm talking to you!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Allez, Tsutomu! Je te parle!{ATTENTE}"
   },
   {
     "id": "E1.BIN:210:0006",
     "locuteur": "Ayase",
     "en": "Please... say something...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Dis-moi quelque chose...{ATTENTE}"
   },
   {
     "id": "E1.BIN:210:0007",
     "locuteur": "Yukino",
     "en": "Look through the hole... The whole town{SAUT}is frozen over...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Regarde par le trou... Toute la ville{SAUT}est gelée...{ATTENTE}"
   },
   {
     "id": "E1.BIN:210:0008",
     "locuteur": "Elly",
     "en": "Then... the only ones left alive are...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Alors... les seuls survivants sont...{ATTENTE}"
   },
   {
     "id": "E1.BIN:210:0009",
     "locuteur": "Brown",
     "en": "H-Hold on... does that mean...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "H-Attends... ça veut dire...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:210:0010",
     "locuteur": "Ayase",
     "en": "We're all that's left!? No one else{SAUT}made it...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "On est les seuls!? Personne d'autre{SAUT}survécu...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:210:0011",
     "locuteur": "Ayase",
     "en": "I did the best I could... We all did,{SAUT}didn't we!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "J'ai fait de mon mieux... On a tous{SAUT}fait de notre mieux, non!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:210:0012",
     "locuteur": "Ayase",
     "en": "How could it have ended like this?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Comment ça a pu finir ainsi?{ATTENTE}"
   },
   {
     "id": "E1.BIN:210:0013",
     "locuteur": "Ayase",
     "en": "No... No, no, no... NO!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Non... Non, non... NO!{ATTENTE}"
   },
   {
     "id": "E1.BIN:210:0014",
     "locuteur": "Yukino",
     "en": "What's gonna happen to us...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Que va-t-il nous arriver...?{ATTENTE}"
   },
   {
     "id": "E2.BIN:000:0000",

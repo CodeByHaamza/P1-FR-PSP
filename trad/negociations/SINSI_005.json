@@ -1,0 +1,515 @@
+[
+  {
+    "id": "SINSI.BIN:text:0462",
+    "en": "   You are a pathetic human! A gentleman{SAUT}does not tell lies!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SINSI.BIN:text:0463",
+    "en": "  I assumed so... People like you lead{SAUT}humanity to destruction... Hahaha...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "SINSI.BIN:text:0464",
+    "en": "  Huh? No... What did I do wrong? I-I...{SAUT}I cannot fathom...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0465",
+    "en": "  So in the end, you are superficial!{SAUT}I knew it! Humans cannot be trusted!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0466",
+    "en": "   You understand this difficult way of{SAUT}life!? I am enthralled!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0468",
+    "en": "   You haven't a clue!? That's quite an{SAUT}answer! Hahahaha!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0469",
+    "en": " How irresponsible! Don't you realize{SAUT}the life and death predicament that one{SAUT}mistake can create for you!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0470",
+    "en": "  You should consider who you are trying{SAUT}to fool before you engage the trick.{SAUT}I don't trust a word you say.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0476",
+    "en": " Then what if I said... \"Hey baby, how's{SAUT}it hanging!?\" ...Hahaha, I jest!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0478",
+    "en": " You are a pathetic human! A gentleman{SAUT}does not tell lies!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0480",
+    "en": "  You are a good person.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0481",
+    "en": " Thank goodness... And thank you. If my{SAUT}disgrace were to catch wind, I would{SAUT}become a social outcast.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0482",
+    "en": "   Argh! You are something, human!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0483",
+    "en": "Is... Is that so... V-Very well... Ugh!{SAUT}No! My body will not move...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0484",
+    "en": "   What do you have to fear now? Hahaha!{SAUT}Allow me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0486",
+    "en": "   I am no moral philosopher, but you{SAUT}shouldn't do something if your heart{SAUT}isn't in it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0487",
+    "en": "   Hahahahaha! That short temper of yours{SAUT}is proof of your foolishness!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0488",
+    "en": "   Oh be quiet! I've been known to eat{SAUT}conceited children head first!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0489",
+    "en": " You may think I am but an old man, but!{SAUT}You should hear what I have to say!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0490",
+    "en": "{PAGE}Those who are willing to-sell their{SAUT}souls to achieve their desires...{SAUT}They're a dime a dozen!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0491",
+    "en": " It seems you haven't matured enough to{SAUT}understand my austere... Well, that day{SAUT}will come.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0492",
+    "en": "  There's no need to apologize. It only{SAUT}makes it harder on me.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0493",
+    "en": "   Ahh, I knew it... Your smile is{SAUT}beautiful. Much moreso than a banshee's!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0494",
+    "en": "   Ahh, just as I had imagined...{SAUT}Your smile could lead me to Eden!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0495",
+    "en": "   I... I am gross!? M-Me... gross...{SAUT}Gross!? Gross... Gross...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0496",
+    "en": "   So you agree... I have failed as a{SAUT}gentleman, but it is better than being{SAUT}malicious...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0497",
+    "en": " You don't understand! It is because of{SAUT}women like you that my troubles never{SAUT}cease!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0498",
+    "en": "Well... It is not something that can be{SAUT}settled with a smile... Ha... You are{SAUT}a unique young lady...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0499",
+    "en": "   I cannot undersatnd you if you're going{SAUT}to sit here in tears! It is best to{SAUT}ignore women like this.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0500",
+    "en": "No, no! Rumors will spread that I have{SAUT}made a woman cry...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0512",
+    "en": "  That will not do? Then, this is not{SAUT}good... No no, if that won't do, then...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SINSI.BIN:text:0513",
+    "en": "   You say the obvious with such arrogance!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SINSI.BIN:text:0514",
+    "en": "   Ahh! Who could imagine something that{SAUT}felt so good existed in this world!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SINSI.BIN:text:0515",
+    "en": "  ...Oh! M-My shame has been exposed...{SAUT}Wh-What a calamity...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SINSI.BIN:text:0516",
+    "en": "...Oh! Y-You have seen my shame! For{SAUT}that, I must eliminate you!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SINSI.BIN:text:0526",
+    "en": " You are a pathetic human! A lady does{SAUT}not tell lies!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0527",
+    "en": "   I assumed so... People like you lead{SAUT}humanity to destruction... Hahaha...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0533",
+    "en": "   Are you pretending to have no interest{SAUT}in me? I do not mind, but...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0534",
+    "en": "Wha! What are you doing!? Get away from{SAUT}me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0535",
+    "en": "You do not have to cling to me. I...{SAUT}I understand. Please, let go...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0536",
+    "en": "  Excuse me... It must be a technique of{SAUT}a rural school that I am unfamiliar{SAUT}with.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SINSI.BIN:text:0538",
+    "en": "  Then why did you do that to me!?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SINSI.BIN:text:0539",
+    "en": "   So you liked it!? Do my jokes have{SAUT}some kind of lag!?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SINSI.BIN:text:0540",
+    "en": "  ＊ahem＊ Hrmmm! I was clearing my throat.{SAUT}Have you no emotions!?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SINSI.BIN:text:0541",
+    "en": " ＊ahem＊ Hrmmm! I was clearing my throat.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SINSI.BIN:text:0542",
+    "en": "......(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SINSI.BIN:text:0543",
+    "en": " Are you pretending to have no interest{SAUT}in me? I do not mind, but...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0544",
+    "en": "What are you doing!? This sudden change{SAUT}in attitude is not good at all!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0545",
+    "en": "You don't have to yell...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0562",
+    "en": "   Well, I figured that was the case...{SAUT}How utterly absurd!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0563",
+    "en": "   Hmph! That has nothing to do with me in{SAUT}the first place! How utterly absurd!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0564",
+    "en": "   Does this pertain to something else?{SAUT}If so, I am interested in what.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0565",
+    "en": "   Oh, you cannot hear? Then I shall have{SAUT}you answer with your body!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0568",
+    "en": "I have seen the magic of Dr. Faustus,{SAUT}and you are equals!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0569",
+    "en": "  Have you ever seen the sorcery of{SAUT}Dr. Faustus? Or Merlin? Or perhaps{SAUT}Crowley?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0570",
+    "en": "{PAGE}I assume the answer is no! Then do not{SAUT}presume greatness until you have seen{SAUT}the greats!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0571",
+    "en": "I enjoy the fact that you do not become{SAUT}oddly modest. If I travel with you, my{SAUT}days will be anything but boring.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0572",
+    "en": "   Hmmmmm... What fool enjoys this danger{SAUT}being out in the world!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0573",
+    "en": "A person this dangerous roaming through{SAUT}the world freely... How dreadful...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0574",
+    "en": "Child, that is dangerous. It is not a{SAUT}toy, thus, I shall take your weapon.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0575",
+    "en": " As boring as I presumed it would be!{SAUT}I've known that all along!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0576",
+    "en": "Well if that's how you'd put it, then...{SAUT}die! ...Er... I lied. Please, just say{SAUT}you'll tell me someday!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0577",
+    "en": "N-No... You wish to deprive me of sleep{SAUT}that much?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0578",
+    "en": " That is a noble objective! I shall cheer{SAUT}you on from the sidelines.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0579",
+    "en": "So that is your answer... I wonder which{SAUT}is faster: that, or human genocide!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0580",
+    "en": "   I understand gathering gems, but you{SAUT}wish to be a hero in this day and age?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0581",
+    "en": "{PAGE}I am disappointed in you... Go have a{SAUT}sandwich and play with your dolls.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0582",
+    "en": "  No, that's not it! I simply hate you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0583",
+    "en": "  Hmm... I'd rather not admit it, but...{SAUT}perhaps it's true...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0584",
+    "en": "That is incorrect! Nothing is more{SAUT}irksome than a silly answer delivered{SAUT}with a straight face!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0585",
+    "en": " That is correct! I cannot go easy on{SAUT}those who have been raised without any{SAUT}hardships!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0586",
+    "en": " Ha... That is an arrogant opinion,{SAUT}fitting of you humans! ...How wonderful!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0587",
+    "en": "Quite rare for a human to acknowledge{SAUT}his own mistake honestly... It seems{SAUT}I have misunderstood you.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0588",
+    "en": "   Innocent demons are killed over that!?{SAUT}I cannot forgive you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0589",
+    "en": "   Is this the kind of human we should{SAUT}entrust humanity's future to!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0590",
+    "en": " Yes, yes, yes! That time, I see! So...{SAUT}When was that?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0591",
+    "en": "  You do not recall... But either way,{SAUT}I am attracted to you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0592",
+    "en": "Huh? Think before you speak! A gentleman{SAUT}does not flirt!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0593",
+    "en": "   ...Well, no...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0594",
+    "en": " I hope you will use your time for the{SAUT}sake of both the world and the demons.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0595",
+    "en": "   Is that so? Then nothing can be done.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0596",
+    "en": "  You lie! Students are those who study{SAUT}at a school!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0597",
+    "en": " I am sure you are... And yet you stand{SAUT}up to me so boldly! Quite splendid,{SAUT}despite your age!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0598",
+    "en": "   You are not scared? Children are truly{SAUT}fearless these days.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0599",
+    "en": "Fun? You think these bloody days are{SAUT}fun? ＊sigh＊ This is going to give me a{SAUT}headache...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0600",
+    "en": "I see... I have grown weary of this{SAUT}boring life. Perhaps I should accompany{SAUT}you...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0601",
+    "en": " Oh, truly? If you say so, I'm sure that{SAUT}it is... But disappointing nonetheless.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0602",
+    "en": "I am not one to fear danger! Do not{SAUT}underestimate me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0603",
+    "en": "  Hahahaha! Danger is precisely what I am{SAUT}looking for! There is no problem!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0604",
+    "en": "  St-Stop it! Did you plan to take my life{SAUT}out of curiosity!? I am obviously{SAUT}against demon experimentation...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0605",
+    "en": "That is correct! Do you understand now!?{SAUT}If you want something to eat, humans are{SAUT}more delicious!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0606",
+    "en": "  Then you plan to use me for experience?{SAUT}Why should I level you up!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0607",
+    "en": "Ha! Then prove it to me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0608",
+    "en": "   How can you be so sure? There are so{SAUT}many things at this moment that could{SAUT}lead to your extinction!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0609",
+    "en": "You are a wise man. You should give up{SAUT}on humans and become a demon!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0610",
+    "en": "   Haha! You don't care about the human{SAUT}race!?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0611",
+    "en": "{PAGE}...Well... I don't really care what{SAUT}happens to demons, either.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0612",
+    "en": "Master... Just calling you that...{SAUT}Hahaha... Heh heh heh!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0613",
+    "en": "  N-No... You would deny me? ...I won't{SAUT}forgive you for this!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SINSI.BIN:text:0614",
+    "en": "N-No... You would deny me? ...{SAUT}How cruel...(*RESPONSE*)",
+    "fr": ""
+  }
+]

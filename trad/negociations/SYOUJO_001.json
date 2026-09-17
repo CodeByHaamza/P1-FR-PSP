@@ -1,0 +1,518 @@
+[
+  {
+    "id": "SYOUJO.BIN:text:0000",
+    "en": "I don't get what you're saying mister,{SAUT}but I like it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0001",
+    "en": "  Hmm... You're actually pretty reliable,{SAUT}mister.[FFFD]É[F500]  Don't make stuff up!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0002",
+    "en": "   Your story sounds like a big phony to me!{SAUT}Is it for real?[FFFD]α[F500]You just wanna talk to me, don't you?{SAUT}I know I'm cute and all...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0003",
+    "en": "   Hee hee! You're trying to persuade me...{SAUT}In other words, you need me, right?[FFFD][02FF][F500] You're confident, aren't ya mister?{SAUT}But I bet you're all talk!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0004",
+    "en": " You seem strong, mister! So, what are{SAUT}your plans for me?[FFFD][03FF][F500] ...I'm not gonna play with you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0005",
+    "en": "You're a smooth talker, mister![FFFD][04FF][F500]  What's so fun about surprising a{SAUT}demon like me...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0006",
+    "en": " I'm scared...[FFFD][05FF][F500]I don't really get what you're saying,{SAUT}mister, but I feel like I'm being{SAUT}invited.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0007",
+    "en": "  I don't mind thinking about that...{SAUT}but I hate people who promise to pay{SAUT}up later![FFF1](*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0008",
+    "en": "Don't make stuff up!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:text:0009",
+    "en": "   Your story sounds like a big phony to me!{SAUT}Is it for real?[FFFD][06FF][F500]I'm kinda in a hurry right now...{SAUT}Sorry...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0010",
+    "en": " D-Don't tell me you're going to{SAUT}kidnap me...?[FFFD][07FF][F500]You really wanna show off how good you{SAUT}can sing, huh? You're a lousy human!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0011",
+    "en": "Don't act all cool over something like{SAUT}that! I'm way better than you![FFFD][08FF][F500]Y-You're better than me...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0012",
+    "en": " Do they call you Donald or something!?{SAUT}Seriously, just stop...[FFFD][09FF][F500]   You're not nearly as good as me, but I{SAUT}think you have talent.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0013",
+    "en": "  You're pretty good...[FFFD][0AFF][F500]I don't really get what you're saying,{SAUT}miss, but I think I can help you.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0014",
+    "en": "   I don't mind thinking about that...{SAUT}but I hate people who promise to pay{SAUT}up later![FFF1](*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "SYOUJO.BIN:text:0016",
+    "en": "   Your story sounds like a big phony to me!{SAUT}Is it for real?[FFFD][0BFF][F500]You just wanna talk to me, don't you?{SAUT}I know I'm cute and all...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0018",
+    "en": "Helloooo! It's completely obvious that{SAUT}you don't mean it!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0019",
+    "en": "  Don't you have any pride, miss? I hate{SAUT}girls like you more than anything![FFFD][0CFF][F500]Gross! Your real intentions are so{SAUT}obvious!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0020",
+    "en": "Hello... I've heard a lot of rumors{SAUT}about you too, Maki-chan.[FFFD][0DFF][F500]That's right! It's important to{SAUT}recognize peoples' skills!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0021",
+    "en": " I always knew I was too perfect! I even{SAUT}scare myself... squee![FFFD][0EFF][F500]   I don't really get what you're sayin{SAUT}miss, but maybe you're right.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0022",
+    "en": " You're pretty easy to trick, lady.{SAUT}But that makes you so innocent and cute.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0024",
+    "en": "   Your story sounds like a big phony to me!{SAUT}Is it for real?[FFFD][0FFF][F500]You just wanna talk to me, don't you?{SAUT}I know I'm cute and all...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0025",
+    "en": "   Ahahaha! I can't believe a story like{SAUT}that, miss! ...'Course, maybe if you{SAUT}gave me something, it'd be different!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0026",
+    "en": "   You really get it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0027",
+    "en": " I thought you were just stupid, miss.{SAUT}Sorry![FFFD][10FF][F500] Helloooo! It's completely obvious that{SAUT}you don't mean it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0028",
+    "en": "  Don't you have any pride, miss? I hate{SAUT}girls like you more than anything![FFFD][11FF][F500]Hee hee! Modesty is the way to go! Yep!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0029",
+    "en": "I always knew I was too perfect! I even{SAUT}scare myself... squee![FFFD][12FF][F500]   You're so weird! But you have style,{SAUT}so I don't mind!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0030",
+    "en": "  I don't mind going out with your if it's{SAUT}just for dinner... It'll be your treat,{SAUT}right?[FFFD][13FF][F500]  Do I... look easy to pick up on?{SAUT}That kind of sucks...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0031",
+    "en": " Unless you're in a boy band, I'm not{SAUT}interested, and you don't look like{SAUT}you are! Like... at all![FFFD][14FF][F500]I'm scared...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0032",
+    "en": "  I'm scared...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0033",
+    "en": "  No way, are you hitting on me?{SAUT}Too bad you're like a two...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0034",
+    "en": "No way, are you hitting on me?{SAUT}Hmm, what should I do...?[FFFD][15FF][F500] Do you wanna play with me that much?{SAUT}You're such a little boy, mister!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0035",
+    "en": " Ahahaha! I hear entertainers are{SAUT}really smart!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0036",
+    "en": " What's up with that!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0037",
+    "en": "  This is so boring! I don't even get what{SAUT}the joke's supposed to be![FFFD][16FF][F500]  Oh man, so lame...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0038",
+    "en": " Huuuh!? No way! You're a weird guy.[FFFD][17FF][F500]  Ahahaha! My tummy hurts!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0039",
+    "en": "   Hmm... That sounded like the kind of{SAUT}gossip you'd hear from a street punk!{SAUT}But I liked it![FFFD][18FF][F500]   Oh, so that's how it works... Being{SAUT}human sounds tough too.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0040",
+    "en": "Don't you have any more interesting{SAUT}stories?[FFFD][19FF][F500] This isn't the time to be talking about{SAUT}that stuff! Man, you're really killing{SAUT}the mood!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0041",
+    "en": "   Can't you take this negotiation more{SAUT}seriously!? This isn't the time for{SAUT}small talk![FFFD][1AFF][F500] Thanks for telling me a story! Ooh, I'll{SAUT}tell you a great story I know later!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0042",
+    "en": "  Thanks for telling me a story! But what{SAUT}I like most of all is badmouthing people![FFFD][1BFF][F500]You want me to play with you, mister?{SAUT}You're such a little boy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0043",
+    "en": "Wh-What was that just now!?[FFFD][1CFF][F500]  Wh-What the!? Oh, you make me so{SAUT}angry! Screw you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0044",
+    "en": " What's wrong with you!? Are you stupid{SAUT}or something!?[FFFD][1DFF][F500]Yikes! Seriously, what was that for?{SAUT}You're like, sorta out there, mister.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0045",
+    "en": " Are you okay, mister? It's dangerous{SAUT}if you're gonna get that hyper...{SAUT}Calm down a little, okay?[FFFD][1EFF][F500] You're giving me a present?{SAUT}Really...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0046",
+    "en": "  Are you from a rich family? Then you can{SAUT}give me more, right!?[FFFD][1FFF][F500]   Hey! Don't underestimate me! I'm not{SAUT}gonna be coaxed with cheap items!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0047",
+    "en": " I don't want something boring like that!{SAUT}Don't you have anything better?[FFFD][20FF][F500] Yaaaay! I got a present!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0048",
+    "en": "   Hee hee! Make more offerings to me! More![FFFD][21FF][F500]I don't really get what you're saying,{SAUT}mister, but you might be right.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0049",
+    "en": " Hmm... You're actually pretty reliable,{SAUT}mister.[FFFD][22FF][F500]  Hey! Don't make up stuff!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0050",
+    "en": "  Your story sounds like a big phony to me!{SAUT}Is it for real?[FFFD][23FF][F500]You just wanna talk to me, don't you?{SAUT}I know I'm cute and all...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0051",
+    "en": "   Hee hee! You're making a big speech, but{SAUT}what you mean is, you need me, right?[FFFD][24FF][F500]   You're confident, aren't ya miss?{SAUT}But I bet you're all talk!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0052",
+    "en": "   If you say you're strong, mister, I guess{SAUT}you are! So, what are your plans for me?[FFFD][25FF][F500]   ...Fine! See if I play with you anymore!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0053",
+    "en": "   You're a smooth talker, mister![FFFD][26FF][F500]  What's so fun about surprising a{SAUT}demon like me...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0054",
+    "en": " I'm scared...[FFFD][27FF][F500]Say what you want, but you've got one{SAUT}nasty personality, mister...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0055",
+    "en": " Hey, mister, is this your first time{SAUT}talking to a girl?[FFFD][28FF][F500]  I'm actually older than you, you know!{SAUT}Can't ya just act normal?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0056",
+    "en": "   You should brush up on your negotiation{SAUT}skills... If you want to live a long{SAUT}life, that is![FFFD][29FF][F500]  Ahahaha! I get so embarrassed when you{SAUT}praise me that much...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0057",
+    "en": "  Ahahaha! You're smart too, aren't you,{SAUT}mister!?[FFFD][2AFF][F500]  I'm pretty good at doing sexy dances.{SAUT}...I'm not kidding!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0058",
+    "en": "  Wow, you're pretty good! Teach me too{SAUT}next time![FFFD][2BFF][F500] Man, you totally suck. Come back after{SAUT}some practice!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0059",
+    "en": "  Yikes, what're you doing!? The bathroom{SAUT}is that way! You're gonna embarrass{SAUT}yourself if you don't hurry![FFFD][2CFF][F500] That's so cool! I wanna join in!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0060",
+    "en": "   Yayyyyy! This is my first time seeing{SAUT}a human dance![FFFD][2DFF][F500] You're confident, aren't ya mister?{SAUT}But I bet you're all talk!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0061",
+    "en": " You seem strong, mister! So, what are{SAUT}your plans for me?[FFFD][2EFF][F500] See if I play with you anymore!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0062",
+    "en": "You're a smooth talker, mister![FFFD][2FFF][F500]  What's so fun about surprising a{SAUT}demon like me...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0063",
+    "en": " I'm scared...[FFFD][30FF][F500]Oh crap! Is there something on my{SAUT}face?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0064",
+    "en": "What is it? Are {SAUT}[FFF0] that rare?[FFFD][31FF][F500]Hmm? You got a problem or something?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0065",
+    "en": "   Stop staring at me![FFFD][32FF][F500]  You're staring at me all dreamily!{SAUT}Hee hee! It's 'cause I'm cute.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0066",
+    "en": "  Hmm? What's wrong? Never seen a demon{SAUT}as cute as me?[FFFD][33FF][F500] I don't really get what you're saying,{SAUT}mister, but you might be right.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0067",
+    "en": " You're pretty easy to trick, huh mister?{SAUT}But that's what makes you so cute!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0068",
+    "en": "Hey! Don't make up stuff!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0069",
+    "en": "  Your story sounds like a big phony to me!{SAUT}Is it for real?[FFFD][34FF][F500]You just wanna talk to me, don't you?{SAUT}I know I'm cute and all...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0070",
+    "en": "   Ahahaha! I can't believe your story,{SAUT}mister. Of course, it would be{SAUT}different if you gave me something![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0071",
+    "en": "   You're such a kid for believing in{SAUT}something like that!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0072",
+    "en": "So what are you hinting? That I'm like{SAUT}one of those ghosts, too?[FFFD][35FF][F500] Hey, s-stop it! I really don't like{SAUT}stuff like that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0073",
+    "en": "   Eek! Nooo! I'm not one of those demons{SAUT}who likes stuff like that![FFFD][36FF][F500]You know, my stories are much scarier{SAUT}than that! You wanna hear one?[FFFD][37FF][F500] I wanna go to a spooky place on a dare,{SAUT}too! Do you know anywhere I could do{SAUT}something like that?[FFFD][38FF][F500]Hmm, that was pretty good. You've got{SAUT}talent, miss!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0074",
+    "en": "Let's do a duet next time! I'll do{SAUT}Posh's part![FFFD][39FF][F500]  You really wanna show off how good you{SAUT}can sing, huh? You're a lousy human!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0075",
+    "en": "Don't act all cool over something like{SAUT}that! I'm way better than you![FFFD][3AFF][F500]You're not nearly as good as me, but I{SAUT}think you have talent.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0076",
+    "en": "  This feels so nice...[FFFD][3BFF][F500]I wanna play too, okay? How ish it{SAUT}going, Mommy?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0077",
+    "en": "   I'm not that young, you know...{SAUT}Ahahaha...[FFFD][3CFF][F500]   You're the worst! I'm gonna finish{SAUT}you off...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0078",
+    "en": " What a rude human! You don't have any{SAUT}manners at all![FFFD][3DFF][F500]For some reason, I'm feeling all{SAUT}nostalgic...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0079",
+    "en": "  Yaayyyy! This is kinda fun![FFFD][3EFF][F500]  I don't really get what you're saying,{SAUT}miss, but I feel like I'm being invited.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0080",
+    "en": "I don't mind thinking about that...{SAUT}but I hate people who promise to pay{SAUT}up later![FFF1](*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0082",
+    "en": "   Your story sounds like a big phony to me!{SAUT}Is it for real?[FFFD][3FFF][F500]You just wanna talk to me, don't you?{SAUT}I know I'm cute and all...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0083",
+    "en": "   So in other words... you need my card?[FFFD][40FF][F500]   You can say whatever you want, but{SAUT}you're a nasty person...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0084",
+    "en": "Hey, you better brush up on your{SAUT}negotiation skills. You want to live{SAUT}a long life, don't you!?[FFFD][41FF][F500]   You're the worst! I'm gonna finish{SAUT}you off...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0085",
+    "en": " What a rude human! You don't have any{SAUT}manners at all![FFFD][42FF][F500]...Look who's talking, miss look-at-{SAUT}my-bling-bling-that-brings-all-the{SAUT}boys-to-the-yard...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0086",
+    "en": "Don't give me that bullshit,{SAUT}you ＊bleep＊ing little ＊bleep＊...[FFFD][43FF][F500]Huh... So human girls don't care{SAUT}what sex their mate is...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0087",
+    "en": " I don't mind going out with your if it's{SAUT}just to have some tea... It'll be your{SAUT}treat, right?[FFFD][44FF][F500]I'm a girl! I only go with boys!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0088",
+    "en": "   Oh, is that so... then I'll play extra{SAUT}nice with you, heheh![FFFD][45FF][F500] To tell you the truth, you're just my{SAUT}type! I was waiting for you to come{SAUT}talk to me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0089",
+    "en": "＊blush＊ I like you, Ayase...![FFFD][46FF][F500]Stories like that really get to me...{SAUT}＊sniffle＊(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0090",
+    "en": "Cheer up! Not everything in life is bad![FFFD][47FF][F500] You think I'm gonna fall for a trick{SAUT}like that? How stupid are you?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0091",
+    "en": "Will you just quit it!? I already know{SAUT}those are fake tears![FFFD][48FF][F500] I-I didn't do anything! You just started{SAUT}crying for no reason...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SYOUJO.BIN:text:0092",
+    "en": "   Why'd you have to start crying...?[FFFD][49FF][F500]   You're confident, aren't ya ?{SAUT}But I bet you're all talk!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0093",
+    "en": "   You seem strong, miss! So, what are{SAUT}your plans for me?[FFFD][4AFF][F500]   See if I play with you anymore!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0094",
+    "en": "You're a smooth talker, miss![FFFD][4BFF][F500]What's so fun about surprising a{SAUT}demon like me...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0095",
+    "en": " I'm scared...[FFFD][4CFF][F500]You're the worst! I'm gonna finish{SAUT}you off...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0096",
+    "en": " You're so rude all of a sudden! You don't{SAUT}have any manners at all![FFFD][4DFF][F500]   I'm sorry! Please stop, miss...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0097",
+    "en": "Why're you bullying me!?{SAUT}I didn't do anything![FFFD][4EFF][F500]   Ahhh... I think I'm starting to like{SAUT}it when you torment me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0098",
+    "en": "   [FFF3] has been a bad girl...{SAUT}Do that some more![FFFD][4FFF][F500]  I don't really get what you're sayin{SAUT}miss, but maybe you're right.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0099",
+    "en": " Hmm... You're actually pretty reliable,{SAUT}miss.[FFFD][50FF][F500]Don't make stuff up!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0100",
+    "en": "   Your story sounds like a big phony to me!{SAUT}Is it for real?[FFFD][51FF][F500]You just wanna talk to me, don't you?{SAUT}I know I'm cute and all...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0101",
+    "en": "   You're only interested in me for my{SAUT}card, aren't you?[FFFD][52FF][F500]Will you shut up!? Don't make me kill{SAUT}you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0102",
+    "en": " You're so rude all of a sudden! You don't{SAUT}have any manners at all![FFFD][53FF][F500]   I'm sorry...! Please stop, miss!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SYOUJO.BIN:text:0103",
+    "en": "   Why're you scolding me!?{SAUT}I didn't do anything![FFFD][54FF][F500]   You're real full of energy!(*RESPONSE*)",
+    "fr": ""
+  }
+]

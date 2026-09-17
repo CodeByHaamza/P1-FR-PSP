@@ -1,0 +1,540 @@
+[
+  {
+    "id": "ETC.BIN:text:0000",
+    "en": "S.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0001",
+    "en": " [FFEB]Mrrmmm!{SAUT}......{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0002",
+    "en": "{PAGE}> Karma Pride has no intention of{SAUT}negotiating with humans!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0003",
+    "en": "[FFEB]＊yawn＊{SAUT}......{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0004",
+    "en": "{PAGE}> Karma Sloth yawned... It doesn't{SAUT}have the energy to negotiate!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0005",
+    "en": "   [FFEB]Gewah!{SAUT}......{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0006",
+    "en": "{PAGE}> Karma Wrath prefers a heated battle{SAUT}to negotiations!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0007",
+    "en": " [FFEC]Grrrrr...{SAUT}......{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0008",
+    "en": "{PAGE}> Karma Envy is jealous of someone,{SAUT}somewhere... Negotiations are{SAUT}impossible!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0009",
+    "en": "   [FFED]......{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0010",
+    "en": "{PAGE}> Karma Greed seems to want something,{SAUT}but whatever that is, it's not a{SAUT}negotiation!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0011",
+    "en": "  [FFEB]......{ATTENTE}",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "ETC.BIN:text:0012",
+    "en": "{PAGE}> Karma Lust is lost in its own lewd{SAUT}fantasies! Negotiations are impossible!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0014",
+    "en": "{PAGE}> The M.I.B. is not willing to negotiate!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0015",
+    "en": " [FFEB]......{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0016",
+    "en": "{PAGE}> The Agent is not willing to negotiate!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0018",
+    "en": "{PAGE}> The Secret Police are not willing{SAUT}to negotiate!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0019",
+    "en": " (*SPEAKER*)Kali{SAUT}Bones of the underworld... I am the{SAUT}goddess of death and destruction.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0020",
+    "en": "{PAGE}(*SPEAKER*)Kali{SAUT}Surely you have not forgotten me?{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0021",
+    "en": "{PAGE}[FFED](*SPEAKER*)Kwancha{SAUT}Of course not!{ATTENTE}",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "ETC.BIN:text:0022",
+    "en": "{PAGE}(*SPEAKER*)Kwancha{SAUT}But I'm surprised to see you of all{SAUT}deities fooling around with humans.(*OPTION*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "ETC.BIN:text:0023",
+    "en": "   (*SPEAKER*)Kali{SAUT}Worry not. I have my reasons for lending{SAUT}my power to this human.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0024",
+    "en": "{PAGE}(*SPEAKER*)Kali{SAUT}Why don't you join us?{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0025",
+    "en": "{PAGE}[FFEE](*SPEAKER*)Kwancha{SAUT}...If you say so... Very well, human,{SAUT}take my card.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0026",
+    "en": "(*SPEAKER*)Kali{SAUT}Bones of the underworld... I am the{SAUT}goddess of death and destruction.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0032",
+    "en": "{PAGE}[FFEE](*SPEAKER*)Kwancha{SAUT}Even at your request, I have my pride{SAUT}to consider...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0033",
+    "en": "   (*SPEAKER*)Kali{SAUT}Human... You are making a foolish{SAUT}choice. Will you not reconsider?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0034",
+    "en": "{PAGE}[FFED](*SPEAKER*)Kwancha{SAUT}No, no, m'lady! In the end, these{SAUT}humans will learn their lesson!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0035",
+    "en": "{PAGE}(*SPEAKER*)Kwancha{SAUT}I... I should be going now!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0036",
+    "en": "(*OPTION*)",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "ETC.BIN:text:0037",
+    "en": "   (*SPEAKER*)Kali{SAUT}'Tis well... This shall lighten my load.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0038",
+    "en": "{PAGE}[FFEC](*SPEAKER*)Kwancha{SAUT}...This is rather lamentable. A shame to{SAUT}the title of the \"Black One\"...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0039",
+    "en": " (*SPEAKER*)Durga{SAUT}Gdon... Hast thou grown tired of bearing{SAUT}this goddess upon your back?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0040",
+    "en": "{PAGE}[FFEC](*SPEAKER*)Gdon{SAUT}NO... ME YOUR RIDE... ME NO FORGET{SAUT}BATTLE WITH THE ASURA.(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0041",
+    "en": " (*SPEAKER*)Durga{SAUT}That is the past... Now I lend my power{SAUT}to this human.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0042",
+    "en": "{PAGE}(*SPEAKER*)Durga{SAUT}Come, wilt thou be my steed once more?{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0043",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Gdon{SAUT}ME ALWAYS HAPPY TO HELP YOU! HUMAN,{SAUT}TAKE CARD!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0044",
+    "en": "(*SPEAKER*)Durga{SAUT}Gdon... Hast thou grown tired of bearing{SAUT}this goddess upon your back?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0048",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Gdon{SAUT}ME NO LIKE WEAK HUMANS... ME GIVE VAGUE{SAUT}ANSWER...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0049",
+    "en": " [FFED](*SPEAKER*)Gdon{SAUT}GAAAAHHH! YOU NO GET IN WAY OF ME{SAUT}HELPING!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0050",
+    "en": "{PAGE}(*SPEAKER*)Durga{SAUT}Gdon, thou art before me, calm thyself!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0051",
+    "en": "  [FFED](*SPEAKER*)Gdon{SAUT}ME STILL NOT HAPPY! ME GO HOME!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0052",
+    "en": " [FFEB](*SPEAKER*)Gdon{SAUT}AWOOOO! ME CAN ONLY DO THIS MUCH.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0053",
+    "en": "{PAGE}(*SPEAKER*)Gdon{SAUT}HUMAN, TAKE CARE OF M'LADY!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0054",
+    "en": "(*SPEAKER*)Pyro Jack{SAUT}Hee-ho, Jack bro! Hee-how's it goin',{SAUT}ho?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0055",
+    "en": "{PAGE}[FFEE](*SPEAKER*)Pyro Jack{SAUT}Hee-huh? Why are you a Persona, ho?{SAUT}I'm jealous...(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0056",
+    "en": "   (*SPEAKER*)Pyro Jack{SAUT}Hee-ho! Give your card to this{SAUT}hee-human, ho!{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0057",
+    "en": "{PAGE}(*SPEAKER*)Pyro Jack{SAUT}Then you can become a Persona, ho!!{ATTENTE}",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "ETC.BIN:text:0058",
+    "en": "{PAGE}(*SPEAKER*)Pyro Jack{SAUT}Hmmmm...{ATTENTE}",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "ETC.BIN:text:0059",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Pyro Jack{SAUT}Alright! You, ho! Take my card, hee-ho!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0060",
+    "en": " (*SPEAKER*)Pyro Jack{SAUT}Hee-ho, Jack bro! Hee-how's it goin',{SAUT}ho?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0065",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Pyro Jack{SAUT}But I wanna give it to a stronger{SAUT}hee-human, ho!(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0066",
+    "en": "[FFEC](*SPEAKER*)Pyro Jack{SAUT}Awww... You're mean, ho...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0067",
+    "en": " (*OPTION*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "ETC.BIN:text:0068",
+    "en": "   (*SPEAKER*)Pyro Jack{SAUT}Hmmm... Is it me, or am I still just a{SAUT}demon, ho?{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0069",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Pyro Jack{SAUT}Hmmm... Must just be me, hee-ho! See ya{SAUT}later, ho! Bye-bye!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0070",
+    "en": "  (*SPEAKER*)Jack Frost{SAUT}Hee-ho, Jack bro! Hee-how's it goin',{SAUT}ho?{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0071",
+    "en": "{PAGE}[FFEE](*SPEAKER*)Jack Frost{SAUT}Hee-huh? Why are you a Persona, ho?{SAUT}I'm jealous...(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0072",
+    "en": " (*SPEAKER*)Jack Frost{SAUT}Hee-ho! Give your card to this{SAUT}hee-human, ho!{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0073",
+    "en": "{PAGE}(*SPEAKER*)Jack Frost{SAUT}Then you can become a Persona, ho!!{ATTENTE}",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "ETC.BIN:text:0075",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Jack Frost{SAUT}Alright! You, ho! Take my card, hee-ho!(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0080",
+    "en": "{PAGE}(*SPEAKER*)Jack Frost{SAUT}Hmmmm...{ATTENTE}",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "ETC.BIN:text:0081",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Jack Frost{SAUT}But I wanna give it to a stronger{SAUT}hee-human, ho!(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0082",
+    "en": "[FFEC](*SPEAKER*)Jack Frost{SAUT}Awww... You're mean, ho...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0084",
+    "en": "   (*SPEAKER*)Jack Frost{SAUT}Hmmm... Is it me, or am I still just a{SAUT}demon, ho?{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0085",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Jack Frost{SAUT}Hmmm... Must just be me, hee-ho! See ya{SAUT}later, ho! Bye-bye!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0086",
+    "en": "(*SPEAKER*)Pryo Jack{SAUT}Hee-ho, Jack bro! Hee-how's it goin',{SAUT}ho?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0087",
+    "en": "{PAGE}[FFEE](*SPEAKER*)Jack Frost{SAUT}Hee-huh? Why are you a Persona, ho?{SAUT}I'm jealous...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0088",
+    "en": "  (*SPEAKER*)Pryo Jack{SAUT}Hee-ho! Give your card to this{SAUT}hee-human, ho!{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0092",
+    "en": "   (*SPEAKER*)Pryo Jack{SAUT}Hee-ho, Jack bro! Hee-how's it goin',{SAUT}ho?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0098",
+    "en": "  [FFEC](*SPEAKER*)Jack Frost{SAUT}Awww... You're mean, ho...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0102",
+    "en": "(*SPEAKER*)Jack Frost{SAUT}Hee-ho, Jack bro! Hee-how's it goin',{SAUT}ho?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0103",
+    "en": "{PAGE}[FFEE](*SPEAKER*)Pyro Jack{SAUT}Hee-huh? Why are you a Persona, ho?{SAUT}I'm jealous...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0104",
+    "en": "  (*SPEAKER*)Jack Frost{SAUT}Hee-ho! Give your card to this{SAUT}hee-human, ho!{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0106",
+    "en": "{PAGE}(*SPEAKER*)Pryo Jack{SAUT}Hmmmm...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0107",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Pryo Jack{SAUT}Alright! You, ho! Take my card, hee-ho!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0108",
+    "en": "   (*SPEAKER*)Jack Frost{SAUT}Hee-ho, Jack bro! Hee-how's it goin',{SAUT}ho?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0114",
+    "en": "  [FFEC](*SPEAKER*)Pyro Jack{SAUT}Awww... You're mean, ho...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0118",
+    "en": "  (*SPEAKER*)Pixie{SAUT}Hey there, how's it going, Pixie?{SAUT}Look, I'm a Pixie too.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0119",
+    "en": "{PAGE}[FFEE](*SPEAKER*)Pixie{SAUT}No way!{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0120",
+    "en": "{PAGE}(*SPEAKER*)Pixie{SAUT}Hahaha! I'm all big and... clear!{SAUT}What's up with that?(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0121",
+    "en": "(*SPEAKER*)Pixie{SAUT}They made me into a Persona. Now I go{SAUT}for walks with this human.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0122",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Pixie{SAUT}Hmm... That sounds pretty cool. Hey,{SAUT}you should take my card with you too!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0123",
+    "en": "(*SPEAKER*)Pixie{SAUT}Hey there, how's it going, Pixie?{SAUT}Look, I'm a Pixie too.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0127",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Pixie{SAUT}Hmm... Well, if I were you, which I am,{SAUT}I woulda picked a stronger human!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0128",
+    "en": " [FFEC](*SPEAKER*)Pixie{SAUT}Waaaaaah! No fair! You're playing{SAUT}favorites...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0129",
+    "en": " [FFED](*SPEAKER*)Pixie{SAUT}...Hmph! Fine! One of these days I'll{SAUT}make you eat pixie lead!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0130",
+    "en": " [FFEB](*SPEAKER*)Pixie{SAUT}Yay! See ya later then, big me and{SAUT}Mr. Human!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0131",
+    "en": "  (*SPEAKER*)Shiva{SAUT}Still only one tusk, my son? You{SAUT}should just break it off...{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0132",
+    "en": "{PAGE}[FFEC](*SPEAKER*)Ganesha{SAUT}Very well... Mother will be sad, but I{SAUT}shall break my tusk per your command...(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0133",
+    "en": "  (*SPEAKER*)Shiva{SAUT}Hmph, enough jesting. My son, I ask{SAUT}that you lend this human your power.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0134",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Ganesha{SAUT}As you wish, father. Son of man, take{SAUT}my card.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0138",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Ganesha{SAUT}Excuse my insolence, father, but I am a{SAUT}god. I cannot serve under man...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0139",
+    "en": "(*SPEAKER*)Shiva{SAUT}Fool... My son may be disfigured,{SAUT}but I assure you, he is strong.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0140",
+    "en": "{PAGE}[FFED](*SPEAKER*)Ganesha{SAUT}Father, it is fine. Such are the limits{SAUT}of humanity.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0141",
+    "en": "{PAGE}(*SPEAKER*)Ganesha{SAUT}I must excuse myself.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0142",
+    "en": "   (*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0143",
+    "en": "   [FFEC](*SPEAKER*)Ganesha{SAUT}Father... You must make more Amrita{SAUT}soon, or we shall all be parched...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0144",
+    "en": "{PAGE}(*SPEAKER*)Shiva{SAUT}I know! Go and finish your composition!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0145",
+    "en": "  (*SPEAKER*)Shiva{SAUT}Bones of the underworld! I am the{SAUT}great and supreme destroyer!{ATTENTE}",
+    "fr": ""
+  }
+]

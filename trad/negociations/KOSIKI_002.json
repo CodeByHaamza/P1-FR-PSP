@@ -1,0 +1,502 @@
+[
+  {
+    "id": "KOSIKI.BIN:text:0100",
+    "en": "Thou heedest me not? Then thou hast{SAUT}underestimated me![FFFD][5DFF][F500]   ...I have committed no wrongs...{SAUT}At least, I do not believe I have...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0101",
+    "en": "  Pardon me, o wanderer...[FFFD][5EFF][F500] Thou hast confidence in spades... yet{SAUT}I cannot help but wonder how easily it{SAUT}it shaken...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0102",
+    "en": "  What? Hast thou no business with me?[FFFD][5FFF][F500] Thy confidence runneth over... Yet thou{SAUT}hast chosen the wrong opponent!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0103",
+    "en": "Thou heedest me not? Then thou hast{SAUT}underestimated me![FFFD][60FF][F500]   ...I have committed no wrongs...{SAUT}At least, I do not believe I have...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0104",
+    "en": "  Pardon me, o wanderer...[FFFD][61FF][F500] Thou hast confidence. A battle with thee{SAUT}would be most enjoyable.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0105",
+    "en": "  Thou art confident in thy strength...{SAUT}What wouldst thou do with me?[FFFD][62FF][F500]  Shall I be thine opponent?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0106",
+    "en": " Thy tongue weaveth a grand tapestry, but{SAUT}it shalt fall mute if thou hast not the{SAUT}fortitude to back thy words...[FFFD][63FF][F500]  Thou art an extortionist, knave? I have{SAUT}no coin for thee.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0107",
+    "en": "  Hm? That scowl...[FFFD][64FF][F500]Wh-What!? I was startled...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0108",
+    "en": "What art thou doing, scoundrel!?[FFFD][65FF][F500] Eeeeek! What madness is this!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0109",
+    "en": " I shall take no action... Calm thy{SAUT}nerves...[FFFD][66FF][F500] Thou art quite eccentric. I, however,{SAUT}am offended not.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0110",
+    "en": " Thou art no ordinary fellow... Perhaps{SAUT}thou art my type...[FFFD][67FF][F500]   Thou desirest my attentions so? Thou{SAUT}art quite winsome.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0111",
+    "en": "Art thou a practicioner of the dark{SAUT}arts? I shall request a water illusion{SAUT}of thee.[FFFD][68FF][F500]  What strange powers thou commandest...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0112",
+    "en": " Dost thou mean to smite me with thy{SAUT}arcane forces?[FFFD][69FF][F500]   Canst thou conjure objects? I wish for{SAUT}a jewel...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0113",
+    "en": "  I wouldst liken thy skill to that of the{SAUT}famed magician of thy world... Houdini,{SAUT}was it not?[FFFD][6AFF][F500] Hahaha, thy story inspires laughter.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0114",
+    "en": "   More matter, less art.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0115",
+    "en": " Conversing with thee is most enjoyable,{SAUT}but hast thou anything greater to offer?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0116",
+    "en": "  I shall hear thee! I would not wish{SAUT}regret upon one who comes so close to{SAUT}departing the mortal coil.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0117",
+    "en": "   I am not the least bit interested!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0118",
+    "en": " If thou wouldst have an audience with me,{SAUT}there is something to be done first![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0119",
+    "en": "...Thou speakest as though possessed{SAUT}by spirits...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0120",
+    "en": " I understand thy words, but due to{SAUT}circumstances thou couldst not percieve,{SAUT}I must decline...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0121",
+    "en": "  Thy stories hold great interest. It{SAUT}hath been ages since words hath{SAUT}refreshed me so.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0122",
+    "en": "   Hahaha, a ploy such as that to garner{SAUT}my attention? How amusing...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0123",
+    "en": " Hahaha, I am quite amused... I desire{SAUT}to speak with thee further...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0124",
+    "en": "I can see thy true intentions like a{SAUT}pool of clear water... Thou art{SAUT}interested in me, art thou not?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0125",
+    "en": "   Thou art shrewd to take notice of my{SAUT}power!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0126",
+    "en": "I am wont to concede to thy wishes, but{SAUT}first... Hast thou anything to offer me?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0127",
+    "en": "  Thou art but a commoner! Know thy place!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0128",
+    "en": "   Dost thou know me!? I am the almighty{SAUT}[FFF3] the [FFF0]!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0129",
+    "en": "{PAGE}I have no intentions of negotiating{SAUT}with humans!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0130",
+    "en": "   How presumptuous! 'Tis my orders that{SAUT}are to be followed, not thine![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0131",
+    "en": "  I could lend thee power, but due to{SAUT}circumstances thou couldst not percieve,{SAUT}I must decline...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0132",
+    "en": " I can see thy true intentions like a{SAUT}pool of clear water... Thou desirest{SAUT}my fortune...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0133",
+    "en": "'Tis my decision not to lend thee my{SAUT}strength...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0134",
+    "en": "   Thou desirest me? How adorable! I could{SAUT}swallow thee right up!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0135",
+    "en": " Hahaha... Carry on.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0136",
+    "en": "Hahaha... It seems my charms hath not{SAUT}fallen victim to time!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0137",
+    "en": "   Is it thine intention to rouse my anger?{SAUT}Perhaps thou hast reason I cannot{SAUT}fathom...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0138",
+    "en": "   'Twas hardly an action worthy of a demon{SAUT}negotiator. Stay thy rage.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0139",
+    "en": "What child's play...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0140",
+    "en": "{PAGE}If thou desirest my favors, there is but{SAUT}one way... Thou knowest it, yes?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0141",
+    "en": "   I shall exact punishment upon impudent{SAUT}fools such as thee!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0142",
+    "en": " Because thou art an insolent knave,{SAUT}I can smite thee without reserve!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0143",
+    "en": "  How uncouth! I am wont to punish such{SAUT}impudent foolery!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0144",
+    "en": "{PAGE}If thou art frightened at the thought,{SAUT}pacify me with treasure![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0145",
+    "en": "  Such vulgar acts thou choosest to{SAUT}display in my presence...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0146",
+    "en": "How uncouth... Woe is me, thou hast{SAUT}roused my ＊hic＊ chronic ＊hic＊ hiccups...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0147",
+    "en": "   Insolent knave...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0148",
+    "en": "  Conceited, yet rather adorable...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0149",
+    "en": "  Excellent! 'Tis best to do what suits{SAUT}thee whilst thou art young.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0150",
+    "en": "  Haha, bravo! Children should be raised{SAUT}in such an environment.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0151",
+    "en": " The curtain of inexperience hangeth upon{SAUT}thy act. With effort, thou shalt master{SAUT}it. Lose not thy faith.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0152",
+    "en": "   I would see that once more when thou{SAUT}hast improved...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0153",
+    "en": "  Thou hast much to learn... If thou{SAUT}wouldst have my lessons, I shall require{SAUT}proper payment.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0154",
+    "en": "   I am unamused...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0155",
+    "en": "   Pathetic...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0156",
+    "en": "   Didst thou plan to charge a fee for{SAUT}that!? 'Tis I who deserve a fee![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0157",
+    "en": "  I do not understand...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0158",
+    "en": " Is that some manner of witchcraft?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0159",
+    "en": " Thou art well-versed in thine art...{SAUT}I am impressed.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0160",
+    "en": "   Perhaps 'tis I who should request{SAUT}lessons of thee.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0161",
+    "en": " Ah! One more time!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0162",
+    "en": " They say no good cometh hence from{SAUT}humans, but... I find myself intrigued.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0163",
+    "en": " Thou desirest to take me with thee?{SAUT}Thinkest thou hast the requisite{SAUT}confidence to fetter me?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0164",
+    "en": "  If thou wouldst have my trust, thou{SAUT}wouldst do well to produce something{SAUT}to dazzle mine eyes.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0165",
+    "en": " Those who would mock me shall pay{SAUT}with their lives!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0166",
+    "en": "Thou wouldst have me twist the{SAUT}dagger into the backs of my sisters{SAUT}for that!? Never!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0167",
+    "en": "   What would become of thee were my{SAUT}brethren to hear of this!? If thy{SAUT}desire is to silence me, then...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0168",
+    "en": "  Wh-What art thou doing? I... I shall{SAUT}apologize, so...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0169",
+    "en": "  What wouldst thou do with me after{SAUT}that...? Someone, save me...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0170",
+    "en": "   Why dost thou treat me so...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0171",
+    "en": "  Hahaha...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0172",
+    "en": "  Ah, thy resolution is admirable...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0173",
+    "en": " I know that is not thy true{SAUT}intention... Yet... perhaps it is my{SAUT}desire to be deceived by thee...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0174",
+    "en": "  I know not thy wishes, but thou art{SAUT}not so weak as to rely on such... base{SAUT}strategies.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0175",
+    "en": " 'Tis well. I favor those who know their{SAUT}place.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0176",
+    "en": " Well, thou weren't a match for me from{SAUT}the onset!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0177",
+    "en": "  I am of noble lineage... Thou cannot{SAUT}hope to fool me with such antics!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0178",
+    "en": " Thou wishest not to rouse my fury, dost{SAUT}thou? Then listen well![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0179",
+    "en": "   What hath come over thee? ...Something{SAUT}is amiss...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0180",
+    "en": " Thou art truly angered, art thou not?{SAUT}Then speak thusly...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0181",
+    "en": " Hahaha! Humans are but slaves of demons!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0182",
+    "en": "   Hahahahahaha! Now beg for mercy![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0183",
+    "en": "  So rumors of me hath graced the ears of{SAUT}even the lowly humans... Thou shouldst{SAUT}offer me something.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0184",
+    "en": "Thou hast my spell card, I see. Keep it{SAUT}safe.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0185",
+    "en": "  Take this.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0186",
+    "en": " Oh, you speak truly?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0187",
+    "en": "   Unfortunate as it may be, our tastes{SAUT}are ill-aligned.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0188",
+    "en": "  ...I grow weary of thy arrogance.{SAUT}...Thou art much too weak.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0189",
+    "en": "   Then at least...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0190",
+    "en": "   Until we meet again.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0191",
+    "en": "   Take more!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0192",
+    "en": " I must be on my way.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0193",
+    "en": "   If thou wouldst make me a Persona,{SAUT}grant me both strength and beauty.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0194",
+    "en": "  I cannot bear it! I shall give this{SAUT}unto thee. Please forgive me!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0195",
+    "en": "  If negotiatons with thee are of no{SAUT}value, then I shall take my leave.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0196",
+    "en": "  Take this and begone!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0197",
+    "en": "  What a vile stench thou must have...{SAUT}Hmm... What to do...?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0198",
+    "en": " I grow weary of thinking! I shall give{SAUT}thee my spell card and be done with it!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0199",
+    "en": " There art no bonds stronger than fate...{SAUT}Thou shalt be my master evermore...(*RESPONSE*)",
+    "fr": ""
+  }
+]

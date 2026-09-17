@@ -178,8 +178,12 @@ def mention(sante):
     tags = [etiquette(a) for a in sante["avertissements"]]
     if not tags:
         return ""
-    for tag, mot in (("OCTETS", "à alléger"), ("TERMINO", "terme"),
-                     ("LARGEUR", "trop large"), ("BUDGET", "à vérifier")):
+    for tag, mot in (
+        ("OCTETS", "à alléger"),
+        ("TERMINO", "terme"),
+        ("LARGEUR", "trop large"),
+        ("BUDGET", "à vérifier"),
+    ):
         n = tags.count(tag)
         if not n:
             continue
@@ -293,6 +297,24 @@ def grouper_avertissements(sante):
     return groupes
 
 
+def totaux(sections):
+    """(traduits, total) sur toutes les zones, y compris celles pas encore
+    ouvertes, comptees a leur volume attendu."""
+    return sum(t for *_, t in sections), sum(tot for *_, tot, _ in sections)
+
+
+def couleur(pct):
+    return "brightgreen" if pct >= 80 else "green" if pct >= 50 else "orange" if pct >= 20 else "red"
+
+
+def ecrire_badge(chemin: Path, label: str, fait: int, tout: int):
+    """Format « endpoint » de shields.io."""
+    pct = round(100 * fait / tout) if tout else 0
+    badge = {"schemaVersion": 1, "label": label, "message": f"{pct} %", "color": couleur(pct)}
+    chemin.parent.mkdir(parents=True, exist_ok=True)
+    chemin.write_text(json.dumps(badge, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+
+
 def rendre(sections, reservations, sante):
     lignes = [
         "# Avancement de la traduction",
@@ -317,6 +339,12 @@ def rendre(sections, reservations, sante):
             f"{nom:<14} {barre(traduits, total)}  {pct:>3} %   " f"{milliers(traduits):>6} / {milliers(total)} textes"
         )
 
+    # Le total du projet, toutes zones confondues, zones fermees comprises :
+    # c'est le chiffre qui dit ou en est le jeu, pas une de ses parties.
+    fait, tout = totaux(sections)
+    pct = round(100 * fait / tout) if tout else 0
+    lignes.append("")
+    lignes.append(f"{'Total':<14} {barre(fait, tout)}  {pct:>3} %   {milliers(fait):>6} / {milliers(tout)} textes")
     lignes += ["```", ""]
 
     # Ce qui demande une action passe avant l'inventaire : quelqu'un qui vient
@@ -418,18 +446,13 @@ def main(argv=None):
     sortie = args.sortie or racine / "SUIVI.md"
     sortie.write_text(rendre(sections, reservations, sante), encoding="utf-8")
 
-    # Le badge du README : format « endpoint » de shields.io.
-    principal = sections[0]
-    pct = round(100 * principal[4] / principal[3]) if principal[3] else 0
-    badge = {
-        "schemaVersion": 1,
-        "label": "traduction",
-        "message": f"{pct} %",
-        "color": "brightgreen" if pct >= 80 else "orange" if pct >= 20 else "red",
-    }
-    chemin_badge = racine / ".github" / "badge.json"
-    chemin_badge.parent.mkdir(parents=True, exist_ok=True)
-    chemin_badge.write_text(json.dumps(badge, indent=2) + "\n", encoding="utf-8")
+    # Les badges du README : un pour le jeu entier, un par zone. Le badge
+    # principal comptait autrefois les seuls dialogues, ce qui faisait dire
+    # « 20 % » a un projet dont les menus et les donjons etaient finis.
+    fait, tout = totaux(sections)
+    ecrire_badge(racine / ".github" / "badge.json", "traduction", fait, tout)
+    for nom, sous_dossier, _par_fichier, total, traduits in sections:
+        ecrire_badge(racine / ".github" / f"badge_{Path(sous_dossier).name}.json", nom.lower(), traduits, total)
 
     for nom, _, _, total, traduits in sections:
         print(f"  {nom:<14} {traduits} / {total}")

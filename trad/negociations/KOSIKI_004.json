@@ -1,0 +1,515 @@
+[
+  {
+    "id": "KOSIKI.BIN:text:0310",
+    "en": "  Haha, ordinary men cannot comprehend.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0311",
+    "en": "  Ordinary men cannot comprehend!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:text:0312",
+    "en": "O, that I were naught but a nameless{SAUT}flower such as thee...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:text:0313",
+    "en": "Hmph... Is this thy true intention!?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:text:0322",
+    "en": "   Ah, thy jest is frightful.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0323",
+    "en": " Thou art clever indeed!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0324",
+    "en": "I was mistaken! Thou art but a jester!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0325",
+    "en": " Haha, ordinary men cannot comprehend.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0328",
+    "en": "Just for tea...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0329",
+    "en": "   Thou darest to humiliate me!? Insolent{SAUT}scallywag!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0330",
+    "en": "  Thy heart is steeped in craven cruelty{SAUT}to embarrass me so...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0331",
+    "en": "   All things hath an order. One mustn't{SAUT}be negligent.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0332",
+    "en": "Sometimes the use of adequate force is{SAUT}desirable.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0333",
+    "en": "  Thinkest me not a vulgar woman...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0334",
+    "en": "  My kingdom that I might peer into thy{SAUT}heart...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:text:0335",
+    "en": " Thou art in the right! There is little{SAUT}gained from brooding!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:text:0336",
+    "en": "   Wouldst thou have me tell thee that{SAUT}this is fatally unamusing!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0337",
+    "en": "Haha, wouldst thou have me tell thee{SAUT}that this is fatally unamusing?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0338",
+    "en": "   This time, 'tis comical!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0339",
+    "en": "   No... Suspicion hangeth upon thee like{SAUT}a leaden weight...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0340",
+    "en": "  I hath placed my trust in thee thus{SAUT}far, but... So be it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0341",
+    "en": "  So thou art indeed a spy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0342",
+    "en": "  Hahaha, check thy temper; 'tis but a{SAUT}jest.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0343",
+    "en": " Hahaha, thou art lacking in knowledge.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0344",
+    "en": " Methinks the space betwixt thy ears is{SAUT}vacant. I deal not with the ignorant!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0345",
+    "en": "   Thou shouldst excercise more caution.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0346",
+    "en": "  ...I had business to attend to... But{SAUT}what was it?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0347",
+    "en": " Now that I think on it, we were in the{SAUT}midst of a duel!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0348",
+    "en": "What a hopeless coward.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0349",
+    "en": "What language art thou speaking!? An{SAUT}unruly brat, thou art.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0350",
+    "en": "What language art thou speaking? It is{SAUT}Greek to me.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0351",
+    "en": "How vulgar...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0352",
+    "en": "  Oh my, how embarrassing...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0353",
+    "en": " Hmph! Thou wouldst dare make a villain{SAUT}of me!? The outrage!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0354",
+    "en": "Please, tell me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0355",
+    "en": "   It vexeth me... Please, tell me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0356",
+    "en": "   Even if thou were to relate it to{SAUT}me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0357",
+    "en": "Hahaha, I cannot fathom it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0358",
+    "en": "Thou hast not the right to call me rude.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0359",
+    "en": "   If I am rude, then thou art a jester.{SAUT}Be it so, a trinket from thee, jester.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0360",
+    "en": "  ...I feel relieved.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0361",
+    "en": "Wh-What...?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOSIKI.BIN:text:0362",
+    "en": "What is it!? I shan't waste time on{SAUT}fools and churls!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:text:0363",
+    "en": "  Thou art my golden goose!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0364",
+    "en": "  Thou art my golden goose. So...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0365",
+    "en": "   Hmm, I am loathe to admit it, but thou{SAUT}art of sound temperment. I could rely on{SAUT}thee.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0366",
+    "en": "  Thou art 100 years too young to{SAUT}reprimand me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0367",
+    "en": "  Not a soul in the last 100 years hath{SAUT}dared to reprimand me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0368",
+    "en": " Is that so...? I thank thee.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0369",
+    "en": "   Hmph! 'Tis only natural that humans{SAUT}desireth my heart!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0370",
+    "en": " But of course.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0371",
+    "en": " That was sarcasm, dolt!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0372",
+    "en": "That maketh thee rather adorable.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0375",
+    "en": "  I trust thee as I trust a sleeping{SAUT}serpent!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:text:0379",
+    "en": "   You speak thusly after thou makest such{SAUT}threats? Thou art a vexing being.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0380",
+    "en": "  Ha! Art thou so confident?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "KOSIKI.BIN:text:0386",
+    "en": " Conceited knave! Divine retribution{SAUT}will smite thee!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "KOSIKI.BIN:text:0387",
+    "en": "   Conceited knave! Divine retribution{SAUT}will strike thee down...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOSIKI.BIN:text:0388",
+    "en": "   Thou art a conceited but honest child.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:text:0389",
+    "en": " Thou shouldst excercise caution!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOSIKI.BIN:text:0390",
+    "en": "   ...Oh! Upon further inspection, I find{SAUT}thee quite gallant.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0391",
+    "en": " Hmph! I hath half a mind to rip thy{SAUT}tongue out!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0392",
+    "en": "Thy compliments are hollow! Thou hast{SAUT}been hoisted by thine own petard!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0393",
+    "en": "Thy compliments are hollow. Thou art a{SAUT}victim of thine own tricks, so I shall{SAUT}take something as thy punishment.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0394",
+    "en": "   Foolish? Who dost thou speak of?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0395",
+    "en": "   Hahaha, 'tis only natural when one has{SAUT}abilities such as mine.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0396",
+    "en": " Dost thou mean to say I am not up to it?{SAUT}Thou hast not the eye to judge!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0397",
+    "en": "   Nay, it is quite possible. I may appear{SAUT}frail, but I am an able participant{SAUT}in physical labors when required.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0398",
+    "en": "  Hahaha, 'twas jest! That is a dance,{SAUT}correct?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0399",
+    "en": "  I thought as much, but 'twas so very{SAUT}pathetic!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0400",
+    "en": " Thou hast a body capable of great feats{SAUT}of strength. I shall speak no more of{SAUT}it...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0401",
+    "en": "Why dost thou stop? I beeseech thee,{SAUT}continue thy dance!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0402",
+    "en": "   Why dost thou stop!? Hmph! Thou art a{SAUT}sadistic human!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0403",
+    "en": "  You speak thusly after thou makest such{SAUT}threats? Thou art a vexing being.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0411",
+    "en": "   Conceited knave. Divine retribution{SAUT}will strike thee down...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0412",
+    "en": "   Thou speakest nonsense! Were a hole to{SAUT}blemish my face, my beauty would fade!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0413",
+    "en": "  I trust thee as I trust a sleeping{SAUT}serpent.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0414",
+    "en": "Haha, I was toying with thee. No harm{SAUT}was meant...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0415",
+    "en": " Hahaha, thou wanderest in the darkness{SAUT}in search of love?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0416",
+    "en": "  I said only what was right...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0417",
+    "en": "  Thou art nothing short of ill-bred!{SAUT}I shall teach thee manners!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0418",
+    "en": "Thou still art but a youth. Please,{SAUT}forgive my oversight.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0419",
+    "en": "  Thou art a child who cannot even issue{SAUT}a proper challenge! How laughable!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0420",
+    "en": "  Hahaha... It seemeth thou art{SAUT}uncomfortable issuing a challenge.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0430",
+    "en": "   Never hath I met a more insolent being{SAUT}than thee...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0431",
+    "en": "Never hath I met a more insolent being{SAUT}than thee!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0432",
+    "en": "  Thinkest thou so? Thou hast{SAUT}disctinction worthy of my taking{SAUT}something from thee.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0433",
+    "en": " I can protect myself!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0434",
+    "en": "  Hahaha, if thou art protecting me, my{SAUT}dear sister, we have naught to fear.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0435",
+    "en": " D-Do not leave me behind...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0436",
+    "en": "Be that thy true intent? Thou canst{SAUT}remain calm only because thou knowest{SAUT}not the true fear of ghost stories...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0437",
+    "en": "How daring a woman thou art! I like{SAUT}thee.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0438",
+    "en": "  Art thou hesitant? Women must be bold!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0439",
+    "en": " O, thou knowest not thine own strength?{SAUT}Then I have no further words for thee!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0440",
+    "en": " Haha, thou wouldst stand up to me?{SAUT}'Tis like the mouse before the lioness...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0441",
+    "en": "   Haha, that is for thine own sake.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0442",
+    "en": "  Hmm... Thou art not wanting for{SAUT}confidence...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0446",
+    "en": "Were I to eat thy tongue, perhaps I too,{SAUT}could sing as the nightingale!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0447",
+    "en": "Haha, o that I could sing as thou{SAUT}dost...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOSIKI.BIN:text:0448",
+    "en": "  ...That was sarcasm, was it not!?(*RESPONSE*)",
+    "fr": ""
+  }
+]

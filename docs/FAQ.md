@@ -73,10 +73,16 @@ validés en jeu. C'est aussi pour ça qu'on ne les brade pas : écris un vrai
 français.
 
 **Pourquoi certaines choses ne sont-elles pas ouvertes à la traduction ?**
-Les négociations avec les démons représentent 17 400 lignes, mais l'extracteur
-en perd 535. Traduire sur une source trouée, c'est du travail à refaire. Pareil
-pour les objets et les sorts, dont on n'a pas encore cartographié les zones
-dans l'exécutable. Ça viendra.
+Les objets, les armes et les sorts descriptifs ont déjà été arbitrés en privé
+(1 427 noms) et attendent d'être reportés dans l'exécutable ; les noms de démons,
+de Personas et les sorts signature restent en anglais. Tout le reste est ouvert,
+négociations comprises depuis septembre 2026.
+
+**Les aliens parlent en chiffres, c'est normal ?**
+Oui. Dans `trad/negociations/ALIEN_*.json`, les démons extraterrestres
+s'expriment en suites de chiffres — c'est le jeu d'origine, pas un bug
+d'extraction. Ces lignes sont déjà remplies à l'identique, il n'y a rien à
+traduire.
 
 **Comment je teste ma traduction en jeu ?**
 Tu n'as pas à le faire. Les mainteneurs réinjectent et publient un correctif de

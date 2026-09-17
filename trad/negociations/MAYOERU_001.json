@@ -1,0 +1,503 @@
+[
+  {
+    "id": "MAYOERU.BIN:text:0000",
+    "en": "Man of flesh... How bizarre of you to{SAUT}want [FFF3]...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0001",
+    "en": "Uuuurh! [FFF3] has nowhere to{SAUT}go...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0002",
+    "en": " Uiii! Man of flesh...{SAUT}[FFF3] is happy.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0003",
+    "en": "  Man of flesh... What do you gain by{SAUT}challenging [FFF3]?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0004",
+    "en": " Uuuurh! I feel anger! [FFF3]{SAUT}will make that body belong to{SAUT}[FFF3]!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0005",
+    "en": "   Is it fun to threaten [FFF3]{SAUT}with no place to call home...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0006",
+    "en": " Never imagined being asked to join{SAUT}humans... Man of flesh, you have good{SAUT}soul.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0007",
+    "en": " Uuurh! [FFF3] has pride too!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0008",
+    "en": "Augh... Those of flesh invite a{SAUT}[FFF0]...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0009",
+    "en": "   Uuuuurh! Stop bad singing! This spirit{SAUT}will go insane!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0010",
+    "en": " Augh... Horrible voice, too horrible...{SAUT}Horrible things happen to [FFF0]{SAUT} too?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0011",
+    "en": "  Uiii! Songs are good... Reminds{SAUT}[FFF0] of being flesh!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0012",
+    "en": "  There is nothing [FFF3] cannot{SAUT}do. Having flesh must be inconvenient.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0013",
+    "en": "   Uuuuurh!{SAUT}[FFF0] and humans are enemies.{SAUT}Cannot grant requests.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0014",
+    "en": "  Uiiii! Too many years since woman of{SAUT}flesh requested something!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0015",
+    "en": "Uuuurh! [FFF3] is no fool!{SAUT}Don't understand! Won't be deceived!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0016",
+    "en": " Augh... Frightful schemes... One of{SAUT}flesh... What are you scheming...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0017",
+    "en": " Uiii! [FFF3] is strong!{SAUT}Woman of flesh speaks correct.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0018",
+    "en": "  So cold here... Nothing to talk about...{SAUT}Envious of those with flesh...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0019",
+    "en": "Woman of flesh is lying! [FFF3]{SAUT}will pull out tongue, take it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0020",
+    "en": "  Uiii! Became smarter! Smart is good in{SAUT}world of deceased!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0021",
+    "en": "  Well done, woman of flesh. You knew{SAUT}[FFF3]'s strength!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0022",
+    "en": "  Uuurh! Quiet! No reason to believe{SAUT}what woman of flesh says!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0023",
+    "en": "   Uiii! [FFF3] is strong!{SAUT}Be more scared, woman of flesh!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0024",
+    "en": " So cold here... Want to be somewhere{SAUT}warm... Woman of flesh's body looks{SAUT}warm...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0025",
+    "en": "   Uuuurh! [FFF3] not interested{SAUT}in man of flesh! Except to possess...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0026",
+    "en": " Augh... [FFF3] is without{SAUT}physical form... Has man of flesh lost{SAUT}his mind...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0027",
+    "en": "   Uiii! Yahhhhh!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0028",
+    "en": " If man of flesh is [FFF3]'s{SAUT}friend, this world could be fun...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0029",
+    "en": "  Uuuurhh! Boring...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0030",
+    "en": "Urgh... No air... Thought [FFF3]{SAUT}would die...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0031",
+    "en": "   Uiii! [FFF3]'s heart has{SAUT}warmed up!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0032",
+    "en": " Man of flesh...{SAUT}[FFF3] wants to hear more.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0033",
+    "en": "  Uuuurh! Do not tell stories of the flesh-{SAUT}having world!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0034",
+    "en": "It's so cold here... Even casual{SAUT}greeting adds happiness.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0035",
+    "en": "  [FFF3] had a childhood too...{SAUT}It is memory most treasured.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0036",
+    "en": "  Uuuuurh! What are you doing!?{SAUT}[FFF3] is angry!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0037",
+    "en": "  Man of flesh...{SAUT}Is it fun to surprise [FFF3]...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0038",
+    "en": "When still alive, [FFF3] might{SAUT}have had a house... Somewhere to call{SAUT}home...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0039",
+    "en": "Uuuurghh!{SAUT}[FFF3] wants body of flesh!{SAUT}Place for soul to stay!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0040",
+    "en": "   Uiii! Might be warm to have that...{SAUT}Will be happy if so.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0041",
+    "en": "   What man of flesh says may be right.{SAUT}Good luck. Here is hoping.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0042",
+    "en": "Uuuurgh! Easy to say anything!{SAUT}How rash when not so strong!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0043",
+    "en": "Uiii! So energetic!{SAUT}Those with flesh should be.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0044",
+    "en": "Man of flesh...{SAUT}Voice is heard without yelling.{SAUT}But loud voice is nice.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0045",
+    "en": "Uuuurgh! [FFF3] is invincible!{SAUT}Man of flesh... No forgiveness.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0046",
+    "en": "  Augh... S... So... cold...{SAUT}[FFF3] did nothing wrong...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0047",
+    "en": "  If man of flesh dies, he becomes like{SAUT}[FFF3]... But it's so cold and{SAUT}dark here...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0048",
+    "en": "   Do not take body of flesh for granted!{SAUT}[FFF3] can tell immediately when{SAUT}body of flesh lies!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0049",
+    "en": " Uiii! Man of flesh is right!{SAUT}[FFF3] is \"awesome\"!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0050",
+    "en": "   [FFF3] sees... That dance is{SAUT}popular in world of living...{SAUT}[FFF3] wants to dance too...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0051",
+    "en": "  Uuurhh! Don't show off body of flesh!{SAUT}Uurhhh! Hits where it hurts!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0052",
+    "en": " Not bad for having physical body, man{SAUT}of flesh! But even easier to dance{SAUT}once death takes that away!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0053",
+    "en": "   Interesting, man of flesh!{SAUT}Though it was a new saying.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0054",
+    "en": " Uuur! Man of flesh dares to oppose{SAUT}[FFF3]!? Will teach limits of{SAUT}flesh!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0055",
+    "en": " Augh... P-Pain... Dangerous...{SAUT}Should [FFF3] run away...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0056",
+    "en": "   Eyes make [FFF3] feel warm...{SAUT}Gaze more.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0057",
+    "en": "Uuurgh! Gaze of black eyes is pain!{SAUT}Stop looking, dark one!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0058",
+    "en": "Reminds of days past... Wonder how{SAUT}that girl is doing...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0059",
+    "en": "  That story brings delight! The world{SAUT}of living does have fun...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0060",
+    "en": "Uuuurhh! Don't lie, man of flesh!{SAUT}Don't look down on [FFF3]!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0061",
+    "en": "Uiii! That's something to talk about!{SAUT}Should trick the recently departed.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0062",
+    "en": "  Uuuurhh!{SAUT}[FFF3] fears nothing!{SAUT}Urrhh! Don't underestimate!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0063",
+    "en": "  Augh... C-Cold... P-Pain...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0064",
+    "en": "Uii... Woman of flesh tell stories like{SAUT}that? Not smart...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0065",
+    "en": " Woman of flesh has great voice.{SAUT}Hurry and die so she can sing with{SAUT}[FFF3] in the after-life.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0066",
+    "en": "Uuurhh! Stop bad singing! Getting even{SAUT}colder now!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0067",
+    "en": " Uiiii! Songs are wonderful... Willpower{SAUT}is restored.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0068",
+    "en": "   Woman of flesh... What nerve have you?{SAUT}[FFF3] is different from those of{SAUT}flesh.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0069",
+    "en": " Uuuurhh!{SAUT}[FFF3] has pride too!{SAUT}Say things like that to flesh children!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0070",
+    "en": "  [FFF3] had a mother once...{SAUT}Been long time since thought crossed{SAUT}mind...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "MAYOERU.BIN:text:0071",
+    "en": "Seduced by woman of flesh... Maybe being{SAUT}lost not so bad...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0072",
+    "en": "Uuuurhh!{SAUT}[FFF3] knows what it must do!{SAUT}That isn't it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0073",
+    "en": "   [FFF3] is omnipotent... but{SAUT}cannot do work of flesh... Still, good{SAUT}to be invited.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0074",
+    "en": "   Slander... Those of flesh slander quite{SAUT}often... [FFF3] will not.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0075",
+    "en": "   Do not be false, being of flesh!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0076",
+    "en": "   Augh... S-So cold... P-Painful...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0077",
+    "en": "  Fun with opposite sex is privilege of{SAUT}those with flesh. Perhaps those without{SAUT}can relive old days...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0078",
+    "en": "   Uuuurhhh!{SAUT}What do you want from [FFF3]?{SAUT}Can't tell!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0079",
+    "en": " Uiii! Thought it was impossible to score{SAUT}with woman of flesh!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0080",
+    "en": "  Woman of flesh... If the present is so{SAUT}painful, die, and become [FFF3].(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0081",
+    "en": " Uurh... Be glad for having flesh, woman!{SAUT}[FFF3] will take if it not{SAUT}wanted!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0082",
+    "en": " Augh... S-Seems so cold... Isn't it{SAUT}cold for bodies of flesh too...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0083",
+    "en": "   Woman of flesh...{SAUT}[FFF3] has nothing to lose.{SAUT}Threats are useless.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0084",
+    "en": "  [FFF3] is invincible!{SAUT}Has nothing to lose!{SAUT}Craving a body of flesh!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0085",
+    "en": " Augh...{SAUT}Is it fun to threaten [FFF3]?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0086",
+    "en": "   Stop taunting [FFF3]!{SAUT}This is no different than when{SAUT}[FFF3] was alive!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0087",
+    "en": "   Augh... So cold... Should [FFF3]{SAUT}run away?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0088",
+    "en": "  Uiiii! It feels good to be teased...{SAUT}[FFF3] feels awakened...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0089",
+    "en": "   Woman of flesh speaks the truth...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0090",
+    "en": "{PAGE}Maybe woman of flesh knows where{SAUT}[FFF3] must return to...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0091",
+    "en": "   What does woman of flesh know of{SAUT}[FFF3]!? Uuuurhhh!{SAUT}Woman of flesh is so impudent!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0092",
+    "en": "  Brain of flesh is smart. It also looks{SAUT}well-pickled and delicious...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0093",
+    "en": "   Uuuurhh! [FFF3] is matured!{SAUT}Say things like that to flesh children!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0094",
+    "en": " Augh... S-Scared... Sh-Should run...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0096",
+    "en": "Woman of flesh... It is cold to tell{SAUT}stories of the living...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0097",
+    "en": "  Uuurhh! Ignored! Cruelty! Not warm of{SAUT}heart for being of flesh!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0098",
+    "en": "Augh... C-Cold... This place is too{SAUT}cold too...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0099",
+    "en": "Man of flesh... Be someone for a lost{SAUT}[FFF3] to speak with...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "MAYOERU.BIN:text:0100",
+    "en": "   Uuurhh! Ignored! Cruelty! Not warm of{SAUT}heart for being of flesh!(*RESPONSE*)",
+    "fr": ""
+  }
+]

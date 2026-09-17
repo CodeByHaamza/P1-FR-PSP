@@ -349,8 +349,8 @@
     "id": "E2.BIN:157:0000",
     "locuteur": "Maki",
     "en": "We've gotta get this town back to normal.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Maki",
+    "fr": "On doit rendre la ville à la normale.{ATTENTE}",
     "_occurrences": 3
   },
   {
@@ -373,72 +373,72 @@
     "id": "E2.BIN:157:0003",
     "locuteur": "Mark",
     "en": "Let's hurry after Kandori!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mark",
+    "fr": "Vite, rattrapons Kandori!{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "E2.BIN:157:0004",
     "locuteur": "Nanjo",
     "en": "There's no time to waste here.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Nanjo",
+    "fr": "Pas de temps à perdre ici.{ATTENTE}",
     "_occurrences": 6
   },
   {
     "id": "E2.BIN:157:0006",
     "locuteur": "Ayase",
     "en": "Let's go beat up Kandori! C'mon, hurry!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Ayase",
+    "fr": "Allons démolir Kandori! Vite, allez!{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "E2.BIN:157:0007",
     "locuteur": "Ayase",
     "en": "Does this mean, like, Kandori had the{SAUT}dream about the butterfly too?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Ayase",
+    "fr": "Ça veut dire que, genre, Kandori a fait{SAUT}le rêve du papillon aussi?{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "E2.BIN:157:0008",
     "locuteur": "Brown",
     "en": "With me on the job, Kandori's got no{SAUT}future. Mwahahaha...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Brown",
+    "fr": "Avec moi là, Kandori n'a aucun{SAUT}avenir. Mwahahaha...{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "E2.BIN:157:0009",
     "locuteur": "Brown",
     "en": "So I guess this means Kandori had the{SAUT}butterfly dream too.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Brown",
+    "fr": "Donc j'imagine que Kandori a eu le{SAUT}rêve du papillon aussi.{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "E2.BIN:157:0010",
     "locuteur": "Elly",
     "en": "Let's hurry.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "Dépêchons.{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "E2.BIN:157:0011",
     "locuteur": "Elly",
     "en": "Do you suppose Kandori also had that{SAUT}dream about the butterfly?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "Crois-tu que Kandori a aussi fait ce{SAUT}rêve du papillon?{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "E2.BIN:160:0000",
     "locuteur": "Maki",
     "en": "This is kinda exciting!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "C'est assez excitant!{ATTENTE}"
   },
   {
     "id": "E2.BIN:160:0001",
@@ -458,15 +458,15 @@
     "id": "E2.BIN:160:0003",
     "locuteur": "Nanjo",
     "en": "I'll defeat that man alone if that's{SAUT}what it takes!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Je vaincrai cet homme seul s'il{SAUT}le faut!{ATTENTE}"
   },
   {
     "id": "E2.BIN:160:0004",
     "locuteur": "Mark",
     "en": "I feel like Maki's different somehow...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "J'ai l'impression que Maki a changé...{ATTENTE}"
   },
   {
     "id": "E2.BIN:160:0005",
@@ -479,22 +479,22 @@
     "id": "E2.BIN:160:0006",
     "locuteur": "Elly",
     "en": "We've brushed up against something{SAUT}incredible... This could be interesting!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Nous avons frôlé quelque chose{SAUT}d'incroyable... Ça s'annonce intéressant!{ATTENTE}"
   },
   {
     "id": "E2.BIN:160:0007",
     "locuteur": "Brown",
     "en": "Dude, I'm getting all restless! Just turn{SAUT}me loose already!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Mec, je tiens plus en place! Laissez{SAUT}moi y aller!{ATTENTE}"
   },
   {
     "id": "E2.BIN:160:0008",
     "locuteur": "Ayase",
     "en": "Hey, so like, we're just ordinary high{SAUT}school kids, right?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Hé, genre, on est juste des lycéens{SAUT}normaux, non?{ATTENTE}"
   },
   {
     "id": "E2.BIN:160:0009",
@@ -522,29 +522,29 @@
     "id": "E2.BIN:163:0000",
     "locuteur": "Maki",
     "en": "That scientist says he knows my mom...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Ce savant dit connaître ma mère...{ATTENTE}"
   },
   {
     "id": "E2.BIN:163:0001",
     "locuteur": "Maki",
     "en": "But I don't have a mother!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Mais je n'ai pas de mère!{ATTENTE}"
   },
   {
     "id": "E2.BIN:163:0002",
     "locuteur": "Nanjo",
     "en": "Those scientists... What kind of research{SAUT}is going on here?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Ces savants... Quel genre de recherches{SAUT}mènent-ils ici?{ATTENTE}"
   },
   {
     "id": "E2.BIN:163:0003",
     "locuteur": "Mark",
     "en": "This is one suspicious place.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ce coin est vraiment louche.{ATTENTE}"
   },
   {
     "id": "E2.BIN:163:0004",
@@ -557,64 +557,64 @@
     "id": "E2.BIN:163:0005",
     "locuteur": "Elly",
     "en": "Whatever they were researching, they must{SAUT}have had to keep it a secret.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Quoi qu'ils cherchaient, ils devaient{SAUT}le garder secret.{ATTENTE}"
   },
   {
     "id": "E2.BIN:163:0006",
     "locuteur": "Brown",
     "en": "What a boring place! Don't they have{SAUT}anything cool here?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Quel endroit chiant! Y a rien de{SAUT}cool ici, ou quoi?{ATTENTE}"
   },
   {
     "id": "E2.BIN:163:0007",
     "locuteur": "Ayase",
     "en": "Hmm... this box is totally suspicious.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Hmm... cette boîte est trop louche.{ATTENTE}"
   },
   {
     "id": "E2.BIN:163:0008",
     "locuteur": "Scientist",
     "en": "This isn't the basement...? Why is this{SAUT}room above ground!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Savant",
+    "fr": "Pas le sous-sol...? Pourquoi cette{SAUT}salle est en surface!?{ATTENTE}"
   },
   {
     "id": "E2.BIN:163:0009",
     "locuteur": "Scientist",
     "en": "Excuse me, did you see a woman on your{SAUT}way here? She had short hair and glasses.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Savant",
+    "fr": "Pardon, avez-vous croise une femme en{SAUT}venant? Cheveux courts et lunettes.{ATTENTE}"
   },
   {
     "id": "E2.BIN:163:0010",
     "locuteur": "Scientist",
     "en": "Oh, Sonomura... please be safe!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Savant",
+    "fr": "Oh, Sonomura... soyez en vie!{ATTENTE}"
   },
   {
     "id": "E2.BIN:163:0011",
     "locuteur": "Scientist",
     "en": "Kandori must have used that machine...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Savant",
+    "fr": "Kandori a dû utiliser la machine...{ATTENTE}"
   },
   {
     "id": "E2.BIN:163:0012",
     "locuteur": "Scientist",
     "en": "I can't believe this! {ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Savant",
+    "fr": "C'est pas croyable!{ATTENTE}"
   },
   {
     "id": "E2.BIN:163:0013",
     "locuteur": "Scientist",
     "en": "We couldn't have calculated it would even{SAUT}change this building's structure...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Savant",
+    "fr": "On ne pouvait pas prévoir que ça changerait{SAUT}même la structure du bâtiment...!{ATTENTE}"
   },
   {
     "id": "E2.BIN:163:0014",
@@ -626,77 +626,77 @@
     "id": "E2.BIN:164:0000",
     "locuteur": "Maki",
     "en": "It sounds like someone from St. Hermelin{SAUT}snuck in here before us!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "On dirait que quelqu'un de St. Hermelin{SAUT}est entre ici avant nous!{ATTENTE}"
   },
   {
     "id": "E2.BIN:164:0001",
     "locuteur": "Nanjo",
     "en": "That Kandori... He's gone too far!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Ce Kandori... Il va trop loin!{ATTENTE}"
   },
   {
     "id": "E2.BIN:164:0002",
     "locuteur": "Mark",
     "en": "Don't these guys feel guilty at all{SAUT}for what they did?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ces types culpabilisent pas du tout{SAUT}pour leurs actes?{ATTENTE}"
   },
   {
     "id": "E2.BIN:164:0003",
     "locuteur": "Elly",
     "en": "Did Kandori have them build a machine{SAUT}that gives birth to demons?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Donc Kandori leur a fait bâtir la{SAUT}machine qui crée des démons?{ATTENTE}"
   },
   {
     "id": "E2.BIN:164:0004",
     "locuteur": "Brown",
     "en": "I dunno if I like how complicated this{SAUT}is starting to get...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Je sais pas si j'aime la tournure{SAUT}compliquée que ça prend...{ATTENTE}"
   },
   {
     "id": "E2.BIN:164:0005",
     "locuteur": "Brown",
     "en": "There's some stuff even I can't{SAUT}understand, y'know!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Y a des trucs que même moi je pige pas,{SAUT}tu vois!{ATTENTE}"
   },
   {
     "id": "E2.BIN:164:0006",
     "locuteur": "Ayase",
     "en": "Who's this Dr. Nicholai guy?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "C'est qui, ce Dr. Nicholai?{ATTENTE}"
   },
   {
     "id": "E2.BIN:164:0007",
     "locuteur": "Scientist",
     "en": "Was that high school boy a friend of{SAUT}yours? I'm sorry to say, he was...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Savant",
+    "fr": "Le lycéen, c'était un ami à{SAUT}vous? Navré de le dire, il l'était...{ATTENTE}"
   },
   {
     "id": "E2.BIN:164:0008",
     "locuteur": "Scientist",
     "en": "Dr. Nicholai seems to have been planning{SAUT}to stop Kandori... but what can we do?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Savant",
+    "fr": "Le Dr. Nicholai comptait apparemment{SAUT}arrêter Kandori... mais que faire?{ATTENTE}"
   },
   {
     "id": "E2.BIN:164:0009",
     "locuteur": "Scientist",
     "en": "None of us predicted that demons would{SAUT}emerge in town.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Savant",
+    "fr": "Aucun de nous n'avait prévu ces démons{SAUT}en ville.{ATTENTE}"
   },
   {
     "id": "E2.BIN:164:0010",
     "locuteur": "Scientist",
     "en": "Though it presents a rather intriguing{SAUT}situation, don't you think?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Savant",
+    "fr": "Quoique la situation soit plutôt{SAUT}fascinante, vous ne trouvez pas?{ATTENTE}"
   }
 ]

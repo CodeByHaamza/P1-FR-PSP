@@ -1,0 +1,519 @@
+[
+  {
+    "id": "WORM.BIN:text:0708",
+    "en": "YOU WEAK RIGHT NOW? THEN ME{SAUT}SHRED YOU!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0709",
+    "en": " YOU KNEW AND CAME TO ME TERRITORY{SAUT}ANYWAY... ME HAVE BAD FEELING...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0710",
+    "en": " YOU CARELESS! IGNORANCE NO EXCUSE!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0711",
+    "en": " YOU HUMAN. MISTAKES HAPPEN...{SAUT}BE CAREFUL NEXT TIME.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0712",
+    "en": "ME AND YOU GET ALONG! FRIENDS!{SAUT}AWOOOOH! AWOOOOH!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0713",
+    "en": "   YOU BAD! NO UNDERSTAND BEAUTY{SAUT}OF CIRCLE!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0714",
+    "en": "{PAGE}ME THINK MOON SAD. ME PUNISH YOU!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0715",
+    "en": "YOU WISHY-WASHY! ME NOT CARE{SAUT}ABOUT YOU.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0716",
+    "en": "WATERMELON... HARD TO GET{SAUT}SEEDS OUT...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0717",
+    "en": " ME UNDERSTAND YOU! ME HAD FORGOTTEN{SAUT}SPIRIT OF STRAWBERRY FIELD FOREVER!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0718",
+    "en": "{PAGE}ME TREAT YOU LIKE HONORED GUEST!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0719",
+    "en": "  ORANGE... HARD TO PEEL SKIN...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0720",
+    "en": " ORANGE... HARD TO PEEL SKIN...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0000",
+    "en": "Stay quiet(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0001",
+    "en": "Sure, I'm Type O.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "WORM.BIN:resp:0004",
+    "en": "I wish I could have it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0008",
+    "en": "Somewhat strong.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0009",
+    "en": "Weak.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0010",
+    "en": "Don't sleep.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0012",
+    "en": "I'll wake you up.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0013",
+    "en": "No problem at all.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0015",
+    "en": "That won't be good.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0018",
+    "en": "That's irrelevant.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0019",
+    "en": "Discuss humans(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "WORM.BIN:resp:0021",
+    "en": "Discuss negotiating(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0022",
+    "en": "Stop singing(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0026",
+    "en": "Biker song(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "WORM.BIN:resp:0028",
+    "en": "I like red.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0029",
+    "en": "I like green.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0030",
+    "en": "I like blue.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0031",
+    "en": "I want your card!(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0033",
+    "en": "There's no reason!(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0035",
+    "en": "I don't want it!(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "WORM.BIN:resp:0036",
+    "en": "What should I do...?(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 7
+  },
+  {
+    "id": "WORM.BIN:resp:0037",
+    "en": "Lucky me!(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0038",
+    "en": "Waaaaaah...!(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0039",
+    "en": "Nooooo!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "WORM.BIN:resp:0040",
+    "en": "Japanese food(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0041",
+    "en": "Western food(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0042",
+    "en": "Chinese food(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0044",
+    "en": "I REALLY like you.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0045",
+    "en": "I don't hate you, but...(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0048",
+    "en": "Hehe, I'm not telling.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0052",
+    "en": "The Crab and the Monkey(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0053",
+    "en": "The Grateful Crane(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0054",
+    "en": "The Tortoise and the Hare(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0061",
+    "en": "Never thought about it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0062",
+    "en": "Something awesome!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "WORM.BIN:resp:0066",
+    "en": "Oh crap! Oh crap!(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "WORM.BIN:resp:0067",
+    "en": "I'm a human.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0068",
+    "en": "Nothing, actually.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0069",
+    "en": "I'm a pickup artist.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0070",
+    "en": "I wear them.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0071",
+    "en": "I don't wear them.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0072",
+    "en": "Pun(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0073",
+    "en": "Stand-up(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0074",
+    "en": "Dirty joke(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0078",
+    "en": "Screw that!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "WORM.BIN:resp:0082",
+    "en": "Nothing in particular.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "WORM.BIN:resp:0084",
+    "en": "I really love it.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0085",
+    "en": "Not really.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0089",
+    "en": "A stupid story?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0090",
+    "en": "A rags to riches story?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0091",
+    "en": "A pickup story?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0092",
+    "en": "That really surprised me.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0093",
+    "en": "I surprised you.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0094",
+    "en": "You have a ways to go.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0095",
+    "en": "Glad to hear it!(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0098",
+    "en": "I'm not bullying you.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0099",
+    "en": "Yo, stupid!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "WORM.BIN:resp:0101",
+    "en": "Don't worry about it.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "WORM.BIN:resp:0103",
+    "en": "＊smirk＊(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "WORM.BIN:resp:0105",
+    "en": "No thanks.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "WORM.BIN:resp:0107",
+    "en": "You're a bird.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0108",
+    "en": "You're a snake.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0112",
+    "en": "Now, what to do...?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "WORM.BIN:resp:0114",
+    "en": "I need a friend.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0117",
+    "en": "Are you an idiot?(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0118",
+    "en": "I'd be a strategist.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0119",
+    "en": "I'd be a general.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0120",
+    "en": "I'd be both.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0121",
+    "en": "I'll apologize.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0127",
+    "en": "You're awesome!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "WORM.BIN:resp:0129",
+    "en": "I was being sarcastic.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0130",
+    "en": "It's impossible for you.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0131",
+    "en": "An idiot's an idiot.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0132",
+    "en": "Then I'll defeat you.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0137",
+    "en": "I ain't teaching nobody.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0138",
+    "en": "Then gimme something!(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0140",
+    "en": "You? Seriously?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0141",
+    "en": "Then dance a bit.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0142",
+    "en": "Yeah, I like it.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "WORM.BIN:resp:0145",
+    "en": "I ain't joking here.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0146",
+    "en": "Like hell!(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0148",
+    "en": "Yeah, I can see it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0149",
+    "en": "There's nothin' there.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0150",
+    "en": "You have a green stripe!(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0151",
+    "en": "I'm seriously stoked!(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0153",
+    "en": "I ain't gonna bully you.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:resp:0156",
+    "en": "I thought so!(*RESPONSE*)  ",
+    "fr": ""
+  }
+]

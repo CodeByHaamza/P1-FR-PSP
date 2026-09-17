@@ -11,7 +11,7 @@
     "locuteur": "Hariti",
     "en": "Maki...?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Maki...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:137:0002",
@@ -94,16 +94,16 @@
     "id": "E0.BIN:137:0013",
     "locuteur": "Mark",
     "en": "But that voice... That's Maki's mom,{SAUT}I'm dead sure...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mark",
+    "fr": "Mais cette voix... C'est la mère de{SAUT}Maki, j'en suis sûr...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:137:0014",
     "locuteur": "Mark",
     "en": "Isn't it?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mark",
+    "fr": "Pas vrai?{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -118,8 +118,8 @@
     "id": "E0.BIN:137:0016",
     "locuteur": "Mark",
     "en": "Put your weapon away, (*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mark",
+    "fr": "Range ton arme, (*APELLIDO_HEROE*)!{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -229,7 +229,7 @@
     "locuteur": "Setsuko Sonomura",
     "en": "What...?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "",
+    "fr": "Quoi...?{ATTENTE}",
     "_occurrences": 2
   },
   {

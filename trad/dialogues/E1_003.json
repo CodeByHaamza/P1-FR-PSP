@@ -3,43 +3,43 @@
     "id": "E1.BIN:006:0000",
     "locuteur": "Brown",
     "en": "H-Hey, Toro! I'm sorry for hiding the{SAUT}food from you...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "H-He, Toro! Pardon de t'avoir{SAUT}caché la nourriture...{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0001",
     "locuteur": "Brown",
     "en": "Just please don't eat any more! You're{SAUT}gonna waste it all!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Mais arrête de manger! Tu vas{SAUT}tout gaspiller!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0002",
     "locuteur": "Male student",
     "en": "I'm sorry, man. I thought if you found{SAUT}it, you'd gobble it all up.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Désolé, mec. Je pensais que si tu la{SAUT}trouvais, tu engloutirais tout.{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0003",
     "locuteur": "Male student",
     "en": "The whole school's in trouble! We have to{SAUT}ration the food! You gotta understand...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Tout le lycée est en danger! Il faut{SAUT}rationner la nourriture! Comprends-le...{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0004",
     "locuteur": "Toro",
     "en": "Sh-Shut up! Why's everyone make fun{SAUT}of me!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "La-La ferme! Pourquoi se moquer{SAUT}de moi!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0005",
     "locuteur": "Toro",
     "en": "I know you were sharing the food without{SAUT}telling me! That's it, this food's mine!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Je sais que vous partagiez la bouffe{SAUT}dans mon dos! Ça suffit, elle est à moi!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0006",
@@ -50,29 +50,29 @@
     "id": "E1.BIN:006:0007",
     "locuteur": "Brown",
     "en": "Nooo! Our precious, precious food!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Nooon! Notre précieuse nourriture!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0008",
     "locuteur": "Brown",
     "en": "One guy goes crazy from rejection and{SAUT}we all starve to death now?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Un type pète les plombs par dépit et{SAUT}on crève tous de faim?{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0009",
     "locuteur": "Brown",
     "en": "How can my charmed life end this way!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Ma belle vie finit comme ça!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0010",
     "locuteur": "Brown",
     "en": "Croaking alongside a fatso...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Crever près d'un gros lard...{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0011",
@@ -99,57 +99,57 @@
     "id": "E1.BIN:006:0014",
     "locuteur": "Toro",
     "en": "I'm gonna eat and eat and eat before{SAUT}I die! I'll stuff myself!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Manger, manger, manger avant{SAUT}de mourir! Je vais me gaver!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0015",
     "locuteur": "Toro",
     "en": "Then I'll watch the rest of you collapse{SAUT}one by one!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Puis je vous regarderai tomber{SAUT}un par un!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0016",
     "locuteur": "Toro",
     "en": "Ahahahahahahahahaha!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Ahahahahahahahahaha!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0017",
     "locuteur": "Male student",
     "en": "H-Hey, Brown... he's completely lost it.{SAUT}What do we do?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Eleve",
+    "fr": "H-Hé, Brown... il a complètement pété{SAUT}les plombs. On fait quoi?{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0018",
     "locuteur": "Brown",
     "en": "D-Don't ask me!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "D-Aucune idée!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0019",
     "locuteur": "Brown",
     "en": "Man, Yuka, this is all your fault for{SAUT}rejecting him!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Bon sang, Yuka, tout ça parce que{SAUT}tu l'as rejeté!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0020",
     "locuteur": "Ayase",
     "en": "Excuse me!? What's with blaming me for{SAUT}this all of a sudden!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Pardon!? Pourquoi tout me mettre{SAUT}sur le dos d'un coup!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0021",
     "locuteur": "Yukino",
     "en": "Only one thing to do... knock the poor{SAUT}bastard out cold.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Une seule solution... assommer ce{SAUT}pauvre type.{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0022",
@@ -162,22 +162,22 @@
     "id": "E1.BIN:006:0023",
     "locuteur": "Toro",
     "en": "Wanna know why? 'Cause the butterfly{SAUT}gave me a demon!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Vous voulez savoir? 'Le papillon{SAUT}m'a donné un démon!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0024",
     "locuteur": "Toro",
     "en": "I'm not just a butterball anymore, Yuka!{SAUT}Ahahahahahahaha!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Je ne suis plus un gros tas, Yuka!{SAUT}Ahahahahahahaha!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0025",
     "locuteur": "Brown",
     "en": "Uh... a demon? Wow, sounds like his mind{SAUT}snapped along with his heart.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Euh... un démon? Sa tête a lâché{SAUT}en même temps que son coeur.{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0026",
@@ -190,71 +190,71 @@
     "id": "E1.BIN:006:0027",
     "locuteur": "Male student",
     "en": "I'll grab a teacher! Keep an eye on him,{SAUT}I'll be right back!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Eleve",
+    "fr": "Je vais chercher un prof! Surveillez-le,{SAUT}je reviens tout de suite!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0028",
     "locuteur": "Toro",
     "en": "Ahahahahahahaha! No one can stop me now!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Ahahahahahahaha! Rien ne m'arrête!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0029",
     "locuteur": "Nanjo",
     "en": "Kenta! You must calm down!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Kenta! Calme-toi!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0030",
     "locuteur": "Nanjo",
     "en": "Once the city returns to normal, I'll{SAUT}treat you to our chef's special dishes!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Quand la ville reviendra à la normale,{SAUT}je t'offrirai les plats de notre chef!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0031",
     "locuteur": "Ayase",
     "en": "Toro, why're you doing this!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Toro, pourquoi tu fais ça!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0032",
     "locuteur": "Ayase",
     "en": "You're like, making me look like the{SAUT}bad guy here!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Là, tu me fais passer pour la{SAUT}méchante!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0033",
     "locuteur": "Toro",
     "en": "Aaaah, my darling Yuka!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Aaaah, ma chérie Yuka!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0034",
     "locuteur": "Toro",
     "en": "I'll save you, and only you... if you{SAUT}promise to go out with me.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Je te sauverai, toi seule... si tu{SAUT}promets de sortir avec moi.{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0035",
     "locuteur": "Toro",
     "en": "I'll even save you some food!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Je te garderai même à manger!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0036",
     "locuteur": "Toro",
     "en": "Ahahahahahaha!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Ahahahahahaha!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0037",
@@ -281,43 +281,43 @@
     "id": "E1.BIN:006:0040",
     "locuteur": "Yukino",
     "en": "D-Don't get him mad! You're too blunt,{SAUT}Yuka...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "N-Ne l'énerve pas! T'es trop directe,{SAUT}Yuka...{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0041",
     "locuteur": "Yukino",
     "en": "I bet you were just as cold to him when{SAUT}he said he loved you!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Tu as dû être aussi froide quand{SAUT}il t'a dit qu'il t'aimait!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0042",
     "locuteur": "Ayase",
     "en": "Eh, not really. I just told him the truth.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Bof, pas vraiment. J'ai dit la vérité.{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0043",
     "locuteur": "Ayase",
     "en": "All I said was, like...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "J'ai juste dit, genre...{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0044",
     "locuteur": "Brown",
     "en": "Hey, Boss!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Hé, chef!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0045",
     "locuteur": "Brown",
     "en": "I don't think he'll come to his senses{SAUT}without a swift kick in the butt.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Il ne reprendra pas ses esprits sans{SAUT}un bon coup de pied au derrière.{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0046",
@@ -330,78 +330,78 @@
     "id": "E1.BIN:006:0047",
     "locuteur": "Yukino",
     "en": "Sure, I'll try that if nothing{SAUT}else works.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Ouais, j'essaierai si rien{SAUT}d'autre ne va.{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0048",
     "locuteur": "Yukino",
     "en": "For now, let's buy us some time until{SAUT}the teacher gets here!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Pour l'instant, gagnons du temps{SAUT}jusqu'à l'arrivée du prof!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0049",
     "locuteur": "Yukino",
     "en": "Hey Hidehiko, you listening?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Hé Hidehiko, tu écoutes?{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0050",
     "locuteur": "Yukino",
     "en": "Quit standing around and give us a hand!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Arrête de glander et aide-nous!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0051",
     "locuteur": "Brown",
     "en": "Mwahahaha... I'll follow you to the{SAUT}ends of the earth!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Mwahahaha... Je te suivrai jusqu'au{SAUT}bout du monde!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0052",
     "locuteur": "Brown",
     "en": "Oh man... What have you done!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Oh là... Qu'as-tu fait!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0053",
     "locuteur": "Brown",
     "en": "Quick, apologize! It's not too late!{SAUT}Say you're sorry!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Vite, excuse-toi! C'est pas trop tard!{SAUT}Dis que t'es désolée!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0054",
     "locuteur": "Nanjo",
     "en": "Small wonder Kenta was furious. As they{SAUT}say, \"All evil comes from the mouth\"...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Pas étonnant que Kenta enrage. Comme{SAUT}on dit, \"Tout mal vient de la bouche\"...{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0055",
     "locuteur": "Nanjo",
     "en": "You went too far, Yuka. Apologize to him!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Tu as exagéré, Yuka. Excuse-toi!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0056",
     "locuteur": "Ayase",
     "en": "I did? Really!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Moi? Sérieux!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0057",
     "locuteur": "Ayase",
     "en": "Uh, did the truth really hurt that bad,{SAUT}Toro?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Euh, la vérité t'a blessé à ce point,{SAUT}Toro?{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0058",
@@ -414,22 +414,22 @@
     "id": "E1.BIN:006:0059",
     "locuteur": "Toro",
     "en": "You'll pay for stomping all over my pure,{SAUT}innocent heart...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Tu paieras d'avoir piétiné mon coeur pur{SAUT}et innocent...{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0060",
     "locuteur": "Toro",
     "en": "Mr. Demon... Oh, Mr. Demon! Come out!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "M. Démon... Oh, m. Démon! Sors!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0061",
     "locuteur": "Toro",
     "en": "Come out and punish the people who keep{SAUT}making fun of me!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Sors et punis ceux qui n'arrêtent{SAUT}pas de se moquer!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0062",
@@ -442,22 +442,22 @@
     "id": "E1.BIN:006:0063",
     "locuteur": "Brown",
     "en": "Whoa whoa whoa, what's the chanting{SAUT}about? This isn't some manga...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Holà, c'est quoi cette incantation?{SAUT}On n'est pas dans un manga...{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0064",
     "locuteur": "Ayase",
     "en": "Huh? What's with the chanting? You're in{SAUT}high school!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Hein? C'est quoi cette litanie? T'es au{SAUT}lycée!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0065",
     "locuteur": "Ayase",
     "en": "Stop dreaming about Mr. Demon and...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Arrête de rêver de m. Démon et...{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0066",

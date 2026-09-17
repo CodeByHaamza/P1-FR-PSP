@@ -3,43 +3,43 @@
     "id": "E0.BIN:101:0101",
     "locuteur": "Chisato",
     "en": "But you know, that girl said that she{SAUT}lives in a castle.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Chisato",
+    "fr": "Mais la petite a dit qu'elle{SAUT}vit dans un château.{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0102",
     "locuteur": "Mark",
     "en": "A castle? Say what!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Un château? Quoi!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0103",
     "locuteur": "Nanjo",
     "en": "It's not all that surprising.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Rien de bien surprenant.{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0104",
     "locuteur": "Nanjo",
     "en": "Though still a child, Aki's powers are{SAUT}immense. Making a castle would be easy.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Bien qu'enfant, Aki a des pouvoirs{SAUT}immenses. Créer un château est facile.{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0105",
     "locuteur": "Maki",
     "en": "Alright, then that's our next goal.{SAUT}Let's find that castle!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Bon, ce sera notre prochain but.{SAUT}Trouvons ce château!{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0106",
     "locuteur": "Yosuke",
     "en": "Oh, I forgot to tell you, Chisato, but{SAUT}that Maki isn't the Maki we know.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yosuke",
+    "fr": "Oh, j'oubliais de te dire, Chisato, mais{SAUT}cette Maki est pas notre Maki.{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0107",

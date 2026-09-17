@@ -1,0 +1,513 @@
+[
+  {
+    "id": "SLIME.BIN:text:0000",
+    "en": "You do know I'm the weakest demon{SAUT}around... But you still want me!?(*RESPONSE*)",
+    "fr": "Je suis le démon le plus faible du{SAUT}coin, tu le sais... Et tu me veux!?(*RESPONSE*)"
+  },
+  {
+    "id": "SLIME.BIN:text:0001",
+    "en": "You're just using me to practice{SAUT}negotiating! Cruel, cruel humans!(*RESPONSE*)",
+    "fr": "Tu te sers de moi pour t'entraîner à{SAUT}négocier! Cruels, cruels humains!(*RESPONSE*)"
+  },
+  {
+    "id": "SLIME.BIN:text:0002",
+    "en": " Do ya need me?{SAUT}Do ya really need me?{SAUT}You DO need me!?(*RESPONSE*)",
+    "fr": " T'as besoin de moi?{SAUT}Vraiment besoin de moi?{SAUT}T'as VRAIMENT besoin de moi!?(*RESPONSE*)"
+  },
+  {
+    "id": "SLIME.BIN:text:0003",
+    "en": "  I'm the weakest demon EVER... But you{SAUT}can get stronger! I'm soooo jealous!(*RESPONSE*)",
+    "fr": "  Le démon le plus faible de TOUS, c'est{SAUT}moi... Toi tu peux progresser! Jaloux!(*RESPONSE*)"
+  },
+  {
+    "id": "SLIME.BIN:text:0004",
+    "en": " Hey! Just because I'm sword-fodder to{SAUT}you doesn't mean you can yell at me!(*RESPONSE*)",
+    "fr": " Hé! Je suis peut-être de la chair à{SAUT}épée, mais crie pas sur moi!(*RESPONSE*)",
+    "_occurrences": 2
+  },
+  {
+    "id": "SLIME.BIN:text:0005",
+    "en": " I'm the weakest demon, you know...{SAUT}Don't do anything scary...(*RESPONSE*)",
+    "fr": " Je suis le démon le plus faible, tu{SAUT}sais... Fais rien d'effrayant...(*RESPONSE*)",
+    "_occurrences": 2
+  },
+  {
+    "id": "SLIME.BIN:text:0006",
+    "en": "  What kinda weirdos invite the weakest{SAUT}guy around to their party?(*RESPONSE*)",
+    "fr": "  Quels tordus invitent le plus faible{SAUT}du coin dans leur groupe?(*RESPONSE*)"
+  },
+  {
+    "id": "SLIME.BIN:text:0007",
+    "en": "   You're just using me to practice{SAUT}negotiating! Ohh, the humanity!(*RESPONSE*)",
+    "fr": "   Tu te sers de moi pour t'entraîner à{SAUT}négocier! Oh, quelle cruauté!(*RESPONSE*)",
+    "_occurrences": 2
+  },
+  {
+    "id": "SLIME.BIN:text:0008",
+    "en": "   I've got a bad feeling about this...{SAUT}Ya know, I'm gonna pass...(*RESPONSE*)",
+    "fr": "   J'ai un mauvais pressentiment...{SAUT}Tu sais quoi, je passe mon tour...(*RESPONSE*)"
+  },
+  {
+    "id": "SLIME.BIN:text:0009",
+    "en": "If you sing, I might collapse like a{SAUT}week-old flan! Stop! Stoooop it!(*RESPONSE*)",
+    "fr": "Si tu chantes, je vais m'effondrer comme{SAUT}un flan d'une semaine! Stop! Arrêêête!(*RESPONSE*)"
+  },
+  {
+    "id": "SLIME.BIN:text:0010",
+    "en": "  Please don't... I don't wanna take{SAUT}my ears in for repairs...(*RESPONSE*)",
+    "fr": "  Pitié, non... J'ai pas envie de{SAUT}faire réparer mes oreilles...(*RESPONSE*)"
+  },
+  {
+    "id": "SLIME.BIN:text:0011",
+    "en": "   What a great song! It made me all happy!(*RESPONSE*)",
+    "fr": "   Belle chanson! Ça m'a rendu tout joyeux!(*RESPONSE*)"
+  },
+  {
+    "id": "SLIME.BIN:text:0012",
+    "en": "   Hey... I really am the lowest, weakest{SAUT}worst demon ever... But you're okay with{SAUT}that!?(*RESPONSE*)",
+    "fr": "   Hé... Je suis vraiment le pire, le plus{SAUT}faible des démons... Et ça te va{SAUT}quand même!?(*RESPONSE*)"
+  },
+  {
+    "id": "SLIME.BIN:text:0013",
+    "en": " I know you're just making fun of me!{SAUT}What a nasty human!(*RESPONSE*)",
+    "fr": " Je sais que tu te moques de moi!{SAUT}Quel humain méchant!(*RESPONSE*)"
+  },
+  {
+    "id": "SLIME.BIN:text:0014",
+    "en": "   Do ya need me?{SAUT}Do ya really need me?{SAUT}You DO need me!?(*RESPONSE*)",
+    "fr": "   T'as besoin de moi?{SAUT}Vraiment besoin de moi?{SAUT}T'as VRAIMENT besoin de moi!?(*RESPONSE*)"
+  },
+  {
+    "id": "SLIME.BIN:text:0015",
+    "en": "  I know all too well I'm the weakest{SAUT}demon in the history of demons! You lie!(*RESPONSE*)",
+    "fr": "  Je sais bien que je suis le démon le{SAUT}plus faible de l'histoire! Menteur!(*RESPONSE*)",
+    "_occurrences": 2
+  },
+  {
+    "id": "SLIME.BIN:text:0016",
+    "en": "   I know all too well I'm the weakest link{SAUT}in the chain of demons... This must be{SAUT}some kinda trap...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0017",
+    "en": " You really think I'm a great demon!?{SAUT}Well I'm happy to hear that, so I'll let{SAUT}it slide!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0018",
+    "en": "You say weird things, but I think{SAUT}they're funny!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0019",
+    "en": "   I bet you just lied to me! You're a{SAUT}human, and that's no good! I don't{SAUT}like that one bit!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SLIME.BIN:text:0020",
+    "en": "  Is that a true story!? I bet I could{SAUT}use that for... something!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SLIME.BIN:text:0021",
+    "en": "You're so easily scared! That's a very{SAUT}human trait, but I like that about ya!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0023",
+    "en": "   You really think I'm a great demon!?{SAUT}Well I'm happy to hear that, so I'll let{SAUT}it slide!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0024",
+    "en": "Are you seriously hitting on ME?{SAUT}What a weird human...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0025",
+    "en": " When I choose a female, I make sure{SAUT}she's good lookin'! That means you're{SAUT}out of the question!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0026",
+    "en": " Are you seriously hitting on ME?{SAUT}You're insane...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0027",
+    "en": "  If you're hitting on something as ugly{SAUT}as me, there's something wrong with you!{SAUT}Go see a shrink!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0028",
+    "en": "   That was a funny joke!{SAUT}I think I'm impressed with you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0029",
+    "en": " That was lame! I was hoping for a good{SAUT}belly laugh too!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0030",
+    "en": "I... couldn't tell what was funny{SAUT}about that...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0031",
+    "en": "That was hilarious! Your jokes are{SAUT}awesome!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0032",
+    "en": "I wanna hear what happens next. It'll{SAUT}help me understand this crazy world!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0033",
+    "en": " Hey, I'm not so nice a demon that I'll{SAUT}sit here and make small talk with you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0034",
+    "en": "  Wow, knowing is half the battle! I'm so{SAUT}happy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0035",
+    "en": " You make no sense! But that's why I{SAUT}like ya!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0036",
+    "en": "   I bet you think I'm some kinda brute!{SAUT}You're underestimating me, huh!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0037",
+    "en": " Dude, you shouldn't do things like that{SAUT}just because I'm total weaksauce...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0038",
+    "en": "You've got the look of someone who's{SAUT}gonna live a long life!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0039",
+    "en": "   All I want is to be an average demon!{SAUT}Not great, just average! That's all!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0040",
+    "en": " You're so considerate!{SAUT}Brings a tear to my eye!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0041",
+    "en": "I feel ya, buddy! I'll be rooting for ya!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0042",
+    "en": "  Hey, don't act like such a big shot!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0043",
+    "en": "   That's admirable to waste your speech{SAUT}on the weakest demon ever! Makes me so{SAUT}happy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0044",
+    "en": "You've got a great voice! I bet you'll{SAUT}be a poltergeist when you die... Hm,{SAUT}may as well get to know you now!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0045",
+    "en": "   Don't talk so loud! It echoes in my{SAUT}body and drives me crazy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0046",
+    "en": "  I'm the weakest demon ever... Guess{SAUT}I should expect things like that...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0047",
+    "en": "You think I'm amazing? But I'm the{SAUT}sorriest slime ever...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0048",
+    "en": "  What're you talking about!? I'm way more{SAUT}amazing than that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0049",
+    "en": "I may be the lowest of the low, but I'm{SAUT}strong enough to scare you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0050",
+    "en": "You're good! Can I join in?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0051",
+    "en": "A weird dance like that won't put me in{SAUT}a good mood at all!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0052",
+    "en": "Man, you're good! Really good! You're{SAUT}like... too good!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0053",
+    "en": "I'm the weakest demon EVER... But you{SAUT}can get stronger! I'm soooo jealous!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0056",
+    "en": "  Whaddaya want from me? I'm just a{SAUT}slime...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0057",
+    "en": " That's so embarrassing! It's not like{SAUT}you're actually interested in me anyway!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0058",
+    "en": " That reminds me of the good ol' days!{SAUT}When I was but an ooze, I was always{SAUT}on the prowl for girls!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0059",
+    "en": " You say weird things, but I think{SAUT}they're funny!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0062",
+    "en": "There're too many things to be scared{SAUT}of! Nothing you can say can change that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0063",
+    "en": " D-Don't tell me those kinds of stories...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0064",
+    "en": "  You're scared of a story like that?{SAUT}What a wimpy kid. Grow up!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0065",
+    "en": " You have a great voice! I wanna sing{SAUT}with you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0066",
+    "en": " If you sing, I might collapse like a{SAUT}week-old flan! Stop! Stoooop it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0067",
+    "en": "  What a great song! It made me all happy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0068",
+    "en": "   I may be a slime now, but I used to be{SAUT}a super cool demon! Did ya know that?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0069",
+    "en": "   I bet you think I'm some kinda kid.{SAUT}But I'm a slime, okay!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0070",
+    "en": "You remind me of my mother... For some{SAUT}reason, that's a good thing.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0071",
+    "en": "What kinda weirdos invite the weakest{SAUT}guy around to their party?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0073",
+    "en": "   You're weird to invite something like me{SAUT}along! I'm happy, though!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0074",
+    "en": " You humans always talk trash on each{SAUT}other... It makes even me feel sick...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0075",
+    "en": "You say some cruel things! I haven't{SAUT}even done anything wrong!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0076",
+    "en": " You must really hate me... So why'd you{SAUT}start talkin' to me in the first place?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0077",
+    "en": "Are you... interested in me? Hey, maybe{SAUT}that's a good sign!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0078",
+    "en": "I'm a slime and you're a human...{SAUT}Talk about incompatable!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0079",
+    "en": " I'm so happy! You should be a slime in{SAUT}your next life! Yeah, that'd be awesome!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0080",
+    "en": "You're human, so you've still got a{SAUT}chance! You can't give up!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0081",
+    "en": " Dude, crying about it won't solve{SAUT}anything!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0082",
+    "en": "I'm worried about you... But I won't{SAUT}do anything...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0083",
+    "en": "I'm a weak slime, but you're a puny{SAUT}human!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SLIME.BIN:text:0084",
+    "en": " Does it make ya feel big to say that to{SAUT}weaklings like me!? What a coward!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SLIME.BIN:text:0085",
+    "en": " You having fun threatening me...? What{SAUT}a nasty human...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "SLIME.BIN:text:0088",
+    "en": "I'm a slime! I'm the butt of every joke{SAUT}as it is! Go on, pick on me some more!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0089",
+    "en": " You talk pretty good! I'm impressed!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0090",
+    "en": "   Can you really understand my suffering?{SAUT}Don't say that kinda stuff if you can't!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0091",
+    "en": "   I'm just happy that you're bothering to talk{SAUT}to me, the lowest of the low!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0092",
+    "en": " Why am I being scolded by a human!?{SAUT}I'm not convinced!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0093",
+    "en": " You're so horrible... I wanna go home...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0094",
+    "en": "   I'm a slime! I'm the butt of every joke{SAUT}as it is! Go on, scold me some more!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0095",
+    "en": "   Hey! Over here! Look at me! C'mooooon,{SAUT}talk to me! You wanna negotiate with me,{SAUT}don't ya!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0096",
+    "en": " Aren't you the one who started this{SAUT}negotiation!? Bloorrb! How annoying!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SLIME.BIN:text:0097",
+    "en": "   Did I make you angry? I wish you'd at{SAUT}least talk to me...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "SLIME.BIN:text:0098",
+    "en": "  Hey! Over here! Look at me! C'mooooon,{SAUT}talk to me! You wanna negotiate with me,{SAUT}don't ya!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0101",
+    "en": "  I'm a weak slime, but you're a puny{SAUT}human!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0104",
+    "en": "Will you just shuddup!? I'm a worthless{SAUT}slime, so leave me alone!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0105",
+    "en": "  What do you want me to say? I can't{SAUT}figure it out...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0106",
+    "en": "   Are you like me? I can't yell myself,{SAUT}so you'll need to do it for me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0107",
+    "en": "  You're amazing... Maybe you could turn{SAUT}me back into the demon I once was...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0108",
+    "en": "You're not planning on getting rid of{SAUT}me or anything like that, right?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0109",
+    "en": " You've got skills... I bet you could{SAUT}survive even as a slime!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0110",
+    "en": "  Humans are great... I can talk about{SAUT}all sorts of things with 'em.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "SLIME.BIN:text:0111",
+    "en": " I don't get it... but it looks like fun!{SAUT}And I get the feeling you're gonna give{SAUT}me something![FFF1](*RESPONSE*)",
+    "fr": ""
+  }
+]

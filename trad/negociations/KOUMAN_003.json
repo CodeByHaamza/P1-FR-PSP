@@ -1,0 +1,506 @@
+[
+  {
+    "id": "KOUMAN.BIN:text:0202",
+    "en": " ...Is that your true intention?{SAUT}How suspicious...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0203",
+    "en": "  So you subscribe to the doctrine of,\"if{SAUT}you can't beat them, join them\"? Huaha,{SAUT}interesting.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0204",
+    "en": "   Muahaha! Well, I AM larger than life.{SAUT}Don't be so scared.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0205",
+    "en": "  With fear comes respect, and I command{SAUT}both! That is reason.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0206",
+    "en": "   You have my spell card. The strongest{SAUT}[FFF0] is at your command.{SAUT}Consider yourself lucky.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0207",
+    "en": "   Hm... Simply parting ways would be dull.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0208",
+    "en": "{PAGE}This is wasted on you humans, but I will{SAUT}give it to you regardless.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0209",
+    "en": "  Hmph. Foolish creature.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0210",
+    "en": "You thought I would join you and{SAUT}your ilk!? Fool!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0211",
+    "en": "{PAGE}However, times have changed. Demons have{SAUT}their own circumstances now...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0212",
+    "en": " Muahahaha! You honestly thought I'd{SAUT}give you my spell card!?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0213",
+    "en": "{PAGE}Remember this! [FFF3]{SAUT} only follows the strong!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0214",
+    "en": "   Ha... This would suit you. Take this{SAUT}archaic thing out of my sight.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0215",
+    "en": "Then farewell, weak, foolish, useless{SAUT}son of man!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0216",
+    "en": "  This too might be of use to foolish{SAUT}humans. Do not waste it.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0217",
+    "en": "   I have no time for your kind!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0218",
+    "en": "  As long as I imagine taking your orders{SAUT}as some kind of netherworld-inspired{SAUT}nightmare, I'll be fine...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0219",
+    "en": "{PAGE}Very well. I'm ready to protect you.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0220",
+    "en": "  Urgh... Fine, take this. Now you have{SAUT}nothing to complain about.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0221",
+    "en": "   Enough! I grow tired of insulting you!{SAUT}Farewell, foolish human!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0222",
+    "en": "Pathetic wretch... Take this and be{SAUT}gone.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0223",
+    "en": "  How can I not see my own reasons for{SAUT}negotiating with you!?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0224",
+    "en": "{PAGE}Why am I unable to read the minds of{SAUT}such weak and inferior beings!?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0225",
+    "en": "  Argh! That's enough! Take my spell card,{SAUT}and use it however you like!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0226",
+    "en": "  Huahaha, siding with you could prove{SAUT}interesting...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0227",
+    "en": "My card will become the Persona that{SAUT}protects you. It is guaranteed.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0228",
+    "en": "   Our meeting was obviously fated.{SAUT}To fight you would be to betray destiny.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0229",
+    "en": "  It would be primitive to simply leave it{SAUT}at this...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0230",
+    "en": "{PAGE}It's not as beautiful or fleeting as the{SAUT}love letter of a songstress, but it's{SAUT}yours to keep all the same.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0231",
+    "en": "In times like this, you are damned if{SAUT}you do and damned if you don't.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0232",
+    "en": "  Fine... I'll give you my spell card.{SAUT}If you throw it away, I will unleash a{SAUT}thousand terrors upon you.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0233",
+    "en": " Hmm... If it isn't one of those inferior{SAUT}humans.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0234",
+    "en": "{PAGE}Ha... You should run home before I kill{SAUT}you.[FFFD][70FF][F500]   Hmm... If it isn't one of those inferior{SAUT}humans.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0235",
+    "en": "{PAGE}Showing up here despite having such{SAUT}frail bodies... A strange race indeed.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0236",
+    "en": "   Hmm... If it isn't one of those inferior{SAUT}humans.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0237",
+    "en": "{PAGE}Well, you've managed to capture my{SAUT}interest for now... I'll negotiate.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0238",
+    "en": "  Ha! I can take no more of this!{SAUT}Your very face tries my nerves!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0239",
+    "en": "{PAGE}Even a broad-minded demon such as I is{SAUT}having a hard time justifying how you{SAUT}exist. Get out of my sight.[FFFD][71FF][F500]So you are my prey! I must say, the moon{SAUT}tonight is perfect for game hunting!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0240",
+    "en": "{PAGE}Consider yourselves lucky to die at my{SAUT}hands!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0241",
+    "en": "   Ha! A fool who stands up to me despite{SAUT}being weak and inferior!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0242",
+    "en": "{PAGE}Before the heavens judge you, I'll give{SAUT}you a chance! If you want to live...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0243",
+    "en": " You must be confident to answer my{SAUT}call... And yes, you do look skilled...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0244",
+    "en": "{PAGE}But even then, I am [FFF3]!{SAUT}I do not know fear![FFFD][72FF][F500]   Don't mind me. Move along...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0245",
+    "en": "{PAGE}...Hm? Be gone already...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOUMAN.BIN:text:0246",
+    "en": "Don't mind me. Move along...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0248",
+    "en": "You look like you could entertain me.{SAUT}Why not travel at my side?[FFFD][73FF][F500] Huaha, the moon is lovely this evening.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0249",
+    "en": "{PAGE}Such a night inspires me to dawdle.{SAUT}I can spare to negotiate with you.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0250",
+    "en": "Hmm... a human. Normally you'd be dead{SAUT}before you laid eyes on me, but...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0251",
+    "en": "{PAGE}Luckily, I'm in a good mood.{SAUT}I'll negotiate with you.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0252",
+    "en": "   [FFEE]You must not know your place if you{SAUT}are the one answering my call.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0253",
+    "en": "{PAGE}Still... An inferior being reaching out{SAUT}for my attention...Wise or foolhardy?{SAUT}We shall soon see.[FFFD][74FF][F500][FFED]Hmph! If it isn't a merry band of{SAUT}inferior creatures!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0254",
+    "en": "{PAGE}What annoying humans... You annoy me{SAUT}for no real reason!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0255",
+    "en": "   [FFED]Hmph! If it isn't a merry band of{SAUT}inferior creatures!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0256",
+    "en": "{PAGE}I'll buy your worthless lives!{SAUT}Answer my demands.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0257",
+    "en": " [FFEE]Your aura of battle is strong for a{SAUT}human. Tell me... Have you dreamed of{SAUT}fighting the [FFF0]?[FFFD][75FF][F500]   [FFEE]Huaha, I feel superb energy from you...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0258",
+    "en": "{PAGE}Hmm... Could you actually hold your{SAUT}ground against me...? It cannot be...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0259",
+    "en": "[FFEC]So you answer to my voice... Hmmm...{SAUT}I see there are many types of inferior{SAUT}beings...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0260",
+    "en": " [FFEB]Muahaha! Quite a remarkable human, to{SAUT}answer my call!{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOUMAN.BIN:text:0261",
+    "en": "{PAGE}But it's unfortunate... If you weren't{SAUT}so inferior, we could be partners.[FFFD][76FF][F500][FFEB]Muahaha! Quite a remarkable human, to{SAUT}answer my call!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0262",
+    "en": "{PAGE}Though you are inferior, you would make{SAUT}a sufficient henchman. Not bad at all.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0264",
+    "en": "{PAGE}Huaha, you've given me new perspective{SAUT}on inferior creatures. Thank you.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0265",
+    "en": "   [FFEC]...You have composure, despite my fury?{SAUT}You do realize, you'll be nothing but{SAUT}dust if I kill you![FFFD][77FF][F500]   [FFEC]I have no will to fight you...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0266",
+    "en": "{PAGE}This can't be! I... I am afraid!?{SAUT}What have you done to me!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0267",
+    "en": "  [FFED]...So you were the source of my{SAUT}discomfort...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0268",
+    "en": "{PAGE}Hmm... For you to put this much pressure{SAUT}on me...Urgh... How unpleasant.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0269",
+    "en": "   [FFED]Ha! To think it was an inferior human!{SAUT}Fools who stand up to us, despite their{SAUT}weakness!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0270",
+    "en": "{PAGE}You are lucky to even gaze upon the{SAUT}[FFF0]! Do you understand that?[FFFD][78FF][F500][FFED]Your existence has led me to speak to{SAUT}an inferior! How foolish of me! However,{SAUT}on behalf of the moon, I forgive you.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0271",
+    "en": "{PAGE}A negotiation would be pointless, but{SAUT}I will humor you. Engrave my greatness{SAUT}into your hearts!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0272",
+    "en": "  [FFEB]The moon is at its prime! None can{SAUT}stand against me! No wall can hinder me!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0273",
+    "en": "{PAGE}Foolish inferior! The only value of your{SAUT}existence is to present gifts to us![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0274",
+    "en": "   [FFEC]The aura of battle you exude is superb{SAUT}and certainly not of a human nature...{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOUMAN.BIN:text:0275",
+    "en": "{PAGE}Hmm... You're a demon in a human's skin,{SAUT}aren't you?[FFFD][79FF][F500] [FFEC]The aura of battle you exude is superb{SAUT}and certainly not of a human nature...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0276",
+    "en": "{PAGE}Hmm... Enough energy to threaten even{SAUT}me... Perhaps we are rivals...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0278",
+    "en": "{PAGE}It has been some time since I last{SAUT}trembled with excitement. Our meeting...{SAUT}For whom will it be better or worse?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0279",
+    "en": "   Hmm... I had fun.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0280",
+    "en": "{PAGE}If you have business with me, state it.{SAUT}I may even listen.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0281",
+    "en": "  Enough! Negotiation with inferior beings{SAUT}is truly meaningless.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0282",
+    "en": "{PAGE}You were a fool to anger me! You have{SAUT}chosen the path of destruction!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0283",
+    "en": "  Urgh... The stars must not be aligned if{SAUT}I am wincing...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0284",
+    "en": "   Muahahaha! You are incredibly interesting{SAUT}for a human!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0285",
+    "en": " Enough! Why have I even involved myself{SAUT}with a tedious fool like you...?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0286",
+    "en": "{PAGE}We have no further need for idle chat!{SAUT}State your business!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0287",
+    "en": "  Urgh... This pressure... You are not a{SAUT}normal human by any means...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0288",
+    "en": "{PAGE}Very well. I'll grant your wish...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0289",
+    "en": "Muahaha! You are interesting! A diamond{SAUT}among the rough stones of lowly humans!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0290",
+    "en": "{PAGE}I like you, and that in itself is{SAUT}deserving of a reward. What do you wish?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0291",
+    "en": "Ha... muahaha... ha... I-I can't believe{SAUT}this... Such insolence...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0292",
+    "en": "{PAGE}Insolence... t-toward me... I...{SAUT}I cannot fathom it!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0293",
+    "en": "   You are unfit to be my opponent...{SAUT}We have no further need to speak.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0294",
+    "en": "   Huaha... That power... It's hard to{SAUT}believe it is born of a human...{SAUT}Huaha, what a dreadful person you are...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0295",
+    "en": "  You have the look of poverty all over{SAUT}your face. I will not ask for any jewels{SAUT}of yours...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0296",
+    "en": "{PAGE}In my compassion, I shall ask for{SAUT}￥(*VALUE*) instead.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0297",
+    "en": "  Muahaha! Very good, human!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0298",
+    "en": "{PAGE}Inferior creatures with neither wisdom{SAUT}or power kneel before greater beings{SAUT}such as I. This is the natural order!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0299",
+    "en": "  This isn't enough... A zombie would{SAUT}have higher standards...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0300",
+    "en": "   You came into a negotiation without any{SAUT}money...? How absurd! The poor can die!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0301",
+    "en": "Hm, you are either very ignorant or{SAUT}a deliberate fool to disobey me.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOUMAN.BIN:text:0302",
+    "en": "{PAGE}Regardless, you will regret that{SAUT}decision.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0303",
+    "en": "   Hm, you are either very ignorant or{SAUT}a deliberate fool to disobey me. It's{SAUT}best I don't involve myself with you.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOUMAN.BIN:text:0304",
+    "en": "Hmm... Even meager ones like you should{SAUT}have a life stone. Present one to me.(*OPTION*)",
+    "fr": ""
+  }
+]

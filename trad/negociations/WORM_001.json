@@ -1,0 +1,502 @@
+[
+  {
+    "id": "WORM.BIN:text:0000",
+    "en": "HOHHH! ME UNDERSTAND PERSUASION!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0001",
+    "en": "   WANT ME!? THEN YOU GIVE SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0002",
+    "en": "GWAOHHHH! NO!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0003",
+    "en": "  YOU HUMAN! ME [FFF0]!{SAUT}BLOOD NOT MATCH!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0004",
+    "en": "{PAGE}YOU NOISY! GWAOHHHH! SHUT UP![FFFD]É[F500] YOU NEED ME!? AWOOOOH! ME HAPPY!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0005",
+    "en": "   YOU PERSUADE ME! AWOOOOH! HAPPY!{SAUT}WANT ME POWER?[FFFD]α[F500]  SEEM CONFIDENT... ME STRONG.{SAUT}YOU STRONG TOO?[FFFD][02FF][F500] YOU RECKLESS! ME RECKLESS TOO!{SAUT}HAHHHH! US GET ALONG GOOD!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0006",
+    "en": "  GWAOOOOH! ME NO IN GOOD MOOD!{SAUT}EAT YOU!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0007",
+    "en": " ME [FFF3]!{SAUT}ME HATE YOU! GIVE SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0008",
+    "en": "KRRR... ME TIRED...{SAUT}ME GO SLEEP...[FFFD][03FF][F500]   KRRR... ME SCARED... WANT GO{SAUT}HOME... BUT NO CAN GO HOME YET...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0009",
+    "en": " HAHHHH! ME UNDERSTAND INVITATION!{SAUT}GIVE SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0010",
+    "en": " HAHHHH! ME HAPPY WITH INVITATION!{SAUT}OKAY ME NO DO TRICKS?[FFFD][04FF][F500]  GWAOHHHHH! NO!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0011",
+    "en": " GWAOHHHH! YOU NOISY!{SAUT}ME [FFF3]! UNDERSTAND?[FFFD][05FF][F500]   KRRR... WHAT YOU DO WITH ME...?{SAUT}KRRR... ME NO UNDERSTAND HUMANS...[FFFD][06FF][F500]   KRRR... ME WONDER ABOUT INVITATION.{SAUT}HATE TRAPS...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0012",
+    "en": "  GWAOHHHH! NO! YOU SING BAD!{SAUT}GIVE SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0013",
+    "en": "   THAT ME SONG! GWAOHHHH!{SAUT}ME NO FORGIVE YOU!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0014",
+    "en": " BAD SONG... HEAD SPLITTING...{SAUT}YOU STOP NOW...[FFFD][07FF][F500]KRRR... ME HATE THAT SONG.{SAUT}YOU STOP NOW...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0015",
+    "en": " AWOOOOH! ME HAVE GREAT MOOD!{SAUT}YOU HAVE NICE VOICE!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0016",
+    "en": "  AWOOOH! ME LIKE SONGS! ME LISTEN{SAUT}ALL KINDS OF SONGS![FFFD][08FF][F500] HAHHHH! ME UNDERSTAND! ME LIKE{SAUT}GREEN. WHAT COLOR YOU LIKE?[FFFD][09FF][F500]   HAHHHH! ME HELP! ME UNDERSTAND{SAUT}YOU REQUEST. YOU GIVE SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0017",
+    "en": "   GWAOHHHH! YOU LOUD! ME HAVE{SAUT}BAD MOOD!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0018",
+    "en": "  GWAOHHHH! ME [FFF3]!{SAUT}WHY YOU ASK ME THAT?[FFFD][0AFF][F500] ME HAPPY! YOU LIKE ME!{SAUT}SO GIVE SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0019",
+    "en": " AWOOOOH! YOU REQUEST ME.{SAUT}WANT ME POWER?[FFFD][0BFF][F500]  YOU KISS BUTT! ME HATE!{SAUT}GWAOHHHH! RAGE!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0020",
+    "en": "YOU TOO SILLY! ME SHRED!{SAUT}BLOOD, GUSH GUSH![FFFD][0CFF][F500]   HAVE BAD FEELING... ME TEST YOU.{SAUT}WHAT FOOD YOU LIKE?[FFFD][0DFF][F500] YOU FLATTER ME... ME VERY{SAUT}EMBARRASSED. THIS GO TOO GOOD...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0021",
+    "en": " AWOOOH! THAT RIGHT! YOU SAY GOOD{SAUT}THING! ME TAKE SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0022",
+    "en": "ME HAVE GOOD MOOD! HOW MUCH YOU{SAUT}LIKE ME?[FFFD][0EFF][F500] HAHHHH! ME SURPRISED! YOU KNOW{SAUT}WEIRD THING! ME SHOCKED!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0023",
+    "en": "HAHHHH! ME SURPRISED! WHERE YOU{SAUT}HEAR THAT STORY?[FFFD][0FFF][F500] GWAOHHHH! ME HATE LIARS!{SAUT}GIVE SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0024",
+    "en": "  NO LIES! ME HATE LIES!{SAUT}ME CUT YOU OPEN![FFFD][10FF][F500]  ME LOVE CRAZY STORIES! ME HAPPY!{SAUT}SO GIVE SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0025",
+    "en": "   AWOOOOH! ME LOVE CRAZY STORIES!{SAUT}TELL ME ONE![FFFD][11FF][F500] HAHHHH! YOU SCARED? ME EAT YOU![FFFD][12FF][F500]  HAHHHH! YOU SCARED... IT BECAUSE{SAUT}ME STRONG? YOU GIVE SOMETHING,{SAUT}ME LET GO![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0026",
+    "en": "GWAOHHHH! ME [FFF3]!{SAUT}ME HATE COWARDS!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0027",
+    "en": "   YOU COWARD! ME NO FIGHT{SAUT}WEAKLINGS... GIVE SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0028",
+    "en": "  AWOOOH! THAT RIGHT! ME STRONGEST{SAUT}ONE THERE IS! YOU GIVE PRESENT![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0029",
+    "en": "  ME HAVE GOOD MOOD! YOU GOOD AT{SAUT}PRAISE! GOOD... YUMMY...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0030",
+    "en": "{PAGE}YUMMY IS GOOD... YOU HAVE THING{SAUT}YOU LIKE EAT?[FFFD][13FF][F500]   YOU MAN... ME MAN TOO... BUT YOU{SAUT}HIT ON ME?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0031",
+    "en": "{PAGE}HAHHHH! YOU SAY WEIRD THING!{SAUT}ME REAL HAPPY!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0032",
+    "en": "   HAHHHH! YOU MAN... ME MAN TOO...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0033",
+    "en": "{PAGE}THAT NOT RIGHT! WHAT YOU WANT?[FFFD][14FF][F500] GWAOHHHH! YOU MAN... ME MAN TOO...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0034",
+    "en": "{PAGE}SOCIETY NEVER APPROVE! YOU BAD!{SAUT}GO AWAY![FFFD][15FF][F500] GWAOHHHH! GO HIT ON GIRL, IDIOT!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0035",
+    "en": "   KRRR... YOU MAN... ME MAN TOO...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0036",
+    "en": "{PAGE}ME NORMAL! YOU WEIRDO?{SAUT}ME SCARED...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0037",
+    "en": "  ME HIT ON... YOU MAN... ME MAN TOO...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0038",
+    "en": "{PAGE}ME LIKE NORMAL... WHAT ARE YOU?[FFFD][16FF][F500]   AWOOOH! YOU HIT ON ME! ME HAPPY!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0039",
+    "en": "{PAGE}QUESTION BEFORE DATE!{SAUT}YOU WEAR PAJAMAS?[FFFD][17FF][F500]AWOOOOH! ME GIRL? GIRL...?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0040",
+    "en": "{PAGE}AWOOOOH! ME LOSE INTEREST!{SAUT}GIVE SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0041",
+    "en": "YOU FUNNY HUMAN! HAVE MORE{SAUT}FUNNY JOKES?[FFFD][18FF][F500]  ME UNDERSTAND JOKES! WILL JUDGE{SAUT}FOR YOU, SO GIVE SOMETHING...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0042",
+    "en": " YOU JOKES WORST! DO BETTER JOKES{SAUT}NEXT TIME![FFFD][19FF][F500]  GWAOHHHH! BAD JOKES!{SAUT}YOU FAIL AT COMEDY!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0043",
+    "en": "{PAGE}GWAOHHHH! IF NO WANT FAIL,{SAUT}THEN GIVE SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0044",
+    "en": " KRRR... WAS THAT JOKE?[FFFD][1AFF][F500]   KRRR... ME NO UNDERSTAND.{SAUT}BORING... SO BAD...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0045",
+    "en": "  AWOOOOH! YOU AWESOME! FUNNY JOKES!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0046",
+    "en": "{PAGE}AWOOOOH! ME LIKE! ME GET SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0047",
+    "en": "   AWOOOOH! YOU FUNNY! JOKES GREAT!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0048",
+    "en": "{PAGE}ME HAVE GOOD MOOD, WILL SING SONG!{SAUT}YOU HAVE REQUEST?[FFFD][1BFF][F500]   HAHHHH! HUMANS INTERESTING.{SAUT}LIKE STORIES THAT MUCH?[FFFD][1CFF][F500]  HAHHHH! WHY YOU TALK TO ME?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0049",
+    "en": "{PAGE}ME NO UNDERSTAND... BUT IT FEEL KIND{SAUT}OF NICE... SHOULD GET SOMETHING...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0050",
+    "en": "  YOU, HUMAN. ME, DRAGON!{SAUT}TOO DIFFERENT TO TALK!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0051",
+    "en": " YOU, HUMAN. ME, DRAGON!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0052",
+    "en": "{PAGE}ME NO UNDERSTAND YOU TALKING!{SAUT}GOOD MATCH![FFFD][1DFF][F500]   AWOOOOH! ME LIKE STORIES!{SAUT}YOU LIKE STORIES?[FFFD][1EFF][F500]  AWOOOOH! ME DO SMALL TALK FOR{SAUT}FIRST TIME! ME HAVE GOOD MOOD!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0053",
+    "en": "   ME SURPRISED! NOT BEEN SURPRISED{SAUT}IN LONG TIME! NEAT...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0054",
+    "en": " HAHHHH! ME SURPRISED!{SAUT}YOU SURPRISED TOO?[FFFD][1FFF][F500] ME ANNOYED... YOU SAY YOU SORRY!{SAUT}AND GIVE SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0055",
+    "en": "  GWAOHHHH! ME CAUGHT OFF GUARD!{SAUT}CATCH YOU OFF GUARD IN RETURN![FFFD][20FF][F500]KRRR... ME FROZEN IN FEAR...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0056",
+    "en": "   KRRR... NASTY HUMAN... YOU BULLY{SAUT}A DRAGON...[FFFD][21FF][F500] ME WANT THAT! BUT ME NOT KNOW YOU{SAUT}TOO GOOD... ME CAN TRUST YOU?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0057",
+    "en": "{PAGE}HAHHHH! YOU GIVE ME SOMETHING ELSE{SAUT}FIRST SO WE BE FRIENDS![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0058",
+    "en": "   HAHHHH! YOU HAVE GOOD THING.{SAUT}ME WANT...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0059",
+    "en": "{PAGE}BUT ME NOT WANT FAKE. THAT REAL?[FFFD][22FF][F500]ME NOT WANT THAT! ME WANT MORE{SAUT}BETTER THING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0060",
+    "en": "  GWAOHHHH! ME NOT WANT THAT!{SAUT}GIVE DIFFERENT THING![FFFD][23FF][F500]AWOOOOH! ME SURPRISED YOU FIGURE{SAUT}OUT WHAT ME WANT!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0061",
+    "en": "{PAGE}AWOOOOH! ME HAVE GOOD MOOD!{SAUT}YOU GIVE SOMETHING ELSE TOO.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0062",
+    "en": "  AWOOOH! SURPRISED YOU FIGURE OUT{SAUT}WHAT ME WANT!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0063",
+    "en": "{PAGE}ME CHECK COMPATIBILITY!{SAUT}YOU DHARMA, ME WHAT?[FFFD][24FF][F500] HAHHHH! THE BEST! GIVE SOMETHING,{SAUT}MIGHT MATCH EVEN MORE...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0064",
+    "en": "HAHHHH! YOU RELIABLE! ME WANT YOU{SAUT}BE FRIEND...[FFFD][25FF][F500]   GWAOHHHH! ME [FFF3]!{SAUT}NO CARE ABOUT SPEECHES!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0065",
+    "en": "ME [FFF3]!{SAUT}NO CARE ABOUT SPEECHES! WHY YOU{SAUT}MAKE SPEECH TO ME?[FFFD][26FF][F500] AWOOOOH! SPEECHES GREAT! ME LIKE!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0066",
+    "en": "  AWOOOOH! ME NOT REALLY GET IT.{SAUT}BUT ME HAPPY, KIND OF!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0067",
+    "en": "{PAGE}ME ASK YOU QUESTION! AWOOOOH!{SAUT}ME COOL?[FFFD][27FF][F500]YOU JUST BLUFF! CAN TELL!{SAUT}ME CAN TELL!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0068",
+    "en": " YOU STRONG? WHICH YOU RATHER BE,{SAUT}STRATEGY MAN OR GENERAL?[FFFD][28FF][F500]GWAOHHHH! ME NOT FORGIVE WHAT YOU{SAUT}SAY! ME TOO ANGRY!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0069",
+    "en": "{PAGE}GWAOHHHH! YOU SAY YOU SORRY![FFFD][29FF][F500]   GWAOHHHH! YOU RUDE! ME HATE YOU!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0070",
+    "en": "{PAGE}GWAOHHHH! ME RIP YOU APART!{SAUT}YOU NO WANT BE CUT, GIVE ME{SAUT}SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0071",
+    "en": "  KRRR... YOU SCARY...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0072",
+    "en": "{PAGE}KRRR... ME STOMACH HURT...{SAUT}YOU NOT YELL ANYMORE...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0073",
+    "en": "   KRRR... WHY YOU YELL? ME DO{SAUT}SOMETHING WRONG?[FFFD][2AFF][F500] HAHHHH! ME NOT STUPID. ME KNOW{SAUT}WHAT YOU THINKING.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0074",
+    "en": "{PAGE}HAHHHH! YOU TESTED ME... IF I{SAUT}PASSED, GIVE SOMETHING.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0075",
+    "en": "  YOU PRAISE ME!? WHY YOU PRAISE{SAUT}SO MUCH?[FFFD][2BFF][F500]  GWAOHHHH! YOU MAKE FUN OF ME!{SAUT}ME NOT FORGIVE! ME BEAT YOU![FFFD][2CFF][F500]   GWAOHHHH! YOU MAKE FUN OF ME!{SAUT}ME NOT FORGIVE UNLESS YOU GIVE{SAUT}SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0076",
+    "en": "   AWOOOOH! ME AMAZING! YOU UNDERSTAND{SAUT}THAT! GOOD!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0077",
+    "en": "AWOOOOH! YOU RIGHT! ME AMAZING!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0078",
+    "en": "{PAGE}YOU DO WHAT ME SAY! PLAY DEAD![FFFD][2DFF][F500]  HAHHHH! ME NOT KNOW THAT DANCE!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0079",
+    "en": "{PAGE}HAHHHH! ME VERY CURIOUS...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0080",
+    "en": "YOU DANCE GOOD! ME LIKE! YOU TEACH{SAUT}DANCE TO ME![FFFD][2EFF][F500]  GWAOHHHH! YOU DANCE BAD! ME SHOW{SAUT}YOU HOW![FFFD][2FFF][F500]STOP SHOWING BORING THING! RAGE!{SAUT}YOU GIVE SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0081",
+    "en": "  AWOOOOH! YOU GOOD DANCER!{SAUT}ME LIKE DANCING!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0082",
+    "en": "{PAGE}AWOOOOH! ME VERY HAPPY!{SAUT}WILL GET SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0083",
+    "en": "   AWOOOOH! YOU GOOD DANCER!{SAUT}ME HAPPY!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0084",
+    "en": "{PAGE}AWOOOOH! YOU LIKE ENTERTAIN{SAUT}DEMONS?[FFFD][30FF][F500] YOU YOUNG... ME SEEN IT ALL!{SAUT}YOU SEEN THINGS?[FFFD][31FF][F500]HAHHHH! ME LIKE MOUNTAIN!{SAUT}NO USE TAUNTING! HAHHHHH!{SAUT}GIVE SOMETHING AND ME MOVE.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0085",
+    "en": "   GWAOHHHH! YOU RUDE! ME ANGRY!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0086",
+    "en": "{PAGE}GWAOHHHH! YOU SEE VEIN POPPING OUT?[FFFD][32FF][F500]   GWAOHHHH! WANT ME ACCEPT YOU TAUNT!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0087",
+    "en": "   KRRR... ME GOOD DRAKE... YOU HAVE{SAUT}FUN BULLY ME?[FFFD][33FF][F500]  KRRR... ME NOT RESIST... ME NOT{SAUT}WANT TO FIGHT...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0088",
+    "en": "   HAHHHH! YOU STARE ME... ME GET{SAUT}EMBARRASSED...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0089",
+    "en": "  YOU REALLY LIKE ME! BUT EMBARRASSING,{SAUT}SO NO LOOK...[FFFD][34FF][F500]  GWAOHHHH! WHY YOU STARE ME?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0090",
+    "en": "{PAGE}STARE ALL YOU WANT, ME NO GIVE{SAUT}MONEY! YOU GIVE SOMETHING INSTEAD![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0091",
+    "en": "GWAOHHHH! WHY YOU STARE ME?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0092",
+    "en": "{PAGE}YOU RUDE! ME PUNISH![FFFD][35FF][F500]ME POPULAR! FEEL GOOD BE STARED{SAUT}AT! WANT LOOK CLOSER?[FFFD][36FF][F500]AWOOOOH! ME POPULAR! ME LOVE BE{SAUT}STARED AT!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0093",
+    "en": "{PAGE}AWOOOOH! AWOOOOH! ME GET SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0094",
+    "en": "   HAHHHHH! ME SURPRISED! WANT ME{SAUT}LEND HELP?[FFFD][37FF][F500]ME SURPRISED! NEVER HEARD SUCH{SAUT}STORY! GIVE ME THING TO REMEMBER.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0095",
+    "en": "  GWAOHHHH! YOU BRAG TOO MUCH!{SAUT}ME NOT BELIEVE!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0096",
+    "en": "   GWAOHHHH! YOU BRAG TOO MUCH!{SAUT}ME HATE LIES!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0097",
+    "en": "{PAGE}YOU HAVE TO BRAG, DO WHERE ME NO{SAUT}CAN HEAR![FFFD][38FF][F500]   AWOOOOOH! CRAZY STORY FUNNY!{SAUT}ME HAVE FUN!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0098",
+    "en": "{PAGE}IF ME HAVE FUN MEAN YOU HAVE{SAUT}FUN... THEN ME HAVE FUN!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0099",
+    "en": "   AWOOOOH! CRAZY STORY NICE!{SAUT}VERY FUN!{ATTENTE}",
+    "fr": ""
+  }
+]

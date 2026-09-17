@@ -1,0 +1,502 @@
+[
+  {
+    "id": "YOUEN.BIN:text:0000",
+    "en": "You want me? Hmm... it doesn't SEEM{SAUT}like you're lying...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0001",
+    "en": "   Wow, you're young... you have a pretty{SAUT}level head to try and persuade a demon![FFFD]É[F500]   Hey! Don't just say the first thing that{SAUT}pops into your head!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0002",
+    "en": "  Something seems fishy... Do you really{SAUT}mean what you say?[FFFD]α[F500]Whatever you say, you're still interested{SAUT}in me, right? With a figure like mine,{SAUT}you must be!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0003",
+    "en": "  So that's why you need my help![FFFD][02FF][F500]  I see. You have that much confidence in{SAUT}yourself? I'd love to put that to{SAUT}the test!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0004",
+    "en": "You seem pretty strong. So... what are{SAUT}you going to do to me, hmmm?[FFFD][03FF][F500]  Oh, is that so? If you prefer, I wouldn't{SAUT}mind fighting you without holding back!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0005",
+    "en": "  Well, if nothing else, you have quite the{SAUT}silver tongue. Where'd you learn to talk{SAUT}like that?[FFFD][04FF][F500]Why are you threatening me...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0006",
+    "en": " Don't make such awful faces...[FFFD][05FF][F500]   You want me? Hmm... it doesn't SEEM{SAUT}like you're lying...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0007",
+    "en": "   You're young, but you've got backbone,{SAUT}inviting a demon to come along.[FFFD][06FF][F500]   Hey! Don't just say the first thing that{SAUT}pops into your head!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0008",
+    "en": "  Something seems fishy... Do you really{SAUT}mean what you say?[FFFD][07FF][F500]I'm not into that kind of thing...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0009",
+    "en": " Psh! You're just sweet-talking me so{SAUT}you can kidnap me![FFFD][08FF][F500]  You've got a nice voice for a human...{SAUT}Let's hear what it sounds like when{SAUT}you scream!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0010",
+    "en": " Is that a challenge to a fellow chanteuse?{SAUT}Then I accept![FFFD][09FF][F500]You're... better than me...! What am{SAUT}I supposed to do?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0011",
+    "en": " You're killing my brain cells!{SAUT}Stop, please![FFFD][0AFF][F500] You've got a long way to go to catch up{SAUT}to me... but you're pretty good!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0012",
+    "en": "   ＊dreamy sigh＊[FFFD][0BFF][F500]You want me? Hmm... it doesn't SEEM{SAUT}like you're lying...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0013",
+    "en": "   Wow, you're young... you have a pretty{SAUT}level head to try and get a demon's help![FFFD][0CFF][F500] Hey! Don't just say the first thing that{SAUT}pops into your head!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0014",
+    "en": "  Something seems fishy... Do you really{SAUT}mean what you say?[FFFD][0DFF][F500]Whatever you say, you're still interested{SAUT}in me, right? With a figure like mine,{SAUT}you must be!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0015",
+    "en": "  So that's why you need my help![FFFD][0EFF][F500]  Don't you have any pride? I hate mousy{SAUT}girls like you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0016",
+    "en": " Stop trying the obvious! Don't think I{SAUT}don't know what you're really after![FFFD][0FFF][F500]  Hey, stop it... You're creeping me out...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0017",
+    "en": "  Oh, no, I'm nothing compared to the{SAUT}others. And may I say you look as strong{SAUT}as always, [FFF9]...[FFFD][10FF][F500] Yes! That's how things should be!{SAUT}Kneel before me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0018",
+    "en": " Ahhh... Why am I so perfect?{SAUT}My own greatness frightens me...[FFFD][11FF][F500]In other words, you want me? Hmm...{SAUT}it doesn't SEEM like you're lying...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0019",
+    "en": "   Wow, you're young, but you think about{SAUT}things like that, too. Good for you![FFFD][12FF][F500]  Hey! Don't just say the first thing that{SAUT}pops into your head!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0020",
+    "en": "  Something seems fishy... Do you really{SAUT}mean what you say?[FFFD][13FF][F500]Whatever you say, you're still interested{SAUT}in me, right? With a figure like mine,{SAUT}you must be!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0021",
+    "en": "  So when you get down to it, you need{SAUT}my help![FFFD][14FF][F500]You seem to have an innate understanding{SAUT}of your true strength. That's a very{SAUT}good thing.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0022",
+    "en": "  Oh, my... I was afraid you were an idiot,{SAUT}but you're actually very smart.[FFFD][15FF][F500]Don't you have any pride? I hate mousy{SAUT}girls like you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0023",
+    "en": " Stop trying the obvious! Don't think I{SAUT}don't know what you're really after![FFFD][16FF][F500]  Yes! That's how things should be!{SAUT}Kneel before me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0024",
+    "en": " Ahhh... Why am I so perfect?{SAUT}My own greatness frightens me...[FFFD][17FF][F500]You're hitting on a demon? What an odd{SAUT}boy... Still, you're a cute one!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0025",
+    "en": "I... I guess I wouldn't mind having{SAUT}dinner with you...[FFFD][18FF][F500]   Hey! I'm out of your league, kid!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0026",
+    "en": "  I'm not the easy pickup you think I am![FFFD][19FF][F500]  I'm scaaaaaared!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0027",
+    "en": "   I'm scaaaaaared!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0028",
+    "en": "   Reaaaally? Awwww, no way! But I already{SAUT}have a boyfriend, so... sorry.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0029",
+    "en": " Are you hitting on me? Ahaha...{SAUT}What should I do...?[FFFD][1AFF][F500] Someone like you is actually very smart.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0030",
+    "en": "   What was that?[FFFD][1BFF][F500]   Enough is enough!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0031",
+    "en": "  What's so interesting about that?[FFFD][1CFF][F500]...Laaaaame...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0032",
+    "en": " What's wrong!? You suddenly blurted out{SAUT}a joke![FFFD][1DFF][F500]  You're pretty funny! Not as funny as your{SAUT}face, though.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0033",
+    "en": "No way, you're funny! Want to debut as{SAUT}a pro? I'll be your manager.[FFFD][1EFF][F500]  Huh, is that so...? The human world{SAUT}sounds complicated too.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0034",
+    "en": "Don't you have more interesting news?[FFFD][1FFF][F500]I don't care about that stuff. If you're{SAUT}going to tell a story, make it a more{SAUT}interesting one!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0035",
+    "en": "This isn't the place for small talk!{SAUT}Take this seriously![FFFD][20FF][F500]Then I'll tell you an interesting story{SAUT}afterwards, too!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0036",
+    "en": "   All girls love gossip![FFFD][21FF][F500]   All that, just to get my attention?{SAUT}You're such a child...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0037",
+    "en": " What was that?[FFFD][22FF][F500]   Wh-What the!? Sheesh! Don't surprise me{SAUT}like that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0038",
+    "en": " What was that for!? You moron![FFFD][23FF][F500]   Eeeeek! Wh-What was that for?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0039",
+    "en": "  I won't do anything, okay? Relax...[FFFD][24FF][F500]  Is that a present for me? Oooh, hurry up{SAUT}and hand it over!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0040",
+    "en": " Rich, huh? I want more![FFFD][25FF][F500]  Are you trying to sway me with gifts?{SAUT}Hah! You won't win me over that way!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0041",
+    "en": " If you must give me a gift, make it{SAUT}a better one than that![FFFD][26FF][F500]  It's been so long since I last got a{SAUT}present... What a great day!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0042",
+    "en": "  It feels great to get gifts![FFFD][27FF][F500] In other words, you want me? Hmm...{SAUT}it doesn't SEEM like you're lying...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0043",
+    "en": "   Wow, you're young... but you seem pretty{SAUT}reliable. Impressive![FFFD][28FF][F500]   Hey! Don't just say the first thing that{SAUT}pops into your head!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0044",
+    "en": "  Something seems fishy... Do you really{SAUT}mean what you say?[FFFD][29FF][F500]Whatever you say, you're still interested{SAUT}in me, right? With a figure like mine,{SAUT}you must be!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0045",
+    "en": "  So that's why you need my help![FFFD][2AFF][F500]  I see. You have that much confidence in{SAUT}yourself? I'd love to put that to{SAUT}the test!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0046",
+    "en": "You seem pretty strong. So... what are{SAUT}you going to do to me, hmmm?[FFFD][2BFF][F500]  Oh, is that so? Well, I wouldn't mind{SAUT}fighting you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0047",
+    "en": "Well, if nothing else, you have quite the{SAUT}silver tongue. Where'd you learn to talk{SAUT}like that?[FFFD][2CFF][F500]You don't have to threaten me like that...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0048",
+    "en": " Don't make such awful faces...[FFFD][2DFF][F500]   You've got a hell of a mouth for a brat...{SAUT}Well, I'll forgive you this time.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0049",
+    "en": "   If you don't learn at least a few{SAUT}manners, you won't live very long.[FFFD][2EFF][F500] You act like a grownup, but you've got{SAUT}a lot to learn about how to treat women!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0050",
+    "en": "I've been alive for much longer than you!{SAUT}Watch how you speak to me![FFFD][2FFF][F500] I'll start to blush if you keep praising{SAUT}me that much!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0051",
+    "en": " Heehee... you're smart![FFFD][30FF][F500]  Not bad, not bad at all! I'm good at{SAUT}doing sexy dances too, you know!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0052",
+    "en": "  You're good! Teach me that one too when{SAUT}we meet again![FFFD][31FF][F500]   You're not ready for prime time yet.{SAUT}Come back when you've practiced more!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0053",
+    "en": " Hey, what're you doing!? Do you need to{SAUT}use the restroom?[FFFD][32FF][F500]Oh, how wonderful! I'm going to{SAUT}dance, too!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0054",
+    "en": "I'm so excited, I could dance the{SAUT}night away![FFFD][33FF][F500]I see. You have that much confidence in{SAUT}yourself? I'd love to put that to{SAUT}the test!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0055",
+    "en": "You seem pretty strong. So... what are{SAUT}you going to do to me, hmmm?[FFFD][34FF][F500]  Oh, is that so? Well, I wouldn't mind{SAUT}fighting you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0056",
+    "en": "Well, if nothing else, you have quite the{SAUT}silver tongue. Where'd you learn to talk{SAUT}like that?[FFFD][35FF][F500]You don't have to threaten me like that...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0057",
+    "en": " Don't make such awful faces...[FFFD][36FF][F500]   Is my makeup messed up?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0058",
+    "en": "If you keep that up, you'll stare a hole{SAUT}right through me![FFFD][37FF][F500]   What's with that glare? I don't like it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0059",
+    "en": "   What're you looking at!?[FFFD][38FF][F500] Look at you, gazing at me so dreamily...{SAUT}It's well-said that beauty is a sin.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0060",
+    "en": "  What's the matter? Have you never seen{SAUT}anyone so radiant as myself?[FFFD][39FF][F500]  Was that a lie? Nah... didn't seem{SAUT}like it...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0061",
+    "en": "  Wow, is that the kind of life you've led?{SAUT}You've been through a lot, haven't you?[FFFD][3AFF][F500]Hey! Don't just say the first thing that{SAUT}pops into your head!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0062",
+    "en": "  Something seems fishy... Do you really{SAUT}mean what you say?[FFFD][3BFF][F500]Whatever you say, you're still interested{SAUT}in me, right? With a figure like mine,{SAUT}you must be!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0063",
+    "en": "  I don't really get it, but I can see you{SAUT}need my help![FFFD][3CFF][F500]   That story is nonsense! Anything nowadays{SAUT}can be proved by science!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0064",
+    "en": "I have a story like that too! Honestly,{SAUT}don't you think it's so rude?[FFFD][3DFF][F500]N-No... stop it! Why'd you go and tell{SAUT}a story like that!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0065",
+    "en": " I can't handle stories like that!{SAUT}Please stop![FFFD][3EFF][F500]   I know a much scarier story. Wanna hear?[FFFD][3FFF][F500] Do you know a lot of stories like that?{SAUT}Then do you know any good haunted places{SAUT}to dare people to enter?[FFFD][40FF][F500]Wow, that's an amazing voice. You really{SAUT}can do anything!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0066",
+    "en": "  Let's try a duet next time! I'll sing{SAUT}Corin's part![FFFD][41FF][F500]  You've got a nice voice for a human...{SAUT}Let's hear what it sounds like when{SAUT}you scream!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0067",
+    "en": " Is that a challenge to a fellow chanteuse?{SAUT}Then I accept![FFFD][42FF][F500]You've got a long way to go to catch up{SAUT}to me... but you're pretty good!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0068",
+    "en": "   ＊dreamy sigh＊[FFFD][43FF][F500]Now this is an interesting approach!{SAUT}What ish it you're planning, Mommy?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0069",
+    "en": "   Heehee... Do I look that young?[FFFD][44FF][F500]  You think you know so much, huh?{SAUT}Come back and see me in a hundred years!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0070",
+    "en": "  How rude! You don't even show any manners{SAUT}when negotiating![FFFD][45FF][F500]  That's odd... For some reason, I feel{SAUT}all nostalgic.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0071",
+    "en": "   Squeeee! This is so fun![FFFD][46FF][F500] You want me? Hmm... it doesn't SEEM{SAUT}like you're lying...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0072",
+    "en": "   You're young, but you've got backbone,{SAUT}inviting a demon to come along.[FFFD][47FF][F500]   Hey! Don't just say the first thing that{SAUT}pops into your head!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0073",
+    "en": "  Something seems fishy... Do you really{SAUT}mean what you say?[FFFD][48FF][F500]Whatever you say, you're still interested{SAUT}in me, right? With a figure like mine,{SAUT}you must be!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0074",
+    "en": "  So that's why you need my help![FFFD][49FF][F500]  You've got a hell of a mouth for a brat...{SAUT}Well, I'll forgive you this time.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0075",
+    "en": "   If you don't learn at least a few{SAUT}manners, you won't live very long.[FFFD][4AFF][F500] You think you know so much, huh?{SAUT}Come back and see me in a hundred years!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0076",
+    "en": "  How rude! You have no manners at all![FFFD][4BFF][F500]Th-That's not true... ＊sniff＊(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0077",
+    "en": "  Wh-What's the deal here!? Just because{SAUT}you're young and cute... Grrrr! Oooh,{SAUT}I'm so jealous![FFFD][4CFF][F500] You're one odd girl. Cute, though!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0078",
+    "en": " I... I guess I wouldn't mind going out{SAUT}to dinner with you...[FFFD][4DFF][F500] Sorry, but I'm only interested in men!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0079",
+    "en": " Then come over here! I'll show you love,{SAUT}[FFF3]-style![FFFD][4EFF][F500]Oooh, really? See you later, then!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0080",
+    "en": " Are you sure? I'm going to take you at{SAUT}your word, you know...[FFFD][4FFF][F500]Poor thing... you gotta hang in there!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0081",
+    "en": " My... you're going through a lot for{SAUT}someone your age.[FFFD][50FF][F500]   Girls like you always use the most{SAUT}cliched tactics! Why don't you try{SAUT}something original for a change?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0082",
+    "en": " Oh, every demon knows you... Ayase,{SAUT}the Pseudo-Sobber![FFFD][51FF][F500]   Hey, don't cry! You make it look like{SAUT}I'm bullying you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0083",
+    "en": "Huh? C'mon, you don't have to cry...[FFFD][52FF][F500] I see. You have that much confidence in{SAUT}yourself? I'd love to put that to{SAUT}the test!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0084",
+    "en": "You seem pretty strong. So... what are{SAUT}you going to do to me, hmmm?[FFFD][53FF][F500]  Oh, is that so? Well, I wouldn't mind{SAUT}fighting you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0085",
+    "en": "Well, if nothing else, you have quite the{SAUT}silver tongue. Where'd you learn to talk{SAUT}like that?[FFFD][54FF][F500]You don't have to threaten me like that...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0086",
+    "en": " Don't make such awful faces...[FFFD][55FF][F500]   You think you know so much, huh?{SAUT}Come back and see me in a hundred years!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0087",
+    "en": "  How rude! You don't even show any manners{SAUT}when negotiating![FFFD][56FF][F500]  U-Um, I'm sorry...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0088",
+    "en": " I didn't do anything... Why are you{SAUT}treating me like this!?[FFFD][57FF][F500]  This is a new experience for me...{SAUT}I like it, though!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0089",
+    "en": "  I'm sorry, Mistress... Bully me more![FFFD][58FF][F500]It doesn't seem like you're just making{SAUT}it all up...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0090",
+    "en": "   Wow, you're young... but you have a{SAUT}pretty level head. Good for you![FFFD][59FF][F500] Hey! Don't just say the first thing that{SAUT}pops into your head!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0091",
+    "en": "  Something seems fishy... Do you really{SAUT}mean what you say?[FFFD][5AFF][F500]Whatever you say, you're still interested{SAUT}in me, right? With a figure like mine,{SAUT}you must be!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0092",
+    "en": "  So basically, that's why you need{SAUT}my help![FFFD][5BFF][F500]   You think you know so much, huh?{SAUT}Come back and see me in a hundred years!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0093",
+    "en": "  How rude! You have no manners at all![FFFD][5CFF][F500]U-Um, I'm sorry...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0094",
+    "en": " I didn't do anything... Why are you{SAUT}treating me like this!?[FFFD][5DFF][F500]  Heehee! You're quite a rambunctious girl.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0095",
+    "en": "  I'm sorry, Mistress... Bully me more![FFFD][5EFF][F500]You've got backbone. If that's for real,{SAUT}then it's pretty amazing.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0096",
+    "en": " Oh? Aren't you going to negotiate{SAUT}with me?[FFFD][5FFF][F500]   You've got backbone, but that's not{SAUT}the kind of attitude you should be{SAUT}showing me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0097",
+    "en": " Are you trying to ignore me? How dare you{SAUT}make a fool of me![FFFD][60FF][F500] ...I haven't done anything, have I?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0098",
+    "en": "Um... Um, sorry about that...[FFFD][61FF][F500]You've got backbone. If that's for real,{SAUT}then it's pretty amazing.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "YOUEN.BIN:text:0099",
+    "en": " Oh? Aren't you going to negotiate{SAUT}with me?[FFFD][62FF][F500]   You've got backbone, but that's not{SAUT}the kind of attitude you should be{SAUT}showing me!(*RESPONSE*)",
+    "fr": ""
+  }
+]

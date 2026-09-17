@@ -1,0 +1,502 @@
+[
+  {
+    "id": "KUTISAKE.BIN:text:0000",
+    "en": "You're right... I'm still young, too.{SAUT}It makes me think.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0001",
+    "en": "   Hmph! What do you think you're up to?{SAUT}As if you know how I've suffered!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0002",
+    "en": "I knew it! You're interested in me,{SAUT}aren't you?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0003",
+    "en": "{PAGE}Let me guess... You're attracted to{SAUT}women with large mouths!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0004",
+    "en": "  Goodness, you're rather confident.{SAUT}Wanna put that to the test later on?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0005",
+    "en": "The nerve, taunting me! Don't make me{SAUT}take off this mask!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0006",
+    "en": "  Wh-What's wrong with you...? Don't you{SAUT}know how to speak to a lady...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0007",
+    "en": " Do you really need my help?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0008",
+    "en": "{PAGE}Aren't you just trying to join our group?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0009",
+    "en": " Are you trying to sweet-talk me?{SAUT}Hmph! I'm not falling for that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0010",
+    "en": "   I'm not interested in people with small{SAUT}mouths. Sorry... try someone else.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0011",
+    "en": " What an amazing voice... It's so good,{SAUT}I kind of hate it! Let's see what it{SAUT}sounds like when it's screaming!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0012",
+    "en": "   Stop singing... I hate music.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0013",
+    "en": "  Wow, that's a great voice. You know,{SAUT}I was a good singer in my day, too.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0014",
+    "en": "   Well... you're not using any product{SAUT}in your hair, at least. I'll think{SAUT}about it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0015",
+    "en": "  Hmph! I bet you've rehearsed those lines{SAUT}before on other demons!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0016",
+    "en": "{PAGE}You disgust me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0017",
+    "en": "  Another favor? It seems like everyone's{SAUT}been coming to me.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0018",
+    "en": "{PAGE}Ahaha... Beauty can be a sin.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0019",
+    "en": "  Don't you have any pride!? I hate women{SAUT}like you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0020",
+    "en": "  Come on, cut that out... It's creepy.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0021",
+    "en": "  Yes! Exactly! The homely and the plain{SAUT}must kneel before me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0022",
+    "en": "   Hmm... I usually don't believe people{SAUT}unless they tell me I'm beautiful...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0023",
+    "en": "{PAGE}Well, maybe just this once, I'll let it{SAUT}go and believe you.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0024",
+    "en": "You're lying your ass off! Don't make me{SAUT}slice you to ribbons with my box cutter!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0025",
+    "en": "  Goodness... You want to spend time with{SAUT}me so badly you'll lie to do it?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0026",
+    "en": "{PAGE}Ahaha... I've still got it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0027",
+    "en": "  Ah, you seem to know your limitations.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0028",
+    "en": "{PAGE}That's a very important thing to get by{SAUT}in this world.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0029",
+    "en": " What's your problem!? You make me{SAUT}sound like a monster or something!{SAUT}Now I'm really ticked off!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0030",
+    "en": "That's right! Next time, bring me candy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0031",
+    "en": "   Huh? How old are you?{SAUT}Ick... You're still a kid...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0032",
+    "en": "{PAGE}Your arrogance is jaw-closing.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0033",
+    "en": " What does a brat like you want with me!?{SAUT}You're not my type!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0034",
+    "en": "   Dummy.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0035",
+    "en": " Am I beautiful!?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0036",
+    "en": "{PAGE}I'm beautiful, right!?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0037",
+    "en": "{PAGE}That's right! I AM beautiful!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0038",
+    "en": "Ahaha... You're cute.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0039",
+    "en": "{PAGE}It's a corny joke, but it's nice that{SAUT}you're trying to get my attention.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0040",
+    "en": "Hey! My mouth hurts when I laugh!{SAUT}You better not be doing that on purpose!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0041",
+    "en": " Laaaaame...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0042",
+    "en": "That was pretty funny! Not as funny as{SAUT}your face, though.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0043",
+    "en": "  Me? Let's see... I've been in a fix{SAUT}lately. Kids are too careful nowadays.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0044",
+    "en": " Hmmm... I haven't had much luck capturing{SAUT}kids lately.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0045",
+    "en": "{PAGE}So I'll capture you instead...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0046",
+    "en": "Umm, well... Rumor has it that humans who{SAUT}hit on demons are extra delicious!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0047",
+    "en": "   Awww, how cute... Trying to get my{SAUT}attention with a cheap gag like that...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0048",
+    "en": " Uh, what's wrong with you? Are you an{SAUT}idiot or something? How childish!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0049",
+    "en": "Wh-What was that for...? That was close.{SAUT}My mask almost slid off...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0050",
+    "en": "Is that a present? For me? Hurry up{SAUT}and gimme!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0051",
+    "en": " Hey! You think this is going to sway me!?{SAUT}You didn't give this much thought,{SAUT}did you? What I want is candy!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0052",
+    "en": "Oh, my! It's been a while since I was{SAUT}given a gift... How delightful!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0053",
+    "en": "  That speech was amazing! You must have{SAUT}practiced in front of a mirror. I like{SAUT}a man who works hard!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0054",
+    "en": "You talk big for a little kid! What a{SAUT}smart-aleck...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0055",
+    "en": "   If you can speak that confidently, you{SAUT}have a mouth well-suited to lip service!{SAUT}It could surpass mine someday!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0056",
+    "en": " Kids today really are lacking in calcium.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0057",
+    "en": "{PAGE}You should eat more candy.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0058",
+    "en": "  There's no reason to yell at me! This is{SAUT}why I hate stupid brats!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0059",
+    "en": "  ...My time has already passed... I wonder{SAUT}if I should just go into hiding.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0060",
+    "en": " I don't really like kids. They can be{SAUT}such smart-alecks... Will you really{SAUT}grow into a handsome man someday? Mmm.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0061",
+    "en": "  You pretend to be mature, but you've got{SAUT}a long way to go when it comes to{SAUT}dealing with women!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0062",
+    "en": " Oh, stop... you're embarrassing me...!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0063",
+    "en": " Is that the takenoko? I was active in{SAUT}the 70s... I don't know much about{SAUT}modern dances.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0064",
+    "en": "Hmph! Your moves are best kept to{SAUT}yourself, if you ask me. Come back{SAUT}when you've had more practice!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0065",
+    "en": "Ahaha... You're pretty good! But if it{SAUT}was a race, I'd win!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0066",
+    "en": "You seem pretty sure of yourself. I'm{SAUT}always surprised by kids these days.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0067",
+    "en": " You're one of those kids who never knows{SAUT}when to shut up! How about if I slice{SAUT}your mouth off, hmmm? What then!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0068",
+    "en": "   Um... Um, all I do is ask, \"Am I{SAUT}beautiful?\" you know...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0069",
+    "en": "{PAGE}...I'm not lying...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0070",
+    "en": "  Are you that curious to know what's under{SAUT}this mask?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0071",
+    "en": "{PAGE}Ahahah... That'll have to stay a secret.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0072",
+    "en": " What's with that look? It's getting on{SAUT}my nerves a little!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0073",
+    "en": " Hahah... I can tell you're enraptured.{SAUT}It's not for nothing that they say{SAUT}beauty can be a sin.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0074",
+    "en": " You sure can hype yourself up... it's{SAUT}really something. You're an interesting{SAUT}kid, you know that?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0075",
+    "en": "  Hmph! Talking without thinking is a{SAUT}terrible thing... Don't make me slit{SAUT}that mouth apart!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0076",
+    "en": " Ahahah... You don't have to lie just{SAUT}because you're embarrassed. Lots of{SAUT}people are interested in me.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0077",
+    "en": "  Hmph! The only creepy thing here is{SAUT}your face!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0078",
+    "en": " N-No! Stop it! Why did you tell me that!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0079",
+    "en": "  I was the talk of the town, back in{SAUT}the day. I'd like to slit your mouth{SAUT}and make you famous, too.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0080",
+    "en": " Wow, you have a wonderful voice. But if{SAUT}you slit your mouth wider, you could{SAUT}achieve an even greater range...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0081",
+    "en": "  You can out-sing me with that tiny{SAUT}mouth...? I don't know how I feel{SAUT}about that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0082",
+    "en": "   Wow, that's a great voice you have.{SAUT}Listening to you calms me down.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0083",
+    "en": "Now that's an interesting tactic!{SAUT}I like playing house, too.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0084",
+    "en": "   Hey! Who do you think I am!? Cut it{SAUT}out already!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0085",
+    "en": "   Strange... I feel so nostalgic all of{SAUT}a sudden. I'm glad I met you.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0086",
+    "en": "Huh...? Do you really need me? Don't you{SAUT}just want to be one of my sisters?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0087",
+    "en": "Hmph! I have my pride, you know! I'd{SAUT}sooner cut my mouth even wider than{SAUT}put myself in your care!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0088",
+    "en": "  Recently, I didn't even have anyone to{SAUT}ask, \"Am I beautiful?\" so I was getting{SAUT}lonely. You've made me a happy woman!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0089",
+    "en": "   Honestly... Kids your age are getting{SAUT}way too precocious. Though I was like{SAUT}that too when I was a delinquent...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0090",
+    "en": "Hey! Watch your mouth! What's with you?{SAUT}Don't sass me, little girl!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0091",
+    "en": "Th-That's not true... Oh God... ＊sob＊(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0092",
+    "en": "  Are you actually trying to seduce me...?{SAUT}Huh... I can't bring myself to hate you.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0093",
+    "en": "  Oh, is that so? Then feel the caress...{SAUT}of my box cutter on your face!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0094",
+    "en": " Ahahah... That's so cute.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0095",
+    "en": "  I didn't think there was anyone out there{SAUT}with a fate worse than mine... I feel for{SAUT}you from the bottom of my heart.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0096",
+    "en": "   Hmph! Boy, did you choose the wrong{SAUT}person to try that on! I love nothing{SAUT}more than making spoiled brats cry!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0097",
+    "en": "  Yeesh, stop crying... Your bad luck{SAUT}will rub off on me.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0098",
+    "en": "Wow...! You're pretty self-confident!{SAUT}People like you interest me.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KUTISAKE.BIN:text:0099",
+    "en": " Hmph! Don't act all high and mighty when{SAUT}you're really all talk! I'll give your{SAUT}fresh mouth a good slashing!(*RESPONSE*)",
+    "fr": ""
+  }
+]

@@ -87,8 +87,8 @@
     "id": "E0.BIN:183:0000",
     "locuteur": "Kandori",
     "en": "You, boy... I haven't heard your answer{SAUT}yet. What are you living for?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kandori",
+    "fr": "Toi, gamin... J'ai pas eu ta réponse{SAUT}encore. Pour quoi vis-tu?{ATTENTE}"
   },
   {
     "id": "E0.BIN:183:0001",
@@ -186,8 +186,8 @@
     "id": "E0.BIN:197:0001",
     "locuteur": "Maki",
     "en": "No way... Is that...{SAUT}(*APELLIDO_HEROE*)!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Pas vrai... C'est...{SAUT}(*APELLIDO_HEROE*)!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:197:0002",
@@ -200,8 +200,8 @@
     "id": "E0.BIN:197:0003",
     "locuteur": "Maki",
     "en": "Why is he here? And why is he{SAUT}playing games!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Pourquoi il est là? Et pourquoi il{SAUT}joue!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:197:0004",
@@ -214,8 +214,8 @@
     "id": "E0.BIN:197:0005",
     "locuteur": "Maki",
     "en": "A-Are you... really (*APELLIDO_HEROE*)?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "T-Tu es... vraiment (*APELLIDO_HEROE*)?{ATTENTE}"
   },
   {
     "id": "E0.BIN:197:0006",
@@ -305,15 +305,15 @@
     "id": "E0.BIN:199:0008",
     "locuteur": "Maki",
     "en": "Why're you acting like this!?{SAUT}(*APELLIDO_HEROE*) is a nice guy!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Pourquoi tu agis comme ça!?{SAUT}(*APELLIDO_HEROE*) est un mec bien!{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0009",
     "locuteur": "Maki",
     "en": "Let's go, (*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Allons-y, (*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0010",
@@ -443,15 +443,15 @@
     "id": "E0.BIN:199:0034",
     "locuteur": "Maki",
     "en": "So it's not just me... Everyone has{SAUT}different selves.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Donc pas que moi... Chacun a des{SAUT}moi différents.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0035",
     "locuteur": "Maki",
     "en": "Let's get out of here. I don't like{SAUT}that other (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Partons d'ici. Je n'aime pas cet{SAUT}autre (*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0036",
@@ -515,22 +515,22 @@
     "id": "E0.BIN:201:0000",
     "locuteur": "Maki",
     "en": "Aha! Found you, real-me!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Aha! Te voilà, vrai moi!{ATTENTE}"
   },
   {
     "id": "E0.BIN:201:0002",
     "locuteur": "Maki",
     "en": "Hold it right there! Where do you{SAUT}think you're running off to?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Arrête-toi là! Où crois-tu{SAUT}t'enfuir comme ça?{ATTENTE}"
   },
   {
     "id": "E0.BIN:201:0003",
     "locuteur": "Maki",
     "en": "There's nowhere left to hide!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Nulle part où te cacher!{ATTENTE}"
   },
   {
     "id": "E0.BIN:201:0004",
@@ -543,53 +543,53 @@
     "id": "E0.BIN:201:0005",
     "locuteur": "Maki",
     "en": "People's minds are nothing more than{SAUT}fragile bubbles born from this sea...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "L'esprit des gens n'est que de{SAUT}fragiles bulles nées de cette mer...{ATTENTE}"
   },
   {
     "id": "E0.BIN:201:0006",
     "locuteur": "Maki",
     "en": "I was a consciousness that should never{SAUT}have been born...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "J'étais une conscience qui n'aurait{SAUT}jamais du naître...{ATTENTE}"
   },
   {
     "id": "E0.BIN:201:0007",
     "locuteur": "Maki",
     "en": "If you'd been born first, my life would{SAUT}have turned out much differently...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Si tu étais née en premier, ma vie{SAUT}aurait été bien différente...{ATTENTE}"
   },
   {
     "id": "E0.BIN:201:0008",
     "locuteur": "Maki",
     "en": "Stop that! I don't want to hear that{SAUT}kind of talk from my own mouth!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Maki",
+    "fr": "Arrête! Je veux pas entendre ça{SAUT}de ma propre bouche!{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:201:0009",
     "locuteur": "Maki",
     "en": "Did you ever try to change? How?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Maki",
+    "fr": "As-tu tente de changer? Comment?{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:201:0010",
     "locuteur": "Maki",
     "en": "All you did was hide under the sheets{SAUT}and cry!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Maki",
+    "fr": "Tu n'as fait que pleurer sous{SAUT}les draps!{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:201:0011",
     "locuteur": "Maki",
     "en": "But now's our chance! We can change{SAUT}along with Masao, Kei, Reiji...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Mais c'est l'occasion! On peut changer{SAUT}avec Masao, Kei, Reiji...{ATTENTE}"
   },
   {
     "id": "E0.BIN:201:0012",
@@ -603,87 +603,87 @@
     "id": "E0.BIN:201:0013",
     "locuteur": "Maki",
     "en": "Doesn't looking at those guys make you{SAUT}feel like nothing is impossible?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Maki",
+    "fr": "Les voir ne te donne pas l'impression{SAUT}que rien n'est impossible?{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:201:0014",
     "locuteur": "Maki",
     "en": "You just have to get over yourself!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Maki",
+    "fr": "Tu dois juste te dépasser!{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E0.BIN:201:0018",
     "locuteur": "Maki",
     "en": "But now's our chance! We can change{SAUT}along with Masao, Kei, Elly...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Mais c'est l'occasion! On peut changer{SAUT}avec Masao, Kei, Elly...{ATTENTE}"
   },
   {
     "id": "E0.BIN:201:0025",
     "locuteur": "Maki",
     "en": "But now's our chance! We can change{SAUT}along with Masao, Kei, Hidehiko...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Mais c'est l'occasion! On peut changer{SAUT}avec Masao, Kei, Hidehiko...{ATTENTE}"
   },
   {
     "id": "E0.BIN:201:0032",
     "locuteur": "Maki",
     "en": "But now's our chance! We can change{SAUT}along with Masao, Kei, Yuka...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Mais c'est l'occasion! On peut changer{SAUT}avec Masao, Kei, Yuka...{ATTENTE}"
   },
   {
     "id": "E0.BIN:201:0037",
     "locuteur": "Maki",
     "en": "I won't run away anymore... I'll own{SAUT}up to the mistakes I've made!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Je ne fuirai plus... J'assumerai{SAUT}les erreurs que j'ai faites!{ATTENTE}"
   },
   {
     "id": "E0.BIN:201:0038",
     "locuteur": "Maki",
     "en": "...You should take this...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "...Tu devrais prendre ça...{ATTENTE}"
   },
   {
     "id": "E0.BIN:201:0039",
     "locuteur": "Maki",
     "en": "You can use it to enter the Avidya{SAUT}World, where Pandora is.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Sers-t'en pour entrer au monde{SAUT}Avidya, où est Pandore.{ATTENTE}"
   },
   {
     "id": "E0.BIN:201:0040",
     "locuteur": "Maki",
     "en": "I... really didn't want you to see me{SAUT}this way, (*APELLIDO_HEROE*)...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Je... voulais pas que tu me voies{SAUT}comme ça, (*APELLIDO_HEROE*)...{ATTENTE}"
   },
   {
     "id": "E0.BIN:201:0041",
     "locuteur": "Maki",
     "en": "I wonder if what I was trying to say{SAUT}got across...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Je me demande si ce que je disais{SAUT}est passé...{ATTENTE}"
   },
   {
     "id": "E0.BIN:201:0042",
     "locuteur": "Maki",
     "en": "Well, all I can do now is keep{SAUT}believing in myself...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Bon, tout ce que je peux faire c'est{SAUT}croire en moi...{ATTENTE}"
   },
   {
     "id": "E0.BIN:201:0043",
     "locuteur": "Maki",
     "en": "Let's go back to the others!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Retournons voir les autres!{ATTENTE}"
   },
   {
     "id": "E0.BIN:201:0044",

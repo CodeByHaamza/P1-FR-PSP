@@ -1,0 +1,502 @@
+[
+  {
+    "id": "GAKI.BIN:text:0105",
+    "en": "What the hell is this guy's problem?{SAUT}He's a menace to society...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0106",
+    "en": "   Gyahahaha! Gyahahaha!{SAUT}Bro's soul is raging!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0107",
+    "en": "Are you a magician, bro? Show me the{SAUT}trick next time!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0108",
+    "en": "  Tricks like that are way outta style...{SAUT}You're lame, bro...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0109",
+    "en": "Gyahahaha! Gyahahaha!{SAUT}Magic tricks give me a good laugh!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0110",
+    "en": "   Gah! I don't really get it, but it was{SAUT}interesting anyway!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0111",
+    "en": " Gah! Humans tell the most interesting{SAUT}stories! But you know what makes 'em{SAUT}better? When you give me stuff![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0112",
+    "en": "What was that, lameass!? So what? Shut{SAUT}the hell up!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0113",
+    "en": "What was that, lameass!? I don't give{SAUT}a shit about stories like that! Give{SAUT}me somethin', now![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0114",
+    "en": " I don't think I shoulda listened to{SAUT}that story...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0115",
+    "en": "  Why're you tellin' me somethin' like{SAUT}that...? Now I've gotta be all{SAUT}cautious...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0116",
+    "en": "Gyahahaha! Gyahahaha!{SAUT}I thought you'd use that technique!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0117",
+    "en": "  Gyahahaha! Gyahahaha!{SAUT}You say some crazy stuff!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0118",
+    "en": "Gah! You're easy to understand! Isn't{SAUT}bein' simple the best!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0119",
+    "en": "  Gah! If you want me, then do somethin'{SAUT}fun for me![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0120",
+    "en": "What was that, lameass!? I'm a{SAUT}[FFF0], dammit! I ain't lending my{SAUT}powers to some human!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0121",
+    "en": " What was that, lameass!? Enough of these{SAUT}shitty negotiations! Gimme somethin'![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0122",
+    "en": "That's got nothin' to do with me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0123",
+    "en": "You want my help? I've got a bad feeling{SAUT}about this...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0124",
+    "en": " Gyahahaha! Gyahahaha!{SAUT}I gotta plug up my pheromones! They{SAUT}must be overflowin'!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0125",
+    "en": " Gyahahaha! Gyahahaha!{SAUT}I like bein' counted on! Makes me feel{SAUT}awesome!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0126",
+    "en": "  Gah! You tryin' to piss me off? You're{SAUT}a weirdo of a human...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0127",
+    "en": "  Gah! That ain't gonna upset me! Try{SAUT}another one!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0128",
+    "en": "   What was that, lameass!? Don't{SAUT}underestimate me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0129",
+    "en": "   What was that, lameass!? Enough of these{SAUT}shitty negotiations! Gimme somethin'![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0130",
+    "en": "Is it fun for you to do stuff you{SAUT}don't even like?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0131",
+    "en": " What kinda attitude is that...? I don't{SAUT}believe this...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0132",
+    "en": "Gyahahaha! Gyahahaha!{SAUT}You ain't gonna get me with perverted{SAUT}negotiatons like that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0133",
+    "en": " Gyahahaha! Gyahahaha!{SAUT}I'm all happy! Negotiations like that{SAUT}are hilarious!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0134",
+    "en": " Gah! You're interesting! Be more{SAUT}interesting, though!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0135",
+    "en": "  Gah! I'm gettin' interested! You should{SAUT}give me somethin'![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0136",
+    "en": "What was that, lameass!? Don't pull{SAUT}those lame kinda stunts!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0137",
+    "en": "   What was that, lameass!? You're boring{SAUT}me to tears! I'm a demon born of greed![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0138",
+    "en": "What're you doing...? I don't understand{SAUT}you at all...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0139",
+    "en": " What...? You want me to do somethin'?{SAUT}You gonna give me somethin' in return?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0140",
+    "en": "  Gyahahaha! Gyahahaha!{SAUT}Now that's my style!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0141",
+    "en": " Gyahahaha! Gyahahaha!{SAUT}That's so awesome! Really!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0142",
+    "en": "   Gah! Awesome! Totally kickin'!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0143",
+    "en": " You're seriously interested in me!?{SAUT}Then you'll wanna listen to my request![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0144",
+    "en": "   What's that, lameass!? I ain't tempted{SAUT}by junk like that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0145",
+    "en": "  What's that, lameass!? I'm greedy,{SAUT}y'know! Super greedy![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0146",
+    "en": "  I feel a different kind of sweat{SAUT}seeping out...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0147",
+    "en": "I'm a demon... I can't get involved{SAUT}with humans...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0148",
+    "en": " Gyahahaha! Gyahahaha!{SAUT}That's what I'm talkin' about!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0149",
+    "en": "   Gyahahaha! Gyahahaha!{SAUT}You wanna get my attention? Gimme{SAUT}somethin'! That's how the world works![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0150",
+    "en": "Gah! You're scared of me...? Well at{SAUT}least you know your place, human!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0151",
+    "en": " Gah! Then gimme somethin'![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0152",
+    "en": "What was that lameass!? You don't mean{SAUT}that at all!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0153",
+    "en": "What was that, lameass!? Prove it![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0154",
+    "en": "I shouldn't be tellin' you this... but{SAUT}we preta have attitude problems...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0155",
+    "en": "  If I'm gettin' this much pressure now,{SAUT}what's gonna happen to me later...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0156",
+    "en": " Gyahahaha! Gyahahaha!{SAUT}It's been a while since I was in a good{SAUT}mood like this!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0157",
+    "en": "  Gyahahaha! Gyahahaha!{SAUT}Bein' able to call myself a demon is{SAUT}already the shit!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0158",
+    "en": "   Eh...? You already have my spell card...{SAUT}I'm outta here then...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0159",
+    "en": "Let's see... Take this!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0160",
+    "en": "You're such a pitiful human...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0161",
+    "en": " I dunno... You seem different from us...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0162",
+    "en": "   Wait a sec... Are you weaker than me!?{SAUT}I can't give my card to a weakling!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0163",
+    "en": " I'll give you this...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0164",
+    "en": "  ...Later!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0165",
+    "en": "  You're such a cool guy, so take this{SAUT}too!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0166",
+    "en": "  You don't need my card? Then I'm outta{SAUT}here!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0167",
+    "en": "   This is my card! Isn't it the best card{SAUT}ever!? You owe me big time! Thank me!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0168",
+    "en": "  I'll give ya this, so you have to let{SAUT}me go!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0169",
+    "en": "   This is a waste of time! Who taught ya{SAUT}to negotiate!? A brick wall? 'Cause{SAUT}this is goin' nowhere! I'm out!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0170",
+    "en": " This is a waste of time! I'll give ya{SAUT}this, so let's just leave it at that!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0171",
+    "en": "I have a single sentence for you that{SAUT}sums up my thoughts rather well...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0172",
+    "en": "{PAGE}What was that, lameass!?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0173",
+    "en": " ...I think I feel better now that I've{SAUT}said everything I wanted to say...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0174",
+    "en": "{PAGE}...But I'll make an exception this time!{SAUT}Have my spell card, buddy!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0175",
+    "en": " I've made up my mind! I'm comin' along{SAUT}for the ride! ...Not that I can really{SAUT}do that...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0176",
+    "en": "   ...Oh yeah! Here, take my spell card!{SAUT}We'll always be together if I become a{SAUT}Persona!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0177",
+    "en": "  I don't wanna fight anymore... I've had{SAUT}it with all the pain...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0178",
+    "en": "Let's see... I'll give you this.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0179",
+    "en": "   Oh crap, oh crap... I'll give ya my{SAUT}spell card! Just lemme go!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0180",
+    "en": " M-My card's amazing... I ain't lyin'...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0181",
+    "en": "Gah! I was just thinkin', \"I feel like{SAUT}talkin' to a human!\" And you showed up!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0182",
+    "en": " Gah! I'm filled with greed! You'll take{SAUT}care of that for me, won't ya?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0183",
+    "en": "What was that, lameass!? Don't answer{SAUT}for me, bro! Man, I'm raging pissed!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0184",
+    "en": " What was that, lameass!? If you wanna{SAUT}calm me down, give me something![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0185",
+    "en": "The moon's gone... I don't like it...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0186",
+    "en": "  Lemme make myself clear... I ain't that{SAUT}tasty... alright? So no fighting...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0187",
+    "en": "Gyahahaha! Gyahahaha! I'm awesome!{SAUT}I'm so frickin' happy right now!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0188",
+    "en": "Gyahahaha! Gyahahaha!{SAUT}I wanna play with you, bro! Hurry up{SAUT}and do somethin'!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0189",
+    "en": "   [FFEE]Oh man, humans! I like killin' 'em, but{SAUT}might as well negotiate first...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0190",
+    "en": "  [FFEE]You're a human, right!? When I run into{SAUT}humans, I always have them give me{SAUT}somethin'![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0191",
+    "en": "[FFEC]Words are better than fightin', so let's{SAUT}start with a negotiation...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0192",
+    "en": "  [FFEE]I thought I felt somethin' catch my{SAUT}attention... Figured I'd check it out.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0193",
+    "en": "[FFEE]I love humans! Let's hurry up and get{SAUT}this negotiation started!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0194",
+    "en": "   [FFEB]I ain't a social demon, but I feel like{SAUT}negotiating! First... gimme somethin'![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0195",
+    "en": "   [FFEC]Who the hell are you?{SAUT}Crap, I shouldn't talk like that around{SAUT}real thugs...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0196",
+    "en": "   [FFED]What's with that face? I don't like{SAUT}your attitude...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0197",
+    "en": "  [FFEB]It's an awesome moon! An awesome moon for{SAUT}an awesome demon!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0198",
+    "en": "   [FFED]You're stupid, aren't you!? I'm gonna{SAUT}make you give me something... but you're{SAUT}okay with that, right!?[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0199",
+    "en": "   [FFEC]Are you a pacifist? Well, let's see how{SAUT}negotiations turn out...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0200",
+    "en": "  [FFEB]A lot of preta are players, and most{SAUT}players are preta, but bein' a preta{SAUT}doesn't guarantee you're a player.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0201",
+    "en": "  Gah! Humans are interesting! So whaddaya{SAUT}want?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0202",
+    "en": " What was that, lameass!? I ain't doin'{SAUT}negotiations like this! I'm pissed!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0203",
+    "en": " Why ya gotta negotiate like that? You're{SAUT}scarin' me...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "GAKI.BIN:text:0204",
+    "en": " Gyahahaha! Gyahahaha!{SAUT}That was seriously fun!(*OPTION*)",
+    "fr": ""
+  }
+]

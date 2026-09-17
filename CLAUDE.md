@@ -70,14 +70,26 @@ autorité.** Un terme absent : ouvrir une issue, ne pas trancher seul.
 
 ### 7. Ignorer le champ `max` de `trad/eboot/`
 
-Les lignes des menus et des écrans portent un `max` : un nombre de caractères à
-ne pas dépasser, parce que le texte s'écrit par-dessus l'anglais à un
-emplacement de taille fixe. **Un modèle l'ignore et rend une phrase ample.**
-La ligne resterait alors en anglais dans le jeu, sans erreur au build.
+Les lignes des menus et des écrans portent un `max` : le nombre de caractères
+de l'anglais, dont le texte prend la place dans l'exécutable. **Un modèle
+l'ignore et rend une phrase ample.** Dépasser marche (le moteur redirige la
+chaîne ailleurs), mais c'est plus fragile : viser `max` reste la règle.
 
 Donne-lui la contrainte explicitement : « traduis ceci en 30 caractères
 maximum, jetons non comptés ». Et vérifie le compte toi-même — les modèles
 comptent mal les caractères.
+
+### 8. Rallonger les négociations
+
+Dans `trad/negociations/`, chaque fichier de démon n'a que **1 à 2 % de
+marge** en octets, alors que le français rallonge de 10 à 15 %. Un modèle
+produit des répliques plus longues que l'anglais, une par une, et le fichier
+finit par ne plus tenir dans sa place sur le disque. Consigne à lui donner :
+« même longueur que l'anglais, ou plus court ; le démon parle sec ». Et garder
+les espaces en tête de ligne : elles sont recopiées automatiquement, mais un
+modèle qui les « nettoie » dans l'anglais fait échouer le canari.
+
+Les `ALIEN_*` parlent en chiffres. Rien à traduire, rien à corriger.
 
 ## La bonne façon de s'en servir
 

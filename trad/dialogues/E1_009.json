@@ -3,8 +3,8 @@
     "id": "E1.BIN:053:0000",
     "locuteur": "Yukino",
     "en": "What the...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Mais--...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0001",
@@ -304,64 +304,64 @@
     "id": "E1.BIN:054:0000",
     "locuteur": "Drama club president",
     "en": "Kumi, I've noticed you haven't been{SAUT}showing up to rehearsal lately.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Président",
+    "fr": "Kumi, j'ai remarqué que tu manques{SAUT}les répétitions ces derniers temps.{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0001",
     "locuteur": "Drama club president",
     "en": "You have the title role in \"The Snow{SAUT}Queen,\" and you're not rehearsing?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Président",
+    "fr": "Tu as le rôle-titre dans \"La reine des{SAUT}Neiges,\" et tu ne répètes pas?{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0002",
     "locuteur": "Drama club president",
     "en": "What's the matter with you!? Everyone{SAUT}else is working hard!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Président",
+    "fr": "Qu'est-ce qui te prend!? Tous les{SAUT}autres travaillent dur!{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0003",
     "locuteur": "Drama club president",
     "en": "Do you feel even remotely guilty? Don't{SAUT}you realize how important your part is!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Président",
+    "fr": "Tu te sens un tant soit peu coupable? Tu ne{SAUT}vois pas combien ton rôle est important!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0004",
     "locuteur": "Drama club member",
     "en": "Yeah, Kumi!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre",
+    "fr": "Ouais, Kumi!{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0005",
     "locuteur": "Drama club member",
     "en": "You can't act like that when you won the{SAUT}Snow Queen part over our president.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre",
+    "fr": "Tu peux pas agir ainsi, t'as eu le rôle{SAUT}de Reine des Neiges, pas la présidente.{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0006",
     "locuteur": "Drama club member",
     "en": "Aren't you getting a little full{SAUT}of yourself?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre",
+    "fr": "Tu ne te prendrais pas un peu{SAUT}trop au sérieux?{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0007",
     "locuteur": "Drama club member",
     "en": "Really, though, we do need you to come{SAUT}to rehearsals.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre",
+    "fr": "Mais vraiment, on a besoin de toi{SAUT}aux répétitions.{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0008",
     "locuteur": "Drama club member",
     "en": "We can only do so much with your{SAUT}understudy. Talk to us, Kumi...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre",
+    "fr": "On ne peut pas tout faire avec ta{SAUT}doublure. Parle-nous, Kumi...{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0009",
@@ -381,22 +381,22 @@
     "id": "E1.BIN:054:0011",
     "locuteur": "Drama club member",
     "en": "Oh, geez! Here we go with the class{SAUT}genius's parents!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre",
+    "fr": "Oh, là! Voilà les parents du génie{SAUT}de la classe!{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0012",
     "locuteur": "Drama club member",
     "en": "What a load of crap. You were third in{SAUT}our grade for that last test, right?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre",
+    "fr": "N'importe quoi. T'étais troisième de{SAUT}la classe au dernier contrôle, non?{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0013",
     "locuteur": "Drama club member",
     "en": "How can you call that bad!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre",
+    "fr": "Comment ça peut être mauvais!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0014",
@@ -409,22 +409,22 @@
     "id": "E1.BIN:054:0015",
     "locuteur": "Drama club member",
     "en": "Oh, give me a break! What, is that{SAUT}sarcasm or something?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre",
+    "fr": "Oh, arrête! Quoi, c'est du{SAUT}sarcasme ou quoi?{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0016",
     "locuteur": "Drama club member",
     "en": "Just 'cause you're smarter than most{SAUT}doesn't mean you can act all stuck up!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre",
+    "fr": "Ce n'est pas parce que t'es plus maligne{SAUT}que tu dois jouer les hautaines!{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0017",
     "locuteur": "Drama club member",
     "en": "If studying's so important, then go{SAUT}ahead and quit the club!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre",
+    "fr": "Si réviser est si important, alors{SAUT}vas-y, quitte le club!{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0018",
@@ -437,78 +437,78 @@
     "id": "E1.BIN:054:0019",
     "locuteur": "Kumi",
     "en": "I... I didn't mean to...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "I... Je voulais pas...{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0020",
     "locuteur": "Drama club president",
     "en": "Alright, so you've told us why you{SAUT}haven't been coming.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Président",
+    "fr": "Bon, tu nous as dit pourquoi tu{SAUT}ne venais plus.{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0021",
     "locuteur": "Drama club president",
     "en": "But listen, Kumi... are you taking{SAUT}this club seriously?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Président",
+    "fr": "Mais écoute, Kumi... prends-tu ce{SAUT}club au sérieux?{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0022",
     "locuteur": "Drama club president",
     "en": "Do you understand how many people it{SAUT}affects when you don't show up?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Président",
+    "fr": "Comprends-tu combien de gens ça touche{SAUT}quand tu ne viens pas?{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0023",
     "locuteur": "Drama club president",
     "en": "Do you know how much trouble it causes{SAUT}when you focus on your own business?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Président",
+    "fr": "Sais-tu combien d'ennuis ça cause{SAUT}quand tu ne penses qu'à toi?{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0024",
     "locuteur": "Drama club president",
     "en": "Kumi... can you tell me what your role{SAUT}is in this club?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Président",
+    "fr": "Kumi... peux-tu me dire quel est ton{SAUT}rôle dans ce club?{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0025",
     "locuteur": "Drama club president",
     "en": "Because if you don't know, I have to{SAUT}ask you to leave.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Président",
+    "fr": "Car si tu l'ignores, je dois te{SAUT}demander de partir.{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0026",
     "locuteur": "Drama club member",
     "en": "Yeah, she's absolutely right! You heard{SAUT}her! Get outta here!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre",
+    "fr": "Ouais, elle a raison! Tu l'as{SAUT}entendue! Dégage d'ici!{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0027",
     "locuteur": "Drama club member",
     "en": "Stupid, stuck-up dork...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre",
+    "fr": "Idiote prétentieuse...{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0028",
     "locuteur": "Drama club member",
     "en": "Having a depressing loner like you around{SAUT}brings us all down!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre",
+    "fr": "Avoir une solitaire déprimante comme toi{SAUT}nous plombe tous!{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0029",
     "locuteur": "Drama club member",
     "en": "I'm sorry, but the president has a point.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre",
+    "fr": "Désolée, mais la présidente a raison.{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0030",

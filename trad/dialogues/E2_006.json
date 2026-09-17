@@ -10,29 +10,29 @@
     "id": "E2.BIN:080:0001",
     "locuteur": "Mark",
     "en": "With this power, we should be able to{SAUT}find out why this is happenin'!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Avec ce pouvoir, on devrait pouvoir{SAUT}comprendre pourquoi ça arriv'!{ATTENTE}"
   },
   {
     "id": "E2.BIN:080:0002",
     "locuteur": "Elly",
     "en": "How marvelous... I'm getting so excited!{SAUT}Oh my, please excuse me...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "C'est merveilleux... Je suis si excitée!{SAUT}Oh, pardonnez-moi...{ATTENTE}"
   },
   {
     "id": "E2.BIN:080:0003",
     "locuteur": "Yukino",
     "en": "What is this bullshit!? Whoever's doing{SAUT}this is gonna pay!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Quelle connerie!? Celui qui fait{SAUT}ça va payer!{ATTENTE}"
   },
   {
     "id": "E2.BIN:080:0004",
     "locuteur": "Yukino",
     "en": "I'll get this place back to normal or{SAUT}die trying!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Je vais tout remettre en ordre,{SAUT}quoi qu'arrive!{ATTENTE}"
   },
   {
     "id": "E2.BIN:080:0005",
@@ -45,29 +45,29 @@
     "id": "E2.BIN:080:0006",
     "locuteur": "Doctor",
     "en": "I have to treat the Sonomura girl...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Docteur",
+    "fr": "Dois soigner la fille Sonomura...!{ATTENTE}"
   },
   {
     "id": "E2.BIN:080:0007",
     "locuteur": "Nurse",
     "en": "The TV's not working, and the phone's{SAUT}dead too! What in the world is going on!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmière",
+    "fr": "La TV marche plus, le téléphone est{SAUT}mort aussi! Qu'est-ce qui se passe!?{ATTENTE}"
   },
   {
     "id": "E2.BIN:080:0008",
     "locuteur": "Nurse",
     "en": "I'd treat your wounds at the examination{SAUT}room, but... I can't find it!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmière",
+    "fr": "Je soignerais tes blessures à l'examen{SAUT}mais... Je le trouve pas!{ATTENTE}"
   },
   {
     "id": "E2.BIN:080:0009",
     "locuteur": "Nurse",
     "en": "Nothing in this hospital is where I{SAUT}remember it!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmiere",
+    "fr": "Rien dans cet hôpital n'est à sa{SAUT}place!{ATTENTE}"
   },
   {
     "id": "E2.BIN:081:0000",
@@ -80,8 +80,8 @@
     "id": "E2.BIN:081:0001",
     "locuteur": "Mark",
     "en": "Dammit! If only we had a hint or{SAUT}something!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Putain! Si on avait un indice{SAUT}ou un truc!{ATTENTE}"
   },
   {
     "id": "E2.BIN:081:0002",
@@ -94,113 +94,113 @@
     "id": "E2.BIN:081:0003",
     "locuteur": "Yukino",
     "en": "It's like even the air's changed...{SAUT}I'm finding it hard to breathe.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "C'est comme si l'air avait changé...{SAUT}J'ai du mal à respirer.{ATTENTE}"
   },
   {
     "id": "E2.BIN:081:0004",
     "locuteur": "Nurse",
     "en": "There's a strange haze I can see through{SAUT}the window... It's covering the town.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmière",
+    "fr": "Il y a une brume que je vois par{SAUT}la fenêtre... Elle couvre la ville.{ATTENTE}"
   },
   {
     "id": "E2.BIN:081:0005",
     "locuteur": "Nurse",
     "en": "You don't think we're trapped here like{SAUT}in the horror novels, do you?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmière",
+    "fr": "Tu crois pas qu'on est piégés comme{SAUT}dans les romans d'horreur?{ATTENTE}"
   },
   {
     "id": "E2.BIN:081:0006",
     "locuteur": "Old man",
     "en": "Oh, hello again, Hiroshi! Did you come{SAUT}to listen to my stories?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Vieil homme",
+    "fr": "Oh, te revoilà, Hiroshi! T'es venu{SAUT}écouter mes histoires?{ATTENTE}"
   },
   {
     "id": "E2.BIN:081:0007",
     "locuteur": "Old man",
     "en": "I have something to say that I think{SAUT}you may need to hear.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Vieil homme",
+    "fr": "J'ai une chose à te dire, et je{SAUT}pense que tu dois l'entendre.{ATTENTE}"
   },
   {
     "id": "E2.BIN:081:0008",
     "locuteur": "Old man",
     "en": "Stay calm, and think carefully before{SAUT}making a move.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Vieil homme",
+    "fr": "Reste calme, réfléchis avant{SAUT}d'agir.{ATTENTE}"
   },
   {
     "id": "E2.BIN:081:0009",
     "locuteur": "Old man",
     "en": "If you do... you'll arrive at the truth{SAUT}come what may.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Vieil homme",
+    "fr": "Si tu le fais, tu trouveras{SAUT}forcément la vérité.{ATTENTE}"
   },
   {
     "id": "E2.BIN:081:0010",
     "locuteur": "Old man",
     "en": "Say, Akiko? Is lunch ready yet?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Vieil homme",
+    "fr": "Dis, Akiko? Le repas prêt?{ATTENTE}"
   },
   {
     "id": "E2.BIN:082:0000",
     "locuteur": "Nanjo",
     "en": "I'll figure this out... There's nothing{SAUT}I can't do if I put my mind to it!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Je vais trouver... Il n'y a rien{SAUT}que je ne puisse faire si je m'y mets!{ATTENTE}"
   },
   {
     "id": "E2.BIN:082:0001",
     "locuteur": "Mark",
     "en": "Hey, you think the other guys have{SAUT}this power too?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Tu crois que les autres ont{SAUT}ce pouvoir aussi?{ATTENTE}"
   },
   {
     "id": "E2.BIN:082:0002",
     "locuteur": "Elly",
     "en": "We need to go to the Alaya Shrine.{SAUT}Please don't forget!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "On doit aller à l'Autel Alaya.{SAUT}Ne l'oublie pas, s'il te plaît!{ATTENTE}"
   },
   {
     "id": "E2.BIN:082:0003",
     "locuteur": "Yukino",
     "en": "This power's kinda unnerving, but it{SAUT}looks like it'll come in handy.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Ce pouvoir est plutôt troublant, mais{SAUT}ça va sûrement être utile.{ATTENTE}"
   },
   {
     "id": "E2.BIN:082:0004",
     "locuteur": "Patient",
     "en": "Argh, my cavity's hurting again.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Patient",
+    "fr": "Argh, ma carie fait encore mal.{ATTENTE}"
   },
   {
     "id": "E2.BIN:082:0005",
     "locuteur": "Patient",
     "en": "How can I get it treated when I can't{SAUT}reach the dentistry ward!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Patient",
+    "fr": "Comment je la soigne je peux pas{SAUT}atteindre le service dentaire!?{ATTENTE}"
   },
   {
     "id": "E2.BIN:082:0006",
     "locuteur": "Patient",
     "en": "I'm prepared for the worst, but I'm{SAUT}worried about my little grandson...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Patient",
+    "fr": "Je suis prêt au pire, mais je suis{SAUT}inquiet pour mon petit-fils...{ATTENTE}"
   },
   {
     "id": "E2.BIN:082:0007",
     "locuteur": "Patient",
     "en": "He should be at school... I hope{SAUT}nothing's happened there.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Patient",
+    "fr": "Il devrait être à l'école... J'espère{SAUT}qu'il va bien.{ATTENTE}"
   },
   {
     "id": "E2.BIN:083:0000",
@@ -589,24 +589,24 @@
     "id": "E2.BIN:107:0021",
     "locuteur": "Clerk",
     "en": "Won't you purchase some coins? Hmmmm?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Vendeur",
+    "fr": "Vous prenez des jetons? Hmmmm?{ATTENTE}",
     "_occurrences": 5
   },
   {
     "id": "E2.BIN:107:0022",
     "locuteur": "Clerk",
     "en": "I can exchange your coins for items, if{SAUT}that's what you're in the mood for...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Vendeur",
+    "fr": "Je peux échanger vos jetons contre des{SAUT}objets, si ça vous tente...{ATTENTE}",
     "_occurrences": 5
   },
   {
     "id": "E2.BIN:107:0023",
     "locuteur": "Clerk",
     "en": "Wanna see what I've got?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Vendeur",
+    "fr": "Voir mon stock?{ATTENTE}",
     "_occurrences": 5
   },
   {

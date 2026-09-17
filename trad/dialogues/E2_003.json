@@ -256,7 +256,7 @@
     "locuteur": "Mark",
     "en": "C'mon, let's go!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "",
+    "fr": "Allez, on y va!{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -628,16 +628,16 @@
     "id": "E2.BIN:045:0013",
     "locuteur": "Doctor",
     "en": "Now, what can I do for you?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Docteur",
+    "fr": "Alors je fais quoi?{ATTENTE}",
     "_occurrences": 9
   },
   {
     "id": "E2.BIN:045:0014",
     "locuteur": "Doctor",
     "en": "Alright... For all of you together...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Docteur",
+    "fr": "Bon... Pour vous tous ensemble...{ATTENTE}",
     "_occurrences": 9
   },
   {
@@ -652,16 +652,16 @@
     "id": "E2.BIN:045:0016",
     "locuteur": "Doctor",
     "en": "Hm. Then let's get you patched up.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Docteur",
+    "fr": "Hum. On va te soigner.{ATTENTE}",
     "_occurrences": 9
   },
   {
     "id": "E2.BIN:045:0017",
     "locuteur": "Doctor",
     "en": "There, that should do it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Docteur",
+    "fr": "Voilà, c'est fait.{ATTENTE}",
     "_occurrences": 9
   },
   {
@@ -676,8 +676,8 @@
     "id": "E2.BIN:045:0019",
     "locuteur": "Doctor",
     "en": "I hope you don't run into trouble later{SAUT}because you cheaped out on treatment.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Docteur",
+    "fr": "J'espère que tu n'auras pas de soucis{SAUT}pour avoir économisé sur les soins.{ATTENTE}",
     "_occurrences": 9
   },
   {
@@ -692,8 +692,8 @@
     "id": "E2.BIN:045:0021",
     "locuteur": "Doctor",
     "en": "My time is valuable. If you don't have{SAUT}any business here, then take a hike.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Docteur",
+    "fr": "Mon temps est précieux. Si t'as rien{SAUT}ici, alors dégage.{ATTENTE}",
     "_occurrences": 9
   }
 ]

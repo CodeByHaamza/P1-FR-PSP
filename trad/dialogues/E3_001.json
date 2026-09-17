@@ -395,24 +395,24 @@
     "id": "E3.BIN:003:0005",
     "locuteur": "Clerk",
     "en": "Welcoooome... I from Devil's Peak.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Vendeur",
+    "fr": "Bienv.. Moi venir du pic Diable.{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E3.BIN:003:0006",
     "locuteur": "Clerk",
     "en": "Bring very good things.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Vendeur",
+    "fr": "Porter bonnes choses.{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E3.BIN:003:0007",
     "locuteur": "Clerk",
     "en": "Mister need this. I sell at low price,{SAUT}you buy!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Vendeur",
+    "fr": "Monsieur besoin ça. Moi vendre pas cher,{SAUT}toi acheter!{ATTENTE}",
     "_occurrences": 4
   },
   {
@@ -433,8 +433,8 @@
     "id": "E3.BIN:003:0010",
     "locuteur": "Yukino",
     "en": "From Devil's Peak, huh? Then is that{SAUT}kid a demon too...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Yukino",
+    "fr": "Du pic du diable, hein? Alors ce{SAUT}gamin est un démon...?{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -448,8 +448,8 @@
     "id": "E3.BIN:003:0012",
     "locuteur": "Ayase",
     "en": "Hey, are these, like, real?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Ayase",
+    "fr": "Hé, c'est genre des vrais?{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -463,8 +463,8 @@
     "id": "E3.BIN:003:0014",
     "locuteur": "Nanjo",
     "en": "Amazing! All of these could prove useful{SAUT}for us.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Nanjo",
+    "fr": "Incroyable! Tout ça pourrait nous{SAUT}être utile.{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -485,16 +485,16 @@
     "id": "E3.BIN:003:0017",
     "locuteur": "Brown",
     "en": "Yikes, what's with the little arms dealer{SAUT}at school?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Brown",
+    "fr": "Beurk, c'est quoi ce marchand{SAUT}d'armes à l'école?{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "E3.BIN:003:0018",
     "locuteur": "Brown",
     "en": "...Well, I guess it's part of that small{SAUT}stuff you're not supposed to sweat.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Brown",
+    "fr": "...Bon, je suppose que c'est un de ces{SAUT}trucs à ne pas stresser.{ATTENTE}",
     "_occurrences": 3
   },
   {
@@ -508,8 +508,8 @@
     "id": "E3.BIN:003:0020",
     "locuteur": "Elly",
     "en": "That child is supposedly a merchant{SAUT}of death from the demon world.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "Ce gamin serait un marchand{SAUT}de mort venu du monde des démons.{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -570,16 +570,16 @@
     "id": "E3.BIN:004:0007",
     "locuteur": "Clerk",
     "en": "Wel... come...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Vendeur",
+    "fr": "Bienvenue...{ATTENTE}",
     "_occurrences": 5
   },
   {
     "id": "E3.BIN:004:0009",
     "locuteur": "Yukino",
     "en": "All these clothes have some practical use.{SAUT}They're more like armor than clothes.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Yukino",
+    "fr": "Tous ces vêtements ont une utilité.{SAUT}Plus des armures que des habits.{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -593,8 +593,8 @@
     "id": "E3.BIN:004:0011",
     "locuteur": "Ayase",
     "en": "Oh man, this is soooo cool!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Ayase",
+    "fr": "Oh là, c'est trop classe!{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -608,8 +608,8 @@
     "id": "E3.BIN:004:0013",
     "locuteur": "Nanjo",
     "en": "The higher an item's price, the sturdier{SAUT}it seems.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Nanjo",
+    "fr": "Plus un objet est cher, plus il semble{SAUT}solide.{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -651,8 +651,8 @@
     "id": "E3.BIN:004:0019",
     "locuteur": "Elly",
     "en": "Could this be armor? I must say, it's{SAUT}better than no protection whatsoever.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "Serait-ce une armure? Je dois dire{SAUT}que c'est mieux que rien.{ATTENTE}",
     "_occurrences": 2
   },
   {

@@ -1,0 +1,354 @@
+[
+  {
+    "id": "TINPRA.BIN:text:0207",
+    "en": " Regular joes like you don't need that{SAUT}stuff anyway. I'll hang onto it for ya.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0208",
+    "en": "  You underestimatin' me!? It's just common{SAUT}sense to have some life stones when{SAUT}ya wanna negotiate!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0209",
+    "en": "  Dude, at least carry a life stone or{SAUT}two with ya. They're important when{SAUT}ya wanna talk with us.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0211",
+    "en": "   You underestimatin' me!? Hand 'em over{SAUT}like a good kid, or ya'll sleep with{SAUT}the fishes.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0212",
+    "en": "What's a regular guy like you gonna use{SAUT}life stones for anyways?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0213",
+    "en": "   Hey, hand over a gem. Like a{SAUT}[FFF4] or somethin'.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0214",
+    "en": "   You ain't entirely on the up an' up.{SAUT}It's your type that succeeds, though.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0215",
+    "en": " Hey, ya ain't even got any.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0216",
+    "en": "You underestimatin' me!? Hand it over{SAUT}like a good kid, or someone'll find{SAUT}ya stuffed in a trunk someday.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0217",
+    "en": "   What, is a gem so important you can't{SAUT}part with even one? That greed'll be{SAUT}the death of you someday...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0218",
+    "en": " Lemme take a sip of your vital energy.{SAUT}It won't hurt, I promise.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0219",
+    "en": "   I like regular folks' vital energy.{SAUT}It ain't tainted or nothin'.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0220",
+    "en": "   You underestimatin' me!? What, ya think{SAUT}it'd be tainted if a guy like me took{SAUT}a little sip? Is that it!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0221",
+    "en": "   Wait, ya ain't feelin' well? I dunno{SAUT}about this all of a sudden...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0222",
+    "en": "Wait, ya diseased or somethin'? I dunno{SAUT}about this all of a sudden...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0223",
+    "en": "   Too many guys out there borrow money and{SAUT}never pay it back. Must be tough for ya.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0224",
+    "en": "  That's a pretty cheap trick, but it's{SAUT}important to start at the bottom. Keep{SAUT}an eye on the future and ya'll go far.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0225",
+    "en": "Go to hell!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0226",
+    "en": "...Ya don't get what's goin' on here,{SAUT}do ya? You ain't doped up on anythin',{SAUT}are ya?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0227",
+    "en": "   Then I'll give ya exactly what ya want...{SAUT}A nice full-body cast!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0228",
+    "en": "   Ya sure are calm. I don't mind forgivin'{SAUT}a man that's got guts.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0229",
+    "en": "I'll play favorites with good kids, kids{SAUT}quick on the uptake.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0230",
+    "en": "  Ya really do underestimate me, ya know...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0231",
+    "en": "  Then I'll send ya to the big sleep!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0232",
+    "en": "Is that all ya got to say? Ya gotta put{SAUT}some wit into it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0233",
+    "en": "  Man, you're a strange one! I'm gonna{SAUT}straighten ya out!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0234",
+    "en": "Ya got one warped mind, kid... There's no{SAUT}way ya'll grow up normal...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0235",
+    "en": "  What a coward... Ya gotta work on that.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0236",
+    "en": "If ya think ya said somethin' cool,{SAUT}think again, 'cause I'M that oni!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0237",
+    "en": "  Well said! I'll back anyone with as{SAUT}much guts as you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0238",
+    "en": "  ＊sigh＊ Sure, you're just a kid, but{SAUT}you're doin' one lousy job... Money{SAUT}talks, and don't forget it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0239",
+    "en": "What're ya stakin' out? A hood like me?{SAUT}Now ain't the time...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0240",
+    "en": "  Ya look pretty comfy, havin' a stroll{SAUT}while I work my ass off. Maybe I'll rip{SAUT}ya apart to blow off some steam!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0241",
+    "en": " Hahahaha! Ya'll go far, kid.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0242",
+    "en": "   Wasn't expectin' to find a real man here.{SAUT}Ya got what it takes to be a yakuza!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0243",
+    "en": " That kinda attitude, I don't forgive!{SAUT}Talk fast, cause it might be your{SAUT}last chance!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0244",
+    "en": "   If you're that scared, ya shouldn'tve{SAUT}answered in the first place!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0245",
+    "en": " You really are underestimatin' me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0246",
+    "en": "   It ain't smart to bluff. You wanna know{SAUT}that bad how it feels to be knifed!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0247",
+    "en": "   What the hell nonsense is this? Don't go{SAUT}underestimatin' us, kid!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0248",
+    "en": "  Hell yeah! The underworld is a rough{SAUT}place on your average joe.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0249",
+    "en": "What the hell're ya sayin'!? If ya keep{SAUT}underestimatin' everythin', you won't{SAUT}survive even with nine lives!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0250",
+    "en": "Hey, ya said somethin'... Which means ya{SAUT}ain't the real Ryu! Ya wanna get a taste{SAUT}of hell, do ya!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0251",
+    "en": " Hahaha! Man, you're right... I had ya{SAUT}confused for someone else!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0252",
+    "en": "   I thought ya were dead... Is this some{SAUT}kinda joke...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:text:0253",
+    "en": "  I thought ya were dead... Is this some{SAUT}kinda joke...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:resp:0000",
+    "en": "I came to collect.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TINPRA.BIN:resp:0001",
+    "en": "I'm on a stakeout.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TINPRA.BIN:resp:0002",
+    "en": "Stab(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:resp:0003",
+    "en": "Crush 'em.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:resp:0004",
+    "en": "Don't crush 'em.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:resp:0005",
+    "en": "I see no flies.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:resp:0006",
+    "en": "Alright.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TINPRA.BIN:resp:0008",
+    "en": "I'm not sleepy yet.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:resp:0009",
+    "en": "You have a point.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:resp:0011",
+    "en": "I hate the moon.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TINPRA.BIN:resp:0012",
+    "en": "I'm just acting big.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:resp:0013",
+    "en": "An oni awaits me.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:resp:0014",
+    "en": "I'm not acting big.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:resp:0017",
+    "en": "I'm taking a walk.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:resp:0018",
+    "en": "Agree(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:resp:0019",
+    "en": "Don't snap at me.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:resp:0021",
+    "en": "They're scary.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:resp:0022",
+    "en": "They don't scare me.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:resp:0023",
+    "en": "Stab me.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TINPRA.BIN:resp:0024",
+    "en": "Make me a yakuza!(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:resp:0025",
+    "en": "I can't go astray.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "TINPRA.BIN:resp:0026",
+    "en": "Show me the way.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "TINPRA.BIN:resp:0028",
+    "en": "You don't want me.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  }
+]

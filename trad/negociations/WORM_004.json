@@ -1,0 +1,503 @@
+[
+  {
+    "id": "WORM.BIN:text:0302",
+    "en": " GWAOHHHH! YOU BORING ME QUIT!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0303",
+    "en": "{PAGE}ME GIVE YOU THIS. GO STUDY MORE!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0304",
+    "en": "...YOU TOO BIG! ME WOULD DISLOCATE{SAUT}JAW...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0305",
+    "en": "  GWAOHHHH! ME WANT GNAW THOUGH!{SAUT}SCREW THIS! ME GIVE CARD!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0306",
+    "en": "   YOU HAVE ENOUGH CARDS? ME HAVE CARD!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0307",
+    "en": "   ME BET YOU USE ME CARD GOOD!{SAUT}WILL GIVE YOU! UP TO YOU NOW!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0308",
+    "en": " KRRR... ME HATE FIGHTING!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0309",
+    "en": "  YOU WANT SOMETHING? ME HELP YOU{SAUT}WITH THIS!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0310",
+    "en": " IF YOU DONE, ME HAVE THINGS TO DO!{SAUT}FIRST ME DEAL WITH WHAT IN FRONT{SAUT}OF ME...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0311",
+    "en": "   ME GIVE ME CARD... LET ME GO...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0312",
+    "en": "HAHHHH! ME WANT ASK HUMAN...{SAUT}WHERE MOON THAT WAS IN MIDDLE OF{SAUT}SKY? YOU KNOW?[FFFD][61FF][F500] HAHHHH! HUMANS RARE. ME TRY TALK.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0313",
+    "en": "  HAHHHH! ME [FFF3].{SAUT}BORN A DRAGON!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0314",
+    "en": "{PAGE}HAHHHH! YOU HUMAN? ME WANT{SAUT}SOMETHING![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0315",
+    "en": "   GWAOHHHH! THIS ME TERRITORY!{SAUT}YOU TRESPASS!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0316",
+    "en": "{PAGE}ONLY SPECIALIST CAN PASS!{SAUT}WHO YOU!?[FFFD][62FF][F500]  GWAOHHHH! ROUNDY ROUND MOON!{SAUT}ME WANT BLOOD!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0317",
+    "en": "GWAOHHHH! THIS ME TERRITORY!{SAUT}YOU TRESPASS!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0318",
+    "en": "{PAGE}GWAOHHHH! ME POLICE! YOU PAY FINE![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0319",
+    "en": "KRRR... ME [FFF3].{SAUT}YOU TELL YOU NAME...[FFFD][63FF][F500]   KRRR... ME PACIFIST... NO WANT{SAUT}FIGHT YOU...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0320",
+    "en": "KRRR... YOU DEMON? YOU HUMAN?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0321",
+    "en": "{PAGE}YOU BRUTE? YOU LIKE BLOOD?{SAUT}ME BEG FOR LIFE...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0322",
+    "en": "  AWOOOOH! ROUND MOON! ME HAVE GOOD{SAUT}MOOD! YOU HAVE TIME TO SPARE?[FFFD][64FF][F500]  AWOOOOH! ME HEARD YOU VOICE!{SAUT}SO ME WANT TALK!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0323",
+    "en": "  AWOOOOH! ME LOVE MOONGAZING.{SAUT}BUT ALCOHOL EXPENSIVE...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0324",
+    "en": "{PAGE}YOU MAKE DONATION? ANYTHING TO TAKE{SAUT}PLACE OF ALCOHOL GOOD...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0325",
+    "en": "   [FFED]HUMAN... ME NO KNOW YOU!{SAUT}YOU TRICK ME?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0326",
+    "en": "{PAGE}HAHHHH! ME TEST YOU! CIRCLE OR{SAUT}SQUARE, WHICH YOU LIKE?[FFFD][65FF][F500]  [FFEE]WEIRD... YOU CALL ME? ME NOT{SAUT}HEARING THINGS THEN...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0327",
+    "en": "   [FFED]THIS ME TERRITORY! YOU NEGOTIATE{SAUT}HERE, PAY FEE![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0328",
+    "en": "  [FFEE]ME [FFF3].{SAUT}YOU WEIRD HUMAN...{SAUT}{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0329",
+    "en": "{PAGE}ME ASK QUESTION! BIG BOX AND{SAUT}LITTLE BOX. WHICH YOU OPEN?[FFFD][66FF][F500] [FFEE]ME [FFF3].{SAUT}YOU SEEM NICE. ME NEGOTIATE{SAUT}WITH YOU...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0330",
+    "en": " [FFEC]ME [FFF3].{SAUT}WHAT YOU WANT?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0331",
+    "en": "{PAGE}HAHHHH! NEVER MIND. ME GET{SAUT}SOMETHING FIRST...[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0332",
+    "en": "  [FFEB]ME DOING GREAT! HOW YOU DOING,{SAUT}HUMAN?[FFFD][67FF][F500]   [FFEB]AWOOOOH! ME HEAD CLEARED!{SAUT}A-OKAY FOR NEGOTIATE!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0333",
+    "en": "   [FFEE]ME [FFF3].{SAUT}ME NOT KNOW HUMANS TOO GOOD!{SAUT}SO ME WANT KNOW MORE ABOUT HUMANS!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0334",
+    "en": "{PAGE}WANT NEGOTIATE WITH YOU IF THAT{SAUT}OKAY! BUT ME WANT SOMETHING FIRST.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0335",
+    "en": "[FFED]WHAT YOU DOING, HUMAN? THIS ME{SAUT}TERRITORY! YOU NOT KNOW?[FFFD][68FF][F500] [FFED]ME SMELL DEMON BLOOD ON YOU...{SAUT}NEGOTIATION NOT GO GOOD, ME RIP{SAUT}YOU APART!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0336",
+    "en": " [FFED]YOU NASTY... NOT NICE! YOU MAKE{SAUT}ME FEEL SICK!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0337",
+    "en": " [FFEB]LOOK, HUMAN! GREAT MOON!{SAUT}SO ROUNDY ROUND!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0338",
+    "en": "{PAGE}ME NO THINK ME WILL LOSE!{SAUT}AWOOOOH! YOU LIKE ROUND THINGS?[FFFD][69FF][F500][FFEB]AWOOOOH! HUMAN MEAT! ME HUNGRY!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0339",
+    "en": "{PAGE}ME MIGHT EAT YOU WHOLE DEPEND ON{SAUT}HOW TALK GOES!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0340",
+    "en": "  [FFED]GWAOHHHH! YOU NOT MEAT ME WANT!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0341",
+    "en": "{PAGE}ME LET YOU GO... GIVE ME REWARD{SAUT}FOR SPARING LIFE![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0342",
+    "en": "   [FFEC]KRRR... ME NO KNOW YOU...{SAUT}BUT YOU HERE...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0343",
+    "en": "{PAGE}THIS ME TERRITORY, SO ME WELCOME...{SAUT}WHAT YOU WANT EAT?[FFFD][6AFF][F500]   [FFEB]ME [FFF3].{SAUT}ME INTRODUCE ME JUST IN CASE...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0344",
+    "en": "{PAGE}ME LIKE YOU OR NOT DEPEND ON TALK.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0345",
+    "en": " [FFEB]ME [FFF3].{SAUT}ME INTRODUCE ME JUST IN CASE...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0346",
+    "en": "{PAGE}IF GIVE SOMETHING BEFORE TALK,{SAUT}ME WILL LIKE YOU.[FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0347",
+    "en": "  HRM! YOU, ME, KINDRED SOULS! YOU{SAUT}IMPORTANT TO ME! WHAT YOU WANT?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0348",
+    "en": "   GWAOHHHH! ME EAT YOU WHOLE!{SAUT}REALLY MAD!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0349",
+    "en": "KRRR... ME SCARED. MIGHT BE END{SAUT}OF WORLD...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0350",
+    "en": "AWOOOOH! ME HAVE LOTS FUN!{SAUT}ME REAL HAPPY!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0351",
+    "en": "  YOU INTERESTING! STILL NO GOOD AT{SAUT}TALK, THOUGH. ANNOYING... YOU TELL{SAUT}WHAT YOU WANT!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0352",
+    "en": "YOU INTERESTING! BUT ME NERVOUS...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0353",
+    "en": "{PAGE}NOT SURE IF WE CAN BE FRIENDS.{SAUT}WILL LISTEN YOU FOR NOW.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0354",
+    "en": "YOU INTERESTING! ME REALLY HAPPY!{SAUT}WE ALREADY BEST FRIENDS!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0355",
+    "en": "{PAGE}ME PROVE IT! WHAT YOU WANT,{SAUT}BEST FRIEND?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0356",
+    "en": "   ME HAHHHGWAOHKRRR...!{SAUT}ME ALL CONFUSED BECAUSE ME{SAUT}NEGOTIATE WITH YOU!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0357",
+    "en": "   YOU NEGOTIATE NOT INTERESTING!{SAUT}TOO WORTHLESS!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0358",
+    "en": "  YOU REALLY GOOD... AMAZING HUMAN!{SAUT}ME DO WHAT YOU SAY!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0359",
+    "en": "  HAHHHH! ME WANT MONEY!{SAUT}(*VALUE*) YEN!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0360",
+    "en": "  AWOOOOH! MONEY MONEY MONEY!{SAUT}AWOOOOH!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0361",
+    "en": "   KRRR... ME BUMMED...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "WORM.BIN:text:0362",
+    "en": "   GWAOHHHH! YOU NOT HAVE MONEY!{SAUT}NO MONEY MEANS YOU LAME!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0363",
+    "en": " GWAOHHHH! YOU WANT NEGOTIATE{SAUT}OR NOT!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0364",
+    "en": "  KRRR... YOU STINGY. ME NOT CARE{SAUT}ABOUT STINGY HUMAN...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0365",
+    "en": "  HAHHHH! ME WANT LIFE STONE!{SAUT}ONE ENOUGH!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0366",
+    "en": "AWOOOOH! LIFE STONE! LIFE STONE!{SAUT}AWOOOOH!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0367",
+    "en": "  GWAOHHHH! YOU NOT HAVE LIFE STONE!{SAUT}NO LIFE STONE MEANS YOU LAME!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0369",
+    "en": "   BUT ME LOVE LIFE STONES!{SAUT}YOU MEAN!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0370",
+    "en": " KRRR... YOU STINGY. ME NOT CARE{SAUT}ABOUT STINGY HUMAN...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0371",
+    "en": "  HAHHHH! ME WANT GEM!{SAUT}[FFF4]!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0372",
+    "en": "AWOOOOH! [FFF4]!{SAUT}AWOOOOH!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0373",
+    "en": "   KRRR... GEM... GRR...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0374",
+    "en": "  GWAOHHHH! BUT ME WANT GEM!{SAUT}ME HATE YOU!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0375",
+    "en": "HAHHHH... YOU KNOW VALUE OF GEMS.{SAUT}YOU SMART. HAHHHH!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0376",
+    "en": "   ME WANT SIP... GIVE VITAL ENERGY.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0377",
+    "en": "  AWOOOOH! YOU LOOK YUMMY!{SAUT}ME DRINK ALL DOWN!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0378",
+    "en": "GWAOHHHH! YOU SHOW VITAL ENERGY{SAUT}AND NOW THIS!? GWAOHHH! ME TAKE{SAUT}BY FORCE!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0379",
+    "en": "  ME WANT SIP... BUT YOU SAY NO...{SAUT}ME BUMMED...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0380",
+    "en": "  YOU UNDERSTAND... ME WON'T GNAW{SAUT}ON YOU.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0381",
+    "en": "YOU USEFUL! O-TYPE HANDY!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0382",
+    "en": "  YOU STUPID? NOT A DRAGON!{SAUT}ME DISGUSTED!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0383",
+    "en": "NO... ME WANT BE A LITTLE MEAN.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0384",
+    "en": "YOU KNOW ME TRUE STRENGTH!{SAUT}ME HAPPY!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0385",
+    "en": "   KRRR... ME NOT GET...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0386",
+    "en": "  THEN ME CHALLENGE YOU!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0387",
+    "en": " ME LIKE STRONG HUMANS! ME GLAD WE{SAUT}HAD THIS TALK!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0388",
+    "en": "   IF YOU ONLY A LITTLE STRONG,{SAUT}ME ONLY A LITTLE NOT CARE.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0389",
+    "en": "YOU WEAK!? ME NOT FORGIVE THAT!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0390",
+    "en": "ME TIRED... SO TIRED...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0391",
+    "en": "GWAOHHHH! YOU PLAN ATTACK ME IN{SAUT}SLEEP. DIRTY TRICK!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0392",
+    "en": "ME OVERSLEEP... IF YOU WAKE ME UP,{SAUT}ME THANK YOU!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0393",
+    "en": "   AWOOOOH! GOOD LOOKING MAN!{SAUT}ME LIKE!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0394",
+    "en": "KRRR... TEACH WHAT? ME NOT LIKE{SAUT}PAINFUL THINGS...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0395",
+    "en": "  GWAOHHH! ME DRAGON! YOU SOLVE PROBLEM{SAUT}OF ME CANNOT DO IT!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0396",
+    "en": " THEN WHY YOU INVITE ME!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0397",
+    "en": "   YOU KNOW NOTHING ABOUT WHO YOU{SAUT}NEGOTIATE WITH. STUPID!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0398",
+    "en": " YES! DIFFERENT SPECIES NOT MATTER!{SAUT}EVERYONE BROTHERS!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0399",
+    "en": "  YOU SERIOUS! GOOD IMPRESSION!{SAUT}ME TRUST YOU!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0400",
+    "en": "AWFUL HUMANS... SHOULD NOT HAVE{SAUT}ASKED THAT...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0401",
+    "en": "  HUMANS SELFISH AFTER ALL!{SAUT}YOU NO GOOD!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "WORM.BIN:text:0402",
+    "en": " THAT HOW IT SHOULD BE.(*RESPONSE*)",
+    "fr": ""
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "id": "KYOUKI.BIN:resp:0262",
+    "en": "You don't scare me.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KYOUKI.BIN:resp:0265",
+    "en": "Ooh!(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "KYOUKI.BIN:resp:0277",
+    "en": "That's awesome!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:resp:0280",
+    "en": "Gaaaaaaaaah!(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "KYOUKI.BIN:resp:0283",
+    "en": "It's killin' time.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KYOUKI.BIN:resp:0291",
+    "en": "You'll disappear.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KYOUKI.BIN:resp:0293",
+    "en": "That's my concern.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:resp:0294",
+    "en": "I can!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KYOUKI.BIN:resp:0296",
+    "en": "I can't.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:resp:0297",
+    "en": "Scouting.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:resp:0298",
+    "en": "Weapon testing.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:resp:0300",
+    "en": "Huh, where?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:resp:0305",
+    "en": "You're dangerous.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:resp:0306",
+    "en": "Want to come along?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:resp:0310",
+    "en": "Not one bit.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:resp:0312",
+    "en": "Wanna join me?(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:resp:0315",
+    "en": "Why are you leaving?(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:resp:0318",
+    "en": "Wreak havoc alone.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KYOUKI.BIN:resp:0320",
+    "en": "It's dangerous.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:resp:0321",
+    "en": "You knew that?(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:resp:0325",
+    "en": "I don't think so.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KYOUKI.BIN:resp:0327",
+    "en": "This.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KYOUKI.BIN:resp:0328",
+    "en": "That.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  }
+]

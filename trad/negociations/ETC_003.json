@@ -1,0 +1,518 @@
+[
+  {
+    "id": "ETC.BIN:text:0276",
+    "en": "{PAGE}(*SPEAKER*)Fuhedi Mergane{SAUT}It seems Abai's soul did not satiate{SAUT}you...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0277",
+    "en": "{PAGE}(*SPEAKER*)Fuhedi Mergane{SAUT}So taste the fury of my lightning bolt!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0278",
+    "en": " [FFED](*SPEAKER*)Mangadhai{SAUT}GAAAAAAAH! ME HAD MANY RUN-INS WITH{SAUT}YOUR CHILDREN.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0279",
+    "en": "{PAGE}(*SPEAKER*)Mangadhai{SAUT}NOW IS THE TIME TO RETURN THE FAVOR.{SAUT}ME DEVOUR YOUR SOUL!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0280",
+    "en": "   (*SPEAKER*)Pallas Athena{SAUT}It is unpleasant to be in the presence{SAUT}of a spider-woman. Begone!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0281",
+    "en": "{PAGE}[FFEC](*SPEAKER*)Arachne{SAUT}...You're the one who did this to me.{SAUT}Don't you have anything else to say?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0282",
+    "en": " (*SPEAKER*)Pallas Athena{SAUT}Your words fall on deaf ears. You shall{SAUT}spin thread for all eternity!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0283",
+    "en": "{PAGE}[FFED](*SPEAKER*)Arachne{SAUT}You're just mad because I'm better than{SAUT}you! You call yourself a goddess!?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0284",
+    "en": " (*SPEAKER*)Michael{SAUT}Cherub... The garden of Eden is safe,{SAUT}I presume?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0285",
+    "en": "{PAGE}(*SPEAKER*)Cherub{SAUT}We guard the gate from the tree of life.{SAUT}Infiltration would be unthinkable.(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0286",
+    "en": " (*SPEAKER*)Michael{SAUT}Very well.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "ETC.BIN:text:0287",
+    "en": "{PAGE}(*SPEAKER*)Michael{SAUT}Then I have a favor to ask of you...{SAUT}I'd like you to lend this human power.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 12
+  },
+  {
+    "id": "ETC.BIN:text:0288",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Cherub{SAUT}If it is your will, how can I refuse?{SAUT}Please, take this card.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0289",
+    "en": "  (*SPEAKER*)Michael{SAUT}Cherub... The garden of Eden is safe,{SAUT}I presume?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0293",
+    "en": "{PAGE}[FFEC](*SPEAKER*)Cherub{SAUT}Excuse me, archangel, but my powers are{SAUT}to protect Eden... I cannot waste them...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0294",
+    "en": "  (*SPEAKER*)Michael{SAUT}This troubles me, human. You refuse the{SAUT}power of an arbitrator?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0295",
+    "en": "{PAGE}(*SPEAKER*)Michael{SAUT}Cherub, I apologize...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0296",
+    "en": "{PAGE}[FFED](*SPEAKER*)Cherub{SAUT}...No need, high one! It is the{SAUT}blindness of human eyes...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0297",
+    "en": " [FFEE](*SPEAKER*)Cherub{SAUT}I must return to my duties, Master.{SAUT}Lead your flock to paradise.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0298",
+    "en": "  (*SPEAKER*)Michael{SAUT}Very well.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "ETC.BIN:text:0299",
+    "en": "{PAGE}(*SPEAKER*)Michael{SAUT}Cherub! I again leave the gate of Eden{SAUT}in your capable hands.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0300",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Cherub{SAUT}As you wish, Master...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0301",
+    "en": "   (*SPEAKER*)Michael{SAUT}Throne... I assume you are fulfilling{SAUT}your duty as His chariot-bearer?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0302",
+    "en": "{PAGE}[FFEC](*SPEAKER*)Throne{SAUT}We exist for that sole purpose... We{SAUT}try not to shame our rank among angels.(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0305",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Throne{SAUT}If it is your will, how can I refuse?{SAUT}Please, take this card.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0306",
+    "en": "  (*SPEAKER*)Michael{SAUT}Throne... I assume you are fulfilling{SAUT}your duty as His chariot-bearer?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0310",
+    "en": "{PAGE}[FFEC](*SPEAKER*)Throne{SAUT}Excuse me, archangel, but my powers are{SAUT}for the chariot... I cannot waste them...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0311",
+    "en": "  (*SPEAKER*)Michael{SAUT}This troubles me, human. You refuse the{SAUT}power of a ranking angel?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0312",
+    "en": "{PAGE}(*SPEAKER*)Michael{SAUT}Throne, I apologize...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0313",
+    "en": "{PAGE}[FFED](*SPEAKER*)Throne{SAUT}...No need, high one! It is the{SAUT}blindness of human eyes...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0314",
+    "en": "   [FFEE](*SPEAKER*)Throne{SAUT}I must return to my duties, Master.{SAUT}Lead your flock to paradise.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0316",
+    "en": "{PAGE}(*SPEAKER*)Michael{SAUT}Throne! I again leave His chariot to you.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0317",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Throne{SAUT}As you wish, Master...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0318",
+    "en": "   (*SPEAKER*)Michael{SAUT}Dominion... I trust you are managing{SAUT}the common angels well?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0319",
+    "en": "{PAGE}[FFED](*SPEAKER*)Dominion{SAUT}We Dominions strive not to shame our{SAUT}rank as fourth among angels.(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0320",
+    "en": "(*SPEAKER*)Michael{SAUT}Very well.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "ETC.BIN:text:0322",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Dominion{SAUT}As you wish, Master. Please accept the{SAUT}card of the Dominions, human.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0323",
+    "en": " (*SPEAKER*)Michael{SAUT}Dominion... I trust you are managing{SAUT}the common angels well?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0327",
+    "en": "{PAGE}[FFEC](*SPEAKER*)Dominion{SAUT}Archangel, we must unite His forces.{SAUT}We cannot let this power go to waste...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0328",
+    "en": " (*SPEAKER*)Michael{SAUT}This troubles me, human. You refuse the{SAUT}power of domination?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0329",
+    "en": "{PAGE}(*SPEAKER*)Michael{SAUT}Dominion, I apologize...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0330",
+    "en": "{PAGE}[FFED](*SPEAKER*)Dominion{SAUT}...No need, high one! It is the{SAUT}blindness of human eyes...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0331",
+    "en": "[FFEE](*SPEAKER*)Dominion{SAUT}I must return to my duties, Master.{SAUT}Lead your flock to paradise.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0333",
+    "en": "{PAGE}(*SPEAKER*)Michael{SAUT}Dominion! I again leave Heaven's{SAUT}regulation to you.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0334",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Dominion{SAUT}As you wish, Master...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0335",
+    "en": "   (*SPEAKER*)Michael{SAUT}Virtue... Bringer of miracles and might{SAUT}to humanity, how go your duties?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0336",
+    "en": "{PAGE}[FFEC](*SPEAKER*)Virtue{SAUT}We strive not to shame the name of{SAUT}Virtue.(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0339",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Virtue{SAUT}As you wish, Master. Please accept the{SAUT}card of the Virtues, human.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0340",
+    "en": " (*SPEAKER*)Michael{SAUT}Virtue... Bringer of miracles and might{SAUT}to humanity, how goes your duties?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0342",
+    "en": "   (*SPEAKER*)Michael{SAUT}Very well.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 8
+  },
+  {
+    "id": "ETC.BIN:text:0344",
+    "en": "{PAGE}[FFEC](*SPEAKER*)Virtue{SAUT}I must refuse, Master.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0345",
+    "en": " (*SPEAKER*)Michael{SAUT}This troubles me, human. You refuse the{SAUT}power of virtue?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0346",
+    "en": "{PAGE}(*SPEAKER*)Michael{SAUT}Virtue, I apologize...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0347",
+    "en": "{PAGE}[FFED](*SPEAKER*)Virtue{SAUT}...No need, high one! It is the{SAUT}blindness of human eyes...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0348",
+    "en": "[FFEE](*SPEAKER*)Virtue{SAUT}I must return to my duties, Master.{SAUT}Lead your flock to paradise.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0350",
+    "en": "{PAGE}(*SPEAKER*)Michael{SAUT}Virtue! Please return to your duties,{SAUT}and bring hope to humanity.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0351",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Virtue{SAUT}As you wish, Master...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0352",
+    "en": "   (*SPEAKER*)Michael{SAUT}Power? How goes your patrol of the{SAUT}heavens?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0353",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Power{SAUT}There is no need to worry.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0354",
+    "en": "{PAGE}(*SPEAKER*)Power{SAUT}Even the fallen ones stand no chance{SAUT}against we Powers.(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0356",
+    "en": "{PAGE}(*SPEAKER*)Michael{SAUT}Then I have a favor to ask of you...{SAUT}I'd like you to lend this human strength.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0357",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Power{SAUT}If it is your will, how can I refuse?{SAUT}Please, take this card.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0358",
+    "en": "(*SPEAKER*)Michael{SAUT}Power? How goes your patrol of the{SAUT}heavens?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0363",
+    "en": "{PAGE}[FFEC](*SPEAKER*)Power{SAUT}I must refuse, Master.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0364",
+    "en": "   (*SPEAKER*)Michael{SAUT}This troubles me, human. You refuse the{SAUT}strength of the heavenly guardians?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0365",
+    "en": "{PAGE}(*SPEAKER*)Michael{SAUT}Power, I apologize...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0366",
+    "en": "{PAGE}[FFED](*SPEAKER*)Power{SAUT}...No need, high one! It is the{SAUT}blindness of human eyes...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0367",
+    "en": "   [FFEE](*SPEAKER*)Power{SAUT}I must return to my duties, Master.{SAUT}Lead your flock to paradise.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0369",
+    "en": "{PAGE}(*SPEAKER*)Michael{SAUT}Power! I again leave the heavens in{SAUT}your capable hands.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0370",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Power{SAUT}As you wish, Master...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0371",
+    "en": "  (*SPEAKER*)Michael{SAUT}Principality... How have you fared in{SAUT}protecting our creed?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0372",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Principality{SAUT}I am pleased to report to you,{SAUT}archangel.{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0373",
+    "en": "{PAGE}(*SPEAKER*)Principality{SAUT}The leaders of our faith are not{SAUT}troubled in any way.(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0376",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Principality{SAUT}As you wish, Master. Please accept the{SAUT}card of the Principalities, human.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0377",
+    "en": "(*SPEAKER*)Michael{SAUT}Principality... How have you fared in{SAUT}protecting our creed?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0382",
+    "en": "{PAGE}[FFEC](*SPEAKER*)Principality{SAUT}I must refuse, Master.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0383",
+    "en": "   (*SPEAKER*)Michael{SAUT}This troubles me, human. You refuse the{SAUT}protectors of the faith?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0384",
+    "en": "{PAGE}(*SPEAKER*)Michael{SAUT}Principality, I apologize...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0385",
+    "en": "{PAGE}[FFED](*SPEAKER*)Principality{SAUT}...No need, high one! It is the{SAUT}blindness of human eyes...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0386",
+    "en": "[FFEE](*SPEAKER*)Principality{SAUT}I must return to my duties, Master.{SAUT}Lead your flock to paradise.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0388",
+    "en": "{PAGE}(*SPEAKER*)Michael{SAUT}Principality! I again leave the{SAUT}protection of our faith to you.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0389",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Principality{SAUT}As you wish, Master...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0390",
+    "en": "   (*SPEAKER*)Michael{SAUT}Archangel... Are you fulfilling your{SAUT}duties as His messenger?{ATTENTE}",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0391",
+    "en": "{PAGE}[FFEC](*SPEAKER*)Archangel{SAUT}With you as our model, we strive not{SAUT}to shame the name of Archangel.(*OPTION*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "ETC.BIN:text:0394",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Archangel{SAUT}As you wish, Master. Please accept the{SAUT}card of the Archangels, human.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0399",
+    "en": "{PAGE}[FFEC](*SPEAKER*)Archangel{SAUT}I must refuse, Master.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0400",
+    "en": "  (*SPEAKER*)Michael{SAUT}This troubles me, human. You refuse the{SAUT}power of my successor?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0401",
+    "en": "{PAGE}(*SPEAKER*)Michael{SAUT}Archangel, I apologize...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0402",
+    "en": "{PAGE}[FFED](*SPEAKER*)Archangel{SAUT}...No need, high one! It is the{SAUT}blindness of human eyes...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0403",
+    "en": "[FFEE](*SPEAKER*)Archangel{SAUT}I must return to my duties, Master.{SAUT}Lead your flock to paradise.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0405",
+    "en": "{PAGE}(*SPEAKER*)Michael{SAUT}Archangel! I again leave the spread of{SAUT}His word to you.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0406",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Archangel{SAUT}As you wish, Master...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0407",
+    "en": "  (*SPEAKER*)Michael{SAUT}Angel... It is my order that you give{SAUT}this human your card.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0408",
+    "en": "   (*SPEAKER*)Angel{SAUT}As you wish, high one...{SAUT}[FFEE]Human, here is my card.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0409",
+    "en": "   (*SPEAKER*)Michael{SAUT}Angel... It is my order that you give{SAUT}this human your card.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0410",
+    "en": "   [FFED](*SPEAKER*)Angel{SAUT}Though it pains me, I must refuse,{SAUT}o high one.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0411",
+    "en": " (*SPEAKER*)Angel{SAUT}......{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0412",
+    "en": "{PAGE}[FFED](*SPEAKER*)Angel{SAUT}I must attend to my duties.{SAUT}I'll be on my way now!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0415",
+    "en": "{PAGE}(*SPEAKER*)Michael{SAUT}Angel! Return to using your powers for{SAUT}humanity's sake!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "ETC.BIN:text:0416",
+    "en": "{PAGE}[FFEB](*SPEAKER*)Angel{SAUT}For eternity, your grace.(*OPTION*)",
+    "fr": ""
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "id": "HIHO.BIN:text:0206",
+    "en": " I'll give you this, ho! That brings our{SAUT}negotiations to an end!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0207",
+    "en": "Argh, this is boring, ho! I'm so {SAUT}borrrrrred, hee-ho!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0208",
+    "en": "  I'll give you this, so be on your way{SAUT}hee-home, now, ho!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0209",
+    "en": "   Why are you still here, ho!?{SAUT}Hee-hogwash, ho!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0210",
+    "en": "  I'm not scared of you, ho! I can even{SAUT}give you my spell card, hee-ho!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0211",
+    "en": "  I want to help you, ho! Man, I'm just{SAUT}too cool for words, ho!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0212",
+    "en": "  I was being serious, ho! Here, I'll{SAUT}prove it!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0213",
+    "en": "  I told you! I can't fight you, hee-ho!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0214",
+    "en": " Take this!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0215",
+    "en": " I-I know, ho! I'll give you my spell{SAUT}card... So no sending me to hee-heaven,{SAUT}ho-kay?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0216",
+    "en": "   Everything is good now, right...?{SAUT}I don't wanna go to heaven yet, ho...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0217",
+    "en": "Hee-huh? A hee-homo sapien, ho? What are{SAUT}you doing hee-here, ho?[FFFD][6DFF][F500] That sure is a uh... weird outfit,{SAUT}ho...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0218",
+    "en": "   You're the first human I've ever seen,{SAUT}hee-ho...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0219",
+    "en": "{PAGE}So gimme something to remember this{SAUT}hee-hoccasion by![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0220",
+    "en": "   You there! You're in my way, hee-ho!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0221",
+    "en": "{PAGE}Are you trying to be, ho?[FFFD][6EFF][F500]  I'm feeling kinda blue today, ho...{SAUT}Any funny business and I'll hee-hit you,{SAUT}ho!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0222",
+    "en": "   You're no hee-help, ho. I need gifts.{SAUT}So gimme some, hee-ho![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0223",
+    "en": "  D-Don't come near me... You'll get{SAUT}burned, ho...[FFFD][6FFF][F500] Hm!? I sense an evil presence...!{SAUT}Just kidding, hee-ho. I'm a boring{SAUT}demon, ain't I? Ho...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0224",
+    "en": " I'm getting a chill down my spine, ho...{SAUT}Am I unwanted...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0225",
+    "en": " Oh, could it be!? Are all of you my{SAUT}fans, ho?[FFFD][70FF][F500]Hee-how do I look from a human's{SAUT}perspective, ho? I'm cool, right!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0226",
+    "en": "Tuna are red, perch are yellow,{SAUT}bean jam is sweet, and so am I! Hee-ho!{SAUT}Great poem, right?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0227",
+    "en": " [FFED]Hee-hurry up and state your business,{SAUT}ho! If you don't, I'm hee-hoofing it{SAUT}hee-home, ho![FFFD][71FF][F500][FFED]I hate it when people aren't clear about{SAUT}what they want, ho!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0228",
+    "en": "  [FFEE]If you give me something, maybe I'll{SAUT}hear what you have to say, ho![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0229",
+    "en": "  [FFEC]If you've got no business with me, can{SAUT}I go hee-home?[FFFD][72FF][F50C][A500]  [FFEC]The stars were unlucky when I was born,{SAUT}ho... It doesn't matter now though...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0230",
+    "en": " [FFEC]First of all, you need to know I'm{SAUT}against violence, hee-ho! No violence!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0231",
+    "en": " [FFEB]I've been waiting for this day, hee-ho!{SAUT}I'd quit being a demon for you![FFFD][73FF][F500] [FFEE]I feel like strong chains of fate are{SAUT}binding us together, ho!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0232",
+    "en": "[FFEB]I wish time would just stop right now,{SAUT}ho...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0233",
+    "en": "  [FFEC]I-I'm scared! Waaahh! Heeee! Ahhhh![FFFD][74FF][F500] [FFEC]Wah I see the sorrow in the ghosts of{SAUT}demons behind you! You're so cruel, ho!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0234",
+    "en": " [FFED]You and I were brothers in a past life,{SAUT}ho!? Hee-show me the proof!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0235",
+    "en": "   [FFED]I see that you want to be my friend, ho,{SAUT}but do you think you'd really make the{SAUT}cut, hee-ho?[FFFD][75FF][F500][FFED]I can tell you wanna talk to me, but...{SAUT}I don't think I have much in common{SAUT}with you hee-humans, ho!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0236",
+    "en": "  [FFEB]What do you want, ho? ...Oh, I see!{SAUT}You want to present a gift to the great{SAUT}one known as me, ho![FFF1](*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0237",
+    "en": " [FFEC]I'm scared... What are you gonna do to{SAUT}me, hee-ho?[FFFD][76FF][F500]  [FFEB]Why does my heart beat so fast when we{SAUT}talk, hee-ho? I guess it's not a bad{SAUT}thing, ho...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0238",
+    "en": "  [FFEB]Hee hee hee hee hee! Punish me, ho!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0239",
+    "en": "   Hey-ho! In the end... What exactly are{SAUT}you trying to say, ho?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0240",
+    "en": "  Let's stop this, ho! It's pointless!{SAUT}Just get outta here, hee-ho!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0241",
+    "en": "  I'm scarrrred! You guys are really gonna{SAUT}do me in, ho...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0242",
+    "en": "{PAGE}Ugh... I see... flowers... Am I going to{SAUT}heaven, hee-ho? N-Nooooo!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0243",
+    "en": "   Hee-ho! I've never met anyone this fun{SAUT}before, ho! I'm super hee-ho-happy!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0244",
+    "en": " I'm busy, ho! Make it snappy!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0245",
+    "en": "  I detest violence, ho... So let's talk{SAUT}it out! Tell me what you want, hee-ho.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0246",
+    "en": "  You're awesome, hee-ho! I'm feeling{SAUT}generous today! I'll listen to whatever{SAUT}you have to say!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0247",
+    "en": "   ...Dag nabit, ho! I'm full of these{SAUT}random emotions, ho! What's going on!?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0248",
+    "en": "{PAGE}I'm hee-so frustrated like this, ho!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0249",
+    "en": "   I don't have time to babysit you, ho!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0250",
+    "en": "  I'm your slave, ho!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0251",
+    "en": "I need money... I'd be fine with (*VALUE*).(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0252",
+    "en": "Alright, heeeee-ho!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0253",
+    "en": "You don't have money! You shouldn't be{SAUT}such an impulsive spender, ho!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0254",
+    "en": "  You're poor, ho... I feel bad for you...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0255",
+    "en": "   No! Give me money, ho!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0256",
+    "en": " Pfffft... Maybe I shoulda asked for a{SAUT}life stone, hee-ho...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:text:0257",
+    "en": "Life stone! One more time, hee-ho!{SAUT}I want a life stone!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0258",
+    "en": "How generous of you, ho! Hee-ho!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0259",
+    "en": "   You don't have any!? This is getting us{SAUT}nowhere, ho!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0260",
+    "en": "   Er... You don't even have a life stone,{SAUT}ho? Are you trying to fail?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0261",
+    "en": "No! Give me a life stone, ho!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0262",
+    "en": "  If you don't have a life stone to{SAUT}spare... It'll come back to hee-haunt{SAUT}you, ho!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0263",
+    "en": "{PAGE}Hee, I don't even know what I'm saying{SAUT}anymore, ho...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0264",
+    "en": "I want one, daddy! One [FFF4], hee-ho!(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0265",
+    "en": "  No way!? Well I'm still glad I asked,{SAUT}ho!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0266",
+    "en": "  Aw, I was looking forward to that, ho!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0267",
+    "en": " You're a mean guy, ho! You should change{SAUT}your name to \"Mr. Meanyface\"!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0269",
+    "en": "I'm hee-hungry, ho... Can I have just{SAUT}a little? Are you hee-hokay with that?(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0270",
+    "en": "   Yay, dinner!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0271",
+    "en": "   No? If I get any slimmer, I could fall{SAUT}into bad hee-health habits, ho...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0272",
+    "en": "   Cheap, ho!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0273",
+    "en": " I guess that's so, ho! Hee-hohoho!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:text:0274",
+    "en": " Well I'm suffering more, ho... Teenagers{SAUT}these days...!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:text:0275",
+    "en": "Is my nose malfunctioning, ho? No,{SAUT}that can't be...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "HIHO.BIN:text:0276",
+    "en": "Of course, hee-ho! I'm smart, after all!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 8
+  },
+  {
+    "id": "HIHO.BIN:text:0277",
+    "en": "   Don't assume you can fool me, ho!{SAUT}I smell suspicion all over you, ho!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 7
+  },
+  {
+    "id": "HIHO.BIN:text:0278",
+    "en": "  You seem awfully upbeat, ho... But it{SAUT}might be a trap, so I can't just say{SAUT}okay yet, ho.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 7
+  },
+  {
+    "id": "HIHO.BIN:text:0279",
+    "en": "   You seem pretty well off too, hee-ho!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 7
+  },
+  {
+    "id": "HIHO.BIN:text:0280",
+    "en": "  What!? And here I was being nice,{SAUT}hee-ho!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 7
+  },
+  {
+    "id": "HIHO.BIN:text:0281",
+    "en": "  You got scared, didn't you, hee-ho!?{SAUT}After all, I'm invincible!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:text:0282",
+    "en": "You didn't just think of anything,{SAUT}hee-ho! I'm not so easily duped!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "HIHO.BIN:text:0283",
+    "en": "What adventures await me, ho...?{SAUT}I'm excited!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "HIHO.BIN:text:0284",
+    "en": "  Hey! You trying to revolt against me,{SAUT}ho? Hee-how annoying!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "HIHO.BIN:text:0285",
+    "en": "You're getting angry over this, ho?{SAUT}Hee-ho, you're so one dimensional!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "HIHO.BIN:text:0286",
+    "en": " Hmmm... You're a step ahead of me, ho...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "HIHO.BIN:text:0287",
+    "en": "   ＊sniff＊ ＊sniff＊ You really won't pick{SAUT}on me anymore, ho?(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "HIHO.BIN:text:0288",
+    "en": "   Really!? I'm not gonna be picked on{SAUT}anymore for reals!? Hee hee-ho!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "HIHO.BIN:text:0289",
+    "en": "Remember this, ho! My buddies will{SAUT}avenge me later!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "HIHO.BIN:text:0290",
+    "en": "I guess that's so, ho! Hee-hohoho!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "HIHO.BIN:text:0291",
+    "en": " Well I'm suffering more, ho... Teenagers{SAUT}these days...!.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "HIHO.BIN:text:0292",
+    "en": "   Is my nose malfunctioning, ho? No,{SAUT}that can't be...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "HIHO.BIN:text:0295",
+    "en": "  I see! Then, fine, ho!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0296",
+    "en": " I see! ...What? Really?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0297",
+    "en": "Oh, a lie! It was all a lie, ho! I'll go{SAUT}with you, ho! Anywhere you want, hee-ho!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0298",
+    "en": "  It has to be, ho! You're a mean one!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0299",
+    "en": "   Dang it! I hate you, ho!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0300",
+    "en": "   Oh, but don't stop, ho! Er, never mind!{SAUT}Stop it, ho! Ooooh!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0301",
+    "en": "＊pant＊ ＊pant＊ Sh-Shoot! I let my guard{SAUT}down, ho!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0302",
+    "en": "   Ahh, I'm trippin' out, ho! What a{SAUT}hee-ho rush!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0303",
+    "en": " No... Why are you stopping when it feels{SAUT}so good, hee-ho...? Wait, am I being{SAUT}picked on?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0304",
+    "en": "   Don't stop!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:text:0305",
+    "en": "Oooh... I feel my soul being energized,{SAUT}ho...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "HIHO.BIN:text:0306",
+    "en": "  I guess that's so, ho! Hee-hohoho!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "HIHO.BIN:text:0314",
+    "en": "  Don't play dumb, ho! I won't forgive{SAUT}you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "HIHO.BIN:text:0315",
+    "en": "  T-Taking the offensive now? You've got{SAUT}type A blood, don't you, hee-ho...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  }
+]

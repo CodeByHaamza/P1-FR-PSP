@@ -59,8 +59,8 @@
     "id": "E1.BIN:149:0008",
     "locuteur": "Yukino",
     "en": "Ms. Saeko...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Mme Saeko...{ATTENTE}"
   },
   {
     "id": "E1.BIN:149:0009",
@@ -158,7 +158,7 @@
     "locuteur": "Elly",
     "en": "What the--!?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Mais--!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:149:0023",
@@ -193,7 +193,7 @@
     "locuteur": "Yukino",
     "en": "What!?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "",
+    "fr": "Quoi!?{ATTENTE}",
     "_occurrences": 3
   },
   {
@@ -222,8 +222,8 @@
     "id": "E1.BIN:149:0031",
     "locuteur": "Night Queen",
     "en": "Hmhmhm... {PAUSE}[1E00]Ahahahahahaha...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reine{PAGE}Nuit",
+    "fr": "Hmhmhm... {PAUSE}[1E00]Ahahahahahaha...{ATTENTE}"
   },
   {
     "id": "E1.BIN:149:0032",
@@ -419,7 +419,7 @@
     "locuteur": "Ms. Saeko",
     "en": "Tomomi!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Tomomi!{ATTENTE}"
   },
   {
     "id": "E1.BIN:150:0027",
@@ -583,7 +583,7 @@
     "locuteur": "Tomomi",
     "en": "Thank you.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Merci.{ATTENTE}"
   },
   {
     "id": "E1.BIN:150:0051",
@@ -611,7 +611,7 @@
     "locuteur": "Tomomi",
     "en": "Hahaha...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Haha...{ATTENTE}"
   },
   {
     "id": "E1.BIN:151:0001",

@@ -1,0 +1,505 @@
+[
+  {
+    "id": "KOROU.BIN:text:0304",
+    "en": " Wh-Whatchya plannin' on rippin'!?{SAUT}I don't understand you scary humans at{SAUT}all...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0305",
+    "en": "＊nod＊ You're a good, earnest lad.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0306",
+    "en": "  Argh! Fine then!(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:text:0307",
+    "en": "   Eh? I'm losin' interest here.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0308",
+    "en": "  If I'm just a number for yer body count,{SAUT}I ain't goin' down without a fight!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0309",
+    "en": "   Ugh... What do you think you're doin'?{SAUT}You're scarin' the daylights outta me...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:text:0310",
+    "en": "Oh, that was a joke? Ya got me! You{SAUT}looked so real. Hohoho.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:text:0311",
+    "en": "I thought I was retired, but duty calls{SAUT}me yet again...＊sigh＊(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0312",
+    "en": "  You plannin' on cookin' me? Demons ain't{SAUT}so edible. So what're you planning...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0313",
+    "en": "Ho, ho! You want to hear the ramblings{SAUT}of an old man? Sure! I'll indulge ya.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0314",
+    "en": "   Oh... You knew... Well roll me in corn{SAUT}flour and call me dinner. I got upset{SAUT}over nothin'.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0315",
+    "en": " What!? I ain't protected by the law!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0316",
+    "en": "  Argh! Discrimination is evil!{SAUT}Especially like that!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0317",
+    "en": "Ho, ho! Sounds like I read into it too{SAUT}much. My apologies.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0318",
+    "en": " Is that so? It's fine then.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0319",
+    "en": "Don't ask questions of a closed mouth...{SAUT}The world's full of scary things...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0320",
+    "en": "   ＊sigh＊ I ain't dealin' with a child{SAUT}that can't understand me.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0321",
+    "en": "  You could be singin' a cappella for all{SAUT}I care. It don't change your rhythm!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0322",
+    "en": "   Hrm... That one wasn't too bad. Kinda{SAUT}soothing.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0323",
+    "en": "On top of that, you've got a short fuse.{SAUT}...I can't handle all this malarky.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0324",
+    "en": "   So ya did lose your marbles... Poor{SAUT}thing...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0325",
+    "en": "   Hey! Smile all you want, but it's{SAUT}insincere. And your horrible voice is{SAUT}still horrible!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0326",
+    "en": "Hoho! That's good, that's good.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0327",
+    "en": "Hmph! It's rough dealin' with simpletons{SAUT}who get fixated on one thing!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0328",
+    "en": " Eh? You're done already? That's a shame.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0329",
+    "en": "   Hmph... Such obvious brown-nosin'...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0330",
+    "en": "   I'm sorry to say it, but I think I'm{SAUT}too old to help you.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0331",
+    "en": "  Hohoho, so you let the wind carry you{SAUT}where it will, eh? That's interesting.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0332",
+    "en": "   So now that ya know, you should back{SAUT}out while ya can.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0333",
+    "en": " Hmm...? You speak your mind, don't ya?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0334",
+    "en": "{PAGE}But still, you're here to negotiate{SAUT}with me, aren't ya? Bet I'm right.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0335",
+    "en": " Argh! What an unruly whippersnapper!{SAUT}Time to bring out the wooden spoon!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0336",
+    "en": "   Ho, ho! Missy, you know just how to{SAUT}flatter a demon!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0337",
+    "en": "   What...? That's all I am...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0338",
+    "en": "   Hey! If I'm less than straw, then who{SAUT}are you to come beggin' for favors!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0339",
+    "en": " Are you a fool!? I was talkin' about{SAUT}the rarest kind of beauty!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0340",
+    "en": "Hohoho. It's a good thing you're cute,{SAUT}'cause you're downright dumb.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0341",
+    "en": "   Ho, ho! Figuring out the meaning of my{SAUT}words takes skill.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0342",
+    "en": "  What!? So what if it was sarcasm, no{SAUT}need to get all blustered over it!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0343",
+    "en": "Oh... That all? Well roll me in corn{SAUT}flour and call me dinner. I got upset{SAUT}over nothin'.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0344",
+    "en": "   Hm, you won't do nothin'?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0345",
+    "en": "  I can't trust you just like that. You{SAUT}must be up to somethin'...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0346",
+    "en": "   Wh-What are you plannin' to eat? You{SAUT}wouldn't feast on my soul, would ya...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0347",
+    "en": "   Hohoho! I'm happy to hear that.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0348",
+    "en": "Argh! It's a matter of fact! Stop{SAUT}your jibberjabberin'!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0349",
+    "en": "Ho, ho! We're like peas in a pod.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0350",
+    "en": "  Oh, you're busy? So much for takin'{SAUT}you some place nice...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0351",
+    "en": " You're so busy that you're beggin' me...{SAUT}The human world must be tough...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0352",
+    "en": "  You got nerves of steel or somethin'?{SAUT}Modern women give me the willies...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0353",
+    "en": "  ...Then it's okay.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0354",
+    "en": " Argh! What a rude young lady! I've had{SAUT}it up to here!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0355",
+    "en": "  Hohoho! I'll take anything I can get.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0356",
+    "en": "  Argh! It's got a different meaning!{SAUT}Back to the books with you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0357",
+    "en": "That's right... But with a demeanor{SAUT}like that... This is pretty fishy...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0358",
+    "en": "   That ain't quite right.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0359",
+    "en": "Ho, ho! You lost your memory? Well,{SAUT}start lookin' for it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0360",
+    "en": "  Hey! Why'd you stop!? Couldn't keep up{SAUT}with your lies!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0361",
+    "en": "Hmm... It IS up to me. I apologize.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0362",
+    "en": "That was rude to the deer? Well, then{SAUT}I apologize to 'em.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0363",
+    "en": "  Hohohoho, that's right.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0364",
+    "en": "You're a little too obedient. I think{SAUT}this is goin' a little too well...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0365",
+    "en": "   Oh, so that WAS a lie. In the end, I'm{SAUT}just an old fogey...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0366",
+    "en": "Yer right.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0367",
+    "en": " ...That ain't good...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0368",
+    "en": "  Argh! Sure, you're fine with it, but{SAUT}I'm the one who's done for!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0369",
+    "en": "   Oh, you ain't half bad after all.{SAUT}Obedient kids are the best kind.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0370",
+    "en": " I don't care much for kids who ignore{SAUT}the teachings of their elders.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0371",
+    "en": "   You don't get it! I ain't gonna bother{SAUT}with kids who treat the words of the{SAUT}elderly like trash!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0372",
+    "en": "...Er, I wasn't expectin' a straight{SAUT}answer...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0373",
+    "en": " ...You're fine with men!? Well, in my{SAUT}day, that wouldn't fly...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0374",
+    "en": "Exactly! I agree!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0375",
+    "en": "  Ho, ho! That joke's a classic. You're{SAUT}quite the entertainer!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0376",
+    "en": "   You ain't makin' sense! Who're you{SAUT}callin' Mrs. Kawasaki!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0377",
+    "en": " Not sure I get that joke... I think{SAUT}you told it wrong...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0378",
+    "en": "   Wha...? What's that?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0379",
+    "en": "   What're you sayin'!? If that's really{SAUT}what ya want, I'll turn ya red!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0380",
+    "en": "  Unfortunately, it doesn't turn green{SAUT}very easily...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0381",
+    "en": "Don't... hoho! Say... That...! Hoho!{SAUT}Stop... hoho! Me... Hohohoho!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0382",
+    "en": " Urgh! Rah! My laughing stopped!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0383",
+    "en": "I'm in pain and you're joking around!?{SAUT}You inconsiderate good-for-nothin'!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0384",
+    "en": " Ack! I can't do anything shameful from{SAUT}now on!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0385",
+    "en": " ...That so? Fine by me, as long as we{SAUT}aren't talking about my weakness...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0386",
+    "en": "  ...Don't say tragic things like that...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0387",
+    "en": "No! That's not good! I'll fix ya right{SAUT}up!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0388",
+    "en": " True, but I still prefer a hot bath.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0389",
+    "en": "   No, you are. You need to be more aware{SAUT}of things!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0390",
+    "en": "  Ho, ho! You know how to play the relaxed{SAUT}card!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0391",
+    "en": " Hey! You can't have that kinda attitude{SAUT}if you're gonna carry the weight of{SAUT}the world someday!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0392",
+    "en": " ...Why ya gotta be so violent toward{SAUT}an old man...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0393",
+    "en": "Urgh... Blast, I'm all shook up. You{SAUT}got me there.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0394",
+    "en": " Argh! Give it your best shot!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0395",
+    "en": "  ...Don't say that. Pull 'em...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0396",
+    "en": " You really want the hair on my ass!?{SAUT}Whatchya gonna do, sniff 'em...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0397",
+    "en": "  You'll pull 'em out over my dead body!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0398",
+    "en": " No, no. Livers are better as sashimi.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0399",
+    "en": "  If you cool off any more than this, I'll{SAUT}lose what little vigor I've got...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0400",
+    "en": "Why'd you rub!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0401",
+    "en": "Oh, well if you ain't got any, then{SAUT}I don't need it.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0402",
+    "en": "   Argh! What's with that attitude!? The{SAUT}customer is always right!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0403",
+    "en": "Who's... that...?(*RESPONSE*)",
+    "fr": ""
+  }
+]

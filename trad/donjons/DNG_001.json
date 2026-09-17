@@ -2,7 +2,7 @@
   {
     "id": "DNG:d00/d00.bin:0000",
     "en": " < It seems to be locked...{ATTENTE}",
-    "fr": " < C'est verrouillé, on dirait...{ATTENTE}",
+    "fr": " < Verrouillé, on dirait...{ATTENTE}",
     "_occurrences": 3
   },
   {
@@ -13,19 +13,19 @@
   {
     "id": "DNG:d00/d00.bin:0002",
     "en": " < The door is locked. Could that girl{SAUT}have been an illusion...?{ATTENTE}",
-    "fr": " < La porte est verrouillée. Cette fille{SAUT}était-elle une illusion...?{ATTENTE}",
+    "fr": " < C'est verrouillé. Cette fille{SAUT}était-elle une illusion...?{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "DNG:d00/d00.bin:0003",
     "en": " < The door is locked.{ATTENTE}",
-    "fr": " < La porte est verrouillée.{ATTENTE}",
+    "fr": " < C'est verrouillé.{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "DNG:d00/d00.bin:0004",
     "en": " < The door was locked again before you{SAUT}knew it...{ATTENTE}",
-    "fr": " < La porte s'est reverrouillée{SAUT}sans qu'on s'en aperçoive...{ATTENTE}"
+    "fr": " < La porte s'est reverrouillée{SAUT}dans ton dos...{ATTENTE}"
   },
   {
     "id": "DNG:d00/d00.bin:0005",
@@ -35,7 +35,7 @@
   {
     "id": "DNG:d01/d01.bin:0000",
     "en": " < The store is closed...{ATTENTE}",
-    "fr": " < La boutique est fermée...{ATTENTE}",
+    "fr": " < Boutique fermée...{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -46,7 +46,7 @@
   {
     "id": "DNG:d02/d02.bin:0003",
     "en": " < It's the ICU. You need special{SAUT}permission to enter.{ATTENTE}",
-    "fr": " < Les soins intensifs. Il faut une{SAUT}autorisation pour entrer.{ATTENTE}"
+    "fr": " < Soins intensifs. Entrée sur{SAUT}autorisation seulement.{ATTENTE}"
   },
   {
     "id": "DNG:d03/d03.bin:0000",
@@ -66,12 +66,12 @@
     "locuteur": "Maki",
     "en": "NMaki{SAUT}I can hear voices... It sounds like{SAUT}someone's talking inside.{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "NMaki{SAUT}J'entends des voix... On dirait que{SAUT}quelqu'un parle à l'intérieur.{ATTENTE}"
+    "fr": "NMaki{SAUT}J'entends des voix... On dirait{SAUT}que quelqu'un parle dedans.{ATTENTE}"
   },
   {
     "id": "DNG:d08/d08.bin:0001",
     "en": "NStern voice{SAUT}I'm sorry, Mr. Kandori... The woman{SAUT}escaped.{ATTENTE}",
-    "fr": "NVoix sévère{SAUT}Je suis navré, M. Kandori... La femme{SAUT}s'est échappée.{ATTENTE}"
+    "fr": "NVoix sévère{SAUT}Navré, M. Kandori... La femme{SAUT}a fui.{ATTENTE}"
   },
   {
     "id": "DNG:d08/d08.bin:0002",
@@ -86,12 +86,12 @@
   {
     "id": "DNG:d08/d08.bin:0004",
     "en": "NStern voice{SAUT}Yes, Sir.{ATTENTE}",
-    "fr": "NVoix sévère{SAUT}Bien, monsieur.{ATTENTE}"
+    "fr": "NVoix sévère{SAUT}Bien.{ATTENTE}"
   },
   {
     "id": "DNG:d08/d08.bin:0005",
     "en": "NTakeda's voice{SAUT}I'm sorry, Mr. Kandori... The woman{SAUT}escaped.{ATTENTE}",
-    "fr": "NVoix de Takeda{SAUT}Je suis navré, M. Kandori... La femme{SAUT}s'est échappée.{ATTENTE}"
+    "fr": "NVoix de Takeda{SAUT}Navré, M. Kandori... La femme{SAUT}a fui.{ATTENTE}"
   },
   {
     "id": "DNG:d08/d08.bin:0006",
@@ -106,7 +106,7 @@
   {
     "id": "DNG:d08/d08.bin:0008",
     "en": "NTakeda's voice{SAUT}Yes, Sir.{ATTENTE}",
-    "fr": "NVoix de Takeda{SAUT}Bien, monsieur.{ATTENTE}"
+    "fr": "NVoix de Takeda{SAUT}Bien.{ATTENTE}"
   },
   {
     "id": "DNG:d0a/d0a.bin:0000",
@@ -134,7 +134,7 @@
   {
     "id": "DNG:d0c/d0c.bin:0002",
     "en": " < Old writing is engraved on the wall.{ATTENTE}",
-    "fr": " < Un texte ancien est gravé sur le mur.{ATTENTE}",
+    "fr": " < Un texte ancien est gravé au mur.{ATTENTE}",
     "_occurrences": 3
   },
   {
@@ -296,7 +296,7 @@
   {
     "id": "DNG:d0c/d0c.bin:0038",
     "en": " < Old writing is engraved in the door.{ATTENTE}",
-    "fr": " < Un vieux texte est gravé sur la porte.{ATTENTE}",
+    "fr": " < Un texte ancien orne la porte.{ATTENTE}",
     "_occurrences": 6
   },
   {
@@ -332,7 +332,7 @@
   {
     "id": "DNG:d0c/d0c.bin:0050",
     "en": " < Old writing is engraved on the{SAUT}monument.{ATTENTE}",
-    "fr": " < Un texte ancien est gravé sur{SAUT}le monument.{ATTENTE}",
+    "fr": " < Un texte est gravé sur{SAUT}le monument.{ATTENTE}",
     "_occurrences": 7
   },
   {
@@ -385,7 +385,7 @@
   {
     "id": "DNG:d0e/d0e.bin:0000",
     "en": " < An invisible wall blocks your way,{SAUT}forcing you back...{ATTENTE}",
-    "fr": " < Un mur invisible barre le passage{SAUT}et force à reculer...{ATTENTE}",
+    "fr": " < Un mur invisible barre le passage{SAUT}et te repousse...{ATTENTE}",
     "_occurrences": 6
   },
   {
@@ -403,7 +403,7 @@
     "locuteur": "Mark",
     "en": "NMark{SAUT}This Queen seems pretty arrogant.{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "NMark{SAUT}Elle se la joue grave, cette Reine.{ATTENTE}"
+    "fr": "NMark{SAUT}Elle se la joue, cette Reine.{ATTENTE}"
   },
   {
     "id": "DNG:d0e/d0e.bin:0007",
@@ -418,12 +418,12 @@
   {
     "id": "DNG:d13/d13.bin:0000",
     "en": ", you hear somethin'?{ATTENTE}",
-    "fr": ", t'entends pas un truc?{ATTENTE}"
+    "fr": ", t'entends un truc?{ATTENTE}"
   },
   {
     "id": "DNG:d13/d13.bin:0001",
     "en": "NWoman's voice{SAUT}&sob& &sob& I told her so many times not{SAUT}to come here... she'll get lost...{ATTENTE}",
-    "fr": "NVoix de femme{SAUT}&snif& &snif& Je lui ai tant dit de ne{SAUT}pas venir ici... elle va se perdre...{ATTENTE}"
+    "fr": "NVoix de femme{SAUT}&snif& &snif& Je lui ai dit cent fois{SAUT}de pas venir... elle va s'égarer...{ATTENTE}"
   },
   {
     "id": "DNG:d13/d13.bin:0002",
@@ -442,7 +442,7 @@
     "locuteur": "Nanjo",
     "en": "NNanjo{SAUT}Hmm... it sounded rather like Maki's{SAUT}mother to me.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "NNanjo{SAUT}Hmm... On aurait dit la mère de Maki,{SAUT}me semble-t-il.{ATTENTE}"
+    "fr": "NNanjo{SAUT}Hmm... On aurait dit la mère de Maki,{SAUT}je crois.{ATTENTE}"
   },
   {
     "id": "DNG:d13/d13.bin:0005",
@@ -461,12 +461,12 @@
     "locuteur": "Nanjo",
     "en": "NNanjo{SAUT}The door doesn't seem locked...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "NNanjo{SAUT}La porte ne semble pas verrouillée...{ATTENTE}"
+    "fr": "NNanjo{SAUT}La porte ne semble pas close...{ATTENTE}"
   },
   {
     "id": "DNG:d13/d13.bin:0008",
     "en": "?{SAUT}It may be a trap. Should we go in?{ATTENTE}",
-    "fr": "?{SAUT}C'est peut-être un piège. On entre?{ATTENTE}"
+    "fr": "?{SAUT}Peut-être un piège. On entre?{ATTENTE}"
   },
   {
     "id": "DNG:d14/d14.bin:0000",
@@ -494,7 +494,7 @@
     "locuteur": "Maki",
     "en": "NMaki{SAUT}Looks like it's locked. I don't think{SAUT}Kandori is here.{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "NMaki{SAUT}On dirait que c'est verrouillé. Kandori{SAUT}n'est pas là, je crois.{ATTENTE}"
+    "fr": "NMaki{SAUT}C'est fermé à clé. Kandori{SAUT}n'est pas là, je crois.{ATTENTE}"
   },
   {
     "id": "DNG:d16/d16.bin:0000",
@@ -506,28 +506,28 @@
     "locuteur": "Ayase",
     "en": "NAyase{SAUT}Gah! Owwwwww!{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "NAyase{SAUT}Aïe! Ouïïïïïïe!{ATTENTE}"
+    "fr": "NAyase{SAUT}Aïe! Ouille!{ATTENTE}"
   },
   {
     "id": "DNG:d18/d18.bin:0001",
     "locuteur": "Ayase",
     "en": "NAyase{SAUT}Wow, don't touch the door. It's so cold,{SAUT}my fingers got stuck to it.{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "NAyase{SAUT}Touche pas la porte, elle est trop{SAUT}froide, mes doigts ont collé dessus.{ATTENTE}"
+    "fr": "NAyase{SAUT}Touche pas la porte, elle est trop{SAUT}froide, mes doigts y ont collé.{ATTENTE}"
   },
   {
     "id": "DNG:d18/d18.bin:0002",
     "locuteur": "Yukino",
     "en": "NYukino{SAUT}Damn... It won't budge.{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "NYukino{SAUT}Bon sang... Ça bouge pas d'un poil.{ATTENTE}"
+    "fr": "NYukino{SAUT}Zut... Ça bouge pas.{ATTENTE}"
   },
   {
     "id": "DNG:d18/d18.bin:0003",
     "locuteur": "Ayase",
     "en": "NAyase{SAUT}C'mon, let's do what that guy said and{SAUT}like, gather these \"mirror shards.\"{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "NAyase{SAUT}Allez, on fait ce que le type a dit{SAUT}et on trouve ces \"Fragments de Miroir\".{ATTENTE}"
+    "fr": "NAyase{SAUT}Allez, on fait ce que le type a dit,{SAUT}on trouve ces \"Fragments de Miroir\".{ATTENTE}"
   },
   {
     "id": "DNG:d18/d18.bin:0004",
@@ -539,6 +539,6 @@
   {
     "id": "DNG:d18/d18.bin:0005",
     "en": " < The door is frozen shut.{ATTENTE}",
-    "fr": " < La porte est prise dans la glace.{ATTENTE}"
+    "fr": " < La porte est gelée.{ATTENTE}"
   }
 ]

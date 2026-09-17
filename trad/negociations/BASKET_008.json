@@ -1,0 +1,313 @@
+[
+  {
+    "id": "BASKET.BIN:resp:0242",
+    "en": "Can ya wait 10 years?(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0243",
+    "en": "You don't get it.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0244",
+    "en": "What a kid.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0245",
+    "en": "Makes no difference.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:resp:0247",
+    "en": "You piss me off.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0248",
+    "en": "There's no reason.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "BASKET.BIN:resp:0250",
+    "en": "Haha, cut it out.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0251",
+    "en": "No way.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 19
+  },
+  {
+    "id": "BASKET.BIN:resp:0253",
+    "en": "Then gimme something.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "BASKET.BIN:resp:0256",
+    "en": "I'll intercept it.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:resp:0258",
+    "en": "Like you could do it.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0259",
+    "en": "How un-demonlike.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0260",
+    "en": "I'm hatin'.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:resp:0264",
+    "en": "I can't hear you.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 9
+  },
+  {
+    "id": "BASKET.BIN:resp:0265",
+    "en": "......(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 53
+  },
+  {
+    "id": "BASKET.BIN:resp:0267",
+    "en": "Shut up!(*RESPONSE*)[0A89]  ",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0268",
+    "en": "How hateable.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0269",
+    "en": "Just scram.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:resp:0271",
+    "en": "So you wanna die?(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 10
+  },
+  {
+    "id": "BASKET.BIN:resp:0273",
+    "en": "Can't hear you.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "BASKET.BIN:resp:0274",
+    "en": "Me.(*RESPONSE*)Seems that way.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0277",
+    "en": "I don't know!(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "BASKET.BIN:resp:0278",
+    "en": "Shut up, damn it!(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0279",
+    "en": "I'm not crazy.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:resp:0280",
+    "en": "Gaaaaaaah!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:resp:0283",
+    "en": "Time to die...(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "BASKET.BIN:resp:0287",
+    "en": "Quit buggin' me.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "BASKET.BIN:resp:0291",
+    "en": "No.(*RESPONSE*)[0A89]   ",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0293",
+    "en": "So what.(*RESPONSE*)(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0297",
+    "en": "A scout.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0298",
+    "en": "A killer.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0299",
+    "en": "Dance practice.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:resp:0300",
+    "en": "Huh? Where?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0301",
+    "en": "Shut up!(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 11
+  },
+  {
+    "id": "BASKET.BIN:resp:0302",
+    "en": "Sorry.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 13
+  },
+  {
+    "id": "BASKET.BIN:resp:0303",
+    "en": "I don't mind.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "BASKET.BIN:resp:0304",
+    "en": "That'd be bad.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:resp:0305",
+    "en": "You're dangerous too.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0306",
+    "en": "Will you come too?(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0307",
+    "en": "Nah.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "BASKET.BIN:resp:0309",
+    "en": "It's a secret!(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0310",
+    "en": "Not a bit.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0312",
+    "en": "Care to join us?(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0313",
+    "en": "I've got business.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:resp:0315",
+    "en": "Why ya going home?(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0316",
+    "en": "Go home!(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:resp:0317",
+    "en": "Let's wreak havoc!(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:resp:0318",
+    "en": "Fine, go nuts alone.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:resp:0320",
+    "en": "It's dangerous!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0321",
+    "en": "Wow, you got it.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0322",
+    "en": "A spider...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:resp:0323",
+    "en": "Just a human.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "BASKET.BIN:resp:0324",
+    "en": "I do.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 20
+  },
+  {
+    "id": "BASKET.BIN:resp:0325",
+    "en": "I don't.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 10
+  },
+  {
+    "id": "BASKET.BIN:resp:0327",
+    "en": "The XXX(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "BASKET.BIN:resp:0328",
+    "en": "The OOOO(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  }
+]

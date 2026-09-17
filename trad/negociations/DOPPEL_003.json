@@ -1,0 +1,73 @@
+[
+  {
+    "id": "DOPPEL.BIN:text:0230",
+    "en": "  Well then, my request is...{SAUT}one life stone.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0231",
+    "en": "I appreciate your understanding of{SAUT}a double's needs.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0232",
+    "en": "   I have no intentions of being the alter{SAUT}ego of a fool who doesn't even carry{SAUT}any life stones!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0233",
+    "en": "  What did you use the life stones on...?{SAUT}I'm not impressed by your wasteful ways.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0234",
+    "en": "   I have no intentions of becoming a{SAUT}stingy person's alter ego!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0236",
+    "en": "  Well then, my request is...{SAUT}a [FFF4]...(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0237",
+    "en": " I appreciate your understanding of{SAUT}a double's needs.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0238",
+    "en": "   You don't have any.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0239",
+    "en": "You'll come to know the terror of{SAUT}a double!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0240",
+    "en": "What a strong will! You're truly worthy{SAUT}of being my double!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0241",
+    "en": "Well then, my request is...{SAUT}some of your energy.(*OPTION*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0242",
+    "en": "   No one knows how delicious your energy{SAUT}is more than your alter ego...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0243",
+    "en": "  You're rejecting me? Me, your double!?{SAUT}You fool of an alter ego!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "DOPPEL.BIN:text:0244",
+    "en": "   You're rejecting me? Me, your double!?{SAUT}I don't understand...(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  }
+]

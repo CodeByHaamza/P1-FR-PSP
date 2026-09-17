@@ -3,22 +3,22 @@
     "id": "E3.BIN:012:0000",
     "locuteur": "Toro",
     "en": "No way... All that's left is milk and{SAUT}cheese? I can't even eat my sorrow away?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Non... Il reste que du lait et du fromage?{SAUT}Même pas de quoi noyer mon chagrin?{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0001",
     "locuteur": "Toro",
     "en": "I'm lactose intolerant...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Intolérant au lactose...{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0002",
     "locuteur": "Toro",
     "en": "This is a conspiracy by someone who{SAUT}knows! Yeah, that's gotta be it!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "C'est un complot de quelqu'un qui{SAUT}sait! Ouais, ça doit être ça!{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0003",
@@ -31,15 +31,15 @@
     "id": "E3.BIN:012:0004",
     "locuteur": "Toro",
     "en": "Huh? Huhhh? Why was I sleeping here?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Hein? Hein? Pourquoi je dormais ici?{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0005",
     "locuteur": "Toro",
     "en": "Oh... hi everyone. Don't look at me like{SAUT}that, it's embarrassing...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Oh... salut vous tous. Me regardez{SAUT}pas comme ça, c'est gênant...{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0006",
@@ -53,36 +53,36 @@
     "id": "E3.BIN:012:0008",
     "locuteur": "Toro",
     "en": "Oh, I almost forgot.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Oh, j'ai oublié.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0009",
     "locuteur": "Toro",
     "en": "Tsutomu told me to give this to you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Tsutomu m'a dit de te donner ça.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0010",
     "locuteur": "Toro",
     "en": "When him and me were coming back from the{SAUT}tower, we found this shiny thing...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Quand on revenait de la tour avec lui,{SAUT}on a trouvé ce truc brillant...{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0011",
     "locuteur": "Toro",
     "en": "But his muscles hurt so bad that he{SAUT}couldn't hold it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Mais il avait trop mal aux muscles{SAUT}pour le tenir.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0012",
     "locuteur": "Toro",
     "en": "So I'm giving it to you in his place.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Alors je te le donne à sa place.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0013",
@@ -93,22 +93,22 @@
     "id": "E3.BIN:012:0014",
     "locuteur": "Toro",
     "en": "I'm not the only one going through hard{SAUT}times, huh?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Je suis pas le seul à en baver,{SAUT}hein?{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0015",
     "locuteur": "Toro",
     "en": "You and Ayase and everyone are all trying{SAUT}as hard as you can.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Toi et Ayase et tout le monde faites{SAUT}tout votre possible.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0016",
     "locuteur": "Toro",
     "en": "Alright, then! I'm gonna try as hard as{SAUT}I can... to drink milk!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Bon, alors! Je vais faire de mon mieux{SAUT}pour boire du lait!{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0017",
@@ -119,99 +119,99 @@
     "id": "E3.BIN:012:0018",
     "locuteur": "Male student",
     "en": "Everything froze over all of a sudden.{SAUT}Did demons do that, too?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Eleve",
+    "fr": "Tout a gelé d'un coup.{SAUT}C'est aussi un coup des démons?{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0019",
     "locuteur": "Male student",
     "en": "I just took a look and we're starting to{SAUT}run low on food...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "J'ai regardé, on commence à{SAUT}manquer de nourriture...{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0020",
     "locuteur": "Male student",
     "en": "No surprise that Toro's panicking.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Pas surprenant que Toro panique.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0021",
     "locuteur": "Male student",
     "en": "Huh? You're asking why I didn't go get{SAUT}the teacher?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Hein? Tu demandes pourquoi{SAUT}j'ai pas appelé la prof?{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0022",
     "locuteur": "Male student",
     "en": "I did! But she wouldn't give me the time{SAUT}of day.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Si! Mais elle voulait rien savoir{SAUT}du tout.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0023",
     "locuteur": "Male student",
     "en": "She said she was busy, and that it'd{SAUT}heal on its own.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Elle a dit qu'elle était occupée et que{SAUT}ça guérirait seul.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0024",
     "locuteur": "Male student",
     "en": "Anyway, I'm just glad our food is safe.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Bref, content que la bouffe soit sauvé.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0025",
     "locuteur": "Male student",
     "en": "First he gets dumped by his crush and now{SAUT}he has to drink milk...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Déjà largué par celle qu'il aime,{SAUT}et en plus il doit boire du lait...{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0026",
     "locuteur": "Male student",
     "en": "Man, this just isn't Toro's day. Though{SAUT}some days are like that, I guess.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Mec, c'est vraiment pas le jour de Toro.{SAUT}Mais y'a des jours comme ça, j'imagine.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0027",
     "locuteur": "Rumor-loving boy",
     "en": "That classroom wasn't open until now...{SAUT}You know, the one to our left.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Curieux",
+    "fr": "Cette salle était fermée jusque-là...{SAUT}Tu sais, celle sur notre gauche.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0028",
     "locuteur": "Rumor-loving boy",
     "en": "I heard the ice thawed a little and you{SAUT}can get inside now.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Curieux",
+    "fr": "Il paraît que la glace a fondu un peu et{SAUT}qu'on peut entrer.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0029",
     "locuteur": "Rumor-loving boy",
     "en": "Rumor is there's this beautiful sphere{SAUT}inside. But should we go near it...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Curieux",
+    "fr": "Il paraît qu'il y a une belle sphère{SAUT}dedans. Mais faut-il s'en approcher...?{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0030",
     "locuteur": "Yukino",
     "en": "We can't waste our time here! Let's go{SAUT}find someone we can rely on!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "On peut pas traîner ici! Allons{SAUT}trouver quelqu'un de fiable!{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0031",
     "locuteur": "Yukino",
     "en": "Well then, let's make our way to{SAUT}the tower.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Bon alors, allons-y vers{SAUT}la tour.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0032",
@@ -224,22 +224,22 @@
     "id": "E3.BIN:012:0033",
     "locuteur": "Yukino",
     "en": "I'm not seeing Hidehiko... Wasn't he{SAUT}going to keep an eye on Toro?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Je vois pas Hidehiko... Il devait pas{SAUT}garder un oeil sur Toro?{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0034",
     "locuteur": "Yukino",
     "en": "The little prick must've ducked out.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Ce petit con a dû se planquer.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0035",
     "locuteur": "Yukino",
     "en": "Doesn't it seem like it's gotten a{SAUT}little warmer?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "On dirait que c'est devenu un peu{SAUT}plus chaud, non?{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0036",
@@ -252,15 +252,15 @@
     "id": "E3.BIN:012:0037",
     "locuteur": "Ayase",
     "en": "I wonder if Toro's okay. I mean, like,{SAUT}not that I care or anything.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "J'espère que Toro va bien. Genre...{SAUT}pas que ça m'inquiète, hein.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0038",
     "locuteur": "Ayase",
     "en": "Let's hurry out of here.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Vite, sortons d'ici.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0039",
@@ -273,134 +273,134 @@
     "id": "E3.BIN:012:0040",
     "locuteur": "Nanjo",
     "en": "That gluttonous pig had something coming{SAUT}out of his stomach. Is he... well?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Ce goinfre avait quelque chose qui{SAUT}sortait de son estomac. Va-t-il... bien?{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0041",
     "locuteur": "Nanjo",
     "en": "It seems that he's matured.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Il semble avoir mûri.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0042",
     "locuteur": "Brown",
     "en": "Aaaaaaa-choooo!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Atchoum!{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0043",
     "locuteur": "Brown",
     "en": "Oh, sorry. Did that get on your clothes?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Oh, pardon. Ça a touché tes vêtements?{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0044",
     "locuteur": "Brown",
     "en": "I seriously feel like some wilted lettuce{SAUT}stuck in the fridge. It's depressing.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Je me sens comme une salade fanée{SAUT}coincée dans le frigo. C'est déprimant.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0045",
     "locuteur": "Brown",
     "en": "I thought about having some hot ramen,{SAUT}but I can't boil any water.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "J'ai pensé à manger des ramen chauds,{SAUT}mais je peux pas faire bouillir d'eau.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0046",
     "locuteur": "Brown",
     "en": "Plus, Toro's freaking out. Says he's gonna{SAUT}eat all the food to get over being dumped.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "En plus, Toro panique. Il dit qu'il va{SAUT}tout manger pour oublier sa rupture.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0047",
     "locuteur": "Brown",
     "en": "That's why I hurried to hide everything{SAUT}except the dairy stuff.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Du coup j'ai vite tout cache, sauf{SAUT}les produits laitiers.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0048",
     "locuteur": "Brown",
     "en": "I mean, who knows what'll happen, y'know?{SAUT}I'm like, so on top of things!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Bon, on sait jamais ce qui peut arriver.{SAUT}Je suis, genre, trop prévoyant!{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0049",
     "locuteur": "Brown",
     "en": "The whole school's in a panic, and it{SAUT}can't be easy for Teach, either.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Tout le lycée panique, ça doit pas{SAUT}être simple pour la prof non plus.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0050",
     "locuteur": "Brown",
     "en": "I dunno how you did it, but I'm glad{SAUT}everyone's calmed down.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Je sais pas comment, mais content que{SAUT}tout se soit calmé.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0051",
     "locuteur": "Brown",
     "en": "Me and some other guy are gonna keep{SAUT}watch, so you can leave it to us.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Avec un copain, on va monter{SAUT}la garde, tu peux compter sur nous.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0052",
     "locuteur": "Brown",
     "en": "Just when I thought Toro had vanished, he{SAUT}started ranting about milk and torture.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Pile quand je croyais Toro disparu, il{SAUT}délirait sur le lait et la torture.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0053",
     "locuteur": "Brown",
     "en": "Well, me and some other guy are gonna{SAUT}keep watch, so you can leave it to us.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Bon, avec un copain, on va monter{SAUT}la garde, tu peux compter sur nous.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0054",
     "locuteur": "Brown",
     "en": "Persona, huh...? Well, depending how you{SAUT}use it, anything might be possible.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Persona, hein...? Bon, selon comment tu{SAUT}l'utilisés, tout est possible.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0055",
     "locuteur": "Brown",
     "en": "Persona's pretty scary.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Persona, ça fait peur.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0056",
     "locuteur": "Brown",
     "en": "Then again, I have no flaws, so there's{SAUT}nothing for me to worry about.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Mais bon, je suis parfait, alors y'à{SAUT}rien dont je dois m'inquiéter.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0057",
     "locuteur": "Elly",
     "en": "Even food is valuable in a situation{SAUT}like this.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Même la nourriture est précieuse{SAUT}dans ce cas.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0058",
     "locuteur": "Elly",
     "en": "We went through hell, no thanks to{SAUT}Ayase. Honestly, that girl...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "On a vécu l'enfer, à cause de{SAUT}Ayase. Honnêtement, cette fille...{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0059",
@@ -413,8 +413,8 @@
     "id": "E3.BIN:012:0060",
     "locuteur": "Elly",
     "en": "Let's hurry to the next floor.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Vite allons à l'étage suivant.{ATTENTE}"
   },
   {
     "id": "E3.BIN:032:0000",
@@ -431,78 +431,78 @@
     "id": "E3.BIN:032:0002",
     "locuteur": "Yukino",
     "en": "I'd wondered where some of the students{SAUT}had gone. Now I've got my answer...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Je me demandais où étaient passés{SAUT}des élèves. Maintenant je sais...{ATTENTE}"
   },
   {
     "id": "E3.BIN:032:0003",
     "locuteur": "Yukino",
     "en": "Just wait for us, guys. We'll rescue{SAUT}you all soon!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Tenez bon, les amis. On viendra{SAUT}vite vous sauver!{ATTENTE}"
   },
   {
     "id": "E3.BIN:032:0004",
     "locuteur": "Ayase",
     "en": "How awful... Who does stuff like this{SAUT}for fun?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "C'est atroce... Qui fait ça{SAUT}pour s'amuser?{ATTENTE}"
   },
   {
     "id": "E3.BIN:032:0005",
     "locuteur": "Nanjo",
     "en": "Mm. It seems the enemy is resorting to{SAUT}force now.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Mm. L'ennemi recourt{SAUT}à la force.{ATTENTE}"
   },
   {
     "id": "E3.BIN:032:0007",
     "locuteur": "Elly",
     "en": "They appear to still be alive. Eternal{SAUT}Night... so this is what it means.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Ils semblent en vie. Nuit{SAUT}Eternelle... voilà donc le sens.{ATTENTE}"
   },
   {
     "id": "E3.BIN:033:0000",
     "locuteur": "Reiho",
     "en": "Jab! Jab! Hee-ho!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiho",
+    "fr": "Jab! Jab! Hee-ho!{ATTENTE}"
   },
   {
     "id": "E3.BIN:033:0001",
     "locuteur": "Raiho",
     "en": "There's no sumo club hee-here, so we're{SAUT}gonna join the boxing club, ho.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Y a pas de club de sumo hee-ici, donc{SAUT}on rejoint la boxe, ho.{ATTENTE}"
   },
   {
     "id": "E3.BIN:033:0002",
     "locuteur": "Reiho",
     "en": "Hey! A sandbag can't move like that!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiho",
+    "fr": "Hey! Un sac de sable bouge pas!{ATTENTE}"
   },
   {
     "id": "E3.BIN:033:0003",
     "locuteur": "Raiho",
     "en": "Hee-ho? Are you talking about me?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Hee-ho? Tu parles de moi, ho?{ATTENTE}"
   },
   {
     "id": "E3.BIN:033:0004",
     "locuteur": "Reiho",
     "en": "Don't you hee-member? How the boy at the{SAUT}fencing club was beaten up by a girl?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiho",
+    "fr": "Tu te hee-souviens pas? Du gars du club{SAUT}d'escrime battu par une fille?{ATTENTE}"
   },
   {
     "id": "E3.BIN:033:0005",
     "locuteur": "Raiho",
     "en": "Hee-ho! I see... so girls are strong, ho.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Hee-ho! Ah... les filles sont fortes, ho.{ATTENTE}"
   },
   {
     "id": "E3.BIN:033:0006",
@@ -515,36 +515,36 @@
     "id": "E3.BIN:033:0007",
     "locuteur": "Yukino",
     "en": "These guys again...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Encore ces deux-là...{ATTENTE}"
   },
   {
     "id": "E3.BIN:033:0008",
     "locuteur": "Ayase",
     "en": "It's nice they get along so well.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Mignon, ils s'entendent bien.{ATTENTE}"
   },
   {
     "id": "E3.BIN:033:0009",
     "locuteur": "Nanjo",
     "en": "They always act as though they're in the{SAUT}middle of a stand-up routine.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "On dirait toujours qu'ils sont en{SAUT}plein numéro comique.{ATTENTE}"
   },
   {
     "id": "E3.BIN:033:0010",
     "locuteur": "Brown",
     "en": "Watching them really warms my heart.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Les voir me réchauffe le coeur.{ATTENTE}"
   },
   {
     "id": "E3.BIN:033:0011",
     "locuteur": "Elly",
     "en": "I wonder if Jack Frosts actually have{SAUT}distinct genders.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Je me demande si les Jack{SAUT}Frosts ont vraiment un genre.{ATTENTE}"
   },
   {
     "id": "E3.BIN:034:0000",
@@ -555,85 +555,85 @@
     "id": "E3.BIN:034:0001",
     "locuteur": "Yukino",
     "en": "What just happened?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Que s'est-il passé?{ATTENTE}"
   },
   {
     "id": "E3.BIN:034:0002",
     "locuteur": "Yukino",
     "en": "Are we going through it again?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "On recommence encore?{ATTENTE}"
   },
   {
     "id": "E3.BIN:034:0003",
     "locuteur": "Ayase",
     "en": "Huh? I feel like we're missing someone...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Hein? On dirait qu'il manque quelqu'un...{ATTENTE}"
   },
   {
     "id": "E3.BIN:034:0004",
     "locuteur": "Ayase",
     "en": "It's glowing, but it's cold.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Ça brille, mais c'est froid.{ATTENTE}"
   },
   {
     "id": "E3.BIN:034:0005",
     "locuteur": "Nanjo",
     "en": "Is everyone all right? What was that{SAUT}just now...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Tout le monde va bien? C'était quoi{SAUT}ça...?{ATTENTE}"
   },
   {
     "id": "E3.BIN:034:0006",
     "locuteur": "Nanjo",
     "en": "It seems that we can be teleported{SAUT}elsewhere by touching this.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Il paraît qu'on est téléporte{SAUT}ailleurs en touchant ceci.{ATTENTE}"
   },
   {
     "id": "E3.BIN:034:0007",
     "locuteur": "Brown",
     "en": "Huhhh!? What was that?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Huhhh!? C'était quoi?{ATTENTE}"
   },
   {
     "id": "E3.BIN:034:0008",
     "locuteur": "Brown",
     "en": "Staring at it hurts my eyes...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Le fixer me fait mal aux yeux...{ATTENTE}"
   },
   {
     "id": "E3.BIN:034:0009",
     "locuteur": "Elly",
     "en": "Has anything changed? Let's have a look{SAUT}outside this room!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Rien n'a changé? Allons voir{SAUT}hors de cette salle!{ATTENTE}"
   },
   {
     "id": "E3.BIN:034:0010",
     "locuteur": "Elly",
     "en": "Could this be something like a wormhole?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Serait-ce une sorte de trou de ver?{ATTENTE}"
   },
   {
     "id": "E3.BIN:035:0000",
     "locuteur": "Yukino",
     "en": "Any wounds, (*APELLIDO_HEROE*)?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Des blessures, (*APELLIDO_HEROE*)?{ATTENTE}"
   },
   {
     "id": "E3.BIN:035:0001",
     "locuteur": "Ayase",
     "en": "My hands are going numb.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Mes mains s'engourdissent.{ATTENTE}"
   },
   {
     "id": "E3.BIN:035:0002",
@@ -646,14 +646,14 @@
     "id": "E3.BIN:035:0003",
     "locuteur": "Brown",
     "en": "Whew, let's take a breather. I feel like{SAUT}my legs are gonna fall off.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Ouf, faisons une pause. J'ai{SAUT}l'impression que mes jambes lâchent.{ATTENTE}"
   },
   {
     "id": "E3.BIN:035:0004",
     "locuteur": "Elly",
     "en": "Both the demons and the building's{SAUT}structure are becoming more formidable.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Les démons et la structure du{SAUT}bâtiment deviennent plus redoutables.{ATTENTE}"
   }
 ]

@@ -1,0 +1,524 @@
+[
+  {
+    "id": "KOROU.BIN:text:0607",
+    "en": " ...Well, you cast your line, and now{SAUT}I'm hooked. Please, tell me...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0608",
+    "en": "Oooh! Excellent move! That one was{SAUT}incredible!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0609",
+    "en": "{PAGE}If you showed me more things like that,{SAUT}I wouldn't need to know!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0610",
+    "en": "   Wh-What the!? What in tarnation are you{SAUT}yelling for!?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0611",
+    "en": "  Th-That wasn't it...? Sorry, didn't mean{SAUT}to be suspicious. Will you keep going?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0612",
+    "en": "Hoho. You're like a carriage horse.{SAUT}Being dedicated is a good thing.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0613",
+    "en": "   Why...? Nothing good comes from living{SAUT}a rebellious life.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0614",
+    "en": "  That makes me happy. You look like a{SAUT}lie, but you're a good kid.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0615",
+    "en": "   Hmph! You have all the free time in the{SAUT}world! If you don't want to, say so!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0616",
+    "en": "   Ho, ho! Then let's negotiate!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0617",
+    "en": "  I'm not so much a demon as I am a{SAUT}[FFF0]...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0618",
+    "en": " I happen to be on a stroll too.{SAUT}I think you and I could get along.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0619",
+    "en": " It's too late now. No sense cryin' over{SAUT}spilt milk.{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0620",
+    "en": "{PAGE}Be careful next time.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0621",
+    "en": " What are you complaining about? It's{SAUT}first come, first serve for things like{SAUT}this.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0622",
+    "en": " Ahhhh! Stop it! It's gonna stink like{SAUT}humans...! Noooo, it's done for!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0623",
+    "en": " Hey! That's a child's answer! Don't toy{SAUT}with me!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0624",
+    "en": "   Is that so!? That's downright cruel!{SAUT}But I want to eat it too...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0625",
+    "en": "   ...I don't get it...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0626",
+    "en": "   The more ya have to suck out, the more{SAUT}flavorful it gets! That's dried squid!{SAUT}Delicious, I say!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0627",
+    "en": "Hey! My teeth ain't what they used to{SAUT}be! I can't eat such hard food!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0628",
+    "en": "  I don't need that.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0629",
+    "en": " Hey! It's obvious ya don't wanna!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0630",
+    "en": "  That's right. Now there's a good{SAUT}attitude.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0631",
+    "en": " If you're just gonna ignore me, why'd{SAUT}you answer my first question!? I don't{SAUT}understand...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0632",
+    "en": " Ho ho. You young'uns don't understand{SAUT}the emotion of a moonless night.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0633",
+    "en": " A moonless night makes surprise attacks{SAUT}easy... You're plannin' somethin'...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0634",
+    "en": "   That's really strange. You and I both{SAUT}have more to learn.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0635",
+    "en": "  ...I've never played this game you're{SAUT}goin' on about...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0636",
+    "en": "...I've heard of that before, but{SAUT}where...?(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0637",
+    "en": "You're mischief. You don't have to tease{SAUT}me, do ya? Come on, do somethin'.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0638",
+    "en": " Argh! You ain't gonna listen!?{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0639",
+    "en": "{PAGE}Time to put a rebellious boy in his{SAUT}place!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0640",
+    "en": " You're obedient... But after seein'{SAUT}those eyes of yours, I can't trust ya...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0641",
+    "en": "   Hey! You're not supposed to interrupt!{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0642",
+    "en": "{PAGE}If ya can't wait for someone to finish{SAUT}talkin', I'll have to punish you!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0643",
+    "en": "   Ho, ho! How brazenly you speak!{SAUT}Interesting! Let's negotiate.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0644",
+    "en": "  I'll give ya the ol' one-two! Don't be{SAUT}talkin' that hogwash!(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0645",
+    "en": "   ...Oh well.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0646",
+    "en": "That's right! Now that I think about it,{SAUT}I feel like we've met before...{ATTENTE}",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0647",
+    "en": "{PAGE}Sorry, all you humans look alike...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0648",
+    "en": "  Ho, ho! It's just a human. I got all{SAUT}worried over nothin'.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0649",
+    "en": " ...Yer really a demon? You smell sorta{SAUT}human...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:text:0650",
+    "en": "...Yer really a demon? You smell sorta{SAUT}human...(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0001",
+    "en": "You have a role.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0002",
+    "en": "I'll put you to use.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0003",
+    "en": "Persuade more(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0004",
+    "en": "Give a treasure(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0011",
+    "en": "Rip him(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0012",
+    "en": "Make noise(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0013",
+    "en": "Yeah? Fight me then.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0015",
+    "en": "I'll torment you.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 6
+  },
+  {
+    "id": "KOROU.BIN:resp:0016",
+    "en": "I won't torment you.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0017",
+    "en": "It's a joke.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 5
+  },
+  {
+    "id": "KOROU.BIN:resp:0018",
+    "en": "Work.(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0019",
+    "en": "Materials.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0020",
+    "en": "Company.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0021",
+    "en": "That's true.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0022",
+    "en": "You're not free.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0023",
+    "en": "You have no rights.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0024",
+    "en": "I have no plans.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOROU.BIN:resp:0027",
+    "en": "Sing again(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOROU.BIN:resp:0028",
+    "en": "Sing a cappella(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0029",
+    "en": "Sing another song(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOROU.BIN:resp:0030",
+    "en": "Get angry(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOROU.BIN:resp:0031",
+    "en": "Laugh(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0036",
+    "en": "You're attractive.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0037",
+    "en": "You're strong.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0038",
+    "en": "It was by chance.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0039",
+    "en": "Then never mind.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOROU.BIN:resp:0041",
+    "en": "But please.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0042",
+    "en": "More than straw.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0043",
+    "en": "Straw's worth.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0044",
+    "en": "Less than straw.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0045",
+    "en": "Hee hee!(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0047",
+    "en": "What'd you say!?(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 3
+  },
+  {
+    "id": "KOROU.BIN:resp:0049",
+    "en": "I want your card.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0052",
+    "en": "Thanks for the meal.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0053",
+    "en": "I'm not lying.(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 14
+  },
+  {
+    "id": "KOROU.BIN:resp:0055",
+    "en": "I have time.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0057",
+    "en": "Give me time!(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0058",
+    "en": "It's fun.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0060",
+    "en": "What a funny face.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0061",
+    "en": "You want more?(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0062",
+    "en": "I don't have candy.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0063",
+    "en": "Heart.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0064",
+    "en": "The lottery.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0065",
+    "en": "My memory.(*RESPONSE*) ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0066",
+    "en": "Okay! I'll stop.(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0067",
+    "en": "It's all on you!(*RESPONSE*)   ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0068",
+    "en": "That's rude.(*RESPONSE*)   ",
+    "fr": "",
+    "_occurrences": 4
+  },
+  {
+    "id": "KOROU.BIN:resp:0069",
+    "en": "You do.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0071",
+    "en": "That was a lie.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0072",
+    "en": "That's my business.(*RESPONSE*)",
+    "fr": "",
+    "_occurrences": 8
+  },
+  {
+    "id": "KOROU.BIN:resp:0073",
+    "en": "Too late.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0074",
+    "en": "You're still young.(*RESPONSE*)",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0075",
+    "en": "Apologize(*RESPONSE*)  ",
+    "fr": "",
+    "_occurrences": 17
+  },
+  {
+    "id": "KOROU.BIN:resp:0076",
+    "en": "Flirt more(*RESPONSE*) ",
+    "fr": "",
+    "_occurrences": 2
+  },
+  {
+    "id": "KOROU.BIN:resp:0078",
+    "en": "I have good eyes.(*RESPONSE*)  ",
+    "fr": ""
+  },
+  {
+    "id": "KOROU.BIN:resp:0079",
+    "en": "Gender is pointless.(*RESPONSE*)   ",
+    "fr": ""
+  }
+]
