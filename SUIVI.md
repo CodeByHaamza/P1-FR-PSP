@@ -4,11 +4,11 @@
 
 ```text
 Dialogues      ███████████░░░░░░░░░░░░░   44 %    3 796 / 8 572 textes
-EBOOT          █████████████░░░░░░░░░░░   55 %    1 518 / 2 750 textes
+EBOOT          ███████████████████░░░░░   78 %    2 265 / 2 921 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
 Négociations   ███░░░░░░░░░░░░░░░░░░░░░   11 %    1 314 / 12 487 textes
 
-Total          ███████░░░░░░░░░░░░░░░░░   28 %    6 758 / 23 939 textes
+Total          ███████░░░░░░░░░░░░░░░░░   31 %    7 505 / 24 110 textes
 ```
 
 ## Poids à surveiller
@@ -18,6 +18,7 @@ Ces entrées alourdissent leur fichier. Un bloc qui franchit sa frontière fait 
 - [`E0_024.json`](trad/dialogues/E0_024.json) — 1 entrée
 - [`E1_023.json`](trad/dialogues/E1_023.json) — 1 entrée
 - [`E3_001.json`](trad/dialogues/E3_001.json) — 1 entrée
+- [`EBOOT_020.json`](trad/eboot/EBOOT_020.json) — 1 entrée
 
 ## À relire
 
@@ -27,6 +28,9 @@ Terminologie à confirmer — un terme du dictionnaire apparaît dans l'anglais 
 - [`E2_005.json`](trad/dialogues/E2_005.json) — 1 terme
 - [`E3_001.json`](trad/dialogues/E3_001.json) — 1 terme
 - [`E3_006.json`](trad/dialogues/E3_006.json) — 1 terme
+- [`EBOOT_022.json`](trad/eboot/EBOOT_022.json) — 1 terme
+- [`EBOOT_024.json`](trad/eboot/EBOOT_024.json) — 2 termes
+- [`EBOOT_025.json`](trad/eboot/EBOOT_025.json) — 2 termes
 
 ## Largeur à surveiller
 
@@ -49,6 +53,7 @@ Ces lignes sont plus larges que l'anglaise et approchent de la limite de la boî
 - [`E3_004.json`](trad/dialogues/E3_004.json) — 1 ligne
 - [`E3_006.json`](trad/dialogues/E3_006.json) — 1 ligne
 - [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) — 1 ligne
+- [`EBOOT_019.json`](trad/eboot/EBOOT_019.json) — 1 ligne
 - [`KUTISAKE_001.json`](trad/negociations/KUTISAKE_001.json) — 1 ligne
 - [`KUTISAKE_002.json`](trad/negociations/KUTISAKE_002.json) — 3 lignes
 - [`KUTISAKE_003.json`](trad/negociations/KUTISAKE_003.json) — 7 lignes
@@ -71,6 +76,14 @@ Ces lignes dépassent la place que l'anglais occupe dans l'exécutable. Le moteu
 - [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) — 21 lignes
 - [`EBOOT_016.json`](trad/eboot/EBOOT_016.json) — 7 lignes
 - [`EBOOT_017.json`](trad/eboot/EBOOT_017.json) — 1 ligne
+- [`EBOOT_018.json`](trad/eboot/EBOOT_018.json) — 17 lignes
+- [`EBOOT_019.json`](trad/eboot/EBOOT_019.json) — 8 lignes
+- [`EBOOT_020.json`](trad/eboot/EBOOT_020.json) — 5 lignes
+- [`EBOOT_021.json`](trad/eboot/EBOOT_021.json) — 26 lignes
+- [`EBOOT_024.json`](trad/eboot/EBOOT_024.json) — 1 ligne
+- [`EBOOT_025.json`](trad/eboot/EBOOT_025.json) — 1 ligne
+- [`EBOOT_030.json`](trad/eboot/EBOOT_030.json) — 20 lignes
+- [`EBOOT_032.json`](trad/eboot/EBOOT_032.json) — 1 ligne
 
 ## Dialogues
 
@@ -206,19 +219,21 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) | 100 | 100 | 100 % | terminé · 1 trop large |
 | [`EBOOT_016.json`](trad/eboot/EBOOT_016.json) | 100 | 100 | 100 % | terminé · 7 à vérifier |
 | [`EBOOT_017.json`](trad/eboot/EBOOT_017.json) | 18 | 18 | 100 % | terminé · 1 à vérifier |
-| [`EBOOT_018.json`](trad/eboot/EBOOT_018.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#19) |
-| [`EBOOT_019.json`](trad/eboot/EBOOT_019.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#19) |
-| [`EBOOT_020.json`](trad/eboot/EBOOT_020.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#19) |
-| [`EBOOT_021.json`](trad/eboot/EBOOT_021.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#19) |
-| [`EBOOT_022.json`](trad/eboot/EBOOT_022.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#19) |
-| [`EBOOT_023.json`](trad/eboot/EBOOT_023.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#19) |
-| [`EBOOT_024.json`](trad/eboot/EBOOT_024.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#19) |
-| [`EBOOT_025.json`](trad/eboot/EBOOT_025.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#19) |
-| [`EBOOT_026.json`](trad/eboot/EBOOT_026.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#19) |
-| [`EBOOT_027.json`](trad/eboot/EBOOT_027.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#19) |
-| [`EBOOT_028.json`](trad/eboot/EBOOT_028.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#19) |
-| [`EBOOT_029.json`](trad/eboot/EBOOT_029.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#19) |
-| [`EBOOT_030.json`](trad/eboot/EBOOT_030.json) | 32 | 0 | 0 % | en cours par @CodeByHaamza (#19) |
+| [`EBOOT_018.json`](trad/eboot/EBOOT_018.json) | 100 | 93 | 93 % | commencé · 17 à vérifier |
+| [`EBOOT_019.json`](trad/eboot/EBOOT_019.json) | 100 | 100 | 100 % | terminé · 1 trop large |
+| [`EBOOT_020.json`](trad/eboot/EBOOT_020.json) | 100 | 100 | 100 % | terminé · 1 à alléger |
+| [`EBOOT_021.json`](trad/eboot/EBOOT_021.json) | 100 | 98 | 98 % | commencé · 26 à vérifier |
+| [`EBOOT_022.json`](trad/eboot/EBOOT_022.json) | 100 | 36 | 36 % | commencé · 1 terme |
+| [`EBOOT_023.json`](trad/eboot/EBOOT_023.json) | 100 | 45 | 45 % | commencé |
+| [`EBOOT_024.json`](trad/eboot/EBOOT_024.json) | 100 | 93 | 93 % | commencé · 2 termes |
+| [`EBOOT_025.json`](trad/eboot/EBOOT_025.json) | 100 | 41 | 41 % | commencé · 2 termes |
+| [`EBOOT_026.json`](trad/eboot/EBOOT_026.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_027.json`](trad/eboot/EBOOT_027.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_028.json`](trad/eboot/EBOOT_028.json) | 100 | 1 | 1 % | commencé |
+| [`EBOOT_029.json`](trad/eboot/EBOOT_029.json) | 100 | 0 | 0 % | libre |
+| [`EBOOT_030.json`](trad/eboot/EBOOT_030.json) | 100 | 39 | 39 % | commencé · 20 à vérifier |
+| [`EBOOT_031.json`](trad/eboot/EBOOT_031.json) | 100 | 100 | 100 % | terminé |
+| [`EBOOT_032.json`](trad/eboot/EBOOT_032.json) | 3 | 1 | 33 % | commencé · 1 à vérifier |
 
 ## Donjons
 
