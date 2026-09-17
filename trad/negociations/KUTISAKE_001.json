@@ -2,501 +2,501 @@
   {
     "id": "KUTISAKE.BIN:text:0000",
     "en": "You're right... I'm still young, too.{SAUT}It makes me think.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu as raison... Je suis encore jeune,{SAUT}moi aussi. Ça fait réfléchir.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0001",
     "en": "   Hmph! What do you think you're up to?{SAUT}As if you know how I've suffered!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hmph! Qu'est-ce que tu manigances?{SAUT}Comme si tu savais ce que j'ai souffert!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0002",
     "en": "I knew it! You're interested in me,{SAUT}aren't you?{ATTENTE}",
-    "fr": ""
+    "fr": "Je le savais! Je t'intéresse,{SAUT}pas vrai?{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0003",
     "en": "{PAGE}Let me guess... You're attracted to{SAUT}women with large mouths!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Laisse-moi deviner... Tu aimes les{SAUT}femmes à grande bouche!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0004",
     "en": "  Goodness, you're rather confident.{SAUT}Wanna put that to the test later on?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ciel, tu es plutôt sûr de toi.{SAUT}On vérifie ça tout à l'heure?(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0005",
     "en": "The nerve, taunting me! Don't make me{SAUT}take off this mask!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Quel culot, me chambrer! Ne m'oblige{SAUT}pas à enlever ce masque!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0006",
     "en": "  Wh-What's wrong with you...? Don't you{SAUT}know how to speak to a lady...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Qu-Qu'est-ce qui te prend...? Tu ne{SAUT}sais pas parler à une dame...?(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0007",
     "en": " Do you really need my help?{ATTENTE}",
-    "fr": ""
+    "fr": "Tu as vraiment besoin de mon aide?{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0008",
     "en": "{PAGE}Aren't you just trying to join our group?(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Tu veux juste rejoindre le groupe, non?(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0009",
     "en": " Are you trying to sweet-talk me?{SAUT}Hmph! I'm not falling for that!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu essaies de m'amadouer?{SAUT}Hmph! Je ne tombe pas là-dedans!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0010",
     "en": "   I'm not interested in people with small{SAUT}mouths. Sorry... try someone else.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Les petites bouches ne m'intéressent{SAUT}pas. Désolée... vois quelqu'un d'autre.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0011",
     "en": " What an amazing voice... It's so good,{SAUT}I kind of hate it! Let's see what it{SAUT}sounds like when it's screaming!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Quelle voix superbe... Si belle que je{SAUT}la déteste presque! Voyons ce qu'elle{SAUT}donne quand elle hurle!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0012",
     "en": "   Stop singing... I hate music.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Arrête de chanter... Je hais la musique.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0013",
     "en": "  Wow, that's a great voice. You know,{SAUT}I was a good singer in my day, too.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ouah, quelle belle voix. Tu sais, je{SAUT}chantais bien aussi, à mon époque.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0014",
     "en": "   Well... you're not using any product{SAUT}in your hair, at least. I'll think{SAUT}about it.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Bon... au moins tu ne mets pas de gel{SAUT}dans tes cheveux. Je vais y{SAUT}réfléchir.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0015",
     "en": "  Hmph! I bet you've rehearsed those lines{SAUT}before on other demons!{ATTENTE}",
-    "fr": ""
+    "fr": "Hmph! Je parie que tu as répété ces{SAUT}phrases sur d'autres démons!{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0016",
     "en": "{PAGE}You disgust me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Tu me dégoûtes!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0017",
     "en": "  Another favor? It seems like everyone's{SAUT}been coming to me.{ATTENTE}",
-    "fr": ""
+    "fr": "Encore une faveur? On dirait que tout{SAUT}le monde vient me voir.{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0018",
     "en": "{PAGE}Ahaha... Beauty can be a sin.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Ahaha... La beauté peut être un péché.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0019",
     "en": "  Don't you have any pride!? I hate women{SAUT}like you!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu n'as aucune fierté!? Je hais les{SAUT}femmes comme toi!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0020",
     "en": "  Come on, cut that out... It's creepy.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Allez, arrête ça... C'est glauque.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0021",
     "en": "  Yes! Exactly! The homely and the plain{SAUT}must kneel before me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oui! Exactement! Les laides et les{SAUT}banales doivent s'agenouiller!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0022",
     "en": "   Hmm... I usually don't believe people{SAUT}unless they tell me I'm beautiful...{ATTENTE}",
-    "fr": ""
+    "fr": "Hmm... D'habitude je ne crois les gens{SAUT}que s'ils me disent que je suis belle...{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0023",
     "en": "{PAGE}Well, maybe just this once, I'll let it{SAUT}go and believe you.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Bon, pour cette fois, je laisse{SAUT}passer et je te crois.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0024",
     "en": "You're lying your ass off! Don't make me{SAUT}slice you to ribbons with my box cutter!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu mens comme tu respires! Ne m'oblige{SAUT}pas à te découper au cutter!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0025",
     "en": "  Goodness... You want to spend time with{SAUT}me so badly you'll lie to do it?{ATTENTE}",
-    "fr": ""
+    "fr": "Ciel... Tu veux tant passer du temps{SAUT}avec moi que tu mens pour ça?{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0026",
     "en": "{PAGE}Ahaha... I've still got it.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Ahaha... J'ai encore la cote.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0027",
     "en": "  Ah, you seem to know your limitations.{ATTENTE}",
-    "fr": ""
+    "fr": "Ah, tu sembles connaître tes limites.{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0028",
     "en": "{PAGE}That's a very important thing to get by{SAUT}in this world.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}C'est très important pour s'en sortir{SAUT}dans ce monde.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0029",
     "en": " What's your problem!? You make me{SAUT}sound like a monster or something!{SAUT}Now I'm really ticked off!(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est quoi ton problème!? Tu me fais{SAUT}passer pour un monstre ou quoi!{SAUT}Là, je suis vraiment vexée!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0030",
     "en": "That's right! Next time, bring me candy!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Exact! La prochaine fois, des bonbons!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0031",
     "en": "   Huh? How old are you?{SAUT}Ick... You're still a kid...{ATTENTE}",
-    "fr": ""
+    "fr": "Hein? Tu as quel âge?{SAUT}Beurk... Tu es encore un gamin...{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0032",
     "en": "{PAGE}Your arrogance is jaw-closing.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Ton arrogance me ferme la bouche.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0033",
     "en": " What does a brat like you want with me!?{SAUT}You're not my type!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Qu'est-ce qu'un morveux me veut!?{SAUT}Tu n'es pas mon genre!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0034",
     "en": "   Dummy.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Idiot.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0035",
     "en": " Am I beautiful!?{ATTENTE}",
-    "fr": ""
+    "fr": "Suis-je belle!?{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0036",
     "en": "{PAGE}I'm beautiful, right!?{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Je suis belle, hein!?{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0037",
     "en": "{PAGE}That's right! I AM beautiful!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Exact! Je SUIS belle!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0038",
     "en": "Ahaha... You're cute.{ATTENTE}",
-    "fr": ""
+    "fr": "Ahaha... Tu es mignon.{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0039",
     "en": "{PAGE}It's a corny joke, but it's nice that{SAUT}you're trying to get my attention.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Blague ringarde, mais c'est gentil{SAUT}d'essayer d'attirer mon attention.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0040",
     "en": "Hey! My mouth hurts when I laugh!{SAUT}You better not be doing that on purpose!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hé! Ma bouche me fait mal quand je ris!{SAUT}J'espère que tu ne le fais pas exprès!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0041",
     "en": " Laaaaame...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Nuuuuul...(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0042",
     "en": "That was pretty funny! Not as funny as{SAUT}your face, though.(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'était assez drôle! Moins que{SAUT}ta tête, cela dit.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0043",
     "en": "  Me? Let's see... I've been in a fix{SAUT}lately. Kids are too careful nowadays.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Moi? Voyons... Je suis dans une passe{SAUT}difficile. Les enfants se méfient trop.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0044",
     "en": " Hmmm... I haven't had much luck capturing{SAUT}kids lately.{ATTENTE}",
-    "fr": ""
+    "fr": "Hmmm... Je n'ai pas eu de chance pour{SAUT}attraper des enfants ces temps-ci.{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0045",
     "en": "{PAGE}So I'll capture you instead...!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Alors je t'attraperai à la place...!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0046",
     "en": "Umm, well... Rumor has it that humans who{SAUT}hit on demons are extra delicious!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Euh, eh bien... On dit que les humains{SAUT}qui draguent les démons sont délicieux!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0047",
     "en": "   Awww, how cute... Trying to get my{SAUT}attention with a cheap gag like that...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oooh, mignon... Chercher mon attention{SAUT}avec une blague aussi bon marché...(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0048",
     "en": " Uh, what's wrong with you? Are you an{SAUT}idiot or something? How childish!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Euh, qu'est-ce qui te prend? Tu es{SAUT}idiot ou quoi? Quel gamin!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0049",
     "en": "Wh-What was that for...? That was close.{SAUT}My mask almost slid off...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Qu-Qu'est-ce qui t'a pris...? Pas loin.{SAUT}Mon masque a failli glisser...(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0050",
     "en": "Is that a present? For me? Hurry up{SAUT}and gimme!(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est un cadeau? Pour moi? Vite,{SAUT}donne!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0051",
     "en": " Hey! You think this is going to sway me!?{SAUT}You didn't give this much thought,{SAUT}did you? What I want is candy!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hé! Tu crois que ça va me convaincre!?{SAUT}Tu n'y as pas beaucoup réfléchi,{SAUT}hein? Moi, je veux des bonbons!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0052",
     "en": "Oh, my! It's been a while since I was{SAUT}given a gift... How delightful!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh! Ça faisait longtemps qu'on ne{SAUT}m'avait rien offert... Quel délice!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0053",
     "en": "  That speech was amazing! You must have{SAUT}practiced in front of a mirror. I like{SAUT}a man who works hard!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Quel discours! Tu as dû répéter devant{SAUT}un miroir. J'aime les hommes qui{SAUT}travaillent dur!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0054",
     "en": "You talk big for a little kid! What a{SAUT}smart-aleck...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu parles fort pour un gamin! Quel{SAUT}petit malin...(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0055",
     "en": "   If you can speak that confidently, you{SAUT}have a mouth well-suited to lip service!{SAUT}It could surpass mine someday!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Si tu parles avec tant d'assurance, ta{SAUT}bouche est faite pour le baratin!{SAUT}Elle dépassera la mienne un jour!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0056",
     "en": " Kids today really are lacking in calcium.{ATTENTE}",
-    "fr": ""
+    "fr": "Les jeunes manquent trop de calcium.{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0057",
     "en": "{PAGE}You should eat more candy.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Tu devrais manger plus de bonbons.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0058",
     "en": "  There's no reason to yell at me! This is{SAUT}why I hate stupid brats!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pas la peine de me crier dessus! C'est{SAUT}pour ça que je hais les sales gosses!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0059",
     "en": "  ...My time has already passed... I wonder{SAUT}if I should just go into hiding.(*RESPONSE*)",
-    "fr": ""
+    "fr": "...Mon heure est passée... Je devrais{SAUT}peut-être me cacher, tout simplement.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0060",
     "en": " I don't really like kids. They can be{SAUT}such smart-alecks... Will you really{SAUT}grow into a handsome man someday? Mmm.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je n'aime pas trop les enfants. Ils sont{SAUT}si effrontés... Tu deviendras vraiment{SAUT}un bel homme un jour? Mmm.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0061",
     "en": "  You pretend to be mature, but you've got{SAUT}a long way to go when it comes to{SAUT}dealing with women!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu joues les adultes, mais tu as encore{SAUT}du chemin à faire pour savoir{SAUT}parler aux femmes!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0062",
     "en": " Oh, stop... you're embarrassing me...!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh, arrête... tu me gênes...!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0063",
     "en": " Is that the takenoko? I was active in{SAUT}the 70s... I don't know much about{SAUT}modern dances.(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est le takenoko? J'étais active dans{SAUT}les années 70... Je connais mal les{SAUT}danses modernes.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0064",
     "en": "Hmph! Your moves are best kept to{SAUT}yourself, if you ask me. Come back{SAUT}when you've had more practice!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hmph! Garde tes pas de danse pour toi,{SAUT}si tu veux mon avis. Reviens quand tu{SAUT}auras plus d'entraînement!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0065",
     "en": "Ahaha... You're pretty good! But if it{SAUT}was a race, I'd win!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ahaha... Tu es plutôt doué! Mais à la{SAUT}course, c'est moi qui gagnerais!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0066",
     "en": "You seem pretty sure of yourself. I'm{SAUT}always surprised by kids these days.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu as l'air bien sûr de toi. Les enfants{SAUT}d'aujourd'hui me surprennent toujours.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0067",
     "en": " You're one of those kids who never knows{SAUT}when to shut up! How about if I slice{SAUT}your mouth off, hmmm? What then!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu es de ces gosses qui ne savent jamais{SAUT}se taire! Et si je te tranchais la{SAUT}bouche, hmmm? Et après!?(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0068",
     "en": "   Um... Um, all I do is ask, \"Am I{SAUT}beautiful?\" you know...{ATTENTE}",
-    "fr": ""
+    "fr": "Euh... Euh, tout ce que je fais, c'est{SAUT}demander \"Suis-je belle?\", tu sais...{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0069",
     "en": "{PAGE}...I'm not lying...(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}...Je ne mens pas...(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0070",
     "en": "  Are you that curious to know what's under{SAUT}this mask?{ATTENTE}",
-    "fr": ""
+    "fr": "Tu es si curieux de savoir ce qu'il y a{SAUT}sous ce masque?{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0071",
     "en": "{PAGE}Ahahah... That'll have to stay a secret.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Ahahah... Ça restera un secret.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0072",
     "en": " What's with that look? It's getting on{SAUT}my nerves a little!(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est quoi ce regard? Ça me tape{SAUT}un peu sur les nerfs!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0073",
     "en": " Hahah... I can tell you're enraptured.{SAUT}It's not for nothing that they say{SAUT}beauty can be a sin.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hahah... Je vois que tu es charmé.{SAUT}Ce n'est pas pour rien qu'on dit que{SAUT}la beauté peut être un péché.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0074",
     "en": " You sure can hype yourself up... it's{SAUT}really something. You're an interesting{SAUT}kid, you know that?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu sais te vendre... c'est quelque{SAUT}chose. Tu es un enfant intéressant,{SAUT}tu le sais?(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0075",
     "en": "  Hmph! Talking without thinking is a{SAUT}terrible thing... Don't make me slit{SAUT}that mouth apart!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hmph! Parler sans réfléchir est une{SAUT}chose terrible... Ne m'oblige pas à{SAUT}te fendre la bouche!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0076",
     "en": " Ahahah... You don't have to lie just{SAUT}because you're embarrassed. Lots of{SAUT}people are interested in me.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ahahah... Pas besoin de mentir parce{SAUT}que tu es gêné. Plein de gens{SAUT}s'intéressent à moi.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0077",
     "en": "  Hmph! The only creepy thing here is{SAUT}your face!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hmph! La seule chose glauque ici,{SAUT}c'est ta tête!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0078",
     "en": " N-No! Stop it! Why did you tell me that!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "N-Non! Arrête! Pourquoi tu m'as dit ça!?(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0079",
     "en": "  I was the talk of the town, back in{SAUT}the day. I'd like to slit your mouth{SAUT}and make you famous, too.(*RESPONSE*)",
-    "fr": ""
+    "fr": "On ne parlait que de moi, à l'époque.{SAUT}Je te fendrais bien la bouche pour{SAUT}te rendre célèbre aussi.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0080",
     "en": " Wow, you have a wonderful voice. But if{SAUT}you slit your mouth wider, you could{SAUT}achieve an even greater range...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ouah, tu as une voix magnifique. Mais{SAUT}avec la bouche fendue plus large, tu{SAUT}aurais encore plus de tessiture...(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0081",
     "en": "  You can out-sing me with that tiny{SAUT}mouth...? I don't know how I feel{SAUT}about that!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu chantes mieux que moi avec cette{SAUT}petite bouche...? Je ne sais pas{SAUT}quoi en penser!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0082",
     "en": "   Wow, that's a great voice you have.{SAUT}Listening to you calms me down.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ouah, quelle belle voix tu as.{SAUT}T'écouter me calme.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0083",
     "en": "Now that's an interesting tactic!{SAUT}I like playing house, too.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Voilà une tactique intéressante!{SAUT}J'aime jouer à la dînette aussi.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0084",
     "en": "   Hey! Who do you think I am!? Cut it{SAUT}out already!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hé! Tu me prends pour qui!? Arrête{SAUT}ça tout de suite!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0085",
     "en": "   Strange... I feel so nostalgic all of{SAUT}a sudden. I'm glad I met you.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Étrange... Je me sens si nostalgique{SAUT}d'un coup. Contente de t'avoir croisé.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0086",
     "en": "Huh...? Do you really need me? Don't you{SAUT}just want to be one of my sisters?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hein...? Tu as vraiment besoin de moi?{SAUT}Tu ne veux pas juste devenir ma soeur?(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0087",
     "en": "Hmph! I have my pride, you know! I'd{SAUT}sooner cut my mouth even wider than{SAUT}put myself in your care!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hmph! J'ai ma fierté, tu sais! Je me{SAUT}fendrais la bouche encore plus large{SAUT}plutôt que de me confier à toi!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0088",
     "en": "  Recently, I didn't even have anyone to{SAUT}ask, \"Am I beautiful?\" so I was getting{SAUT}lonely. You've made me a happy woman!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ces temps-ci, personne ne me demandait{SAUT}plus \"Suis-je belle?\", je me sentais{SAUT}seule. Tu me rends heureuse!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0089",
     "en": "   Honestly... Kids your age are getting{SAUT}way too precocious. Though I was like{SAUT}that too when I was a delinquent...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Franchement... Les enfants de ton âge{SAUT}sont trop précoces. Mais j'étais pareille{SAUT}quand j'étais délinquante...(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0090",
     "en": "Hey! Watch your mouth! What's with you?{SAUT}Don't sass me, little girl!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hé! Surveille ta langue! Qu'est-ce qui{SAUT}te prend? Ne me réponds pas, petite!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0091",
     "en": "Th-That's not true... Oh God... ＊sob＊(*RESPONSE*)",
-    "fr": ""
+    "fr": "C-C'est faux... Mon Dieu... ＊snif＊(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0092",
     "en": "  Are you actually trying to seduce me...?{SAUT}Huh... I can't bring myself to hate you.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu essaies vraiment de me séduire...?{SAUT}Hein... Je n'arrive pas à te détester.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0093",
     "en": "  Oh, is that so? Then feel the caress...{SAUT}of my box cutter on your face!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh, vraiment? Alors sens la caresse...{SAUT}de mon cutter sur ton visage!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0094",
     "en": " Ahahah... That's so cute.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ahahah... C'est mignon.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0095",
     "en": "  I didn't think there was anyone out there{SAUT}with a fate worse than mine... I feel for{SAUT}you from the bottom of my heart.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je ne pensais pas qu'il existait un sort{SAUT}pire que le mien... Je te plains du{SAUT}fond du coeur.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0096",
     "en": "   Hmph! Boy, did you choose the wrong{SAUT}person to try that on! I love nothing{SAUT}more than making spoiled brats cry!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hmph! Tu as mal choisi ta victime pour{SAUT}ce coup-là! Rien ne me plaît plus{SAUT}que de faire pleurer les enfants gâtés!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0097",
     "en": "  Yeesh, stop crying... Your bad luck{SAUT}will rub off on me.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pff, arrête de pleurer... Ta poisse{SAUT}va déteindre sur moi.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0098",
     "en": "Wow...! You're pretty self-confident!{SAUT}People like you interest me.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ouah...! Tu es plutôt sûr de toi!{SAUT}Les gens comme toi m'intéressent.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0099",
     "en": " Hmph! Don't act all high and mighty when{SAUT}you're really all talk! I'll give your{SAUT}fresh mouth a good slashing!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hmph! Ne joue pas les grands quand tu{SAUT}n'as que ta langue! Je vais lacérer{SAUT}cette bouche insolente!(*RESPONSE*)"
   }
 ]

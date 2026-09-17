@@ -2,505 +2,505 @@
   {
     "id": "YAKUZA.BIN:text:0105",
     "en": "   I told ya kid, drug use is life abuse.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je te l'ai dit, gamin: drogue = mort.(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0106",
     "en": " Hahaha! If you're usin', kid, you oughta{SAUT}quit and get your ass to a doctor.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hahaha! Si tu te drogues, gamin, arrête{SAUT}et file chez un docteur.(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0107",
     "en": "Interesting... You've got some real{SAUT}con-artist potential.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Intéressant... T'as un vrai potentiel{SAUT}d'arnaqueur.(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0108",
     "en": "  I can't figure out some civilian{SAUT}trick... Times sure have changed...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je pige pas les ruses de civils...{SAUT}Les temps ont bien changé...(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0109",
     "en": "   You're an interesting kid, but if you're{SAUT}a student, shouldn't you be using your{SAUT}head?(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es un gamin intéressant, mais si t'es{SAUT}lycéen, tu devrais te servir de{SAUT}ta tête, non?(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0110",
     "en": "  You're a smart one. You know how to deal{SAUT}with us yakuza.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es malin, toi. Tu sais t'y prendre{SAUT}avec nous, les yakuzas.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0111",
     "en": "  You wanna negotiate with a yakuza? Lemme{SAUT}tell ya the first step: hand over{SAUT}somethin' worth my time.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu veux négocier avec un yakuza? Je te{SAUT}dis la première étape: file-moi{SAUT}un truc qui vaut mon temps.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0112",
     "en": "   I'm the type of guy who enjoys a moment{SAUT}of silence. Think that over.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je suis le genre de type qui aime un{SAUT}moment de silence. Réfléchis à ça.(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0113",
     "en": "   Hey, if you wanna talk, you gotta follow{SAUT}the rules! First, gimme whatchya got.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Hé, si tu veux causer, faut suivre{SAUT}les règles! D'abord, file ce que t'as.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0114",
     "en": "What does an outsider want with me...?{SAUT}I'm runnin' late for a ...meeting...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Qu'est-ce qu'un civil me veut...?{SAUT}Je suis en retard pour une... réunion...(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0115",
     "en": "If you're talkin' to a yakuza, you're{SAUT}not a real honest human, are ya?{SAUT}You. Gimme somethin'.[FFF1](*RESPONSE*)",
-    "fr": "",
+    "fr": "Si tu causes à un yakuza, t'es pas{SAUT}un humain si honnête, hein?{SAUT}Toi. File-moi un truc.[FFF1](*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YAKUZA.BIN:text:0116",
     "en": "  You've got quite a mouth. Lemme know{SAUT}when you become a lawyer.(*RESPONSE*)",
-    "fr": "",
+    "fr": "T'as une sacrée langue. Préviens-moi{SAUT}quand tu seras avocat.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YAKUZA.BIN:text:0117",
     "en": " Hahaha! You're pretty calm for bein'{SAUT}in front of a yakuza. Show me a token{SAUT}of your respect.[FFF1](*RESPONSE*)",
-    "fr": "",
+    "fr": "Hahaha! T'es plutôt calme devant un{SAUT}yakuza. Montre-moi une preuve{SAUT}de respect.[FFF1](*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YAKUZA.BIN:text:0118",
     "en": "   You've got guts. You know how to deal{SAUT}with us yakuza.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "T'as du cran. Tu sais t'y prendre{SAUT}avec nous, les yakuzas.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0119",
     "en": " You wanna negotiate with a yakuza? Lemme{SAUT}tell ya the first step: hand over{SAUT}somethin' worth my time.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu veux négocier avec un yakuza? Je te{SAUT}dis la première étape: file-moi{SAUT}un truc qui vaut mon temps.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0120",
     "en": "   What the hell are you thinking?{SAUT}Try using that head of yours.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Qu'est-ce qui te passe par la tête?{SAUT}Essaie de t'en servir.(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0121",
     "en": "  You don't think much, do ya kid!? It{SAUT}ain't wise to make fun of the yakuza!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu réfléchis pas beaucoup, gamin!? C'est{SAUT}pas malin de se moquer des yakuzas!(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0122",
     "en": " What does an outsider want with me...?{SAUT}I'm runnin' late for a ...meeting...(*RESPONSE*)",
-    "fr": "",
+    "fr": "Qu'est-ce qu'un civil me veut...?{SAUT}Je suis en retard pour une... réunion...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YAKUZA.BIN:text:0126",
     "en": "   You got guts, kid. Not too many civvies{SAUT}out there negotiate with us yakuza like{SAUT}that.(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'as du cran, gamin. Pas beaucoup de{SAUT}civils négocient comme ça avec nous,{SAUT}les yakuzas.(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0127",
     "en": "  You've got balls to stand up to my{SAUT}anger, kid! I better test ya.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "T'as des couilles de tenir tête à ma{SAUT}colère, gamin! Je vais te tester.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0128",
     "en": "  You makin' fun of me!? Humans die pretty{SAUT}quickly, y'know!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu te moques de moi!? Les humains{SAUT}meurent vite, tu sais!(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0129",
     "en": "  You lookin' to die? Well, before ya go,{SAUT}gimme your stuff.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu cherches à mourir? Avant de partir,{SAUT}file-moi tes affaires.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0131",
     "en": "You makin' fun of me? That's crazy, man.{SAUT}Lemme test your brain: gimme somethin'.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu te moques de moi? T'es fou, mec.{SAUT}Testons ta cervelle: file-moi un truc.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0132",
     "en": "  If you're a man, you gotta know how to{SAUT}suppress your anger. I ain't budgin'.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Si t'es un homme, tu dois savoir{SAUT}maîtriser ta colère. Je bouge pas.(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0133",
     "en": "   You're tryin' to piss me off, but you're{SAUT}outta yer league. It'd be easier if ya{SAUT}just gave me somethin'.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu cherches à m'énerver, mais t'es pas{SAUT}de taille. Ce serait plus simple de{SAUT}juste me filer un truc.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0134",
     "en": "   You're pretty good. Keep workin' your{SAUT}way to the top.(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es plutôt bon. Continue de grimper{SAUT}vers le sommet.(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0135",
     "en": "  Bustin' out a performance in the middle{SAUT}of a chat with a yakuza? That's crazy.{SAUT}I think you better give me somethin'.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Un numéro en pleine causette avec un{SAUT}yakuza? T'es fou. Je crois que t'as{SAUT}intérêt à me filer un truc.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0136",
     "en": "  Cut the crap! Yakuza ain't the type to{SAUT}quit talkin' and watch a show!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Arrête tes conneries! Un yakuza s'arrête{SAUT}pas de causer pour mater un spectacle!(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0137",
     "en": "  Knock it off, you're wastin' my time.{SAUT}Just get to the part where ya give me{SAUT}your valuables.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Arrête, tu me fais perdre mon temps.{SAUT}Passe direct au moment où tu me{SAUT}files tes objets de valeur.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0138",
     "en": "   You're no good... You've got a problem{SAUT}or somethin'...(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es pas net... T'as un problème{SAUT}ou quoi...(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0139",
     "en": " I don't get what you civvies are{SAUT}thinkin' these days. Lay it out plain.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Je pige pas ce que vous pensez, vous{SAUT}les civils. Dis-le clairement.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0140",
     "en": "   Don't make me laugh so much! I didn't{SAUT}think it'd be this hard to hold back!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Me fais pas autant rire! Je pensais pas{SAUT}que ce serait si dur de me retenir!(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0141",
     "en": "You're a quality peformer, kid. I like{SAUT}ya. When are you on again?(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es un artiste de qualité, gamin. Je{SAUT}t'aime bien. Tu repasses quand?(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0142",
     "en": "  Straight up inviting a yakuza? What a{SAUT}crazy human. Maybe you'll be a big shot{SAUT}later in life.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Inviter un yakuza direct? Quel humain{SAUT}dingue. Tu seras peut-être un gros{SAUT}bonnet plus tard.(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0143",
     "en": "   You inviting me? I'll need somethin'{SAUT}fitting then.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu m'invites? Il me faudra un truc{SAUT}à la hauteur alors.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0144",
     "en": "Don't underestimate the yakuza...{SAUT}We don't take well to bein' treated like{SAUT}family by the civvies.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Sous-estime pas les yakuzas...{SAUT}On aime pas être traités comme de la{SAUT}famille par les civils.(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0145",
     "en": "  You're sayin' I'm greedy!? You mock me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu dis que je suis avide!? Tu te moques!(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0146",
     "en": "...I ain't interested in civvies...(*RESPONSE*)",
-    "fr": ""
+    "fr": "...Les civils m'intéressent pas...(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0147",
     "en": "...I ain't interested in civvies...{SAUT}'Course, goods are another story.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "...Les civils m'intéressent pas...{SAUT}Leurs biens, c'est une autre histoire.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0148",
     "en": " Real men let go of their greed. I ain't{SAUT}gonna budge on that, kid.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Un vrai homme lâche son avidité. Je{SAUT}changerai pas d'avis, gamin.(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0149",
     "en": "  Hahaha! Let the yakuza handle your{SAUT}problems. If you've got somethin' for{SAUT}me, maybe I'll see things your way.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Hahaha! Laisse les yakuzas régler tes{SAUT}problèmes. Si t'as un truc pour moi,{SAUT}je verrai peut-être les choses comme toi.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0150",
     "en": "  Don't be scared. Yakuza don't hurt{SAUT}outsiders, 'specially not women.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Aie pas peur. Les yakuzas touchent pas{SAUT}aux civils, surtout pas aux femmes.(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0151",
     "en": "Don't worry. Yakuza are nice guys once{SAUT}we get what we want.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "T'inquiète. Les yakuzas sont gentils{SAUT}une fois qu'ils ont ce qu'ils veulent.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0152",
     "en": "   Tryin' to get on my good side, girl!?{SAUT}I can't trust ya!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu cherches à m'amadouer, petite!?{SAUT}Je peux pas te faire confiance!(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0153",
     "en": "If you wanna get on my good side, start{SAUT}by followin' the yakuza tradition.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Si tu veux être dans mes petits papiers,{SAUT}commence par suivre la tradition yakuza.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0154",
     "en": "Maybe you're up to somethin', maybe you{SAUT}ain't. Either way, I don't trust anyone{SAUT}I ain't traded cups with.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Peut-être que tu mijotes un truc, peut-{SAUT}être pas. Je fais confiance à personne{SAUT}avec qui j'ai pas trinqué.(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0155",
     "en": "  In my experience, when people act like{SAUT}that, you can't trust 'em...(*RESPONSE*)",
-    "fr": ""
+    "fr": "D'expérience, quand les gens agissent{SAUT}comme ça, on peut pas s'y fier...(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0156",
     "en": "Don't worry, ain't nobody kinder to{SAUT}women than yakuza. We got big hearts.(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'inquiète, personne est plus gentil{SAUT}avec les femmes qu'un yakuza. Grand coeur.(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0157",
     "en": "  All yakuza are born with natural charm.{SAUT}You don't need to worry.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tous les yakuzas naissent avec un charme{SAUT}naturel. Pas de souci à te faire.(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0158",
     "en": "   You have proof of our vow. You must{SAUT}make a Persona with a big heart and{SAUT}a strong sense of honor.(*OPTION*)",
-    "fr": ""
+    "fr": "T'as la preuve de notre serment. Fais{SAUT}un Persona au grand coeur et au{SAUT}sens de l'honneur solide.(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0159",
     "en": "   Alright, here ya go.(*OPTION*)",
-    "fr": ""
+    "fr": "Bon, tiens.(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0160",
     "en": "   In the end, you're just a civilian.{SAUT}You can't understand a yakuza...(*OPTION*)",
-    "fr": ""
+    "fr": "Au final, t'es qu'un civil.{SAUT}Tu peux pas comprendre un yakuza...(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0161",
     "en": "   You and I are too different.(*OPTION*)",
-    "fr": ""
+    "fr": "Toi et moi, on est trop différents.(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0162",
     "en": "   It's a cryin' shame, but I like being{SAUT}a yakuza. Come back when you've got{SAUT}more life experience.(*OPTION*)",
-    "fr": ""
+    "fr": "C'est bien dommage, mais j'aime être{SAUT}yakuza. Reviens quand t'auras plus{SAUT}d'expérience de la vie.(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0163",
     "en": "Well, I guess you can have this. Put it{SAUT}toward your training.(*OPTION*)",
-    "fr": ""
+    "fr": "Bon, tu peux avoir ça. Mets-le dans{SAUT}ton entraînement.(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0164",
     "en": "  Ciao.(*OPTION*)",
-    "fr": ""
+    "fr": "Ciao.(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0165",
     "en": "  Hahaha! There's no need for either of{SAUT}us to hold back.(*OPTION*)",
-    "fr": ""
+    "fr": "Hahaha! Aucun de nous deux n'a{SAUT}besoin de se retenir.(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0166",
     "en": " Make the call! I wanna get outta here!(*OPTION*)",
-    "fr": ""
+    "fr": "Passe l'appel! Je veux me tirer d'ici!(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0167",
     "en": " The card is proof of our vow.{SAUT}Make me a Persona with a big heart{SAUT}and a strong sense of honor.(*OPTION*)",
-    "fr": ""
+    "fr": "La carte est la preuve de notre serment.{SAUT}Fais de moi un Persona au grand coeur{SAUT}et au sens de l'honneur solide.(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0168",
     "en": "  I'll give you this. A pointless scuffle{SAUT}wouldn't benefit either of us.(*OPTION*)",
-    "fr": ""
+    "fr": "Je te donne ça. Une bagarre inutile{SAUT}ne profiterait à aucun de nous.(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0169",
     "en": " You lawful guys, go home{SAUT}and play Atlus video games.{SAUT}I'm going home too.(*OPTION*)",
-    "fr": ""
+    "fr": "Vous les gars réglos, rentrez{SAUT}jouer aux jeux vidéo Atlus.{SAUT}Moi aussi je rentre.(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0170",
     "en": "   Lawful guys should stay home and play{SAUT}Atlus games. I hear they're awesome.{SAUT}Put this toward your purchase.(*OPTION*)",
-    "fr": ""
+    "fr": "Les gars réglos devraient rester chez eux{SAUT}jouer aux jeux Atlus. Il paraît que{SAUT}c'est génial. Mets ça dans l'achat.(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0171",
     "en": "  I'll cut you with my blade! ...Wha!?{SAUT}It's chipped! Noooooooo! My baby!(*OPTION*)",
-    "fr": ""
+    "fr": "Je vais te trancher! ...Quoi!?{SAUT}Elle est ébréchée! Nooooooon! Mon bébé!(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0172",
     "en": " Grrr, screw this! Take my spell card{SAUT}and beat it!(*OPTION*)",
-    "fr": ""
+    "fr": "Grrr, au diable! Prends ma carte de{SAUT}sort et dégage!(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0173",
     "en": "  ...Unlike you, I can only exist in the{SAUT}shadows...{ATTENTE}",
-    "fr": ""
+    "fr": "...Contrairement à toi, je n'existe que{SAUT}dans l'ombre...{ATTENTE}"
   },
   {
     "id": "YAKUZA.BIN:text:0174",
     "en": "{PAGE}But there are times that I wish I could{SAUT}walk in the sunlight...(*OPTION*)",
-    "fr": ""
+    "fr": "{PAGE}Mais parfois j'aimerais pouvoir{SAUT}marcher au soleil...(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0175",
     "en": " I'll entrust you with the dreams I gave{SAUT}up on... This is a yakuza's card. Take{SAUT}care of it...(*OPTION*)",
-    "fr": ""
+    "fr": "Je te confie les rêves que j'ai{SAUT}abandonnés... C'est la carte d'un yakuza.{SAUT}Prends-en soin...(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0176",
     "en": "   We yakuza demons have nothing to gain by{SAUT}waging war on humans...(*OPTION*)",
-    "fr": ""
+    "fr": "Nous les démons yakuzas, on a rien à{SAUT}gagner à faire la guerre aux humains...(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0177",
     "en": "   I'll give you this, so maybe next{SAUT}time... Well... we might be enemies next{SAUT}time we meet...(*OPTION*)",
-    "fr": ""
+    "fr": "Je te donne ça, alors la prochaine{SAUT}fois... Enfin... on sera peut-être{SAUT}ennemis la prochaine fois...(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0178",
     "en": " Our hideout got raided by the coppers...{SAUT}A couple guys got put in the clink...(*OPTION*)",
-    "fr": ""
+    "fr": "Les flics ont fait une descente à la{SAUT}planque... Deux gars sont au trou...(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0179",
     "en": " Let's negotiate like adults. I think{SAUT}you'd be happy with my card...(*OPTION*)",
-    "fr": ""
+    "fr": "Négocions en adultes. Je crois que{SAUT}ma carte te plairait...(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0180",
     "en": "What's a law-abiding human like you{SAUT}doing out on a moonless night? Answer{SAUT}me.[FFFD]É[F500]Talk about careless... You gotta be{SAUT}careful on moonless nights. ...Now pay{SAUT}up. That was good advice.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Qu'est-ce qu'un humain réglo comme toi{SAUT}fait dehors une nuit sans lune? Réponds-{SAUT}moi.[FFFD]É[F500]Quelle imprudence... Faut faire gaffe{SAUT}les nuits sans lune. ...Maintenant{SAUT}paie. C'était un bon conseil.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0181",
     "en": "  Hey! Whaddaya doin' hangin' around a{SAUT}yakuza!? I'll crush you like a fly![FFFD]α[F500] What!? No greeting for a yakuza!? You{SAUT}may be an outsider, but that's an{SAUT}offense you'll have to pay for![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Hé! Tu fous quoi à traîner près d'un{SAUT}yakuza!? Je t'écrase comme une mouche![FFFD]α[F500]Quoi!? Pas de salut pour un yakuza!?{SAUT}T'es peut-être un civil, mais c'est{SAUT}une offense que tu vas payer![FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0182",
     "en": "   Whaddaya want with me...? You kids{SAUT}should be at home sleeping or{SAUT}something...[FFFD][02FF][F500]Who are you...? It doesn't matter. I'll{SAUT}take whatever you got for me, and then{SAUT}you can be on your way.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu me veux quoi...? Vous les gosses{SAUT}devriez être au lit ou un truc{SAUT}du genre...[FFFD][02FF][F500]T'es qui...? Peu importe. Je prends{SAUT}ce que t'as pour moi, et après{SAUT}tu peux passer ton chemin.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0183",
     "en": "Well look at that! You only get to see{SAUT}a moon like this so many times in your{SAUT}life.[FFFD][03FF][F500]  Look at that! Swordsmen are their{SAUT}strongest under a full moon. I think you{SAUT}oughta pay tribute.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Regarde-moi ça! Une lune pareille, on{SAUT}la voit pas souvent dans une{SAUT}vie.[FFFD][03FF][F500]Regarde ça! Les sabreurs sont au plus{SAUT}fort sous la pleine lune. Tu devrais{SAUT}payer ton tribut.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0184",
     "en": "[FFED]You got guts answering the yakuza{SAUT}call, but a word of caution: if it's{SAUT}just for show, Buddha's waitin' for ya![FFFD][04FF][F500]  [FFEE]If you wanna pass through yakuza turf,{SAUT}there's a fee![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFED]T'as du cran de répondre à l'appel d'un{SAUT}yakuza, mais un conseil: si c'est{SAUT}pour la frime, Bouddha t'attend![FFFD][04FF][F500][FFEE]Si tu veux passer sur le territoire{SAUT}yakuza, y a un péage![FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0185",
     "en": "[FFEE]What's a law-abiding human like you{SAUT}doing out on a moonless night? Answer{SAUT}honestly, now.[FFFD][05FF][F500][FFEC]If you're interested in yakuza, then{SAUT}you know... you oughta start payin' your{SAUT}protection dues.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEE]Qu'est-ce qu'un humain réglo comme toi{SAUT}fait dehors une nuit sans lune? Réponds{SAUT}franchement.[FFFD][05FF][F500][FFEC]Si les yakuzas t'intéressent, alors tu{SAUT}sais... tu devrais commencer à payer{SAUT}ta protection.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0186",
     "en": "   [FFEB]Hey, I'm [FFF3]. I figured I{SAUT}could kill some time talkin' to you{SAUT}civvies.[FFFD][06FF][F500][FFEE]You look like you're pretty well-off!{SAUT}Share the wealth, would ya?[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEB]Hé, moi c'est [FFF3]. Je me disais que{SAUT}je pouvais tuer le temps en causant{SAUT}avec vous, les civils.[FFFD][06FF][F500][FFEE]T'as l'air plutôt à l'aise!{SAUT}Partage la richesse, tu veux?[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0187",
     "en": "[FFEC]You're not afraid of the yakuza? Any{SAUT}funny business and you'll end up with a{SAUT}knife in your back...[FFFD][07FF][F500]  [FFED]Hey, the greeting is supposed to come{SAUT}from the inferior to the superior.{SAUT}Now let's see some good faith![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEC]T'as pas peur des yakuzas? Un geste{SAUT}louche et tu finis avec un couteau{SAUT}dans le dos...[FFFD][07FF][F500][FFED]Hé, le salut vient de l'inférieur vers{SAUT}le supérieur.{SAUT}Voyons un peu de bonne foi![FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0188",
     "en": "  [FFED]Why would you show up to a yakuza{SAUT}gathering!? You tryin' to stray off the{SAUT}path of the righteous man?[FFFD][08FF][F500][FFEB]...You guys are funny, showin' up to a{SAUT}yakuza gathering. Just pay the entry{SAUT}fee. I'll let ya off with that.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFED]Pourquoi tu te pointes à une réunion de{SAUT}yakuzas!? Tu veux quitter le droit{SAUT}chemin?[FFFD][08FF][F500][FFEB]...Vous êtes marrants, à vous pointer à{SAUT}une réunion de yakuzas. Payez l'entrée.{SAUT}Je vous laisse partir avec ça.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0189",
     "en": "  [FFEB]Where've you been!? They asked me to{SAUT}play in the poker gang that the Tendo{SAUT}gang is hosting... You gotta go for me![FFFD][09FF][F500]  [FFEC]You're putting a lotta pressure on a{SAUT}yakuza... So let's turn the tables.{SAUT}Gimme something.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEB]T'étais où!? On m'a demandé de jouer au{SAUT}poker que le clan Tendo organise...{SAUT}Tu dois y aller à ma place![FFFD][09FF][F500][FFEC]Tu mets beaucoup de pression sur un{SAUT}yakuza... Alors renversons la vapeur.{SAUT}File-moi un truc.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0190",
     "en": "I like you! We should be brothers! Tell{SAUT}me what you're after.(*OPTION*)",
-    "fr": ""
+    "fr": "Je t'aime bien! On devrait être frères!{SAUT}Dis-moi ce que tu cherches.(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0191",
     "en": "  You messin' with me!? I ain't gonna calm{SAUT}down till I see blood!(*OPTION*)",
-    "fr": ""
+    "fr": "Tu te fous de moi!? Je me calmerai pas{SAUT}avant d'avoir vu du sang!(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0192",
     "en": "What...? You're not scared of the{SAUT}yakuza...? Of my crime family?(*OPTION*)",
-    "fr": ""
+    "fr": "Quoi...? T'as pas peur des yakuzas...?{SAUT}De ma famille?(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0193",
     "en": "   Hahahaha! This is great! Hahaha!(*OPTION*)",
-    "fr": ""
+    "fr": "Hahahaha! C'est génial! Hahaha!(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0194",
     "en": "   It bothers me that you'd dare to{SAUT}underestimate the yakuza... but{SAUT}whatever. Whaddaya want?(*OPTION*)",
-    "fr": ""
+    "fr": "Ça me gêne que t'oses sous-estimer{SAUT}les yakuzas... mais bon. Tu veux{SAUT}quoi?(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0195",
     "en": "  To tell ya the truth, I'm glad you're{SAUT}not my enemy. So tell me what ya want.(*OPTION*)",
-    "fr": ""
+    "fr": "Pour être franc, je suis content que{SAUT}tu sois pas mon ennemi. Tu veux quoi?(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0196",
     "en": "   You're the spittin' image of a yakuza!{SAUT}I'd hand you a cup personally! So, what{SAUT}can I do ya for?(*OPTION*)",
-    "fr": ""
+    "fr": "T'es le portrait craché d'un yakuza!{SAUT}Je te tendrais la coupe en personne!{SAUT}Alors, je peux faire quoi pour toi?(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0197",
     "en": "If you're for real... then you handle{SAUT}things like a pro!(*OPTION*)",
-    "fr": ""
+    "fr": "Si t'es sérieux... alors tu gères{SAUT}les choses comme un pro!(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0198",
     "en": "   You're not quite enough to be one of my{SAUT}soldiers. You're too young to be messin'{SAUT}with yakuza.(*OPTION*)",
-    "fr": ""
+    "fr": "T'es pas tout à fait assez pour être un{SAUT}de mes soldats. T'es trop jeune pour{SAUT}traîner avec les yakuzas.(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0199",
     "en": "  You've got balls... Ya don't hear the{SAUT}civvies talk like that too often...(*OPTION*)",
-    "fr": ""
+    "fr": "T'as des couilles... On entend pas{SAUT}souvent les civils parler comme ça...(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0200",
     "en": "  Let's see the money. ￥(*VALUE*).(*OPTION*)",
-    "fr": ""
+    "fr": "Voyons le fric. ￥(*VALUE*).(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0201",
     "en": "   Kids today carry around too much money!{SAUT}But thanks, I'll take it.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Les gosses ont trop de fric sur eux{SAUT}de nos jours! Mais merci, je prends.(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0202",
     "en": "  You screwin' with the yakuza!? If you{SAUT}wanna talk, I hope you've got your{SAUT}check book ready!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu joues avec les yakuzas!? Si tu veux{SAUT}causer, j'espère que t'as ton{SAUT}chéquier sous la main!(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0203",
     "en": " What're ya spending your money on? If ya{SAUT}spend too much while you're young,{SAUT}you'll be sorry later in life.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu dépenses ton fric dans quoi? Si tu{SAUT}dépenses trop jeune, tu le{SAUT}regretteras plus tard.(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0204",
     "en": " You screwin' with the yakuza!? Ya better{SAUT}start followin' orders, or someone's{SAUT}gonna get hurt.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu joues avec les yakuzas!? T'as intérêt{SAUT}à suivre les ordres, ou quelqu'un{SAUT}va souffrir.(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0205",
     "en": "  You don't know how the yakuza really{SAUT}work, do ya? ...Well you'll find out{SAUT}soon enough.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu sais pas vraiment comment marchent{SAUT}les yakuzas, hein? ...Tu vas vite{SAUT}le découvrir.(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0206",
     "en": " Gimme a life stone. One oughta do.(*OPTION*)",
-    "fr": ""
+    "fr": "File-moi une pierre de vie. Une suffira.(*OPTION*)"
   },
   {
     "id": "YAKUZA.BIN:text:0207",
     "en": " You civvies don't need stuff like this,{SAUT}so I'll take it off your hands. Thanks.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Vous les civils, vous avez pas besoin de{SAUT}ça, alors je t'en débarrasse. Merci.(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:text:0208",
     "en": "You screwin' with the yakuza!? If you{SAUT}wanna talk, I hope you've got your{SAUT}life stones ready!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu joues avec les yakuzas!? Si tu veux{SAUT}causer, j'espère que t'as tes{SAUT}pierres de vie sous la main!(*RESPONSE*)"
   }
 ]

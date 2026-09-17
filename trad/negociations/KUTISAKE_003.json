@@ -2,407 +2,407 @@
   {
     "id": "KUTISAKE.BIN:text:0203",
     "en": "Well then, I'll give you this.(*OPTION*)",
-    "fr": ""
+    "fr": "Bon, alors je te donne ça.(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0204",
     "en": " What? Seriously!?(*OPTION*)",
-    "fr": ""
+    "fr": "Quoi? Sérieusement!?(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0205",
     "en": "  I'm Kuchisake-onna. I came about when a{SAUT}stupid student in Hokkaido made up my{SAUT}story on a radio program.{ATTENTE}",
-    "fr": ""
+    "fr": "Je suis Kuchisake-onna. Je suis née quand{SAUT}un étudiant idiot de Hokkaido a inventé{SAUT}mon histoire à la radio.{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0206",
     "en": "{PAGE}Not every demon has a cool origin.{SAUT}Mine really sucks.(*OPTION*)",
-    "fr": ""
+    "fr": "{PAGE}Tous les démons n'ont pas une origine{SAUT}classe. La mienne est nulle.(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0207",
     "en": " ...I'm not that gullible.{ATTENTE}",
-    "fr": ""
+    "fr": "...Je ne suis pas si crédule.{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0208",
     "en": "{PAGE}Let's negotiate again when you're a{SAUT}little stronger.(*OPTION*)",
-    "fr": ""
+    "fr": "{PAGE}On renégociera quand tu seras un{SAUT}peu plus fort.(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0209",
     "en": "Well, anyway, take this to commemorate{SAUT}our meeting.(*OPTION*)",
-    "fr": ""
+    "fr": "Bon, enfin, prends ça en souvenir{SAUT}de notre rencontre.(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0210",
     "en": "Goodbye... I hope we meet again.(*OPTION*)",
-    "fr": ""
+    "fr": "Adieu... J'espère qu'on se reverra.(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0211",
     "en": "   This isn't much... but take it.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ce n'est pas grand-chose... mais prends.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0212",
     "en": "I'm... busy, so I'll get going.(*OPTION*)",
-    "fr": ""
+    "fr": "Je suis... occupée, alors j'y vais.(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0213",
     "en": "Even if I become a Persona, you better{SAUT}still tell me how beautiful I am, three{SAUT}times a day! Promise me!(*OPTION*)",
-    "fr": ""
+    "fr": "Même quand je serai un Persona, tu devras{SAUT}me dire que je suis belle, trois{SAUT}fois par jour! Promets-le!(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0214",
     "en": "Please! Forgive me! I'll give you this...(*OPTION*)",
-    "fr": ""
+    "fr": "Pitié! Pardonne-moi! Je te donne ça...(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0215",
     "en": "  I'm tired of negotiating with you!{SAUT}You never do anything interesting!(*OPTION*)",
-    "fr": ""
+    "fr": "J'en ai assez de négocier avec toi!{SAUT}Tu ne fais jamais rien d'intéressant!(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0216",
     "en": "  I'm tired of negotiating with you!{SAUT}You're just a child... Take this and{SAUT}run along home now.(*OPTION*)",
-    "fr": ""
+    "fr": "J'en ai assez de négocier avec toi!{SAUT}Tu n'es qu'un enfant... Prends ça et{SAUT}rentre chez toi.(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0217",
     "en": "In exchange for this, I want candy!{SAUT}Huh...? You don't have any!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "En échange de ça, je veux des bonbons!{SAUT}Hein...? Tu n'en as pas!?(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0218",
     "en": "   You really piss me off! Ugh, screw it!{SAUT}Here, just take my spell card!(*OPTION*)",
-    "fr": ""
+    "fr": "Tu m'énerves vraiment! Ugh, tant pis!{SAUT}Tiens, prends ma carte de sort!(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0219",
     "en": "  Wow... I think this is the first time{SAUT}I've negotiated with someone as strong{SAUT}and funny as you...(*OPTION*)",
-    "fr": ""
+    "fr": "Ouah... Je crois que c'est la première{SAUT}fois que je négocie avec quelqu'un d'aussi{SAUT}fort et drôle que toi...(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0220",
     "en": "   This is just a token of my gratitude...{SAUT}I hope you find it useful.(*OPTION*)",
-    "fr": ""
+    "fr": "C'est juste un gage de ma gratitude...{SAUT}J'espère que ça te servira.(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0221",
     "en": " I can't fight you...(*OPTION*)",
-    "fr": "",
+    "fr": "Je ne peux pas te combattre...(*OPTION*)",
     "_occurrences": 2
   },
   {
     "id": "KUTISAKE.BIN:text:0222",
     "en": "   This is for you... Please take good care{SAUT}of it...(*OPTION*)",
-    "fr": ""
+    "fr": "C'est pour toi... Prends-en bien{SAUT}soin...(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0223",
     "en": "  But... will you let me go, no strings{SAUT}attached...?(*OPTION*)",
-    "fr": ""
+    "fr": "Mais... tu me laisseras partir, sans{SAUT}condition...?(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0224",
     "en": " If you forgive me, I'll give you my{SAUT}spell card...(*OPTION*)",
-    "fr": ""
+    "fr": "Si tu me pardonnes, je te donne ma{SAUT}carte de sort...(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0225",
     "en": "  Oh my, what a handsome man...{SAUT}Hey, do you have anything against{SAUT}demons with big mouths...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh, quel bel homme...{SAUT}Dis, tu as quelque chose contre{SAUT}les démons à grande bouche...?(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0226",
     "en": " Hey, listen! I haven't lived as a human{SAUT}in a while. That's why I want something.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Hé, écoute! Ça fait un moment que je ne{SAUT}vis plus en humaine. Je veux un cadeau.[FFF1](*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0227",
     "en": "  I'll tell you now, I'm in a bad mood{SAUT}today! Try anything funny and I'll rip{SAUT}you apart!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je te préviens, je suis de mauvaise{SAUT}humeur aujourd'hui! Un geste de trop{SAUT}et je te mets en pièces!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0228",
     "en": " What a beautiful full moon! And here I am,{SAUT}the only demon girl stuck negotiating{SAUT}with humans... Sheesh!{ATTENTE}",
-    "fr": ""
+    "fr": "Quelle belle pleine lune! Et me voilà,{SAUT}seule démone coincée à négocier{SAUT}avec des humains... Pff!{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0229",
     "en": "{PAGE}So, got any presents for me? Ugh! You're{SAUT}so inconsiderate! Give me something![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Alors, un cadeau pour moi? Ugh! Tu es{SAUT}si peu prévenant! Donne-moi un truc![FFF1](*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0230",
     "en": "Wh-What a scary face... D-Don't cross{SAUT}that line, okay...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Qu-Quel visage effrayant... N-Ne{SAUT}dépasse pas les bornes, OK...?(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0231",
     "en": "  Wh What a scary face... I-I don't think{SAUT}I'll be able to sleep tonight...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Qu-Quel visage effrayant... J-Je ne crois{SAUT}pas que je dormirai cette nuit...(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0232",
     "en": "   Nights with a full moon get me so{SAUT}excited! I wish they could go on{SAUT}forever!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Les nuits de pleine lune m'excitent{SAUT}tellement! Si seulement elles{SAUT}duraient toujours!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0233",
     "en": "It's a full moon... Haha... Hah...{SAUT}If I can get something from you, I'll{SAUT}have no complaints.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est la pleine lune... Haha... Hah...{SAUT}Si tu me donnes quelque chose, je{SAUT}n'aurai rien à redire.[FFF1](*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0234",
     "en": "  [FFED]I would've been happier if you'd talked{SAUT}to me first! You're such a sissy.(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFED]J'aurais préféré que tu me parles en{SAUT}premier! Quelle poule mouillée.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0235",
     "en": " [FFEE]That's... kind of a letdown...{ATTENTE}",
-    "fr": ""
+    "fr": "[FFEE]C'est... un peu décevant...{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0236",
     "en": "{PAGE}Oh well. If you give me something, I'll{SAUT}still listen to what you have to say.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Tant pis. Donne-moi quelque chose et{SAUT}j'écouterai quand même ce que tu dis.[FFF1](*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0237",
     "en": "[FFEE]You... You have the scent of blood{SAUT}on you...{ATTENTE}",
-    "fr": ""
+    "fr": "[FFEE]Tu... Tu as une odeur de sang{SAUT}sur toi...{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0238",
     "en": "{PAGE}Ugh... I always get the weird ones...(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Ugh... Toujours les bizarres, pour moi...(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0239",
     "en": "   [FFEC]You... You have the scent of blood{SAUT}on you...{ATTENTE}",
-    "fr": ""
+    "fr": "[FFEC]Tu... Tu as une odeur de sang{SAUT}sur toi...{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0240",
     "en": "{PAGE}Look, let's talk. There's no need to{SAUT}do anything creepy...(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Écoute, parlons. Pas besoin de faire{SAUT}quoi que ce soit de glauque...(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0241",
     "en": "  [FFEE]You... me... Our meeting like this could{SAUT}be destiny.{ATTENTE}",
-    "fr": ""
+    "fr": "[FFEE]Toi... moi... Notre rencontre pourrait{SAUT}être le destin.{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0242",
     "en": "{PAGE}How about a little something to mark the{SAUT}occasion? Please...?[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Un petit quelque chose pour marquer{SAUT}l'occasion? S'il te plaît...?[FFF1](*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0243",
     "en": "  [FFEB]Oh! What a handsome man... Now's my{SAUT}chance! Let's negotiate!(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEB]Oh! Quel bel homme... C'est ma{SAUT}chance! Négocions!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0244",
     "en": "  [FFEC]I-If you kill me, my sisters won't take{SAUT}it lying down! Got it...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEC]S-Si tu me tues, mes soeurs ne se{SAUT}laisseront pas faire! Compris...?(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0245",
     "en": " [FFED]You look like you've killed demons{SAUT}before... Depending how this negotiation{SAUT}goes, I might not forgive you for that...(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFED]On dirait que tu as déjà tué des{SAUT}démons... Selon la tournure de la négo,{SAUT}je pourrais ne pas te le pardonner...(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0246",
     "en": " [FFED]Hey! What's the big idea, answering{SAUT}my call!?{ATTENTE}",
-    "fr": ""
+    "fr": "[FFED]Hé! C'est quoi cette idée de{SAUT}répondre à mon appel!?{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0247",
     "en": "{PAGE}There's no way you're good enough for me!{SAUT}Maybe it'd be a different story if you{SAUT}had a gift, but...[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Tu n'es pas assez bien pour moi! Ce{SAUT}serait peut-être différent avec un{SAUT}cadeau, mais...[FFF1](*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0248",
     "en": "   [FFEB]Why'd YOU respond? I'm not interested in{SAUT}children without an ounce of brains.{SAUT}Hahahah...(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEB]Pourquoi TOI? Les enfants sans une{SAUT}once de cervelle ne m'intéressent pas.{SAUT}Hahahah...(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0249",
     "en": "  [FFEB]I feel so odd... Please do whatever you{SAUT}want with me! I don't care what!(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEB]Je me sens si étrange... Fais ce que{SAUT}tu veux de moi! Peu importe quoi!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0250",
     "en": "  [FFEC]I-I'm scared of you... but I'm also{SAUT}hoping for something... What's gotten{SAUT}into me...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEC]T-Tu me fais peur... mais j'espère{SAUT}aussi quelque chose... Qu'est-ce qui{SAUT}me prend...?(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0251",
     "en": " You're pretty interesting! So what is it{SAUT}you want? I'm in the mood to listen.(*OPTION*)",
-    "fr": ""
+    "fr": "Tu es plutôt intéressant! Alors, que{SAUT}veux-tu? Je suis d'humeur à écouter.(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0252",
     "en": "  Even if I keep hanging around you,{SAUT}I doubt I'll get anything out of it!{SAUT}I feel like I've wasted my time!(*OPTION*)",
-    "fr": ""
+    "fr": "Même si je reste avec toi, je doute{SAUT}d'en tirer quoi que ce soit!{SAUT}J'ai perdu mon temps!(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0253",
     "en": "   ...I guess I should go now...(*OPTION*)",
-    "fr": ""
+    "fr": "...Je devrais y aller...(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0254",
     "en": "  Haha... That was lots of fun. You're good{SAUT}at pleasing demons.(*OPTION*)",
-    "fr": ""
+    "fr": "Haha... C'était très amusant. Tu sais{SAUT}plaire aux démons.(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0255",
     "en": "  I'm a little ticked off, but maybe this{SAUT}is fate, too... What do you want?(*OPTION*)",
-    "fr": ""
+    "fr": "Je suis un peu agacée, mais c'est{SAUT}peut-être le destin... Que veux-tu?(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0256",
     "en": "  ...I'll listen. There's no need to{SAUT}be cruel...(*OPTION*)",
-    "fr": ""
+    "fr": "...J'écoute. Pas besoin d'être{SAUT}cruel...(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0257",
     "en": " Ahahah... I'm glad I ran into you.{SAUT}Whatever you want, it's yours!(*OPTION*)",
-    "fr": ""
+    "fr": "Ahahah... Contente de t'avoir croisé.{SAUT}Ce que tu veux est à toi!(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0258",
     "en": "  Ugh! I'm pissed off AND I got the chills!{SAUT}What the hell!{ATTENTE}",
-    "fr": ""
+    "fr": "Ugh! Furieuse ET des frissons en plus!{SAUT}C'est quoi ce délire!{ATTENTE}"
   },
   {
     "id": "KUTISAKE.BIN:text:0259",
     "en": "{PAGE}What did I ever do to you!?{SAUT}I'm beautiful!(*OPTION*)",
-    "fr": ""
+    "fr": "{PAGE}Qu'est-ce que je t'ai fait!?{SAUT}Je suis belle!(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0260",
     "en": "   There's no point in negotiating any more.{SAUT}It's not like I have all the time in the{SAUT}world to waste with you.(*OPTION*)",
-    "fr": ""
+    "fr": "Inutile de négocier plus longtemps.{SAUT}Ce n'est pas comme si j'avais tout mon{SAUT}temps à perdre avec toi.(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0261",
     "en": "This is great, but... scary, too...{SAUT}Maybe it'd be best if I just did what{SAUT}you asked...(*OPTION*)",
-    "fr": ""
+    "fr": "C'est génial, mais... effrayant aussi...{SAUT}Le mieux serait peut-être de faire{SAUT}ce que tu demandes...(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0262",
     "en": " Let's see, I want... (*VALUE*) yen.(*OPTION*)",
-    "fr": ""
+    "fr": "Voyons, je veux... (*VALUE*) yens.(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0263",
     "en": "Ahahah... Thanks.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ahahah... Merci.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0264",
     "en": "  Hey!? You don't even have THAT much!?{SAUT}Your wallet is like postwar Japan...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hé!? Tu n'as même pas ÇA!?{SAUT}Ton porte-monnaie est d'après-guerre...(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0265",
     "en": " Hey! If you can't even afford that,{SAUT}how do you expect to negotiate with{SAUT}demons!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hé! Si tu ne peux même pas payer ça,{SAUT}comment comptes-tu négocier avec{SAUT}des démons!?(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0266",
     "en": "   What's the use hoarding all that money?{SAUT}It'll all be mine eventually anyway!(*RESPONSE*)",
-    "fr": ""
+    "fr": "À quoi bon amasser tout cet argent?{SAUT}Il finira à moi de toute façon!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0267",
     "en": "   ...If you didn't want to negotiate,{SAUT}you should've said so at the start...(*RESPONSE*)",
-    "fr": ""
+    "fr": "...Si tu ne voulais pas négocier, il{SAUT}fallait le dire dès le début...(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0268",
     "en": "  I want a life stone...(*OPTION*)",
-    "fr": ""
+    "fr": "Je veux une pierre de vie...(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0269",
     "en": " It's not as good as candy, but this stone{SAUT}is still delicious...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Moins bon qu'un bonbon, mais cette{SAUT}pierre reste délicieuse...(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0270",
     "en": "What!? It's just common sense to carry{SAUT}life stones with you!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Quoi!? C'est du bon sens d'avoir des{SAUT}pierres de vie sur soi!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0271",
     "en": "   Wait, you were negotiating with me and{SAUT}you didn't have ANY life stones!?{SAUT}Oooh, you make me soooo mad!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Attends, tu négociais avec moi sans{SAUT}AUCUNE pierre de vie!?{SAUT}Oooh, tu me rends folle!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0272",
     "en": "  What did you say!? Giving you a life{SAUT}stone would just be wasting it!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu as dit quoi!? Te donner une pierre{SAUT}de vie serait du gaspillage!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0273",
     "en": "   You were negotiating without any life{SAUT}stones? You've gotta be kidding me...{SAUT}I don't believe this...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu négociais sans pierres de vie?{SAUT}Tu te moques de moi...{SAUT}J'y crois pas...(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0274",
     "en": "Ahahah... I know you have a{SAUT}[FFF4]... I want one!(*OPTION*)",
-    "fr": ""
+    "fr": "Ahahah... Je sais que tu as un{SAUT}[FFF4]... J'en veux un!(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0275",
     "en": "   This shine... No matter how I look at it,{SAUT}it's still so marvelous...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Cet éclat... Sous tous les angles,{SAUT}c'est toujours si merveilleux...(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0276",
     "en": "   Hey! Doesn't that seem unfair to you?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hé! Tu ne trouves pas ça injuste?(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0277",
     "en": "  Oh, really... Then I'll just have to{SAUT}take it by force!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh, vraiment... Alors je vais le{SAUT}prendre de force!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0278",
     "en": " ...I didn't want it anyway.{SAUT}I prefer candy.(*RESPONSE*)",
-    "fr": ""
+    "fr": "...Je n'en voulais pas de toute façon.{SAUT}Je préfère les bonbons.(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0279",
     "en": "I want your life... Even just a little{SAUT}bit will be fine. C'mon... just a sip?(*OPTION*)",
-    "fr": ""
+    "fr": "Je veux ta vie... Juste un petit peu{SAUT}suffira. Allez... juste une gorgée?(*OPTION*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0280",
     "en": "  Ahahah... Your vital energy is{SAUT}delicious!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ahahah... Ton énergie vitale est{SAUT}délicieuse!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0281",
     "en": "  Oh my... Are you scared of me? I'm even{SAUT}scarier to children who don't listen!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh... Tu as peur de moi? Je fais encore{SAUT}plus peur aux enfants désobéissants!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0282",
     "en": "  No way... I know I have a large mouth,{SAUT}but that's so cruel! You're terrible!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Non... Je sais que j'ai une grande{SAUT}bouche, mais c'est cruel! Tu es horrible!(*RESPONSE*)"
   },
   {
     "id": "KUTISAKE.BIN:text:0283",
     "en": "   No way... I know I have a large mouth,{SAUT}but that's so cruel! You're terrible!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Non... Je sais que j'ai une grande{SAUT}bouche, mais c'est cruel! Tu es horrible!(*RESPONSE*)"
   }
 ]

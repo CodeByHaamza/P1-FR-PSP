@@ -2,501 +2,501 @@
   {
     "id": "SLIME.BIN:text:0112",
     "en": "Just leave me alone!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Laisse-moi tranquille!(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0113",
     "en": "   If you wanna talk to me, give me{SAUT}something![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Si tu veux me parler, donne-moi{SAUT}un truc![FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0114",
     "en": "   Leave me alone... I just wanna find out{SAUT}how to turn back into the demon I{SAUT}once was...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Laisse-moi... Je veux juste trouver{SAUT}comment redevenir le démon que{SAUT}j'étais...(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0115",
     "en": "  I haven't done anything... Stop putting{SAUT}these weird ideas in my head...(*RESPONSE*)",
-    "fr": ""
+    "fr": "J'ai rien fait... Arrête de me mettre{SAUT}des idées bizarres en tête...(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0116",
     "en": "You're talking to me! That's enough to{SAUT}make me happy!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu me parles! Ça suffit à me{SAUT}rendre heureux!(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0117",
     "en": "  What a great guy you are to wanna{SAUT}negotiate with me! Give me something![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es un chic type de vouloir négocier{SAUT}avec moi! Donne-moi un truc![FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0118",
     "en": "   I don't really get it...{SAUT}Well... I kinda do!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je pige pas trop...{SAUT}Enfin... un peu!(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0119",
     "en": "   You want me? Then I want something too.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu me veux? Alors je veux un truc aussi.[FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0120",
     "en": "   I don't want anything that'll give me{SAUT}trouble! Go away!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je veux rien qui m'attire des{SAUT}ennuis! Va-t'en!(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0121",
     "en": "If you want my help, then gimme{SAUT}something![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Si tu veux mon aide, donne-moi{SAUT}un truc![FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0122",
     "en": "Leave me alone... I just wanna find out{SAUT}how to turn back into the demon I{SAUT}once was...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Laisse-moi... Je veux juste trouver{SAUT}comment redevenir le démon que{SAUT}j'étais...(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0123",
     "en": "  You're dangerous... I don't think you'd{SAUT}take very good care of my spell card...(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es dangereux... Je crois pas que tu{SAUT}prendrais soin de ma carte de sort...(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0124",
     "en": "You need... ME!? ...I'm like... totally{SAUT}thrilled!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu as besoin... de MOI!? ...Je suis...{SAUT}aux anges!(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0125",
     "en": "  Sure, I'll negotiate with ya! To kick{SAUT}it off, give me something![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "OK, je négocie avec toi! Pour{SAUT}commencer, donne-moi un truc![FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0126",
     "en": "  Come on, what's the use in makin' fun of{SAUT}me? Just negotiate straight!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Allez, à quoi bon te moquer de moi?{SAUT}Négocie franchement!(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0127",
     "en": "  You're interested in me after all? Well,{SAUT}how about you give me something then![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu t'intéresses à moi finalement? Bon,{SAUT}alors donne-moi un truc![FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0128",
     "en": "That really chaps my hide! Gimme{SAUT}somethin'![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Ça me hérisse le poil! Donne-moi{SAUT}un truc![FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0129",
     "en": "   I'm pissed! You need to make up for{SAUT}this! Give me something NOW![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Je suis furax! Tu dois te rattraper!{SAUT}Donne-moi un truc, VITE![FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0130",
     "en": "  What're you gonna accomplish by making{SAUT}fun of me...? I've got a bad feeling...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu vas gagner quoi à te moquer de{SAUT}moi...? J'ai un mauvais pressentiment...(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0131",
     "en": " I hate you... I don't wanna do this{SAUT}anymore, but I still want something...[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Je te déteste... J'ai plus envie,{SAUT}mais je veux quand même un truc...[FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0132",
     "en": "I'm a slime! Scum of the demon world!{SAUT}So what good is making fun of me!?{SAUT}I should be the one laughing at you!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je suis un slime! La lie des démons!{SAUT}Alors à quoi bon te moquer de moi!?{SAUT}C'est moi qui devrais rire de toi!(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0133",
     "en": "  You really know how to entertain!{SAUT}You think this is gonna make me angry!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu sais vraiment divertir!{SAUT}Tu crois que ça va me fâcher!?(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0134",
     "en": "  You really are human... It's so nice{SAUT}for things to be so lively...(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es vraiment humain... C'est chouette{SAUT}quand c'est aussi animé...(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0135",
     "en": " I like what you do... But I'd like you{SAUT}better if you gave me something![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "J'aime ce que tu fais... Mais je{SAUT}t'aimerais plus avec un cadeau![FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0136",
     "en": "   Will you shut up!? I'm not interested!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu vas la fermer!? Ça m'intéresse pas!(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0137",
     "en": " I was looking forward to something...{SAUT}you know, enjoyable! What a let down!{SAUT}Give me something instead![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "J'attendais un truc... tu sais,{SAUT}agréable! Quelle déception!{SAUT}Donne-moi un truc à la place![FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0138",
     "en": "What was that all about? Are you one{SAUT}of...\"those\" guys? If that's the case,{SAUT}I'll pass...(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'était quoi, ça? T'es un de...{SAUT}\"ces\" types? Si c'est le cas,{SAUT}je passe...(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0139",
     "en": "   Dude, you literally made me freeze up...{SAUT}Don't do that again...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Mec, tu m'as littéralement figé...{SAUT}Refais plus jamais ça...(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0140",
     "en": "I like stuff like that! Show me more!(*RESPONSE*)",
-    "fr": ""
+    "fr": "J'aime ce genre de trucs! Encore!(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0141",
     "en": "  I'm so delighted! I want you to delight{SAUT}me even more! Give me something![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Je suis ravi! Je veux que tu me ravisses{SAUT}encore plus! Donne-moi un truc![FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0142",
     "en": "  Are you really inviting me...?{SAUT}But you're human, aren't you...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu m'invites vraiment...?{SAUT}Mais t'es humain, non...?(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0143",
     "en": "I don't mind doing what you ask, but{SAUT}you've gotta give me something first.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Je veux bien faire ce que tu demandes,{SAUT}mais donne-moi un truc d'abord.[FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0144",
     "en": "I bet you were just gonna make fun of{SAUT}me because I'm so low class! What a{SAUT}nasty human!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je parie que tu allais te moquer de{SAUT}moi parce que je suis si bas! Quel{SAUT}sale humain!(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0145",
     "en": " I don't get this! Aren't you going to{SAUT}pay some tribute to me? Well, are ya!?[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Je pige pas! Tu vas pas me payer{SAUT}un tribut? Alors, oui ou non!?[FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0146",
     "en": "  You must stumble on traps pretty{SAUT}often...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu dois tomber dans des pièges assez{SAUT}souvent...(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0147",
     "en": "  You're human, aren't you? Helloooo,{SAUT}I'm a SLIME.(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es humain, non? Allôôôô,{SAUT}je suis un SLIME.(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0148",
     "en": "   You need me!? Does that mean I've still{SAUT}got a chance!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu as besoin de moi!? Ça veut dire que{SAUT}j'ai encore une chance!?(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0149",
     "en": " I can't believe a slime like me is being{SAUT}seduced! This is the best day of my life!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Un slime comme moi, se faire séduire!{SAUT}C'est le plus beau jour de ma vie!(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0150",
     "en": " I'm the weakest demon ever, so why ya{SAUT}gotta act be like that!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je suis le démon le plus faible, alors{SAUT}pourquoi tu fais ça!?(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0151",
     "en": " If you're more courteous than me, maybe{SAUT}I should make a request too![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Si t'es plus courtois que moi, je{SAUT}devrais demander un truc aussi![FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0152",
     "en": "  That has to be a lie! I know for myself{SAUT}that I'm the weakest demon ever!(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est un mensonge! Je sais bien que je{SAUT}suis le démon le plus faible!(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0153",
     "en": "   If you really mean that, you better{SAUT}cough up some proof! Got it!?[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Si tu le penses vraiment, t'as intérêt{SAUT}à cracher une preuve! Compris!?[FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0154",
     "en": " Dude... What's the plan? You've totally{SAUT}got something up your sleeve...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Mec... C'est quoi le plan? T'as un{SAUT}truc dans ta manche, c'est sûr...(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0155",
     "en": "Listening to tricks like that is what{SAUT}gave me this slime problem...(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est en écoutant ce genre de ruses{SAUT}que je suis devenu un slime...(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0156",
     "en": "This feels great! Today is the happiest{SAUT}day of my life!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ça fait du bien! C'est le plus beau{SAUT}jour de ma vie!(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0157",
     "en": "If you insist, maybe I should try{SAUT}threatening you! Give me something![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Si tu insistes, je devrais te menacer{SAUT}aussi! Donne-moi un truc![FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0158",
     "en": " You already have my card! No reason for{SAUT}me to be here then, I guess...(*OPTION*)",
-    "fr": ""
+    "fr": "T'as déjà ma carte! Alors j'ai rien{SAUT}à faire ici, je crois...(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0159",
     "en": " I'll give you this... That won't be a{SAUT}problem, will it?(*OPTION*)",
-    "fr": ""
+    "fr": "Je te donne ça... Ça pose pas de{SAUT}problème, hein?(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0160",
     "en": "I guess I'm just a slime after all...{SAUT}I'm so sad...(*OPTION*)",
-    "fr": ""
+    "fr": "Je suis juste un slime, en fait...{SAUT}Je suis si triste...(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0161",
     "en": "＊glub＊ ＊blub＊(*OPTION*)",
-    "fr": ""
+    "fr": "＊glub＊ ＊blub＊(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0162",
     "en": "  Are you actually weaker than me?{SAUT}You must really suck...(*OPTION*)",
-    "fr": ""
+    "fr": "T'es vraiment plus faible que moi?{SAUT}Tu dois vraiment craindre...(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0163",
     "en": "   Hey, may as well take this...(*OPTION*)",
-    "fr": ""
+    "fr": "Hé, autant prendre ça...(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0164",
     "en": "  I'll fade back into darkness...(*OPTION*)",
-    "fr": ""
+    "fr": "Je retourne dans les ténèbres...(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0165",
     "en": "You're awesome, so take this too!(*OPTION*)",
-    "fr": ""
+    "fr": "T'es génial, alors prends ça aussi!(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0166",
     "en": "  I'm takin' off...(*OPTION*)",
-    "fr": ""
+    "fr": "Je me tire...(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0167",
     "en": "  Take care of my spell card...{ATTENTE}",
-    "fr": ""
+    "fr": "Prends soin de ma carte de sort...{ATTENTE}"
   },
   {
     "id": "SLIME.BIN:text:0168",
     "en": "{PAGE}I'd like it if you made me into a really{SAUT}cool Persona, but you don't have to...(*OPTION*)",
-    "fr": ""
+    "fr": "{PAGE}Fais de moi un Persona trop cool si tu{SAUT}veux, mais t'es pas obligé...(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0169",
     "en": " I'll give you this... In return, you{SAUT}have to let me go...(*OPTION*)",
-    "fr": ""
+    "fr": "Je te donne ça... En échange, tu{SAUT}dois me laisser partir...(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0170",
     "en": "  I've got ambition, so I'm gonna go{SAUT}negotiate with different humans!(*OPTION*)",
-    "fr": ""
+    "fr": "J'ai de l'ambition, alors je vais{SAUT}négocier avec d'autres humains!(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0171",
     "en": "I'm off to negotiate with another human!{SAUT}Here's some inspiration to work on your{SAUT}negotiation skills!(*OPTION*)",
-    "fr": ""
+    "fr": "Je pars négocier avec un autre humain!{SAUT}Voilà de quoi t'inspirer pour bosser{SAUT}tes talents de négociateur!(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0172",
     "en": "   If that's how you wanna play it, then{SAUT}I'll play dirty too! Eat my card!(*OPTION*)",
-    "fr": ""
+    "fr": "Si c'est comme ça que tu joues, je{SAUT}joue salement aussi! Mange ma carte!(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0173",
     "en": "It's not like my card would be any use{SAUT}to you! ...So will this work?(*OPTION*)",
-    "fr": ""
+    "fr": "C'est pas comme si ma carte te servait{SAUT}à quelque chose! ...Ça ira, ça?(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0174",
     "en": "   I wanna be useful for ya... So what{SAUT}should I do...?(*OPTION*)",
-    "fr": ""
+    "fr": "Je veux t'être utile... Alors je{SAUT}fais quoi...?(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0175",
     "en": "I'll give you my spell card! I hope{SAUT}you use it to make a cool Persona!(*OPTION*)",
-    "fr": ""
+    "fr": "Je te donne ma carte de sort! J'espère{SAUT}que tu en feras un Persona cool!(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0176",
     "en": " That's why I don't wanna fight you...{SAUT}I don't like fighting...(*OPTION*)",
-    "fr": ""
+    "fr": "C'est pour ça que je veux pas te{SAUT}combattre... J'aime pas me battre...(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0177",
     "en": " Here's something to show my gratitude...{SAUT}It isn't much, but you can have it!(*OPTION*)",
-    "fr": ""
+    "fr": "Voilà un truc pour te remercier...{SAUT}C'est pas grand-chose, mais prends!(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0178",
     "en": "   I can't run... I'd never make it out{SAUT}alive... Guess I'll have to bribe my way{SAUT}outta this...(*OPTION*)",
-    "fr": ""
+    "fr": "Je peux pas fuir... Je m'en sortirais{SAUT}jamais vivant... Faut que je paie{SAUT}pour m'en sortir...(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0179",
     "en": "The only card I've got is my own...{SAUT}I'll give it to ya, but, sorry...(*OPTION*)",
-    "fr": ""
+    "fr": "La seule carte que j'ai, c'est la{SAUT}mienne... Je te la donne, désolé...(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0180",
     "en": "  Aren't you scared to be out when the{SAUT}moon isn't? You must have guts...(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'as pas peur de sortir quand la lune{SAUT}est pas là? T'as du cran...(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0181",
     "en": " Does this mean you're gonna give me{SAUT}something? I've got a feeling you will![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Ça veut dire que tu vas me donner un{SAUT}truc? J'ai le sentiment que oui![FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0182",
     "en": "   You're makin' fun of me, eh!? See!?{SAUT}Those eyes piss me off!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu te moques de moi, hein!? Tu vois!?{SAUT}Ces yeux-là m'énervent!(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0183",
     "en": "I hate you! If you want me to like you,{SAUT}then give me something![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Je te déteste! Si tu veux que je{SAUT}t'aime, donne-moi un truc![FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0184",
     "en": "   There's no moon... I'm scared...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pas de lune... J'ai peur...(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0185",
     "en": "   I know this is sudden... But please,{SAUT}can't you spare something for the{SAUT}weakest creature ever? Anything?[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Je sais, c'est soudain... Mais pitié,{SAUT}tu peux rien donner à la créature{SAUT}la plus faible? N'importe quoi?[FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0186",
     "en": "   Such a nice moon out tonight! Makes me{SAUT}wanna dance! Isn't it awesome!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Quelle belle lune ce soir! Ça me{SAUT}donne envie de danser! Génial, non!?(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0187",
     "en": " I wished I could talk to a human, and{SAUT}my wish came true!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je rêvais de parler à un humain, et{SAUT}mon rêve s'est réalisé!(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0188",
     "en": "   [FFED]Do ya need me for something? ...Don't{SAUT}call me over for something stupid! Er...{SAUT}Was I the one who called you?(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFED]Tu as besoin de moi? ...M'appelle pas{SAUT}pour une bêtise! Euh... C'est moi{SAUT}qui t'ai appelé?(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0189",
     "en": "  [FFEE]I don't mind negotiating, but I don't do{SAUT}it for free! You'll have to give me{SAUT}something![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEE]Je veux bien négocier, mais pas{SAUT}gratuitement! Tu devras me donner{SAUT}un truc![FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0190",
     "en": "  [FFEC]I'd like to negotiate with you... But if{SAUT}you're too scary, I'm outta here...(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEC]J'aimerais négocier avec toi... Mais si{SAUT}tu fais trop peur, je me tire...(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0191",
     "en": "  [FFEE]You look scary... But maybe you'll give{SAUT}me something...[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEE]Tu fais peur... Mais tu vas peut-être{SAUT}me donner un truc...[FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0192",
     "en": "  [FFEB]I'm in a good mood for once! Lucky you!{SAUT}Better negotiate with me fast!(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEB]Je suis de bonne humeur pour une fois!{SAUT}Veinard! Négocie vite avec moi!(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0193",
     "en": "[FFEB]I'm gonna negotiate with you! I just{SAUT}love humans! But first, gimme something![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEB]Je vais négocier avec toi! J'adore les{SAUT}humains! Mais d'abord, un cadeau![FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0194",
     "en": "[FFED]I didn't call you or anything, so what's{SAUT}up with that!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFED]Je t'ai pas appelé, alors c'est{SAUT}quoi ce délire!?(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0195",
     "en": "   [FFEC]Are you picking a fight with me? It's{SAUT}fine if you aren't...(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEC]Tu me cherches des noises? C'est{SAUT}bon si c'est pas le cas...(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0196",
     "en": "   [FFED]I don't wanna look at your face. I'd{SAUT}prefer a beautiful moon any day!(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFED]Je veux pas voir ta tête. Je préfère{SAUT}une belle lune, et de loin!(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0197",
     "en": " [FFEB]Your face is stupid! So I'll let you{SAUT}give me something![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEB]T'as une tête d'idiot! Alors je te{SAUT}laisse me donner un truc![FFF1](*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0198",
     "en": "  [FFEC]You look scary, but I wanna talk...{SAUT}I think I'm anticipating something...(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEC]Tu fais peur, mais je veux parler...{SAUT}Je crois que j'attends un truc...(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0199",
     "en": " [FFEB]I love a tense situation! Don't you...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEB]J'adore la tension! Pas toi...?(*RESPONSE*)"
   },
   {
     "id": "SLIME.BIN:text:0200",
     "en": "   You and I get along pretty well!{SAUT}Alright, it's a deal! Tell me what{SAUT}ya want!(*OPTION*)",
-    "fr": ""
+    "fr": "Toi et moi, on s'entend bien!{SAUT}Bon, marché conclu! Dis-moi ce{SAUT}que tu veux!(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0201",
     "en": "   Hey! Are you gonna do anything besides{SAUT}pester me, or do we have a problem!?(*OPTION*)",
-    "fr": ""
+    "fr": "Hé! Tu vas faire autre chose que{SAUT}m'embêter, ou on a un problème!?(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0202",
     "en": "Humans do such scary things... I don't{SAUT}wanna be here anymore with you...(*OPTION*)",
-    "fr": ""
+    "fr": "Les humains font des trucs effrayants...{SAUT}Je veux plus rester ici avec toi...(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0203",
     "en": "   You do interesting things! I'm glad you{SAUT}gave me such a pleasant negotiation!(*OPTION*)",
-    "fr": ""
+    "fr": "Tu fais des trucs intéressants! Merci{SAUT}pour cette négo si agréable!(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0204",
     "en": "   You're a nasty human, but I suppose{SAUT}you've got some good traits... So it's{SAUT}a deal. Whaddaya want?(*OPTION*)",
-    "fr": ""
+    "fr": "T'es un sale humain, mais je suppose{SAUT}que t'as des qualités... Alors marché{SAUT}conclu. Tu veux quoi?(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0205",
     "en": "  I'm scared, but kinda curious too...{SAUT}What do you want?(*OPTION*)",
-    "fr": ""
+    "fr": "J'ai peur, mais je suis curieux...{SAUT}Tu veux quoi?(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0206",
     "en": " You're so awesome! If I ever get{SAUT}reincarnated, I wanna be a human!{ATTENTE}",
-    "fr": ""
+    "fr": "T'es génial! Si je me réincarne,{SAUT}je veux être humain!{ATTENTE}"
   },
   {
     "id": "SLIME.BIN:text:0207",
     "en": "{PAGE}Anyway, it's a deal, buddy! What do you{SAUT}want me to do?(*OPTION*)",
-    "fr": ""
+    "fr": "{PAGE}Bref, marché conclu, l'ami! Tu veux{SAUT}que je fasse quoi?(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0208",
     "en": " I don't understand you at all... I don't{SAUT}wanna continue a negotiation that{SAUT}stopped making sense!(*OPTION*)",
-    "fr": ""
+    "fr": "Je te comprends pas du tout... Je veux{SAUT}pas continuer une négo qui n'a{SAUT}plus aucun sens!(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0209",
     "en": "   You can't even do a decent negotiation!{SAUT}You're worse than me!(*OPTION*)",
-    "fr": ""
+    "fr": "T'es même pas capable de négocier!{SAUT}T'es pire que moi!(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0210",
     "en": "  You're amazing! I'm totally impressed...{SAUT}I mean like, wow...(*OPTION*)",
-    "fr": ""
+    "fr": "T'es génial! Je suis impressionné...{SAUT}Enfin, genre, wow...(*OPTION*)"
   },
   {
     "id": "SLIME.BIN:text:0211",
     "en": "   I want money! Gimme (*VALUE*) yen!(*OPTION*)",
-    "fr": ""
+    "fr": "Je veux de l'argent! File (*VALUE*) yens!(*OPTION*)"
   }
 ]
