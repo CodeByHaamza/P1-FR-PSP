@@ -349,7 +349,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`YOUEN_004.json`](trad/negociations/YOUEN_004.json) | 100 | 0 | 0 % | libre |
 | [`YOUEN_005.json`](trad/negociations/YOUEN_005.json) | 100 | 0 | 0 % | libre |
 | [`YOUEN_006.json`](trad/negociations/YOUEN_006.json) | 87 | 0 | 0 % | libre |
-| [`ZMBITYAN_001.json`](trad/negociations/ZMBITYAN_001.json) | 100 | 0 | 0 % | libre |
+| [`ZMBITYAN_001.json`](trad/negociations/ZMBITYAN_001.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#15) |
 | [`ZMBITYAN_002.json`](trad/negociations/ZMBITYAN_002.json) | 100 | 0 | 0 % | libre |
 | [`ZMBITYAN_003.json`](trad/negociations/ZMBITYAN_003.json) | 22 | 0 | 0 % | libre |
 | [`ZOMBIKO_001.json`](trad/negociations/ZOMBIKO_001.json) | 100 | 0 | 0 % | libre |
