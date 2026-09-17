@@ -45,7 +45,9 @@
 #
 #   8. DONJON    — un texte de donjon plus long que l'anglais.
 #   9. ESPACE    — `[0000]` dans le français quand l'anglais a de vrais espaces :
-#      là, ce code termine la chaîne et le jeu n'affiche que le premier mot. La taille de ces
+#      là, ce code termine la chaîne et le jeu n'affiche que le premier mot.
+#  10. PLACE     — les fichiers d'un même démon (négociations) dépassent
+#      ensemble la marge du fichier de jeu ; avertissement dès les trois quarts. La taille de ces
 #      fichiers est inscrite dans l'exécutable ; en grossissant, ils laissent
 #      le jeu sur un écran de chargement sans fin. Vu en jeu. Le moteur la
 #      redirige vers un code cave : ça marche, c'est prouvé en jeu, mais c'est
@@ -81,6 +83,60 @@ module CheckTrad
     texte.to_s.split(/\{SAUT\}|\{PAGE\}|\{ATTENTE\}|\{FERME\}|\{PAUSE\}/)
          .map { |l| l.gsub(JETON, '').strip }
          .reject(&:empty?)
+  end
+
+  # Marge, en octets, de chaque fichier de négociation du jeu : ce que son
+  # dernier secteur de 2 048 octets laisse libre, plus les quelques octets de
+  # bourrage de sa zone de texte. Mesuré le 17/09/2026 sur l'ISO américaine.
+  # Un fichier de démon qui dépasse est réécrit ailleurs et le jeu continue de
+  # lire l'ancien : tout le démon reste en anglais. Chaque caractère de plus
+  # que l'anglais coûte 2 octets, autant de fois que le texte apparaît.
+  MARGES_TALK = {
+    'ALIEN' => 478, 'BASKET' => 1240, 'DOPPEL' => 382, 'ETC' => 110, 'GAKI' => 276,
+    'HIHO' => 272, 'KEMONO' => 136, 'KOKURI' => 30, 'KOROU' => 1658, 'KOSIKI' => 178,
+    'KOUMAN' => 704, 'KUTISAKE' => 22, 'KYOUKI' => 1616, 'MAYOERU' => 1134,
+    'POLUTAR' => 1380, 'QSIRUBA' => 966, 'SINSI' => 690, 'SLIME' => 1618,
+    'SYOUJO' => 1464, 'TENSI' => 1714, 'TINPRA' => 796, 'TOILET' => 376,
+    'WORM' => 1828, 'WTENSI' => 1674, 'YAKUZA' => 1148, 'YOUEN' => 1228,
+    'ZMBITYAN' => 134, 'ZOMBIKO' => 234, 'ZOMB_MAN' => 1774,
+  }.freeze
+
+  # Ce qu'un fichier JSON ajoute, en octets, au fichier de jeu qu'il traduit.
+  def octets_ajoutes(entrees)
+    entrees.sum do |e|
+      next 0 unless e.is_a?(Hash) && !e['fr'].to_s.empty?
+
+      gonfle = e['fr'].gsub(JETON, '').length - e['en'].to_s.gsub(JETON, '').length
+      gonfle * 2 * e.fetch('_occurrences', 1)
+    end
+  end
+
+  # PLACE — les négociations d'un démon sont réparties sur plusieurs fichiers
+  # (SLIME_001, SLIME_002…) mais ne font qu'un seul fichier dans le jeu. On
+  # additionne donc les fichiers frères du même dossier, et on compare à la
+  # marge du démon. Erreur au-delà, avertissement passé les trois quarts : un
+  # contributeur doit savoir qu'il mange la place des autres fichiers.
+  def place_negociation(chemin, soucis, avertis)
+    demon = File.basename(chemin, '.json').sub(/_\d+\z/, '')
+    marge = MARGES_TALK[demon]
+    return if marge.nil? || !File.basename(chemin).match?(/\A#{Regexp.escape(demon)}_\d+\.json\z/)
+
+    freres = Dir.glob(File.join(File.dirname(chemin), "#{demon}_*.json")).sort
+    total = freres.sum do |f|
+      octets_ajoutes(JSON.parse(File.read(f, encoding: 'UTF-8')))
+    rescue StandardError
+      0
+    end
+    ici = octets_ajoutes(JSON.parse(File.read(chemin, encoding: 'UTF-8')))
+
+    if total > marge
+      soucis << "#{demon} [PLACE] +#{total} octets sur les #{freres.length} fichiers du démon, " \
+                "pour #{marge} de marge (ce fichier : #{ici >= 0 ? '+' : ''}#{ici}) — " \
+                'le fichier du jeu grossirait et tout le démon resterait en anglais'
+    elsif total > marge * 3 / 4
+      avertis << "#{demon} [PLACE] +#{total} octets sur #{marge} de marge " \
+                 "(ce fichier : #{ici >= 0 ? '+' : ''}#{ici}) — il reste peu de place pour ce démon"
+    end
   end
 
   # Lit la table de caractères du jeu : des lignes `XXXX=c`, hexadécimal à
@@ -400,6 +456,8 @@ module CheckTrad
                    'volontaire ? sinon aligner'
       end
     end
+
+    place_negociation(chemin, soucis, avertis)
 
     [entrees.length, traduites, soucis, avertis]
   end

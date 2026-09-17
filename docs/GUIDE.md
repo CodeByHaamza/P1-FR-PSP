@@ -231,6 +231,12 @@ quelques centaines d'octets de marge — 1,5 % de son texte en moyenne, contre
 fichier, un français **aussi court que l'anglais** : une réplique plus longue se
 paie par une autre plus courte. Le démon parle vite et sec ; ça tombe bien.
 
+Le validateur connaît la marge de chaque démon et additionne tous ses fichiers
+(`SLIME_001` + `SLIME_002` + `SLIME_003`) : avertissement `[PLACE]` passé les
+trois quarts, erreur au-delà. Tu n'as donc pas à compter toi-même — mais si
+tu arrives sur un démon déjà bien entamé, il faudra être plus court que ceux
+qui sont passés avant toi.
+
 ## 7. Le canari
 
 Un fichier `_canari.json` contient l'empreinte de chaque texte anglais. Si tu
