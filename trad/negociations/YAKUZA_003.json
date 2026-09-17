@@ -215,18 +215,18 @@
   {
     "id": "YAKUZA.BIN:resp:0001",
     "en": "A stakeout.(*RESPONSE*)",
-    "fr": "Une planque.(*RESPONSE*)",
+    "fr": "Planque.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YAKUZA.BIN:resp:0002",
     "en": "Stab.(*RESPONSE*)  ",
-    "fr": "Poignarder.(*RESPONSE*)"
+    "fr": "Piquer.(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:resp:0003",
     "en": "Crush.(*RESPONSE*) ",
-    "fr": "Écraser.(*RESPONSE*)"
+    "fr": "Écrase.(*RESPONSE*)"
   },
   {
     "id": "YAKUZA.BIN:resp:0004",

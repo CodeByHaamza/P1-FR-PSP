@@ -225,17 +225,18 @@ l'exécutable : un `trad/donjons/` plus long que l'anglais laisse le jeu sur un
 `[DONJON]` : chaque ligne de donjon doit être **aussi courte ou plus courte**
 que l'anglaise, jetons non comptés.
 
-**Les négociations sont les plus serrées.** Chaque fichier de démon n'a que
-quelques centaines d'octets de marge — 1,5 % de son texte en moyenne, contre
-10 à 15 % de rallonge naturelle du français. Vise donc, sur l'ensemble d'un
-fichier, un français **aussi court que l'anglais** : une réplique plus longue se
-paie par une autre plus courte. Le démon parle vite et sec ; ça tombe bien.
+**Les négociations ne grossissent pas non plus.** Comme les donjons, le
+fichier de chaque démon est lu à une adresse et une taille fixes : à +98
+octets, parler à un Slime figeait le jeu sans un message (vu en jeu). Sur
+l'ensemble des fichiers d'un démon, le français doit donc être **aussi court
+ou plus court que l'anglais** : une réplique plus longue se paie par une autre
+plus courte. Le démon parle vite et sec ; ça tombe bien.
 
-Le validateur connaît la marge de chaque démon et additionne tous ses fichiers
-(`SLIME_001` + `SLIME_002` + `SLIME_003`) : avertissement `[PLACE]` passé les
-trois quarts, erreur au-delà. Tu n'as donc pas à compter toi-même — mais si
-tu arrives sur un démon déjà bien entamé, il faudra être plus court que ceux
-qui sont passés avant toi.
+Le validateur additionne tous les fichiers d'un démon (`SLIME_001` +
+`SLIME_002` + `SLIME_003`) : erreur `[PLACE]` si le total dépasse l'anglais,
+avertissement si ton fichier ne tient que grâce aux économies des autres. Tu
+n'as pas à compter toi-même — mais si tu arrives sur un démon déjà entamé, il
+faudra être au moins aussi court que ceux qui sont passés avant toi.
 
 ## 7. Le canari
 
