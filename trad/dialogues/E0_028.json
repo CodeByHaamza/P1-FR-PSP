@@ -3,78 +3,78 @@
     "id": "E0.BIN:098:0000",
     "locuteur": "Harem Queen",
     "en": "Long time no see, Maki.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reine du Harem",
+    "fr": "Ça faisait longtemps, Maki.{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0001",
     "locuteur": "Harem Queen",
     "en": "Same to (*APELLIDO_HEROE*), and the rest of{SAUT}you, too. Welcome to my palace.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reine du Harem",
+    "fr": "De même pour (*APELLIDO_HEROE*), et vous{SAUT}tous aussi. Bienvenue dans mon palais.{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0002",
     "locuteur": "Maki",
     "en": "Ch... Chisato! It really was you...!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Ch... Chisato! C'était vraiment toi...!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0003",
     "locuteur": "Maki",
     "en": "No...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Non...!{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0004",
     "locuteur": "Mark",
     "en": "...Knew it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "...Je le savais.{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0005",
     "locuteur": "Mark",
     "en": "Yo (*APELLIDO_HEROE*), did Chisato always have{SAUT}that many moles?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Hey, (*APELLIDO_HEROE*), est-ce que Chisato a toujours eu{SAUT}autant de grains de beauté ?{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0006",
     "locuteur": "Mark",
     "en": "Didn't she always used to brag about{SAUT}how clear her skin was?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Elle s'est pas toujours vantée{SAUT}d'à quel point sa peau était nette?{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0007",
     "locuteur": "Maki",
     "en": "C'mon, Chisato! There's an explanation{SAUT}for this, right?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Allez, Chisato! Il y a bien une explication{SAUT} à tout ça, non?{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0008",
     "locuteur": "Maki",
     "en": "Is the real Queen threatening you?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Est-ce la vraie Reine qui te menace?{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0009",
     "locuteur": "Maki",
     "en": "You're not really the enemy... That's a{SAUT}lie, isn't it?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Tu n'es pas vraiment notre ennemie... C'est un{SAUT}mensonge, n'est-ce pas?{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0010",
     "locuteur": "Harem Queen",
     "en": "You're such an idiot! Me, being{SAUT}threatened... utterly ridiculous.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reine du Harem",
+    "fr": "Quelle idiote! Moi, être{SAUT}menacée... c'est complètement ridicule.{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0011",
