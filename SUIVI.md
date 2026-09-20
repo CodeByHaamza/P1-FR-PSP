@@ -16,14 +16,7 @@ Total          █████████░░░░░░░░░░░░�
 Ces entrées alourdissent leur fichier. Un bloc qui franchit sa frontière fait rester **tout le fichier en anglais** dans le jeu, sans erreur au build : c'est le plus sournois des avertissements.
 
 - [`E0_024.json`](trad/dialogues/E0_024.json) — 1 entrée
-- [`E1_023.json`](trad/dialogues/E1_023.json) — 1 entrée
-- [`E3_001.json`](trad/dialogues/E3_001.json) — 1 entrée
 - [`EBOOT_020.json`](trad/eboot/EBOOT_020.json) — 1 entrée
-- [`TENSI_002.json`](trad/negociations/TENSI_002.json) — 1 entrée
-- [`TENSI_003.json`](trad/negociations/TENSI_003.json) — 5 entrées
-- [`TENSI_004.json`](trad/negociations/TENSI_004.json) — 2 entrées
-- [`TENSI_005.json`](trad/negociations/TENSI_005.json) — 1 entrée
-- [`TENSI_006.json`](trad/negociations/TENSI_006.json) — 1 entrée
 
 ## À relire
 
@@ -176,7 +169,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E1_020.json`](trad/dialogues/E1_020.json) | 67 | 3 | 4 % | commencé |
 | [`E1_021.json`](trad/dialogues/E1_021.json) | 66 | 0 | 0 % | libre |
 | [`E1_022.json`](trad/dialogues/E1_022.json) | 95 | 0 | 0 % | libre |
-| [`E1_023.json`](trad/dialogues/E1_023.json) | 96 | 9 | 9 % | commencé · 1 à alléger |
+| [`E1_023.json`](trad/dialogues/E1_023.json) | 96 | 9 | 9 % | commencé |
 | [`E1_024.json`](trad/dialogues/E1_024.json) | 93 | 1 | 1 % | commencé |
 | [`E1_025.json`](trad/dialogues/E1_025.json) | 86 | 0 | 0 % | libre |
 | [`E1_026.json`](trad/dialogues/E1_026.json) | 97 | 97 | 100 % | terminé · 5 trop large |
@@ -202,7 +195,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E2_015.json`](trad/dialogues/E2_015.json) | 91 | 91 | 100 % | terminé · 3 trop large |
 | [`E2_016.json`](trad/dialogues/E2_016.json) | 100 | 3 | 3 % | commencé |
 | [`E2_017.json`](trad/dialogues/E2_017.json) | 80 | 37 | 46 % | commencé · 1 trop large |
-| [`E3_001.json`](trad/dialogues/E3_001.json) | 93 | 14 | 15 % | commencé · 1 à alléger |
+| [`E3_001.json`](trad/dialogues/E3_001.json) | 93 | 14 | 15 % | commencé · 1 terme |
 | [`E3_002.json`](trad/dialogues/E3_002.json) | 97 | 13 | 13 % | commencé |
 | [`E3_003.json`](trad/dialogues/E3_003.json) | 70 | 70 | 100 % | terminé |
 | [`E3_004.json`](trad/dialogues/E3_004.json) | 95 | 95 | 100 % | terminé · 1 trop large |
@@ -366,11 +359,11 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`SYOUJO_006.json`](trad/negociations/SYOUJO_006.json) | 100 | 0 | 0 % | libre |
 | [`SYOUJO_007.json`](trad/negociations/SYOUJO_007.json) | 9 | 0 | 0 % | libre |
 | [`TENSI_001.json`](trad/negociations/TENSI_001.json) | 100 | 100 | 100 % | terminé |
-| [`TENSI_002.json`](trad/negociations/TENSI_002.json) | 100 | 100 | 100 % | terminé · 1 à alléger |
-| [`TENSI_003.json`](trad/negociations/TENSI_003.json) | 100 | 100 | 100 % | terminé · 5 à alléger |
-| [`TENSI_004.json`](trad/negociations/TENSI_004.json) | 100 | 100 | 100 % | terminé · 2 à alléger |
-| [`TENSI_005.json`](trad/negociations/TENSI_005.json) | 100 | 100 | 100 % | terminé · 1 à alléger |
-| [`TENSI_006.json`](trad/negociations/TENSI_006.json) | 82 | 82 | 100 % | terminé · 1 à alléger |
+| [`TENSI_002.json`](trad/negociations/TENSI_002.json) | 100 | 100 | 100 % | terminé |
+| [`TENSI_003.json`](trad/negociations/TENSI_003.json) | 100 | 100 | 100 % | terminé |
+| [`TENSI_004.json`](trad/negociations/TENSI_004.json) | 100 | 100 | 100 % | terminé · 4 trop large |
+| [`TENSI_005.json`](trad/negociations/TENSI_005.json) | 100 | 100 | 100 % | terminé |
+| [`TENSI_006.json`](trad/negociations/TENSI_006.json) | 82 | 82 | 100 % | terminé |
 | [`TINPRA_001.json`](trad/negociations/TINPRA_001.json) | 100 | 0 | 0 % | libre |
 | [`TINPRA_002.json`](trad/negociations/TINPRA_002.json) | 100 | 0 | 0 % | libre |
 | [`TINPRA_003.json`](trad/negociations/TINPRA_003.json) | 69 | 0 | 0 % | libre |
