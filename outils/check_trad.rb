@@ -54,6 +54,11 @@
 #      redirige vers un code cave : ça marche, c'est prouvé en jeu, mais c'est
 #      plus fragile que de tenir dans la place d'origine. Les dialogues n'ont
 #      pas de `max`, ce contrôle ne s'y déclenche donc jamais.
+#  11. EFFACEMENT — avec `--base <ref>`, une traduction présente dans la version
+#      de référence et vide dans celle-ci. Ce n'est jamais voulu : c'est une
+#      proposition partie d'une copie périmée du fichier (fork pas synchronisé),
+#      et la fusionner efface le travail des autres. Vu le 20/09/2026 : onze
+#      répliques d'E0_043 effacées par une proposition qui en ajoutait une.
 #
 # Aucune dépendance au moteur p1es : la table de caractères est lue directement
 # depuis le .tbl. C'est ce qui permet de publier ce fichier tel quel dans le
@@ -331,7 +336,34 @@ module CheckTrad
     "[JSON] fichier illisible vers la ligne #{ligne} — une virgule, un guillemet ou "       'un caractère en trop ou en moins, souvent sur la ligne juste avant'
   end
 
-  def verifier(chemin, tabla, glyphes, canari = nil, termes = [])
+  # EFFACEMENT — compare au même fichier dans une autre révision git. Rend
+  # { id => [locuteur_fr, fr] } des entrées traduites là-bas, ou nil si le
+  # fichier n'y existe pas (fichier nouveau) ou si git n'est pas là.
+  def traductions_de_reference(chemin, ref)
+    relatif = chemin.tr('\\', '/').sub(%r{\A\./}, '')
+    source = IO.popen(['git', 'show', "#{ref}:#{relatif}"], err: File::NULL, &:read)
+    return nil unless $?.success? && !source.to_s.empty?
+
+    JSON.parse(source).each_with_object({}) do |e, h|
+      next unless e.is_a?(Hash) && !e['fr'].to_s.empty?
+
+      h[e['id']] = e['fr']
+    end
+  rescue StandardError
+    nil
+  end
+
+  def effacements(entrees, reference, soucis)
+    return unless reference
+
+    entrees.each do |e|
+      next unless e.is_a?(Hash) && e['fr'].to_s.empty? && reference[e['id']]
+
+      soucis << "#{e['id']} [EFFACEMENT] une traduction existante est remplacée par du vide — "                 'ta copie du fichier est périmée : synchronise ton fork (« Sync fork ») '                 'ou repars du fichier sur le dépôt principal'
+    end
+  end
+
+  def verifier(chemin, tabla, glyphes, canari = nil, termes = [], reference = nil)
     entrees = JSON.parse(File.read(chemin, encoding: 'UTF-8'))
     soucis = []
     avertis = []
@@ -476,6 +508,7 @@ module CheckTrad
     end
 
     place_negociation(chemin, soucis, avertis)
+    effacements(entrees, reference, soucis)
 
     [entrees.length, traduites, soucis, avertis]
   end
@@ -510,12 +543,19 @@ module CheckTrad
     # Une sortie machine plutôt qu'un texte à relire : reformuler un message ne
     # doit pas casser le tableau d'avancement.
     en_json = argv.delete('--json')
+    # `--base <ref>` : la révision à laquelle comparer, pour attraper les
+    # traductions effacées. L'action passe le `base.sha` de la proposition.
+    base = nil
+    if (i = argv.index('--base'))
+      base = argv[i + 1]
+      argv.slice!(i, 2)
+    end
 
     if argv.empty?
       # Le chemin réellement invoqué, et non un chemin en dur : le même fichier
       # vit sous `outils/` dans le dépôt public et sous `game/tools/` dans le
       # privé, et afficher l'autre envoie le contributeur dans le mur.
-      puts "usage: ruby #{$PROGRAM_NAME} [--annoter] [--json] <fichier.json> [...]"
+      puts "usage: ruby #{$PROGRAM_NAME} [--annoter] [--json] [--base <ref>] <fichier.json> [...]"
       return 2
     end
 
@@ -553,7 +593,8 @@ module CheckTrad
       end
 
       canari = charger_canari(chemin)
-      total, traduites, soucis, avertis = verifier(chemin, tabla, glyphes, canari, termes)
+      reference = base ? traductions_de_reference(chemin, base) : nil
+      total, traduites, soucis, avertis = verifier(chemin, tabla, glyphes, canari, termes, reference)
 
       if en_json
         # Le numéro de ligne accompagne chaque souci : c'est lui qui permet au

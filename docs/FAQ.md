@@ -51,6 +51,14 @@ une apostrophe recopiés depuis Word ou un site web. Retape-les.
 Le caractère existe dans le jeu mais sa case est vide : il s'afficherait comme
 un blanc. Remplace-le.
 
+**`[EFFACEMENT] une traduction existante est remplacée par du vide`**
+Ta proposition part d'une vieille copie du fichier : des répliques que
+quelqu'un a traduites depuis y sont encore vides, et fusionner effacerait son
+travail. Ça arrive quand on édite depuis son fork sans l'avoir synchronisé.
+Deux remèdes : sur la page de ton fork, **« Sync fork » → « Update branch »**,
+puis recopie tes lignes ; ou repars du fichier sur le dépôt principal, où
+GitHub crée la proposition à partir de la version à jour.
+
 **`[CANARI] l'anglais d'origine a été modifié`**
 Tu as tapé dans `en` ou `locuteur` au lieu de `fr` ou `locuteur_fr`. Restaure
 le champ tel qu'il était. Si tu ne sais plus, l'onglet **Files changed** de ta

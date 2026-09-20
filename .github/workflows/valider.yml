@@ -66,6 +66,10 @@ jobs:
       # que `_canari.json` échouerait sans rien avoir de faux. D'où le garde
       # dans le shell plutôt qu'une condition sur la sortie de l'étape, qui ne
       # distingue pas une liste vide d'une ligne vide.
+      # `--base` : le validateur compare chaque fichier à sa version sur la
+      # branche cible, pour refuser une proposition qui remplace des
+      # traductions par du vide — c'est ce que fait une copie périmée d'un
+      # fork, et ça efface le travail des autres à la fusion.
       - name: Valider
         run: |
           liste="${{ steps.fichiers.outputs.liste }}"
@@ -73,7 +77,7 @@ jobs:
             echo "aucun fichier de traduction à valider"
             exit 0
           fi
-          echo "$liste" | xargs ruby outils/check_trad.rb --annoter
+          echo "$liste" | xargs ruby outils/check_trad.rb --annoter             --base "${{ github.event.pull_request.base.sha }}"
 
       - name: Récapitulatif
         if: always()
@@ -86,7 +90,7 @@ jobs:
             echo "## Validation"
             echo
             echo '```text'
-            echo "$liste" | xargs ruby outils/check_trad.rb 2>&1 || true
+            echo "$liste" | xargs ruby outils/check_trad.rb               --base "${{ github.event.pull_request.base.sha }}" 2>&1 || true
             echo '```'
             echo
             echo "Le détail des messages est expliqué dans [la FAQ]($DEPOT/blob/main/docs/FAQ.md)."
