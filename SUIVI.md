@@ -153,7 +153,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_045.json`](trad/dialogues/E0_045.json) | 100 | 30 | 30 % | commencé |
 | [`E0_046.json`](trad/dialogues/E0_046.json) | 92 | 12 | 13 % | commencé |
 | [`E0_047.json`](trad/dialogues/E0_047.json) | 69 | 2 | 3 % | commencé |
-| [`E0_048.json`](trad/dialogues/E0_048.json) | 50 | 0 | 0 % | en cours par @Gyotre (#24) |
+| [`E0_048.json`](trad/dialogues/E0_048.json) | 50 | 0 | 0 % | libre |
 | [`E1_001.json`](trad/dialogues/E1_001.json) | 80 | 77 | 96 % | commencé · 1 terme |
 | [`E1_002.json`](trad/dialogues/E1_002.json) | 100 | 99 | 99 % | commencé · 1 trop large |
 | [`E1_003.json`](trad/dialogues/E1_003.json) | 94 | 94 | 100 % | terminé |
