@@ -68,10 +68,21 @@ jobs:
         run: |
           gh pr list --state open --json number,author,files > /tmp/pr.json || echo '[]' > /tmp/pr.json
 
+      # Les propositions déjà fusionnées disent qui a travaillé quel fichier.
+      # Sans elles, un contributeur disparaît du suivi à la seconde où on
+      # accepte son travail -- l'inverse de ce qu'on veut lui montrer.
+      - name: Relever les propositions fusionnées
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh pr list --state merged --limit 500 --json number,author,files,mergedAt \
+            > /tmp/fusionnees.json || echo '[]' > /tmp/fusionnees.json
+
       - name: Recompter
         run: |
           python outils/stats.py \
             --reservations /tmp/pr.json \
+            --fusionnees /tmp/fusionnees.json \
             --rapport /tmp/a_corriger.md \
             --depot "${{ github.server_url }}/${{ github.repository }}"
 

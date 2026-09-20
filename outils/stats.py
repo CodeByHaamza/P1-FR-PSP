@@ -4,6 +4,7 @@
     python outils/stats.py                      depuis la racine du depot public
     python outils/stats.py --racine <chemin>
     python outils/stats.py --reservations pr.json
+    python outils/stats.py --fusionnees fusionnees.json --depot <url>
 
 Personne ne met le suivi a jour a la main : c'est la seule facon qu'il soit
 juste. L'action `suivi.yml` lance ce script apres chaque fusion et committe le
@@ -12,6 +13,10 @@ resultat.
 Avec --reservations, un JSON produit par `gh pr list --json number,title,author,
 headRefName,files` alimente le tableau « qui est sur quoi », pour que deux
 personnes ne prennent pas le meme fichier.
+
+Avec --fusionnees, le meme JSON pris sur `gh pr list --state merged` garde le
+nom de ceux qui ont deja travaille un fichier : une fois sa proposition
+fusionnee, un contributeur disparaissait du suivi comme s'il n'avait rien fait.
 """
 
 from __future__ import annotations
@@ -78,6 +83,32 @@ def lire_reservations(chemin: Path):
     except (json.JSONDecodeError, OSError, KeyError, TypeError, ValueError) as e:
         print(f"  reservations ignorees : {e}", file=sys.stderr)
     return reserve
+
+
+def lire_auteurs(chemin: Path, proprietaire: str = ""):
+    """{ nom de fichier => ['@a', '@b'] } : qui a deja contribue, dans l'ordre
+    des fusions.
+
+    Le proprietaire du depot est laisse de cote : ses propositions touchent
+    des dizaines de fichiers a la fois (outillage, dictionnaire, reprises), et
+    son nom sur chaque ligne noierait ceux qu'on veut justement faire voir.
+    Les robots aussi.
+    """
+    auteurs = {}
+    try:
+        prs = json.loads(chemin.read_text(encoding="utf-8"))
+        prs.sort(key=lambda pr: str(pr.get("mergedAt", "")))
+        for pr in prs:
+            qui = nettoyer(pr.get("author", {}).get("login", ""))
+            if not qui or qui.lower() == proprietaire.lower() or pr.get("author", {}).get("is_bot"):
+                continue
+            for f in pr.get("files", []):
+                liste = auteurs.setdefault(Path(f["path"]).name, [])
+                if f"@{qui}" not in liste:
+                    liste.append(f"@{qui}")
+    except (json.JSONDecodeError, OSError, KeyError, TypeError, ValueError, AttributeError) as e:
+        print(f"  auteurs ignores : {e}", file=sys.stderr)
+    return auteurs
 
 
 def valider(racine: Path, sous_dossier: str):
@@ -194,8 +225,9 @@ def mention(sante):
     return f"{len(tags)} à relire"
 
 
-def etat(n, f, reserve, sante=None):
+def etat(n, f, reserve, sante=None, auteurs=None):
     erreurs, _ = compte(sante)
+    par = f" par {', '.join(auteurs)}" if auteurs else ""
 
     # Une erreur passe devant tout le reste : c'est la seule chose qui demande
     # une action precise, sur une ligne precise.
@@ -207,8 +239,10 @@ def etat(n, f, reserve, sante=None):
     if f == 0:
         return f"en cours par {reserve}" if reserve else "libre"
     if f == n:
-        return f"terminé · {note}" if note else "terminé"
-    suite = f"en cours par {reserve}" if reserve else "commencé"
+        return f"terminé{par} · {note}" if note else f"terminé{par}"
+    # Une reservation ouverte passe devant l'historique : c'est elle qui dit
+    # qu'il ne faut pas prendre le fichier maintenant.
+    suite = f"en cours par {reserve}" if reserve else f"commencé{par}"
     return f"{suite} · {note}" if note else suite
 
 
@@ -315,7 +349,8 @@ def ecrire_badge(chemin: Path, label: str, fait: int, tout: int):
     chemin.write_text(json.dumps(badge, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
 
-def rendre(sections, reservations, sante):
+def rendre(sections, reservations, sante, auteurs=None):
+    auteurs = auteurs or {}
     lignes = [
         "# Avancement de la traduction",
         "",
@@ -398,7 +433,7 @@ def rendre(sections, reservations, sante):
             pct = round(100 * f / n) if n else 0
             lignes.append(
                 f"| [`{fichier}`]({sous_dossier}/{fichier}) | {n} | {f} | {pct} % | "
-                f"{etat(n, f, reservations.get(fichier), sante.get(f'{sous_dossier}/{fichier}'))} |"
+                f"{etat(n, f, reservations.get(fichier), sante.get(f'{sous_dossier}/{fichier}'), auteurs.get(fichier))} |"
             )
         lignes.append("")
 
@@ -409,6 +444,7 @@ def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--racine", default=".", type=Path)
     ap.add_argument("--reservations", type=Path)
+    ap.add_argument("--fusionnees", type=Path, help="JSON des propositions fusionnees, pour nommer qui a contribue")
     ap.add_argument("--sortie", type=Path, help="defaut : <racine>/SUIVI.md")
     ap.add_argument(
         "--sans-valider", action="store_true", help="ne pas lancer check_trad.rb (plus rapide, etats moins precis)"
@@ -419,6 +455,9 @@ def main(argv=None):
 
     racine = args.racine
     reservations = lire_reservations(args.reservations) if args.reservations else {}
+    # Le proprietaire se lit dans l'URL du depot : github.com/<proprietaire>/<nom>.
+    proprietaire = args.depot.rstrip("/").split("/")[-2] if args.depot.count("/") >= 2 else ""
+    auteurs = lire_auteurs(args.fusionnees, proprietaire) if args.fusionnees else {}
 
     sections = []
     for nom, sous_dossier, attendu in SECTIONS:
@@ -444,7 +483,7 @@ def main(argv=None):
                 sante.update(valider(racine, sous_dossier))
 
     sortie = args.sortie or racine / "SUIVI.md"
-    sortie.write_text(rendre(sections, reservations, sante), encoding="utf-8")
+    sortie.write_text(rendre(sections, reservations, sante, auteurs), encoding="utf-8")
 
     # Les badges du README : un pour le jeu entier, un par zone. Le badge
     # principal comptait autrefois les seuls dialogues, ce qui faisait dire
