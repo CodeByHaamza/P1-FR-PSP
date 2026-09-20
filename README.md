@@ -103,6 +103,29 @@ besoin du jeu, ni de savoir coder, ni d'avoir fini le fichier d'un coup.
 
 ---
 
+## L'IA, on s'en sert — et on ne s'en cache pas
+
+Autant le dire clairement : un assistant IA a sa place dans ce projet, et il
+en est fait usage. C'est courant dans le romhack aujourd'hui, et pour de
+bonnes raisons — c'est rapide, pratique, et ça enlève le pénible : proposer
+trois versions courtes d'une réplique qui déborde, retrouver un terme du
+dictionnaire, tenir la contrainte de longueur, repérer un code oublié. On ne
+dénature pas le jeu avec ça, on gagne du temps sur ce qui n'en méritait pas.
+C'est un accélérateur, pas un traducteur.
+
+Parce que le mot final revient toujours à la personne qui écrit et qui relit.
+L'IA ne décide ni du ton, ni de la voix de Nanjo, ni de ce qu'un lycéen
+dirait vraiment ; elle propose, on tranche. Son usage est encadré par des
+règles précises — [CLAUDE.md](CLAUDE.md) liste les erreurs que les modèles
+font systématiquement sur ce jeu, et le validateur attrape le reste. Chaque
+ligne qui entre ici a été lue, jugée et souvent réécrite par un humain. Une
+sortie brute envoyée telle quelle se voit tout de suite et sera refusée.
+
+On n'y voit aucun inconvénient, à cette condition. Si tu t'en sers, dis-le
+dans ta PR, donne-lui [CLAUDE.md](CLAUDE.md), et relis tout.
+
+---
+
 ## Ce qui est ouvert
 
 | | |

@@ -76,7 +76,7 @@ qu'une fois : la propagation est automatique.
 
 ---
 
-## Les trois règles qui comptent
+## Les quatre règles qui comptent
 
 ### 1. Garde les codes entre accolades
 
@@ -125,6 +125,21 @@ La seule chose à recopier telle quelle, ce sont les codes entre crochets —
 `[0300]`, `[1E00]`… Ce sont des caractères que l'extracteur n'a pas su nommer.
 Il y en a près de 7 000 dans le jeu ; ils ne se traduisent pas, ils se
 transportent.
+
+---
+
+### 4. Un assistant IA, d'accord — mais c'est toi qui signes
+
+Tu peux t'en servir pour proposer, raccourcir, chercher un terme, vérifier un
+code. C'est autorisé, et on ne s'en cache pas — c'est un accélérateur, pas un
+traducteur. Ce que tu ne peux pas faire, c'est lui donner un fichier et
+envoyer sa sortie telle quelle : ça se voit tout de suite, et ça coûte plus
+cher à réparer qu'à faire. Chaque ligne que tu proposes, c'est toi qui l'as
+lue, jugée et choisie. Le mot final est toujours humain.
+
+Si tu utilises un assistant, donne-lui [CLAUDE.md](CLAUDE.md) : il liste les
+erreurs que les modèles font systématiquement sur ce jeu. Et dis-le dans ta
+PR, tout simplement.
 
 ---
 
