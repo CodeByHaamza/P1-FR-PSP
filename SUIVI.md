@@ -3,13 +3,21 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Dialogues      ████████████░░░░░░░░░░░░   49 %    4 201 / 8 572 textes
+Dialogues      ████████████░░░░░░░░░░░░   49 %    4 202 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
 Négociations   ████░░░░░░░░░░░░░░░░░░░░   15 %    1 897 / 12 487 textes
 
-Total          █████████░░░░░░░░░░░░░░░   38 %    9 184 / 24 145 textes
+Total          █████████░░░░░░░░░░░░░░░   38 %    9 185 / 24 145 textes
 ```
+
+## ⚠ À corriger
+
+Ces fichiers contiennent des erreurs de validation. Les corriger vaut mieux que d'en traduire un nouveau : une erreur laissée là fera rester la ligne en anglais dans le jeu.
+
+- [`E0_043.json`](trad/dialogues/E0_043.json) — 1 erreur
+
+**Le détail ligne par ligne est dans [l'issue « Lignes à corriger »](../../issues?q=is%3Aissue+is%3Aopen+label%3Asuivi-auto)**, tenue à jour automatiquement. Il s'affiche aussi tout seul sur les lignes de ta proposition.
 
 ## Poids à surveiller
 
@@ -148,7 +156,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_040.json`](trad/dialogues/E0_040.json) | 89 | 2 | 2 % | commencé |
 | [`E0_041.json`](trad/dialogues/E0_041.json) | 89 | 0 | 0 % | libre |
 | [`E0_042.json`](trad/dialogues/E0_042.json) | 82 | 0 | 0 % | libre |
-| [`E0_043.json`](trad/dialogues/E0_043.json) | 100 | 0 | 0 % | en cours par @Colonel-Maskou (#21) |
+| [`E0_043.json`](trad/dialogues/E0_043.json) | 100 | 1 | 1 % | **à corriger** — 1 erreur |
 | [`E0_044.json`](trad/dialogues/E0_044.json) | 100 | 100 | 100 % | terminé · 2 trop large |
 | [`E0_045.json`](trad/dialogues/E0_045.json) | 100 | 30 | 30 % | commencé |
 | [`E0_046.json`](trad/dialogues/E0_046.json) | 92 | 12 | 13 % | commencé |
