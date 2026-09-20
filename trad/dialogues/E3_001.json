@@ -412,7 +412,7 @@
     "locuteur": "Clerk",
     "en": "Mister need this. I sell at low price,{SAUT}you buy!{ATTENTE}",
     "locuteur_fr": "Vendeur",
-    "fr": "Monsieur besoin ça. Moi vendre pas cher,{SAUT}toi acheter!{ATTENTE}",
+    "fr": "Monsieur besoin ça. Pas cher,{SAUT}toi acheter!{ATTENTE}",
     "_occurrences": 4
   },
   {

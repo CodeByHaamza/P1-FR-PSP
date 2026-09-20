@@ -43,7 +43,7 @@
   {
     "id": "TENSI.BIN:text:0344",
     "en": "Did you not want to talk? What a fickle{SAUT}creature you are!(*RESPONSE*)",
-    "fr": "Vous ne vouliez pas parler? Quelle{SAUT}créature inconstante vous êtes!(*RESPONSE*)",
+    "fr": "Vous ne vouliez pas parler? Quelle{SAUT}créature inconstante!(*RESPONSE*)",
     "_occurrences": 4
   },
   {
@@ -209,7 +209,7 @@
   {
     "id": "TENSI.BIN:text:0372",
     "en": "   You are right. Even a lowly human such{SAUT}as you has pride.(*RESPONSE*)",
-    "fr": "   Vous avez raison. Même un humain aussi{SAUT}bas que vous a sa fierté.(*RESPONSE*)",
+    "fr": "   C'est juste. Même un humain aussi vil{SAUT}que vous a sa fierté.(*RESPONSE*)",
     "_occurrences": 4
   },
   {

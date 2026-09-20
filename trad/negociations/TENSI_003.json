@@ -130,7 +130,7 @@
   {
     "id": "TENSI.BIN:text:0229",
     "en": "[FFEC]N-Normally, I would not have time to hear{SAUT}your words, but this once... I will make{SAUT}an exception.[FFFD][71FF][F500][FFEC]I accept your terms, but never forget{SAUT}that He is with me.(*RESPONSE*)",
-    "fr": "[FFEC]E-En temps normal, je n'aurais pas le{SAUT}temps de vous écouter, mais... pour{SAUT}cette fois, je fais une exception.[FFFD][71FF][F500][FFEC]J'accepte vos termes, mais n'oubliez{SAUT}jamais qu'Il est avec moi.(*RESPONSE*)",
+    "fr": "[FFEC]E-En temps normal, je ne vous{SAUT}écouterais pas, mais pour cette{SAUT}fois... je fais une exception.[FFFD][71FF][F500][FFEC]J'accepte, mais n'oubliez jamais{SAUT}qu'Il est avec moi.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -396,13 +396,13 @@
   {
     "id": "TENSI.BIN:text:0275",
     "en": "   You are a rare breed of human to have{SAUT}overcome the ordeal He presented.(*RESPONSE*)",
-    "fr": "   Vous êtes un humain rare, pour avoir{SAUT}surmonté l'épreuve qu'Il vous a donnée.(*RESPONSE*)",
+    "fr": "   Rare humain, vous avez surmonté{SAUT}l'épreuve qu'Il vous a donnée.(*RESPONSE*)",
     "_occurrences": 16
   },
   {
     "id": "TENSI.BIN:text:0276",
     "en": "Lies hurt the liar as well!(*RESPONSE*)",
-    "fr": "Le mensonge blesse aussi le menteur!(*RESPONSE*)",
+    "fr": "Le mensonge blesse qui ment!(*RESPONSE*)",
     "_occurrences": 16
   },
   {
@@ -420,7 +420,7 @@
   {
     "id": "TENSI.BIN:text:0279",
     "en": "   You are wise.(*RESPONSE*)",
-    "fr": "   Vous êtes sage.(*RESPONSE*)",
+    "fr": "   C'est sage.(*RESPONSE*)",
     "_occurrences": 14
   },
   {
@@ -432,7 +432,7 @@
   {
     "id": "TENSI.BIN:text:0281",
     "en": "  Very well, but... you are not going{SAUT}to borrow the power of demons instead,{SAUT}I hope.{ATTENTE}",
-    "fr": "  Très bien, mais... vous n'allez pas{SAUT}emprunter le pouvoir des démons à la{SAUT}place, j'espère.{ATTENTE}",
+    "fr": "  Soit, mais... vous n'irez pas{SAUT}emprunter le pouvoir des démons{SAUT}à la place, j'espère.{ATTENTE}",
     "_occurrences": 14
   },
   {

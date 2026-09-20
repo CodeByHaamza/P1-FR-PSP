@@ -605,7 +605,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_27C3CC",
     "en": "Weak: Element, Force{FERME}",
-    "fr": "Faible : Éléments, Force{FERME}",
+    "fr": "Faible : Élément, Force{FERME}",
     "max": 20,
     "_occurrences": 9
   }
