@@ -126,7 +126,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_025.json`](trad/dialogues/E0_025.json) | 93 | 93 | 100 % | terminé |
 | [`E0_026.json`](trad/dialogues/E0_026.json) | 77 | 77 | 100 % | terminé |
 | [`E0_027.json`](trad/dialogues/E0_027.json) | 40 | 40 | 100 % | terminé |
-| [`E0_028.json`](trad/dialogues/E0_028.json) | 78 | 0 | 0 % | en cours par @vikmorp (#26) |
+| [`E0_028.json`](trad/dialogues/E0_028.json) | 78 | 0 | 0 % | libre |
 | [`E0_029.json`](trad/dialogues/E0_029.json) | 55 | 5 | 9 % | commencé |
 | [`E0_030.json`](trad/dialogues/E0_030.json) | 100 | 100 | 100 % | terminé |
 | [`E0_031.json`](trad/dialogues/E0_031.json) | 74 | 6 | 8 % | commencé |
