@@ -3,12 +3,12 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Dialogues      ████████████░░░░░░░░░░░░   49 %    4 213 / 8 572 textes
+Dialogues      ████████████░░░░░░░░░░░░   50 %    4 291 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
 Négociations   ████░░░░░░░░░░░░░░░░░░░░   15 %    1 897 / 12 487 textes
 
-Total          █████████░░░░░░░░░░░░░░░   38 %    9 196 / 24 145 textes
+Total          █████████░░░░░░░░░░░░░░░   38 %    9 274 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -35,6 +35,7 @@ Terminologie à confirmer — un terme du dictionnaire apparaît dans l'anglais 
 
 Ces lignes sont plus larges que l'anglaise et approchent de la limite de la boîte. Elles ne débordent pas à coup sûr, mais un `{SAUT}` de plus serait plus sage.
 
+- [`E0_028.json`](trad/dialogues/E0_028.json) — 5 lignes
 - [`E0_044.json`](trad/dialogues/E0_044.json) — 2 lignes
 - [`E1_001.json`](trad/dialogues/E1_001.json) — 3 lignes
 - [`E1_002.json`](trad/dialogues/E1_002.json) — 1 ligne
@@ -126,7 +127,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_025.json`](trad/dialogues/E0_025.json) | 93 | 93 | 100 % | terminé |
 | [`E0_026.json`](trad/dialogues/E0_026.json) | 77 | 77 | 100 % | terminé |
 | [`E0_027.json`](trad/dialogues/E0_027.json) | 40 | 40 | 100 % | terminé |
-| [`E0_028.json`](trad/dialogues/E0_028.json) | 78 | 0 | 0 % | en cours par @vikmorp (#26) |
+| [`E0_028.json`](trad/dialogues/E0_028.json) | 78 | 78 | 100 % | terminé par @vikmorp · 5 trop large |
 | [`E0_029.json`](trad/dialogues/E0_029.json) | 55 | 5 | 9 % | commencé |
 | [`E0_030.json`](trad/dialogues/E0_030.json) | 100 | 100 | 100 % | terminé |
 | [`E0_031.json`](trad/dialogues/E0_031.json) | 74 | 6 | 8 % | commencé |
