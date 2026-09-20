@@ -9,6 +9,7 @@ compris.
 
 ![total](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge.json)
 ![licence](https://img.shields.io/badge/licence-CC%20BY--NC--SA%204.0-lightgrey)
+[![discord](https://img.shields.io/badge/discord-Grimoire%20du%20C%C5%93ur-5865F2?logo=discord&logoColor=white)](https://discord.gg/s6CRadvPa3)
 
 ![dialogues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_dialogues.json)
 ![menus](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_eboot.json)
@@ -19,7 +20,12 @@ compris.
 ton navigateur, tu écris, tu proposes. Un robot vérifie la technique à ta
 place.
 
-👉 **[Comment aider](CONTRIBUTING.md)** · **[Avancement](SUIVI.md)** · **[FAQ](docs/FAQ.md)**
+On travaille avec la communauté du **[Grimoire du Cœur](https://discord.gg/s6CRadvPa3)**,
+le Discord francophone des traductions Persona : c'est là qu'on discute d'une
+réplique, d'un terme, d'un doute — avant de trancher, et souvent avant
+d'ouvrir une issue. Viens dire bonjour.
+
+👉 **[Comment aider](CONTRIBUTING.md)** · **[Avancement](SUIVI.md)** · **[FAQ](docs/FAQ.md)** · **[Discord](https://discord.gg/s6CRadvPa3)**
 
 <br clear="right">
 

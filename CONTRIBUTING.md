@@ -151,7 +151,9 @@ PR, tout simplement.
 - Colle au **sens**, pas au mot-à-mot.
 - Les noms propres, Personas, sorts et lieux suivent le
   [Dictionnaire](docs/Dictionnaire.md). Il fait autorité ; si un terme y manque,
-  ouvre une issue plutôt que de trancher seul.
+  ouvre une issue ou viens en parler sur le
+  [Discord du Grimoire du Cœur](https://discord.gg/s6CRadvPa3) plutôt que de
+  trancher seul.
 
 Plus de détail dans [docs/REGLES.md](docs/REGLES.md).
 
