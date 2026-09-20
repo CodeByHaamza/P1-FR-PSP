@@ -2,492 +2,492 @@
   {
     "id": "TENSI.BIN:resp:0068",
     "en": "Awww...(*RESPONSE*)",
-    "fr": "",
+    "fr": "Ooooh...(*RESPONSE*)",
     "_occurrences": 5
   },
   {
     "id": "TENSI.BIN:resp:0072",
     "en": "C'mon, say okay!(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Allez, dis oui!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0078",
     "en": "I wanted you to smile.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Pour te voir sourire.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0079",
     "en": "I'm off-the-wall!(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Je suis déjanté!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0083",
     "en": "I do, but I won't tell.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Oui, mais je me tais.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0088",
     "en": "That's so deep.(*RESPONSE*)",
-    "fr": "",
+    "fr": "C'est profond.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0089",
     "en": "Don't lie!(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Mens pas!(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0093",
     "en": "I was gonna surprise you.(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Pour te surprendre.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0094",
     "en": "Good luck.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Bonne chance.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0100",
     "en": "Never heard of it.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Connais pas.(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "TENSI.BIN:resp:0101",
     "en": "Deal with it.(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Fais avec.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0102",
     "en": "What do you want?(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Tu veux quoi?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0104",
     "en": "You'll work for me.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Tu bosseras pour moi.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0106",
     "en": "Not necessarily.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Pas forcément.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0109",
     "en": "It's no lie.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "C'est pas un mensonge.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0118",
     "en": "I taught myself.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Appris tout seul.(*RESPONSE*)",
     "_occurrences": 7
   },
   {
     "id": "TENSI.BIN:resp:0122",
     "en": "Yell again(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Crier encore(*RESPONSE*)",
     "_occurrences": 6
   },
   {
     "id": "TENSI.BIN:resp:0132",
     "en": "Well, all right.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Bon, d'accord.(*RESPONSE*)",
     "_occurrences": 10
   },
   {
     "id": "TENSI.BIN:resp:0133",
     "en": "Noooo way.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Paaas question.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0134",
     "en": "I'll be on my way.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Je m'en vais.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0135",
     "en": "I'm dancing, dammit!(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Je danse, bon sang!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0136",
     "en": "Dance(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Danser(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0140",
     "en": "I'll defeat you...(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Je te vaincrai...(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0142",
     "en": "I don't remember.(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Je sais plus.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0144",
     "en": "My teacher, I think.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Mon prof, je crois.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0145",
     "en": "Sorry, sorry.(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Pardon, pardon.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0152",
     "en": "YOU'RE His messenger?(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "TOI, Son messager?(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0166",
     "en": "Curiosity trumps fear.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Curiosité > peur.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0167",
     "en": "To chastise myself.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Pour me punir.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0170",
     "en": "Continue the story(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Continuer l'histoire(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0174",
     "en": "You're joking...(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Tu plaisantes...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0177",
     "en": "I won't lose!(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Je perdrai pas!(*RESPONSE*)",
     "_occurrences": 6
   },
   {
     "id": "TENSI.BIN:resp:0181",
     "en": "Yes, I see it.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Oui, je le vois.(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "TENSI.BIN:resp:0182",
     "en": "I can't see it.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Je le vois pas.(*RESPONSE*)",
     "_occurrences": 5
   },
   {
     "id": "TENSI.BIN:resp:0187",
     "en": "That isn't true.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "C'est faux.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0188",
     "en": "It's not that great...(*RESPONSE*) ",
-    "fr": "",
+    "fr": "C'est pas si génial...(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0189",
     "en": "It's my hard work.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "C'est mon travail.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0193",
     "en": "I'm very sorry.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Je suis désolé.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0198",
     "en": "Will you shut up?(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Tu la fermes?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0202",
     "en": "It's okay!(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Ça va!(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:resp:0203",
     "en": "Ooookaaaay.(*RESPONSE*)",
-    "fr": "",
+    "fr": "D'aaaccooord.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0206",
     "en": "That's irrelevant!(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Aucun rapport!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0208",
     "en": "It's all right.(*RESPONSE*)",
-    "fr": "",
+    "fr": "C'est bon.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0210",
     "en": "It really hurts...(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Ça fait très mal...(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0212",
     "en": "You figured it out?(*RESPONSE*)",
-    "fr": "",
+    "fr": "T'as compris?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0213",
     "en": "That's so mean!(*RESPONSE*)",
-    "fr": "",
+    "fr": "C'est trop méchant!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0215",
     "en": "Then I won't cry.(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Je pleurerai pas.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0218",
     "en": "I'll do something.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Je ferai un truc.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0220",
     "en": "Who cares?(*RESPONSE*) ",
-    "fr": "",
+    "fr": "On s'en fiche.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0223",
     "en": "Sooooorryyyyy.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Pardooonnn.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0224",
     "en": "Whaaat!? No way!(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Quoiii!? Non!(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0229",
     "en": "I did.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Oui.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0230",
     "en": "Hurry and get lost.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Dégage, vite.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0233",
     "en": "Aren't I great?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Je suis pas génial?(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0244",
     "en": "You did.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Toi, oui.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0250",
     "en": "Is the weather good...?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Il fait beau...?(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0261",
     "en": "You wanna die, huh?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Tu veux mourir?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0266",
     "en": "I'm gonna kill you.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Je vais te tuer.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0270",
     "en": "At school.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "À l'école.(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "TENSI.BIN:resp:0272",
     "en": "I don't hear it.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "J'entends rien.(*RESPONSE*)",
     "_occurrences": 6
   },
   {
     "id": "TENSI.BIN:resp:0273",
     "en": "Good for you.(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Tant mieux.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0277",
     "en": "I see.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Je vois.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0281",
     "en": "Surprised?(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Surpris?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0282",
     "en": "This isn't magic.(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "C'est pas magique.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0283",
     "en": "Then I'll listen.(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Alors j'écoute.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0288",
     "en": "Defeat demons(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Vaincre les démons(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0289",
     "en": "Pray(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Prier(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0291",
     "en": "Pick up trash(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Ramasser les déchets(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0292",
     "en": "Move(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Bouger(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0293",
     "en": "Don't move(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Pas bouger(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0294",
     "en": "Kneel(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "S'agenouiller(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0297",
     "en": "Obey(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Obéir(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0300",
     "en": "Then make a donation!(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Alors fais un don!(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0306",
     "en": "I forgot.(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "J'ai oublié.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0309",
     "en": "Then forget it.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Alors laisse tomber.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0311",
     "en": "I think so, too.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Je pense aussi.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:resp:0315",
     "en": "I'm passing through.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Je passais par là.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0316",
     "en": "I give up, then.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "J'abandonne, alors.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0317",
     "en": "What \"ancient serpent\"?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Quel \"antique serpent\"?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0318",
     "en": "So you found out.(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Tu l'as découvert.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0319",
     "en": "That's so cruel...(*RESPONSE*) ",
-    "fr": "",
+    "fr": "C'est trop cruel...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:resp:0320",
     "en": "Huhhh?(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Hein?(*RESPONSE*)",
     "_occurrences": 2
   }
 ]

@@ -10,15 +10,15 @@
     "id": "E1.BIN:055:0001",
     "locuteur": "Yukino",
     "en": "...And?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "...Et?{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0002",
     "locuteur": "Kumi",
     "en": "Th-That's all you can say, even after{SAUT}seeing what happened? H-How dare you!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "C-C'est tout ce que tu trouves à dire,{SAUT}après avoir vu ça? C-Comment oses-tu!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0003",
@@ -66,8 +66,8 @@
     "id": "E1.BIN:055:0009",
     "locuteur": "Nanjo",
     "en": "That's so appalling that I'm speechless.{SAUT}You're making a mockery of your own life.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "C'est si affligeant que j'en reste sans{SAUT}voix. Tu tournes ta vie en dérision.{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0010",
@@ -108,8 +108,8 @@
     "id": "E1.BIN:055:0015",
     "locuteur": "Ayase",
     "en": "So what if I'm stupid!? Ohhh, I cannot{SAUT}BELIEVE this! I'm like, SO pissed!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Et alors, si je suis bête!? Ohhh, j'y{SAUT}crois PAS! Je suis genre, TROP vénère!{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0016",
@@ -129,8 +129,8 @@
     "id": "E1.BIN:055:0018",
     "locuteur": "Kumi",
     "en": "I tried my best, really I did!{SAUT}But everyone around me just...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "J'ai fait de mon mieux, vraiment!{SAUT}Mais tout le monde autour de moi...{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0019",
@@ -164,8 +164,8 @@
     "id": "E1.BIN:055:0023",
     "locuteur": "Nanjo",
     "en": "All you do is blame \"the others\" for{SAUT}everything while running away!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Tu ne fais que rejeter la faute sur{SAUT}\"les autres\" tout en fuyant!{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0024",
@@ -325,8 +325,8 @@
     "id": "E1.BIN:055:0046",
     "locuteur": "Yukino",
     "en": "Bet she has a (*TEXTBOX_PARAM,0700*)Mirror Shard(*TEXTBOX_PARAM,0000*) or two.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Elle a sûrement un (*TEXTBOX_PARAM,0700*)Fragment de Miroir(*TEXTBOX_PARAM,0000*).{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0047",
@@ -346,8 +346,8 @@
     "id": "E1.BIN:055:0049",
     "locuteur": "Nanjo",
     "en": "What is the matter with that girl!?{SAUT}Her entire outlook on life is a joke.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Qu'est-ce qui ne va pas chez elle!?{SAUT}Sa vision de la vie est une farce.{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0050",
@@ -415,7 +415,7 @@
   {
     "id": "E1.BIN:055:0059",
     "en": "{FERME} > Pinch Kumi?{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} > Pincer Kumi?{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0060",
@@ -428,12 +428,12 @@
     "id": "E1.BIN:055:0061",
     "locuteur": "Kumi",
     "en": "Hmph... g-good choice. If you'd pinched{SAUT}me, you would have paid dearly.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "Hmph... b-bon choix. Si tu m'avais{SAUT}pincée, tu l'aurais payé cher.{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0062",
     "en": "{FERME} > There seems to be nothing here.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} > Il ne semble rien y avoir ici.{ATTENTE}"
   }
 ]

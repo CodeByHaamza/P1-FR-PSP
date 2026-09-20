@@ -94,7 +94,7 @@
     "id": "E2.BIN:166:0001",
     "locuteur": "Maki",
     "en": "Let's hurry after Kandori!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Maki",
     "fr": "Vite, rattrapons Kandori!{ATTENTE}"
   },
   {
@@ -317,14 +317,14 @@
     "id": "E2.BIN:167:0020",
     "locuteur": "Male student",
     "en": "I can't stand Yuko! Why is Maki still{SAUT}friends with her, anyway?{ATTENTE}",
-    "locuteur_fr": "Lycéen",
+    "locuteur_fr": "Élève",
     "fr": "Je supporte pas Yuko! Pourquoi{SAUT}Maki reste amie avec elle?{ATTENTE}"
   },
   {
     "id": "E2.BIN:167:0021",
     "locuteur": "Female student",
     "en": "Everyone loves Maki and everyone hates{SAUT}Yuko. But oddly enough, they're friends.{ATTENTE}",
-    "locuteur_fr": "Lycéenne",
+    "locuteur_fr": "Élève",
     "fr": "Tout le monde aime Maki et déteste Yuko.{SAUT}Mais bizarrement, elles sont amies.{ATTENTE}"
   },
   {

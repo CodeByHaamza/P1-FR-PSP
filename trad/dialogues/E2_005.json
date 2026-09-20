@@ -3,187 +3,187 @@
     "id": "E2.BIN:051:0000",
     "locuteur": "Nanjo",
     "en": "The only clothing I require is this{SAUT}uniform... and my scarf, of course.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Il ne me faut que cet uniforme...{SAUT}et mon écharpe, bien sûr.{ATTENTE}"
   },
   {
     "id": "E2.BIN:051:0001",
     "locuteur": "Mark",
     "en": "Speaking of clothes, what's with Nanjo's{SAUT}scarf? He's always wearing that thing.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "En parlant de fringues, c'est quoi cette{SAUT}écharpe? Nanjo la quitte jamais.{ATTENTE}"
   },
   {
     "id": "E2.BIN:051:0002",
     "locuteur": "Yukino",
     "en": "Tch, did Yuka ask you to go shopping{SAUT}for her?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Tss, Yuka t'a envoyé faire{SAUT}ses courses?{ATTENTE}"
   },
   {
     "id": "E2.BIN:051:0003",
     "locuteur": "Yukino",
     "en": "Well, once you're done here, we're going{SAUT}straight to the hospital!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Bon, une fois que t'as fini ici, on file{SAUT}droit à l'hôpital!{ATTENTE}"
   },
   {
     "id": "E2.BIN:051:0004",
     "locuteur": "Clerk",
     "en": "The people in this town have such bad{SAUT}fashion sense!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Vendeur",
+    "fr": "Les gens de cette ville ont vraiment{SAUT}mauvais goût!{ATTENTE}"
   },
   {
     "id": "E2.BIN:051:0005",
     "locuteur": "Clerk",
     "en": "The only one with a shred of taste is{SAUT}this brown-haired boy I see sometimes...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Vendeur",
+    "fr": "Le seul qui ait un brin de style, c'est{SAUT}ce garçon châtain que je vois parfois...{ATTENTE}"
   },
   {
     "id": "E2.BIN:051:0006",
     "locuteur": "Clerk",
     "en": "He's got these cool goggles on, and he's{SAUT}really cute!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Vendeur",
+    "fr": "Il a des lunettes trop cool, et{SAUT}il est vraiment mignon!{ATTENTE}"
   },
   {
     "id": "E2.BIN:052:0000",
     "locuteur": "Nanjo",
     "en": "Well then, where to next? We can go{SAUT}anywhere you please...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Bien, où allons-nous? Nous pouvons{SAUT}aller où bon vous semble...{ATTENTE}"
   },
   {
     "id": "E2.BIN:052:0001",
     "locuteur": "Nanjo",
     "en": "Just so long as the hospital is in our{SAUT}plans at some point.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Du moment que l'hôpital figure{SAUT}dans nos plans.{ATTENTE}"
   },
   {
     "id": "E2.BIN:052:0002",
     "locuteur": "Nanjo",
     "en": "So he refuses to close his business even{SAUT}with the advent of demons...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Ainsi il refuse de fermer boutique,{SAUT}même avec l'arrivée des démons...{ATTENTE}"
   },
   {
     "id": "E2.BIN:052:0003",
     "locuteur": "Nanjo",
     "en": "The common people can be stronger-willed{SAUT}than I had given them credit for.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Le peuple a plus de volonté que{SAUT}je ne lui en prêtais.{ATTENTE}"
   },
   {
     "id": "E2.BIN:052:0004",
     "locuteur": "Mark",
     "en": "Music...? Like, pianos and singing?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "De la musique...? Genre, piano et chant?{ATTENTE}"
   },
   {
     "id": "E2.BIN:052:0005",
     "locuteur": "Mark",
     "en": "Huh? I think I've heard somethin' like{SAUT}that somewhere too...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Hein? J'ai entendu un truc du genre{SAUT}quelque part, moi aussi...{ATTENTE}"
   },
   {
     "id": "E2.BIN:052:0006",
     "locuteur": "Mark",
     "en": "Is it okay, these stores bein' open?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mark",
+    "fr": "Ça craint pas, ces magasins ouverts?{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:052:0007",
     "locuteur": "Mark",
     "en": "I ain't responsible if they get messed{SAUT}up by demons!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mark",
+    "fr": "Je suis pas responsable si des démons{SAUT}les saccagent!{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:052:0008",
     "locuteur": "Elly",
     "en": "That reminds me, some people at school{SAUT}were saying something similar.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Ça me rappelle que des élèves disaient{SAUT}quelque chose de similaire.{ATTENTE}"
   },
   {
     "id": "E2.BIN:052:0009",
     "locuteur": "Yukino",
     "en": "A weird store? What do you think's{SAUT}in it...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Une boutique bizarre? Y aurait{SAUT}quoi dedans...?{ATTENTE}"
   },
   {
     "id": "E2.BIN:052:0010",
     "locuteur": "Yukino",
     "en": "Haven't you had enough fooling around?{SAUT}Can we go to the Alaya Shrine next?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "T'en as pas assez de traîner? On peut{SAUT}aller à l'Autel Alaya, après?{ATTENTE}"
   },
   {
     "id": "E2.BIN:052:0011",
     "locuteur": "Clerk",
     "en": "My, I'm grateful you came all this way.{SAUT}Well, feel free to look around.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Vendeur",
+    "fr": "Oh, merci d'être venus jusqu'ici.{SAUT}Faites comme chez vous.{ATTENTE}"
   },
   {
     "id": "E2.BIN:052:0012",
     "locuteur": "Clerk",
     "en": "My, I'm grateful you came all this way.{SAUT}Things must be hard for all of you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Vendeur",
+    "fr": "Oh, merci d'être venus jusqu'ici.{SAUT}Ça doit être dur pour vous tous.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:052:0013",
     "locuteur": "Customer",
     "en": "There's this one strange store in this{SAUT}here mall...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Client",
+    "fr": "Il y a une boutique étrange dans{SAUT}ce centre commercial...{ATTENTE}"
   },
   {
     "id": "E2.BIN:052:0014",
     "locuteur": "Customer",
     "en": "Whenever I go take a gander, it's closed,{SAUT}and I've never seen anyone go in or out.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Client",
+    "fr": "Chaque fois que je passe, c'est fermé,{SAUT}et je n'ai jamais vu personne y entrer.{ATTENTE}"
   },
   {
     "id": "E2.BIN:052:0015",
     "locuteur": "Customer",
     "en": "But every now and then, you can hear{SAUT}music from in there...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Client",
+    "fr": "Mais de temps en temps, on entend{SAUT}de la musique qui en sort...{ATTENTE}"
   },
   {
     "id": "E2.BIN:052:0016",
     "locuteur": "Customer",
     "en": "It's a funny old world, isn't it?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Client",
+    "fr": "Le monde est bien étrange, n'est-ce pas?{ATTENTE}"
   },
   {
     "id": "E2.BIN:052:0017",
     "locuteur": "Customer",
     "en": "That strange store in this mall will{SAUT}apparently be open soon.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Client",
+    "fr": "La boutique étrange du centre{SAUT}va bientôt ouvrir, paraît-il.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:052:0018",
     "locuteur": "Customer",
     "en": "Don't ask me when, though.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Client",
+    "fr": "Mais ne me demandez pas quand.{ATTENTE}"
   },
   {
     "id": "E2.BIN:053:0000",
@@ -210,127 +210,127 @@
     "id": "E2.BIN:054:0000",
     "locuteur": "Nanjo",
     "en": "...when you're feeling ill, then just{SAUT}take a Dis-Sick...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "...quand vous vous sentez mal, prenez{SAUT}donc un Anti-Mal...{ATTENTE}"
   },
   {
     "id": "E2.BIN:054:0001",
     "locuteur": "Nanjo",
     "en": "Gah, this insidious song! I'm being{SAUT}brainwashed!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Gah, cette chanson insidieuse! On me{SAUT}lave le cerveau!{ATTENTE}"
   },
   {
     "id": "E2.BIN:054:0002",
     "locuteur": "Nanjo",
     "en": "All one can trust is one's own strength.{SAUT}It's the only way.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Nanjo",
+    "fr": "On ne peut se fier qu'à sa propre force.{SAUT}C'est la seule voie.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:054:0003",
     "locuteur": "Mark",
     "en": "So this is Tadashi's uncle's store.{SAUT}He said he lives at the Sun Mall one?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Alors c'est la boutique de l'oncle de{SAUT}Tadashi. Il vit à celle du Sun Mall?{ATTENTE}"
   },
   {
     "id": "E2.BIN:054:0004",
     "locuteur": "Mark",
     "en": "Kids these days sure know what's what...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mark",
+    "fr": "Les jeunes d'aujourd'hui savent y faire...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:054:0005",
     "locuteur": "Yukino",
     "en": "I'm curious about this tree that wasn't{SAUT}there before.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Cet arbre qui n'était pas là avant{SAUT}m'intrigue.{ATTENTE}"
   },
   {
     "id": "E2.BIN:054:0006",
     "locuteur": "Yukino",
     "en": "I'm surprised Maki's mom made it to{SAUT}the shrine.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Ça m'étonne que la mère de Maki soit{SAUT}arrivée jusqu'à l'autel.{ATTENTE}"
   },
   {
     "id": "E2.BIN:054:0007",
     "locuteur": "Yukino",
     "en": "If she'd collapsed before then... I don't{SAUT}like to think what might've happened.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Si elle s'était effondrée avant... Je{SAUT}préfère pas imaginer la suite.{ATTENTE}"
   },
   {
     "id": "E2.BIN:054:0008",
     "locuteur": "Elly",
     "en": "I'm giving some thought to the mystery{SAUT}as well.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Je réfléchis à ce mystère,{SAUT}moi aussi.{ATTENTE}"
   },
   {
     "id": "E2.BIN:054:0009",
     "locuteur": "Elly",
     "en": "This is my chance to put into practice{SAUT}the things I've studied all this time.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "C'est l'occasion de mettre en pratique{SAUT}tout ce que j'ai étudié jusqu'ici.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:054:0010",
     "locuteur": "Clerk",
     "en": "Are you friends with my nephew? Then I'll{SAUT}give you extra special service!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Vendeur",
+    "fr": "Vous êtes amis avec mon neveu? Alors je{SAUT}vous réserve un service de première!{ATTENTE}"
   },
   {
     "id": "E2.BIN:054:0011",
     "locuteur": "Clerk",
     "en": "I'm not the least bit scared of demons.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Vendeur",
+    "fr": "Les démons ne me font pas peur du tout.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:054:0012",
     "locuteur": "Clerk",
     "en": "I'm sure it was just a trick, or maybe{SAUT}I was seeing things.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Vendeur",
+    "fr": "C'était sûrement un tour, ou alors{SAUT}j'ai eu des visions.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:054:0013",
     "locuteur": "Customer",
     "en": "I went to the park and saw a tree that{SAUT}wasn't there before. You should go look.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Client",
+    "fr": "Au parc, j'ai vu un arbre qui n'était{SAUT}pas là avant. Allez y jeter un oeil.{ATTENTE}"
   },
   {
     "id": "E2.BIN:054:0014",
     "locuteur": "Clerk",
     "en": "You can't go in there! It's private!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Vendeur",
+    "fr": "Interdit d'entrer! C'est privé!{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:054:0015",
     "locuteur": "Customer",
     "en": "The TV and radio don't work, and my{SAUT}parents are hiding under their futons.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Client",
+    "fr": "La télé et la radio sont mortes, et{SAUT}mes parents se cachent sous le futon.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:054:0016",
     "locuteur": "Customer",
     "en": "I guess in the end, you have to take{SAUT}matters into your own hands.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Client",
+    "fr": "Au final, faut prendre les choses{SAUT}en main soi-même, je crois.{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -393,8 +393,8 @@
     "id": "E2.BIN:057:0019",
     "locuteur": "Igor",
     "en": "What is it you desire?(*UNK_0E,0C00*){FERME} (*SPEAKER*)Igor{SAUT}Welcome to the Velvet Room...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Igor",
+    "fr": "Que désirez-vous?(*UNK_0E,0C00*){FERME} (*SPEAKER*)Igor{SAUT}Bienvenue dans la Chambre de Velours...{ATTENTE}"
   },
   {
     "id": "E2.BIN:064:0000",
@@ -484,8 +484,8 @@
     "id": "E2.BIN:065:0010",
     "locuteur": "Nurse",
     "en": "Hiroshi seems to be his grandson.{SAUT}He mistakes me for his daughter, too...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmière",
+    "fr": "Hiroshi semble être son petit-fils.{SAUT}Il me prend aussi pour sa fille...{ATTENTE}"
   },
   {
     "id": "E2.BIN:066:0000",
@@ -498,7 +498,7 @@
     "id": "E2.BIN:066:0002",
     "locuteur": "Nurse",
     "en": "You visited her last week too didn't you?{SAUT}And the week before...{ATTENTE}",
-    "locuteur_fr": "Infirmiere",
+    "locuteur_fr": "Infirmière",
     "fr": "Tu es venu la semaine dernière aussi, non?{SAUT}Et celle d'avant...{ATTENTE}"
   },
   {
@@ -554,8 +554,8 @@
     "id": "E2.BIN:067:0005",
     "locuteur": "Patient",
     "en": "She's probably cooped up in her room...{SAUT}It'd do her good to get out sometimes.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Patient",
+    "fr": "Elle doit rester cloîtrée dans sa{SAUT}chambre... Sortir lui ferait du bien.{ATTENTE}"
   },
   {
     "id": "E2.BIN:067:0006",
@@ -582,8 +582,8 @@
     "id": "E2.BIN:068:0000",
     "locuteur": "Nanjo",
     "en": "Why is Maki's mother working at THAT{SAUT}company, of all places!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Pourquoi la mère de Maki bosse-t-elle{SAUT}pour CETTE société, entre toutes!?{ATTENTE}"
   },
   {
     "id": "E2.BIN:068:0001",
@@ -645,14 +645,14 @@
     "id": "E2.BIN:068:0009",
     "locuteur": "Nurse",
     "en": "I don't care how busy she is at SEBEC!{SAUT}She's a failure as a mother!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Infirmière",
+    "fr": "Peu importe son travail à la SEBEC!{SAUT}Comme mère, c'est un échec!{ATTENTE}"
   },
   {
     "id": "E2.BIN:068:0010",
     "locuteur": "Nurse",
     "en": "Poor Maki...{ATTENTE}",
-    "locuteur_fr": "Inf",
+    "locuteur_fr": "Infirmière",
     "fr": "Pauvre Maki...{ATTENTE}"
   }
 ]

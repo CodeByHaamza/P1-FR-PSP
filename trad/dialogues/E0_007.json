@@ -176,7 +176,7 @@
     "id": "E0.BIN:016:0023",
     "locuteur": "Clerk",
     "en": "Hiiii! SO nice to see you!{ATTENTE}",
-    "locuteur_fr": "Employé",
+    "locuteur_fr": "Vendeur",
     "fr": "Bonjouuur! Quel plaisir!{ATTENTE}",
     "_occurrences": 8
   },
@@ -184,7 +184,7 @@
     "id": "E0.BIN:016:0024",
     "locuteur": "Clerk",
     "en": "If you're looking to exchange money for{SAUT}coins, I'm your man.{ATTENTE}",
-    "locuteur_fr": "Employé",
+    "locuteur_fr": "Vendeur",
     "fr": "Si vous voulez changer votre argent{SAUT}en pièces, c'est moi.{ATTENTE}",
     "_occurrences": 8
   },
@@ -192,7 +192,7 @@
     "id": "E0.BIN:016:0025",
     "locuteur": "Clerk",
     "en": "Won't you purchase some coins? Hmmmm?(*UNK_0E,0000*){FERME} (*SPEAKER*)Clerk{SAUT}I can exchange your coins for items, if{SAUT}that's what you're in the mood for...{ATTENTE}",
-    "locuteur_fr": "Employé",
+    "locuteur_fr": "Vendeur",
     "fr": "Vous prenez des pièces? Hmmmm?(*UNK_0E,0000*){FERME} (*SPEAKER*)Employé{SAUT}Je peux aussi les échanger contre{SAUT}des objets, si cela vous tente...{ATTENTE}",
     "_occurrences": 3
   },
@@ -200,7 +200,7 @@
     "id": "E0.BIN:016:0026",
     "locuteur": "Clerk",
     "en": "Wanna see what I've got?(*UNK_0E,0000*){FERME}> The machine seems to be out of order.{ATTENTE}",
-    "locuteur_fr": "Employé",
+    "locuteur_fr": "Vendeur",
     "fr": "Envie de voir ma marchandise?(*UNK_0E,0000*){FERME}> La machine a l'air hors service.{ATTENTE}"
   },
   {

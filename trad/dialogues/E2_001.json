@@ -630,14 +630,14 @@
     "id": "E2.BIN:016:0003",
     "locuteur": "Male student",
     "en": "The sound system's all good to go in the{SAUT}new gym! The concert's gonna be bitchin'!{ATTENTE}",
-    "locuteur_fr": "Lycéen",
+    "locuteur_fr": "Élève",
     "fr": "La sono est prêté dans le nouveau{SAUT}gymnase! Le concert va être d'enfer!{ATTENTE}"
   },
   {
     "id": "E2.BIN:016:0004",
     "locuteur": "Male student",
     "en": "I'm gonna skip Sports Day and hole up in{SAUT}the studio to practice!{ATTENTE}",
-    "locuteur_fr": "Lycéen",
+    "locuteur_fr": "Élève",
     "fr": "Je vais sécher la fête du sport{SAUT}et rester au studio pour répéter!{ATTENTE}"
   },
   {

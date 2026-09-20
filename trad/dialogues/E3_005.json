@@ -2,57 +2,57 @@
   {
     "id": "E3.BIN:036:0000",
     "en": "> There seems to be nothing here.{ATTENTE}",
-    "fr": ""
+    "fr": "> Il ne semble rien y avoir ici.{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0001",
     "en": "{FERME} > A small piece of paper is stuck to{SAUT}the frozen floor.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} > Un petit bout de papier est collé{SAUT}au sol gelé.{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0002",
     "en": "{FERME}> Read it?{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}> Le lire?{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0003",
     "en": "(*UNK_0E,0000*){FERME}  \"Get rid of the main character's{SAUT}old costume from the 'Snow Queen.'{SAUT}It's dirty, and bad luck to boot.{ATTENTE}",
-    "fr": ""
+    "fr": "(*UNK_0E,0000*){FERME}  \"Débarrasse-toi du vieux costume du{SAUT}rôle principal de la 'Reine des Neiges'.{SAUT}Il est sale, et il porte malheur.{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0004",
     "en": "{PAGE}\"It's to the right of the vaulting horse.{SAUT}I'm counting on you, first-year!{SAUT}         -Drama club president & star\"{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}\"Il est à droite du cheval d'arçons.{SAUT}Je compte sur toi, la seconde!{SAUT}      -Présidente et star du club théâtre\"{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0005",
     "en": "{FERME}  > There's an antique costume nestled{SAUT}amongst the junk.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}  > Un costume ancien est niché{SAUT}au milieu du bric-à-brac.{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0006",
     "en": "{FERME}> Obtained (*TEXTBOX_STYLE*)[1400](*TEXTBOX_PARAM,0500*)Spiegel Mask(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}> (*TEXTBOX_STYLE*)[1400](*TEXTBOX_PARAM,0500*)Masque Spiegel(*TEXTBOX_PARAM,0000*) obtenu.{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0007",
     "en": "{FERME}> Obtained (*TEXTBOX_STYLE*)[1400](*TEXTBOX_PARAM,0500*)Spiegel Mail(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}> (*TEXTBOX_STYLE*)[1400](*TEXTBOX_PARAM,0500*)Armure Spiegel(*TEXTBOX_PARAM,0000*) obtenue.{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0008",
     "en": "{FERME}> Obtained (*TEXTBOX_STYLE*)[1400](*TEXTBOX_PARAM,0500*)Spiegel Beine(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}> (*TEXTBOX_STYLE*)[1400](*TEXTBOX_PARAM,0500*)Jambières Spiegel(*TEXTBOX_PARAM,0000*) obtenues.{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0009",
     "en": "{FERME}   > Obtained (*TEXTBOX_STYLE*)[1400](*TEXTBOX_PARAM,0500*)Spiegel Blade(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}   > (*TEXTBOX_STYLE*)[1400](*TEXTBOX_PARAM,0500*)Lame Spiegel(*TEXTBOX_PARAM,0000*) obtenue.{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0010",
     "en": "{FERME}   > They are frozen.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}   > Ils sont gelés.{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0012",
@@ -143,8 +143,8 @@
     "id": "E3.BIN:036:0026",
     "locuteur": "Brown",
     "en": "I-I-Is it a 10,000-yen bill!? 'Cause if{SAUT}it is, dibs!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "C-C-C'est un billet de 10 000 yens!?{SAUT}Parce que si oui, je prems!{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0027",
@@ -185,8 +185,8 @@
     "id": "E3.BIN:036:0032",
     "locuteur": "Yukino",
     "en": "You moron. What I'm saying is, that's{SAUT}not a 10,000-yen bill!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Crétin. Ce que je dis, c'est que c'est{SAUT}PAS un billet de 10 000 yens!{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0033",
@@ -200,14 +200,14 @@
     "locuteur": "Ayase",
     "en": "Totally stupid. There's no doubt you'll{SAUT}pay the piper.{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "Trop bête. Tu vas payer les{SAUT}pots casses, c'est sûr.{ATTENTE}"
+    "fr": "Trop bête. Tu vas payer les{SAUT}pots cassés, c'est sûr.{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0035",
     "locuteur": "Brown",
     "en": "U-Urgh! Why's Ayase saying that now!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "U-Urgh! Pourquoi Ayase dit ça maintenant!?{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0036",
@@ -256,7 +256,7 @@
     "locuteur": "Nanjo",
     "en": "But it's something of a relief to have{SAUT}her around at a time like this.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Mais c'est un soulagement de l'avoir{SAUT}la en un tel moment.{ATTENTE}"
+    "fr": "Mais c'est un soulagement de l'avoir{SAUT}là en un tel moment.{ATTENTE}"
   },
   {
     "id": "E3.BIN:037:0004",
@@ -285,7 +285,7 @@
     "locuteur": "Mariko",
     "en": "They're chock-full of demons! You wouldn't{SAUT}believe the photos I got!{ATTENTE}",
     "locuteur_fr": "Mariko",
-    "fr": "Elles sont pleines de démons! Tu{SAUT}croirais pas les photos que j'ai!{ATTENTE}",
+    "fr": "Elles sont pleines de démons! Tu{SAUT}croiras pas les photos que j'ai!{ATTENTE}",
     "_occurrences": 4
   },
   {
@@ -328,8 +328,8 @@
     "id": "E3.BIN:037:0022",
     "locuteur": "Mariko",
     "en": "\"The Bizarre Towers and the School that{SAUT}Became a Labyrinth\"!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mariko",
+    "fr": "\"Les tours étranges et le lycée{SAUT}devenu labyrinthe\"!{ATTENTE}"
   },
   {
     "id": "E3.BIN:037:0023",
@@ -350,14 +350,14 @@
     "locuteur": "Reiho",
     "en": "Hee-ho! This is the 4th floor.{ATTENTE}",
     "locuteur_fr": "Reiho",
-    "fr": "Hee-ho! Voici le 4e étage.{ATTENTE}"
+    "fr": "Hi-ho! Voici le 4e étage.{ATTENTE}"
   },
   {
     "id": "E3.BIN:038:0001",
     "locuteur": "Raiho",
     "en": "Hee-ho! Hey, you guys!{ATTENTE}",
     "locuteur_fr": "Raiho",
-    "fr": "Hee-ho! Hey, vous là!{ATTENTE}"
+    "fr": "Hi-ho! Hey, vous là!{ATTENTE}"
   },
   {
     "id": "E3.BIN:038:0002",
@@ -370,8 +370,8 @@
     "id": "E3.BIN:038:0003",
     "locuteur": "Raiho",
     "en": "Hee-ho! Just 95 more people until I make{SAUT}100 friends!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Hi-ho! Plus que 95 personnes avant{SAUT}d'avoir 100 amis!{ATTENTE}"
   },
   {
     "id": "E3.BIN:038:0004",
@@ -385,7 +385,7 @@
     "locuteur": "Raiho",
     "en": "I hee-know!{ATTENTE}",
     "locuteur_fr": "Raiho",
-    "fr": "Je hee-sais!{ATTENTE}"
+    "fr": "Je hi-sais!{ATTENTE}"
   },
   {
     "id": "E3.BIN:038:0006",
@@ -398,8 +398,8 @@
     "id": "E3.BIN:038:0007",
     "locuteur": "Reiho",
     "en": "Tch.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Reiho",
+    "fr": "Tss.{ATTENTE}",
     "_occurrences": 4
   },
   {
@@ -407,7 +407,7 @@
     "locuteur": "Raiho",
     "en": "Hee-ho! Well then, hee-close your eyes{SAUT}for a minute, ho...{ATTENTE}",
     "locuteur_fr": "Raiho",
-    "fr": "Hee-ho! Bon, hee-ferme les yeux{SAUT}une minute, ho...{ATTENTE}",
+    "fr": "Hi-ho! Bon, hi-ferme les yeux{SAUT}une minute, ho...{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -449,217 +449,217 @@
     "id": "E3.BIN:039:0000",
     "locuteur": "Yukino",
     "en": "What is this floor?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "C'est quoi, cet étage?{ATTENTE}"
   },
   {
     "id": "E3.BIN:039:0001",
     "locuteur": "Ayase",
     "en": "I've seen this room before... in an old,{SAUT}framed photo in the principal's office.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "J'ai déjà vu cette salle... sur une{SAUT}vieille photo dans le bureau du proviseur.{ATTENTE}"
   },
   {
     "id": "E3.BIN:039:0002",
     "locuteur": "Ayase",
     "en": "It's the wooden school building that was{SAUT}here before they built the one we have.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "C'est le lycée en bois qui était là{SAUT}avant qu'ils construisent le nôtre.{ATTENTE}"
   },
   {
     "id": "E3.BIN:039:0003",
     "locuteur": "Nanjo",
     "en": "I'd expect Ayase to know. She's certainly{SAUT}been to the principal's office enough.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Normal qu'Ayase le sache. Elle a passé{SAUT}assez de temps chez le proviseur.{ATTENTE}"
   },
   {
     "id": "E3.BIN:039:0004",
     "locuteur": "Brown",
     "en": "Warmth of handmade wooden buildings,{SAUT}my ass!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "La chaleur des bâtiments en bois faits{SAUT}main, mon oeil!{ATTENTE}"
   },
   {
     "id": "E3.BIN:039:0005",
     "locuteur": "Brown",
     "en": "The wind blows through the cracks in the{SAUT}walls and it smells all musty...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Le vent passe par les fissures des murs{SAUT}et ça sent le moisi...{ATTENTE}"
   },
   {
     "id": "E3.BIN:039:0006",
     "locuteur": "Brown",
     "en": "Makes me want a hot bath.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Ça me donne envie d'un bain chaud.{ATTENTE}"
   },
   {
     "id": "E3.BIN:039:0007",
     "locuteur": "Elly",
     "en": "This certainly is an antique building.{SAUT}If we weren't in our current situation,{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "C'est un bâtiment vraiment ancien.{SAUT}Si nous n'étions pas dans cette situation,{ATTENTE}"
   },
   {
     "id": "E3.BIN:039:0008",
     "locuteur": "Elly",
     "en": "I'd have enjoyed looking around.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "j'aurais aimé le visiter.{ATTENTE}"
   },
   {
     "id": "E3.BIN:040:0000",
     "locuteur": "Yukino",
     "en": "Did the building change because the past{SAUT}Snow Queens attended class in this one?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Le bâtiment a changé parce que les Reines{SAUT}des Neiges d'avant ont étudié ici?{ATTENTE}"
   },
   {
     "id": "E3.BIN:040:0001",
     "locuteur": "Yukino",
     "en": "...That would mean the demons have gotten{SAUT}even stronger.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "...Ça veut dire que les démons sont{SAUT}encore plus forts.{ATTENTE}"
   },
   {
     "id": "E3.BIN:040:0002",
     "locuteur": "Ayase",
     "en": "So people back then went to class in{SAUT}rooms like these? Weren't they cold...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Les gens de l'époque étudiaient dans des{SAUT}salles pareilles? Ils avaient pas froid?{ATTENTE}"
   },
   {
     "id": "E3.BIN:040:0003",
     "locuteur": "Nanjo",
     "en": "Mayuzumi is right. From this point on,{SAUT}we should brace for the worst.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Mayuzumi a raison. À partir d'ici,{SAUT}préparons-nous au pire.{ATTENTE}"
   },
   {
     "id": "E3.BIN:040:0004",
     "locuteur": "Brown",
     "en": "This place creeps me out. It's bad enough{SAUT}that it's an old building...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Cet endroit me file la chair de poule.{SAUT}C'est déjà assez vieux comme ça...{ATTENTE}"
   },
   {
     "id": "E3.BIN:040:0005",
     "locuteur": "Brown",
     "en": "But it's all frozen over, and our{SAUT}footsteps echo way too loud.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Mais tout est gelé, et nos pas{SAUT}résonnent bien trop fort.{ATTENTE}"
   },
   {
     "id": "E3.BIN:040:0006",
     "locuteur": "Elly",
     "en": "It's said many generations of memories{SAUT}are ingrained into old schools.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "On dit que les vieilles écoles gardent{SAUT}les souvenirs de générations entières.{ATTENTE}"
   },
   {
     "id": "E3.BIN:040:0007",
     "locuteur": "Elly",
     "en": "I only hope that doesn't mean evil things{SAUT}are in store for us.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "J'espère seulement que ça ne nous{SAUT}réserve rien de mauvais.{ATTENTE}"
   },
   {
     "id": "E3.BIN:041:0000",
     "locuteur": "Reiho",
     "en": "Hee-ho! This is the 5th floor.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiho",
+    "fr": "Hi-ho! Voici le 5e étage.{ATTENTE}"
   },
   {
     "id": "E3.BIN:041:0002",
     "locuteur": "Raiho",
     "en": "Want me-ho to take you downstairs?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Tu veux que je-ho te descende?{ATTENTE}"
   },
   {
     "id": "E3.BIN:041:0006",
     "locuteur": "Yukino",
     "en": "What kind of magic trick is this{SAUT}snowman using?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "C'est quoi ce tour de magie que{SAUT}fait ce bonhomme de neige?{ATTENTE}"
   },
   {
     "id": "E3.BIN:041:0007",
     "locuteur": "Ayase",
     "en": "Whoa... this is like, kinda creepy...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Oh... c'est genre, un peu flippant...{ATTENTE}"
   },
   {
     "id": "E3.BIN:041:0008",
     "locuteur": "Nanjo",
     "en": "It's a wooden building now, I see.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "C'est un bâtiment en bois, à présent.{ATTENTE}"
   },
   {
     "id": "E3.BIN:041:0009",
     "locuteur": "Nanjo",
     "en": "Did the Night Queen run out of funds to{SAUT}complete the castle's construction?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "La Reine de la Nuit a manqué de fonds{SAUT}pour finir la construction du château?{ATTENTE}"
   },
   {
     "id": "E3.BIN:041:0010",
     "locuteur": "Brown",
     "en": "Oh, hell no! This place is even colder!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Oh, non! Il fait encore plus froid ici!{ATTENTE}"
   },
   {
     "id": "E3.BIN:041:0011",
     "locuteur": "Elly",
     "en": "This place...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Cet endroit...{ATTENTE}"
   },
   {
     "id": "E3.BIN:042:0000",
     "locuteur": "Yukino",
     "en": "That Night Queen was calling the frozen{SAUT}school an Ice Castle...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "La Reine de la Nuit appelait le lycée{SAUT}gelé un Château de Glace...{ATTENTE}"
   },
   {
     "id": "E3.BIN:042:0001",
     "locuteur": "Yukino",
     "en": "And yeah, it's a castle, all right.{SAUT}Going forward is a real pain.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Et ouais, c'est bien un château.{SAUT}Avancer est une vraie plaie.{ATTENTE}"
   },
   {
     "id": "E3.BIN:042:0002",
     "locuteur": "Ayase",
     "en": "I've always been bad at stuff like mazes{SAUT}and funhouses. Grrrr! This, like, sucks!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "J'ai toujours été nulle aux labyrinthes{SAUT}et aux trucs du genre. Grrr! Ça craint!{ATTENTE}"
   },
   {
     "id": "E3.BIN:042:0003",
     "locuteur": "Nanjo",
     "en": "I'm considering implementing a labyrinth{SAUT}to enhance my home security. Well?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "J'envisage un labyrinthe pour sécuriser{SAUT}ma demeure. Qu'en dis-tu?{ATTENTE}"
   },
   {
     "id": "E3.BIN:042:0004",
     "locuteur": "Brown",
     "en": "Why's this place so huge!? Does it{SAUT}actually end...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Pourquoi c'est si immense!? Ça a{SAUT}une fin, au moins...?{ATTENTE}"
   },
   {
     "id": "E3.BIN:042:0005",
     "locuteur": "Elly",
     "en": "There is no turning back now.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Plus de retour en arrière.{ATTENTE}"
   }
 ]

@@ -3,84 +3,84 @@
     "id": "E1.BIN:200:0000",
     "locuteur": "Night Queen",
     "en": "Hmhm... You came all the way up here?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reine de la Nuit",
+    "fr": "Hmhm... Vous êtes montés jusqu'ici?{ATTENTE}"
   },
   {
     "id": "E1.BIN:200:0001",
     "locuteur": "Night Queen",
     "en": "It would have been easier if you'd just{SAUT}waited for the Eternal Night to fall.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reine de la Nuit",
+    "fr": "Il aurait été plus simple d'attendre{SAUT}que tombe la Nuit Éternelle.{ATTENTE}"
   },
   {
     "id": "E1.BIN:200:0002",
     "locuteur": "Night Queen",
     "en": "But if you insist... I shall grant your{SAUT}wish with despair.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reine de la Nuit",
+    "fr": "Si vous insistez... J'exaucerai{SAUT}votre voeu par le désespoir.{ATTENTE}"
   },
   {
     "id": "E1.BIN:200:0003",
     "locuteur": "Night Queen",
     "en": "You won't find me as easy as Tomomi.{PAUSE}[1E00]{SAUT}Hmhmhmhm...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reine de la Nuit",
+    "fr": "Je serai moins facile que Tomomi.{PAUSE}[1E00]{SAUT}Hmhmhmhm...{ATTENTE}"
   },
   {
     "id": "E1.BIN:200:0004",
     "locuteur": "Masked girl",
     "en": "Why are you trying so hard to protect{SAUT}this place?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Fille masquée",
+    "fr": "Pourquoi tant lutter pour{SAUT}protéger ce lieu?{ATTENTE}"
   },
   {
     "id": "E1.BIN:200:0005",
     "locuteur": "Masked girl",
     "en": "I hate school... {PAUSE}[1E00]I wish it would{SAUT}disappear from the face of the earth!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Fille masquée",
+    "fr": "Je déteste l'école... {PAUSE}[1E00]Je voudrais{SAUT}qu'elle soit rayée de la carte!{ATTENTE}"
   },
   {
     "id": "E1.BIN:200:0006",
     "locuteur": "Masked man",
     "en": "Allow us to assist you, Night Queen.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme masqué",
+    "fr": "Nous vous assistons, Reine de la Nuit.{ATTENTE}"
   },
   {
     "id": "E1.BIN:200:0007",
     "locuteur": "Masked man",
     "en": "Though it's a bit crowded here for the{SAUT}three of us to combine our strength...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme masqué",
+    "fr": "Mais nous sommes un peu à l'étroit ici{SAUT}pour unir nos forces à trois...{ATTENTE}"
   },
   {
     "id": "E1.BIN:200:0008",
     "locuteur": "Masked man",
     "en": "I invite you all to the uppermost floor.{PAUSE}[1E00]{SAUT}You may take your time in coming to us.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme masqué",
+    "fr": "Je vous invite tous au dernier étage.{PAUSE}[1E00]{SAUT}Prenez votre temps pour nous rejoindre.{ATTENTE}"
   },
   {
     "id": "E1.BIN:200:0009",
     "locuteur": "Masked man",
     "en": "Are you ready?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme masqué",
+    "fr": "Êtes-vous prêts?{ATTENTE}"
   },
   {
     "id": "E1.BIN:200:0010",
     "locuteur": "Masked man",
     "en": "Have you made your preparations to{SAUT}advance to the next floor?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme masqué",
+    "fr": "Avez-vous fait vos préparatifs pour{SAUT}passer à l'étage suivant?{ATTENTE}"
   },
   {
     "id": "E1.BIN:200:0011",
     "locuteur": "Masked man",
     "en": "Very well.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Homme masqué",
     "fr": "Très bien.{ATTENTE}",
     "_occurrences": 3
   },
@@ -88,98 +88,98 @@
     "id": "E1.BIN:200:0012",
     "locuteur": "Masked man",
     "en": "Then resume your training.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme masqué",
+    "fr": "Reprenez l'entraînement.{ATTENTE}"
   },
   {
     "id": "E1.BIN:200:0013",
     "locuteur": "Masked man",
     "en": "Whether this side or that prevails in{SAUT}the end... It's no concern of mine.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme masqué",
+    "fr": "Que l'un ou l'autre camp l'emporte{SAUT}à la fin... Cela ne me concerne pas.{ATTENTE}"
   },
   {
     "id": "E1.BIN:200:0014",
     "locuteur": "Yukino",
     "en": "Let's go!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Yukino",
     "fr": "Allons-y!{ATTENTE}"
   },
   {
     "id": "E1.BIN:200:0015",
     "locuteur": "Ayase",
     "en": "I'm all set!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Je suis parée!{ATTENTE}"
   },
   {
     "id": "E1.BIN:200:0017",
     "locuteur": "Brown",
     "en": "Our happy ending's just around the corner.{SAUT}And once this place is back to normal...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Notre happy end est tout proche.{SAUT}Et quand tout sera redevenu normal...{ATTENTE}"
   },
   {
     "id": "E1.BIN:200:0018",
     "locuteur": "Brown",
     "en": "There'll be a new school legend--the{SAUT}amazing Brown and his decent flunkies!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Il y aura une nouvelle légende au lycée :{SAUT}le grand Brown et ses fidèles sbires!{ATTENTE}"
   },
   {
     "id": "E1.BIN:200:0019",
     "locuteur": "Brown",
     "en": "Mwahahahah! {PAUSE}[1E00]C'mon, let's get to it!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Mouahahahah! {PAUSE}[1E00]Allez, on s'y met!{ATTENTE}"
   },
   {
     "id": "E1.BIN:200:0020",
     "locuteur": "Elly",
     "en": "I'm glad this freezing cold won't last{SAUT}much longer.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Ravie que ce froid glacial{SAUT}touche à sa fin.{ATTENTE}"
   },
   {
     "id": "E1.BIN:202:0000",
     "locuteur": "Night Queen",
     "en": "I've been waiting for you.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Reine de la Nuit",
     "fr": "Je vous attendais.{ATTENTE}"
   },
   {
     "id": "E1.BIN:202:0001",
     "locuteur": "Masked girl",
     "en": "No more school! Ever!{ATTENTE}",
-    "locuteur_fr": "Masquée",
-    "fr": "Plus d école! Jamais!{ATTENTE}"
+    "locuteur_fr": "Fille masquée",
+    "fr": "Plus d'école! Jamais!{ATTENTE}"
   },
   {
     "id": "E1.BIN:202:0002",
     "locuteur": "Masked man",
     "en": "Let's see what you can do.{ATTENTE}",
-    "locuteur_fr": "Masque",
+    "locuteur_fr": "Homme masqué",
     "fr": "Voyons ce que vous valez.{ATTENTE}"
   },
   {
     "id": "E1.BIN:203:0000",
     "locuteur": "Night Queen's voice",
     "en": "Urgh... I failed... against these youths?{SAUT}How distressing...{ATTENTE}",
-    "locuteur_fr": "Voix de la{PAGE}Reine Nuit",
+    "locuteur_fr": "Voix de la Reine",
     "fr": "Urgh... J'ai échoué... face à ces jeunes?{SAUT}Quelle déconvenue...{ATTENTE}"
   },
   {
     "id": "E1.BIN:203:0001",
     "locuteur": "Night Queen's voice",
     "en": "But heed my words...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Voix de la Reine",
     "fr": "Mais écoutez-moi...{ATTENTE}"
   },
   {
     "id": "E1.BIN:203:0002",
     "locuteur": "Night Queen's voice",
     "en": "Eternal night will fall again so long as{SAUT}people seek to turn hope to despair...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Voix de la Reine",
     "fr": "La nuit éternelle reviendra tant que des{SAUT}gens voudront tuer l'espoir...{ATTENTE}"
   },
   {
@@ -200,21 +200,21 @@
     "id": "E1.BIN:203:0005",
     "locuteur": "Masked man",
     "en": "As I thought. Improvising didn't suffice,{SAUT}and we must take matters into our hands.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme masqué",
+    "fr": "Comme je le pensais. Improviser n'a pas{SAUT}suffi, nous devrons agir nous-mêmes.{ATTENTE}"
   },
   {
     "id": "E1.BIN:203:0006",
     "locuteur": "Masked man",
     "en": "Your name was (*PLAYER_NAME*), yes? I have{SAUT}a feeling we'll see each other again.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme masqué",
+    "fr": "Ton nom était (*PLAYER_NAME*), c'est ça? J'ai{SAUT}le sentiment qu'on se reverra.{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0000",
     "locuteur": "Ms. Saeko",
     "en": "You're really going?{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "Vous partez?{ATTENTE}"
   },
   {
@@ -243,7 +243,7 @@
     "locuteur": "Elly",
     "en": "Yes! I hope Maki and Mark are okay.{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Oui! J espère Maki et Mark vont ok.{ATTENTE}"
+    "fr": "Oui! J'espère que Maki et Mark vont bien.{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0005",
@@ -284,28 +284,28 @@
     "id": "E1.BIN:205:0011",
     "locuteur": "Yukino",
     "en": "＊sigh＊ What can I say? You'll get it{SAUT}sooner or later.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "＊soupir＊ Que dire? Tu comprendras{SAUT}tôt ou tard.{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0012",
     "locuteur": "Ms. Saeko",
     "en": "...Alright. Then you go do what you{SAUT}gotta do!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "...Bien. Alors faites ce que vous{SAUT}devez!{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0013",
     "locuteur": "Ms. Saeko",
     "en": "You're adults now, setting out on your{SAUT}own. I won't stop you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "Vous êtes adultes, partez seuls{SAUT}. Je ne vous retiens pas.{ATTENTE}"
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Vous êtes adultes, partez seuls.{SAUT}Je ne vous retiens pas.{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0014",
     "locuteur": "Ms. Saeko",
     "en": "But promise me this...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "Promettez-moi ceci...{ATTENTE}"
   },
   {
@@ -319,56 +319,56 @@
     "id": "E1.BIN:205:0016",
     "locuteur": "Ms. Saeko",
     "en": "Come back and see me before you get{SAUT}all old and wrinkled!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "Revenez me voir avant d'être tout{SAUT}vieux et ride!{ATTENTE}"
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Revenez me voir avant d'être tout{SAUT}vieux et ridés!{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0017",
     "locuteur": "Ms. Saeko",
     "en": "And come back to report in when it's{SAUT}all over with!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "Et venez me faire un rapport quand{SAUT}tout sera fini!{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0018",
     "locuteur": "Yukino",
     "en": "Oh, we will, don't worry about that!{SAUT}We're your best students, remember?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Oh, comptez sur nous, pas de souci!{SAUT}On est vos meilleures élèves, non?{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0019",
     "locuteur": "Ms. Saeko",
     "en": "She says, while wearing an outfit that's{SAUT}against the dress code.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "Dit-elle, vêtue d'une tenue contraire{SAUT}au règlement.{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0020",
     "locuteur": "Ms. Saeko",
     "en": "You should try being in my shoes, getting{SAUT}yelled at every day by the vice principal!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "Mettez-vous à ma place, à me faire crier{SAUT}dessus chaque jour par le vice-proviseur!{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0021",
     "locuteur": "Ms. Saeko",
     "en": "Haha... it looks like this incident has{SAUT}given him second thoughts, though.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "Haha... on dirait que cet incident lui{SAUT}a fait revoir ses positions.{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0022",
     "locuteur": "Ms. Saeko",
     "en": "He asked me to thank you guys.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "Il veut vous remercier.{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0023",
     "locuteur": "Ms. Saeko",
     "en": "Maybe now he won't be so strict...{SAUT}for a while, at least.{ATTENTE}",
-    "locuteur_fr": "Mme{PAGE}Saeko",
+    "locuteur_fr": "Mme Saeko",
     "fr": "Il sera peut-être moins sévère...{SAUT}pour un temps, du moins.{ATTENTE}"
   },
   {
@@ -382,14 +382,14 @@
     "id": "E1.BIN:205:0025",
     "locuteur": "Ms. Saeko",
     "en": "Oh, he's not really all that bad.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "Oh, il n'est pas si méchant.{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0026",
     "locuteur": "Ms. Saeko",
     "en": "But anyway! You should stop chitchatting{SAUT}and get going before it's too late!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "Mais bref! Arrêtez de bavarder{SAUT}et partez avant qu'il soit trop tard!{ATTENTE}"
   },
   {
@@ -397,7 +397,7 @@
     "locuteur": "Yukino",
     "en": "Right!{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Bon,!{ATTENTE}"
+    "fr": "Bon, on y va!{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0028",
@@ -452,21 +452,21 @@
     "id": "E1.BIN:205:0036",
     "locuteur": "Nanjo",
     "en": "Where there's a will, there's a way...{SAUT}That's how I feel with friends like these.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Vouloir, c'est pouvoir... Voilà ce que{SAUT}je ressens avec des amis pareils.{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0037",
     "locuteur": "Nanjo",
     "en": "Rest assured, Ms. Saeko, we'll find{SAUT}Masao and Maki!{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Sans crainte, mme Saeko, on trouvera{SAUT}Masao et Maki!{ATTENTE}"
+    "fr": "Sans crainte, Mme Saeko, on trouvera{SAUT}Masao et Maki!{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0038",
     "locuteur": "Nanjo",
     "en": "Let's go, (*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "Maki",
+    "locuteur_fr": "Nanjo",
     "fr": "Allons-y, (*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
@@ -495,7 +495,7 @@
     "locuteur": "Ayase",
     "en": "Catch you later, Ms. Saeko!{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "À plus tard, mme Saeko!{ATTENTE}"
+    "fr": "À plus tard, Mme Saeko!{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0043",
@@ -509,7 +509,7 @@
     "locuteur": "Yukino",
     "en": "Just you watch! I'll be just as awesome{SAUT}a teacher as you, Ms. Saeko!{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Tu vas voir! Je serai un prof{SAUT}aussi top que vous, mme Saeko!{ATTENTE}"
+    "fr": "Tu vas voir! Je serai une prof{SAUT}aussi top que vous, Mme Saeko!{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0045",
@@ -522,71 +522,71 @@
     "id": "E1.BIN:205:0046",
     "locuteur": "Ms. Saeko",
     "en": "Thanks for everything, (*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "Mme{PAGE}Saeko",
+    "locuteur_fr": "Mme Saeko",
     "fr": "Merci pour tout, (*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0047",
     "locuteur": "Ms. Saeko",
     "en": "Looks like they have ideas for their{SAUT}future. How about you?{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "On dirait qu'ils ont des projets{SAUT}d'avenir. Et toi?{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0048",
     "locuteur": "Ms. Saeko",
     "en": "Do you have a future in mind?{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "As-tu une idée d'avenir?{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0049",
     "locuteur": "Ms. Saeko",
     "en": "Great!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "Super!{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0050",
     "locuteur": "Ms. Saeko",
     "en": "You've done something amazing here.{SAUT}Savor that feeling and give it your all!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Tu as accompli quelque chose d'énorme.{SAUT}Savoure ça, et donne tout ce que tu as!{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0051",
     "locuteur": "Ms. Saeko",
     "en": "I see...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "Ah bon...{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0052",
     "locuteur": "Ms. Saeko",
     "en": "Well, you're still young. No need to rush.{SAUT}Anyway, look after them for me, okay?{ATTENTE}",
-    "locuteur_fr": "Mme{PAGE}Saeko",
+    "locuteur_fr": "Mme Saeko",
     "fr": "Bon, tu es jeune. Rien ne presse.{SAUT}Enfin, veille sur eux pour moi, d'accord?{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0053",
     "locuteur": "Ms. Saeko",
     "en": "Phew. Now then...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "Ouf. Bon, alors...{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0054",
     "locuteur": "Ms. Saeko",
     "en": "Hm? Hey there, little guy. Where did{SAUT}you come from?{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "Hm? Hey toi, petit. D'où{SAUT}viens-tu?{ATTENTE}"
   },
   {
     "id": "E1.BIN:205:0055",
     "locuteur": "Ms. Saeko",
     "en": "Are you here to wish them luck, too?{SAUT}Haha...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Tu es venu leur souhaiter bonne chance,{SAUT}toi aussi? Haha...{ATTENTE}"
   },
   {
     "id": "E1.BIN:207:0000",
@@ -634,15 +634,15 @@
     "id": "E1.BIN:207:0006",
     "locuteur": "Mark",
     "en": "We went to the SEBEC building, but the{SAUT}demons inside got her.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "On est allés à l'immeuble SEBEC, mais{SAUT}les démons dedans l'ont eue.{ATTENTE}"
   },
   {
     "id": "E1.BIN:207:0007",
     "locuteur": "Mark",
     "en": "They're pretty tough, and I don't think{SAUT}I can handle 'em on my own.{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Ils sont plutôt costauds, et je{SAUT}crois pas Pouvoir les gérer seul.{ATTENTE}"
+    "fr": "Ils sont plutôt costauds, et je{SAUT}crois pas pouvoir les gérer seul.{ATTENTE}"
   },
   {
     "id": "E1.BIN:207:0009",
@@ -663,7 +663,7 @@
     "locuteur": "Yukino",
     "en": "Alright!{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Ok!{ATTENTE}"
+    "fr": "OK!{ATTENTE}"
   },
   {
     "id": "E1.BIN:207:0012",

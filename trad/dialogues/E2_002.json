@@ -31,21 +31,21 @@
     "id": "E2.BIN:017:0004",
     "locuteur": "Female student",
     "en": "That company's been cursed ever since{SAUT}they tore down the haunted mansion!{ATTENTE}",
-    "locuteur_fr": "Lycéenne",
+    "locuteur_fr": "Élève",
     "fr": "Cette société est maudite depuis qu'ils{SAUT}ont démoli le manoir hante!{ATTENTE}"
   },
   {
     "id": "E2.BIN:017:0005",
     "locuteur": "Male student",
     "en": "I'm hungry... I'm gonna get a snack.{ATTENTE}",
-    "locuteur_fr": "Lycéen",
+    "locuteur_fr": "Élève",
     "fr": "J'ai faim... Je vais chercher un truc.{ATTENTE}"
   },
   {
     "id": "E2.BIN:017:0006",
     "locuteur": "Male student",
     "en": "It'll be easy if I use the secret{SAUT}shortcut! You should give it a try, too!{ATTENTE}",
-    "locuteur_fr": "Lycéen",
+    "locuteur_fr": "Élève",
     "fr": "Ce sera facile si j'utilise le passage{SAUT}secret! Tu devrais essayer aussi!{ATTENTE}"
   },
   {
@@ -143,7 +143,7 @@
     "id": "E2.BIN:020:0003",
     "locuteur": "Female student",
     "en": "I had a weird dream. It's really been{SAUT}bothering me...{ATTENTE}",
-    "locuteur_fr": "Lycéenne",
+    "locuteur_fr": "Élève",
     "fr": "J'ai fait un rêve étrange. Ça me{SAUT}tracasse vraiment...{ATTENTE}"
   },
   {
@@ -157,21 +157,21 @@
     "id": "E2.BIN:020:0005",
     "locuteur": "Female student",
     "en": "I can hear a piano and singing, and{SAUT}there's an odd old man sitting down...{ATTENTE}",
-    "locuteur_fr": "Lycéenne",
+    "locuteur_fr": "Élève",
     "fr": "J'entends un piano et un chant, et un{SAUT}vieil homme étrange est assis là...{ATTENTE}"
   },
   {
     "id": "E2.BIN:020:0006",
     "locuteur": "Female student",
     "en": "What do you think that means?{ATTENTE}",
-    "locuteur_fr": "Lycéenne",
+    "locuteur_fr": "Élève",
     "fr": "Ça veut dire quoi, à ton avis?{ATTENTE}"
   },
   {
     "id": "E2.BIN:020:0007",
     "locuteur": "Female student",
     "en": "It was a really strange dream... like it{SAUT}was hinting at something that'll happen.{ATTENTE}",
-    "locuteur_fr": "Lycéenne",
+    "locuteur_fr": "Élève",
     "fr": "C'était un rêve très étrange... comme{SAUT}s'il annonçait quelque chose à venir.{ATTENTE}"
   },
   {
@@ -227,35 +227,35 @@
     "id": "E2.BIN:022:0004",
     "locuteur": "Drama club member",
     "en": "Much has transpired on this old stage.{ATTENTE}",
-    "locuteur_fr": "Comédien",
+    "locuteur_fr": "Membre du club",
     "fr": "Que de choses sur cette vieille scène.{ATTENTE}"
   },
   {
     "id": "E2.BIN:022:0005",
     "locuteur": "Drama club member",
     "en": "Its long history has seen countless{SAUT}tears, blood, and sweat shed.{ATTENTE}",
-    "locuteur_fr": "Comédien",
+    "locuteur_fr": "Membre du club",
     "fr": "Sa longue histoire a vu couler tant de{SAUT}larmes, de sang et de sueur.{ATTENTE}"
   },
   {
     "id": "E2.BIN:022:0006",
     "locuteur": "Drama club member",
     "en": "Though the stage be no more, the passion{SAUT}of those who stood here shall not fade...{ATTENTE}",
-    "locuteur_fr": "Comédien",
+    "locuteur_fr": "Membre du club",
     "fr": "Même si la scène n'est plus, la passion de{SAUT}ceux qui l'ont foulée ne faiblira pas...{ATTENTE}"
   },
   {
     "id": "E2.BIN:022:0007",
     "locuteur": "Drama club member",
     "en": "How was that? It's a tricky speech, so it{SAUT}took me a while to memorize.{ATTENTE}",
-    "locuteur_fr": "Comédien",
+    "locuteur_fr": "Membre du club",
     "fr": "Alors? C'est une tirade difficile, il{SAUT}m'a fallu du temps pour la retenir.{ATTENTE}"
   },
   {
     "id": "E2.BIN:022:0008",
     "locuteur": "Drama club member",
     "en": "The time has come at last... The ancient{SAUT}passions cast on this stage will be free!{ATTENTE}",
-    "locuteur_fr": "Comédien",
+    "locuteur_fr": "Membre du club",
     "fr": "L'heure est enfin venue... Les passions{SAUT}antiques de cette scène seront libérées!{ATTENTE}",
     "_occurrences": 2
   },
@@ -263,7 +263,7 @@
     "id": "E2.BIN:022:0009",
     "locuteur": "Drama club member",
     "en": "Just kidding! Cool line though, huh?{SAUT}It's part of the script I wrote.{ATTENTE}",
-    "locuteur_fr": "Comedien",
+    "locuteur_fr": "Membre du club",
     "fr": "Je rigole! Classe, la réplique, hein?{SAUT}Elle vient de la pièce que j'ai écrite.{ATTENTE}",
     "_occurrences": 2
   },
@@ -327,7 +327,7 @@
     "id": "E2.BIN:023:0008",
     "locuteur": "Male student",
     "en": "There was a weird old guy waiting by the{SAUT}gates a little earlier. Pretty creepy...{ATTENTE}",
-    "locuteur_fr": "Lycéen",
+    "locuteur_fr": "Élève",
     "fr": "Un vieux type bizarre attendait près du{SAUT}portail tout a l'heure. Plutôt flippant...{ATTENTE}"
   },
   {
@@ -348,7 +348,7 @@
     "id": "E2.BIN:023:0011",
     "locuteur": "Male student",
     "en": "Are you studying too much, man?{SAUT}Haha, like that'd happen...!{ATTENTE}",
-    "locuteur_fr": "Lyceen",
+    "locuteur_fr": "Élève",
     "fr": "Tu bosses trop, mon vieux?{SAUT}Haha, comme si ça risquait d'arriver...!{ATTENTE}"
   },
   {

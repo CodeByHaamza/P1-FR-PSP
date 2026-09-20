@@ -1,5 +1,53 @@
 [
   {
+    "id": "EBOOT.BIN:BE2:OFF_29B1BA",
+    "en": " and friends were annihilated...{ATTENTE}",
+    "fr": " et ses amis ont été anéantis...{ATTENTE}",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B1FE",
+    "en": " (*APELLIDO_HEROE*) was revived.{ATTENTE}",
+    "fr": " (*APELLIDO_HEROE*) est ranimé.{ATTENTE}",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B23A",
+    "en": " points.{ATTENTE}",
+    "fr": " points.{ATTENTE}",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B24E",
+    "en": " Are you sure?{ATTENTE}",
+    "fr": " Confirmer?{ATTENTE}",
+    "max": 14
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B26E",
+    "en": " You couldn't escape!{PAUSE}[3C00]{FERME}",
+    "fr": " Fuite impossible!{PAUSE}[3C00]{FERME}",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B29E",
+    "en": " Successfully escaped.{PAUSE}[3C00]{FERME}",
+    "fr": " Fuite réussie.{PAUSE}[3C00]{FERME}",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B2F6",
+    "en": " Failed!{ATTENTE}",
+    "fr": " Échec!{ATTENTE}",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29B30A",
+    "en": " Invocation failed!{ATTENTE}",
+    "fr": " Invocation ratée!{ATTENTE}",
+    "max": 19
+  },
+  {
     "id": "EBOOT.BIN:BE2:OFF_29B334",
     "en": "Attack failed!{ATTENTE}",
     "fr": "Attaque ratée!{ATTENTE}",
@@ -132,6 +180,12 @@
     "max": 10
   },
   {
+    "id": "EBOOT.BIN:BE2:OFF_29B718",
+    "en": "Save?{ATTENTE}",
+    "fr": "Sauver?{ATTENTE}",
+    "max": 5
+  },
+  {
     "id": "EBOOT.BIN:BE2:OFF_29B726",
     "en": " A character cannot move{ATTENTE}",
     "fr": "Un personnage est bloqué{ATTENTE}",
@@ -248,355 +302,301 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_29BA76",
     "en": "Urgh... she's not the only one who's{SAUT}",
-    "fr": "",
+    "fr": "Urgh... y a pas qu'elle qui en a{SAUT}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29BAC0",
     "en": "had it...!{ATTENTE}",
-    "fr": "",
+    "fr": "marre...!{ATTENTE}",
     "max": 10
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29BAEC",
     "en": "Excuse me!? Oh, I have HAD it!{PAUSE}[1000]{SAUT}",
-    "fr": "",
+    "fr": "Pardon!? Oh, j'en ai ASSEZ!{PAUSE}[1000]{SAUT}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29BB2E",
     "en": "I'm SO not forgiving you for that!{ATTENTE}",
-    "fr": "",
+    "fr": "Je te pardonnerai JAMAIS ça!{ATTENTE}",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29BB86",
     "en": "Pbbbbt! You're uglier than death{SAUT}",
-    "fr": "",
+    "fr": "Pbbbbt! T'es plus moche qu'un{SAUT}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29BBC8",
     "en": "warmed over!{ATTENTE}",
-    "fr": "",
+    "fr": "mort-vivant!{ATTENTE}",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29BBF8",
     "en": "Transformation complete!{PAUSE}[1000]{SAUT}",
-    "fr": "",
+    "fr": "Transformation terminée!{PAUSE}[1000]{SAUT}",
     "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29BC2E",
+    "en": "Here comes Yuriko!{ATTENTE}",
+    "fr": "Voici Yuriko!{ATTENTE}",
+    "max": 18
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29BC6A",
     "en": "All righty, time to beat everyone up.{PAUSE}[1000]{SAUT}",
-    "fr": "",
+    "fr": "Bon, c'est l'heure de vous démolir.{PAUSE}[1000]{SAUT}",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29BCBA",
     "en": "Hope you're ready!{ATTENTE}",
-    "fr": "",
+    "fr": "Tenez-vous prêts!{ATTENTE}",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29BCF6",
     "en": "ScreeeeeeEEEEE! {PAUSE}[1000]Silence! Silence!{SAUT}",
-    "fr": "",
+    "fr": "Scriiiiiiiiii! {PAUSE}[1000]Silence! Silence!{SAUT}",
     "max": 33
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29BD3E",
     "en": "SILENCE!{ATTENTE}",
-    "fr": "",
+    "fr": "SILENCE!{ATTENTE}",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29BD64",
     "en": "I'll slice those insolent faces right off!{ATTENTE}",
-    "fr": "",
+    "fr": "Je vais trancher ces faces insolentes!{ATTENTE}",
     "max": 42
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29BDCA",
     "en": "Like, have you ever even SEEN a mirror!?{PAUSE}[1000]{SAUT}",
-    "fr": "",
+    "fr": "Genre, t'as déjà VU un miroir!?{PAUSE}[1000]{SAUT}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29BE20",
     "en": "You don't look like that at ALL!{ATTENTE}",
-    "fr": "",
+    "fr": "Tu ressembles PAS DU TOUT à ça!{ATTENTE}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29BE74",
     "en": "...{PAUSE}[1000]You gotta be joking! {PAUSE}[1000]I've had enough{SAUT}",
-    "fr": "",
+    "fr": "...{PAUSE}[1000]Tu plaisantes! {PAUSE}[1000]J'en ai assez{SAUT}",
     "max": 39
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29BECC",
     "en": "with the fun and games already!{ATTENTE}",
-    "fr": "",
+    "fr": "de ces enfantillages!{ATTENTE}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29BF1E",
     "en": "I'm so disgusted I can barely speak.{ATTENTE}",
-    "fr": "",
+    "fr": "Le dégoût m'en laisse sans voix.{ATTENTE}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29BF7E",
     "en": "Aaaaaaahahahaha! {PAUSE}[1000]THIS is my true form!{ATTENTE}",
-    "fr": "",
+    "fr": "Aaaaaaahahahaha! {PAUSE}[1000]VOICI ma vraie forme!{ATTENTE}",
     "max": 38
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29BFE4",
     "en": "Soooo lovely... {PAUSE}[1000]and soooo elegant!{ATTENTE}",
-    "fr": "",
+    "fr": "Siiii belle... {PAUSE}[1000]et siiii élégante!{ATTENTE}",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C040",
     "en": "Yeah, right... in your dreams, pal!{ATTENTE}",
-    "fr": "",
+    "fr": "Ouais, c'est ça... dans tes rêves!{ATTENTE}",
     "max": 35
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C09C",
     "en": "Allow me to teach you the wonders of the{SAUT}",
-    "fr": "",
+    "fr": "Découvrez les merveilles du Monde des{SAUT}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C0EE",
     "en": "Dream World...{ATTENTE}",
-    "fr": "",
+    "fr": "Rêves...{ATTENTE}",
     "max": 14
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C11E",
     "en": "An eternal slumber from whence there is{SAUT}",
-    "fr": "",
+    "fr": "Un sommeil éternel, d'où l'on ne{SAUT}",
     "max": 39
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C16E",
     "en": "no awakening...{ATTENTE}",
-    "fr": "",
+    "fr": "s'éveille pas...{ATTENTE}",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C1BE",
     "en": "Whoa whoa whoa... {PAUSE}[1000]What IS this thing!?{ATTENTE}",
-    "fr": "",
+    "fr": "Oh oh oh... {PAUSE}[1000]C'est QUOI, ce truc!?{ATTENTE}",
     "max": 38
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C220",
     "en": "I didn't give it permission to come out{SAUT}",
-    "fr": "",
+    "fr": "Je l'ai pas autorisé à sortir de moi{SAUT}",
     "max": 39
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C270",
     "en": "of me like that!{ATTENTE}",
-    "fr": "",
+    "fr": "comme ça!{ATTENTE}",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C2A2",
     "en": "Yikes! {PAUSE}[1000]Huh? What the--!? {PAUSE}[1000]{SAUT}",
-    "fr": "",
+    "fr": "Aïe! {PAUSE}[1000]Hein? Mais que--!? {PAUSE}[1000]{SAUT}",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C2DE",
     "en": "What NOW!?{ATTENTE}",
-    "fr": "",
+    "fr": "ENCORE!?{ATTENTE}",
     "max": 10
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C308",
     "en": "Agh! {PAUSE}[1000]Dammit... How dare you!?{ATTENTE}",
-    "fr": "",
+    "fr": "Agh! {PAUSE}[1000]Bon sang... Vous osez!?{ATTENTE}",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C358",
     "en": "Ahahahahahahahahaha... {PAUSE}[1000]It's much, much,{SAUT}",
-    "fr": "",
+    "fr": "Ahahahahahahahahaha... {PAUSE}[1000]C'est bien, bien,{SAUT}",
     "max": 39
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C3AC",
     "en": "much, much, much too laaaaate!{ATTENTE}",
-    "fr": "",
+    "fr": "bien, bien, bien trop taaaard!{ATTENTE}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C3F8",
     "en": "Eat THIS!{ATTENTE}",
-    "fr": "",
+    "fr": "Prends ÇA!{ATTENTE}",
     "max": 9
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C41E",
     "en": "Haha... ha... {PAUSE}[1000]S-Sorry, Kenta. {PAUSE}[1000]Is, uh, it{SAUT}",
-    "fr": "",
+    "fr": "Haha... ha... {PAUSE}[1000]D-Désolé, Kenta. {PAUSE}[1000]C'est{SAUT}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C478",
     "en": "too late to apologize?{ATTENTE}",
-    "fr": "",
+    "fr": "trop tard pour s'excuser?{ATTENTE}",
     "max": 22
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C4B8",
     "en": "Whoa! {PAUSE}[1000]What's with him!?{ATTENTE}",
-    "fr": "",
+    "fr": "Oh! {PAUSE}[1000]Qu'est-ce qu'il a!?{ATTENTE}",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C502",
     "en": "Why won't you give up?{PAUSE}[1000] Please...{SAUT}",
-    "fr": "",
+    "fr": "Pourquoi tu renonces pas?{PAUSE}[1000] Pitié...{SAUT}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C548",
     "en": "give up... {PAUSE}[1000]please...{ATTENTE}",
-    "fr": "",
+    "fr": "renonce... {PAUSE}[1000]pitié...{ATTENTE}",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C584",
     "en": "It's beautiful...{ATTENTE}",
-    "fr": "",
+    "fr": "C'est magnifique...{ATTENTE}",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C5B8",
     "en": "Damn, man...{ATTENTE}",
-    "fr": "",
+    "fr": "Bon sang...{ATTENTE}",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C5E6",
     "en": "Aaaaaaaah!{ATTENTE}",
-    "fr": "",
+    "fr": "Aaaaaaaah!{ATTENTE}",
     "max": 10
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C612",
     "en": "Rrrrwwaaaaa...! {PAUSE}[1000]Now, let us disappear{SAUT}",
-    "fr": "",
+    "fr": "Rrrrwwaaaaa...! {PAUSE}[1000]Disparaissons{SAUT}",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C662",
     "en": "togetherrrr!{ATTENTE}",
-    "fr": "",
+    "fr": "ensemmmble!{ATTENTE}",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C692",
     "en": "I am Kandori... {PAUSE}[1000]{PAUSE}[1000]God Kandori...{ATTENTE}",
-    "fr": "",
+    "fr": "Moi, Kandori... {PAUSE}[1000]{PAUSE}[1000]Dieu Kandori...{ATTENTE}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C6EA",
     "en": "Have his body and soul been dominated{SAUT}",
-    "fr": "",
+    "fr": "Son corps et son âme sont dominés{SAUT}",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C736",
     "en": "by the Persona!?{ATTENTE}",
-    "fr": "",
+    "fr": "par le Persona!?{ATTENTE}",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C768",
     "en": "Holy shit...{ATTENTE}",
-    "fr": "",
+    "fr": "La vache...{ATTENTE}",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C790",
     "en": "Wh-What the!?{ATTENTE}",
-    "fr": "",
+    "fr": "Q-Quoi!?{ATTENTE}",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29C7C2",
     "en": "N-Nooooo!{ATTENTE}",
-    "fr": "",
+    "fr": "N-Nooooon!{ATTENTE}",
     "max": 9
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29C7DA",
-    "en": "Nyarlathotep's voice{SAUT}",
-    "fr": "",
-    "max": 20
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29C804",
-    "en": "Hohohoh... {PAUSE}[1000]Foolish man who has gone{SAUT}",
-    "fr": "",
-    "max": 35
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29C850",
-    "en": "astray...{ATTENTE}",
-    "fr": "",
-    "max": 9
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29C892",
-    "en": "I shall give you the power you desire.{ATTENTE}",
-    "fr": "",
-    "max": 38
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29C8F6",
-    "en": "Nrrrrrrrghaaaaaaa!?{ATTENTE}",
-    "fr": "",
-    "max": 19
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29C932",
-    "en": "Wh-What the... Something's forcing{PAUSE}[1000]{PAUSE}[1000]{SAUT}",
-    "fr": "",
-    "max": 34
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29C9BA",
-    "en": "Ngh... {PAUSE}[1000]{PAUSE}[1000]{PAUSE}[1000]I refuse to accept this!{PAUSE}[1000]{SAUT}",
-    "fr": "",
-    "max": 31
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29CA0A",
-    "en": "I'm supposed to have transcended man!{ATTENTE}",
-    "fr": "",
-    "max": 37
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29CA6A",
-    "en": "Who am I!? {PAUSE}[1000]{PAUSE}[1000]I am Takahisa Kandori!{PAUSE}[1000]{PAUSE}[1000]{SAUT}",
-    "fr": "",
-    "max": 33
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29CB12",
-    "en": "Kandori... {PAUSE}[1000]We'll close the curtain on{SAUT}",
-    "fr": "",
-    "max": 37
   }
 ]

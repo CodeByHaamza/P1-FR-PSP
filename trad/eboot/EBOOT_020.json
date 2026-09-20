@@ -1,5 +1,24 @@
 [
   {
+    "id": "EBOOT.BIN:BE2:OFF_27A3D0",
+    "en": "Medium Blast damage (area)(*TERMINATOR*)",
+    "fr": "Éclat moyen (zone)(*TERMINATOR*)",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A406",
+    "en": " Medium Blast damage (area)(*TERMINATOR*)",
+    "fr": " Éclat moyen (zone)(*TERMINATOR*)",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27A43E",
+    "en": " Medium Earth damage (area)(*TERMINATOR*)",
+    "fr": " Terre moyen (zone)(*TERMINATOR*)",
+    "max": 27,
+    "_occurrences": 2
+  },
+  {
     "id": "EBOOT.BIN:BE2:OFF_27A4AE",
     "en": " Medium Wind damage (area)(*TERMINATOR*)",
     "fr": " Vent moyen (zone)(*TERMINATOR*)",
@@ -589,25 +608,5 @@
     "fr": "Faible : Éléments, Force{FERME}",
     "max": 20,
     "_occurrences": 9
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_27C3F6",
-    "en": "                                                                                       Absorb: 100% Physical{SAUT}",
-    "fr": "                                                                                     Absorbe : 100% Physique{SAUT}",
-    "max": 108,
-    "_occurrences": 2
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_27C4FA",
-    "en": "                                                                                     Null: Wind{SAUT}",
-    "fr": "                                                                                  Annule : Vent{SAUT}",
-    "max": 95
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_27C5BA",
-    "en": "Weak: Gun{FERME}",
-    "fr": "Faible : Tir{FERME}",
-    "max": 9,
-    "_occurrences": 2
   }
 ]

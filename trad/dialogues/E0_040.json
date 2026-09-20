@@ -206,7 +206,7 @@
     "id": "E0.BIN:149:0030",
     "locuteur": "Mark",
     "en": "Maki...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mark",
     "fr": "Maki...{ATTENTE}"
   },
   {
@@ -255,7 +255,7 @@
     "id": "E0.BIN:149:0037",
     "locuteur": "Maki",
     "en": "Erusaer Tsymmom.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Maki",
     "fr": "Namam ed rosert.{ATTENTE}",
     "_occurrences": 2
   },

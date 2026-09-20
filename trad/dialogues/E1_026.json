@@ -3,15 +3,15 @@
     "id": "E1.BIN:145:0000",
     "locuteur": "Yukino",
     "en": "(*APELLIDO_HEROE*)! Hold up the mirror!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "(*APELLIDO_HEROE*)! Brandis le miroir!{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0001",
     "locuteur": "Ayase",
     "en": "N-No way...{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "N-Pas vrai...{ATTENTE}"
+    "fr": "P-Pas vrai...{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0002",
@@ -24,8 +24,8 @@
     "id": "E1.BIN:145:0003",
     "locuteur": "Brown",
     "en": "......?{SAUT}What the...? It just flashed.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "......?{SAUT}Hein...? Il a juste clignoté.{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0004",
@@ -39,34 +39,34 @@
     "locuteur": "Ayase",
     "en": "We all tried so hard to gather the{SAUT}Mirror Shards...{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "On a tant lutte pour réunir les{SAUT}Eclats du miroir...{ATTENTE}"
+    "fr": "On a tant lutté pour réunir les{SAUT}Fragments de Miroir...{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0006",
     "locuteur": "Ayase",
     "en": "C-C'mon, let's try holding it up again!{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "C-Allez, brandissons-le encore!{ATTENTE}"
+    "fr": "A-Allez, brandissons-le encore!{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0007",
     "locuteur": "Yukino",
     "en": "This can't be happening... T-Try again!{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Ça ne peut pas arriver... T-Encore!{ATTENTE}"
+    "fr": "Ça ne peut pas arriver... E-Encore!{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0008",
     "locuteur": "Snow Queen's voice",
     "en": "Ahaha... There's no use in thrusting that{SAUT}gap-riddled mirror at me.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Voix de la Reine",
     "fr": "Ahaha... Inutile de brandir contre moi{SAUT}ce miroir crible de brèches.{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0009",
     "locuteur": "Snow Queen's voice",
     "en": "You've lost.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Voix de la Reine",
     "fr": "Vous avez perdu.{ATTENTE}"
   },
   {
@@ -88,28 +88,28 @@
     "id": "E1.BIN:145:0012",
     "locuteur": "Snow Queen",
     "en": "Ahahahah... You did well in gathering the{SAUT}shards, but not well enough, it seems.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Reine des Neiges",
     "fr": "Ahahahah... Vous avez bien réuni les{SAUT}éclats, mais pas assez, on dirait.{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0013",
     "locuteur": "Snow Queen",
     "en": "Now, come!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Reine des Neiges",
     "fr": "Venez!{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0014",
     "locuteur": "Snow Queen",
     "en": "Join your Saeko in tasting the eternal{SAUT}despair of pitch-black night!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Reine des Neiges",
     "fr": "Rejoignez votre Saeko et sombrez{SAUT}dans la nuit de désespoir noire!{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0015",
     "locuteur": "Snow Queen",
     "en": "Guh... aaah...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Reine des Neiges",
     "fr": "Gah, aaah...{ATTENTE}"
   },
   {
@@ -123,7 +123,7 @@
     "id": "E1.BIN:145:0017",
     "locuteur": "Snow Queen",
     "en": "Gyaaaaaaaah! My face... it's buuurniiiing!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Reine des Neiges",
     "fr": "Gyaaaaaaaah! Mon visage... il bruuule!{ATTENTE}"
   },
   {
@@ -151,8 +151,8 @@
     "id": "E1.BIN:145:0021",
     "locuteur": "Brown",
     "en": "Holy son of a--Wh-Wh-Wh-What the hell!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Nom d'un--Q-Q-Q-Qu'est-ce que c'est!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0022",
@@ -165,35 +165,35 @@
     "id": "E1.BIN:145:0023",
     "locuteur": "Ms. Saeko",
     "en": "You've all become so strong in such a{SAUT}short time.{ATTENTE}",
-    "locuteur_fr": "Mme{PAGE}Saeko",
+    "locuteur_fr": "Mme Saeko",
     "fr": "Vous êtes tous devenus si forts en si{SAUT}peu de temps.{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0024",
     "locuteur": "Ms. Saeko",
     "en": "You have a look in your eye that says{SAUT}there's nothing you can't do.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "Vous avez ce regard qui dit que{SAUT}rien ne vous résiste.{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0025",
     "locuteur": "Ms. Saeko",
     "en": "I have a feeling you're capable of taking{SAUT}care of the rest.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "J'ai le sentiment que vous saurez{SAUT}vous occuper du reste.{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0026",
     "locuteur": "Ms. Saeko",
     "en": "Please sever the curse of the mask!{SAUT}It's brought pain to so many students!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Brisez la malédiction du masque!{SAUT}Elle a fait souffrir tant d'élèves!{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0027",
     "locuteur": "Ms. Saeko",
     "en": "I'm counting on you...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "Je compte sur vous...{ATTENTE}"
   },
   {
@@ -207,8 +207,8 @@
     "id": "E1.BIN:145:0029",
     "locuteur": "Yukino",
     "en": "The bitch said she'd \"unleash the snows of{SAUT}despair from the heights of the castle.\"{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Cette garce a dit qu'elle \"déchaînerait{SAUT}le désespoir du haut du château\".{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0030",
@@ -228,8 +228,8 @@
     "id": "E1.BIN:145:0032",
     "locuteur": "Ayase",
     "en": "Does it feel a little warmer to you?{SAUT}Y'think the Queen's losing her power?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Vous trouvez pas qu'il fait plus chaud?{SAUT}La Reine perd ses pouvoirs, vous croyez?{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0033",
@@ -270,8 +270,8 @@
     "id": "E1.BIN:145:0038",
     "locuteur": "Brown",
     "en": "Night Queen? Sounds like some hostess at{SAUT}a Ginza club. How strong could she be?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Reine de la Nuit? On dirait une hôtesse{SAUT}de bar à Ginza. Elle doit pas être forte.{ATTENTE}"
   },
   {
     "id": "E1.BIN:145:0039",
@@ -312,7 +312,7 @@
     "id": "E1.BIN:147:0003",
     "locuteur": "Ms. Saeko",
     "en": "I'm all right, thank you. But... where{SAUT}is Tomomi?{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "Je vais bien, merci. Mais... où{SAUT}est Tomomi?{ATTENTE}"
   },
   {
@@ -333,21 +333,21 @@
     "id": "E1.BIN:147:0006",
     "locuteur": "Ms. Saeko",
     "en": "Tomomi is the spirit who was possessing{SAUT}that mask...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "Tomomi est l'esprit qui possédait{SAUT}ce masque...{ATTENTE}"
   },
   {
     "id": "E1.BIN:147:0007",
     "locuteur": "Ms. Saeko",
     "en": "She's one of the students who fell under{SAUT}the Snow Queen's thrall.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "C'est une élève tombée sous{SAUT}l'emprise de la reine des neiges.{ATTENTE}"
   },
   {
     "id": "E1.BIN:147:0008",
     "locuteur": "Ms. Saeko",
     "en": "She's... also my best friend, from when{SAUT}I used to be in the drama club.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "C'est aussi ma meilleure amie, du{SAUT}temps où j'étais au club de théâtre.{ATTENTE}"
   },
   {
@@ -369,14 +369,14 @@
     "locuteur": "Elly",
     "en": "But whyever would your best friend{SAUT}possess you?{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Mais pourquoi votre amie{SAUT}vous posséder?{ATTENTE}"
+    "fr": "Mais pourquoi votre amie{SAUT}vous posséderait-elle?{ATTENTE}"
   },
   {
     "id": "E1.BIN:147:0012",
     "locuteur": "Nanjo",
     "en": "Hm. No wonder it seemed to know you.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Hm. Voilà pourquoi elle vous savait.{ATTENTE}"
+    "fr": "Hm. Voilà pourquoi elle vous connaissait.{ATTENTE}"
   },
   {
     "id": "E1.BIN:147:0013",
@@ -389,294 +389,294 @@
     "id": "E1.BIN:147:0014",
     "locuteur": "Ms. Saeko",
     "en": "I had no idea she thought of me{SAUT}that way...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mme Saeko",
     "fr": "J'ignorais qu'elle me voyait{SAUT}ainsi...{ATTENTE}"
   },
   {
     "id": "E1.BIN:147:0015",
     "locuteur": "Ms. Saeko",
     "en": "I guess... sometimes you hurt people{SAUT}without realizing it...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "Parfois... on blessé les gens{SAUT}sans s'en rendre compte...{ATTENTE}"
+    "locuteur_fr": "Mme Saeko",
+    "fr": "Parfois... on blesse les gens{SAUT}sans s'en rendre compte...{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0000",
     "locuteur": "Saeko",
     "en": "Congrats on landing the Snow Queen part!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Saeko",
+    "fr": "Bravo pour le rôle de Reine des Neiges!{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0001",
     "locuteur": "Saeko",
     "en": "Our last year here, and you finally{SAUT}beat me out.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Saeko",
+    "fr": "Notre dernière année ici, et tu{SAUT}m'as enfin battue.{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0002",
     "locuteur": "Tomomi",
     "en": "Thanks. I'll put on a good show for you,{SAUT}Saeko!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tomomi",
+    "fr": "Merci. Je te promets un beau spectacle,{SAUT}Saeko!{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0003",
     "locuteur": "Tomomi",
     "en": "But I'm nervous about the mask...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tomomi",
+    "fr": "Mais le masque m'inquiète...{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0004",
     "locuteur": "Tomomi",
     "en": "Is it true everyone who's played the{SAUT}Snow Queen's role has been cursed?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tomomi",
+    "fr": "C'est vrai que toutes celles qui ont joué{SAUT}la Reine des Neiges ont été maudites?{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0005",
     "locuteur": "Saeko",
     "en": "Whaaat? Hey, I'm sure that's just some{SAUT}superstition!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Saeko",
+    "fr": "Quoiii? Hé, c'est sûrement juste{SAUT}une superstition!{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0006",
     "locuteur": "Saeko",
     "en": "Just keep up that cheerful attitude and{SAUT}I bet any curse wouldn't dare touch you!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Saeko",
+    "fr": "Garde ta bonne humeur et je parie{SAUT}qu'aucun sort n'osera t'approcher!{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0007",
     "locuteur": "Saeko",
     "en": "That tendency of yours to believe whatever{SAUT}you hear is the one flaw you have!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Saeko",
+    "fr": "Ta manie de croire tout ce que tu{SAUT}entends, c'est ton seul défaut!{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0008",
     "locuteur": "Tomomi",
     "en": "I wish... I wish I could be as strong{SAUT}as you, Saeko.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tomomi",
+    "fr": "J'aimerais... J'aimerais être aussi{SAUT}forte que toi, Saeko.{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0009",
     "locuteur": "Saeko",
     "en": "C'mon, don't talk like that! Cheer up!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Saeko",
+    "fr": "Allez, parle pas comme ça! Souris!{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0010",
     "locuteur": "Saeko",
     "en": "You won the title role! What am I supposed{SAUT}to think if you're not happier about it?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Saeko",
+    "fr": "T'as le rôle-titre! Que veux-tu que je{SAUT}pense si t'es pas plus contente que ça?{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0011",
     "locuteur": "Tomomi",
     "en": "Y-You're right.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tomomi",
+    "fr": "T-Tu as raison.{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0012",
     "locuteur": "Drama club member",
     "en": "Whaaaat!? Tomomi, can't you see Saeko is{SAUT}pulling the wool over your eyes?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre du club",
+    "fr": "Quoiii!? Tomomi, tu vois pas que Saeko{SAUT}te mène en bateau?{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0013",
     "locuteur": "Tomomi",
     "en": "Huh!? She tricked me?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tomomi",
+    "fr": "Hein!? Elle m'a piégée?{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0014",
     "locuteur": "Drama club member",
     "en": "You didn't know!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre du club",
+    "fr": "Tu savais pas!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0015",
     "locuteur": "Drama club member",
     "en": "Saeko bowed out of contention for the{SAUT}Snow Queen part.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre du club",
+    "fr": "Saeko s'est retirée de la course{SAUT}au rôle de la Reine des Neiges.{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0016",
     "locuteur": "Drama club member",
     "en": "Everyone's been talking about it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre du club",
+    "fr": "Tout le monde en parle.{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0017",
     "locuteur": "Drama club member",
     "en": "They say she forced the part on you{SAUT}'cause she's scared of the mask's curse.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre du club",
+    "fr": "On dit qu'elle t'a refilé le rôle parce{SAUT}qu'elle a peur de la malédiction.{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0018",
     "locuteur": "Tomomi",
     "en": "She withdrew... because she's scared of{SAUT}the curse...? No way!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tomomi",
+    "fr": "Elle s'est retirée... par peur de la{SAUT}malédiction...? Impossible!{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0019",
     "locuteur": "Tomomi",
     "en": "Even if she did bow out, I'm sure she{SAUT}was just being considerate!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tomomi",
+    "fr": "Même si elle s'est retirée, c'était{SAUT}sûrement par gentillesse!{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0020",
     "locuteur": "Tomomi",
     "en": "We're in the same year, but I've never{SAUT}gotten a better role than her, so...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tomomi",
+    "fr": "On est dans la même année, mais j'ai{SAUT}jamais eu de meilleur rôle qu'elle...{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0021",
     "locuteur": "Drama club member",
     "en": "So she's letting you take this last{SAUT}chance? You're so naive, Tomomi.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre du club",
+    "fr": "Alors elle te laisse cette dernière{SAUT}chance? T'es si naïve, Tomomi.{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0022",
     "locuteur": "Drama club member",
     "en": "The Snow Queen is the title role!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre du club",
+    "fr": "La Reine des Neiges, c'est le rôle-titre!{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0023",
     "locuteur": "Drama club member",
     "en": "No one would give it up without a damn{SAUT}good reason.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre du club",
+    "fr": "Personne n'y renoncerait sans une{SAUT}sacrée bonne raison.{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0024",
     "locuteur": "Tomomi",
     "en": "......{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tomomi",
+    "fr": "......{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0025",
     "locuteur": "Saeko",
     "en": "Tomomi? Did you call for me? Is something{SAUT}the matter...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Saeko",
+    "fr": "Tomomi? Tu m'as appelée? Il y a{SAUT}un problème...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0026",
     "locuteur": "Saeko",
     "en": "Why are you hiding?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Saeko",
+    "fr": "Pourquoi tu te caches?{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0027",
     "locuteur": "Saeko",
     "en": "Well... break a leg tomorrow! I'll be{SAUT}looking forward to it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Saeko",
+    "fr": "Bon... bonne chance pour demain! J'ai{SAUT}hâte de voir ça.{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0028",
     "locuteur": "Tomomi",
     "en": "...Your... {PAUSE}[1E00]...ault...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tomomi",
+    "fr": "...Ta... {PAUSE}[1E00]...aute...{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0029",
     "locuteur": "Saeko",
     "en": "What was that? I can't hear you!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Saeko",
+    "fr": "Quoi? Je t'entends pas!{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0030",
     "locuteur": "Tomomi",
     "en": "It'ssss... {PAUSE}[1E00]your... {PAUSE}[1E00]faaaaaaault!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tomomi",
+    "fr": "C'esssst... {PAUSE}[1E00]ta... {PAUSE}[1E00]faaaaaaute!{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0031",
     "locuteur": "Tomomi",
     "en": "Yours, {PAUSE}[0F00]yours, {PAUSE}[0F00]yours! It'ssss all{PAUSE}[0F00]{SAUT}your faaaaaault!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tomomi",
+    "fr": "Ta, {PAUSE}[0F00]ta, {PAUSE}[0F00]ta faute! C'esssst{PAUSE}[0F00]{SAUT}ta faaaaaaute!{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0032",
     "locuteur": "Saeko",
     "en": "Huh!? Tomomi, what's gotten into you!?{SAUT}Calm down!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Saeko",
+    "fr": "Hein!? Tomomi, qu'est-ce qui te prend!?{SAUT}Calme-toi!{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0033",
     "locuteur": "Tomomi",
     "en": "You... {PAUSE}[1E00]you forced the masssk onto meee...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tomomi",
+    "fr": "Tu... {PAUSE}[1E00]tu m'as forcée à mettre le massssque...{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0034",
     "locuteur": "Saeko",
     "en": "Tomomi... are you all right? What's this{SAUT}about the mask?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Saeko",
+    "fr": "Tomomi... ça va? C'est quoi cette{SAUT}histoire de masque?{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0035",
     "locuteur": "Tomomi",
     "en": "The mask... the mask... {PAUSE}[1E00]suddenly wouldn't{SAUT}come... off... {PAUSE}[1E00]it got so hot... hot!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tomomi",
+    "fr": "Le masque... le masque... {PAUSE}[1E00]d'un coup il{SAUT}s'enlevait... plus... {PAUSE}[1E00]il chauffait... chauffait!{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0036",
     "locuteur": "Tomomi",
     "en": "My face started... {PAUSE}[1E00]it started{SAUT}sizzzzzling...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tomomi",
+    "fr": "Mon visage s'est mis à... {PAUSE}[1E00]il s'est{SAUT}mis à grésssssiller...{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0037",
     "locuteur": "Tomomi",
     "en": "And it's all... {PAUSE}[1E00]all... {PAUSE}[1E00]ALL!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tomomi",
+    "fr": "Et tout ça... {PAUSE}[1E00]c'est... {PAUSE}[1E00]C'EST!{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0038",
     "locuteur": "Tomomi",
     "en": "YOUR! FAAAAAAULT!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tomomi",
+    "fr": "TA! FAAAAAAUTE!{ATTENTE}"
   },
   {
     "id": "E1.BIN:148:0039",
     "locuteur": "Saeko",
     "en": "Eeee{PAUSE}[0600]e{PAUSE}[0600]e{PAUSE}[0600]e{PAUSE}[0600]eek!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Saeko",
+    "fr": "Iiii{PAUSE}[0600]i{PAUSE}[0600]i{PAUSE}[0600]i{PAUSE}[0600]iik!{ATTENTE}"
   }
 ]

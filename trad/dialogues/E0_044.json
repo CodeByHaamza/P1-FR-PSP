@@ -3,22 +3,22 @@
     "id": "E0.BIN:162:0000",
     "locuteur": "Setsuko Sonomura",
     "en": "Maki, it's me! Your mother! Let's go{SAUT}back together!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Setsuko Sonomura",
     "fr": "Maki, c'est moi! Ta mère! Rentrons{SAUT}ensemble!{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0001",
     "locuteur": "Setsuko Sonomura",
     "en": "Look! These people came all this way{SAUT}because they were worried about you!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Setsuko Sonomura",
     "fr": "Regarde! Ces gens ont fait ce chemin{SAUT}car ils s'inquiétaient pour toi!{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0002",
     "locuteur": "Maki",
     "en": "Don't come near me! Why...{SAUT}Why did you all come here!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "M'approchez pas! Pourquoi...{SAUT}Pourquoi vous êtes tous venus ici!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0003",
@@ -87,7 +87,7 @@
     "id": "E0.BIN:162:0013",
     "locuteur": "Elly",
     "en": "Maki...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Elly",
     "fr": "Maki...{ATTENTE}"
   },
   {
@@ -222,8 +222,8 @@
     "id": "E0.BIN:162:0034",
     "locuteur": "Reiji",
     "en": "Heh...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Heh...{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0035",
@@ -257,8 +257,8 @@
     "id": "E0.BIN:162:0039",
     "locuteur": "Setsuko Sonomura",
     "en": "＊sniffle＊ Thank you, all of you...{SAUT}Thank you so much...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "＊snif＊ Merci, merci à vous tous...{SAUT}Merci du fond du coeur...{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0040",
@@ -271,8 +271,8 @@
     "id": "E0.BIN:162:0041",
     "locuteur": "Maki",
     "en": "I was so lonely being by myself...{SAUT}It hurt... I wanted to see you...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "J'étais si seule, toute seule...{SAUT}Ça faisait mal... Je voulais te voir...{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0042",
@@ -285,7 +285,7 @@
     "id": "E0.BIN:162:0043",
     "locuteur": "Setsuko Sonomura",
     "en": "It's okay. It's all right, Maki...{SAUT}I'm sorry, too.{ATTENTE}",
-    "locuteur_fr": "Setsuko{PAGE}Sonomura",
+    "locuteur_fr": "Setsuko Sonomura",
     "fr": "C'est rien. Tout va bien, Maki...{SAUT}Moi aussi, je suis désolée.{ATTENTE}"
   },
   {
@@ -327,15 +327,15 @@
     "id": "E0.BIN:162:0049",
     "locuteur": "Nanjo",
     "en": "S-Silence, Masao! Honestly...{SAUT}Let's get back, (*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "S-Silence, Masao! Franchement...{SAUT}Rentrons, (*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0050",
     "locuteur": "Nanjo",
     "en": "(*APELLIDO_HEROE*) is right! You've sown these{SAUT}seeds and now it's time to reap them!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "(*APELLIDO_HEROE*) a raison! Vous avez semé{SAUT}ces graines, il est temps de récolter!{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0053",
@@ -355,8 +355,8 @@
     "id": "E0.BIN:162:0055",
     "locuteur": "Maki",
     "en": "Plus, I have (*APELLIDO_HEROE*) and the rest of{SAUT}you with me! That's all I need...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Et puis j'ai (*APELLIDO_HEROE*) et vous tous{SAUT}avec moi! Il ne me faut rien d'autre...{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0056",
@@ -383,15 +383,15 @@
     "id": "E0.BIN:162:0059",
     "locuteur": "Elly",
     "en": "Whew, it all worked out. But (*APELLIDO_HEROE*),{SAUT}if that had happened to me...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Ouf, tout s'est arrangé. Mais (*APELLIDO_HEROE*),{SAUT}si ça m'était arrivé, à moi...{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0060",
     "locuteur": "Elly",
     "en": "Oh, I shouldn't act so weird. Sorry.{SAUT}{PAUSE}[5800]I'm sure you'd come and rescue me...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Oh, je ne devrais pas être si bizarre.{SAUT}{PAUSE}[5800]Pardon. Je sais que tu me sauverais...{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0061",
@@ -411,35 +411,35 @@
     "id": "E0.BIN:162:0063",
     "locuteur": "Brown",
     "en": "＊sniff＊ That was so touching, even I{SAUT}couldn't help but tear up...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "＊snif＊ C'était si touchant que même{SAUT}moi, j'ai pas pu retenir mes larmes...{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0064",
     "locuteur": "Ayase",
     "en": "That was pretty harsh, (*APELLIDO_HEROE*).{SAUT}I was worried about what might happen.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "T'as été plutôt dur, (*APELLIDO_HEROE*).{SAUT}J'avais peur de ce qui allait arriver.{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0065",
     "locuteur": "Ayase",
     "en": "That was pretty harsh, (*APODO_HEROE*).{SAUT}I was worried about what might happen.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "T'as été plutôt dur, (*APODO_HEROE*).{SAUT}J'avais peur de ce qui allait arriver.{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0066",
     "locuteur": "Setsuko Sonomura",
     "en": "I don't know how to thank you all...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Setsuko Sonomura",
     "fr": "Je ne sais comment vous remercier...{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0067",
     "locuteur": "Setsuko Sonomura",
     "en": "Maki's a lucky girl to have so many{SAUT}friends. Thanks again...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Setsuko Sonomura",
     "fr": "Maki a de la chance d'avoir tant{SAUT}d'amis. Merci encore...{ATTENTE}"
   },
   {
@@ -495,7 +495,7 @@
     "id": "E0.BIN:177:0006",
     "locuteur": "Mysterious butterfly",
     "en": "Would you like to go elsewhere?{SAUT}Then rejoin your comrades.{ATTENTE}",
-    "locuteur_fr": "Papillon mysterieux",
+    "locuteur_fr": "Papillon mystérieux",
     "fr": "Veux-tu aller ailleurs?{SAUT}Alors rejoins tes camarades.{ATTENTE}"
   },
   {
@@ -516,8 +516,8 @@
     "id": "E0.BIN:177:0009",
     "locuteur": "Mysterious butterfly",
     "en": "If you're considering going outside,{SAUT}don't forget to rejoin your comrades.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Si vous songez à sortir, n'oubliez{SAUT}pas de rejoindre vos compagnons.{ATTENTE}"
   },
   {
     "id": "E0.BIN:177:0010",
@@ -544,8 +544,8 @@
     "id": "E0.BIN:177:0013",
     "locuteur": "Mark",
     "en": "Yo, (*APELLIDO_HEROE*)! Don't try any funny stuff{SAUT}just 'cause you and Maki are alone!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Yo, (*APELLIDO_HEROE*)! Tente rien de louche{SAUT}sous prétexte que t'es seul avec Maki!{ATTENTE}"
   },
   {
     "id": "E0.BIN:177:0014",
@@ -586,8 +586,8 @@
     "id": "E0.BIN:177:0019",
     "locuteur": "Elly",
     "en": "......{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "......{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -650,15 +650,15 @@
     "id": "E0.BIN:177:0028",
     "locuteur": "Elly",
     "en": "Watch yourself, (*APELLIDO_HEROE*)...{SAUT}I'll be waiting for you...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Fais attention à toi, (*APELLIDO_HEROE*)...{SAUT}Je t'attendrai...{ATTENTE}"
   },
   {
     "id": "E0.BIN:177:0029",
     "locuteur": "Elly",
     "en": "Please be careful, (*APELLIDO_HEROE*)...{SAUT}I'll be waiting for your safe return.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Sois prudent, (*APELLIDO_HEROE*)...{SAUT}J'attendrai ton retour sain et sauf.{ATTENTE}"
   },
   {
     "id": "E0.BIN:177:0030",
@@ -671,35 +671,35 @@
     "id": "E0.BIN:177:0031",
     "locuteur": "Brown",
     "en": "Huh? You haven't gone yet? Ohhh,{SAUT}I get it... Got cold feet, huh?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Hein? T'es pas encore parti? Ohhh,{SAUT}je vois... T'as la trouille, hein?{ATTENTE}"
   },
   {
     "id": "E0.BIN:177:0032",
     "locuteur": "Ayase",
     "en": "You haven't gone yet, (*APELLIDO_HEROE*)?{SAUT}Don't tell me you're chicken!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "T'es pas encore parti, (*APELLIDO_HEROE*)?{SAUT}Me dis pas que t'es une poule mouillée!{ATTENTE}"
   },
   {
     "id": "E0.BIN:177:0033",
     "locuteur": "Ayase",
     "en": "You haven't gone yet, (*APODO_HEROE*)?{SAUT}Don't tell me you're chicken!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "T'es pas encore parti, (*APODO_HEROE*)?{SAUT}Me dis pas que t'es une poule mouillée!{ATTENTE}"
   },
   {
     "id": "E0.BIN:177:0034",
     "locuteur": "Ayase",
     "en": "(*APODO_HEROE*)! You better go see Maki,{SAUT}quick!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "(*APODO_HEROE*)! T'as intérêt à aller voir{SAUT}Maki, et vite!{ATTENTE}"
   },
   {
     "id": "E0.BIN:177:0035",
     "locuteur": "Ayase",
     "en": "(*APELLIDO_HEROE*)! You better go see Maki,{SAUT}quick!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "(*APELLIDO_HEROE*)! T'as intérêt à aller voir{SAUT}Maki, et vite!{ATTENTE}"
   }
 ]

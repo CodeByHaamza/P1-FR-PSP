@@ -1,5 +1,210 @@
 [
   {
+    "id": "EBOOT.BIN:BE2:OFF_2AD826",
+    "en": " Yukino tried a logical appeal!{FERME}",
+    "fr": " Yukino a tenté de raisonner!{FERME}",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD866",
+    "en": " > Yukino picked on the demon!{FERME}",
+    "fr": " > Yukino a brimé le démon!{FERME}",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD8A6",
+    "en": " Ayase threatened the demon!{FERME}",
+    "fr": " Ayase a menacé le démon!{FERME}",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD8E2",
+    "en": " Ayase cried crocodile tears!{FERME}",
+    "fr": " Ayase a pleuré pour de faux!{FERME}",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD91E",
+    "en": " > Ayase seduced the demon!{FERME}",
+    "fr": " > Ayase a séduit le démon!{FERME}",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD956",
+    "en": " > Ayase dissed the demon!{FERME}",
+    "fr": "> Ayase a insulté le démon!{FERME}",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD98E",
+    "en": " Elly invited the demon into the party!{FERME}",
+    "fr": " Elly a invité le démon dans le groupe!{FERME}",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AD9DE",
+    "en": " > Elly soothed the demon!{FERME}",
+    "fr": " > Elly a apaisé le démon!{FERME}",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADA16",
+    "en": " Elly sang a song!{FERME}",
+    "fr": " Elly a chanté!{FERME}",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADA3E",
+    "en": " Elly told a scary story!{FERME}",
+    "fr": "Elly a conté une horreur!{FERME}",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADA72",
+    "en": " > Mark started bragging!{FERME}",
+    "fr": " > Mark s'est vanté!{FERME}",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADAA6",
+    "en": " > Mark stared at the demon!{FERME}",
+    "fr": " > Mark a fixé le démon!{FERME}",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADAE2",
+    "en": " Mark taunted the demon!{FERME}",
+    "fr": " Mark a raillé le démon!{FERME}",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADB16",
+    "en": " Mark busted a move!{FERME}",
+    "fr": "Mark s'est déhanché!{FERME}",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADB42",
+    "en": " Nanjo delivered a sarcastic remark!{FERME}",
+    "fr": "Nanjo a lancé une pique sarcastique!{FERME}",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADB8E",
+    "en": " Nanjo insulted the demon!{FERME}",
+    "fr": " Nanjo a insulté le démon!{FERME}",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADBC6",
+    "en": " Nanjo delivered a speech!{FERME}",
+    "fr": " Nanjo a fait un discours!{FERME}",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADBFE",
+    "en": " Nanjo tried bribing the demon with{SAUT}",
+    "fr": "Nanjo a tenté de soudoyer le démon avec{SAUT}",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADC46",
+    "en": "an item!{FERME}",
+    "fr": "un objet!{FERME}",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADC5A",
+    "en": " Brown tried to startle the demon!{FERME}",
+    "fr": "Brown a tenté d'effrayer le démon!{FERME}",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADCA2",
+    "en": " Brown made small talk!{FERME}",
+    "fr": " Brown a papoté!{FERME}",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADCD2",
+    "en": " > Brown told a joke!{FERME}",
+    "fr": " > Brown a blagué!{FERME}",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADCFE",
+    "en": " > Brown hit on the demon!{FERME}",
+    "fr": "> Brown a dragué le démon!{FERME}",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADD36",
+    "en": " Maki pretended to be scared!{FERME}",
+    "fr": " Maki a feint la peur!{FERME}",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADD72",
+    "en": " > Maki made something up!{FERME}",
+    "fr": "> Maki a raconté un bobard!{FERME}",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADDAA",
+    "en": " Maki tried flattering the demon!{FERME}",
+    "fr": "Maki a tenté de flatter le démon!{FERME}",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADDEE",
+    "en": " > Maki pleaded with the demon!{FERME}",
+    "fr": " > Maki a supplié le démon!{FERME}",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADE2E",
+    "en": " > [FFFA] sang a song!{FERME}",
+    "fr": " > [FFFA] a chanté!{FERME}",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADE52",
+    "en": " > [FFFA] invited the demon into{SAUT}",
+    "fr": " > [FFFA] a invité le démon dans{SAUT}",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADE8A",
+    "en": "the party!{FERME}",
+    "fr": "le groupe!{FERME}",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADEA2",
+    "en": " [FFFA] taunted the demon!{FERME}",
+    "fr": " [FFFA] a raillé le démon!{FERME}",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ADECE",
+    "en": " > [FFFA] tried to persuade it!{FERME}",
+    "fr": " > [FFFA] a voulu le persuader!{FERME}",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B1C94",
+    "en": "Agastya Tree{FERME}",
+    "fr": "Arbre Agastya{FERME}",
+    "max": 12
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B1CAE",
+    "en": "           Agastya Tree{FERME}",
+    "fr": "          Arbre Agastya{FERME}",
+    "max": 23,
+    "_occurrences": 171
+  },
+  {
     "id": "EBOOT.BIN:BE2:OFF_2B287E",
     "en": "           Trish's Spring{FERME}",
     "fr": "          Source de Trish{FERME}",
@@ -421,217 +626,5 @@
     "en": "               Exhibition Room{FERME}",
     "fr": "            Salle d'exposition{FERME}",
     "max": 30
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B6BD4",
-    "en": "        Agastya Tree{FERME}",
-    "fr": "       Arbre Agastya{FERME}",
-    "max": 20
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B6BFE",
-    "en": "           Rosa Candida{FERME}",
-    "fr": "           Rosa Candida{FERME}",
-    "max": 23,
-    "_occurrences": 3
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B6C2E",
-    "en": "           Yin&Yan{FERME}",
-    "fr": "           Yin&Yan{FERME}",
-    "max": 18,
-    "_occurrences": 3
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B6C54",
-    "en": "                Peace Diner{FERME}",
-    "fr": "                Peace Diner{FERME}",
-    "max": 27
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B6C8C",
-    "en": "            Peace Diner{FERME}",
-    "fr": "            Peace Diner{FERME}",
-    "max": 23
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B6CEE",
-    "en": "           Esumi Clinic{FERME}",
-    "fr": "         Clinique Esumi{FERME}",
-    "max": 23,
-    "_occurrences": 3
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B6D1E",
-    "en": "           Sennen Mannen-Do{FERME}",
-    "fr": "           Sennen Mannen-Do{FERME}",
-    "max": 27,
-    "_occurrences": 4
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B6D56",
-    "en": "       Satomi Tadashi{FERME}",
-    "fr": "       Satomi Tadashi{FERME}",
-    "max": 21,
-    "_occurrences": 3
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B6D82",
-    "en": "         Judgment 1999{FERME}",
-    "fr": "         Judgment 1999{FERME}",
-    "max": 22,
-    "_occurrences": 2
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B6DB0",
-    "en": "          Esumi Clinic{FERME}",
-    "fr": "        Clinique Esumi{FERME}",
-    "max": 22,
-    "_occurrences": 2
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B6E88",
-    "en": "                      Satomi Tadashi{FERME}",
-    "fr": "                      Satomi Tadashi{FERME}",
-    "max": 36
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B6EFC",
-    "en": "            Himeno Residence{FERME}",
-    "fr": "            Maison Himeno{FERME}",
-    "max": 28
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B6F36",
-    "en": "       Velvet Room{FERME}",
-    "fr": "Chambre de Velours{FERME}",
-    "max": 18
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B707E",
-    "en": "           Examination Room{FERME}",
-    "fr": "           Salle d'examen{FERME}",
-    "max": 27
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B70B6",
-    "en": "       2F Lobby{FERME}",
-    "fr": "       2F Hall{FERME}",
-    "max": 15
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B70D6",
-    "en": "               2F Nurse's Center{FERME}",
-    "fr": "               2F Infirmerie{FERME}",
-    "max": 32
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B7118",
-    "en": "      3F Lobby{FERME}",
-    "fr": "      3F Hall{FERME}",
-    "max": 14,
-    "_occurrences": 2
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B7136",
-    "en": "               3F Nurse's Center{FERME}",
-    "fr": "               3F Infirmerie{FERME}",
-    "max": 32
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B7178",
-    "en": "      Agastya Tree{FERME}",
-    "fr": "     Arbre Agastya{FERME}",
-    "max": 18
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B737E",
-    "en": "           2F Nurse's Center{FERME}",
-    "fr": "           2F Infirmerie{FERME}",
-    "max": 28
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B73B8",
-    "en": "      3F Nurse's Center{FERME}",
-    "fr": "      3F Infirmerie{FERME}",
-    "max": 23
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B7406",
-    "en": "               Examination Room{FERME}",
-    "fr": "               Salle d'examen{FERME}",
-    "max": 31
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B7446",
-    "en": "       Agastya Tree{FERME}",
-    "fr": "      Arbre Agastya{FERME}",
-    "max": 19
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B767E",
-    "en": "           Kaneda Mansion{FERME}",
-    "fr": "           Manoir Kaneda{FERME}",
-    "max": 25
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B77F4",
-    "en": "                Esumi Clinic{FERME}",
-    "fr": "              Clinique Esumi{FERME}",
-    "max": 28
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B78C0",
-    "en": "          Judgment 1999{FERME}",
-    "fr": "          Judgment 1999{FERME}",
-    "max": 23
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B7A04",
-    "en": "                Agastya Tree{FERME}",
-    "fr": "               Arbre Agastya{FERME}",
-    "max": 28
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B7C7E",
-    "en": "           Teacher's Lounge{FERME}",
-    "fr": "           Salle des profs{FERME}",
-    "max": 27
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B7CB6",
-    "en": "       Class 1-4{FERME}",
-    "fr": "      Classe 1-4{FERME}",
-    "max": 16
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B7E5C",
-    "en": "            Gym{FERME}",
-    "fr": "            Gym{FERME}",
-    "max": 15
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B7E7C",
-    "en": "                    Art Room{FERME}",
-    "fr": "                 Salle d'art{FERME}",
-    "max": 28
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B7EB6",
-    "en": "               Class 3-3{FERME}",
-    "fr": "              Classe 3-3{FERME}",
-    "max": 24
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B7F78",
-    "en": "              Gym Stage{FERME}",
-    "fr": "           Scène du gym{FERME}",
-    "max": 23
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B7FA8",
-    "en": "              Courtyard{FERME}",
-    "fr": "              Cour{FERME}",
-    "max": 23
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "id": "EBOOT.BIN:BE2:OFF_27C3F6",
+    "en": "                                                                                       Absorb: 100% Physical{SAUT}",
+    "fr": "                                                                                     Absorbe : 100% Physique{SAUT}",
+    "max": 108,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27C4FA",
+    "en": "                                                                                     Null: Wind{SAUT}",
+    "fr": "                                                                                  Annule : Vent{SAUT}",
+    "max": 95
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_27C5BA",
+    "en": "Weak: Gun{FERME}",
+    "fr": "Faible : Tir{FERME}",
+    "max": 9,
+    "_occurrences": 2
+  },
+  {
     "id": "EBOOT.BIN:BE2:OFF_27C5CE",
     "en": "                                                                                                           Absorb: 100% Earth{SAUT}",
     "fr": "                                                                                                         Absorbe : 100% Terre{SAUT}",
@@ -456,13 +476,13 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_283428",
     "en": "          ab[0202][0401]a[0202][0204]          ,",
-    "fr": "",
+    "fr": "          ab[0202][0401]a[0202][0204]          ,",
     "max": 24
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_283498",
     "en": "   ab[0202][0400]   ab[0202][0401]a[0202][0204]       ",
-    "fr": "",
+    "fr": "   ab[0202][0400]   ab[0202][0401]a[0202][0204]       ",
     "max": 18
   },
   {
@@ -584,23 +604,5 @@
     "en": "WORLD",
     "fr": "MONDE",
     "max": 5
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_286960",
-    "en": "FOOL",
-    "fr": "MAT",
-    "max": 4
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_286B6A",
-    "en": "                                                   Overjoyed. May not{SAUT}",
-    "fr": "                                                   Fou de joie. Peut{SAUT}",
-    "max": 69
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_286BF6",
-    "en": "follow orders.{FERME}",
-    "fr": "désobéir.{FERME}",
-    "max": 14
   }
 ]

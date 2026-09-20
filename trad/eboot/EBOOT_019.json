@@ -1,5 +1,11 @@
 [
   {
+    "id": "EBOOT.BIN:BE2:OFF_27862A",
+    "en": " Heavy Ice damage+Freeze (area)(*TERMINATOR*)",
+    "fr": " Gel lourd+Gelé (zone)(*TERMINATOR*)",
+    "max": 31
+  },
+  {
     "id": "EBOOT.BIN:BE2:OFF_27866A",
     "en": " Heavy Fire damage (all foes)(*TERMINATOR*)",
     "fr": " Feu lourd (ts enn.)(*TERMINATOR*)",
@@ -105,6 +111,18 @@
     "id": "EBOOT.BIN:BE2:OFF_278A42",
     "en": " Increase Agility by 1(*TERMINATOR*)",
     "fr": " Agilité +1(*TERMINATOR*)",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278A70",
+    "en": "Increase Dexterity by 1(*TERMINATOR*)",
+    "fr": "Dextérité +1(*TERMINATOR*)",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_278AA0",
+    "en": "Increase Vitality by 1(*TERMINATOR*)",
+    "fr": "Vitalité +1(*TERMINATOR*)",
     "max": 22
   },
   {
@@ -589,25 +607,6 @@
     "en": "Medium Elec damage+Shock (area)(*TERMINATOR*)",
     "fr": "Élec moyen+Choc (zone)(*TERMINATOR*)",
     "max": 31,
-    "_occurrences": 2
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_27A3D0",
-    "en": "Medium Blast damage (area)(*TERMINATOR*)",
-    "fr": "Éclat moyen (zone)(*TERMINATOR*)",
-    "max": 26
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_27A406",
-    "en": " Medium Blast damage (area)(*TERMINATOR*)",
-    "fr": " Éclat moyen (zone)(*TERMINATOR*)",
-    "max": 27
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_27A43E",
-    "en": " Medium Earth damage (area)(*TERMINATOR*)",
-    "fr": " Terre moyen (zone)(*TERMINATOR*)",
-    "max": 27,
     "_occurrences": 2
   }
 ]

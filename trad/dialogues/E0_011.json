@@ -129,49 +129,49 @@
     "id": "E0.BIN:037:0000",
     "locuteur": "Drama club president",
     "en": "This is hardly the time to be thinking{SAUT}about the school festival.{ATTENTE}",
-    "locuteur_fr": "Présidente du club",
+    "locuteur_fr": "Présidente",
     "fr": "Ce n'est pas le moment de penser au{SAUT}festival de l'école.{ATTENTE}"
   },
   {
     "id": "E0.BIN:037:0001",
     "locuteur": "Drama club president",
     "en": "I told you, I don't know any play called{SAUT}\"The Snow Queen\"! Give it a rest!{ATTENTE}",
-    "locuteur_fr": "Présidente du club",
+    "locuteur_fr": "Présidente",
     "fr": "Je t'ai dit que je ne connais pas{SAUT}\"La Reine des Neiges\"! Lâche-moi!{ATTENTE}"
   },
   {
     "id": "E0.BIN:037:0002",
     "locuteur": "Drama club member",
     "en": "Our president's the only one who knows{SAUT}about that play.{ATTENTE}",
-    "locuteur_fr": "Élève du club",
+    "locuteur_fr": "Membre du club",
     "fr": "Seule la présidente connaît cette{SAUT}pièce.{ATTENTE}"
   },
   {
     "id": "E0.BIN:037:0003",
     "locuteur": "Drama club member",
     "en": "Huh? What play? Oh, uh... it's a secret.{ATTENTE}",
-    "locuteur_fr": "Élève du club",
+    "locuteur_fr": "Membre du club",
     "fr": "Hein? Quelle pièce? Euh... c'est secret.{ATTENTE}"
   },
   {
     "id": "E0.BIN:037:0004",
     "locuteur": "Drama club member",
     "en": "Man, this sucks. What's up with this?{ATTENTE}",
-    "locuteur_fr": "Élève du club",
+    "locuteur_fr": "Membre du club",
     "fr": "Purée, ça craint. C'est quoi ce truc?{ATTENTE}"
   },
   {
     "id": "E0.BIN:037:0005",
     "locuteur": "Drama club member",
     "en": "If there were any records left, you might{SAUT}be able to find something in them...{ATTENTE}",
-    "locuteur_fr": "Élève du club",
+    "locuteur_fr": "Membre du club",
     "fr": "S'il restait des archives, tu y{SAUT}trouverais peut-être quelque chose...{ATTENTE}"
   },
   {
     "id": "E0.BIN:037:0006",
     "locuteur": "Drama club member",
     "en": "But our president gets all upset if{SAUT}anyone asks about it.{ATTENTE}",
-    "locuteur_fr": "Élève du club",
+    "locuteur_fr": "Membre du club",
     "fr": "Mais la présidente s'énerve dès qu'on{SAUT}lui en parle.{ATTENTE}"
   },
   {

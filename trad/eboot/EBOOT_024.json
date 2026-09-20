@@ -1,5 +1,41 @@
 [
   {
+    "id": "EBOOT.BIN:BE2:OFF_29085C",
+    "en": "                Devil's Peak 7F{FERME}",
+    "fr": "               Pic du Diable 7F{FERME}",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29089C",
+    "en": "                Devil's Peak 8F{FERME}",
+    "fr": "               Pic du Diable 8F{FERME}",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2908DC",
+    "en": "                Devil's Peak 9F{FERME}",
+    "fr": "               Pic du Diable 9F{FERME}",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29091C",
+    "en": "                Devil's Peak 10F{FERME}",
+    "fr": "               Pic du Diable 10F{FERME}",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29095E",
+    "en": "               Devil's Peak 11F{FERME}",
+    "fr": "              Pic du Diable 11F{FERME}",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29099E",
+    "en": "               Devil's Peak 12F{FERME}",
+    "fr": "              Pic du Diable 12F{FERME}",
+    "max": 31
+  },
+  {
     "id": "EBOOT.BIN:BE2:OFF_2909DE",
     "en": "               Ice Castle 1F{FERME}",
     "fr": "         Château de Glace 1F{FERME}",
@@ -299,26 +335,26 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_29195C",
     "en": "                St. Hermelin ???{FERME}",
-    "fr": "",
+    "fr": "                St. Hermelin ???{FERME}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29199E",
     "en": "               St. Hermelin ???{FERME}",
-    "fr": "",
+    "fr": "               St. Hermelin ???{FERME}",
     "max": 31,
     "_occurrences": 5
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_291ADE",
     "en": "               St. Hermelin 1F{FERME}",
-    "fr": "",
+    "fr": "               St. Hermelin 1F{FERME}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_291B9C",
     "en": "                St. Hermelin 1F{FERME}",
-    "fr": "",
+    "fr": "                St. Hermelin 1F{FERME}",
     "max": 31
   },
   {
@@ -416,19 +452,19 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2921D2",
     "en": "                     St. Hermelin 1F{FERME}",
-    "fr": "",
+    "fr": "                     St. Hermelin 1F{FERME}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_292D20",
     "en": "                                                                                      (*HIDE_MSG*) (*WAIT_INPUT*)(*SHOW_MSG*) (*SCENE_INIT*)  < The effect of Liftoma has worn off.{ATTENTE}",
-    "fr": "",
+    "fr": "                                                                                      (*HIDE_MSG*) (*WAIT_INPUT*)(*SHOW_MSG*) (*SCENE_INIT*)  < L'effet de Liftoma s'est dissipé.{ATTENTE}",
     "max": 127
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_292E2A",
     "en": " (*HIDE_MSG*) (*WAIT_INPUT*)(*SHOW_MSG*) (*SCENE_INIT*)  < The Core Shield's effect has worn off.{ATTENTE}",
-    "fr": "",
+    "fr": " (*HIDE_MSG*) (*WAIT_INPUT*)(*SHOW_MSG*) (*SCENE_INIT*)  < L'effet du Bouclier s'est dissipé.{ATTENTE}",
     "max": 45
   },
   {
@@ -436,6 +472,12 @@
     "en": "This character cannot be commanded{FERME}",
     "fr": "Ce personnage n'obéit à aucun ordre{FERME}",
     "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29AE80",
+    "en": "Cannot reverse. A character is immobile.{ATTENTE}",
+    "fr": "Annulation impossible : perso bloqué.{ATTENTE}",
+    "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29AED4",
@@ -534,6 +576,12 @@
     "max": 19
   },
   {
+    "id": "EBOOT.BIN:BE2:OFF_29B0F4",
+    "en": "Enter battle{ATTENTE}",
+    "fr": "Combattre{ATTENTE}",
+    "max": 12
+  },
+  {
     "id": "EBOOT.BIN:BE2:OFF_29B110",
     "en": "Obtained a mop.{ATTENTE}",
     "fr": "Obtenu : balai.{ATTENTE}",
@@ -555,54 +603,6 @@
     "id": "EBOOT.BIN:BE2:OFF_29B18E",
     "en": " Preemptive strike!{ATTENTE}",
     "fr": " Attaque surprise!{ATTENTE}",
-    "max": 19
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29B1BA",
-    "en": " and friends were annihilated...{ATTENTE}",
-    "fr": " et ses amis ont été anéantis...{ATTENTE}",
-    "max": 32
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29B1FE",
-    "en": " (*APELLIDO_HEROE*) was revived.{ATTENTE}",
-    "fr": " (*APELLIDO_HEROE*) est ranimé.{ATTENTE}",
-    "max": 14
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29B23A",
-    "en": " points.{ATTENTE}",
-    "fr": " points.{ATTENTE}",
-    "max": 8
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29B24E",
-    "en": " Are you sure?{ATTENTE}",
-    "fr": " Confirmer?{ATTENTE}",
-    "max": 14
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29B26E",
-    "en": " You couldn't escape!{PAUSE}[3C00]{FERME}",
-    "fr": " Fuite impossible!{PAUSE}[3C00]{FERME}",
-    "max": 21
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29B29E",
-    "en": " Successfully escaped.{PAUSE}[3C00]{FERME}",
-    "fr": " Fuite réussie.{PAUSE}[3C00]{FERME}",
-    "max": 22
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29B2F6",
-    "en": " Failed!{ATTENTE}",
-    "fr": " Échec!{ATTENTE}",
-    "max": 8
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29B30A",
-    "en": " Invocation failed!{ATTENTE}",
-    "fr": " Invocation ratée!{ATTENTE}",
     "max": 19
   }
 ]

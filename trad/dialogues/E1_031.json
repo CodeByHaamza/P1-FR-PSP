@@ -46,21 +46,21 @@
     "locuteur": "Queen",
     "en": "I am the Persona known as Night Queen,{SAUT}who once dwelled within Tomomi.{ATTENTE}",
     "locuteur_fr": "Reine",
-    "fr": "Je suis la Persona nommée Reine de la{SAUT}Nuit, qui vivait jadis en Tomomi.{ATTENTE}"
+    "fr": "Je suis le Persona Reine de la Nuit,{SAUT}qui vivait jadis en Tomomi.{ATTENTE}"
   },
   {
     "id": "E1.BIN:209:0007",
     "locuteur": "Night Queen",
     "en": "You have my thanks. I am at last freed{SAUT}from my host and the mask that bound me.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Reine de la Nuit",
     "fr": "Merci à vous. Je suis enfin libre de{SAUT}mon hôte et du masque qui m'enchaînait.{ATTENTE}"
   },
   {
     "id": "E1.BIN:209:0008",
     "locuteur": "Night Queen",
     "en": "And once the Eternal Night arrives,{SAUT}I shall be complete.{ATTENTE}",
-    "locuteur_fr": "Reine{PAGE}Nuit",
-    "fr": "Et quand la Nuit Éternelle viendra,{SAUT}je serai enfin complète.{ATTENTE}"
+    "locuteur_fr": "Reine de la Nuit",
+    "fr": "Et à la venue de la Nuit Éternelle,{SAUT}je serai complète.{ATTENTE}"
   },
   {
     "id": "E1.BIN:209:0009",
@@ -73,21 +73,21 @@
     "id": "E1.BIN:209:0010",
     "locuteur": "Night Queen",
     "en": "Ahahahahahahaha...!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Reine de la Nuit",
     "fr": "Ahahahahahahaha...!{ATTENTE}"
   },
   {
     "id": "E1.BIN:209:0012",
     "locuteur": "Night Queen",
     "en": "Fools! Open your eyes and witness the{SAUT}advent of the Eternal Night.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Reine de la Nuit",
     "fr": "Idiots! Ouvrez les yeux et voyez{SAUT}venir la nuit éternelle.{ATTENTE}"
   },
   {
     "id": "E1.BIN:209:0014",
     "locuteur": "Night Queen",
     "en": "Hmhmhm... Ahahahahahaha!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Reine de la Nuit",
     "fr": "Hmhmhm... Ahahahahahaha!{ATTENTE}"
   },
   {

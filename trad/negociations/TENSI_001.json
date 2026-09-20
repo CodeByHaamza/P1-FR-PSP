@@ -2,584 +2,584 @@
   {
     "id": "TENSI.BIN:text:0000",
     "en": "Since you require my intervention,{SAUT}your point is indeed reasonable.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Puisque vous requérez mon aide,{SAUT}votre requête est raisonnable.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0001",
     "en": "You have a great deal of foresight.{SAUT}Young though you are, you are both{SAUT}admirable and reliable.[FFFD]É[F500]   Do you truly require my intervention?{SAUT}There is no sincerity in your speech{SAUT}and actions!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Vous êtes clairvoyant.{SAUT}Si jeune, et pourtant{SAUT}admirable et fiable.[FFFD]É[F500]   Avez-vous vraiment besoin de moi?{SAUT}Vos paroles et vos actes manquent{SAUT}de sincérité!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0002",
     "en": "As a redeemed human, you must speak only{SAUT}the truth!{ATTENTE}",
-    "fr": "",
+    "fr": "En humain racheté, ne dites que{SAUT}la vérité!{ATTENTE}",
     "_occurrences": 16
   },
   {
     "id": "TENSI.BIN:text:0003",
     "en": "{PAGE}Pursuing personal gain and deceitfully{SAUT}hiding your true intentions will only{SAUT}anger Him![FFFD]α[F500] Your instincts are right to be interested{SAUT}in me... Now turn your heart to the Lord{SAUT}and let us walk a path of righteousness!(*RESPONSE*)",
-    "fr": "",
+    "fr": "{PAGE}Chercher votre profit en{SAUT}cachant vos vraies intentions{SAUT}ne fera que L'irriter![FFFD]α[F500] Votre instinct a raison de s'intéresser{SAUT}à moi... Tournez votre coeur vers le{SAUT}Seigneur, marchons dans la droiture!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0004",
     "en": "Do you wish to form a contract with me,{SAUT}one of His messengers?[FFFD][02FF][F500]   You are overflowing with confidence.{SAUT}Should the chance ever arise, I would{SAUT}like a personal match with you.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Voulez-vous un pacte avec moi,{SAUT}l'un de Ses messagers?[FFFD][02FF][F500]   Vous débordez de confiance. Si l'occasion{SAUT}se présente, j'aimerais vous affronter{SAUT}en personne.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0005",
     "en": " I understand now your strength...{SAUT}But what will you do with me?[FFFD][03FF][F500]  I shall mend your twisted mind for{SAUT}your own sake!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Je mesure votre force... Mais que{SAUT}ferez-vous de moi?[FFFD][03FF][F500]  Je redresserai votre esprit tordu,{SAUT}pour votre bien!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0006",
     "en": "  Where did you learn to speak such filth?[FFFD][04FF][F500] I am an angel; His own messenger...{SAUT}I do not yield to threats.(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Où avez-vous appris pareilles ordures?[FFFD][04FF][F500] Je suis un ange, Son messager...{SAUT}Je ne cède pas aux menaces.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0007",
     "en": " As one of His messengers, you must attend{SAUT}to me with respect.[FFFD][05FF][F500]Since you require my intervention,{SAUT}your point is indeed reasonable.(*RESPONSE*)",
-    "fr": "",
+    "fr": " Je suis Son messager : traitez-moi{SAUT}avec respect.[FFFD][05FF][F500]Puisque vous requérez mon aide,{SAUT}votre requête est raisonnable.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0008",
     "en": "You have a great deal of foresight.{SAUT}Young though you are, you are both{SAUT}admirable and reliable.[FFFD][06FF][F500]   Do you truly require my intervention?{SAUT}There is no sincerity in your speech{SAUT}and actions!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Vous êtes clairvoyant.{SAUT}Si jeune, et pourtant{SAUT}admirable et fiable.[FFFD][06FF][F500]   Avez-vous vraiment besoin de moi?{SAUT}Vos paroles et vos actes manquent{SAUT}de sincérité!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0010",
     "en": "{PAGE}Pursuing personal gain and deceitfully{SAUT}hiding your true intentions will only{SAUT}anger Him![FFFD][07FF][F500] An invitation from a fallen one...?{SAUT}You demon-ridden human...!(*RESPONSE*)",
-    "fr": "",
+    "fr": "{PAGE}Chercher votre profit en{SAUT}cachant vos vraies intentions{SAUT}ne fera que L'irriter![FFFD][07FF][F500] Une invitation d'un déchu...?{SAUT}Humain possédé par les démons...!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0011",
     "en": " ...I believe there are others better{SAUT}suited than I...(*RESPONSE*)",
-    "fr": "",
+    "fr": " ...Je crois que d'autres conviendraient{SAUT}mieux que moi...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0012",
     "en": "  Though you try to appease angels with{SAUT}such songs, His order will not be{SAUT}swayed!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Ces chants n'amadouent{SAUT}pas les anges : Son{SAUT}ordre ne fléchira pas!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0013",
     "en": "An enchanting singer who seduces souls...{SAUT}Humans are indeed dangerous creatures.{SAUT}They cannot be left unshepherded![FFFD][08FF][F500]   I cannot bear to listen any longer...{SAUT}This must be a form of ordeal...(*RESPONSE*)",
-    "fr": "",
+    "fr": "Un chant qui séduit les âmes... Les{SAUT}humains sont dangereux. On ne peut les{SAUT}laisser sans berger![FFFD][08FF][F500]   Je ne peux en écouter davantage...{SAUT}Ce doit être une épreuve...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0014",
     "en": " Your song is not pleasing to His ears...{SAUT}S-Stop at once...![FFFD][09FF][F500]  Ah, such singing is truly the music of{SAUT}the spheres!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Votre chant déplaît à Ses oreilles...{SAUT}C-Cessez tout de suite...![FFFD][09FF][F500]  Ah, ce chant est la{SAUT}musique des sphères!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0015",
     "en": "That voice must be a gift from Him, no?{SAUT}I am deeply moved...![FFFD][0AFF][F500]Since you require my intervention,{SAUT}your point is indeed reasonable.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Cette voix est un don de Lui, non?{SAUT}Je suis bouleversé...![FFFD][0AFF][F500]Puisque vous requérez mon aide,{SAUT}votre requête est raisonnable.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0016",
     "en": "You have a great deal of foresight.{SAUT}Young though you are, you are both{SAUT}admirable and reliable.[FFFD][0BFF][F500]   Do you truly require my intervention?{SAUT}There is no sincerity in your speech{SAUT}and actions!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Vous êtes clairvoyant.{SAUT}Si jeune, et pourtant{SAUT}admirable et fiable.[FFFD][0BFF][F500]   Avez-vous vraiment besoin de moi?{SAUT}Vos paroles et vos actes manquent{SAUT}de sincérité!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0018",
     "en": "{PAGE}Pursuing personal gain and deceitfully{SAUT}hiding your true intentions will only{SAUT}anger Him![FFFD][0CFF][F500] Your instincts are right to be interested{SAUT}in me... Now turn your heart to the Lord{SAUT}and let us walk a path of righteousness!(*RESPONSE*)",
-    "fr": "",
+    "fr": "{PAGE}Chercher votre profit en{SAUT}cachant vos vraies intentions{SAUT}ne fera que L'irriter![FFFD][0CFF][F500] Votre instinct a raison de s'intéresser{SAUT}à moi... Tournez votre coeur vers le{SAUT}Seigneur, marchons dans la droiture!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0019",
     "en": "Do you wish to form a contract with me,{SAUT}one of His messengers?[FFFD][0DFF][F500]   That will change nothing! You must cling{SAUT}fast to your beliefs to live your life!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Voulez-vous un pacte avec moi,{SAUT}l'un de Ses messagers?[FFFD][0DFF][F500]   Cela ne changera rien! Vivez en vous{SAUT}accrochant à vos convictions!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0020",
     "en": "   What an obvious charade... Your true{SAUT}intentions are known to me![FFFD][0EFF][F500] I feel there must be some catch to{SAUT}this... How uncanny...(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Quelle comédie grossière... Je connais{SAUT}vos vraies intentions![FFFD][0EFF][F500] Il doit y avoir un piège...{SAUT}Comme c'est étrange...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0021",
     "en": "  Oh, not at all... I still lack experience{SAUT}as one of His messengers.[FFFD][0FFF][F500]  Very true! Obedience to me is indeed the{SAUT}first step on the path to redemption!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Oh, pas du tout... Je manque encore{SAUT}d'expérience comme messager.[FFFD][0FFF][F500]  Très juste! M'obéir est le premier pas{SAUT}sur le chemin de la rédemption!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0022",
     "en": " So you instinctively sensed that an{SAUT}almighty, transcendent entity is{SAUT}enthroned in the heavens![FFFD][10FF][F500]   Since you have been redeemed, your point{SAUT}is indeed reasonable.(*RESPONSE*)",
-    "fr": "",
+    "fr": " Votre instinct a senti{SAUT}qu'un être tout-puissant{SAUT}trône dans les cieux![FFFD][10FF][F500]   Puisque vous êtes racheté, votre{SAUT}requête est raisonnable.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0023",
     "en": " You have a great deal of foresight.{SAUT}Young though you are, you are both{SAUT}admirable and reliable.[FFFD][11FF][F500]   Do you truly wish to form a contract?{SAUT}There is no sincerity in your speech{SAUT}and actions!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Vous êtes clairvoyant.{SAUT}Si jeune, et pourtant{SAUT}admirable et fiable.[FFFD][11FF][F500]   Voulez-vous vraiment un pacte?{SAUT}Vos paroles et vos actes manquent{SAUT}de sincérité!(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0025",
     "en": "{PAGE}Pursuing personal gain and deceitfully{SAUT}hiding your true intentions will only{SAUT}anger Him![FFFD][12FF][F500] Speaking of the world is a good habit...{SAUT}You have turned your heart to the Lord,{SAUT}and you walk the path of righteousness!(*RESPONSE*)",
-    "fr": "",
+    "fr": "{PAGE}Chercher votre profit en{SAUT}cachant vos vraies intentions{SAUT}ne fera que L'irriter![FFFD][12FF][F500] Parler du monde est une bonne habitude...{SAUT}Votre coeur va au Seigneur, vous marchez{SAUT}dans la droiture!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0026",
     "en": "   Do you wish to form a contract with me,{SAUT}one of His messengers?[FFFD][13FF][F500]   To be humble, avoiding conflict...{SAUT}That is desirable in humans who have{SAUT}been banished from paradise.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Voulez-vous un pacte avec moi,{SAUT}l'un de Ses messagers?[FFFD][13FF][F500]   L'humilité, fuir le conflit...{SAUT}Voilà qui sied aux humains{SAUT}bannis du paradis.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0027",
     "en": "   Though you had been banished from{SAUT}paradise, you have a keen understanding{SAUT}of your true strengths.[FFFD][14FF][F500]That will change nothing! You must cling{SAUT}fast to your beliefs to live your life!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Banni du paradis, vous{SAUT}connaissez pourtant bien{SAUT}vos vraies forces.[FFFD][14FF][F500]Cela ne changera rien! Vivez en vous{SAUT}accrochant à vos convictions!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0028",
     "en": "   What an obvious charade... Your true{SAUT}intentions are known to me![FFFD][15FF][F500] I feel there must be some catch to{SAUT}this... How uncanny...(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Quelle comédie grossière... Je connais{SAUT}vos vraies intentions![FFFD][15FF][F500] Il doit y avoir un piège...{SAUT}Comme c'est étrange...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0029",
     "en": "  Oh, not at all... I still lack experience{SAUT}as one of His messengers.[FFFD][16FF][F500]  You are a pleasant human...(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Oh, pas du tout... Je manque encore{SAUT}d'expérience comme messager.[FFFD][16FF][F500]  Vous êtes un humain agréable...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0030",
     "en": "You wish to converse with me? Shall I{SAUT}teach you about the Lord, mankind,{SAUT}and love?[FFFD][17FF][F500]   How dare you, towards an angel and one{SAUT}of His messengers! Be ashamed!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Vous voulez converser? Dois-je vous{SAUT}parler du Seigneur, des hommes et{SAUT}de l'amour?[FFFD][17FF][F500]   Comment osez-vous, envers un ange, Son{SAUT}messager! Ayez honte!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0031",
     "en": "  It is useless to try and deceive me.{SAUT}Such things should not be so easily said{SAUT}in the first place![FFFD][18FF][F500]I-I... am neither male nor female...(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Inutile d'essayer de me{SAUT}tromper. On ne dit pas ces{SAUT}choses-là si légèrement![FFFD][18FF][F500]J-Je... ne suis ni homme ni femme...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0032",
     "en": "   S-Stop this! Upsetting the peace and{SAUT}order is a grave offense![FFFD][19FF][F500]   It does not shame me to hear this...{SAUT}But until the fated day on which we form{SAUT}a contract, remember those words well.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   C-Cessez! Troubler la paix et l'ordre{SAUT}est une grave offense![FFFD][19FF][F500]   Je n'en rougis pas... Mais{SAUT}jusqu'au jour de notre pacte,{SAUT}gardez bien ces mots.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0033",
     "en": "   Your invitation may be an ordeal from{SAUT}Him as well... What should I do?[FFFD][1AFF][F500]   If you wish to draw my attention, you{SAUT}need only praise Him on high with your{SAUT}hand to heart.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Votre invitation est peut-être aussi une{SAUT}épreuve de Lui... Que faire?[FFFD][1AFF][F500]   Pour attirer mon attention,{SAUT}il suffit de Le louer,{SAUT}la main sur le coeur.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0034",
     "en": "Fools can be unexpectedly wise... You may{SAUT}be one who makes up peace and order{SAUT}as well...(*RESPONSE*)",
-    "fr": "",
+    "fr": "Les fous sont parfois sages...{SAUT}Vous servez peut-être aussi{SAUT}la paix et l'ordre...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0035",
     "en": "   Your jest is utterly lacking in wit!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Votre plaisanterie manque d'esprit!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0036",
     "en": "   What about that pointless story was meant{SAUT}to be humorous?[FFFD][1BFF][F500]Ah! I'm getting goosebumps... It must be{SAUT}divine intervention...(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Qu'y avait-il de drôle dans cette{SAUT}histoire vaine?[FFFD][1BFF][F500]Ah! J'en ai la chair de poule... Ce doit{SAUT}être une intervention divine...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0037",
     "en": "What is the meaning of this...? Are you{SAUT}entirely mentally balanced?[FFFD][1CFF][F500]  That was not a poor effort for one who{SAUT}had been banished from paradise.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Qu'est-ce que cela...? Avez-vous{SAUT}toute votre raison?[FFFD][1CFF][F500]  Pas mal, pour un{SAUT}banni du paradis.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0038",
     "en": "You are talented indeed! Would you{SAUT}consider becoming a comedic missionary{SAUT}to spread His truth across the world?[FFFD][1DFF][F500]  I am interested in the human world's{SAUT}state of affairs as well.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Quel talent! Voulez-vous devenir{SAUT}missionnaire comique et répandre Sa{SAUT}vérité de par le monde?[FFFD][1DFF][F500]  Les affaires du monde humain{SAUT}m'intéressent aussi.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0039",
     "en": " I ask this not of personal interest...{SAUT}But do you know any stories that are{SAUT}more engaging?[FFFD][1EFF][F500]   These vulgar stories hold no interest for{SAUT}His messengers!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Sans intérêt personnel...{SAUT}Connaissez-vous des{SAUT}histoires plus captivantes?[FFFD][1EFF][F500]   Ces histoires vulgaires n'intéressent{SAUT}pas Ses messagers!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0040",
     "en": "  I am aghast... Are you truly making small{SAUT}talk during a discussion of contracts?{SAUT}You must take this seriously![FFFD][1FFF][F500]   What a pleasant story. Perhaps later,{SAUT}I shall relate firsthand accounts of{SAUT}Heaven to you.(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Je suis atterré... Vous bavardez en{SAUT}pleine négociation de pacte? Soyez{SAUT}sérieux![FFFD][1FFF][F500]   Quelle plaisante histoire.{SAUT}Plus tard, je vous conterai{SAUT}peut-être le Paradis.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0041",
     "en": "  I must listen to your story, that I might{SAUT}learn more about humans who had been{SAUT}banished from paradise...[FFFD][20FF][F500] If you wish to draw my attention, you{SAUT}need only praise Him on high with your{SAUT}hand to heart.(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Je dois écouter votre{SAUT}histoire, pour mieux connaître{SAUT}les bannis du paradis...[FFFD][20FF][F500] Pour attirer mon attention,{SAUT}il suffit de Le louer,{SAUT}la main sur le coeur.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0042",
     "en": "Was that divine intervention...?{SAUT}What was that?[FFFD][21FF][F500]  Do you enjoy surprising His messengers{SAUT}this way?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Une intervention divine...?{SAUT}Qu'était-ce?[FFFD][21FF][F500]  Vous aimez surprendre Ses messagers{SAUT}ainsi?(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0043",
     "en": "   Is it given unto me that I must guide{SAUT}such a fool...?[FFFD][22FF][F500]What a dangerous human... No, I...{SAUT}I am not afraid... you know...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   M'est-il donné de guider pareil{SAUT}insensé...?[FFFD][22FF][F500]Quel humain dangereux... Non, je...{SAUT}je n'ai pas peur... vous savez...(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0044",
     "en": "  With His protection, I fear nothing.{SAUT}Thus, I am not afraid... You see...?[FFFD][23FF][F500]I can scarcely believe it would occur{SAUT}to you to behave that way in the{SAUT}presence of one of His messengers.(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Sous Sa protection, je ne crains rien.{SAUT}Donc je n'ai pas peur... Vous voyez...?[FFFD][23FF][F500]Dire que vous osez vous{SAUT}conduire ainsi devant{SAUT}l'un de Ses messagers.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0045",
     "en": "  That is prudent of you. The rich should{SAUT}give their wealth to the poor.[FFFD][24FF][F500]   You think to control me with material{SAUT}goods? You are unworthy of salvation!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  C'est prudent. Les riches doivent{SAUT}donner aux pauvres.[FFFD][24FF][F500]   Me contrôler avec des biens matériels?{SAUT}Vous êtes indigne du salut!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0046",
     "en": "Ahem... It is important to ascertain{SAUT}what others desire as well.[FFFD][25FF][F500] So that is your offering to Him? Your{SAUT}generosity is indeed admirable.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Hum... Il importe aussi de savoir ce{SAUT}que désirent les autres.[FFFD][25FF][F500] C'est votre offrande à Lui? Votre{SAUT}générosité est admirable.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0047",
     "en": "  Thank you very much. I shall use it{SAUT}with care.[FFFD][26FF][F500]   Since you have been redeemed, your point{SAUT}is indeed reasonable.(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Merci beaucoup. J'en{SAUT}ferai bon usage.[FFFD][26FF][F500]   Puisque vous êtes racheté, votre{SAUT}requête est raisonnable.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0048",
     "en": " You have a great deal of foresight.{SAUT}Young though you are, you are both{SAUT}admirable and reliable.[FFFD][27FF][F500]   Do you truly require my intervention?{SAUT}There is no sincerity in your speech{SAUT}and actions!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Vous êtes clairvoyant.{SAUT}Si jeune, et pourtant{SAUT}admirable et fiable.[FFFD][27FF][F500]   Avez-vous vraiment besoin de moi?{SAUT}Vos paroles et vos actes manquent{SAUT}de sincérité!(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0050",
     "en": "{PAGE}Pursuing personal gain and deceitfully{SAUT}hiding your true intentions will only{SAUT}anger Him![FFFD][28FF][F500] Speaking of the world is a good habit...{SAUT}You have turned your heart to the Lord,{SAUT}and you walk the path of righteousness!(*RESPONSE*)",
-    "fr": "",
+    "fr": "{PAGE}Chercher votre profit en{SAUT}cachant vos vraies intentions{SAUT}ne fera que L'irriter![FFFD][28FF][F500] Parler du monde est une bonne habitude...{SAUT}Votre coeur va au Seigneur, vous marchez{SAUT}dans la droiture!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0051",
     "en": "   Do you wish to form a contract with me,{SAUT}one of His messengers?[FFFD][29FF][F500]   You are overflowing with confidence.{SAUT}Should the chance ever arise, I would{SAUT}like a personal match with you.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Voulez-vous un pacte avec moi,{SAUT}l'un de Ses messagers?[FFFD][29FF][F500]   Vous débordez de confiance. Si l'occasion{SAUT}se présente, j'aimerais vous affronter{SAUT}en personne.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0052",
     "en": " I understand now your strength...{SAUT}But what will you do with me?[FFFD][2AFF][F500]  I shall mend your twisted mind for{SAUT}your own sake!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Je mesure votre force... Mais que{SAUT}ferez-vous de moi?[FFFD][2AFF][F500]  Je redresserai votre esprit tordu,{SAUT}pour votre bien!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0053",
     "en": "  Where did you learn to speak such filth?[FFFD][2BFF][F500] I am an angel; His own messenger...{SAUT}I do not yield to threats.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Où avez-vous appris pareilles ordures?[FFFD][2BFF][F500] Je suis un ange, Son messager...{SAUT}Je ne cède pas aux menaces.(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0054",
     "en": " As one of His messengers, you must attend{SAUT}to me with respect.[FFFD][2CFF][F500]You speak as though you make sport of{SAUT}me... You are but a child, so I am{SAUT}sure He will forgive your indiscretion.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Je suis Son messager : traitez-moi{SAUT}avec respect.[FFFD][2CFF][F500]Vous semblez vous moquer de moi... Vous{SAUT}n'êtes qu'un enfant, Il pardonnera{SAUT}cet écart.(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0055",
     "en": "   Those who forget their manners make{SAUT}needless enemies![FFFD][2DFF][F500]Barbed words hurt not only others, but{SAUT}can be turned upon yourself!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Qui oublie les manières se fait des{SAUT}ennemis inutiles![FFFD][2DFF][F500]Les mots acérés blessent les autres,{SAUT}mais peuvent se retourner contre vous!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0056",
     "en": "How old do I appear to you? Suffice to{SAUT}say I am older than you, so speak to me{SAUT}in a more appropriate manner![FFFD][2EFF][F500] Your words of praise... I am certain{SAUT}that He is pleased with them.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Quel âge me donnez-vous? Je{SAUT}suis votre aîné, alors{SAUT}parlez-moi convenablement![FFFD][2EFF][F500] Vos louanges... Je suis certain{SAUT}qu'elles Lui plaisent.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0057",
     "en": " It seems that you are a quick thinker,{SAUT}if nothing else.[FFFD][2FFF][F500]  I would like to show you the dance of{SAUT}we heavenly creatures someday.(*RESPONSE*)",
-    "fr": "",
+    "fr": " Vous avez au moins{SAUT}l'esprit vif.[FFFD][2FFF][F500]  J'aimerais un jour vous montrer la{SAUT}danse des créatures célestes.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0058",
     "en": "   That is quite a dance. I would like you{SAUT}to teach it to me as well.[FFFD][30FF][F500]   You seem to lack training. Your dancing{SAUT}is a form of ordeal... You must not{SAUT}neglect your practice!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Quelle danse. J'aimerais que vous{SAUT}me l'appreniez.[FFFD][30FF][F500]   Vous manquez d'entraînement.{SAUT}Votre danse est une épreuve...{SAUT}Pratiquez davantage!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0059",
     "en": " How unsightly! The restroom is that way![FFFD][31FF][F500] Your dance is an expression of the joys{SAUT}of living! Magnificent! I feel as though{SAUT}I would like to join in!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Quelle indécence! Les toilettes sont par là![FFFD][31FF][F500] Votre danse exprime la joie{SAUT}de vivre! Magnifique!{SAUT}J'aimerais me joindre à vous!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0060",
     "en": "  Your dance is an expression of the joys{SAUT}of living! Well then, let us dance{SAUT}together![FFFD][32FF][F500] You are overflowing with confidence.{SAUT}Should the chance ever arise, I would{SAUT}like a personal match with you.(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Votre danse exprime la{SAUT}joie de vivre! Eh bien,{SAUT}dansons ensemble![FFFD][32FF][F500] Vous débordez de confiance. Si l'occasion{SAUT}se présente, j'aimerais vous affronter{SAUT}en personne.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0061",
     "en": " I understand now your strength...{SAUT}But what will you do with me?[FFFD][33FF][F500]  I shall mend your twisted mind for{SAUT}your own sake!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Je mesure votre force... Mais que{SAUT}ferez-vous de moi?[FFFD][33FF][F500]  Je redresserai votre esprit tordu,{SAUT}pour votre bien!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0062",
     "en": "  Where did you learn to speak such filth?[FFFD][34FF][F500] I am an angel; His own messenger...{SAUT}I do not yield to threats.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Où avez-vous appris pareilles ordures?[FFFD][34FF][F500] Je suis un ange, Son messager...{SAUT}Je ne cède pas aux menaces.(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0063",
     "en": " As one of His messengers, you must attend{SAUT}to me with respect.[FFFD][35FF][F500]Is something the matter with my face?{SAUT}I endeavor to construct the proper{SAUT}expressions while in the human world.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Je suis Son messager : traitez-moi{SAUT}avec respect.[FFFD][35FF][F500]Mon visage a un problème? Je m'efforce{SAUT}de composer les bonnes expressions dans{SAUT}le monde humain.(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0064",
     "en": " If you observe me that closely, your{SAUT}eyes may bore a hole in me![FFFD][36FF][F500] That defiant look is unacceptable!(*RESPONSE*)",
-    "fr": "",
+    "fr": " À me fixer ainsi, vos yeux vont me{SAUT}transpercer![FFFD][36FF][F500] Ce regard de défi est inacceptable!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0065",
     "en": " You must not look that way at one of{SAUT}His messengers![FFFD][37FF][F500] What is the matter? You look bewildered.(*RESPONSE*)",
-    "fr": "",
+    "fr": " Ne regardez pas ainsi l'un de Ses{SAUT}messagers![FFFD][37FF][F500] Qu'y a-t-il? Vous semblez perdu.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0066",
     "en": "   What is the matter? Have you never seen{SAUT}someone of my beauty before? Ahaha...[FFFD][38FF][F500]Since you have been redeemed, your point{SAUT}is indeed reasonable.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Qu'y a-t-il? Jamais vu pareille{SAUT}beauté? Ahaha...[FFFD][38FF][F500]Puisque vous êtes racheté, votre{SAUT}requête est raisonnable.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0067",
     "en": " You have a great deal of foresight.{SAUT}Young though you are, you are both{SAUT}admirable and reliable.[FFFD][39FF][F500]   Do you truly require my intervention?{SAUT}There is no sincerity in your speech{SAUT}and actions!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Vous êtes clairvoyant.{SAUT}Si jeune, et pourtant{SAUT}admirable et fiable.[FFFD][39FF][F500]   Avez-vous vraiment besoin de moi?{SAUT}Vos paroles et vos actes manquent{SAUT}de sincérité!(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0069",
     "en": "{PAGE}Pursuing personal gain and deceitfully{SAUT}hiding your true intentions will only{SAUT}anger Him![FFFD][3AFF][F500] This contract is based on my conjecture...{SAUT}You have turned your heart to the Lord,{SAUT}and you walk the path of righteousness!(*RESPONSE*)",
-    "fr": "",
+    "fr": "{PAGE}Chercher votre profit en{SAUT}cachant vos vraies intentions{SAUT}ne fera que L'irriter![FFFD][3AFF][F500] Ce pacte repose sur ma conjecture...{SAUT}Votre coeur va au Seigneur, vous marchez{SAUT}dans la droiture!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0070",
     "en": " Do you wish to form a contract with me,{SAUT}one of His messengers?[FFFD][3BFF][F500]   That is a lie, spread by the wicked!{SAUT}It is foolish of you to believe it!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Voulez-vous un pacte avec moi,{SAUT}l'un de Ses messagers?[FFFD][3BFF][F500]   C'est un mensonge répandu par les{SAUT}méchants! Sot que vous êtes d'y croire!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0071",
     "en": "   That was not a harmonious story. Why do{SAUT}humans enjoy stories of disrupting peace{SAUT}and order!?[FFFD][3CFF][F500] H-Hold a moment... I must hence to{SAUT}the lavatory...(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Voilà une histoire peu harmonieuse.{SAUT}Pourquoi les humains aiment-ils les{SAUT}récits de désordre!?[FFFD][3CFF][F500] U-Un instant... Je dois me rendre{SAUT}aux toilettes...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0072",
     "en": " To be plain... I do not deal well with{SAUT}such stories...[FFFD][3DFF][F500]   If you speak of such things, they will{SAUT}gather near you. Look... There is one{SAUT}behind you now!{ATTENTE}",
-    "fr": "",
+    "fr": " Pour être franc... Je supporte mal{SAUT}ces histoires...[FFFD][3DFF][F500]   À en parler, vous les{SAUT}attirez. Regardez... Il y{SAUT}en a un derrière vous!{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0073",
     "en": "{PAGE}Ahaha... Were you frightened? If you{SAUT}obey Him, these things will no longer{SAUT}trouble you.(*RESPONSE*)",
-    "fr": "",
+    "fr": "{PAGE}Ahaha... Vous avez eu peur?{SAUT}Obéissez-Lui, et ces choses{SAUT}ne vous troubleront plus.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0074",
     "en": "  You seem very familiar with that. Are{SAUT}there dreadful places in such utter{SAUT}disorder here too?[FFFD][3EFF][F500] Magnificent! You are one graced with{SAUT}both intelligence and beauty.(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Vous semblez bien connaître{SAUT}cela. Y a-t-il ici aussi{SAUT}des lieux si affreux?[FFFD][3EFF][F500] Magnifique! Vous avez l'intelligence{SAUT}et la beauté.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0075",
     "en": " How marvelous! Had I not been an angel,{SAUT}I would have succumbed to your charms.[FFFD][3FFF][F500]   Though you try to appease angels with{SAUT}such songs, His order will not be{SAUT}swayed!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Merveilleux! Si je n'étais un ange,{SAUT}j'aurais succombé à vos charmes.[FFFD][3FFF][F500]   Ces chants n'amadouent{SAUT}pas les anges : Son{SAUT}ordre ne fléchira pas!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0076",
     "en": "An enchanting singer who seduces souls...{SAUT}Humans are indeed dangerous creatures.{SAUT}They cannot be left unshepherded![FFFD][40FF][F500]   Ah, such singing is truly the music of{SAUT}the spheres!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Un chant qui séduit les âmes... Les{SAUT}humains sont dangereux. On ne peut les{SAUT}laisser sans berger![FFFD][40FF][F500]   Ah, ce chant est la{SAUT}musique des sphères!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0077",
     "en": "That voice must be a gift from Him, no?{SAUT}I am deeply moved...![FFFD][41FF][F500]What is it? Rather, \"what ish it, mommy?\"{SAUT}Is that how I was meant to say it?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Cette voix est un don de Lui, non?{SAUT}Je suis bouleversé...![FFFD][41FF][F500]Quoi? Ou plutôt, \"c'est koi, maman?\"{SAUT}Est-ce ainsi qu'il faut le dire?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0078",
     "en": "   Ahaha... Angels do not age, but do I{SAUT}look so young to you?[FFFD][42FF][F500]   Ever since the redemption of humanity,{SAUT}they have become quite insolent!{SAUT}That must now be corrected!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Ahaha... Les anges ne vieillissent pas,{SAUT}mais je vous semble si jeune?[FFFD][42FF][F500]   Depuis leur rédemption, les{SAUT}humains sont devenus insolents!{SAUT}Il faut corriger cela!(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0079",
     "en": "How deplorable! Do you not even know{SAUT}your place!?[FFFD][43FF][F500]I feel as though I experienced something{SAUT}like that in the world gone by...(*RESPONSE*)",
-    "fr": "",
+    "fr": "Déplorable! Vous{SAUT}ignorez votre place!?[FFFD][43FF][F500]Il me semble avoir vécu cela dans{SAUT}le monde d'autrefois...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0080",
     "en": " Is the mother of life one like you?[FFFD][44FF][F500]  Since you require my intervention,{SAUT}your point is indeed reasonable.(*RESPONSE*)",
-    "fr": "",
+    "fr": " La mère de la vie vous ressemble-t-elle?[FFFD][44FF][F500]  Puisque vous requérez mon aide,{SAUT}votre requête est raisonnable.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0081",
     "en": "You have a great deal of foresight.{SAUT}Young though you are, you are both{SAUT}admirable and reliable.[FFFD][45FF][F500]   Do you truly require my intervention?{SAUT}There is no sincerity in your speech{SAUT}and actions!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Vous êtes clairvoyant.{SAUT}Si jeune, et pourtant{SAUT}admirable et fiable.[FFFD][45FF][F500]   Avez-vous vraiment besoin de moi?{SAUT}Vos paroles et vos actes manquent{SAUT}de sincérité!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0083",
     "en": "{PAGE}Pursuing personal gain and deceitfully{SAUT}hiding your true intentions will only{SAUT}anger Him![FFFD][46FF][F500] Your instincts are right to be interested{SAUT}in me... Now turn your heart to the Lord{SAUT}and let us walk a path of righteousness!(*RESPONSE*)",
-    "fr": "",
+    "fr": "{PAGE}Chercher votre profit en{SAUT}cachant vos vraies intentions{SAUT}ne fera que L'irriter![FFFD][46FF][F500] Votre instinct a raison de s'intéresser{SAUT}à moi... Tournez votre coeur vers le{SAUT}Seigneur, marchons dans la droiture!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0084",
     "en": "Do you wish to form a contract with me,{SAUT}one of His messengers?[FFFD][47FF][F500]   You speak as though you make sport of{SAUT}me... You are but a child, so I am{SAUT}sure He will forgive your indiscretion.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Voulez-vous un pacte avec moi,{SAUT}l'un de Ses messagers?[FFFD][47FF][F500]   Vous semblez vous moquer de moi... Vous{SAUT}n'êtes qu'un enfant, Il pardonnera{SAUT}cet écart.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0085",
     "en": "   Those who forget their manners make{SAUT}needless enemies![FFFD][48FF][F500]Ever since the redemption of humanity,{SAUT}they have become quite insolent!{SAUT}That must now be corrected!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Qui oublie les manières se fait des{SAUT}ennemis inutiles![FFFD][48FF][F500]Depuis leur rédemption, les{SAUT}humains sont devenus insolents!{SAUT}Il faut corriger cela!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0086",
     "en": "How deplorable, not to even know{SAUT}your place![FFFD][49FF][F500] When you put it that way... I-I become{SAUT}less sure of myself...(*RESPONSE*)",
-    "fr": "",
+    "fr": "Déplorable, ignorer{SAUT}ainsi votre place![FFFD][49FF][F500] Dit ainsi... J-Je{SAUT}doute de moi...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0087",
     "en": "  I cannot believe you would speak that{SAUT}way to one of His angels... Oh Lord...{SAUT}I am dreadful...[FFFD][4AFF][F500]You are a pleasant human.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Parler ainsi à l'un de{SAUT}Ses anges... Ô Seigneur...{SAUT}Quelle honte...[FFFD][4AFF][F500]Humain agréable.(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0088",
     "en": "  You wish to converse with me? Shall I{SAUT}teach you about the Lord, mankind,{SAUT}and love?[FFFD][4BFF][F500]   Sinful woman! Be ashamed of yourself!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Vous voulez converser? Dois-je vous{SAUT}parler du Seigneur, des hommes et{SAUT}de l'amour?[FFFD][4BFF][F500]   Pécheresse! Ayez honte!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0089",
     "en": "  Why do you treat yourself so carelessly?{SAUT}You are one of His unique creations![FFFD][4CFF][F500]Could this be an ordeal as well...?{SAUT}But the circumstances are so delightful...{SAUT}What... what should I do...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Pourquoi vous négliger ainsi? Vous êtes{SAUT}l'une de Ses créations uniques![FFFD][4CFF][F500]Encore une épreuve...?{SAUT}Mais c'est si délicieux...{SAUT}Que... que faire...?(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0090",
     "en": "My heart is wavering... Am I going to{SAUT}be corrupted?[FFFD][4DFF][F500]  This is an ordeal from Him! When you{SAUT}overcome it, true happiness will{SAUT}await you!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Mon coeur vacille... Vais-je être{SAUT}corrompu?[FFFD][4DFF][F500]  C'est une épreuve de Lui!{SAUT}Surmontez-la, et le vrai{SAUT}bonheur vous attendra!(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0091",
     "en": "   Though you are young, you have been{SAUT}through much hardship...[FFFD][4EFF][F500] How reckless of you to lie to an angel!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Si jeune, et déjà{SAUT}tant d'épreuves...[FFFD][4EFF][F500] Quelle imprudence, mentir à un ange!(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0092",
     "en": "Know that you are well known for your{SAUT}false tears![FFFD][4FFF][F500]   P-Please stop! At this rate, I will{SAUT}appear to be a wicked angel...(*RESPONSE*)",
-    "fr": "",
+    "fr": "Sachez que vos fausses larmes sont{SAUT}connues![FFFD][4FFF][F500]   A-Arrêtez! On va me prendre pour{SAUT}un ange cruel...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0093",
     "en": " You are putting me in a difficult{SAUT}situation, crying while we work out{SAUT}a contract...[FFFD][50FF][F500]  You are overflowing with confidence.{SAUT}Should the chance ever arise, I would{SAUT}like a personal match with you.(*RESPONSE*)",
-    "fr": "",
+    "fr": " Vous me mettez dans{SAUT}l'embarras, à pleurer en{SAUT}pleine négociation...[FFFD][50FF][F500]  Vous débordez de confiance. Si l'occasion{SAUT}se présente, j'aimerais vous affronter{SAUT}en personne.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0094",
     "en": " I understand now your strength...{SAUT}But what will you do with me?[FFFD][51FF][F500]  I shall mend your twisted mind for{SAUT}your own sake!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Je mesure votre force... Mais que{SAUT}ferez-vous de moi?[FFFD][51FF][F500]  Je redresserai votre esprit tordu,{SAUT}pour votre bien!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0095",
     "en": "  Where did you learn to speak such filth?[FFFD][52FF][F500] I am an angel; His own messenger...{SAUT}I do not yield to threats.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Où avez-vous appris pareilles ordures?[FFFD][52FF][F500] Je suis un ange, Son messager...{SAUT}Je ne cède pas aux menaces.(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0096",
     "en": " As one of His messengers, you must attend{SAUT}to me with respect.[FFFD][53FF][F500]Ever since the redemption of humanity,{SAUT}they have become quite insolent!{SAUT}That must now be corrected!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Je suis Son messager : traitez-moi{SAUT}avec respect.[FFFD][53FF][F500]Depuis leur rédemption, les{SAUT}humains sont devenus insolents!{SAUT}Il faut corriger cela!(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0097",
     "en": "How deplorable, not to even know{SAUT}your place![FFFD][54FF][F500] Did I err...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Déplorable, ignorer{SAUT}ainsi votre place![FFFD][54FF][F500] Ai-je failli...?(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0098",
     "en": "  Please, hold a moment!{SAUT}Have I done something?[FFFD][55FF][F500]You must have been sent to test me!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Un instant, je vous prie! Ai-je fait{SAUT}quelque chose?[FFFD][55FF][F500]On a dû vous envoyer m'éprouver!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0099",
     "en": "This must be an ordeal as well! Hurl as{SAUT}much abuse as you see fit![FFFD][56FF][F500]   Since you have been redeemed, your point{SAUT}is indeed reasonable.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Encore une épreuve! Injuriez-moi{SAUT}tant qu'il vous plaira![FFFD][56FF][F500]   Puisque vous êtes racheté, votre{SAUT}requête est raisonnable.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0100",
     "en": " You have a great deal of foresight.{SAUT}Young though you are, you are both{SAUT}admirable and reliable.[FFFD][57FF][F500]   Do you truly wish to form a contract?{SAUT}There is no sincerity in your speech{SAUT}and actions!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Vous êtes clairvoyant.{SAUT}Si jeune, et pourtant{SAUT}admirable et fiable.[FFFD][57FF][F500]   Voulez-vous vraiment un pacte?{SAUT}Vos paroles et vos actes manquent{SAUT}de sincérité!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0102",
     "en": "{PAGE}Pursuing personal gain and deceitfully{SAUT}hiding your true intentions will only{SAUT}anger Him![FFFD][58FF][F500] This contract is based on my conjecture...{SAUT}You have turned your heart to the Lord,{SAUT}and you walk the path of righteousness!(*RESPONSE*)",
-    "fr": "",
+    "fr": "{PAGE}Chercher votre profit en{SAUT}cachant vos vraies intentions{SAUT}ne fera que L'irriter![FFFD][58FF][F500] Ce pacte repose sur ma conjecture...{SAUT}Votre coeur va au Seigneur, vous marchez{SAUT}dans la droiture!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0103",
     "en": " Do you wish to form a contract with me,{SAUT}one of His messengers?[FFFD][59FF][F500]   Ever since the redemption of humanity,{SAUT}they have become quite insolent!{SAUT}That must now be corrected!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Voulez-vous un pacte avec moi,{SAUT}l'un de Ses messagers?[FFFD][59FF][F500]   Depuis leur rédemption, les{SAUT}humains sont devenus insolents!{SAUT}Il faut corriger cela!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0104",
     "en": "How deplorable, not to even know{SAUT}your place![FFFD][5AFF][F500] Did I err...?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Déplorable, ignorer{SAUT}ainsi votre place![FFFD][5AFF][F500] Ai-je failli...?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0105",
     "en": "  Please, hold a moment! Have I done{SAUT}something to offend you?[FFFD][5BFF][F500]  You must have been sent to test me!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Un instant, je vous prie! Vous ai-je{SAUT}offensé?[FFFD][5BFF][F500]  On a dû vous envoyer m'éprouver!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0106",
     "en": "This must be an ordeal as well! Hurl as{SAUT}much abuse as you see fit![FFFD][5CFF][F500]   The Lord may have some hidden reason{SAUT}for your actions...(*RESPONSE*)",
-    "fr": "",
+    "fr": "Encore une épreuve! Injuriez-moi{SAUT}tant qu'il vous plaira![FFFD][5CFF][F500]   Le Seigneur a peut-être une raison{SAUT}cachée à vos actes...(*RESPONSE*)",
     "_occurrences": 2
   }
 ]

@@ -2,591 +2,591 @@
   {
     "id": "TENSI.BIN:text:0322",
     "en": " You have made great strides in coming to{SAUT}understand that, have you not? Then keep{SAUT}trying your hardest!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Vous avez bien progressé{SAUT}pour le comprendre,{SAUT}non? Alors persévérez!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0333",
     "en": "   Haha, please excuse me. That was indeed{SAUT}very rude of me.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Haha, excusez-moi. C'était en effet{SAUT}très impoli de ma part.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0334",
     "en": "   Why are you ashamed? Knowing one's true{SAUT}strengths is a very ordinary thing!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Pourquoi avoir honte? Connaître ses{SAUT}vraies forces est chose ordinaire!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0335",
     "en": "Speaking with you brings me peace{SAUT}of mind!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Vous parler m'apporte la paix{SAUT}de l'esprit!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0336",
     "en": " I can scarcely believe you continue to{SAUT}lie before one of His messengers! There{SAUT}will be no clemency for you!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Dire que vous mentez encore devant l'un{SAUT}de Ses messagers! Point de clémence{SAUT}pour vous!(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0342",
     "en": "   There are many forms of love, but not all{SAUT}are genuine. However, His love suffuses{SAUT}all, and...{ATTENTE}",
-    "fr": "",
+    "fr": "   L'amour a bien des formes, pas toutes{SAUT}sincères. Mais Son amour imprègne{SAUT}tout, et...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0343",
     "en": "{PAGE}> The speech goes on and on.(*RESPONSE*)",
-    "fr": "",
+    "fr": "{PAGE}> Le sermon n'en finit pas.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:text:0344",
     "en": "Did you not want to talk? What a fickle{SAUT}creature you are!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Vous ne vouliez pas parler? Quelle{SAUT}créature inconstante vous êtes!(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:text:0345",
     "en": "  I will forgive you this time.(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Je vous pardonne, pour cette fois.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0346",
     "en": "  You must not flee simply because my words{SAUT}are painful to you!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Ne fuyez pas parce que mes paroles{SAUT}vous blessent!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0347",
     "en": "  Whew... In truth, that surprised me.(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Pfiou... À vrai dire, cela m'a surpris.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0348",
     "en": "   At this rate, I shall become fallen...(*RESPONSE*)",
-    "fr": "",
+    "fr": "   À ce train, je vais devenir un déchu...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0349",
     "en": " You are right. Courage is necessary{SAUT}at times.(*RESPONSE*)",
-    "fr": "",
+    "fr": " Vous avez raison. Le courage est{SAUT}parfois nécessaire.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0350",
     "en": "  It is... not given to me to act rashly...(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Je ne puis... agir à la légère...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0351",
     "en": "  This is my personal problem. It is not{SAUT}a matter for humans.(*RESPONSE*)",
-    "fr": "",
+    "fr": "  C'est mon problème personnel. Cela{SAUT}ne regarde pas les humains.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0352",
     "en": "So that is why! Your actions are{SAUT}deceptively profound.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Voilà donc pourquoi! Vos actes sont{SAUT}d'une profondeur trompeuse.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0353",
     "en": " You fail to understand indirect methods{SAUT}of expressions!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Vous ne saisissez pas les modes{SAUT}d'expression indirects!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0354",
     "en": "That is more interesting than what you{SAUT}tried a moment ago.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Plus intéressant que ce que vous{SAUT}tentiez à l'instant.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0355",
     "en": " Ah, is that so? But that is something{SAUT}one would normally say to a female human.(*RESPONSE*)",
-    "fr": "",
+    "fr": " Ah, vraiment? Mais cela se dit plutôt{SAUT}à une humaine.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0356",
     "en": "A-Are you quite well...?(*RESPONSE*)",
-    "fr": "",
+    "fr": "V-Vous allez bien...?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0357",
     "en": "   It would be best to offer all your{SAUT}proceeds to the Lord.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Mieux vaudrait offrir tous vos gains{SAUT}au Seigneur.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0358",
     "en": "   That is unfortunate.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   C'est regrettable.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0359",
     "en": "   I would definitely like to hear it.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Je serais ravi de l'entendre.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0360",
     "en": "If that is your attitude, so be it!{SAUT}[0A7B][0636]{SAUT}There is a limit to how much I will{SAUT}take from a human!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Si telle est votre attitude, soit!{SAUT}[0A7B][0636]{SAUT}Il y a une limite à ce que je{SAUT}tolère d'un humain!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0361",
     "en": "  This is not for my personal interest,{SAUT}but rather my duty...(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Ce n'est pas par intérêt personnel,{SAUT}mais par devoir...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0362",
     "en": "Can you not hear my words!?(*RESPONSE*)",
-    "fr": "",
+    "fr": "N'entendez-vous pas mes paroles!?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0363",
     "en": "Humans have not changed. They are as{SAUT}childish as ever...(*RESPONSE*)",
-    "fr": "",
+    "fr": "Les humains n'ont pas changé. Toujours{SAUT}aussi puérils...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0364",
     "en": "   How childish can you be!?(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Peut-on être aussi puéril!?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0365",
     "en": "  Ahaha... all of our actions have a{SAUT}profound meaning behind them.(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Ahaha... chacun de nos actes a un{SAUT}sens profond.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0366",
     "en": "   We who are His messengers do not lie!{SAUT}Do not insult me so!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Nous, Ses messagers, ne mentons pas!{SAUT}Ne m'insultez pas ainsi!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0367",
     "en": " ...How did you find out?(*RESPONSE*)",
-    "fr": "",
+    "fr": " ...Comment l'avez-vous su?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0368",
     "en": "   You should have no secret from one of{SAUT}His messengers!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Vous ne devriez rien cacher à l'un{SAUT}de Ses messagers!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0369",
     "en": "  What a troublesome human... The Lord{SAUT}watches over you, even if you do not{SAUT}carry out such bizarre acts.(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Quel humain pénible... Le Seigneur{SAUT}veille sur vous, même sans ces{SAUT}actes bizarres.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0370",
     "en": " So that is why...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Voilà donc pourquoi...(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0371",
     "en": "  I refer to you! You!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Je parle de vous! Vous!(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0372",
     "en": "   You are right. Even a lowly human such{SAUT}as you has pride.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Vous avez raison. Même un humain aussi{SAUT}bas que vous a sa fierté.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:text:0373",
     "en": "   Ah... so you, too, have your pride...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Ah... vous avez votre fierté aussi...(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0374",
     "en": "  Do you see now that it is all right?(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Vous voyez maintenant que tout va bien?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0375",
     "en": "   Ah... I hope that your fear was not{SAUT}too great...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Ah... J'espère que votre peur n'a pas{SAUT}été trop grande...(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0376",
     "en": "   Those who show kindness will receive{SAUT}their rewards. Do not forget that.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Qui fait preuve de bonté recevra sa{SAUT}récompense. Ne l'oubliez pas.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0377",
     "en": "Listen well: you are being tested.{SAUT}Are you truly confident in your choice?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Écoutez bien : vous êtes mis à l'épreuve.{SAUT}Êtes-vous sûr de votre choix?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0378",
     "en": " I meant that I wanted something else...{SAUT}Can you not deduce even that!?(*RESPONSE*)",
-    "fr": "",
+    "fr": " Je voulais dire autre chose...{SAUT}Vous ne pouvez même pas le déduire!?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0379",
     "en": " You are a quick thinker. Very well then,{SAUT}I shall take you up on it.[FFF1](*RESPONSE*)",
-    "fr": "",
+    "fr": " Vous avez l'esprit vif. Très bien,{SAUT}je vous prends au mot.[FFF1](*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0380",
     "en": "   May His blessing be with you...(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Que Sa bénédiction soit avec vous...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0381",
     "en": "＊gasp＊ So it was a trap! Deceiving an{SAUT}angel is an act of blasphemy towards Him!(*RESPONSE*)",
-    "fr": "",
+    "fr": "＊hoquet＊ C'était un piège! Tromper un{SAUT}ange est un blasphème envers Lui!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0382",
     "en": "＊gasp＊ So it was a trap...(*RESPONSE*)",
-    "fr": "",
+    "fr": "＊hoquet＊ C'était donc un piège...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0402",
     "en": " You are rash, yet surprisingly honest.(*RESPONSE*)",
-    "fr": "",
+    "fr": " Impulsif, mais étonnamment honnête.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0403",
     "en": " You are without hope if you cannot even{SAUT}understand the kindness of others!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Vous êtes sans espoir si vous ne{SAUT}comprenez pas même la bonté d'autrui!(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TENSI.BIN:text:0404",
     "en": " It seems my very existence was too much{SAUT}for you. I never imagined it would cause{SAUT}you to regress to infanthood...(*RESPONSE*)",
-    "fr": "",
+    "fr": " Ma seule existence était trop pour{SAUT}vous. Je n'imaginais pas vous faire{SAUT}régresser en nourrisson...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0405",
     "en": "   Answer succinctly and clearly!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Répondez brièvement et clairement!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0406",
     "en": " Were my words too difficult to understand?(*RESPONSE*)",
-    "fr": "",
+    "fr": " Mes paroles étaient-elles trop ardues?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0407",
     "en": " But your words are not worth reprimanding!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Vos mots ne méritent pas de réprimande!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0408",
     "en": " That is correct... Perhaps from your{SAUT}point of view, that is the case...(*RESPONSE*)",
-    "fr": ""
+    "fr": " C'est exact... De votre point de vue,{SAUT}c'est peut-être le cas...(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0409",
     "en": "I am still in training. Withstanding{SAUT}insults is also part of my ordeal.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je suis encore en formation. Endurer{SAUT}les insultes fait partie de l'épreuve.(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0410",
     "en": "I may not look it, but I am very{SAUT}familiar with modern youth's music!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Cela ne se voit pas, mais je connais{SAUT}bien la musique des jeunes d'aujourd'hui!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0411",
     "en": "   I only wanted a little, you see...(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Je n'en voulais qu'un peu, voyez-vous...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0412",
     "en": " Ahaha... It was a mere jest.(*RESPONSE*)",
-    "fr": "",
+    "fr": " Ahaha... Simple plaisanterie.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0413",
     "en": "   Hm? Ah, please excuse me. I did not{SAUT}understand that you were dancing...(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Hm? Ah, excusez-moi. Je n'avais pas{SAUT}compris que vous dansiez...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0414",
     "en": "Your endurance is impressive for a{SAUT}human. My opinion of you has improved{SAUT}considerably.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Votre endurance est remarquable pour{SAUT}un humain. Mon opinion de vous s'est{SAUT}nettement améliorée.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0415",
     "en": " ＊sigh＊ I am weary... I had underestimated{SAUT}you humans...(*RESPONSE*)",
-    "fr": "",
+    "fr": " ＊soupir＊ Je suis las... J'avais{SAUT}sous-estimé les humains...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0416",
     "en": "Is that the extent of your passion!?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Est-ce là toute votre passion!?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0418",
     "en": " Perhaps I misheard, but did you just{SAUT}say that you intend to defeat me?{SAUT}You did...! Me, of all creatures!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Ai-je mal entendu? Vous comptez me{SAUT}vaincre? Moi...!{SAUT}Moi, entre toutes les créatures!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0419",
     "en": "   Did you just say that you intend to{SAUT}defeat me? You are a wicked one...(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Vous comptez me vaincre?{SAUT}Vous êtes un être malfaisant...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0426",
     "en": " I was merely jesting! You seem somewhat{SAUT}naive...(*RESPONSE*)",
-    "fr": "",
+    "fr": " Je plaisantais! Vous êtes un peu{SAUT}naïf...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0427",
     "en": "   ＊gasp＊ Do you mean to say you truly are{SAUT}trying to open it...? Stop this madness{SAUT}at once, I beg you!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   ＊hoquet＊ Vous voulez dire que vous{SAUT}essayez vraiment de l'ouvrir...? Cessez{SAUT}cette folie, je vous en supplie!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0428",
     "en": "＊gasp＊ Do you mean to say you truly are{SAUT}trying to open it...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "＊hoquet＊ Vous voulez dire que vous{SAUT}essayez vraiment de l'ouvrir...?(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0429",
     "en": "  Is that so? In any event, thank you.(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Vraiment? Quoi qu'il en soit, merci.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0430",
     "en": "   You know that I am a [FFF3], yes?(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Vous savez que je suis un [FFF3], oui?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0431",
     "en": "   You are quite rude! In any event, it is{SAUT}folly to negotiate with someone whom you{SAUT}know nothing about!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Quelle impolitesse! Il est fou de{SAUT}négocier avec quelqu'un dont vous{SAUT}ne savez rien!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0432",
     "en": "   Ahaha... Is that so?(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Ahaha... Vraiment?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0433",
     "en": "   You have a very short temper! Our Lord{SAUT}weeps to see that you cannot take a joke!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Vous êtes bien soupe au lait! Le Seigneur{SAUT}pleure de vous voir sans humour!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0434",
     "en": "   I am sorry. My jest went too far.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Pardon. Ma plaisanterie allait trop loin.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0445",
     "en": "   What folly!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Quelle folie!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0446",
     "en": "So that is why! I must say, though,{SAUT}that is a bizarre commandment.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Voilà donc pourquoi! Mais quel{SAUT}commandement bizarre, je dois dire.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0447",
     "en": " Ah, so that is why! You should continue{SAUT}your training as well.(*RESPONSE*)",
-    "fr": "",
+    "fr": " Ah, voilà pourquoi! Poursuivez votre{SAUT}entraînement, vous aussi.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0448",
     "en": " Whew... I am saved...(*RESPONSE*)",
-    "fr": "",
+    "fr": " Pfiou... Je suis sauvé...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0449",
     "en": "  You should refrain from doing things{SAUT}that others would not like!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Évitez de faire ce qui déplaît{SAUT}aux autres!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0450",
     "en": "   Next time, I shall teach you that{SAUT}nothing can scare me while I am under{SAUT}His protection.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   La prochaine fois, je vous{SAUT}montrerai que rien ne{SAUT}m'effraie sous Sa protection.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0451",
     "en": "I am sorry. But first, you must make{SAUT}an offering.[FFF1](*RESPONSE*)",
-    "fr": "",
+    "fr": "Pardon. Mais d'abord, faites{SAUT}une offrande.[FFF1](*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0452",
     "en": " Keeping secrets is the first step on{SAUT}the road to depravity!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Garder des secrets est le premier pas{SAUT}vers la dépravation!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0453",
     "en": "It is true!(*RESPONSE*)",
-    "fr": "",
+    "fr": "C'est vrai!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0454",
     "en": "I was only teasing you! It is unthinkable{SAUT}for me to be swayed by a human's song!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Je vous taquinais! Impensable qu'un{SAUT}chant humain puisse m'émouvoir!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0455",
     "en": "   ...I am glad I remained unswayed.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   ...Heureux d'être resté de marbre.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0456",
     "en": "  Unfortunately... this is not a game!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Hélas... ce n'est pas un jeu!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0460",
     "en": "   Ahaha... Angels do not age!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Ahaha... Les anges ne vieillissent pas!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0461",
     "en": "You were making sport of me,{SAUT}were you not...?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Vous vous moquiez de moi,{SAUT}n'est-ce pas...?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0462",
     "en": "  ...Did you just mock an angel? Blasphemer!{SAUT}Defier of His will!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  ...Vous raillez un ange? Blasphémateur!{SAUT}Vous défiez Sa volonté!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0463",
     "en": " Then that was on purpose...? O Lord!{SAUT}A deceiver stands before me!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Alors c'était voulu...? Ô Seigneur!{SAUT}Un trompeur se tient devant moi!(*RESPONSE*)",
     "_occurrences": 6
   },
   {
     "id": "TENSI.BIN:text:0464",
     "en": "  All is well. I will guide you to the{SAUT}correct path. First, make an offering.[FFF1](*RESPONSE*)",
-    "fr": "",
+    "fr": "  Tout va bien. Je vous guiderai sur la{SAUT}bonne voie. D'abord, une offrande.[FFF1](*RESPONSE*)",
     "_occurrences": 8
   },
   {
     "id": "TENSI.BIN:text:0465",
     "en": "   Hmm... I have no answer ready.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Hmm... Je n'ai pas de réponse.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0466",
     "en": " Ahaha... Whichever it may be, I am{SAUT}afraid I do not know.(*RESPONSE*)",
-    "fr": "",
+    "fr": " Ahaha... Quoi que ce soit, je crains{SAUT}de l'ignorer.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0477",
     "en": "   You are rash, yet surprisingly honest.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Impulsif, mais étonnamment honnête.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0481",
     "en": "   ...You do not understand at all...(*RESPONSE*)",
-    "fr": "",
+    "fr": "   ...Vous ne comprenez rien du tout...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0482",
     "en": " What are you saying!? It is you that{SAUT}I am concerned about!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Que dites-vous!? C'est pour vous{SAUT}que je m'inquiète!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0483",
     "en": " There are many forms of love, but not all{SAUT}are genuine. However, His love suffuses{SAUT}all, and...{ATTENTE}",
-    "fr": "",
+    "fr": " L'amour a bien des formes, pas toutes{SAUT}sincères. Mais Son amour imprègne{SAUT}tout, et...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0486",
     "en": "  Hm... Atone for your sins and I will{SAUT}forgive you this time.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hm... Expiez vos péchés et je vous{SAUT}pardonne pour cette fois.[FFF1](*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0487",
     "en": "   You must not flee simply because my words{SAUT}are painful to you!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Ne fuyez pas parce que mes paroles{SAUT}vous blessent!(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0488",
     "en": "  ...In the end, I cannot do it!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  ...Finalement, je ne peux pas!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0489",
     "en": " Why is the whisper of evil so sweet...!?(*RESPONSE*)",
-    "fr": "",
+    "fr": " Que le murmure du mal est doux...!?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TENSI.BIN:text:0490",
     "en": "   Do your utmost! I will aid you in getting{SAUT}through it!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Faites de votre mieux! Je vous{SAUT}aiderai à traverser cela!(*RESPONSE*)",
     "_occurrences": 2
   }
 ]
