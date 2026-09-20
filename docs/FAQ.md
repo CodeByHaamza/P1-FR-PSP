@@ -28,6 +28,12 @@ ouvertes. Il est recalculé automatiquement.
 
 ## Sur les refus du robot
 
+**`[JSON] fichier illisible vers la ligne N`**
+Le fichier n'est plus un JSON valide : une virgule en trop après la dernière
+ligne d'une entrée, un guillemet effacé, un caractère tapé par mégarde après le
+`"`. Regarde la ligne indiquée et celles juste avant. Tant que c'est là, le
+robot ne peut rien vérifier d'autre.
+
 **`[STRUCTURE] codes attendus [...], obtenus [...]`**
 Un code entre accolades a été perdu, ajouté ou déplacé. Compare ta ligne à
 l'anglais : ta traduction doit contenir exactement les mêmes, dans le même

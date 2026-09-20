@@ -316,6 +316,21 @@ module CheckTrad
     nil
   end
 
+  # Un JSON cassé — une virgule de trop, un guillemet perdu en éditant dans le
+  # navigateur — ne doit pas faire planter le validateur avec une pile Ruby
+  # que le contributeur ne saura pas lire. On rend un message et la ligne
+  # approximative : Ruby ne donne pas de position, mais son message recopie
+  # tout ce qui reste à lire après l'accroc, ce qui suffit à la retrouver.
+  def erreur_json(chemin)
+    source = File.read(chemin, encoding: 'UTF-8')
+    JSON.parse(source)
+    nil
+  rescue JSON::ParserError => e
+    reste = e.message[/at '(.*)\z/m, 1].to_s
+    ligne = [source.lines.count - reste.lines.count + 1, 1].max
+    "[JSON] fichier illisible vers la ligne #{ligne} — une virgule, un guillemet ou "       'un caractère en trop ou en moins, souvent sur la ligne juste avant'
+  end
+
   def verifier(chemin, tabla, glyphes, canari = nil, termes = [])
     entrees = JSON.parse(File.read(chemin, encoding: 'UTF-8'))
     soucis = []
@@ -523,6 +538,20 @@ module CheckTrad
     rapport = []
 
     argv.each do |chemin|
+      if (casse = erreur_json(chemin))
+        ligne = casse[/ligne (\d+)/, 1].to_i
+        if en_json
+          rapport << { 'fichier' => File.basename(chemin), 'textes' => 0, 'traduites' => 0,
+                       'soucis' => [{ 'id' => '', 'ligne' => ligne, 'message' => casse }],
+                       'avertissements' => [] }
+        else
+          puts "❌ 1  #{chemin} — #{casse}"
+          annoter(chemin, ligne, casse) if annotations
+        end
+        total_soucis += 1
+        next
+      end
+
       canari = charger_canari(chemin)
       total, traduites, soucis, avertis = verifier(chemin, tabla, glyphes, canari, termes)
 
