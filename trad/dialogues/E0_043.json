@@ -53,7 +53,7 @@
     "locuteur": "Mark",
     "en": "I know that sounds weird, but is there{SAUT}anything you can do?{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Je sais que ça parrait bizarre, mais il n'y a{SAUT}rien que tu puisses faire?{ATTENTE}"
+    "fr": "Je sais que ça a l'air bizarre, mais{SAUT}tu peux faire quelque chose?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0008",
