@@ -11,14 +11,6 @@ Négociations   ████░░░░░░░░░░░░░░░░░�
 Total          █████████░░░░░░░░░░░░░░░   38 %    9 185 / 24 145 textes
 ```
 
-## ⚠ À corriger
-
-Ces fichiers contiennent des erreurs de validation. Les corriger vaut mieux que d'en traduire un nouveau : une erreur laissée là fera rester la ligne en anglais dans le jeu.
-
-- [`E0_043.json`](trad/dialogues/E0_043.json) — 1 erreur
-
-**Le détail ligne par ligne est dans [l'issue « Lignes à corriger »](../../issues?q=is%3Aissue+is%3Aopen+label%3Asuivi-auto)**, tenue à jour automatiquement. Il s'affiche aussi tout seul sur les lignes de ta proposition.
-
 ## Poids à surveiller
 
 Ces entrées alourdissent leur fichier. Un bloc qui franchit sa frontière fait rester **tout le fichier en anglais** dans le jeu, sans erreur au build : c'est le plus sournois des avertissements.
@@ -156,7 +148,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_040.json`](trad/dialogues/E0_040.json) | 89 | 2 | 2 % | commencé |
 | [`E0_041.json`](trad/dialogues/E0_041.json) | 89 | 0 | 0 % | libre |
 | [`E0_042.json`](trad/dialogues/E0_042.json) | 82 | 0 | 0 % | libre |
-| [`E0_043.json`](trad/dialogues/E0_043.json) | 100 | 1 | 1 % | **à corriger** — 1 erreur |
+| [`E0_043.json`](trad/dialogues/E0_043.json) | 100 | 1 | 1 % | commencé |
 | [`E0_044.json`](trad/dialogues/E0_044.json) | 100 | 100 | 100 % | terminé · 2 trop large |
 | [`E0_045.json`](trad/dialogues/E0_045.json) | 100 | 30 | 30 % | commencé |
 | [`E0_046.json`](trad/dialogues/E0_046.json) | 92 | 12 | 13 % | commencé |
