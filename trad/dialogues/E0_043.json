@@ -10,78 +10,78 @@
     "id": "E0.BIN:161:0001",
     "locuteur": "Maki",
     "en": "Waaaaaaaah! Mommy!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Waaaaaaaah! Maman!{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0002",
     "locuteur": "Setsuko Sonomura",
     "en": "I'm sorry, Maki... I'm so sorry...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Je suis désolé, Maki... Je suis tellement désolé...{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0003",
     "locuteur": "Maki",
     "en": "Mommy! Mommy! Waaaaaaaah!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Maman! Maman! Waaaaaaaah!{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0004",
     "locuteur": "Mark",
     "en": "Are you calming down...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Vous allez vous calmez...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0005",
     "locuteur": "Maki",
     "en": "...Uh-huh.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "...Uh-huh.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0006",
     "locuteur": "Mark",
     "en": "Maki... We want to help you.{SAUT}The real you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Maki... Nous voulons t'aider.{SAUT}La vrai toi.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0007",
     "locuteur": "Mark",
     "en": "I know that sounds weird, but is there{SAUT}anything you can do?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Je sais que ça parrait bizarre, mais il n'y a{SAUT}rien que tu puisses faire?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0008",
     "locuteur": "Maki",
     "en": "Nuh-uh... Nothing.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Non... Rien.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0009",
     "locuteur": "Nanjo",
     "en": "Why not? Aren't you also one aspect{SAUT}of Maki?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Pourquoi pas? N'es tu pas un aspect{SAUT}de Maki{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0010",
     "locuteur": "Maki",
     "en": "Aki wants to make this world go away...{SAUT}She went to where the really bad me is.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Aki veut détruire le monde...{SAUT}Elle va où la mauvaise moi est.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0011",
     "locuteur": "Mark",
     "en": "There's ANOTHER one of her?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Il y a une AUTRE elle?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0012",
