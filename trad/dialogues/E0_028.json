@@ -11,7 +11,7 @@
     "locuteur": "Harem Queen",
     "en": "Same to (*APELLIDO_HEROE*), and the rest of{SAUT}you, too. Welcome to my palace.{ATTENTE}",
     "locuteur_fr": "Reine du Harem",
-    "fr": "Pareil pour (*APELLIDO_HEROE*), et le reste.{SAUT} Bienvenue au sein de mon palais.{ATTENTE}"
+    "fr": "Pareil pour (*APELLIDO_HEROE*) et vous autres.{SAUT}Bienvenue dans mon palais.{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0002",
@@ -60,7 +60,7 @@
     "locuteur": "Maki",
     "en": "Is the real Queen threatening you?{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "La vraie Reine est en train de te menacer?{ATTENTE}"
+    "fr": "Est-ce la vraie Reine qui te menace?{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0009",
@@ -81,7 +81,7 @@
     "locuteur": "Harem Queen",
     "en": "I'm here because I choose to be! Isn't{SAUT}this palace wonderful?{ATTENTE}",
     "locuteur_fr": "Reine du Harem",
-    "fr": "J'suis là car je l'ai décidé! Ce palais{SAUT} n'est-il pas merveilleux?{ATTENTE}"
+    "fr": "J'suis là car je l'ai décidé! Ce palais{SAUT}n'est-il pas merveilleux?{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0012",
@@ -116,7 +116,7 @@
     "locuteur": "Mark",
     "en": "I mean, didn't she kidnap you?{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "J'veux dire, elle ne t'a pas{SAUT}kidnappé?{ATTENTE}"
+    "fr": "J'veux dire, elle t'a pas kidnappée?{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0017",
@@ -130,14 +130,14 @@
     "locuteur": "Harem Queen",
     "en": "She was looking for someone who could{SAUT}use the mirror... It happened to be me.{ATTENTE}",
     "locuteur_fr": "Reine du Harem",
-    "fr": "Elle cherchait quelqu'un qui pourrait{SAUT}utiliser le miroir... Cette personne c'est moi.{ATTENTE}"
+    "fr": "Elle cherchait quelqu'un pour utiliser{SAUT}le miroir... C'est tombé sur moi.{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0019",
     "locuteur": "Maki",
     "en": "...Okay. So you're the Queen. {PAUSE}[2000]Isn't it{SAUT}about time to put an end to this?{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "...Ok. Alors c'est toi la Reine. {PAUSE}[2000]N'est-ce{SAUT}pas l'heure de mettre fin à ça?{ATTENTE}",=
+    "fr": "...Ok. Alors c'est toi la Reine. {PAUSE}[2000]N'est-ce{SAUT}pas l'heure d'en finir?{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0020",
@@ -172,14 +172,14 @@
     "locuteur": "Harem Queen",
     "en": "I didn't really like him anyway.{ATTENTE}",
     "locuteur_fr": "Reine du Harem",
-    "fr": "Je l'ai jamais vraiment aimé de toute{SAUT}façon.{ATTENTE}"
+    "fr": "Je l'aimais pas trop, de toute façon.{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0025",
     "locuteur": "Maki",
     "en": "Huh?{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "Hein?",
+    "fr": "Hein?{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -208,7 +208,7 @@
     "locuteur": "Harem Queen",
     "en": "What, you still don't get it? Wow!{SAUT}You really are stupid!{ATTENTE}",
     "locuteur_fr": "Reine du Harem",
-    "fr": "Tu comprends toujours pas? Wow!{SAUT}Mais t'es d'une stupidité!{ATTENTE}",
+    "fr": "Tu comprends toujours pas? Wow!{SAUT}Mais t'es d'une stupidité!{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0030",
@@ -229,7 +229,7 @@
     "locuteur": "Harem Queen",
     "en": "And I couldn't allow that...{ATTENTE}",
     "locuteur_fr": "Reine du Harem",
-    "fr": "Et ça, ça m'a grave vénère...{ATTENTE}"
+    "fr": "Et ça, hors de question...{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0033",
@@ -243,7 +243,7 @@
     "locuteur": "Harem Queen",
     "en": "So I made my move, and that feebleminded{SAUT}moron was powerless to resist.{ATTENTE}",
     "locuteur_fr": "Reine du Harem",
-    "fr": "Donc j'ai fait le premier pas, et ce faible{SAUT}d'esprit ne pouvait pas me résister.{ATTENTE}"
+    "fr": "J'ai fait le premier pas, et ce faible{SAUT}d'esprit a pas pu me résister.{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0035",
@@ -271,28 +271,28 @@
     "locuteur": "Harem Queen",
     "en": "But I hated you even before that! I was{SAUT}always prettier and more talented!{ATTENTE}",
     "locuteur_fr": "Reine du Harem",
-    "fr": "Mais je te détestais bien auparavant!{SAUT}J'étais toujours plus belle et talentueuse!{ATTENTE}"
+    "fr": "Mais je te détestais déjà avant!{SAUT}J'ai toujours été plus belle, plus douée!{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0039",
     "locuteur": "Harem Queen",
     "en": "Why are YOU the one everyone fawns over!?{ATTENTE}",
     "locuteur_fr": "Reine du Harem",
-    "fr": "Pourquoi TU es celle que tout le monde adore!?{ATTENTE}"
+    "fr": "Pourquoi TOI, tout le monde t'adore!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0040",
     "locuteur": "Nanjo",
     "en": "So that's why you stole Yosuke... And why{SAUT}you forced people to praise your artwork.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "C'est pourquoi vous avez volé Yosuke...{SAUT}Et que vous forcez les gens à louer votre oeuvre.{ATTENTE}"
+    "fr": "Voilà pourquoi vous avez volé Yosuke...{SAUT}Et forcé les gens à louer votre oeuvre.{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0041",
     "locuteur": "Nanjo",
     "en": "......? {PAUSE}[3000]Wait, Chisato. You should be{SAUT}aware that this isn't the Maki you know.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "......? {PAUSE}[3000]Attendez, Chisato. Vous devriez{SAUT}savoir que ce n'est pas la Maki que vous connaissez.{ATTENTE}"
+    "fr": "......? {PAUSE}[3000]Attendez, Chisato. Ce n'est pas{SAUT}la Maki que vous connaissez, sachez-le.{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0042",
@@ -320,7 +320,7 @@
     "locuteur": "Harem Queen",
     "en": "Well, I won't let you do it to me anymore!{SAUT}I'm much better than you now!{ATTENTE}",
     "locuteur_fr": "Reine du Harem",
-    "fr": "Eh bien, je vais plus me laisser faire!{SAUT}Je suis bien meilleure que toi maintenant!{ATTENTE}"
+    "fr": "Eh bien, je vais plus me laisser faire!{SAUT}Je vaux bien mieux que toi maintenant!{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0046",
@@ -341,7 +341,7 @@
     "locuteur": "Harem Queen",
     "en": "Everyone says so. They all say it's{SAUT}much better than Maki's trash!{ATTENTE}",
     "locuteur_fr": "Reine du Harem",
-    "fr": "Tout le monde le dit. Ils disent tous{SAUT}que c'est mieux que la merde faite par Maki!{ATTENTE}"
+    "fr": "Tout le monde le dit. Ils disent tous{SAUT}que c'est mieux que les croûtes de Maki!{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0049",
@@ -362,7 +362,7 @@
     "locuteur": "Mark",
     "en": "You're rotten through and through! A girl{SAUT}like you could never make real art!{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "T'es pourrie jusqu'à la moelle! Une fille{SAUT}comme toi ne pourra jamais créer du vrai art!{ATTENTE}"
+    "fr": "T'es pourrie jusqu'à la moelle! Une fille{SAUT}comme toi fera jamais du vrai art!{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0052",
@@ -383,21 +383,21 @@
     "locuteur": "Nanjo",
     "en": "You were so caught in the throes of envy{SAUT}over Maki, you never made a real effort.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Vous étiez si piégée par les affres de la{SAUT}jalousie, que vous n'aviez jamais fait d'efforts.{ATTENTE}"
+    "fr": "Rongée par la jalousie envers Maki,{SAUT}vous n'avez jamais fait de vrai effort.{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0055",
     "locuteur": "Nanjo",
     "en": "And this is where it brought you...{SAUT}Forcibly enslaving people.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Et c'est là que cela vous a mené...{SAUT}À asservir de nombreuses personnes.{ATTENTE}"
+    "fr": "Et voilà où cela vous a menée...{SAUT}À asservir les gens de force.{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0056",
     "locuteur": "Nanjo",
     "en": "You think this is you at your best?{SAUT}You're a Queen with no clothes!{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Vous pensez que cela est votre apogée?{SAUT}Toutefois,vous n'êtes qu'une Reine nue!{ATTENTE}"
+    "fr": "Vous croyez être à votre apogée?{SAUT}Vous n'êtes qu'une Reine nue!{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0057",
@@ -411,7 +411,7 @@
     "locuteur": "Nanjo",
     "en": "They only humor you out of terror!{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Ils vous complimentent seulement par terreur!{ATTENTE}"
+    "fr": "Ils ne vous flattent que par terreur!{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0059",
@@ -432,14 +432,14 @@
     "locuteur": "Mark",
     "en": "I can't stand the way you hurt Maki{SAUT}because of your stupid complex!{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Je peux pas supporter la manière dont{SAUT}tu blesses Maki juste à cause de ton stupide complexe!{ATTENTE}"
+    "fr": "Je supporte pas que tu fasses du mal{SAUT}à Maki pour ton stupide complexe!{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0062",
     "locuteur": "Mark",
     "en": "I'll say this as many times as it takes,{SAUT}so listen up!{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Je le dirais autant de fois qu'il le{SAUT}faudra alors écoute bien!{ATTENTE}"
+    "fr": "Je le dirai autant de fois qu'il le{SAUT}faudra, alors écoute bien!{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0063",
@@ -453,7 +453,7 @@
     "locuteur": "Harem Queen",
     "en": "I think you need to have another look!{ATTENTE}",
     "locuteur_fr": "Reine du Harem",
-    "fr": "Je crois que tu as besoin de jeter{SAUT}un coup d'oeil à nouveau!"
+    "fr": "Tu devrais y regarder à deux fois!{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0065",
@@ -474,13 +474,13 @@
     "locuteur": "Harem Queen",
     "en": "...Erusaer Tsymmom!{ATTENTE}",
     "locuteur_fr": "Reine du Harem",
-    "fr": "...Namam ed Rosért!{ATTENTE}"
+    "fr": "...Namam ed Rosert!{ATTENTE}"
   },
   {
     "id": "E0.BIN:099:0000",
     "locuteur": "Master",
     "en": "Oh, my... that was fast.{ATTENTE}",
-    "locuteur_fr": "Maître",
+    "locuteur_fr": "Patron",
     "fr": "Oh, eh bien... ce fut expéditif.{ATTENTE}"
   },
   {
@@ -495,7 +495,7 @@
     "locuteur": "Maki",
     "en": "I wonder if Chisato really meant what{SAUT}she said... Maybe she's being controlled?{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "Je me demande si c'est ce que Chisato[SAUT]pense pour de vrai...Peut-être qu'elle est contrôlée?{ATTENTE}"
+    "fr": "Chisato pensait vraiment ce qu'elle a{SAUT}dit... Et si on la contrôlait?{ATTENTE}"
   },
   {
     "id": "E0.BIN:099:0003",
@@ -516,14 +516,14 @@
     "locuteur": "Nanjo",
     "en": "To me, at least, they didn't seem to be{SAUT}the eyes of one under someone's control.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Cela n'est que mon ressenti, mais elle ne{SAUT}semble pas être sous l'emprise de quelqu'un.{ATTENTE}"
+    "fr": "À mes yeux du moins, ce n'était pas{SAUT}le regard d'une personne sous emprise.{ATTENTE}"
   },
   {
     "id": "E0.BIN:099:0006",
     "locuteur": "Elly",
     "en": "Why don't we go see her again?{SAUT}We can ask her everything then.{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Pourquoi n'allons-nous pas la{SAUT}revoir? Nous pourrons alors tout lui demander.{ATTENTE}"
+    "fr": "Pourquoi ne pas retourner la voir?{SAUT}Nous pourrons tout lui demander.{ATTENTE}"
   },
   {
     "id": "E0.BIN:099:0007",
@@ -544,6 +544,6 @@
     "locuteur": "Reiji",
     "en": "Well, we won't get anywhere by staying{SAUT}here. We'll have to go see her again.{ATTENTE}",
     "locuteur_fr": "Reiji",
-    "fr": "Bon, on va aller nulle part en restant{SAUT}ici. Nous allons devoir la revoir à nouveau.{ATTENTE}"
+    "fr": "Bon, on n'ira nulle part en restant là.{SAUT}Faudra retourner la voir.{ATTENTE}"
   }
 ]
