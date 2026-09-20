@@ -3,12 +3,12 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Dialogues      ████████████░░░░░░░░░░░░   50 %    4 281 / 8 572 textes
+Dialogues      ████████████░░░░░░░░░░░░   50 %    4 297 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
 Négociations   ████░░░░░░░░░░░░░░░░░░░░   15 %    1 897 / 12 487 textes
 
-Total          █████████░░░░░░░░░░░░░░░   38 %    9 264 / 24 145 textes
+Total          █████████░░░░░░░░░░░░░░░   38 %    9 280 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -142,7 +142,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_040.json`](trad/dialogues/E0_040.json) | 89 | 2 | 2 % | commencé |
 | [`E0_041.json`](trad/dialogues/E0_041.json) | 89 | 0 | 0 % | libre |
 | [`E0_042.json`](trad/dialogues/E0_042.json) | 82 | 0 | 0 % | libre |
-| [`E0_043.json`](trad/dialogues/E0_043.json) | 100 | 2 | 2 % | en cours par @Colonel-Maskou (#29) |
+| [`E0_043.json`](trad/dialogues/E0_043.json) | 100 | 18 | 18 % | commencé par @Colonel-Maskou |
 | [`E0_044.json`](trad/dialogues/E0_044.json) | 100 | 100 | 100 % | terminé · 2 trop large |
 | [`E0_045.json`](trad/dialogues/E0_045.json) | 100 | 30 | 30 % | commencé |
 | [`E0_046.json`](trad/dialogues/E0_046.json) | 92 | 12 | 13 % | commencé |
