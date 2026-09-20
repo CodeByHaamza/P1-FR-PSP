@@ -36,7 +36,7 @@
     "locuteur": "Igor",
     "en": "From this day forth, you will be our{SAUT}guest in this Velvet Room.{ATTENTE}",
     "locuteur_fr": "Igor",
-    "fr": "Dès ce jour, vous êtes notre hôte{SAUT}en la Chambre de Velours.{ATTENTE}",
+    "fr": "Dès ce jour, vous êtes notre hôte{SAUT}dans la Chambre de Velours.{ATTENTE}",
     "_occurrences": 47
   },
   {
@@ -148,7 +148,7 @@
     "locuteur": "Igor",
     "en": "Welcome to the Velvet Room...{ATTENTE}",
     "locuteur_fr": "Igor",
-    "fr": "Bienvenue en la Chambre de Velours...{ATTENTE}",
+    "fr": "Bienvenue dans la Chambre de Velours...{ATTENTE}",
     "_occurrences": 47
   },
   {
