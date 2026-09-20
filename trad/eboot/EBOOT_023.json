@@ -1,336 +1,372 @@
 [
   {
+    "id": "EBOOT.BIN:BE2:OFF_28A6BE",
+    "en": "Most of this place seems to be gone{SAUT}",
+    "fr": "Ici aussi, presque tout a disparu,{SAUT}",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A706",
+    "en": "too, so be careful if you go in there!{ATTENTE}",
+    "fr": "alors soyez prudents si vous y allez!{ATTENTE}",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A764",
+    "en": "Hey, c'mon, man! This ain't the time{SAUT}",
+    "fr": "Hé, mec! C'est pas le moment de{SAUT}",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A7AE",
+    "en": "to be wandering around!{ATTENTE}",
+    "fr": "traîner dans le coin!{ATTENTE}",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A7EC",
+    "en": "Start takin' this seriously! The haunted{SAUT}",
+    "fr": "Prends ça au sérieux! Le manoir hanté{SAUT}",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_28A83E",
+    "en": "mansion ain't that way.{ATTENTE}",
+    "fr": "est pas par là.{ATTENTE}",
+    "max": 23
+  },
+  {
     "id": "EBOOT.BIN:BE2:OFF_28A87E",
     "en": "Why are we going back to the school?{SAUT}",
-    "fr": "",
+    "fr": "Pourquoi on retourne au lycée?{SAUT}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28A8C8",
     "en": "Kandori's in the east side of town.{ATTENTE}",
-    "fr": "",
+    "fr": "Kandori est à l'est de la ville.{ATTENTE}",
     "max": 35
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28A924",
     "en": "...You better quit messing around before{SAUT}",
-    "fr": "",
+    "fr": "...Arrête de déconner avant que je{SAUT}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28A976",
     "en": "I lose it. Why would we leave town!?{ATTENTE}",
-    "fr": "",
+    "fr": "m'énerve. Pourquoi quitter la ville!?{ATTENTE}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28A9D2",
     "en": "For heaven's sake...{ATTENTE}",
-    "fr": "",
+    "fr": "Bon sang...{ATTENTE}",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28AA0E",
     "en": "Why on earth are we leaving town?{SAUT}",
-    "fr": "",
+    "fr": "Pourquoi diable quitter la ville?{SAUT}",
     "max": 33
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28AA52",
     "en": "I thought we were going to the hospital.{ATTENTE}",
-    "fr": "",
+    "fr": "Je croyais qu'on allait à l'hôpital.{ATTENTE}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28AAB4",
     "en": "Hey, that's the way out of town.{SAUT}",
-    "fr": "",
+    "fr": "Hé, c'est la sortie de la ville.{SAUT}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28AAF6",
     "en": "Aren't we goin' to the hospital?{ATTENTE}",
-    "fr": "",
+    "fr": "On va pas à l'hôpital?{ATTENTE}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28AB48",
     "en": "That girl will be fine. C'mon, we have{SAUT}",
-    "fr": "",
+    "fr": "Cette fille s'en sortira. Vite,{SAUT}",
     "max": 38
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28AB96",
     "en": "to hurry!{ATTENTE}",
-    "fr": "",
+    "fr": "on y va!{ATTENTE}",
     "max": 9
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28ABB8",
     "en": "Hey! What're we doin' here? Don't we{SAUT}",
-    "fr": "",
+    "fr": "Hé! On fait quoi ici? On a pas{SAUT}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28AC02",
     "en": "have stuff to do?{ATTENTE}",
-    "fr": "",
+    "fr": "des trucs à faire?{ATTENTE}",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28AC34",
     "en": "It's always been here on this side,{SAUT}",
-    "fr": "",
+    "fr": "Pourtant ça a toujours été de ce{SAUT}",
     "max": 35
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28AC7C",
     "en": "though.{ATTENTE}",
-    "fr": "",
+    "fr": "côté-ci.{ATTENTE}",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28ACBC",
     "en": "This place was torn down so they could{SAUT}",
-    "fr": "",
+    "fr": "Cet endroit a été rasé pour bâtir{SAUT}",
     "max": 38
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28AD0A",
     "en": "put up the SEBEC building, right?{ATTENTE}",
-    "fr": "",
+    "fr": "l'immeuble SEBEC, non?{ATTENTE}",
     "max": 33
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28AD5C",
     "en": "If it's still here... does that mean{SAUT}",
-    "fr": "",
+    "fr": "S'il est encore là... ça veut dire{SAUT}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28ADA6",
     "en": "we really did go back in time?{ATTENTE}",
-    "fr": "",
+    "fr": "qu'on a bien remonté le temps?{ATTENTE}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28ADF4",
     "en": "This used to be a flower garden...{ATTENTE}",
-    "fr": "",
+    "fr": "C'était un jardin fleuri, avant...{ATTENTE}",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28AE48",
     "en": "But ever since it became a forest,{SAUT}",
-    "fr": "",
+    "fr": "Mais depuis que c'est une forêt,{SAUT}",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28AE8E",
     "en": "no one's been able to go inside.{ATTENTE}",
-    "fr": "",
+    "fr": "plus personne ne peut y entrer.{ATTENTE}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28AEE2",
     "en": "I thought only you and Maki were allowed{SAUT}",
-    "fr": "",
+    "fr": "Je croyais que seuls toi et Maki aviez{SAUT}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28AF34",
     "en": "to enter here.{ATTENTE}",
-    "fr": "",
+    "fr": "accès ici.{ATTENTE}",
     "max": 14
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28AF60",
     "en": "Are you going somewhere else? Well, let's{SAUT}",
-    "fr": "",
+    "fr": "Tu vas ailleurs? Bon, faisons ça{SAUT}",
     "max": 41
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28AFB4",
     "en": "do that after we meet up with everyone.{ATTENTE}",
-    "fr": "",
+    "fr": "après avoir rejoint les autres.{ATTENTE}",
     "max": 39
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B014",
     "en": "We don't have a reason to come to this{SAUT}",
-    "fr": "",
+    "fr": "On a aucune raison de venir dans ce{SAUT}",
     "max": 38
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B062",
     "en": "dump, right? Then let's go get Kandori.{ATTENTE}",
-    "fr": "",
+    "fr": "trou, non? Allons choper Kandori.{ATTENTE}",
     "max": 39
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B0E0",
     "en": "Haha... Yeah, I'm starting to think so.{ATTENTE}",
-    "fr": "",
+    "fr": "Haha... Ouais, je commence à le croire.{ATTENTE}",
     "max": 39
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B13E",
     "en": "C'mon, let's go!{ATTENTE}",
-    "fr": "",
+    "fr": "Allez, on y va!{ATTENTE}",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B170",
     "en": "Maki? What're you talking about? This is{SAUT}",
-    "fr": "",
+    "fr": "Maki? Tu racontes quoi? C'est{SAUT}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B1C2",
     "en": "the hospital you were cooped up in.{ATTENTE}",
-    "fr": "",
+    "fr": "l'hôpital où t'étais enfermée.{ATTENTE}",
     "max": 35
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B218",
     "en": "You have amnesia or somethin'?{ATTENTE}",
-    "fr": "",
+    "fr": "T'es amnésique ou quoi?{ATTENTE}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B264",
     "en": "Weird... Wasn't this place a castle...?{ATTENTE}",
-    "fr": "",
+    "fr": "Bizarre... C'était pas un château...?{ATTENTE}",
     "max": 39
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B2C2",
     "en": "Even before that, I remember it being{SAUT}",
-    "fr": "",
+    "fr": "Et même avant, je me souviens qu'on{SAUT}",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B30E",
     "en": "impossible to come here...{ATTENTE}",
-    "fr": "",
+    "fr": "ne pouvait pas venir ici...{ATTENTE}",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B358",
     "en": "What's he so smug for? It's getting{SAUT}",
-    "fr": "",
+    "fr": "Pourquoi il fait le malin? Ça{SAUT}",
     "max": 35
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B3A0",
     "en": "on my nerves... Let's just go.{ATTENTE}",
-    "fr": "",
+    "fr": "m'énerve... Bon, on y va.{ATTENTE}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B3EC",
     "en": "What's he acting all superior about!?{SAUT}",
-    "fr": "",
+    "fr": "Pourquoi il prend ses grands airs!?{SAUT}",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B438",
     "en": "It really makes me mad!{ATTENTE}",
-    "fr": "",
+    "fr": "Ça me rend dingue!{ATTENTE}",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B476",
     "en": "C'mon, guys, let's go! Pbbbbt!{ATTENTE}",
-    "fr": "",
+    "fr": "Allez, on y va! Pbbbbt!{ATTENTE}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B4B6",
     "en": " (*SPEAKER*)Man in black{SAUT}",
-    "fr": "",
+    "fr": "(*SPEAKER*)Homme en noir{SAUT}",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B4D4",
     "en": "Past here is SEBEC property! No entry!{ATTENTE}",
-    "fr": "",
+    "fr": "Propriété de la SEBEC! Accès interdit!{ATTENTE}",
     "max": 38
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B530",
     "en": "Hey, (*APELLIDO_HEROE*), was the police station{SAUT}",
-    "fr": "",
+    "fr": "Hé, (*APELLIDO_HEROE*), le poste de police{SAUT}",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B56E",
     "en": "always a building like this?{ATTENTE}",
-    "fr": "",
+    "fr": "a toujours ressemblé à ça?{ATTENTE}",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B5B8",
     "en": "Nanjo, you dick...{ATTENTE}",
-    "fr": "",
+    "fr": "Nanjo, sale type...{ATTENTE}",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B5EE",
     "en": "I don't recall having anything to do{SAUT}",
-    "fr": "",
+    "fr": "Je ne me souviens pas avoir affaire{SAUT}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B638",
     "en": "at such a shabby place.{ATTENTE}",
-    "fr": "",
+    "fr": "dans un lieu si miteux.{ATTENTE}",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B678",
     "en": "Huh? I thought there was a castle here...{ATTENTE}",
-    "fr": "",
+    "fr": "Hein? Il y avait pas un château ici...?{ATTENTE}",
     "max": 41
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B6DE",
     "en": "Does this look like the police station{SAUT}",
-    "fr": "",
+    "fr": "Ça ressemble au poste de police,{SAUT}",
     "max": 38,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28B72C",
     "en": "to you? Stop fooling around!{ATTENTE}",
-    "fr": "",
+    "fr": "selon toi? Arrête un peu!{ATTENTE}",
     "max": 28,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28FC3E",
     "en": "                               St. Hermelin 1F{FERME}",
-    "fr": "",
+    "fr": "                               St. Hermelin 1F{FERME}",
     "max": 46
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28FC9C",
     "en": "                St. Hermelin 2F{FERME}",
-    "fr": "",
+    "fr": "                St. Hermelin 2F{FERME}",
     "max": 31,
     "_occurrences": 4
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28FCDC",
     "en": "                St. Hermelin 3F{FERME}",
-    "fr": "",
+    "fr": "                St. Hermelin 3F{FERME}",
     "max": 31,
     "_occurrences": 4
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28FD1C",
     "en": "                St. Hermelin Gym{FERME}",
-    "fr": "",
+    "fr": "            Gymnase St. Hermelin{FERME}",
     "max": 32,
     "_occurrences": 2
   },
@@ -566,42 +602,6 @@
     "id": "EBOOT.BIN:BE2:OFF_29081C",
     "en": "                Devil's Peak 6F{FERME}",
     "fr": "               Pic du Diable 6F{FERME}",
-    "max": 31
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29085C",
-    "en": "                Devil's Peak 7F{FERME}",
-    "fr": "               Pic du Diable 7F{FERME}",
-    "max": 31
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29089C",
-    "en": "                Devil's Peak 8F{FERME}",
-    "fr": "               Pic du Diable 8F{FERME}",
-    "max": 31
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2908DC",
-    "en": "                Devil's Peak 9F{FERME}",
-    "fr": "               Pic du Diable 9F{FERME}",
-    "max": 31
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29091C",
-    "en": "                Devil's Peak 10F{FERME}",
-    "fr": "               Pic du Diable 10F{FERME}",
-    "max": 32
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29095E",
-    "en": "               Devil's Peak 11F{FERME}",
-    "fr": "              Pic du Diable 11F{FERME}",
-    "max": 31
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_29099E",
-    "en": "               Devil's Peak 12F{FERME}",
-    "fr": "              Pic du Diable 12F{FERME}",
     "max": 31
   }
 ]

@@ -333,7 +333,7 @@
     "id": "E0.BIN:118:0048",
     "locuteur": "Maki",
     "en": "What...?{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Maki",
     "fr": "Quoi...?{ATTENTE}"
   },
   {
@@ -481,7 +481,7 @@
     "id": "E0.BIN:118:0071",
     "locuteur": "Mai",
     "en": "I'm sorry.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mai",
     "fr": "Désolé.{ATTENTE}"
   },
   {

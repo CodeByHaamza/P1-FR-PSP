@@ -80,8 +80,8 @@
     "id": "E1.BIN:065:0011",
     "locuteur": "Nanjo",
     "en": "＊sigh＊ I'm certainly glad we wasted our{SAUT}time and effort saving them.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "＊soupir＊ Ravi d'avoir gaspillé notre{SAUT}temps et nos efforts à les sauver.{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0012",
@@ -150,8 +150,8 @@
     "id": "E1.BIN:065:0021",
     "locuteur": "Yukino",
     "en": "Do either of you have a (*TEXTBOX_PARAM,0700*)Mirror Shard(*TEXTBOX_PARAM,0000*)?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "L'un de vous a un (*TEXTBOX_PARAM,0700*)Fragment de Miroir(*TEXTBOX_PARAM,0000*)?{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0022",
@@ -171,8 +171,8 @@
     "id": "E1.BIN:065:0024",
     "locuteur": "Nanjo",
     "en": "Look, we're searching for (*TEXTBOX_PARAM,0700*)Mirror{SAUT}Shards(*TEXTBOX_PARAM,0000*). Do either of you have one?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Écoutez, nous cherchons des (*TEXTBOX_PARAM,0700*)Fragments{SAUT}de Miroir(*TEXTBOX_PARAM,0000*). L'un de vous en a-t-il un?{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0025",
@@ -206,8 +206,8 @@
     "id": "E1.BIN:065:0029",
     "locuteur": "Tamaki",
     "en": "......!{SAUT}Is this what you meant...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "......!{SAUT}C'est ça que tu voulais dire...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0030",
@@ -264,16 +264,16 @@
     "id": "E1.BIN:065:0037",
     "locuteur": "Tamaki",
     "en": "Here you go, (*APELLIDO_HEROE*). Hope this helps.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Tamaki",
+    "fr": "Tiens, (*APELLIDO_HEROE*). J'espère que ça aidera.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:065:0038",
     "locuteur": "Tamaki",
     "en": "Hahah... Remember how I said, \"this{SAUT}one's yours\"?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Hahah... Tu te souviens quand j'ai dit{SAUT}\"celui-là est pour toi\"?{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0039",
@@ -320,7 +320,7 @@
   {
     "id": "E1.BIN:065:0048",
     "en": "{FERME} > Obtained a (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Mirror Shard(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": "",
+    "fr": "{FERME} > (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Fragment de Miroir(*TEXTBOX_PARAM,0000*) reçu.{ATTENTE}",
     "_occurrences": 3
   },
   {
@@ -341,8 +341,8 @@
     "id": "E1.BIN:065:0051",
     "locuteur": "Ayase",
     "en": "Wow! Talk about your good luck! We got{SAUT}ourselves a Mirror Shard!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Waouh! Quel coup de bol! On a trouvé{SAUT}un Fragment de Miroir!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0052",
@@ -383,8 +383,8 @@
     "id": "E1.BIN:065:0057",
     "locuteur": "Ayase",
     "en": "Nurse Natsumi...? Helllooooo!{SAUT}Earth to nurse!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Mlle Natsumi...? Ouhouuuu!{SAUT}Allô, l'infirmerie!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0058",
@@ -397,14 +397,14 @@
     "id": "E1.BIN:065:0059",
     "locuteur": "Nurse Natsumi",
     "en": "...Stop yelling... I have low blood{SAUT}pressure... Ow ow ow... my head...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Natsumi",
     "fr": "...Criez pas... Je fais de la tension{SAUT}basse... Aie... ma tête...{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0060",
     "locuteur": "Nurse Natsumi",
     "en": "A mirror...? Don't have one of those...{SAUT}Good night... Zzzz...{ATTENTE}",
-    "locuteur_fr": "Infirmiere{PAGE}Natsumi",
+    "locuteur_fr": "Natsumi",
     "fr": "Un miroir...? J'en ai pas...{SAUT}Bonne nuit... Zzzz...{ATTENTE}"
   },
   {
@@ -551,8 +551,8 @@
     "id": "E1.BIN:065:0081",
     "locuteur": "Tadashi",
     "en": "We're building a relationship here.{SAUT}You're really rude, you know that?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "On construit une relation, là.{SAUT}Vous êtes vraiment malpolis, vous savez?{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0082",
@@ -579,8 +579,8 @@
     "id": "E1.BIN:065:0085",
     "locuteur": "Tamaki",
     "en": "If you ruin this moment... I'm gonna{SAUT}be REALLY mad!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Si vous gâchez ce moment... je vais{SAUT}être VRAIMENT fâchée!{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0086",
@@ -593,21 +593,21 @@
     "id": "E1.BIN:065:0087",
     "locuteur": "Nurse Natsumi",
     "en": "Zzzz... Hahaha... How is it...?{SAUT}Is it... tasty...?{ATTENTE}",
-    "locuteur_fr": "Infirmiere{PAGE}Natsumi",
+    "locuteur_fr": "Natsumi",
     "fr": "Zzzz... Hahaha... Alors...?{SAUT}C'est... bon...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0088",
     "locuteur": "Nurse Natsumi",
     "en": "Aaaaargh! I'm wide awake now, but I've{SAUT}got a whopper of a headache.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Natsumi",
     "fr": "Aaaaargh! Je suis réveillée, mais j'ai{SAUT}un mal de crane atroce.{ATTENTE}"
   },
   {
     "id": "E1.BIN:065:0089",
     "locuteur": "Nurse Natsumi",
     "en": "I had a nice dream, though... Too bad it{SAUT}got interrupted right at the best part...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Natsumi",
     "fr": "J'ai fait un beau rêve... Dommage qu'il{SAUT}soit coupé au meilleur moment...{ATTENTE}"
   }
 ]

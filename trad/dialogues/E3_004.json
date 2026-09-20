@@ -24,8 +24,8 @@
     "id": "E3.BIN:012:0003",
     "locuteur": "Toro",
     "en": "Everyone in the world is laughing at my{SAUT}bad luck! ＊sob＊ Dammit...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "Le monde entier se moque de ma{SAUT}malchance! ＊sanglot＊ Bon sang...{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0004",
@@ -45,8 +45,8 @@
     "id": "E3.BIN:012:0006",
     "locuteur": "Toro",
     "en": "＊sob＊ Why do these things always happen{SAUT}to me...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Toro",
+    "fr": "＊sanglot＊ Pourquoi ça n'arrive toujours{SAUT}qu'à moi...?{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -87,7 +87,7 @@
   {
     "id": "E3.BIN:012:0013",
     "en": "{FERME}> Obtained 2 (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Mirror Shards(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}> (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Fragments de Miroir(*TEXTBOX_PARAM,0000*) x2 obtenus.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0014",
@@ -113,13 +113,13 @@
   {
     "id": "E3.BIN:012:0017",
     "en": "{FERME} (*SCENE_END*)β> Kenta Yokouchi (Nickname: Toro){SAUT}His love of food has made him physically{SAUT}strong, but emotionally fragile.(*SCENE_END*) {ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} (*SCENE_END*)β> Kenta Yokouchi (surnom: Toro){SAUT}Son amour de la nourriture l'a rendu{SAUT}costaud, mais fragile du coeur.(*SCENE_END*) {ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0018",
     "locuteur": "Male student",
     "en": "Everything froze over all of a sudden.{SAUT}Did demons do that, too?{ATTENTE}",
-    "locuteur_fr": "Eleve",
+    "locuteur_fr": "Élève",
     "fr": "Tout a gelé d'un coup.{SAUT}C'est aussi un coup des démons?{ATTENTE}"
   },
   {
@@ -182,21 +182,21 @@
     "id": "E3.BIN:012:0027",
     "locuteur": "Rumor-loving boy",
     "en": "That classroom wasn't open until now...{SAUT}You know, the one to our left.{ATTENTE}",
-    "locuteur_fr": "Curieux",
+    "locuteur_fr": "Fan de rumeurs",
     "fr": "Cette salle était fermée jusque-là...{SAUT}Tu sais, celle sur notre gauche.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0028",
     "locuteur": "Rumor-loving boy",
     "en": "I heard the ice thawed a little and you{SAUT}can get inside now.{ATTENTE}",
-    "locuteur_fr": "Curieux",
+    "locuteur_fr": "Fan de rumeurs",
     "fr": "Il paraît que la glace a fondu un peu et{SAUT}qu'on peut entrer.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0029",
     "locuteur": "Rumor-loving boy",
     "en": "Rumor is there's this beautiful sphere{SAUT}inside. But should we go near it...?{ATTENTE}",
-    "locuteur_fr": "Curieux",
+    "locuteur_fr": "Fan de rumeurs",
     "fr": "Il paraît qu'il y a une belle sphère{SAUT}dedans. Mais faut-il s'en approcher...?{ATTENTE}"
   },
   {
@@ -217,8 +217,8 @@
     "id": "E3.BIN:012:0032",
     "locuteur": "Yukino",
     "en": "We have the (*TEXTBOX_PARAM,0500*)Mirror Shards(*TEXTBOX_PARAM,0000*)! Let's hurry{SAUT}to the courtyard!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "On a les (*TEXTBOX_PARAM,0500*)Fragments de Miroir(*TEXTBOX_PARAM,0000*)! Vite,{SAUT}à la cour!{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0033",
@@ -245,8 +245,8 @@
     "id": "E3.BIN:012:0036",
     "locuteur": "Ayase",
     "en": "Even the inside of the school's frozen!{SAUT}How could that monster do this to us!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Même l'intérieur du lycée est gelé!{SAUT}Comment ce monstre a pu nous faire ça!?{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0037",
@@ -266,8 +266,8 @@
     "id": "E3.BIN:012:0039",
     "locuteur": "Nanjo",
     "en": "THAT'S how he reacts to rejection!?{SAUT}He'll never succeed with that attitude.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "C'est AINSI qu'il réagit à un refus!?{SAUT}Il n'ira nulle part avec cette attitude.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0040",
@@ -406,8 +406,8 @@
     "id": "E3.BIN:012:0059",
     "locuteur": "Elly",
     "en": "A room with a beautiful sphere?{SAUT}This sounds well worth investigating.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Une salle avec une belle sphère?{SAUT}Voilà qui mérite qu'on s'y intéresse.{ATTENTE}"
   },
   {
     "id": "E3.BIN:012:0060",
@@ -419,12 +419,12 @@
   {
     "id": "E3.BIN:032:0000",
     "en": "> They are frozen.{ATTENTE}",
-    "fr": ""
+    "fr": "> Ils sont gelés.{ATTENTE}"
   },
   {
     "id": "E3.BIN:032:0001",
     "en": "{FERME}> They are frozen.{ATTENTE}",
-    "fr": "",
+    "fr": "{FERME}> Ils sont gelés.{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -467,14 +467,14 @@
     "locuteur": "Reiho",
     "en": "Jab! Jab! Hee-ho!{ATTENTE}",
     "locuteur_fr": "Reiho",
-    "fr": "Jab! Jab! Hee-ho!{ATTENTE}"
+    "fr": "Jab! Jab! Hi-ho!{ATTENTE}"
   },
   {
     "id": "E3.BIN:033:0001",
     "locuteur": "Raiho",
     "en": "There's no sumo club hee-here, so we're{SAUT}gonna join the boxing club, ho.{ATTENTE}",
     "locuteur_fr": "Raiho",
-    "fr": "Y a pas de club de sumo hee-ici, donc{SAUT}on rejoint la boxe, ho.{ATTENTE}"
+    "fr": "Y a pas de club de sumo hi-ici, donc{SAUT}on rejoint la boxe, ho.{ATTENTE}"
   },
   {
     "id": "E3.BIN:033:0002",
@@ -488,28 +488,28 @@
     "locuteur": "Raiho",
     "en": "Hee-ho? Are you talking about me?{ATTENTE}",
     "locuteur_fr": "Raiho",
-    "fr": "Hee-ho? Tu parles de moi, ho?{ATTENTE}"
+    "fr": "Hi-ho? Tu parles de moi, ho?{ATTENTE}"
   },
   {
     "id": "E3.BIN:033:0004",
     "locuteur": "Reiho",
     "en": "Don't you hee-member? How the boy at the{SAUT}fencing club was beaten up by a girl?{ATTENTE}",
     "locuteur_fr": "Reiho",
-    "fr": "Tu te hee-souviens pas? Du gars du club{SAUT}d'escrime battu par une fille?{ATTENTE}"
+    "fr": "Tu te hi-souviens pas? Du gars du club{SAUT}d'escrime battu par une fille?{ATTENTE}"
   },
   {
     "id": "E3.BIN:033:0005",
     "locuteur": "Raiho",
     "en": "Hee-ho! I see... so girls are strong, ho.{ATTENTE}",
     "locuteur_fr": "Raiho",
-    "fr": "Hee-ho! Ah... les filles sont fortes, ho.{ATTENTE}"
+    "fr": "Hi-ho! Ah... les filles sont fortes, ho.{ATTENTE}"
   },
   {
     "id": "E3.BIN:033:0006",
     "locuteur": "Raiho",
     "en": "...Please... {PAUSE}[0700]Be gentle... {PAUSE}[0700]okay? {PAUSE}[0700]Hee-ho!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "...Pitié... {PAUSE}[0700]Soyez douces... {PAUSE}[0700]d'accord? {PAUSE}[0700]Hi-ho!{ATTENTE}"
   },
   {
     "id": "E3.BIN:033:0007",
@@ -549,7 +549,7 @@
   {
     "id": "E3.BIN:034:0000",
     "en": "> Touch the ball of light?{ATTENTE}",
-    "fr": ""
+    "fr": "> Toucher la boule de lumière?{ATTENTE}"
   },
   {
     "id": "E3.BIN:034:0001",
@@ -639,8 +639,8 @@
     "id": "E3.BIN:035:0002",
     "locuteur": "Nanjo",
     "en": "How on earth is this building laid out?{SAUT}It's hard to believe it was our school...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Comment ce bâtiment est-il agencé?{SAUT}Dur de croire que c'était notre lycée...{ATTENTE}"
   },
   {
     "id": "E3.BIN:035:0003",

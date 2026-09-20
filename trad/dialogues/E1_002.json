@@ -2,7 +2,7 @@
   {
     "id": "E1.BIN:003:0000",
     "en": "Mirror Frame(*TEXTBOX_PARAM,0000*){ATTENTE}",
-    "fr": ""
+    "fr": "Cadre du Miroir(*TEXTBOX_PARAM,0000*){ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0001",
@@ -71,8 +71,8 @@
     "id": "E1.BIN:003:0010",
     "locuteur": "Yukino",
     "en": "Now it's my turn to help her, and my...{SAUT}expertise can be put to a good cause.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "À mon tour de l'aider, et mon...{SAUT}savoir-faire servira une bonne cause.{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0011",
@@ -106,8 +106,8 @@
     "id": "E1.BIN:003:0015",
     "locuteur": "Yukino",
     "en": "If we get stuck in a bad situation,{SAUT}I'm sure you'll help lighten the mood.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Si on se retrouve dans une sale{SAUT}situation, tu sauras nous détendre.{ATTENTE}"
   },
   {
     "id": "E1.BIN:003:0016",
@@ -155,8 +155,8 @@
     "id": "E1.BIN:003:0022",
     "locuteur": "Yukino",
     "en": "......{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Yukino",
+    "fr": "......{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -212,7 +212,7 @@
     "id": "E1.BIN:004:0000",
     "locuteur": "Nurse Natsumi",
     "en": "Don't you take off that bandage, Kei!{SAUT}Your wound will reopen!{ATTENTE}",
-    "locuteur_fr": "Infirmiere{PAGE}Natsumi",
+    "locuteur_fr": "Natsumi",
     "fr": "N'enlève pas ce bandage, Kei!{SAUT}Ta blessure va se rouvrir!{ATTENTE}"
   },
   {
@@ -226,7 +226,7 @@
     "id": "E1.BIN:004:0002",
     "locuteur": "Nurse Natsumi",
     "en": "Hmph... Excuse me for being a little{SAUT}bit of a butterfingers.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Natsumi",
     "fr": "Hmph... Excusez-moi d'avoir les{SAUT}doigts un peu gourds.{ATTENTE}"
   },
   {
@@ -240,15 +240,15 @@
     "id": "E1.BIN:004:0004",
     "locuteur": "Nurse Natsumi",
     "en": "Wait, what are you doing? Don't tell me{SAUT}you're going outside...!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Natsumi",
     "fr": "Attends, que fais-tu? Ne me dis pas{SAUT}que tu sors dehors...!{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0005",
     "locuteur": "Female student",
     "en": "Yeah, c'mon, Kei. You're just gonna get{SAUT}hurt again.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Ouais, allez, Kei. Tu vas encore{SAUT}te faire mal.{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0006",
@@ -267,7 +267,8 @@
   {
     "id": "E1.BIN:004:0008",
     "en": "{FERME}(*SCENE_END*)[0300]>[10DC][0FFB]みのり(なしもと みのり){SAUT} [05BB][0BA3]の[1086][0B6C]。{SAUT} おしゃべりが[0CA5][0904]きいつも[0C5B]々しい。(*SCENE_END*) {ATTENTE}",
-    "fr": ""
+    "fr": "",
+    "locuteur_fr": ""
   },
   {
     "id": "E1.BIN:004:0009",
@@ -287,8 +288,8 @@
     "id": "E1.BIN:004:0011",
     "locuteur": "Nanjo",
     "en": "The Snow Queen? Is it April 1st already?{SAUT}You can devise a better lie than that.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "La Reine des Neiges? On est déjà le 1er{SAUT}avril? Trouvez un meilleur mensonge.{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0012",
@@ -364,14 +365,14 @@
     "id": "E1.BIN:004:0022",
     "locuteur": "Setsuko Sonomura",
     "en": "Maki...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Setsuko Sonomura",
     "fr": "Maki...{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0023",
     "locuteur": "Setsuko Sonomura",
     "en": "Is there really no exit? I wonder if{SAUT}there's something we can do...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Setsuko Sonomura",
     "fr": "N'y a-t-il vraiment pas de sortie?{SAUT}Peut-on faire quelque chose...{ATTENTE}"
   },
   {
@@ -429,16 +430,16 @@
     "id": "E1.BIN:004:0032",
     "locuteur": "Nanjo",
     "en": "If you insist, I suppose I can lend a{SAUT}hand. We'll take care of this, then Maki.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Nanjo",
+    "fr": "Si vous insistez, je peux vous prêter{SAUT}main-forte. Réglons ceci, puis Maki.{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "E1.BIN:004:0035",
     "locuteur": "Nanjo",
     "en": "Incidentally, I heard there was a{SAUT}disturbance at the (*TEXTBOX_PARAM,0700*)cafeteria(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Nanjo",
+    "fr": "Au fait, il paraît qu'il y a eu du{SAUT}grabuge à la (*TEXTBOX_PARAM,0700*)cafétéria(*TEXTBOX_PARAM,0000*).{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -474,8 +475,8 @@
     "id": "E1.BIN:005:0002",
     "locuteur": "Tsutomu",
     "en": "This temperature{PAUSE}[1E00]...{PAUSE}[1E00]...{PAUSE}[1E00]...{PAUSE}[1E00]...{PAUSE}[1E00]{SAUT}is not due to a cold front!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tsutomu",
+    "fr": "Cette température{PAUSE}[1E00]...{PAUSE}[1E00]...{PAUSE}[1E00]...{PAUSE}[1E00]...{PAUSE}[1E00]{SAUT}n'est pas due à un front froid!{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0003",
@@ -579,8 +580,8 @@
     "id": "E1.BIN:005:0018",
     "locuteur": "Yukino",
     "en": "That's your idea of \"not being mean\"?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "C'est ça, ton idée de \"pas méchante\"?{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0019",
@@ -687,8 +688,8 @@
     "id": "E1.BIN:005:0033",
     "locuteur": "Elly",
     "en": "Let's search for the (*TEXTBOX_PARAM,0700*)Mirror Shards(*TEXTBOX_PARAM,0000*) and{SAUT}save Ms. Saeko.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "Cherchons les (*TEXTBOX_PARAM,0700*)Fragments de Miroir(*TEXTBOX_PARAM,0000*){SAUT}et sauvons Mme Saeko.{ATTENTE}",
     "_occurrences": 4
   },
   {

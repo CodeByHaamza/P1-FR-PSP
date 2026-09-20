@@ -1,137 +1,341 @@
 [
   {
+    "id": "EBOOT.BIN:BE2:OFF_2AB938",
+    "en": "front and back are reversed.{FERME}",
+    "fr": "pile et face sont inversés.{FERME}",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB982",
+    "en": "Land? Stocks? Name it, and it's yours.{FERME}",
+    "fr": "Terres? Actions? Tout est à vous.{FERME}",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB9DE",
+    "en": "Blrgh... Urrrrgh... [0056]puke[0056][FFFC]{SAUT}",
+    "fr": "Blrgh... Urrrrgh... [0056]vomi[0056][FFFC]{SAUT}",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABA16",
+    "en": "...Just kidding! Mwahahaha!{FERME}",
+    "fr": "...Je rigole! Mouahahaha!{FERME}",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABA5E",
+    "en": "Wh... What's that!? [FFFC]Hee heeeee!{SAUT}",
+    "fr": "Q... C'est quoi ça!? [FFFC]Hi hiiiii!{SAUT}",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABAA0",
+    "en": "You fell for it!{FERME}",
+    "fr": "Je t'ai eu!{FERME}",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABAD2",
+    "en": "BOO!{SAUT}",
+    "fr": "BOUH!{SAUT}",
+    "max": 4
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABADC",
+    "en": "Hehe, did I scare ya?{FERME}",
+    "fr": "Héhé, t'as eu peur?{FERME}",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABB16",
+    "en": "So, got any crushes? Yeah, there's been{SAUT}",
+    "fr": "Alors, t'as un béguin? Ouais, moi aussi{SAUT}",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABB66",
+    "en": "someone on my mind, too.{FERME}",
+    "fr": "j'ai quelqu'un en tête.{FERME}",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABBA6",
+    "en": "Man, it's hot out! I like summer, but{SAUT}",
+    "fr": "Pfiou, quelle chaleur! J'aime l'été,{SAUT}",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABBF2",
+    "en": "not this kind of extreme heat.{FERME}",
+    "fr": "mais pas cette canicule.{FERME}",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABC3E",
+    "en": "How've you been? I heard you're on{SAUT}",
+    "fr": "Ça va? Il paraît que t'as la pêche.{SAUT}",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABC84",
+    "en": "a roll. Not me, it's been pretty slow.{FERME}",
+    "fr": "Pas moi, c'est plutôt calme.{FERME}",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABCE2",
+    "en": "Why did the buffalos throw a party on{SAUT}",
+    "fr": "Pourquoi les bisons ont fêté leurs{SAUT}",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABD2E",
+    "en": "their 200th birthday?{ATTENTE}",
+    "fr": "200 ans en grande pompe?{ATTENTE}",
+    "max": 21
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABD6A",
+    "en": "It was their bisontennial!{FERME}",
+    "fr": "C'était leur bison-tenaire!{FERME}",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABDAE",
+    "en": "What do you do if you're on a horse and{SAUT}",
+    "fr": "Que faire si t'es sur un cheval avec{SAUT}",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABDFE",
+    "en": "you see a giraffe and lion next to you?{ATTENTE}",
+    "fr": "une girafe et un lion à côté de toi?{ATTENTE}",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABE5E",
+    "en": "Get off the carousel! [FFFC]C'mon, laugh!{FERME}",
+    "fr": "Descendre du manège! [FFFC]Allez, ris!{FERME}",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABEB6",
+    "en": "Alright, what's the difference between{SAUT}",
+    "fr": "Bon, quelle est la différence entre{SAUT}",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABF04",
+    "en": "a rottweiler and a poodle?{ATTENTE}",
+    "fr": "un rottweiler et un caniche?{ATTENTE}",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABF4A",
+    "en": "They're two totally different breeds!{SAUT}",
+    "fr": "Ce sont deux races différentes!{SAUT}",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABF96",
+    "en": "Get it?{FERME}",
+    "fr": "Compris?{FERME}",
+    "max": 7
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2ABFB6",
+    "en": "Are you seeing anyone? If you aren't...{SAUT}",
+    "fr": "T'as quelqu'un? Si c'est pas le cas...{SAUT}",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC006",
+    "en": "How about you and me go out sometime?{ATTENTE}",
+    "fr": "Ça te dirait qu'on sorte ensemble?{ATTENTE}",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC062",
+    "en": "C'mon, it'll be fun! What do you say?{FERME}",
+    "fr": "Allez, ce sera sympa! T'en dis quoi?{FERME}",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC0BE",
+    "en": "Hey there! Wanna come to karaoke with me?{SAUT}",
+    "fr": "Salut! Ça te dit un karaoké avec moi?{SAUT}",
+    "max": 41
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC112",
+    "en": "I'm a really good singer.{FERME}",
+    "fr": "Je chante super bien.{FERME}",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC156",
+    "en": "So you're a demon? So what! C'mon, baby,{SAUT}",
+    "fr": "T'es un démon? Et alors! Viens, bébé,{SAUT}",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC1A8",
+    "en": "let's play a symphony of love!{FERME}",
+    "fr": "jouons une symphonie d'amour!{FERME}",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC1F4",
+    "en": "A-A demon! D-Don't come near me!{FERME}",
+    "fr": "U-Un démon! N-N'approche pas!{FERME}",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC244",
+    "en": "I got lost and wandered here...{SAUT}",
+    "fr": "En me perdant, me voilà ici...{SAUT}",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AC284",
+    "en": "Please forgive me!{FERME}",
+    "fr": "Pardonnez-moi!{FERME}",
+    "max": 18
+  },
+  {
     "id": "EBOOT.BIN:BE2:OFF_2AC2B8",
     "en": "Eeeeek! Please... spare me!{FERME}",
-    "fr": "",
+    "fr": "Iiiik! Pitié, épargnez-moi!{FERME}",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AC2FC",
     "en": "Hmm... I think your mother's grandpa is{SAUT}",
-    "fr": "",
+    "fr": "Hmm... Je crois que le grand-père de ta{SAUT}",
     "max": 39
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AC34C",
     "en": "your guardian angel. He's really strong!{FERME}",
-    "fr": "",
+    "fr": "mère est ton ange gardien. Il est fort!{FERME}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AC3AC",
     "en": "Want to know the truth? The ones behind{SAUT}",
-    "fr": "",
+    "fr": "Tu veux la vérité? Derrière tout ça,{SAUT}",
     "max": 39
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AC3FC",
     "en": "all this... are really aliens.{FERME}",
-    "fr": "",
+    "fr": "il y a... des extraterrestres.{FERME}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AC448",
     "en": "If you do what I say, by some miracle{SAUT}",
-    "fr": "",
+    "fr": "Si tu m'obéis, par miracle, on{SAUT}",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AC494",
     "en": "a bronze statue of you will be erected!{FERME}",
-    "fr": "",
+    "fr": "t'érigera une statue de bronze!{FERME}",
     "max": 39
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AC4F0",
     "en": "Hey, how can I get power like yours?{SAUT}",
-    "fr": "",
+    "fr": "Hé, comment avoir un pouvoir comme le{SAUT}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AC53A",
     "en": "Because I'm super jealous of it.{FERME}",
-    "fr": "",
+    "fr": "tien? Je t'envie trop.{FERME}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AC588",
     "en": "Many artists have been captivated by you,{SAUT}",
-    "fr": "",
+    "fr": "Tant d'artistes t'ont pris pour muse,{SAUT}",
     "max": 41
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AC5DC",
     "en": "and now I see why!{FERME}",
-    "fr": "",
+    "fr": "et je vois pourquoi!{FERME}",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AC610",
     "en": "Are you [FFF3]?{ATTENTE}",
-    "fr": "",
+    "fr": "Tu es [FFF3]?{ATTENTE}",
     "max": 9,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AC634",
     "en": "I could tell right off! You have a unique{SAUT}",
-    "fr": "",
+    "fr": "Je l'ai su tout de suite! Tu as une{SAUT}",
     "max": 41,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AC688",
     "en": "aura about you...{FERME}",
-    "fr": "",
+    "fr": "aura unique...{FERME}",
     "max": 17,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AC6B8",
     "en": "I can't do much for you, but I promise{SAUT}",
-    "fr": "",
+    "fr": "Je peux pas faire grand-chose pour toi,{SAUT}",
     "max": 38
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AC706",
     "en": "our time together will be exciting.{ATTENTE}",
-    "fr": "",
+    "fr": "mais promis, on va bien s'amuser.{ATTENTE}",
     "max": 35
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AC75C",
     "en": "So c'mon, lend me your strength!{FERME}",
-    "fr": "",
+    "fr": "Alors allez, prête-moi ta force!{FERME}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AC7AC",
     "en": "Demons live the way they want, right?{ATTENTE}",
-    "fr": "",
+    "fr": "Les démons vivent à leur guise, non?{ATTENTE}",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AC806",
     "en": "It would be nice if you could put aside{SAUT}",
-    "fr": "",
+    "fr": "Ce serait bien d'oublier nos différences{SAUT}",
     "max": 39
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AC856",
     "en": "our differences and help me out.{FERME}",
-    "fr": "",
+    "fr": "et de m'aider un peu.{FERME}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AC8A4",
     "en": "I can only do so much on my own.{SAUT}",
-    "fr": "",
+    "fr": "Je n'irai pas loin sans aide.{SAUT}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AC8E6",
     "en": "I could use your help... Please?{FERME}",
-    "fr": "",
+    "fr": "Tu m'aiderais... S'il te plaît?{FERME}",
     "max": 32
   },
   {
@@ -361,248 +565,43 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2ACC82",
     "en": " > Obtained a Life Stone.{FERME}",
-    "fr": "",
+    "fr": "> Obtenu : Pierre de vie.{FERME}",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AD6CA",
     "en": " Reiji performed a magic trick!{FERME}",
-    "fr": "",
+    "fr": " Reiji a fait un tour de magie!{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AD70A",
     "en": " > Reiji gave a loud yell!{FERME}",
-    "fr": "",
+    "fr": " > Reiji a poussé un cri!{FERME}",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AD742",
     "en": " Reiji threatened the demon!{FERME}",
-    "fr": "",
+    "fr": " Reiji a menacé le démon!{FERME}",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AD77E",
     "en": " Reiji ignored the demon!{FERME}",
-    "fr": "",
+    "fr": " Reiji a ignoré le démon!{FERME}",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AD7B2",
     "en": " > Yukino ignored the demon!{FERME}",
-    "fr": "",
+    "fr": " > Yukino a ignoré le démon!{FERME}",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AD7EE",
     "en": " Yukino scolded the demon!{FERME}",
-    "fr": "",
+    "fr": " Yukino a grondé le démon!{FERME}",
     "max": 26
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AD826",
-    "en": " Yukino tried a logical appeal!{FERME}",
-    "fr": "",
-    "max": 31
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AD866",
-    "en": " > Yukino picked on the demon!{FERME}",
-    "fr": "",
-    "max": 30
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AD8A6",
-    "en": " Ayase threatened the demon!{FERME}",
-    "fr": "",
-    "max": 28
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AD8E2",
-    "en": " Ayase cried crocodile tears!{FERME}",
-    "fr": "",
-    "max": 29
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AD91E",
-    "en": " > Ayase seduced the demon!{FERME}",
-    "fr": "",
-    "max": 27
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AD956",
-    "en": " > Ayase dissed the demon!{FERME}",
-    "fr": "",
-    "max": 26
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AD98E",
-    "en": " Elly invited the demon into the party!{FERME}",
-    "fr": "",
-    "max": 39
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AD9DE",
-    "en": " > Elly soothed the demon!{FERME}",
-    "fr": "",
-    "max": 26
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADA16",
-    "en": " Elly sang a song!{FERME}",
-    "fr": "",
-    "max": 18
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADA3E",
-    "en": " Elly told a scary story!{FERME}",
-    "fr": "",
-    "max": 25
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADA72",
-    "en": " > Mark started bragging!{FERME}",
-    "fr": "",
-    "max": 25
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADAA6",
-    "en": " > Mark stared at the demon!{FERME}",
-    "fr": "",
-    "max": 28
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADAE2",
-    "en": " Mark taunted the demon!{FERME}",
-    "fr": "",
-    "max": 24
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADB16",
-    "en": " Mark busted a move!{FERME}",
-    "fr": "",
-    "max": 20
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADB42",
-    "en": " Nanjo delivered a sarcastic remark!{FERME}",
-    "fr": "",
-    "max": 36
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADB8E",
-    "en": " Nanjo insulted the demon!{FERME}",
-    "fr": "",
-    "max": 26
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADBC6",
-    "en": " Nanjo delivered a speech!{FERME}",
-    "fr": "",
-    "max": 26
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADBFE",
-    "en": " Nanjo tried bribing the demon with{SAUT}",
-    "fr": "",
-    "max": 35
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADC46",
-    "en": "an item!{FERME}",
-    "fr": "",
-    "max": 8
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADC5A",
-    "en": " Brown tried to startle the demon!{FERME}",
-    "fr": "",
-    "max": 34
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADCA2",
-    "en": " Brown made small talk!{FERME}",
-    "fr": "",
-    "max": 23
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADCD2",
-    "en": " > Brown told a joke!{FERME}",
-    "fr": "",
-    "max": 21
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADCFE",
-    "en": " > Brown hit on the demon!{FERME}",
-    "fr": "",
-    "max": 26
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADD36",
-    "en": " Maki pretended to be scared!{FERME}",
-    "fr": "",
-    "max": 29
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADD72",
-    "en": " > Maki made something up!{FERME}",
-    "fr": "",
-    "max": 26
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADDAA",
-    "en": " Maki tried flattering the demon!{FERME}",
-    "fr": "",
-    "max": 33
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADDEE",
-    "en": " > Maki pleaded with the demon!{FERME}",
-    "fr": "",
-    "max": 31
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADE2E",
-    "en": " > [FFFA] sang a song!{FERME}",
-    "fr": "",
-    "max": 16
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADE52",
-    "en": " > [FFFA] invited the demon into{SAUT}",
-    "fr": "",
-    "max": 26
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADE8A",
-    "en": "the party!{FERME}",
-    "fr": "",
-    "max": 10
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADEA2",
-    "en": " [FFFA] taunted the demon!{FERME}",
-    "fr": "",
-    "max": 20
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ADECE",
-    "en": " > [FFFA] tried to persuade it!{FERME}",
-    "fr": "",
-    "max": 25
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B1C94",
-    "en": "Agastya Tree{FERME}",
-    "fr": "Arbre Agastya{FERME}",
-    "max": 12
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2B1CAE",
-    "en": "           Agastya Tree{FERME}",
-    "fr": "          Arbre Agastya{FERME}",
-    "max": 23,
-    "_occurrences": 171
   }
 ]

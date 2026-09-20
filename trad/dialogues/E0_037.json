@@ -171,7 +171,7 @@
     "id": "E0.BIN:144:0024",
     "locuteur": "Brown",
     "en": "What!?{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Brown",
     "fr": "Quoi!?{ATTENTE}"
   },
   {
@@ -269,14 +269,14 @@
     "id": "E0.BIN:144:0038",
     "locuteur": "Elly",
     "en": "Wait!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Elly",
     "fr": "Stop!{ATTENTE}"
   },
   {
     "id": "E0.BIN:144:0039",
     "locuteur": "Elly",
     "en": "Let's go, (*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "Maki",
+    "locuteur_fr": "Elly",
     "fr": "Allons-y, (*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {

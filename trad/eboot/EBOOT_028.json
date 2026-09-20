@@ -1,244 +1,415 @@
 [
   {
+    "id": "EBOOT.BIN:BE2:OFF_2A5CAA",
+    "en": "spell card.{FERME}",
+    "fr": "carte de sort.{FERME}",
+    "max": 11,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5CC2",
+    "en": " > Discarded the [FFF2]{SAUT}",
+    "fr": " > Jeté : [FFF2],{SAUT}",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5D02",
+    "en": " Discard the [FFF2]{SAUT}",
+    "fr": " Jeter [FFF2],{SAUT}",
+    "max": 13
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5D20",
+    "en": "spell card?{FERME}",
+    "fr": "carte de sort?{FERME}",
+    "max": 11
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5D3A",
+    "en": " You have too many spell cards!{FERME}",
+    "fr": "Vous avez trop de cartes de sort!{FERME}",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5D7A",
+    "en": " > Which spell card will you discard?{FERME}",
+    "fr": " > Quelle carte de sort jeter?{FERME}",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5DC6",
+    "en": " > The demon left.{FERME}",
+    "fr": "> Le démon s'en va.{FERME}",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5DEC",
+    "en": "Can't talk right now...{FERME}",
+    "fr": "Pas moyen de parler...{FERME}",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5E1C",
+    "en": "It's in no state to answer.{FERME}",
+    "fr": "Pas en état de répondre.{FERME}",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A5F92",
+    "en": "                                                                                                                                                                                                                                                                                                     [0202][2004]b[4002],[0804]bb",
+    "fr": "                                                                                                                                                                                                                                                                                                     [0202][2004]b[4002],[0804]bb",
+    "max": 297
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A7D64",
+    "en": "Gyahaha! Gyahaha! What's this!?{SAUT}",
+    "fr": "Gyahaha! Gyahaha! C'est quoi ça!?{SAUT}",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A7DA4",
+    "en": "You're over the card limit![FFFC]{SAUT}",
+    "fr": "Trop de cartes sur toi![FFFC]{SAUT}",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A7DDE",
+    "en": "Throw some away!{FERME}",
+    "fr": "Jettes-en!{FERME}",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A7E00",
+    "en": "Oh my god, you have like, 12 cards![FFFC]{SAUT}",
+    "fr": "Oh mon dieu, t'as genre 12 cartes![FFFC]{SAUT}",
+    "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A7E4A",
+    "en": "That's like... waaaay too many!{FERME}",
+    "fr": "C'est genre... vraiment trop!{FERME}",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A7E8A",
+    "en": " Hey! You cheater![FFFC]{SAUT}",
+    "fr": " Hé! Tricheur![FFFC]{SAUT}",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A7EB2",
+    "en": "You've got too many cards!{SAUT}",
+    "fr": "T'as trop de cartes!{SAUT}",
+    "max": 26
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A7EE8",
+    "en": "Take the lame ones off the court!{FERME}",
+    "fr": "Vire les nulles du terrain!{FERME}",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A7F2C",
+    "en": "...Are you an idiot?[FFFC] You'd better{SAUT}",
+    "fr": "...T'es idiot?[FFFC] Tu ferais mieux{SAUT}",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A7F72",
+    "en": "remember how many cards you can carry!{FERME}",
+    "fr": "de retenir ta limite de cartes!{FERME}",
+    "max": 38,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A7FC0",
+    "en": "Ya makin' fun o' me!? [FFFC]Well ya got too{SAUT}",
+    "fr": "Tu t'fous d'moi!? [FFFC]Bah t'as trop{SAUT}",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A800E",
+    "en": "many cards! Hurry and throw one away!{FERME}",
+    "fr": "d'cartes! Vite, jettes-en une!{FERME}",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A805A",
+    "en": " ...You carry too many needless cards.[FFFC]{SAUT}",
+    "fr": "...Vous portez trop de cartes inutiles.[FFFC]{SAUT}",
+    "max": 38,
+    "_occurrences": 2
+  },
+  {
     "id": "EBOOT.BIN:BE2:OFF_2A80AA",
     "en": "Your request is denied unless you mend{SAUT}",
-    "fr": "",
+    "fr": "Requête refusée tant que vous n'aurez{SAUT}",
     "max": 38,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A80F8",
     "en": "the situation.{FERME}",
-    "fr": "",
+    "fr": "pas réglé cela.{FERME}",
     "max": 14,
     "_occurrences": 2
   },
   {
+    "id": "EBOOT.BIN:BE2:OFF_2A8150",
+    "en": "Oh... Well isn't that great.{SAUT}",
+    "fr": "Oh... Eh bien, c'est génial.{SAUT}",
+    "max": 28
+  },
+  {
     "id": "EBOOT.BIN:BE2:OFF_2A818A",
     "en": "There's no room for me!{FERME}",
-    "fr": "",
+    "fr": "Pas de place pour moi!{FERME}",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A81BA",
     "en": " What the hell!?[FFFC]{SAUT}",
-    "fr": "",
+    "fr": " C'est quoi ça!?[FFFC]{SAUT}",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A81DE",
     "en": "You need to throw away a card, punk!{SAUT}",
-    "fr": "",
+    "fr": "Jette une carte, minus!{SAUT}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A8228",
     "en": "Hurry up before I beat them outta ya!{FERME}",
-    "fr": "",
+    "fr": "Vite, avant que je te les arrache!{FERME}",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A8274",
     "en": "YOU HAVE TOO MANY CARDS! [FFFC]GWAOHHHH!{SAUT}",
-    "fr": "",
+    "fr": "TOI AVOIR TROP DE CARTES! [FFFC]GWAOHHHH!{SAUT}",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A82BC",
     "en": "ME NO LIKE! YOU THROW AWAY SOME!{FERME}",
-    "fr": "",
+    "fr": "MOI PAS AIMER! TOI EN JETER!{FERME}",
     "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8370",
+    "en": "Huh? [FFFC]You have too many cards.[FFFC]{SAUT}",
+    "fr": "Hein? [FFFC]Tu as trop de cartes.[FFFC]{SAUT}",
+    "max": 29
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A83B0",
     "en": "C'mon, throw one of them away!{FERME}",
-    "fr": "",
+    "fr": "Allez, jettes-en une!{FERME}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A83EE",
     "en": " [0056]ring[0056] [0056]ring[0056] Too many-any cardddddds![FFFC]{SAUT}",
-    "fr": "",
+    "fr": " [0056]dring[0056] [0056]dring[0056] Trop-op de carrrrtes![FFFC]{SAUT}",
     "max": 35
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8440",
+    "en": "Which one willyouthrow away-way-way?{FERME}",
+    "fr": "Laquelle tuvasjeter-ter-ter?{FERME}",
+    "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A848A",
     "en": " You have too many cards... [FFFC]if you don't{SAUT}",
-    "fr": "",
+    "fr": " T'as trop de cartes... [FFFC]si tu te{SAUT}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A84DE",
     "en": "hurry and throw some away, I'll do it{SAUT}",
-    "fr": "",
+    "fr": "dépêches pas d'en jeter, je le fais{SAUT}",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A852A",
     "en": "for you!{FERME}",
-    "fr": "",
+    "fr": "pour toi!{FERME}",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A853C",
     "en": "Ugh, I don't believe this! [FFFC]If you want{SAUT}",
-    "fr": "",
+    "fr": "Pff, j'y crois pas! [FFFC]Si tu me veux,{SAUT}",
     "max": 38
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A858C",
     "en": "me, throw someone else's card away.{FERME}",
-    "fr": "",
+    "fr": "jette la carte de quelqu'un d'autre.{FERME}",
     "max": 35
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A85D4",
     "en": "Augh...[FFFC]{SAUT}",
-    "fr": "",
+    "fr": "Argh...[FFFC]{SAUT}",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A85E8",
     "en": " has no place...{SAUT}",
-    "fr": "",
+    "fr": " est de trop...{SAUT}",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A860A",
     "en": "even as a card...{FERME}",
-    "fr": "",
+    "fr": "même en carte...{FERME}",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A862E",
     "en": " Hey! [FFFC]You can't have more than 12 cards.{SAUT}",
-    "fr": "",
+    "fr": " Hé! [FFFC]Pas plus de 12 cartes sur toi.{SAUT}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A8682",
     "en": "Throw away the ones you don't need.{FERME}",
-    "fr": "",
+    "fr": "Jette celles dont t'as pas besoin.{FERME}",
     "max": 35
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A86CA",
     "en": " Wuuuut? [FFFC]You got too many cardz...{SAUT}",
-    "fr": "",
+    "fr": " Quouaaa? [FFFC]T'as trop d'cartes...{SAUT}",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A8712",
     "en": "Thro one of 'em away.{FERME}",
-    "fr": "",
+    "fr": "Jett'-en une.{FERME}",
     "max": 21
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A873E",
     "en": " ...Are you an idiot?[FFFC] You'd better{SAUT}",
-    "fr": "",
+    "fr": " ...T'es idiot?[FFFC] Tu ferais mieux{SAUT}",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A87D4",
     "en": "Oh my, you're carrying too many...[FFFC]{SAUT}",
-    "fr": "",
+    "fr": "Oh là, vous en portez trop...[FFFC]{SAUT}",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A881C",
     "en": "If you want me, throw someone else's{SAUT}",
-    "fr": "",
+    "fr": "Si vous me voulez, jetez la carte{SAUT}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A8866",
     "en": "card away.{FERME}",
-    "fr": "",
+    "fr": "d'un autre.{FERME}",
     "max": 10
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A887C",
     "en": "It seems thy limit is reached...[FFFC]{SAUT}",
-    "fr": "",
+    "fr": "Ta limite semble atteinte...[FFFC]{SAUT}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A88C0",
     "en": "My card is to be treated with respect.{FERME}",
-    "fr": "",
+    "fr": "Ma carte mérite le respect.{FERME}",
     "max": 38
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A890E",
     "en": " GAAAHHH! [FFFC]NOT WANT TO BE 13TH!{SAUT}",
-    "fr": "",
+    "fr": "GAAAHHH! [FFFC]PAS VOULOIR ÊTRE 13E!{SAUT}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A894E",
     "en": "THROW AWAY SOMEONE ELSE.{FERME}",
-    "fr": "",
+    "fr": "JETER QUELQU'UN D'AUTRE.{FERME}",
     "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8980",
+    "en": "Huh-ho? You hee-have too many cards, ho.[FFFC]{SAUT}",
+    "fr": "Hi-ho? Tu as trop de hi-cartes, ho.[FFFC]{SAUT}",
+    "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A89D4",
     "en": "You need to hee-throw one away, ho.{FERME}",
-    "fr": "",
+    "fr": "Faut en hi-jeter une, ho.{FERME}",
     "max": 35
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A8A1C",
     "en": "Why you little...![FFFC]{SAUT}",
-    "fr": "",
+    "fr": "Espèce de petit...![FFFC]{SAUT}",
     "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A8A44",
+    "en": "You've got too many cards now!{SAUT}",
+    "fr": "T'as trop de cartes, là!{SAUT}",
+    "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A8A82",
     "en": "Keep the best and toss the rest!{FERME}",
-    "fr": "",
+    "fr": "Garde les bonnes, jette le reste!{FERME}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A8AC4",
     "en": "Ho, ho! Now just a minute![FFFC]{SAUT}",
-    "fr": "",
+    "fr": "Ho, ho! Une petite minute![FFFC]{SAUT}",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A8AFC",
     "en": "Looks like you've got a full deck!{FERME}",
-    "fr": "",
+    "fr": "On dirait que ton jeu est plein!{FERME}",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A8B42",
     "en": " Heh! That's too many cards, moron![FFFC]{SAUT}",
-    "fr": "",
+    "fr": " Hé! Trop de cartes, crétin![FFFC]{SAUT}",
     "max": 35
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A8B8C",
     "en": "Can't you manage your own stuff?{FERME}",
-    "fr": "",
+    "fr": "Tu sais pas gérer tes affaires?{FERME}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A8BCE",
     "en": " Wait just a moment! [FFFC]You can't hold that{SAUT}",
-    "fr": "",
+    "fr": " Un instant! [FFFC]Vous ne pouvez porter tant{SAUT}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A8C22",
     "en": "many cards.{SAUT}",
-    "fr": "",
+    "fr": "de cartes.{SAUT}",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A8C3A",
     "en": "I suggest that you sort them.{FERME}",
-    "fr": "",
+    "fr": "Je vous suggère un tri.{FERME}",
     "max": 29
   },
   {
@@ -250,355 +421,187 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2A93B6",
     "en": " > [FFFA] sang a song.{FERME}",
-    "fr": "",
+    "fr": " > [FFFA] a chanté.{FERME}",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A93DA",
     "en": " > [FFFA] invited the demon.{FERME}",
-    "fr": "",
+    "fr": " > [FFFA] a invité le démon.{FERME}",
     "max": 22
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A940A",
     "en": " > [FFFA] taunted the demon.{FERME}",
-    "fr": "",
+    "fr": " > [FFFA] a raillé le démon.{FERME}",
     "max": 22
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A943A",
     "en": " > [FFFA] persuaded the demon.{FERME}",
-    "fr": "",
+    "fr": " > [FFFA] a persuadé le démon.{FERME}",
     "max": 24
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A947E",
     "en": "Watch, as I power a small lamp by my{SAUT}",
-    "fr": "",
+    "fr": "Regarde, mon seul chi va allumer{SAUT}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A94C8",
     "en": "chi alone...{FERME}",
-    "fr": "",
+    "fr": "cette lampe...{FERME}",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A94F2",
     "en": "Watch the top... Don't take your eyes{SAUT}",
-    "fr": "",
+    "fr": "Regarde la toupie... Ne la quitte pas{SAUT}",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A953E",
     "en": "off it...{FERME}",
-    "fr": "",
+    "fr": "des yeux...{FERME}",
     "max": 9
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A9562",
     "en": "With a snap of my fingers...[FFFC] presto!{SAUT}",
-    "fr": "",
+    "fr": "Je claque des doigts et...[FFFC] presto!{SAUT}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A95AE",
     "en": "Flowers appear. Beautiful, aren't they?{FERME}",
-    "fr": "",
+    "fr": "Des fleurs! Belles, n'est-ce pas?{FERME}",
     "max": 39
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A960E",
     "en": "Haaaaaaaaaaaaah!{FERME}",
-    "fr": "",
+    "fr": "Haaaaaaaaaaaaah!{FERME}",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A963E",
     "en": "Grrrwaaaaaaahhhh!{FERME}",
-    "fr": "",
+    "fr": "Grrrwaaaaaaahhhh!{FERME}",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A9672",
     "en": "Rrrrrwwaaaaaoooarrr!{FERME}",
-    "fr": "",
+    "fr": "Rrrrrwwaaaaaoooarrr!{FERME}",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A96AA",
     "en": "First I'll break your legs, and then{SAUT}",
-    "fr": "",
+    "fr": "D'abord je te brise les jambes, puis{SAUT}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A96F4",
     "en": "dislocate your arms...{ATTENTE}",
-    "fr": "",
+    "fr": "je te démets les bras...{ATTENTE}",
     "max": 22
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A9732",
     "en": "I'll bend each finger backwards until it{SAUT}",
-    "fr": "",
+    "fr": "Je plie chaque doigt en arrière jusqu'à{SAUT}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A9784",
     "en": "snaps, and then I'll take your eyes...{FERME}",
-    "fr": "",
+    "fr": "ce qu'il craque, puis tes yeux...{FERME}",
     "max": 38
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A97E2",
     "en": "Only one of us is gonna die of old age,{SAUT}",
-    "fr": "",
+    "fr": "Un seul de nous mourra de vieillesse,{SAUT}",
     "max": 39
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A9832",
     "en": "and it ain't you... Go to hell!{FERME}",
-    "fr": "",
+    "fr": "et c'est pas toi... Va en enfer!{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A9882",
     "en": "This isn't your lucky day... You won't{SAUT}",
-    "fr": "",
+    "fr": "Pas ton jour de chance... Tu sortiras{SAUT}",
     "max": 38
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A98D0",
     "en": "be leaving here alive.{FERME}",
-    "fr": "",
+    "fr": "pas d'ici vivant.{FERME}",
     "max": 22
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A98FE",
     "en": " > Reiji is thinking of an unrelated{SAUT}",
-    "fr": "",
+    "fr": " > Reiji pense à tout autre{SAUT}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A9948",
     "en": "thing.{FERME}",
-    "fr": "",
+    "fr": "chose.{FERME}",
     "max": 6
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A9956",
     "en": " > Reiji whistles to himself.{FERME}",
-    "fr": "",
+    "fr": " > Reiji sifflote.{FERME}",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A99C0",
     "en": "I should decide soon which photo I'm{SAUT}",
-    "fr": "",
+    "fr": "Je devrais choisir quelle photo je{SAUT}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A9A0A",
     "en": "going to enter in the next contest...{FERME}",
-    "fr": "",
+    "fr": "présente au prochain concours...{FERME}",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A9A68",
     "en": "Hm...? Did I remember to turn the lights{SAUT}",
-    "fr": "",
+    "fr": "Hm...? J'ai bien éteint la lumière en{SAUT}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A9ABA",
     "en": "off when I left?{FERME}",
-    "fr": "",
+    "fr": "partant?{FERME}",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A9AEC",
     "en": "Hmm... what should I make for dinner...?{FERME}",
-    "fr": "",
+    "fr": "Hmm... je fais quoi à dîner, ce soir...?{FERME}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A9B50",
     "en": "Stay quiet for once and listen to what{SAUT}",
-    "fr": "",
+    "fr": "Tais-toi une seconde et écoute ce que{SAUT}",
     "max": 38
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A9B9E",
     "en": "others have to say!{ATTENTE}",
-    "fr": "",
+    "fr": "les autres disent!{ATTENTE}",
     "max": 19
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A9BD8",
-    "en": "And don't you make fun of them, or I'll{SAUT}",
-    "fr": "",
-    "max": 39
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A9C28",
-    "en": "make you regret it!{FERME}",
-    "fr": "",
-    "max": 19
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A9C60",
-    "en": "Stop whining! No one likes it!{FERME}",
-    "fr": "",
-    "max": 30
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A9CB0",
-    "en": "Hey! Didn't they teach you in kindergarten{SAUT}",
-    "fr": "",
-    "max": 42
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A9D44",
-    "en": "It's better to stay in bed than to go{SAUT}",
-    "fr": "",
-    "max": 37
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A9D90",
-    "en": "through life half-assed.{ATTENTE}",
-    "fr": "",
-    "max": 24
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A9DD4",
-    "en": "There's too many people like that{SAUT}",
-    "fr": "",
-    "max": 33
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A9E18",
-    "en": "already.{FERME}",
-    "fr": "",
-    "max": 8
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A9E3C",
-    "en": "Y'know, I've been thinking about the{SAUT}",
-    "fr": "",
-    "max": 36
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A9E86",
-    "en": "difference between humans and demons...{ATTENTE}",
-    "fr": "",
-    "max": 39
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A9EE8",
-    "en": "And it's useless. There isn't any.{FERME}",
-    "fr": "",
-    "max": 34
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A9F40",
-    "en": "Your actions have no worth unless you{SAUT}",
-    "fr": "",
-    "max": 37
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A9F8C",
-    "en": "choose them of your own free will.{FERME}",
-    "fr": "",
-    "max": 34
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A9FE4",
-    "en": "Who the hell do you think you're talking{SAUT}",
-    "fr": "",
-    "max": 40
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA036",
-    "en": "to? I hate rudeness worse than anything!{FERME}",
-    "fr": "",
-    "max": 40
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA098",
-    "en": "Hmph! It's true what they say...{SAUT}",
-    "fr": "",
-    "max": 32
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA0DA",
-    "en": "A demon's bark is worse than its bite!{FERME}",
-    "fr": "",
-    "max": 38
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA138",
-    "en": "You'll be calling ME a demon soon.{ATTENTE}",
-    "fr": "",
-    "max": 34
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA190",
-    "en": "Heheh... Now where should I start...?{FERME}",
-    "fr": "",
-    "max": 37
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA1EA",
-    "en": "I'd watch out if I were you...{ATTENTE}",
-    "fr": "",
-    "max": 30
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA238",
-    "en": "I'm nice and calm now, but I go nuts{SAUT}",
-    "fr": "",
-    "max": 36
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA282",
-    "en": "in a snap.{FERME}",
-    "fr": "",
-    "max": 10
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA2A6",
-    "en": "I got this hobby... I collect severed{SAUT}",
-    "fr": "",
-    "max": 37
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA2F2",
-    "en": "demon heads! Wanna join my collection?{FERME}",
-    "fr": "",
-    "max": 38
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA34E",
-    "en": "You're not gonna do what I say!? Don't{SAUT}",
-    "fr": "",
-    "max": 38
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA39C",
-    "en": "make me blow your brains out!{FERME}",
-    "fr": "",
-    "max": 29
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA3E6",
-    "en": "My daddy was abducted by a UFO...{SAUT}",
-    "fr": "",
-    "max": 33
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AA42A",
-    "en": "My mom joined an evil cult...{ATTENTE}",
-    "fr": "",
-    "max": 29
   }
 ]

@@ -10,7 +10,7 @@
     "id": "E0.BIN:137:0001",
     "locuteur": "Hariti",
     "en": "Maki...?{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Hariti",
     "fr": "Maki...?{ATTENTE}"
   },
   {
@@ -228,7 +228,7 @@
     "id": "E0.BIN:137:0032",
     "locuteur": "Setsuko Sonomura",
     "en": "What...?{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Setsuko Sonomura",
     "fr": "Quoi...?{ATTENTE}",
     "_occurrences": 2
   },

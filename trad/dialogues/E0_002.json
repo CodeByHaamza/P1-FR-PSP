@@ -107,28 +107,28 @@
     "id": "E0.BIN:005:0000",
     "locuteur": "Drama club member",
     "en": "Hey, we haven't decided which play we're{SAUT}doing for the culture festival, have we?{ATTENTE}",
-    "locuteur_fr": "Élève du club",
+    "locuteur_fr": "Membre du club",
     "fr": "Dis, on n'a toujours pas choisi la{SAUT}pièce pour le festival culturel, si?{ATTENTE}"
   },
   {
     "id": "E0.BIN:005:0001",
     "locuteur": "Drama club member",
     "en": "I heard there was a traditional play{SAUT}we used to perform... Why not do that?{ATTENTE}",
-    "locuteur_fr": "Élève du club",
+    "locuteur_fr": "Membre du club",
     "fr": "Il paraît qu'on jouait une pièce{SAUT}traditionnelle avant... Pourquoi pas?{ATTENTE}"
   },
   {
     "id": "E0.BIN:005:0002",
     "locuteur": "Drama club member",
     "en": "I think it was called The Snow--{ATTENTE}",
-    "locuteur_fr": "Élève du club",
+    "locuteur_fr": "Membre du club",
     "fr": "Je crois que ça s'appelait La Reine--{ATTENTE}"
   },
   {
     "id": "E0.BIN:005:0003",
     "locuteur": "Drama club president",
     "en": "Absolutely not! That one's off limits.{SAUT}I'll decide soon... Give me some time.{ATTENTE}",
-    "locuteur_fr": "Présidente du club",
+    "locuteur_fr": "Présidente",
     "fr": "Certainement pas! Celle-là, jamais.{SAUT}Je déciderai... Laissez-moi du temps.{ATTENTE}"
   },
   {
@@ -156,35 +156,35 @@
     "id": "E0.BIN:005:0007",
     "locuteur": "Drama club member",
     "en": "St. Hermelin won the drama concours{SAUT}nine years ago, too...{ATTENTE}",
-    "locuteur_fr": "Élève du club",
+    "locuteur_fr": "Membre du club",
     "fr": "St. Hermelin a gagné le concours de{SAUT}théâtre il y a neuf ans, aussi...{ATTENTE}"
   },
   {
     "id": "E0.BIN:005:0008",
     "locuteur": "Drama club member",
     "en": "But the trophy from that year is missing.{SAUT}I wonder what happened to it.{ATTENTE}",
-    "locuteur_fr": "Élève du club",
+    "locuteur_fr": "Membre du club",
     "fr": "Mais le trophée de cette année-là a{SAUT}disparu. Où a-t-il bien pu passer?{ATTENTE}"
   },
   {
     "id": "E0.BIN:005:0009",
     "locuteur": "Drama club member",
     "en": "The president seemed a little touchy...{SAUT}Why did she get so upset?{ATTENTE}",
-    "locuteur_fr": "Élève du club",
+    "locuteur_fr": "Membre du club",
     "fr": "La présidente a mal réagi...{SAUT}Pourquoi s'est-elle emportée?{ATTENTE}"
   },
   {
     "id": "E0.BIN:005:0010",
     "locuteur": "Drama club member",
     "en": "Hm? Are you interested in joining the{SAUT}club?{ATTENTE}",
-    "locuteur_fr": "Élève du club",
+    "locuteur_fr": "Membre du club",
     "fr": "Hm? Ça t'intéresse de rejoindre le{SAUT}club?{ATTENTE}"
   },
   {
     "id": "E0.BIN:005:0011",
     "locuteur": "Drama club member",
     "en": "If not, please leave. You're in our{SAUT}eye lines.{ATTENTE}",
-    "locuteur_fr": "Élève du club",
+    "locuteur_fr": "Membre du club",
     "fr": "Sinon, va-t'en. Tu nous bouches la{SAUT}vue.{ATTENTE}"
   },
   {

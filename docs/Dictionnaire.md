@@ -144,7 +144,7 @@
 | Hariti | Hariti | EBOOT_003.json | ✅ *(démon, nom conservé)* |
 | Khamenturun / Turunkhamen / Mannequin | noms conservés | EBOOT_010.json | ✅ |
 | Rosa Candida / Satomi Tadashi / Sennen Mannen-Do | noms conservés (boutiques) | EBOOT_016.json | ✅ |
-| Clerk (locuteur) | Employé | EBOOT_010.json | ✅ *(déjà employé dans les dialogues)* |
+| Clerk (locuteur) | Vendeur | EBOOT_010.json, E2_005.json | ✅ *(forme majoritaire des dialogues, boutiques ; « Employé » abandonné le 20/09/2026)* |
 | Himeno Mansion | Manoir Himeno | EBOOT_016.json | ✅ |
 | Expel Mirror | Miroir Expel | EBOOT_016.json | ✅ *(sort signature gardé)* |
 | Order / Type (fusion de cartes) | Ordre / Type | EBOOT_016.json | ✅ |

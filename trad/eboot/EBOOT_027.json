@@ -1,607 +1,606 @@
 [
   {
+    "id": "EBOOT.BIN:BE2:OFF_29E2BA",
+    "en": "Waaaaaah! I don't wanna die!{ATTENTE}",
+    "fr": "Ouiiiiin! Je veux pas mourir!{ATTENTE}",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E2F6",
+    "en": " (*SPEAKER*)Demon Lieutenant{SAUT}",
+    "fr": " (*SPEAKER*)Lieutenant démon{SAUT}",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E31C",
+    "en": "Rrrrrrrgh! {PAUSE}[1000]I'm taking at least one of{SAUT}",
+    "fr": "Rrrrrrrgh! {PAUSE}[1000]J'en emporte au moins un{SAUT}",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E36C",
+    "en": "you down with me!{ATTENTE}",
+    "fr": "avec moi!{ATTENTE}",
+    "max": 17
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E3A2",
+    "en": "What the hell, man!?{PAUSE}[1000]{SAUT}",
+    "fr": "Mec, c'est quoi ça!?{PAUSE}[1000]{SAUT}",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E3D0",
+    "en": "What happened to you guys!?{ATTENTE}",
+    "fr": "Qu'est-ce qui vous arrive!?{ATTENTE}",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E41A",
+    "en": "Huh!? {PAUSE}[1000]Wh-Wh-What the...!?{ATTENTE}",
+    "fr": "Hein!? {PAUSE}[1000]Q-Q-Quoi...!?{ATTENTE}",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E456",
+    "en": "Demon Lieutenant{SAUT}",
+    "fr": "Lieutenant démon{SAUT}",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E478",
+    "en": "Execution, execution, execution!{PAUSE}[1000]{SAUT}",
+    "fr": "Exécution, exécution, exécution!{PAUSE}[1000]{SAUT}",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E4BE",
+    "en": "Kill 'em stone dead!{ATTENTE}",
+    "fr": "Tuez-les net!{ATTENTE}",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E4F8",
+    "en": "We didn't have a choice! No hard feelings,{SAUT}",
+    "fr": "On avait pas le choix! Sans rancune,{SAUT}",
+    "max": 42
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E54E",
+    "en": "right, old man?{ATTENTE}",
+    "fr": "hein, le vieux?{ATTENTE}",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E57E",
+    "en": "Wh-Whooooa! I... {PAUSE}[1000]I'm gonna die!{ATTENTE}",
+    "fr": "O-Oooh! Je... {PAUSE}[1000]Je vais mourir!{ATTENTE}",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E5C6",
+    "en": "Demon{SAUT}",
+    "fr": "Démon{SAUT}",
+    "max": 5
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E5D2",
+    "en": "Owwwww! {PAUSE}[1000]That HURT!{ATTENTE}",
+    "fr": "Aïeeee! {PAUSE}[1000]Ça fait MAL!{ATTENTE}",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E5FE",
+    "en": " (*SPEAKER*)Demon{SAUT}",
+    "fr": " (*SPEAKER*)Démon{SAUT}",
+    "max": 6
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E60E",
+    "en": "Hahaha! {PAUSE}[1000]I barely felt that!{ATTENTE}",
+    "fr": "Hahaha! {PAUSE}[1000]J'ai à peine senti!{ATTENTE}",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E65A",
+    "en": "Maki, don't do anything foolish!{ATTENTE}",
+    "fr": "Maki, ne faites rien d'insensé!{ATTENTE}",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_29E6AC",
+    "en": "I won't go down that easy!{ATTENTE}",
+    "fr": "Je me rendrai pas si vite!{ATTENTE}",
+    "max": 26
+  },
+  {
     "id": "EBOOT.BIN:BE2:OFF_29E6F0",
     "en": "Sheesh, that girl's crazy!{ATTENTE}",
-    "fr": "",
+    "fr": "Pfff, cette fille est folle!{ATTENTE}",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29E738",
     "en": "Eriko! This is no ordinary enemy!{ATTENTE}",
-    "fr": "",
+    "fr": "Eriko! Cet ennemi n'est pas banal!{ATTENTE}",
     "max": 33
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29E78C",
     "en": "No worries! {PAUSE}[1000]I may not look it, but I'm{SAUT}",
-    "fr": "",
+    "fr": "Aucun souci! {PAUSE}[1000]Ça ne se voit pas, mais{SAUT}",
     "max": 38
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29E7DE",
     "en": "a rather capable fencer.{ATTENTE}",
-    "fr": "",
+    "fr": "je suis bonne escrimeuse.{ATTENTE}",
     "max": 24
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29E822",
     "en": "Eriko! Get back!{ATTENTE}",
-    "fr": "",
+    "fr": "Eriko! En arrière!{ATTENTE}",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29E846",
     "en": " Thou art I... and I am thou...{PAUSE}[1000]{SAUT}",
-    "fr": "",
+    "fr": " Tu es moi... et je suis toi...{PAUSE}[1000]{SAUT}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29E88A",
     "en": "From the sea of thy soul, I cometh...{PAUSE}[1000]{SAUT}",
-    "fr": "",
+    "fr": "De la mer de ton âme, je viens...{PAUSE}[1000]{SAUT}",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29E8DA",
     "en": "I shall lend you my strength...{ATTENTE}",
-    "fr": "",
+    "fr": "Je te prêterai ma force...{ATTENTE}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29E940",
     "en": "How the hell are we supposed to fight{SAUT}",
-    "fr": "",
+    "fr": "Comment on est censés se battre{SAUT}",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29E98C",
     "en": "somethin' that's already dead!?{ATTENTE}",
-    "fr": "",
+    "fr": "contre un truc déjà mort!?{ATTENTE}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29E9E0",
     "en": "Careful, guys!{ATTENTE}",
-    "fr": "",
+    "fr": "Faites gaffe!{ATTENTE}",
     "max": 14
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29EA0E",
     "en": "I'll never forgive you bastards!{ATTENTE}",
-    "fr": "",
+    "fr": "Je vous le pardonnerai jamais!{ATTENTE}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29FC36",
     "en": "c[0405][0640]ab,[0405][0600],[0002]c[0405][0604],[0002]c",
-    "fr": "",
+    "fr": "c[0405][0640]ab,[0405][0600],[0002]c[0405][0604],[0002]c",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A1E92",
     "en": " [FF15]'s Persona, (*TEXTBOX_PARAM*)[0600][FF0C](*TEXTBOX_PARAM*) ,{SAUT}",
-    "fr": "",
+    "fr": "Persona de [FF15], (*TEXTBOX_PARAM*)[0600][FF0C](*TEXTBOX_PARAM*) ,{SAUT}",
     "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A1EBC",
+    "en": "reached its maximum rank!{ATTENTE}",
+    "fr": "atteint son rang maximum!{ATTENTE}",
+    "max": 25,
+    "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A1F22",
     "en": " > [FF15]'s Persona, (*TEXTBOX_PARAM*)[0600][FF0C](*TEXTBOX_PARAM*) ,{SAUT}",
-    "fr": "",
+    "fr": "> Persona de [FF15], (*TEXTBOX_PARAM*)[0600][FF0C](*TEXTBOX_PARAM*) ,{SAUT}",
     "max": 17,
     "_occurrences": 3
   },
   {
+    "id": "EBOOT.BIN:BE2:OFF_2A1F50",
+    "en": "reached rank (*VALUE*)!{ATTENTE}",
+    "fr": "passe au rang (*VALUE*)!{ATTENTE}",
+    "max": 14,
+    "_occurrences": 2
+  },
+  {
     "id": "EBOOT.BIN:BE2:OFF_2A4BE6",
     "en": " > (*TEXTBOX_PARAM*)[0200]Strength(*TEXTBOX_PARAM*)  increased!{ATTENTE}",
-    "fr": "",
+    "fr": " > (*TEXTBOX_PARAM*)[0200]Force(*TEXTBOX_PARAM*)  accrue!{ATTENTE}",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A4C1E",
     "en": "     > (*TEXTBOX_PARAM*)[0200]Vitality(*TEXTBOX_PARAM*)  increased!{ATTENTE}",
-    "fr": "",
+    "fr": "     > (*TEXTBOX_PARAM*)[0200]Vitalité(*TEXTBOX_PARAM*)  accrue!{ATTENTE}",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A4C5E",
     "en": "     > (*TEXTBOX_PARAM*)[0200]Dexterity(*TEXTBOX_PARAM*)  increased!{ATTENTE}",
-    "fr": "",
+    "fr": "     > (*TEXTBOX_PARAM*)[0200]Dextérité(*TEXTBOX_PARAM*)  accrue!{ATTENTE}",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A4CA0",
     "en": "    > (*TEXTBOX_PARAM*)[0200]Agility(*TEXTBOX_PARAM*)  increased!{ATTENTE}",
-    "fr": "",
+    "fr": "    > (*TEXTBOX_PARAM*)[0200]Agilité(*TEXTBOX_PARAM*)  accrue!{ATTENTE}",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A4CDC",
     "en": "      > (*TEXTBOX_PARAM*)[0200]Luck(*TEXTBOX_PARAM*)  increased!{ATTENTE}",
-    "fr": "",
+    "fr": "      > (*TEXTBOX_PARAM*)[0200]Chance(*TEXTBOX_PARAM*)  accrue!{ATTENTE}",
     "max": 24
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A4D16",
     "en": "         Please distribute the points.{SAUT}",
-    "fr": "",
+    "fr": "         Répartissez les points.{SAUT}",
     "max": 38
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A4D64",
     "en": "((*VALUE*) points remaining.){SAUT}",
-    "fr": "",
+    "fr": "((*VALUE*) points restants.){SAUT}",
     "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A4D90",
+    "en": "When finished, press the [003E] button.",
+    "fr": "Terminé : appuyez sur [003E].",
+    "max": 33
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A4EDA",
     "en": "What is this, an (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*)  [FFFC]Heh...{SAUT}",
-    "fr": "",
+    "fr": "C'est quoi, un (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*)  [FFFC]Heh...{SAUT}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A4F24",
     "en": "I don't need it.{ATTENTE}",
-    "fr": "",
+    "fr": "Pas besoin de ça.{ATTENTE}",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A4F4A",
     "en": " Reiji tossed the Avatar aside...{ATTENTE}",
-    "fr": "",
+    "fr": " Reiji a balancé l'Avatar...{ATTENTE}",
     "max": 33
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A4F92",
     "en": " [FFFA] picked up the Avatar...{FERME}",
-    "fr": "",
+    "fr": " [FFFA] a ramassé l'Avatar...{FERME}",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A4FD8",
     "en": "This is one hell of an amazing card...{ATTENTE}",
-    "fr": "",
+    "fr": "Ça, c'est une sacrée carte...{ATTENTE}",
     "max": 38
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5038",
     "en": "Huh. So this is the totem (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*) , huh?{ATTENTE}",
-    "fr": "",
+    "fr": "Hm. Donc c'est le totem (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*) , hein?{ATTENTE}",
     "max": 39
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5090",
     "en": "Looks like it's my lucky day...{FERME}",
-    "fr": "",
+    "fr": "On dirait mon jour de chance...{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A50DE",
     "en": "Hey! Don't stick me with this weird{SAUT}",
-    "fr": "",
+    "fr": "Hé! Me refile pas cette carte{SAUT}",
     "max": 35
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5126",
     "en": "card...{ATTENTE}",
-    "fr": "",
+    "fr": "bizarre...{ATTENTE}",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5146",
     "en": "...[FFFC]Wait... [FFFC]Is this for real!?{ATTENTE}",
-    "fr": "",
+    "fr": "...[FFFC]Minute... [FFFC]C'est sérieux!?{ATTENTE}",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5196",
     "en": "Is this (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*)  thingie related to{SAUT}",
-    "fr": "",
+    "fr": "Ce truc d'(*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*)  a un rapport avec{SAUT}",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A51E2",
     "en": "Vishnu!? Wow, that's some luck!{FERME}",
-    "fr": "",
+    "fr": "Vishnu!? Waouh, quelle chance!{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5230",
     "en": "This (*TEXTBOX_STYLE*)[0200](*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*)  is an incarnation of Vishnu!{SAUT}",
-    "fr": "",
+    "fr": "Cet (*TEXTBOX_STYLE*)[0200](*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*)  est l'incarnation de Vishnu!{SAUT}",
     "max": 41
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A528E",
     "en": "I'm very fortunate to have found it!{FERME}",
-    "fr": "",
+    "fr": "Quelle chance de l'avoir trouvé!{FERME}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A52E4",
     "en": "No way... for real!?{ATTENTE}",
-    "fr": "",
+    "fr": "Non... pour de vrai!?{ATTENTE}",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A531C",
     "en": "But what's an \"Avatar\"? [FFFC]It's not gonna{SAUT}",
-    "fr": "",
+    "fr": "Mais c'est quoi, un \"Avatar\"? [FFFC]Ça va{SAUT}",
     "max": 38
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A536C",
     "en": "explode or nothin', is it...?{ATTENTE}",
-    "fr": "",
+    "fr": "pas exploser, au moins...?{ATTENTE}",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A53B6",
     "en": "Seriously, what do I do with this thing?{SAUT}",
-    "fr": "",
+    "fr": "Sérieux, je fais quoi de ce truc?{SAUT}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A540A",
     "en": "...[FFFC]Hah! Whatever it is, it's mine!{FERME}",
-    "fr": "",
+    "fr": "...[FFFC]Hah! Peu importe, c'est à moi!{FERME}",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5462",
     "en": "Ah... [FFFC]the totem (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*) , hmm? [FFFC]It must be{SAUT}",
-    "fr": "",
+    "fr": "Ah... [FFFC]le totem (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*) , hmm? [FFFC]Sans doute{SAUT}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A54BE",
     "en": "a reward for my exemplary behavior...{FERME}",
-    "fr": "",
+    "fr": "une prime à ma conduite exemplaire...{FERME}",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A551A",
     "en": "Daaaamn! [FFFC]So this is an (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*) , huh?[FFFC]{SAUT}",
-    "fr": "",
+    "fr": "Ouaaah! [FFFC]Alors c'est ça, un (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*) ?[FFFC]{SAUT}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A556E",
     "en": "Good thing you had me along!{FERME}",
-    "fr": "",
+    "fr": "Heureusement que je suis là!{FERME}",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A55B4",
     "en": "Wow, lucky me!{ATTENTE}",
-    "fr": "",
+    "fr": "Oh, la chance!{ATTENTE}",
     "max": 14
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A55E0",
     "en": "Isn't this an (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*) {SAUT}",
-    "fr": "",
+    "fr": "C'est pas un (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*) ?{SAUT}",
     "max": 21
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5612",
     "en": "Wow, this is so cool!{FERME}",
-    "fr": "",
+    "fr": "Waouh, trop cool!{FERME}",
     "max": 21
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5678",
     "en": "Avatar(*TEXTBOX_PARAM*) !{FERME}",
-    "fr": "",
+    "fr": "Avatar(*TEXTBOX_PARAM*) !{FERME}",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A568E",
     "en": " There was another card stuck to the{SAUT}",
-    "fr": "",
+    "fr": " Une autre carte était collée à la{SAUT}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A56DA",
     "en": " spell card!(*OPTION*)",
-    "fr": "",
+    "fr": "carte de sort!(*OPTION*)",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A577E",
     "en": " The demon spoke to you!{FERME}",
-    "fr": "",
+    "fr": " Le démon vous a parlé!{FERME}",
     "max": 24
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A57B2",
     "en": " But [FFF9] didn't have any{SAUT}",
-    "fr": "",
+    "fr": " Mais [FFF9] n'avait aucune{SAUT}",
     "max": 21
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A57E0",
     "en": "life stones.{FERME}",
-    "fr": "",
+    "fr": "pierre de vie.{FERME}",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A57FA",
     "en": " > But [FFF9] didn't have enough.{FERME}",
-    "fr": "",
+    "fr": "> Mais [FFF9] n'en avait pas assez.{FERME}",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5836",
     "en": " [FFF9] took damage.{FERME}",
-    "fr": "",
+    "fr": " [FFF9] est touché.{FERME}",
     "max": 14
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5856",
     "en": " > [FFF9] was healed!{FERME}",
-    "fr": "",
+    "fr": " > [FFF9] est soigné!{FERME}",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A587A",
     "en": " [FFF3] used a life stone.{FERME}",
-    "fr": "",
+    "fr": "[FFF3] use une pierre de vie.{FERME}",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A58A6",
     "en": " > Gained (*VALUE*) EXP.{FERME}",
-    "fr": "",
+    "fr": " > Reçu (*VALUE*) EXP.{FERME}",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A58CA",
     "en": " Obtained (*VALUE*) yen.{FERME}",
-    "fr": "",
+    "fr": " Reçu (*VALUE*) yens.{FERME}",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A58EE",
     "en": " Obtained [FFF4].{FERME}",
-    "fr": "",
+    "fr": " Obtenu : [FFF4].{FERME}",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A590A",
     "en": " The demon is sulking.{FERME}",
-    "fr": "",
+    "fr": " Le démon boude.{FERME}",
     "max": 22
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A593A",
     "en": " The demon is snickering.{FERME}",
-    "fr": "",
+    "fr": " Le démon ricane.{FERME}",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A596E",
     "en": " > The demon seems happy!{FERME}",
-    "fr": "",
+    "fr": " > Le démon a l'air ravi!{FERME}",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A59A2",
     "en": " > The demon is scared.{FERME}",
-    "fr": "",
+    "fr": " > Le démon a peur.{FERME}",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A59D2",
     "en": " > The demon is terrified!{FERME}",
-    "fr": "",
+    "fr": " > Le démon est terrifié!{FERME}",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5A0A",
     "en": " The demon ran away.{FERME}",
-    "fr": "",
+    "fr": " Le démon a fui.{FERME}",
     "max": 20,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5A36",
     "en": " The demon is fascinated.{FERME}",
-    "fr": "",
+    "fr": " Le démon est fasciné.{FERME}",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5A6A",
     "en": " > The demon is charmed!{FERME}",
-    "fr": "",
+    "fr": " > Le démon est charmé!{FERME}",
     "max": 24
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5A9E",
     "en": " But you just glared back!{FERME}",
-    "fr": "",
+    "fr": " Mais vous l'avez toisé!{FERME}",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5AD6",
     "en": " The demon intimidated you!{FERME}",
-    "fr": "",
+    "fr": " Le démon vous a intimidé!{FERME}",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5B0E",
     "en": " > The demon is coercing you...{FERME}",
-    "fr": "",
+    "fr": "> Le démon vous force la main...{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5B4E",
     "en": " > The demon surprised you!{FERME}",
-    "fr": "",
+    "fr": " > Le démon vous a surpris!{FERME}",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5B86",
     "en": " > The demon is pissed off!{FERME}",
-    "fr": "",
+    "fr": " > Le démon est furieux!{FERME}",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5BBE",
     "en": " > The demon is losing it.{FERME}",
-    "fr": "",
+    "fr": " > Le démon perd la tête.{FERME}",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5BF6",
     "en": " The demon is panicking!{FERME}",
-    "fr": "",
+    "fr": " Le démon panique!{FERME}",
     "max": 24
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5C56",
     "en": " The demon is worked up.{FERME}",
-    "fr": "",
+    "fr": " Le démon s'agite.{FERME}",
     "max": 24
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5C8A",
     "en": " Obtained the [FFF3]{SAUT}",
-    "fr": "",
+    "fr": " Obtenu : [FFF3],{SAUT}",
     "max": 14
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A5CAA",
-    "en": "spell card.{FERME}",
-    "fr": "",
-    "max": 11,
-    "_occurrences": 2
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A5CC2",
-    "en": " > Discarded the [FFF2]{SAUT}",
-    "fr": "",
-    "max": 17
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A5D02",
-    "en": " Discard the [FFF2]{SAUT}",
-    "fr": "",
-    "max": 13
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A5D20",
-    "en": "spell card?{FERME}",
-    "fr": "",
-    "max": 11
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A5D3A",
-    "en": " You have too many spell cards!{FERME}",
-    "fr": "",
-    "max": 31
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A5D7A",
-    "en": " > Which spell card will you discard?{FERME}",
-    "fr": "",
-    "max": 37
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A5DC6",
-    "en": " > The demon left.{FERME}",
-    "fr": "",
-    "max": 18
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A5DEC",
-    "en": "Can't talk right now...{FERME}",
-    "fr": "",
-    "max": 23
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A5E1C",
-    "en": "It's in no state to answer.{FERME}",
-    "fr": "",
-    "max": 27
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A5F92",
-    "en": "                                                                                                                                                                                                                                                                                                     [0202][2004]b[4002],[0804]bb",
-    "fr": "",
-    "max": 297
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A7DA4",
-    "en": "You're over the card limit![FFFC]{SAUT}",
-    "fr": "",
-    "max": 27
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A7DDE",
-    "en": "Throw some away!{FERME}",
-    "fr": "",
-    "max": 16
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A7E00",
-    "en": "Oh my god, you have like, 12 cards![FFFC]{SAUT}",
-    "fr": "",
-    "max": 35
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A7E4A",
-    "en": "That's like... waaaay too many!{FERME}",
-    "fr": "",
-    "max": 31
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A7E8A",
-    "en": " Hey! You cheater![FFFC]{SAUT}",
-    "fr": "",
-    "max": 18
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A7EB2",
-    "en": "You've got too many cards!{SAUT}",
-    "fr": "",
-    "max": 26
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A7EE8",
-    "en": "Take the lame ones off the court!{FERME}",
-    "fr": "",
-    "max": 33
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A7F2C",
-    "en": "...Are you an idiot?[FFFC] You'd better{SAUT}",
-    "fr": "",
-    "max": 33
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A7F72",
-    "en": "remember how many cards you can carry!{FERME}",
-    "fr": "",
-    "max": 38,
-    "_occurrences": 2
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A7FC0",
-    "en": "Ya makin' fun o' me!? [FFFC]Well ya got too{SAUT}",
-    "fr": "",
-    "max": 37
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A800E",
-    "en": "many cards! Hurry and throw one away!{FERME}",
-    "fr": "",
-    "max": 37
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2A805A",
-    "en": " ...You carry too many needless cards.[FFFC]{SAUT}",
-    "fr": "",
-    "max": 38,
-    "_occurrences": 2
   }
 ]

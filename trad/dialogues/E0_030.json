@@ -135,12 +135,12 @@
   {
     "id": "E0.BIN:101:0019",
     "en": "{FERME}> It's Maki's painting...{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}> C'est le tableau de Maki...{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0020",
     "en": "{FERME} > The mirror's power has faded...{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} > Le pouvoir du miroir s'est dissipé...{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0021",
@@ -174,8 +174,8 @@
     "id": "E0.BIN:101:0025",
     "locuteur": "Aki",
     "en": "Daddy called you a \"ginnee pig\" and a{SAUT}\"useless pon\"!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Aki",
+    "fr": "Papa t'a traitée de \"cobaye\" et de{SAUT}\"boulette inutile\"!{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0026",
@@ -195,8 +195,8 @@
     "id": "E0.BIN:101:0029",
     "locuteur": "Chisato",
     "en": "W-Wait! Am I going to be like this{SAUT}forever...!? No...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Chisato",
+    "fr": "A-Attends! Je vais rester comme ça{SAUT}pour toujours...!? Non...!{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0030",
@@ -223,8 +223,8 @@
     "id": "E0.BIN:101:0033",
     "locuteur": "Chisato",
     "en": "You're lying! Don't feed me that crap!{SAUT}I know you think I deserve all this!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Chisato",
+    "fr": "Tu mens! Me sors pas ces salades!{SAUT}Je sais que tu penses que je le mérite!{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0034",
@@ -244,8 +244,8 @@
     "id": "E0.BIN:101:0036",
     "locuteur": "Maki",
     "en": "Yep! You're energetic, beautiful,{SAUT}fashionable, and self-possessed.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Oui! Tu es pleine d'énergie, belle,{SAUT}à la mode, et sûre de toi.{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0037",
@@ -594,8 +594,8 @@
     "id": "E0.BIN:101:0086",
     "locuteur": "Brown",
     "en": "Huh--Yosuke!? What're you doing here?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Hein--Yosuke!? Qu'est-ce que tu fais là?{ATTENTE}"
   },
   {
     "id": "E0.BIN:101:0087",

@@ -158,15 +158,15 @@
     "id": "E0.BIN:018:0022",
     "locuteur": "Clerk",
     "en": "Welcome!{ATTENTE}",
-    "locuteur_fr": "Commis",
-    "fr": "Entrez!{ATTENTE}",
+    "locuteur_fr": "Vendeur",
+    "fr": "Salut!{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "E0.BIN:018:0023",
     "locuteur": "Clerk",
     "en": "Our store doesn't carry weapons...{SAUT}Is that all right?{ATTENTE}",
-    "locuteur_fr": "Employé",
+    "locuteur_fr": "Vendeur",
     "fr": "Nous ne vendons pas d'armes...{SAUT}Cela vous convient?{ATTENTE}",
     "_occurrences": 2
   },
@@ -389,7 +389,7 @@
     "id": "E0.BIN:020:0000",
     "locuteur": "Doctor",
     "en": "I have to go... but you should get some{SAUT}fresh air sometimes. It's good for you.{ATTENTE}",
-    "locuteur_fr": "Médecin",
+    "locuteur_fr": "Docteur",
     "fr": "Je dois y aller... Mais sortez prendre{SAUT}l'air parfois. Ça vous fera du bien.{ATTENTE}"
   },
   {
@@ -415,7 +415,7 @@
     "id": "E0.BIN:020:0004",
     "locuteur": "Doctor",
     "en": "Oho, it seems your real medication{SAUT}has arrived. I'll leave you kids be.{ATTENTE}",
-    "locuteur_fr": "Médecin",
+    "locuteur_fr": "Docteur",
     "fr": "Oho, on dirait que le vrai remède{SAUT}est arrivé. Je vous laisse entre vous.{ATTENTE}"
   },
   {

@@ -1,602 +1,602 @@
 [
   {
+    "id": "EBOOT.BIN:BE2:OFF_2A9BD8",
+    "en": "And don't you make fun of them, or I'll{SAUT}",
+    "fr": "Et te moque pas d'eux, ou je te le{SAUT}",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9C28",
+    "en": "make you regret it!{FERME}",
+    "fr": "ferai regretter!{FERME}",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9C60",
+    "en": "Stop whining! No one likes it!{FERME}",
+    "fr": "Arrête de geindre! C'est lourd!{FERME}",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9CB0",
+    "en": "Hey! Didn't they teach you in kindergarten{SAUT}",
+    "fr": "Hé! On t'a pas appris en maternelle{SAUT}",
+    "max": 42
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9D06",
+    "en": "not to cause trouble!?{FERME}",
+    "fr": "à rester tranquille!?{FERME}",
+    "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9D44",
+    "en": "It's better to stay in bed than to go{SAUT}",
+    "fr": "Mieux vaut rester au lit que de vivre{SAUT}",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9D90",
+    "en": "through life half-assed.{ATTENTE}",
+    "fr": "sa vie à moitié.{ATTENTE}",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9DD4",
+    "en": "There's too many people like that{SAUT}",
+    "fr": "Il y a déjà bien trop de gens{SAUT}",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9E18",
+    "en": "already.{FERME}",
+    "fr": "comme ça.{FERME}",
+    "max": 8
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9E3C",
+    "en": "Y'know, I've been thinking about the{SAUT}",
+    "fr": "Tu sais, j'ai réfléchi à la différence{SAUT}",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9E86",
+    "en": "difference between humans and demons...{ATTENTE}",
+    "fr": "entre les humains et les démons...{ATTENTE}",
+    "max": 39
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9EE8",
+    "en": "And it's useless. There isn't any.{FERME}",
+    "fr": "Et c'est inutile. Il n'y en a pas.{FERME}",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9F40",
+    "en": "Your actions have no worth unless you{SAUT}",
+    "fr": "Tes actes ne valent rien si tu ne les{SAUT}",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9F8C",
+    "en": "choose them of your own free will.{FERME}",
+    "fr": "choisis pas de ton plein gré.{FERME}",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2A9FE4",
+    "en": "Who the hell do you think you're talking{SAUT}",
+    "fr": "À qui crois-tu parler, au juste?{SAUT}",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA036",
+    "en": "to? I hate rudeness worse than anything!{FERME}",
+    "fr": "Je hais l'insolence plus que tout!{FERME}",
+    "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA098",
+    "en": "Hmph! It's true what they say...{SAUT}",
+    "fr": "Hmph! Le dicton dit vrai...{SAUT}",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA0DA",
+    "en": "A demon's bark is worse than its bite!{FERME}",
+    "fr": "Démon qui aboie ne mord pas!{FERME}",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA138",
+    "en": "You'll be calling ME a demon soon.{ATTENTE}",
+    "fr": "C'est MOI que tu vas appeler démon.{ATTENTE}",
+    "max": 34
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA190",
+    "en": "Heheh... Now where should I start...?{FERME}",
+    "fr": "Héhé... Par où je commence...?{FERME}",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA1EA",
+    "en": "I'd watch out if I were you...{ATTENTE}",
+    "fr": "À ta place, je ferais gaffe...{ATTENTE}",
+    "max": 30
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA238",
+    "en": "I'm nice and calm now, but I go nuts{SAUT}",
+    "fr": "Là je suis calme, mais je peux péter{SAUT}",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA282",
+    "en": "in a snap.{FERME}",
+    "fr": "un câble.{FERME}",
+    "max": 10
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA2A6",
+    "en": "I got this hobby... I collect severed{SAUT}",
+    "fr": "J'ai un hobby... Je collectionne les{SAUT}",
+    "max": 37
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA2F2",
+    "en": "demon heads! Wanna join my collection?{FERME}",
+    "fr": "têtes de démons! Tu veux en être?{FERME}",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA34E",
+    "en": "You're not gonna do what I say!? Don't{SAUT}",
+    "fr": "Tu refuses de m'obéir!? Me force pas{SAUT}",
+    "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA39C",
+    "en": "make me blow your brains out!{FERME}",
+    "fr": "à te faire sauter la cervelle!{FERME}",
+    "max": 29
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA3E6",
+    "en": "My daddy was abducted by a UFO...{SAUT}",
+    "fr": "Papa a été enlevé par un OVNI...{SAUT}",
+    "max": 33
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA42A",
+    "en": "My mom joined an evil cult...{ATTENTE}",
+    "fr": "Maman a rejoint une secte...{ATTENTE}",
+    "max": 29
+  },
+  {
     "id": "EBOOT.BIN:BE2:OFF_2AA476",
     "en": "And now I've been taken apart and put{SAUT}",
-    "fr": "",
+    "fr": "Et moi, on m'a démonté et remonté{SAUT}",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AA4C2",
     "en": "back together as a cyborg...{FERME}",
-    "fr": "",
+    "fr": "en cyborg...{FERME}",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AA50A",
     "en": "Won't someone buy my matches...? If I{SAUT}",
-    "fr": "",
+    "fr": "Personne ne veut mes allumettes...?{SAUT}",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AA556",
     "en": "don't sell any, Papa will beat me...{FERME}",
-    "fr": "",
+    "fr": "Sinon, papa va me battre...{FERME}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AA5AE",
     "en": "I'm the oldest of 23 brothers and{SAUT}",
-    "fr": "",
+    "fr": "Je suis l'aîné de 23 frères et{SAUT}",
     "max": 33
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AA5F2",
     "en": "sisters... I have to feed them all...{FERME}",
-    "fr": "",
+    "fr": "soeurs... Je dois tous les nourrir...{FERME}",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AA64E",
     "en": "Ooooh, my chest is sore...{SAUT}",
-    "fr": "",
+    "fr": "Ooooh, ma poitrine me lance...{SAUT}",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AA684",
     "en": "Maybe if you gave it a little rub...?{FERME}",
-    "fr": "",
+    "fr": "Et si tu me la massais un peu...?{FERME}",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AA6DE",
     "en": "C'mon, don't make that awful face...{SAUT}",
-    "fr": "",
+    "fr": "Allez, fais pas cette tête affreuse...{SAUT}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AA728",
     "en": "We just need to get to know each other.{FERME}",
-    "fr": "",
+    "fr": "On a juste besoin de se connaître.{FERME}",
     "max": 39
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AA786",
     "en": "Y'know... I'm usually really innocent...{SAUT}",
-    "fr": "",
+    "fr": "Tu sais... D'habitude, je suis sage...{SAUT}",
     "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AA7D8",
+    "en": "But today? I'm feeling daring.{FERME}",
+    "fr": "Mais là? Je me sens hardie.{FERME}",
+    "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AA826",
     "en": "Hey... does it smell funny around here?{SAUT}",
-    "fr": "",
+    "fr": "Hé... ça sent bizarre par ici, non?{SAUT}",
     "max": 39
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AA876",
     "en": "It's you, isn't it? Uchhh, gag me.{FERME}",
-    "fr": "",
+    "fr": "C'est toi, hein? Beurk, ça pue.{FERME}",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AA8CA",
     "en": "Wow, you must be REALLY old, 'cause that{SAUT}",
-    "fr": "",
+    "fr": "Wow, tu dois être VRAIMENT vieux, vu{SAUT}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AA91C",
     "en": "style is like, PRE-prehistoric.{FERME}",
-    "fr": "",
+    "fr": "ton look genre PRÉ-préhistorique.{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AA96A",
     "en": "You're seriously willing to be seen{SAUT}",
-    "fr": "",
+    "fr": "Sérieux, tu oses te montrer dehors{SAUT}",
     "max": 35
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AA9B2",
     "en": "outside looking like that? What a dork!{FERME}",
-    "fr": "",
+    "fr": "dans cet état? Quel ringard!{FERME}",
     "max": 39
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AAA10",
     "en": "I'd like a demon like you to walk me{SAUT}",
-    "fr": "",
+    "fr": "J'aimerais qu'un démon comme toi me{SAUT}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AAA5A",
     "en": "home on my way back from school.{FERME}",
-    "fr": "",
+    "fr": "raccompagne après les cours.{FERME}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AAAA8",
     "en": "I have an offer for you. Wouldn't you like{SAUT}",
-    "fr": "",
+    "fr": "J'ai une offre pour toi. Ça te dirait{SAUT}",
     "max": 42
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AAAFE",
     "en": "to protect a beautiful woman like me?{FERME}",
-    "fr": "",
+    "fr": "de protéger une beauté comme moi?{FERME}",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AAB58",
     "en": "You're a very capable demon. Won't you{SAUT}",
-    "fr": "",
+    "fr": "Tu es un démon très doué. Veux-tu{SAUT}",
     "max": 38
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AABA6",
     "en": "take on a job as my bodyguard?{FERME}",
-    "fr": "",
+    "fr": "devenir mon garde du corps?{FERME}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AABF0",
     "en": "Yes? Would you like some milk?{FERME}",
-    "fr": "",
+    "fr": "Oui? Tu veux un peu de lait?{FERME}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AAC3C",
     "en": "There... that's a dear... Goodnight,{SAUT}",
-    "fr": "",
+    "fr": "Là... c'est bien... Bonne nuit,{SAUT}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AAC86",
     "en": "my sweet child.{FERME}",
-    "fr": "",
+    "fr": "mon doux enfant.{FERME}",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AACB4",
     "en": "There, there, little demon... Play nice.{FERME}",
-    "fr": "",
+    "fr": "Là, là, petit démon... Sois gentil.{FERME}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AAD06",
     "en": " > Elly sang a touching ballad.{FERME}",
-    "fr": "",
+    "fr": " > Elly a chanté une ballade.{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AAD46",
     "en": " > Elly sang her favorite song.{FERME}",
-    "fr": "",
+    "fr": "> Elly a chanté son air préféré.{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AAD86",
     "en": " > Elly sang a chic bossa nova.{FERME}",
-    "fr": "",
+    "fr": "> Elly a chanté une bossa nova.{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AADD4",
     "en": "If you see 11:11:11 on the clock on three{SAUT}",
-    "fr": "",
+    "fr": "Si tu vois 11:11:11 à l'horloge trois{SAUT}",
     "max": 41
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AAE28",
     "en": "straight days, you'll live six fewer days.{FERME}",
-    "fr": "",
+    "fr": "jours de suite, tu vis 6 jours de moins.{FERME}",
     "max": 42
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AAE8C",
     "en": "The children of people who witnessed a{SAUT}",
-    "fr": "",
+    "fr": "Les enfants de ceux qui ont vu un{SAUT}",
     "max": 38
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AAEDA",
+    "en": "suicide unwittingly visit the site...{ATTENTE}",
+    "fr": "suicide y vont sans le savoir...{ATTENTE}",
+    "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AAF34",
     "en": "You can imagine what happens next.{FERME}",
-    "fr": "",
+    "fr": "Tu devines la suite.{FERME}",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AAF88",
     "en": "Have you heard of the restroom stall you{SAUT}",
-    "fr": "",
+    "fr": "Tu connais la cabine de toilettes dont{SAUT}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AAFDA",
     "en": "can't escape?{ATTENTE}",
-    "fr": "",
+    "fr": "on ne sort pas?{ATTENTE}",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB004",
     "en": "Once you go inside, the door won't open{SAUT}",
-    "fr": "",
+    "fr": "Une fois entré, la porte ne s'ouvre{SAUT}",
     "max": 39
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB054",
     "en": "until you've done your business.{FERME}",
-    "fr": "",
+    "fr": "qu'après avoir fait ses besoins.{FERME}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB0A4",
     "en": "Ah, my dear child... [FFF3]!{SAUT}",
-    "fr": "",
+    "fr": "Ah, mon cher enfant... [FFF3]!{SAUT}",
     "max": 22
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB0D4",
+    "en": "Je t'aime.{FERME}",
+    "fr": "Je t'aime.{FERME}",
+    "max": 10
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB0F8",
     "en": "I'm only in this human form 'cause I{SAUT}",
-    "fr": "",
+    "fr": "J'ai cette forme humaine parce que j'ai{SAUT}",
     "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB142",
+    "en": "got cursed!{FERME}",
+    "fr": "été maudit!{FERME}",
+    "max": 11
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB168",
     "en": "I'm actually a prince of the underworld,{SAUT}",
-    "fr": "",
+    "fr": "En vrai, je suis un prince des enfers,{SAUT}",
     "max": 40
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2AB1BA",
+    "en": "studying abroad in the human world!{FERME}",
+    "fr": "en échange dans le monde humain!{FERME}",
+    "max": 35
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB202",
     "en": " > Mark stared flirtatiously at the demon.{FERME}",
-    "fr": "",
+    "fr": " > Mark a fait de l'oeil au démon.{FERME}",
     "max": 42
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB25A",
     "en": " Mark stared intensely at the demon.{FERME}",
-    "fr": "",
+    "fr": " Mark a fixé le démon intensément.{FERME}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB2A6",
     "en": " Mark stared passionately at the demon.{FERME}",
-    "fr": "",
+    "fr": " Mark a dévoré le démon des yeux.{FERME}",
     "max": 39
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB304",
     "en": "Hey! I'm right here!{FERME}",
-    "fr": "",
+    "fr": "Hé! Je suis là!{FERME}",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB33C",
     "en": "You think you're bad? Then try me!{FERME}",
-    "fr": "",
+    "fr": "Tu te crois fort? Viens voir!{FERME}",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB390",
     "en": "You want some of this!?{FERME}",
-    "fr": "",
+    "fr": "Tu veux goûter à ça!?{FERME}",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB3C2",
     "en": " Mark did a seductive slow dance.{FERME}",
-    "fr": "",
+    "fr": " Mark a dansé un slow langoureux.{FERME}",
     "max": 33
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB406",
     "en": " > Mark danced crazy!{FERME}",
-    "fr": "",
+    "fr": "> Mark s'est déchaîné!{FERME}",
     "max": 21
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB432",
     "en": " > Mark showed off his smooth moves.{FERME}",
-    "fr": "",
+    "fr": " > Mark a montré ses pas de danse.{FERME}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB48A",
     "en": "There's definitely no comparison between{SAUT}",
-    "fr": "",
+    "fr": "Il n'y a décidément pas de comparaison{SAUT}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB4DC",
     "en": "humans and your kind.{FERME}",
-    "fr": "",
+    "fr": "entre l'homme et vous.{FERME}",
     "max": 21
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB516",
     "en": "Your beauty is... stunning.{FERME}",
-    "fr": "",
+    "fr": "Votre beauté... sidérante.{FERME}",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB55E",
     "en": "You have NO idea how honored I am to{SAUT}",
-    "fr": "",
+    "fr": "Vous n'imaginez PAS l'honneur que j'ai{SAUT}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB5A8",
     "en": "speak to a demon of your status...{FERME}",
-    "fr": "",
+    "fr": "de parler à un démon de votre rang...{FERME}",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB5FE",
     "en": "I've never known such a dunce!{FERME}",
-    "fr": "",
+    "fr": "Je n'ai jamais vu pareil cancre!{FERME}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB64A",
     "en": "You're an utter imbecile!{FERME}",
-    "fr": "",
+    "fr": "Quel parfait imbécile!{FERME}",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB68E",
     "en": "Hmph... [FFFC]What a cretin.{FERME}",
-    "fr": "",
+    "fr": "Hmph... [FFFC]Quel crétin.{FERME}",
     "max": 22
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB6CE",
     "en": "\"Good\" humans and \"evil\" demons...{SAUT}",
-    "fr": "",
+    "fr": "\"Bons\" humains, \"mauvais\" démons...{SAUT}",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB714",
     "en": "Pure nonsense! Cooperation is vital!{FERME}",
-    "fr": "",
+    "fr": "Absurde! La coopération est vitale!{FERME}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB76E",
     "en": "Are you happy with your station in life?{SAUT}",
-    "fr": "",
+    "fr": "Votre condition vous satisfait-elle?{SAUT}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB7C0",
     "en": "Then act, or nothing will change!{FERME}",
-    "fr": "",
+    "fr": "Alors agissez, ou rien ne changera!{FERME}",
     "max": 33
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB812",
     "en": "The masses are only truly happy when{SAUT}",
-    "fr": "",
+    "fr": "Les masses ne sont vraiment heureuses{SAUT}",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB85C",
     "en": "being shepherded by the elite!{FERME}",
-    "fr": "",
+    "fr": "que guidées par l'élite!{FERME}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB8AA",
     "en": "Here, have a signed photo!{FERME}",
-    "fr": "",
+    "fr": "Tenez, une photo dédicacée!{FERME}",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2AB8EE",
     "en": "Here, a down payment... a coin whose{SAUT}",
-    "fr": "",
+    "fr": "Tenez, un acompte... une pièce dont{SAUT}",
     "max": 36
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AB938",
-    "en": "front and back are reversed.{FERME}",
-    "fr": "",
-    "max": 28
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AB982",
-    "en": "Land? Stocks? Name it, and it's yours.{FERME}",
-    "fr": "",
-    "max": 38
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AB9DE",
-    "en": "Blrgh... Urrrrgh... [0056]puke[0056][FFFC]{SAUT}",
-    "fr": "",
-    "max": 24
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ABA16",
-    "en": "...Just kidding! Mwahahaha!{FERME}",
-    "fr": "",
-    "max": 27
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ABA5E",
-    "en": "Wh... What's that!? [FFFC]Hee heeeee!{SAUT}",
-    "fr": "",
-    "max": 31
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ABAA0",
-    "en": "You fell for it!{FERME}",
-    "fr": "",
-    "max": 16
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ABAD2",
-    "en": "BOO!{SAUT}",
-    "fr": "",
-    "max": 4
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ABADC",
-    "en": "Hehe, did I scare ya?{FERME}",
-    "fr": "",
-    "max": 21
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ABB16",
-    "en": "So, got any crushes? Yeah, there's been{SAUT}",
-    "fr": "",
-    "max": 39
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ABB66",
-    "en": "someone on my mind, too.{FERME}",
-    "fr": "",
-    "max": 24
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ABBA6",
-    "en": "Man, it's hot out! I like summer, but{SAUT}",
-    "fr": "",
-    "max": 37
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ABBF2",
-    "en": "not this kind of extreme heat.{FERME}",
-    "fr": "",
-    "max": 30
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ABC3E",
-    "en": "How've you been? I heard you're on{SAUT}",
-    "fr": "",
-    "max": 34
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ABC84",
-    "en": "a roll. Not me, it's been pretty slow.{FERME}",
-    "fr": "",
-    "max": 38
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ABCE2",
-    "en": "Why did the buffalos throw a party on{SAUT}",
-    "fr": "",
-    "max": 37
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ABD2E",
-    "en": "their 200th birthday?{ATTENTE}",
-    "fr": "",
-    "max": 21
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ABD6A",
-    "en": "It was their bisontennial!{FERME}",
-    "fr": "",
-    "max": 26
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ABDAE",
-    "en": "What do you do if you're on a horse and{SAUT}",
-    "fr": "",
-    "max": 39
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ABDFE",
-    "en": "you see a giraffe and lion next to you?{ATTENTE}",
-    "fr": "",
-    "max": 39
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ABE5E",
-    "en": "Get off the carousel! [FFFC]C'mon, laugh!{FERME}",
-    "fr": "",
-    "max": 35
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ABEB6",
-    "en": "Alright, what's the difference between{SAUT}",
-    "fr": "",
-    "max": 38
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ABF04",
-    "en": "a rottweiler and a poodle?{ATTENTE}",
-    "fr": "",
-    "max": 26
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ABF4A",
-    "en": "They're two totally different breeds!{SAUT}",
-    "fr": "",
-    "max": 37
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ABF96",
-    "en": "Get it?{FERME}",
-    "fr": "",
-    "max": 7
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2ABFB6",
-    "en": "Are you seeing anyone? If you aren't...{SAUT}",
-    "fr": "",
-    "max": 39
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AC006",
-    "en": "How about you and me go out sometime?{ATTENTE}",
-    "fr": "",
-    "max": 37
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AC062",
-    "en": "C'mon, it'll be fun! What do you say?{FERME}",
-    "fr": "",
-    "max": 37
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AC0BE",
-    "en": "Hey there! Wanna come to karaoke with me?{SAUT}",
-    "fr": "",
-    "max": 41
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AC112",
-    "en": "I'm a really good singer.{FERME}",
-    "fr": "",
-    "max": 25
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AC156",
-    "en": "So you're a demon? So what! C'mon, baby,{SAUT}",
-    "fr": "",
-    "max": 40
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AC1A8",
-    "en": "let's play a symphony of love!{FERME}",
-    "fr": "",
-    "max": 30
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AC1F4",
-    "en": "A-A demon! D-Don't come near me!{FERME}",
-    "fr": "",
-    "max": 32
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AC244",
-    "en": "I got lost and wandered here...{SAUT}",
-    "fr": "",
-    "max": 31
-  },
-  {
-    "id": "EBOOT.BIN:BE2:OFF_2AC284",
-    "en": "Please forgive me!{FERME}",
-    "fr": "",
-    "max": 18
   }
 ]

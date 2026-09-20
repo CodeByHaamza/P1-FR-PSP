@@ -1,5 +1,217 @@
 [
   {
+    "id": "EBOOT.BIN:BE2:OFF_2B6BD4",
+    "en": "        Agastya Tree{FERME}",
+    "fr": "       Arbre Agastya{FERME}",
+    "max": 20
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B6BFE",
+    "en": "           Rosa Candida{FERME}",
+    "fr": "           Rosa Candida{FERME}",
+    "max": 23,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B6C2E",
+    "en": "           Yin&Yan{FERME}",
+    "fr": "           Yin&Yan{FERME}",
+    "max": 18,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B6C54",
+    "en": "                Peace Diner{FERME}",
+    "fr": "                Peace Diner{FERME}",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B6C8C",
+    "en": "            Peace Diner{FERME}",
+    "fr": "            Peace Diner{FERME}",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B6CEE",
+    "en": "           Esumi Clinic{FERME}",
+    "fr": "         Clinique Esumi{FERME}",
+    "max": 23,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B6D1E",
+    "en": "           Sennen Mannen-Do{FERME}",
+    "fr": "           Sennen Mannen-Do{FERME}",
+    "max": 27,
+    "_occurrences": 4
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B6D56",
+    "en": "       Satomi Tadashi{FERME}",
+    "fr": "       Satomi Tadashi{FERME}",
+    "max": 21,
+    "_occurrences": 3
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B6D82",
+    "en": "         Judgment 1999{FERME}",
+    "fr": "         Judgment 1999{FERME}",
+    "max": 22,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B6DB0",
+    "en": "          Esumi Clinic{FERME}",
+    "fr": "        Clinique Esumi{FERME}",
+    "max": 22,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B6E88",
+    "en": "                      Satomi Tadashi{FERME}",
+    "fr": "                      Satomi Tadashi{FERME}",
+    "max": 36
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B6EFC",
+    "en": "            Himeno Residence{FERME}",
+    "fr": "            Maison Himeno{FERME}",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B6F36",
+    "en": "       Velvet Room{FERME}",
+    "fr": "Chambre de Velours{FERME}",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B707E",
+    "en": "           Examination Room{FERME}",
+    "fr": "           Salle d'examen{FERME}",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B70B6",
+    "en": "       2F Lobby{FERME}",
+    "fr": "       2F Hall{FERME}",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B70D6",
+    "en": "               2F Nurse's Center{FERME}",
+    "fr": "               2F Infirmerie{FERME}",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B7118",
+    "en": "      3F Lobby{FERME}",
+    "fr": "      3F Hall{FERME}",
+    "max": 14,
+    "_occurrences": 2
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B7136",
+    "en": "               3F Nurse's Center{FERME}",
+    "fr": "               3F Infirmerie{FERME}",
+    "max": 32
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B7178",
+    "en": "      Agastya Tree{FERME}",
+    "fr": "     Arbre Agastya{FERME}",
+    "max": 18
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B737E",
+    "en": "           2F Nurse's Center{FERME}",
+    "fr": "           2F Infirmerie{FERME}",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B73B8",
+    "en": "      3F Nurse's Center{FERME}",
+    "fr": "      3F Infirmerie{FERME}",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B7406",
+    "en": "               Examination Room{FERME}",
+    "fr": "               Salle d'examen{FERME}",
+    "max": 31
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B7446",
+    "en": "       Agastya Tree{FERME}",
+    "fr": "      Arbre Agastya{FERME}",
+    "max": 19
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B767E",
+    "en": "           Kaneda Mansion{FERME}",
+    "fr": "           Manoir Kaneda{FERME}",
+    "max": 25
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B77F4",
+    "en": "                Esumi Clinic{FERME}",
+    "fr": "              Clinique Esumi{FERME}",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B78C0",
+    "en": "          Judgment 1999{FERME}",
+    "fr": "          Judgment 1999{FERME}",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B7A04",
+    "en": "                Agastya Tree{FERME}",
+    "fr": "               Arbre Agastya{FERME}",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B7C7E",
+    "en": "           Teacher's Lounge{FERME}",
+    "fr": "           Salle des profs{FERME}",
+    "max": 27
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B7CB6",
+    "en": "       Class 1-4{FERME}",
+    "fr": "      Classe 1-4{FERME}",
+    "max": 16
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B7E5C",
+    "en": "            Gym{FERME}",
+    "fr": "            Gym{FERME}",
+    "max": 15
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B7E7C",
+    "en": "                    Art Room{FERME}",
+    "fr": "                 Salle d'art{FERME}",
+    "max": 28
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B7EB6",
+    "en": "               Class 3-3{FERME}",
+    "fr": "              Classe 3-3{FERME}",
+    "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B7F78",
+    "en": "              Gym Stage{FERME}",
+    "fr": "           Scène du gym{FERME}",
+    "max": 23
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2B7FA8",
+    "en": "              Courtyard{FERME}",
+    "fr": "              Cour{FERME}",
+    "max": 23
+  },
+  {
     "id": "EBOOT.BIN:BE2:OFF_286918",
     "en": "SUN",
     "fr": "SOLEIL",
@@ -8,13 +220,19 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2A4BAC",
     "en": "> (*TEXTBOX_PARAM*)βLevel(*TEXTBOX_PARAM*)  increased to (*VALUE*)!{ATTENTE}",
-    "fr": "",
+    "fr": "> (*TEXTBOX_PARAM*)βNiveau(*TEXTBOX_PARAM*)  (*VALUE*) atteint!{ATTENTE}",
     "max": 24
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_286B50",
+    "en": "No[0000]problems.{FERME}[0000]",
+    "fr": "Aucun[0000]souci.{FERME}[0000]",
+    "max": 11
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2D61A0",
     "en": "Clerk{SAUT}",
-    "fr": "",
+    "fr": "Vendeur{SAUT}",
     "max": 5
   }
 ]

@@ -3,7 +3,7 @@
     "id": "E1.BIN:192:0000",
     "locuteur": "Masked girl",
     "en": "I'm painting over your future with{SAUT}blackness.{ATTENTE}",
-    "locuteur_fr": "Masquée",
+    "locuteur_fr": "Fille masquée",
     "fr": "Je recouvre ton avenir de{SAUT}noirceur.{ATTENTE}"
   },
   {
@@ -17,21 +17,21 @@
     "id": "E1.BIN:192:0002",
     "locuteur": "Masked girl",
     "en": "How can you withstand the pain?{ATTENTE}",
-    "locuteur_fr": "Masquée",
+    "locuteur_fr": "Fille masquée",
     "fr": "Comment supportes-tu la douleur?{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0003",
     "locuteur": "Masked girl",
     "en": "You have each other... Ms. Saeko... your{SAUT}family... {PAUSE}[1E00]People you can rely on.{ATTENTE}",
-    "locuteur_fr": "Masquee",
+    "locuteur_fr": "Fille masquée",
     "fr": "Vous êtes ensemble... Mme Saeko... votre{SAUT}famille... {PAUSE}[1E00]Des gens sur qui compter.{ATTENTE}"
   },
   {
     "id": "E1.BIN:192:0004",
     "locuteur": "Masked girl",
     "en": "But I'm always alone. I can only watch{SAUT}the happiness of others.{ATTENTE}",
-    "locuteur_fr": "Masquée",
+    "locuteur_fr": "Fille masquée",
     "fr": "Mais je suis toujours seule. Je{SAUT}ne vois que le bonheur des autres.{ATTENTE}"
   },
   {
@@ -45,7 +45,7 @@
     "id": "E1.BIN:192:0006",
     "locuteur": "Masked girl",
     "en": "You can never understand how I feel!{ATTENTE}",
-    "locuteur_fr": "Masquée",
+    "locuteur_fr": "Fille masquée",
     "fr": "Tu ne comprends pas ce que je ressens!{ATTENTE}"
   },
   {
@@ -287,7 +287,7 @@
     "id": "E1.BIN:193:0017",
     "locuteur": "Ayase",
     "en": "H-Hey!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Ayase",
     "fr": "H-Hey!{ATTENTE}"
   },
   {
@@ -315,7 +315,7 @@
     "id": "E1.BIN:193:0021",
     "locuteur": "Mai",
     "en": "Thanks!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Mai",
     "fr": "Merci!{ATTENTE}"
   },
   {

@@ -3,13 +3,13 @@
     "id": "E3.BIN:010:0000",
     "locuteur": "Yukino",
     "en": "(*APELLIDO_HEROE*)! Be careful...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "(*APELLIDO_HEROE*)! Fais attention...{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0001",
     "en": "{FERME}  > Touch the ball of light?{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}  > Toucher la boule de lumière?{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0002",
@@ -22,7 +22,7 @@
     "id": "E3.BIN:010:0003",
     "locuteur": "Yukino",
     "en": "Whoa!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Yukino",
     "fr": "Whoa!{ATTENTE}"
   },
   {
@@ -79,8 +79,8 @@
     "id": "E3.BIN:010:0012",
     "locuteur": "Nanjo",
     "en": "It's a (*TEXTBOX_PARAM,0500*)Phurba Dagger(*TEXTBOX_PARAM,0000*). I'm having some{SAUT}difficulty using it, so it's yours.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "C'est un (*TEXTBOX_PARAM,0500*)Poignard Phurba(*TEXTBOX_PARAM,0000*). J'ai du mal{SAUT}à m'en servir, il est donc à toi.{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0013",
@@ -92,7 +92,7 @@
   {
     "id": "E3.BIN:010:0014",
     "en": "{FERME}> Obtained (*TEXTBOX_STYLE*)[0700](*TEXTBOX_PARAM,0500*)Phurba Dagger(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}> (*TEXTBOX_STYLE*)[0700](*TEXTBOX_PARAM,0500*)Poignard Phurba(*TEXTBOX_PARAM,0000*) obtenu.{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0015",
@@ -135,15 +135,15 @@
     "id": "E3.BIN:010:0021",
     "locuteur": "Brown",
     "en": "This wasn't supposed to make up for it,{SAUT}but you need it more than me. Here y'go!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "C'était pas censé compenser, mais{SAUT}t'en as plus besoin que moi. Tiens!{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0022",
     "locuteur": "Brown",
     "en": "It's a (*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Scorching Tablet(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "C'est une (*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Plaque Brûlante(*TEXTBOX_PARAM,0000*).{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0023",
@@ -162,7 +162,7 @@
   {
     "id": "E3.BIN:010:0025",
     "en": "{FERME}> Obtained (*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Scorching Tablet(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}> (*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Plaque Brûlante(*TEXTBOX_PARAM,0000*) obtenue.{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0027",
@@ -209,7 +209,7 @@
   {
     "id": "E3.BIN:010:0033",
     "en": "{FERME} > Obtained (*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Full Moon Tablet(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} > (*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Plaque Pleine Lune(*TEXTBOX_PARAM,0000*) obtenue.{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0034",
@@ -222,7 +222,7 @@
     "id": "E3.BIN:011:0000",
     "locuteur": "Nurse Natsumi",
     "en": "Is everyone all right? Here, let me{SAUT}take a look at your wounds.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Natsumi",
     "fr": "Tout le monde va bien? Montrez-moi{SAUT}vos blessures.{ATTENTE}",
     "_occurrences": 3
   },
@@ -230,42 +230,42 @@
     "id": "E3.BIN:011:0001",
     "locuteur": "Nurse Natsumi",
     "en": "Well, you're all good to go. Try not{SAUT}to push yourself too much!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Natsumi",
     "fr": "Voilà, vous êtes remis. Évitez{SAUT}de trop forcer!{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0002",
     "locuteur": "Nurse Natsumi",
     "en": "Why are you staring at me? Wait, let me{SAUT}guess... Have you fallen for me?{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Natsumi",
     "fr": "Pourquoi me fixer ainsi? Attends, je{SAUT}devine... Tu craques pour moi?{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0003",
     "locuteur": "Nurse Natsumi",
     "en": "Speaking of falling for people... Ayase!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Natsumi",
     "fr": "En parlant de craquer... Ayase!{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0004",
     "locuteur": "Nurse Natsumi",
     "en": "Did I hear that Kenta confessed his love{SAUT}for you?{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Natsumi",
     "fr": "Il paraît que Kenta t'a avoué son{SAUT}amour?{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0005",
     "locuteur": "Nurse Natsumi",
     "en": "What did you say to him!? That boy's been{SAUT}acting very strange lately.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Natsumi",
     "fr": "Tu lui as dit quoi!? Ce garçon est{SAUT}bien étrange en ce moment.{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0006",
     "locuteur": "Nurse Natsumi",
     "en": "You should take people's feelings into{SAUT}consideration before you say something!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Natsumi",
     "fr": "Pense aux sentiments des autres{SAUT}avant de dire quoi que ce soit!{ATTENTE}"
   },
   {
@@ -279,7 +279,7 @@
     "id": "E3.BIN:011:0008",
     "locuteur": "Nurse Natsumi",
     "en": "...Well, back to work for me.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Natsumi",
     "fr": "...Bon, je retourne bosser.{ATTENTE}",
     "_occurrences": 2
   },
@@ -287,57 +287,57 @@
     "id": "E3.BIN:011:0010",
     "locuteur": "Nurse Natsumi",
     "en": "＊sigh＊ I wonder if there are any good-{SAUT}looking men lying around anywhere.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "＊soupir＊ Y aurait pas un beau garçon{SAUT}qui traînerait quelque part?{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0013",
     "locuteur": "Setsuko Sonomura",
     "en": "I can't believe the phenomenon has{SAUT}spread to the school...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Setsuko Sonomura",
     "fr": "Dire que le phénomène a gagné{SAUT}le lycée...{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0014",
     "locuteur": "Setsuko Sonomura",
     "en": "Maki... please be safe...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Setsuko Sonomura",
     "fr": "Maki... reste en vie...{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0015",
     "locuteur": "Setsuko Sonomura",
     "en": "If Maki had been a bright, active girl{SAUT}like all of you...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Setsuko Sonomura",
     "fr": "Si Maki avait été vive et gaie{SAUT}comme vous toutes...{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0016",
     "locuteur": "Setsuko Sonomura",
     "en": "That Nanjo boy left here a moment ago.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Setsuko Sonomura",
     "fr": "Ce Nanjo vient de partir d'ici.{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0017",
     "locuteur": "Setsuko Sonomura",
     "en": "He was saying something about being unable{SAUT}to enter a classroom with a frozen door.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Setsuko Sonomura",
     "fr": "Il disait ne pas pouvoir entrer{SAUT}dans une salle à la porte gelée.{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0018",
     "locuteur": "Female student",
     "en": "Oww... I fell and landed on my butt.{SAUT}Why's the hall so slippery!?{ATTENTE}",
-    "locuteur_fr": "Etudiante",
+    "locuteur_fr": "Élève",
     "fr": "Aïe... Je suis tombée sur les fesses.{SAUT}Pourquoi le couloir glisse autant!?{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0019",
     "locuteur": "Wounded girl",
     "en": "Apparently something happened at the{SAUT}(*TEXTBOX_PARAM,0700*)cafeteria(*TEXTBOX_PARAM,0000*)...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Fille blessée",
+    "fr": "Il paraît qu'il s'est passé quelque{SAUT}chose à la (*TEXTBOX_PARAM,0700*)cafétéria(*TEXTBOX_PARAM,0000*)...{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0020",
@@ -350,34 +350,34 @@
     "id": "E3.BIN:011:0021",
     "locuteur": "Female student",
     "en": "Like, did you hear?{ATTENTE}",
-    "locuteur_fr": "Étudiante",
+    "locuteur_fr": "Élève",
     "fr": "Genre, t'as entendu?{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0022",
     "locuteur": "Female student",
     "en": "Y'know the market they're holding next{SAUT}door that sells those kickass clothes?{ATTENTE}",
-    "locuteur_fr": "Étudiante",
+    "locuteur_fr": "Élève",
     "fr": "Tu sais, le marche à côté{SAUT}qui vend ces fringues géniales?{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0023",
     "locuteur": "Female student",
     "en": "Apparently their stock is, like,{SAUT}completely different now.{ATTENTE}",
-    "locuteur_fr": "Etudiante",
+    "locuteur_fr": "Élève",
     "fr": "Paraît que leur stock est, genre,{SAUT}complètement différent maintenant.{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0024",
     "en": "{FERME}(*SCENE_END*)[0300]> Minori Nashimoto{SAUT}Ayase's chatty friend. She loves to talk{SAUT}more than anything.(*SCENE_END*) {ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}(*SCENE_END*)[0300]> Minori Nashimoto{SAUT}L'amie bavarde d'Ayase. Elle adore{SAUT}parler plus que tout.(*SCENE_END*) {ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0025",
     "locuteur": "Nanjo",
     "en": "I worry about Masao and Maki out there.{SAUT}We must hurry and defeat the Snow Queen.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Je m'inquiète pour Masao et Maki.{SAUT}Vite, battons la Reine des Neiges.{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0026",

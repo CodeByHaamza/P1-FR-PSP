@@ -73,8 +73,8 @@
     "id": "E0.BIN:119:0010",
     "locuteur": "Mark",
     "en": "Well, what was I supposed to do!?{SAUT}I didn't think it would go this far...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Bah, j'étais censé faire quoi!?{SAUT}Je pensais pas que ça irait si loin...{ATTENTE}"
   },
   {
     "id": "E0.BIN:119:0011",
@@ -149,7 +149,7 @@
   {
     "id": "E0.BIN:119:0031",
     "en": "{FERME} > It's locked.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} > C'est verrouillé.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0000",
@@ -295,8 +295,8 @@
     "id": "E0.BIN:128:0020",
     "locuteur": "Brown",
     "en": "Careful, (*APODO_HEROE*). We don't want{SAUT}anything to--{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Fais gaffe, (*APODO_HEROE*). On voudrait pas{SAUT}qu'il t'arrive un--{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0021",
@@ -329,7 +329,7 @@
   {
     "id": "E0.BIN:128:0025",
     "en": "{FERME}  > Place the Compact Half?{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}  > Placer le Demi-poudrier?{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0026",
@@ -432,7 +432,7 @@
   {
     "id": "E0.BIN:128:0040",
     "en": "{FERME}   > The door is tightly closed.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}   > La porte est bien fermée.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0041",
@@ -501,8 +501,8 @@
     "id": "E0.BIN:128:0050",
     "locuteur": "Ayase",
     "en": "Hurry! We don't have time to lose!{SAUT}The haunted mansion is to the south.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Vite! On a pas de temps à perdre!{SAUT}Le manoir hanté est au sud.{ATTENTE}"
   },
   {
     "id": "E0.BIN:128:0051",

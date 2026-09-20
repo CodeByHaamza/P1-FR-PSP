@@ -56,13 +56,13 @@
     "id": "E1.BIN:160:0011",
     "locuteur": "Raiho",
     "en": "Why not exchange your (*TEXTBOX_PARAM,0500*)Ambrosia(*TEXTBOX_PARAM,0000*) for one{SAUT}of my hee-(*TEXTBOX_PARAM,0700*)totems(*TEXTBOX_PARAM,0000*), ho?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Et si tu échangeais ton (*TEXTBOX_PARAM,0500*)Ambrosia(*TEXTBOX_PARAM,0000*) contre{SAUT}un de mes hi-(*TEXTBOX_PARAM,0700*)totems(*TEXTBOX_PARAM,0000*), ho?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0012",
     "en": "{FERME}   > Ask about exchanging Ambrosia?{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}   > Demander un échange d'Ambrosia?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0013",
@@ -110,8 +110,8 @@
     "id": "E1.BIN:160:0020",
     "locuteur": "Raiho",
     "en": "I'll exchange one of my (*TEXTBOX_PARAM,0700*)totems(*TEXTBOX_PARAM,0000*) for a{SAUT}piece of (*TEXTBOX_PARAM,0500*)Ambrosia(*TEXTBOX_PARAM,0000*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "J'échange un de mes (*TEXTBOX_PARAM,0700*)totems(*TEXTBOX_PARAM,0000*) contre{SAUT}une part d'(*TEXTBOX_PARAM,0500*)Ambrosia(*TEXTBOX_PARAM,0000*)!{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0021",
@@ -166,8 +166,8 @@
     "id": "E1.BIN:160:0029",
     "locuteur": "Raiho",
     "en": "You want your totem?{SAUT}(*UNK_0E,0000*){FERME} (*SPEAKER*)Reiho{SAUT}Are you sure, ho?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Tu veux ton totem?{SAUT}(*UNK_0E,0000*){FERME} (*SPEAKER*)Reiho{SAUT}T'es sûr, ho?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0030",
@@ -187,13 +187,13 @@
     "id": "E1.BIN:160:0032",
     "locuteur": "Raiho",
     "en": "Hee-here's your (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Rosetta Stone(*TEXTBOX_PARAM,0000*), ho!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Hi-voilà ta (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Pierre de Rosette(*TEXTBOX_PARAM,0000*), ho!{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0033",
     "en": "{FERME} > Obtained the (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Rosetta Stone(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} > (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Pierre de Rosette(*TEXTBOX_PARAM,0000*) obtenue.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0034",
@@ -255,13 +255,13 @@
     "id": "E1.BIN:160:0042",
     "locuteur": "Raiho",
     "en": "Hee-ho! Here's your (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Bisonskin Drums(*TEXTBOX_PARAM,0000*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Hi-ho! Voilà ton (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Tambour de bison(*TEXTBOX_PARAM,0000*)!{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0043",
     "en": "{FERME} > Obtained the (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Bisonskin Drums(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} > (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Tambour de bison(*TEXTBOX_PARAM,0000*) obtenu.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0044",
@@ -288,8 +288,8 @@
     "id": "E1.BIN:160:0047",
     "locuteur": "Ayase",
     "en": "Why'd it have to be a stuffed CORPSE!?{SAUT}This is terrible!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Pourquoi fallait que ce soit un CADAVRE{SAUT}empaillé!? C'est horrible!{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0048",
@@ -323,20 +323,20 @@
     "id": "E1.BIN:160:0052",
     "locuteur": "Raiho",
     "en": "Hee-ho! Here's your (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Stuffed Deer(*TEXTBOX_PARAM,0000*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Hi-ho! Voilà ton (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Cerf empaillé(*TEXTBOX_PARAM,0000*)!{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0053",
     "en": "{FERME}> Obtained the (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Stuffed Deer(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}> (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Cerf empaillé(*TEXTBOX_PARAM,0000*) obtenu.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0054",
     "locuteur": "Ayase",
     "en": "W-W-Wait... THIS is what you meant by{SAUT}a stuffed deer!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "A-A-Attends... C'est ÇA que tu appelais{SAUT}un cerf empaillé!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0055",
@@ -392,13 +392,13 @@
     "id": "E1.BIN:160:0063",
     "locuteur": "Raiho",
     "en": "Hee-ho! Here's your (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Amber Glasses(*TEXTBOX_PARAM,0000*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Hi-ho! Voilà tes (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Lunettes d'ambre(*TEXTBOX_PARAM,0000*)!{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0064",
     "en": "{FERME}   > Obtained the (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Amber Glasses(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}   > (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Lunettes d'ambre(*TEXTBOX_PARAM,0000*) obtenues.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0065",
@@ -468,13 +468,13 @@
     "id": "E1.BIN:160:0074",
     "locuteur": "Raiho",
     "en": "Hee-ho! Here's your (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Judgement Contract(*TEXTBOX_PARAM,0000*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Hi-ho! Voilà ton (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Contrat du Jugement(*TEXTBOX_PARAM,0000*)!{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0075",
     "en": "{FERME}  > Obtained the (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Judgement Contract(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}  > (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Contrat du Jugement(*TEXTBOX_PARAM,0000*) obtenu.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0077",
@@ -529,13 +529,13 @@
     "id": "E1.BIN:160:0084",
     "locuteur": "Raiho",
     "en": "Hee-ho! Here's your (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Victorian Rune(*TEXTBOX_PARAM,0000*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Raiho",
+    "fr": "Hi-ho! Voilà ta (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Rune victorienne(*TEXTBOX_PARAM,0000*)!{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0085",
     "en": "{FERME}  > Obtained the (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Victorian Rune(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}  > (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Rune victorienne(*TEXTBOX_PARAM,0000*) obtenue.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0086",

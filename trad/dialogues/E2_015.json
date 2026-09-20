@@ -332,8 +332,8 @@
     "id": "E2.BIN:200:0013",
     "locuteur": "Scientist",
     "en": "Going after Kandori? It's too late...{SAUT}His dreadful scheme is in motion by now.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Savant",
+    "fr": "Poursuivre Kandori? Trop tard...{SAUT}Son affreux plan est déjà en marche.{ATTENTE}"
   },
   {
     "id": "E2.BIN:201:0000",
@@ -353,8 +353,8 @@
     "id": "E2.BIN:201:0002",
     "locuteur": "Mark",
     "en": "Sure, it's a haunted house... But I{SAUT}didn't think it had a real ghost!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ouais, c'est un manoir hanté... Mais je{SAUT}croyais pas à un vrai fantôme dedans!{ATTENTE}"
   },
   {
     "id": "E2.BIN:201:0003",
@@ -374,8 +374,8 @@
     "id": "E2.BIN:201:0005",
     "locuteur": "Ayase",
     "en": "I wish I'd, like, brought a camera!{SAUT}We could take ghost photos and sell 'em!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "J'aurais dû, genre, prendre un appareil!{SAUT}On aurait vendu des photos de fantômes!{ATTENTE}"
   },
   {
     "id": "E2.BIN:201:0006",
@@ -437,117 +437,117 @@
     "id": "E2.BIN:203:0000",
     "locuteur": "Scientist",
     "en": "Heeheehee! The hammer of judgement will{SAUT}come down on this species of fools!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Savant",
+    "fr": "Hihihi! Le marteau du jugement va{SAUT}s'abattre sur cette espèce d'idiots!{ATTENTE}"
   },
   {
     "id": "E2.BIN:203:0001",
     "locuteur": "Scientist",
     "en": "Heeheehee!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Savant",
+    "fr": "Hihihi!{ATTENTE}"
   },
   {
     "id": "E2.BIN:203:0002",
     "locuteur": "Scientist",
     "en": "I feel as if I had this incredibly{SAUT}senseless mindset...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Savant",
+    "fr": "J'avais un état d'esprit{SAUT}totalement absurde...{ATTENTE}"
   },
   {
     "id": "E2.BIN:203:0003",
     "locuteur": "Scientist",
     "en": "Mankind needs no future!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Savant",
+    "fr": "L'humanité n'a pas besoin d'avenir!{ATTENTE}"
   },
   {
     "id": "E2.BIN:203:0004",
     "locuteur": "Scientist",
     "en": "We must preserve mankind's future!{SAUT}Isn't that right, everyone!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Savant",
+    "fr": "Nous devons préserver l'avenir de{SAUT}l'humanité! Pas vrai, vous tous!?{ATTENTE}"
   },
   {
     "id": "E2.BIN:203:0005",
     "locuteur": "Scientist",
     "en": "Why was mankind created to begin with?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Savant",
+    "fr": "Pourquoi l'humanité a-t-elle été créée?{ATTENTE}"
   },
   {
     "id": "E2.BIN:203:0006",
     "locuteur": "Scientist",
     "en": "I haven't thought about the reason for{SAUT}mankind's existence since childhood.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Savant",
+    "fr": "Je n'ai plus songé au sens de l'existence{SAUT}humaine depuis mon enfance.{ATTENTE}"
   },
   {
     "id": "E2.BIN:203:0007",
     "locuteur": "Scientist",
     "en": "I could never afford to wonder about{SAUT}such things...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Savant",
+    "fr": "Je n'ai jamais pu réfléchir{SAUT}à ce genre de choses...{ATTENTE}"
   },
   {
     "id": "E2.BIN:203:0008",
     "locuteur": "Maki",
     "en": "Have they all been brainwashed?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "On leur a tous lavé le cerveau?{ATTENTE}"
   },
   {
     "id": "E2.BIN:203:0009",
     "locuteur": "Maki",
     "en": "I'm glad those weird radio waves stopped.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Maki",
+    "fr": "Contente que ces ondes bizarres cessent.{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "E2.BIN:203:0010",
     "locuteur": "Mark",
     "en": "These fools are crazy.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ces tarés sont cinglés.{ATTENTE}"
   },
   {
     "id": "E2.BIN:203:0011",
     "locuteur": "Mark",
     "en": "Looks like they snapped out of it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Mark",
+    "fr": "On dirait qu'ils sont revenus à eux.{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "E2.BIN:203:0012",
     "locuteur": "Nanjo",
     "en": "We must stop Kandori at once!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Nanjo",
+    "fr": "Arrêtons Kandori sur-le-champ!{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:203:0013",
     "locuteur": "Nanjo",
     "en": "The reason why we're born... Hmmm.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Nanjo",
+    "fr": "Le sens de notre naissance... Hmmm.{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "E2.BIN:203:0014",
     "locuteur": "Ayase",
     "en": "Whoa! They're like, totally out of it!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Oh! Ils sont genre, complètement HS!{ATTENTE}"
   },
   {
     "id": "E2.BIN:203:0015",
     "locuteur": "Ayase",
     "en": "I'm glad everyone's back to normal.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Ayase",
+    "fr": "Contente que tout soit normal.{ATTENTE}",
     "_occurrences": 3
   },
   {
@@ -562,85 +562,85 @@
     "id": "E2.BIN:203:0017",
     "locuteur": "Brown",
     "en": "Radio waves sure can be scary.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Les ondes radio, ça fait peur.{ATTENTE}"
   },
   {
     "id": "E2.BIN:203:0018",
     "locuteur": "Elly",
     "en": "There's no sense in staying here.{SAUT}Let's hurry onward.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "Inutile de rester ici.{SAUT}Dépêchons-nous d'avancer.{ATTENTE}",
     "_occurrences": 6
   },
   {
     "id": "E2.BIN:204:0000",
     "locuteur": "Secret Police",
     "en": "Humans hate and kill each other, ruining{SAUT}the planet for their own desires...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Police secrète",
+    "fr": "Les humains se haïssent, s'entretuent{SAUT}et ruinent la planète par désir...{ATTENTE}"
   },
   {
     "id": "E2.BIN:204:0001",
     "locuteur": "Secret Police",
     "en": "We're a complete failure as a species!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Police secrète",
+    "fr": "Comme espèce, on est un échec total!{ATTENTE}"
   },
   {
     "id": "E2.BIN:204:0002",
     "locuteur": "Secret Police",
     "en": "I wonder if the family I left behind is{SAUT}okay... It's about time I quit this job.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Police secrète",
+    "fr": "Ma famille va bien, j'espère... Il est{SAUT}temps que je quitte ce boulot.{ATTENTE}"
   },
   {
     "id": "E2.BIN:204:0003",
     "locuteur": "Secret Police",
     "en": "Humans only think of themselves! Better{SAUT}that they be wiped from the earth!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Police secrète",
+    "fr": "Les humains ne pensent qu'à eux! Mieux{SAUT}vaut les rayer de la surface du globe!{ATTENTE}"
   },
   {
     "id": "E2.BIN:204:0004",
     "locuteur": "Secret Police",
     "en": "I wonder why I was born...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Police secrète",
+    "fr": "Pourquoi suis-je né...?{ATTENTE}"
   },
   {
     "id": "E2.BIN:204:0005",
     "locuteur": "Maki",
     "en": "What's wrong with these people?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Qu'est-ce qu'ils ont, ces gens?{ATTENTE}"
   },
   {
     "id": "E2.BIN:204:0007",
     "locuteur": "Mark",
     "en": "Everyone's spewing crap like Kandori!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Tous débitent les conneries de Kandori!{ATTENTE}"
   },
   {
     "id": "E2.BIN:204:0011",
     "locuteur": "Ayase",
     "en": "I'm scared... Let's get outta here!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "J'ai peur... Barrons-nous d'ici!{ATTENTE}"
   },
   {
     "id": "E2.BIN:204:0014",
     "locuteur": "Brown",
     "en": "Radio waves are no joke, huh?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Les ondes, c'est pas rien, hein?{ATTENTE}"
   },
   {
     "id": "E2.BIN:204:0017",
     "locuteur": "Reiji",
     "en": "They're all saying the same crap.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Ils racontent tous les mêmes bêtises.{ATTENTE}"
   }
 ]
