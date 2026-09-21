@@ -3,12 +3,12 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Dialogues      ████████████░░░░░░░░░░░░   50 %    4 297 / 8 572 textes
+Dialogues      ████████████░░░░░░░░░░░░   51 %    4 347 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
-Négociations   ████░░░░░░░░░░░░░░░░░░░░   16 %    1 977 / 12 487 textes
+Négociations   ████░░░░░░░░░░░░░░░░░░░░   17 %    2 073 / 12 487 textes
 
-Total          █████████░░░░░░░░░░░░░░░   39 %    9 360 / 24 145 textes
+Total          █████████░░░░░░░░░░░░░░░   39 %    9 506 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -147,7 +147,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_045.json`](trad/dialogues/E0_045.json) | 100 | 30 | 30 % | commencé |
 | [`E0_046.json`](trad/dialogues/E0_046.json) | 92 | 12 | 13 % | commencé |
 | [`E0_047.json`](trad/dialogues/E0_047.json) | 69 | 2 | 3 % | commencé |
-| [`E0_048.json`](trad/dialogues/E0_048.json) | 50 | 0 | 0 % | en cours par @ATMC14 (#32) |
+| [`E0_048.json`](trad/dialogues/E0_048.json) | 50 | 50 | 100 % | terminé par @Gyotre, @ATMC14 |
 | [`E1_001.json`](trad/dialogues/E1_001.json) | 80 | 77 | 96 % | commencé · 1 terme |
 | [`E1_002.json`](trad/dialogues/E1_002.json) | 100 | 99 | 99 % | commencé · 1 trop large |
 | [`E1_003.json`](trad/dialogues/E1_003.json) | 94 | 94 | 100 % | terminé |
@@ -296,7 +296,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`KEMONO_008.json`](trad/negociations/KEMONO_008.json) | 100 | 0 | 0 % | libre |
 | [`KEMONO_009.json`](trad/negociations/KEMONO_009.json) | 100 | 0 | 0 % | libre |
 | [`KEMONO_010.json`](trad/negociations/KEMONO_010.json) | 69 | 0 | 0 % | libre |
-| [`KOKURI_001.json`](trad/negociations/KOKURI_001.json) | 96 | 0 | 0 % | en cours par @ATMC14 (#34) |
+| [`KOKURI_001.json`](trad/negociations/KOKURI_001.json) | 96 | 96 | 100 % | terminé par @ATMC14 |
 | [`KOROU_001.json`](trad/negociations/KOROU_001.json) | 100 | 0 | 0 % | libre |
 | [`KOROU_002.json`](trad/negociations/KOROU_002.json) | 100 | 0 | 0 % | libre |
 | [`KOROU_003.json`](trad/negociations/KOROU_003.json) | 100 | 0 | 0 % | libre |
