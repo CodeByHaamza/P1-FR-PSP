@@ -6,9 +6,9 @@
 Dialogues      ████████████░░░░░░░░░░░░   50 %    4 297 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
-Négociations   ████░░░░░░░░░░░░░░░░░░░░   15 %    1 897 / 12 487 textes
+Négociations   ████░░░░░░░░░░░░░░░░░░░░   16 %    1 977 / 12 487 textes
 
-Total          █████████░░░░░░░░░░░░░░░   38 %    9 280 / 24 145 textes
+Total          █████████░░░░░░░░░░░░░░░   39 %    9 360 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -381,7 +381,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`WORM_007.json`](trad/negociations/WORM_007.json) | 100 | 0 | 0 % | libre |
 | [`WORM_008.json`](trad/negociations/WORM_008.json) | 100 | 0 | 0 % | libre |
 | [`WORM_009.json`](trad/negociations/WORM_009.json) | 86 | 0 | 0 % | libre |
-| [`WTENSI_001.json`](trad/negociations/WTENSI_001.json) | 80 | 0 | 0 % | en cours par @ATMC14 (#33) |
+| [`WTENSI_001.json`](trad/negociations/WTENSI_001.json) | 80 | 80 | 100 % | terminé par @ATMC14 |
 | [`YAKUZA_001.json`](trad/negociations/YAKUZA_001.json) | 100 | 100 | 100 % | terminé · 1 trop large |
 | [`YAKUZA_002.json`](trad/negociations/YAKUZA_002.json) | 100 | 100 | 100 % | terminé · 6 trop large |
 | [`YAKUZA_003.json`](trad/negociations/YAKUZA_003.json) | 59 | 59 | 100 % | terminé |
