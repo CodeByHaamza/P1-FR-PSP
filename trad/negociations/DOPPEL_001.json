@@ -2,506 +2,506 @@
   {
     "id": "DOPPEL.BIN:text:0000",
     "en": "> [FFF3] persuaded you.(*RESPONSE*)",
-    "fr": ""
+    "fr": "> [FFF3] t'a persuadé.(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0001",
     "en": " > [FFF3] persuaded you.(*RESPONSE*)",
-    "fr": "",
+    "fr": " > [FFF3] t'a persuadé.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "DOPPEL.BIN:text:0003",
     "en": " > [FFF3] taunted you.(*RESPONSE*)",
-    "fr": ""
+    "fr": " > [FFF3] t'a raillé.(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0004",
     "en": "   > [FFF3] taunted you.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   > [FFF3] t'a raillé.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "DOPPEL.BIN:text:0006",
     "en": "   > [FFF3] invited you.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   > [FFF3] t'a invité.(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "DOPPEL.BIN:text:0009",
     "en": "   > [FFF3] sang a song.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   > [FFF3] a chanté.(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "DOPPEL.BIN:text:0012",
     "en": "   I can't do much for you, but I promise{SAUT}our time together will be exciting.{SAUT}So c'mon, lend me your strength!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Je peux pas faire grand-chose, mais{SAUT}promis, on va bien s'amuser ensemble.{SAUT}Allez, file-moi un coup de main!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0013",
     "en": "Humans live the way they want, right?{SAUT}It would be nice if you could put aside{SAUT}our differences and help me out.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Les humains vivent comme ils veulent,{SAUT}non? Mettons nos différences de côté{SAUT}et aidez-moi un peu.(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0014",
     "en": " Ahahahahaha!{SAUT}I can only do so much on my own.{SAUT}So I'd like your help!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Ahahahahaha!{SAUT}Tout seul, j'ai mes limites.{SAUT}Alors j'aimerais ton aide!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0015",
     "en": "   Many artists have been captivated by you.{SAUT}I don't see why, though!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Bien des artistes ont été captivés{SAUT}par toi. Je ne vois pas pourquoi!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0016",
     "en": " Hey, how can I get power like yours?{SAUT}I really, really want it...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hé, comment on obtient un pouvoir{SAUT}comme le tien? Je le veux trop...(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0017",
     "en": "   Are you Maki Sonomura?{SAUT}I could tell right off! You have a unique{SAUT}aura about you...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Tu es Maki Sonomura?{SAUT}J'ai deviné tout de suite! Tu as une{SAUT}aura unique...(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0018",
     "en": " Hmm... I think your mother's grandpa is{SAUT}your guardian angel. He's really strong!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hmm... Le grand-père de ta mère est{SAUT}ton ange gardien, je crois. Un costaud!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0019",
     "en": "   Want to know the truth? The ones behind{SAUT}all this... are really aliens. Or not!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Tu veux la vérité? Derrière tout ça...{SAUT}il y a des aliens. Ou pas!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0020",
     "en": " If you do what I say, by some miracle{SAUT}a bronze statue of you will be erected!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Fais ce que je dis, et par miracle,{SAUT}on t'érigera une statue de bronze!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0021",
     "en": "  I got lost and wandered here...{SAUT}Please forgive me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Je me suis perdu et j'ai atterri ici...{SAUT}Pardonne-moi!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0022",
     "en": " A-A human! D-Don't come near me!(*RESPONSE*)",
-    "fr": ""
+    "fr": " U-Un humain! N-N'approche pas!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0023",
     "en": "   Ahahahahaha!{SAUT}Please... spare me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Ahahahahaha!{SAUT}Pitié... épargne-moi!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0024",
     "en": "   So you're a human? So what! C'mon, baby,{SAUT}let's play a symphony of love!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   T'es un humain? Et alors! Viens, bébé,{SAUT}jouons la symphonie de l'amour!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0025",
     "en": "Bullshit!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Foutaises!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0026",
     "en": "  Oh no... oh, no, no, no...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Oh non... oh, non, non, non...(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0027",
     "en": " Heeheehee! You and me could have some{SAUT}good times together!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hihihi! Toi et moi, on pourrait{SAUT}passer du bon temps ensemble!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0028",
     "en": " Alright, what's the difference between{SAUT}a rottweiler and a poodle? They're two{SAUT}totally different breeds! Get it?(*RESPONSE*)",
-    "fr": ""
+    "fr": " Bon, quelle différence entre un{SAUT}rottweiler et un caniche? C'est deux{SAUT}races différentes! T'as compris?(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0029",
     "en": "Hell no, Hidehiko! You're not going to{SAUT}make me mimic something that awful,{SAUT}are you? Have a heart!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pas question, Hidehiko! Tu vas pas{SAUT}me faire imiter un truc aussi nul,{SAUT}si? Aie pitié!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0030",
     "en": "  Sheesh... You're really going to make me{SAUT}mimic a weapons-grade joke like that...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Pfff... Tu vas vraiment me faire{SAUT}imiter une blague aussi meurtrière...?(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0031",
     "en": "  What do you do if you're on a horse and{SAUT}you see a giraffe and lion next to you?{SAUT}Get off the carousel! C'mon, laugh!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  T'es à cheval, avec une girafe et un{SAUT}lion à côté de toi. Que faire?{SAUT}Descendre du manège! Allez, ris!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0032",
     "en": "How've you been? I heard you're on{SAUT}a roll. Not me, it's been pretty slow.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ça va? Il paraît que tu cartonnes.{SAUT}Pas moi, c'est plutôt calme.(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0033",
     "en": "  Man, it's hot out! I like summer, but{SAUT}not this kind of... Ugh, screw this!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Il fait trop chaud! J'aime l'été,{SAUT}mais pas comme ça... Pff, j'en ai marre!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0034",
     "en": " So, got any crushes? Yeah, there's been{SAUT}someone on my mind, too. Heeheehee...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Alors, un béguin? Ouais, moi aussi{SAUT}j'ai quelqu'un en tête. Hihihi...(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0035",
     "en": "  Blrgh... Urrrrgh... ＊puke＊{SAUT}That surprised you, didn't it!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Blrgh... Urrrrgh... ＊vomit＊{SAUT}Ça t'a surpris, hein!?(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0036",
     "en": " BOO!{SAUT}Heh, you fell for it.{SAUT}...Just kidding, moron!(*RESPONSE*)",
-    "fr": ""
+    "fr": " BOUH!{SAUT}Héhé, tu t'es fait avoir.{SAUT}...Je rigole, abruti!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0037",
     "en": " Dude... I can't possibly mimic something{SAUT}like that... What should I do?(*RESPONSE*)",
-    "fr": ""
+    "fr": " Mec... Je peux pas imiter un truc{SAUT}pareil... Je fais quoi?(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0038",
     "en": "This is just a down payment. Do you want{SAUT}land? Stocks? Hmph! I'll give you a photo{SAUT}of myself!(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est juste un acompte. Tu veux{SAUT}des terres? Des actions? Hmph! Je te{SAUT}donne une photo de moi!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0039",
     "en": "  I refuse!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Je refuse!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0040",
     "en": "  I'll give you a coin whose front and back{SAUT}are reversed. I even signed it.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Je te donne une pièce dont le pile{SAUT}et le face sont inversés. Signée.(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0041",
     "en": "  Are you happy with your station in life?{SAUT}That way is the epitome of foolishness!{SAUT}I'll grasp true happiness on my own!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Tu te satisfais de ta condition?{SAUT}C'est le comble de la sottise!{SAUT}Le vrai bonheur, je le prends seul!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0042",
     "en": "  Hell no!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Sûrement pas!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0043",
     "en": "   The masses must act, or their station in{SAUT}life will never change!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Les masses doivent agir, sinon{SAUT}leur condition ne changera jamais!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0044",
     "en": "   You're an utter imbecile!{SAUT}But don't worry about it.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Tu es un parfait imbécile!{SAUT}Mais ne t'en fais pas.(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0045",
     "en": "I've never known such a dunce!{SAUT}You think you're a match for me!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Jamais vu pareil cancre!{SAUT}Tu te crois de taille contre moi!?(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0046",
     "en": "   Hmph... What a cretin...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hmph... Quel crétin...(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0047",
     "en": "   Your egotism is... stunning.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Ton égoïsme est... stupéfiant.(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0048",
     "en": "   There's definitely no comparison between{SAUT}demons and your kind.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Aucune comparaison possible entre{SAUT}les démons et ton espèce.(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0049",
     "en": " I know...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Je sais...(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0050",
     "en": "  > [FFF3] showed off his{SAUT}smooth moves.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  > [FFF3] a montré ses{SAUT}pas de danse.(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0051",
     "en": "   > [FFF3] danced crazy!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   > [FFF3] a dansé comme un fou!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0052",
     "en": "  > [FFF3] danced happily.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  > [FFF3] a dansé, joyeux.(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0053",
     "en": "You think you're bad? Then try me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu te crois fort? Alors essaie!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0054",
     "en": " You want some of this!?(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tu veux goûter à ça!?(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0055",
     "en": "Hey! I'm right here...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hé! Je suis là...(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0056",
     "en": " > [FFF3] stared passionately{SAUT}at Masao.(*RESPONSE*)",
-    "fr": ""
+    "fr": " > [FFF3] a fixé Masao{SAUT}avec passion.(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0057",
     "en": "  > [FFF3] glared at Masao!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  > [FFF3] a fusillé Masao du regard!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0058",
     "en": "   > [FFF3] stared flirtatiously{SAUT}at Masao!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   > [FFF3] a lancé un regard{SAUT}charmeur à Masao!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0059",
     "en": " I'm actually a prince of the human world,{SAUT}studying abroad in the underworld!(*RESPONSE*)",
-    "fr": ""
+    "fr": " En vrai, je suis un prince du monde{SAUT}humain, en échange aux enfers!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0060",
     "en": "   Ah, my dear child... Masao Inaba!{SAUT}Ugh, va te faire foutre!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Ah, mon cher enfant... Masao Inaba!{SAUT}Pff, va te faire foutre!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0061",
     "en": " I'm in this amazing demon form 'cause I{SAUT}got cursed!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Si j'ai cette forme de démon trop{SAUT}classe, c'est une malédiction!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0062",
     "en": "If you see 11:11:11 on the clock on three{SAUT}straight days, the door won't open!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Si tu vois 11:11:11 à l'horloge trois{SAUT}jours de suite, la porte s'ouvrira pas!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0063",
     "en": "  Oh my God...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Oh mon Dieu...(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0064",
     "en": "   Heheh... I know that's not true.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Héhé... Je sais que c'est faux.(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0065",
     "en": "   > [FFF3] sang a chic, touching{SAUT}American bossa nova.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   > [FFF3] a chanté une bossa nova{SAUT}américaine, chic et touchante.(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0066",
     "en": " I'm not as bad a singer as you!{SAUT}How rude!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Je chante moins mal que toi!{SAUT}Quel culot!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0067",
     "en": "  Oh, this is wonderful! Thank you for{SAUT}singing that lovely song just for me.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Oh, c'est merveilleux! Merci d'avoir{SAUT}chanté ce doux air rien que pour moi.(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0068",
     "en": " There, there, little Eriko... Play nice.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Là, là, petite Eriko... Sois sage.(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0069",
     "en": "   Yes? Would you like some milk?{SAUT}...I can't keep this up!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Oui? Un peu de lait?{SAUT}...Je tiens pas plus longtemps!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0070",
     "en": "Heehee...That's a dear.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hihi... Quel amour.(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0071",
     "en": "You're a very capable human. Won't you{SAUT}take on a job as my bodyguard?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu es un humain très capable. Tu veux{SAUT}pas un poste de garde du corps?(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0072",
     "en": "  What did you just say...?{SAUT}I refuse.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Qu'est-ce que tu viens de dire...?{SAUT}Je refuse.(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0073",
     "en": "Ahahah... What should I do?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ahahah... Je fais quoi?(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0074",
     "en": "I may have a smart mouth, but I'm really{SAUT}a good girl!(*RESPONSE*)",
-    "fr": ""
+    "fr": "J'ai la langue bien pendue, mais{SAUT}au fond je suis gentille!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0075",
     "en": "  It smells kind of funny around here!{SAUT}And that style is like, PRE-prehistoric!{SAUT}What a dork!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Ça sent bizarre par ici!{SAUT}Et ce look, c'est PRÉ-préhistorique!{SAUT}Quel ringard!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0076",
     "en": " You're seriously willing to be seen{SAUT}outside looking like that?(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tu oses vraiment sortir{SAUT}dans cette tenue?(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0077",
     "en": " Ooooh, my chest is sore...{SAUT}Maybe if you gave it a little rub...?(*RESPONSE*)",
-    "fr": ""
+    "fr": " Ooooh, j'ai mal à la poitrine...{SAUT}Si tu la frottais un petit peu...?(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0078",
     "en": "   Hey! Don't make that face!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hé! Fais pas cette tête!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0079",
     "en": " Y'know... I'm usually really innocent...{SAUT}But today? I'm feeling daring.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tu sais... D'habitude je suis très{SAUT}sage... Mais là? Je me sens audacieuse.(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0080",
     "en": "My daddy was abducted by a UFO... My mom{SAUT}joined an evil cult...Now I've been taken{SAUT}apart and put back together as a cyborg...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Papa a été enlevé par un OVNI... Maman{SAUT}a rejoint une secte... Et moi, on m'a{SAUT}démonté et remonté en cyborg...(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0081",
     "en": "  Won't someone buy my matches...? If I{SAUT}don't sell any, Papa will beat me...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Qui m'achète des allumettes...? Si je{SAUT}vends rien, Papa va me battre...(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0082",
     "en": " I'm the oldest of 23 brothers and{SAUT}sisters... I have to eat them all...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Je suis l'aîné de 23 frères et{SAUT}soeurs... Je dois tous les manger...(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0083",
     "en": " I'd watch out if I were you... I'm nice{SAUT}and calm now, but I go nuts in a snap.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Fais gaffe... Là je suis calme et{SAUT}gentil, mais je pète un câble d'un coup.(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0084",
     "en": " You're not gonna do what I say!? Don't{SAUT}make me blow your brains out!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tu vas pas m'obéir!? M'oblige pas{SAUT}à te faire sauter la cervelle!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0085",
     "en": "   My hobby is collecting severed demon{SAUT}heads...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Mon passe-temps : collectionner les{SAUT}têtes de démons coupées...(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0086",
     "en": "  Hmph! It's true what they say...{SAUT}A human's bark is worse than its bite!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hmph! C'est bien vrai, ce qu'on dit...{SAUT}Chien qui aboie ne mord pas, l'humain!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0087",
     "en": "You'll be calling ME a demon soon.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Bientôt, le démon, ce sera MOI.(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0088",
     "en": " Who the hell do you think you're talking{SAUT}to? I hate rudeness worse than anything!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tu crois parler à qui, là? Rien ne{SAUT}m'insupporte plus que la grossièreté!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0089",
     "en": "  Y'know, I've been thinking about the{SAUT}difference between humans and demons...{SAUT}And it's useless. There isn't any.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Tu sais, j'ai réfléchi à la différence{SAUT}entre humains et démons...{SAUT}Et ça sert à rien. Y en a pas.(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0090",
     "en": "It's better to stay in bed than to go{SAUT}through life half-assed. There's too{SAUT}many people like that already.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Mieux vaut rester au lit que de vivre{SAUT}à moitié. Il y a déjà bien trop{SAUT}de gens comme ça.(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0091",
     "en": "  Your actions have no worth.{SAUT}I'm so smart!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Tes actes ne valent rien.{SAUT}Je suis si futé!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0092",
     "en": "  Stay quiet for once and listen to what{SAUT}others have to say! And don't you make{SAUT}fun of them, or I'll make you regret it!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Tais-toi une fois et écoute ce que les{SAUT}autres ont à dire! Et ne te moque pas{SAUT}d'eux, ou tu vas le regretter!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0093",
     "en": " Stop whining... No one likes it...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Arrête de geindre... Personne aime ça...(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0094",
     "en": " Haha... who knows?(*RESPONSE*)",
-    "fr": ""
+    "fr": " Haha... qui sait?(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0095",
     "en": " ......(*RESPONSE*)",
-    "fr": "",
+    "fr": " ......(*RESPONSE*)",
     "_occurrences": 6
   },
   {
     "id": "DOPPEL.BIN:text:0101",
     "en": " This isn't your lucky day... I'll take{SAUT}your eyes last... So go to hell!(*RESPONSE*)",
-    "fr": ""
+    "fr": " C'est pas ton jour de chance... Je{SAUT}garde tes yeux pour la fin... En enfer!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0102",
     "en": "Sounds like you wanna die!(*RESPONSE*)",
-    "fr": ""
+    "fr": "On dirait que tu veux mourir!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0103",
     "en": " Leave me alone...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Laisse-moi tranquille...(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0104",
     "en": "  Rrrrrwwaaaaaoooarrr!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Rrrrrwwaaaaaoooarrr!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0105",
     "en": "   Grrrwaaaaaaahhhh!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Grrrwaaaaaaahhhh!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0106",
     "en": "  Haaaaaaaaaaaaah!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Haaaaaaaaaaaaah!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0107",
     "en": "   Wow!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Waouh!(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0108",
     "en": "   ...So what?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   ...Et alors?(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0109",
     "en": "I spin the top with the power of my{SAUT}chi alone...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je fais tourner la toupie par la seule{SAUT}force de mon chi...(*RESPONSE*)"
   },
   {
     "id": "DOPPEL.BIN:text:0110",
     "en": "   You're exceptionally talented. I'm going{SAUT}to study your manner of speaking...{SAUT}It rather interests me.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Tu as un talent rare. Je vais étudier{SAUT}ta façon de parler...{SAUT}Ça m'intéresse plutôt.(*RESPONSE*)"
   }
 ]
