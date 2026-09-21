@@ -381,7 +381,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`WORM_007.json`](trad/negociations/WORM_007.json) | 100 | 0 | 0 % | libre |
 | [`WORM_008.json`](trad/negociations/WORM_008.json) | 100 | 0 | 0 % | libre |
 | [`WORM_009.json`](trad/negociations/WORM_009.json) | 86 | 0 | 0 % | libre |
-| [`WTENSI_001.json`](trad/negociations/WTENSI_001.json) | 80 | 0 | 0 % | libre |
+| [`WTENSI_001.json`](trad/negociations/WTENSI_001.json) | 80 | 0 | 0 % | en cours par @ATMC14 (#33) |
 | [`YAKUZA_001.json`](trad/negociations/YAKUZA_001.json) | 100 | 100 | 100 % | terminé · 1 trop large |
 | [`YAKUZA_002.json`](trad/negociations/YAKUZA_002.json) | 100 | 100 | 100 % | terminé · 6 trop large |
 | [`YAKUZA_003.json`](trad/negociations/YAKUZA_003.json) | 59 | 59 | 100 % | terminé |
