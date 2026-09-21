@@ -2,104 +2,104 @@
   {
     "id": "TOILET.BIN:text:0563",
     "en": " Huh... I envy your self-confidence...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh... J'envie ton assurance...(*RESPONSE*)",
   },
   {
     "id": "TOILET.BIN:text:0564",
     "en": "  Hey! You're forgetting to add \"totally\"!(*RESPONSE*)",
-    "fr": ""
+    "fr": "He! Tu oublies d'ajouter \"complétement\"!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0565",
     "en": "   Hee hee! If you get angry, your blood{SAUT}pressure's gonna rise!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hihi! Si tu t'énerves, ta tension{SAUT}artérielle va augmenter!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0566",
     "en": "   Hee hee! It's 'cause it's just how you{SAUT}wanted it, mister!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hihi! C'est parce que c'est ainsi que tu{SAUT}le souhaitais, monsieur!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0567",
     "en": "  ...Things aren't getting any livelier...(*RESPONSE*)",
-    "fr": ""
+    "fr": "...Les choses ne sont plus aussi stimulantes...(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0568",
     "en": "   I don't really get it... but I'm scared!{SAUT}W-Waaaaaah!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Je ne comprends pas tout... mais j'ai peur!{SAUT}A-Aaaaaaah!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TOILET.BIN:resp:0018",
     "en": "I just decided to.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Je l'ai décidé.(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:resp:0039",
     "en": "Aren't you a toilet?(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "T'es pas un WC, toi?(*RESPONSE*)",
     "_occurrences": 6
   },
   {
     "id": "TOILET.BIN:resp:0056",
     "en": "I'll be a toilet too!(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Je serai un WC aussi!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:resp:0078",
     "en": "It's nothin'.(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "C'est rien.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TOILET.BIN:resp:0081",
     "en": "Yep, I'm dumb!(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Ouais, je suis bête!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TOILET.BIN:resp:0090",
     "en": "Quiet or I'll do it!(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Silence ou je le fais!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:resp:0091",
     "en": "Here, some deodorant.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Tiens, du déodorant.(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:resp:0120",
     "en": "I'll relieve myself!(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Je vais me vider!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:resp:0235",
     "en": "I don't need a toilet.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Je n'ai pas besoin de WC.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "TOILET.BIN:resp:0239",
     "en": "Then let's talk.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Dans ce cas, discutons.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TOILET.BIN:resp:0243",
     "en": "Wanna talk, then?(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Alors, ça te dit de papoter?(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "TOILET.BIN:resp:0257",
     "en": "Keep threatening(*RESPONSE*)[0A89]  ",
-    "fr": ""
+    "fr": "Continue de menacer(*RESPONSE*)[0A89]"
   },
   {
     "id": "TOILET.BIN:resp:0267",
     "en": "Were you surprised?(*RESPONSE*)",
-    "fr": "",
+    "fr": "T'as été surpris?(*RESPONSE*)",
     "_occurrences": 2
   }
 ]
