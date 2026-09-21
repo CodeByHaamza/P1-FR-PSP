@@ -371,7 +371,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`TOILET_001.json`](trad/negociations/TOILET_001.json) | 100 | 0 | 0 % | libre |
 | [`TOILET_002.json`](trad/negociations/TOILET_002.json) | 100 | 0 | 0 % | libre |
 | [`TOILET_003.json`](trad/negociations/TOILET_003.json) | 100 | 0 | 0 % | libre |
-| [`TOILET_004.json`](trad/negociations/TOILET_004.json) | 19 | 0 | 0 % | libre |
+| [`TOILET_004.json`](trad/negociations/TOILET_004.json) | 19 | 0 | 0 % | en cours par @Uolil-Raccoon (#37) |
 | [`WORM_001.json`](trad/negociations/WORM_001.json) | 100 | 0 | 0 % | libre |
 | [`WORM_002.json`](trad/negociations/WORM_002.json) | 100 | 0 | 0 % | libre |
 | [`WORM_003.json`](trad/negociations/WORM_003.json) | 100 | 0 | 0 % | libre |
