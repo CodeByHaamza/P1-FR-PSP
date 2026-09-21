@@ -134,7 +134,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_032.json`](trad/dialogues/E0_032.json) | 100 | 11 | 11 % | commencé |
 | [`E0_033.json`](trad/dialogues/E0_033.json) | 74 | 74 | 100 % | terminé |
 | [`E0_034.json`](trad/dialogues/E0_034.json) | 70 | 1 | 1 % | commencé |
-| [`E0_035.json`](trad/dialogues/E0_035.json) | 57 | 0 | 0 % | libre |
+| [`E0_035.json`](trad/dialogues/E0_035.json) | 57 | 0 | 0 % | en cours par @DiCEO0 (#39) |
 | [`E0_036.json`](trad/dialogues/E0_036.json) | 53 | 5 | 9 % | commencé |
 | [`E0_037.json`](trad/dialogues/E0_037.json) | 99 | 4 | 4 % | commencé |
 | [`E0_038.json`](trad/dialogues/E0_038.json) | 79 | 1 | 1 % | commencé |
