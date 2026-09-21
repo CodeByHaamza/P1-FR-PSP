@@ -270,13 +270,13 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`BASKET_006.json`](trad/negociations/BASKET_006.json) | 100 | 0 | 0 % | libre |
 | [`BASKET_007.json`](trad/negociations/BASKET_007.json) | 100 | 0 | 0 % | libre |
 | [`BASKET_008.json`](trad/negociations/BASKET_008.json) | 56 | 0 | 0 % | libre |
-| [`DOPPEL_001.json`](trad/negociations/DOPPEL_001.json) | 100 | 0 | 0 % | libre |
-| [`DOPPEL_002.json`](trad/negociations/DOPPEL_002.json) | 100 | 0 | 0 % | libre |
-| [`DOPPEL_003.json`](trad/negociations/DOPPEL_003.json) | 14 | 0 | 0 % | libre |
-| [`ETC_001.json`](trad/negociations/ETC_001.json) | 100 | 0 | 0 % | libre |
-| [`ETC_002.json`](trad/negociations/ETC_002.json) | 100 | 0 | 0 % | libre |
-| [`ETC_003.json`](trad/negociations/ETC_003.json) | 100 | 0 | 0 % | libre |
-| [`ETC_004.json`](trad/negociations/ETC_004.json) | 24 | 0 | 0 % | libre |
+| [`DOPPEL_001.json`](trad/negociations/DOPPEL_001.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#40) |
+| [`DOPPEL_002.json`](trad/negociations/DOPPEL_002.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#40) |
+| [`DOPPEL_003.json`](trad/negociations/DOPPEL_003.json) | 14 | 0 | 0 % | en cours par @CodeByHaamza (#40) |
+| [`ETC_001.json`](trad/negociations/ETC_001.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#40) |
+| [`ETC_002.json`](trad/negociations/ETC_002.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#40) |
+| [`ETC_003.json`](trad/negociations/ETC_003.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#40) |
+| [`ETC_004.json`](trad/negociations/ETC_004.json) | 24 | 0 | 0 % | en cours par @CodeByHaamza (#40) |
 | [`GAKI_001.json`](trad/negociations/GAKI_001.json) | 100 | 100 | 100 % | terminé |
 | [`GAKI_002.json`](trad/negociations/GAKI_002.json) | 100 | 100 | 100 % | terminé |
 | [`GAKI_003.json`](trad/negociations/GAKI_003.json) | 28 | 28 | 100 % | terminé |
@@ -333,9 +333,9 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`KYOUKI_005.json`](trad/negociations/KYOUKI_005.json) | 100 | 0 | 0 % | libre |
 | [`KYOUKI_006.json`](trad/negociations/KYOUKI_006.json) | 100 | 0 | 0 % | libre |
 | [`KYOUKI_007.json`](trad/negociations/KYOUKI_007.json) | 23 | 0 | 0 % | libre |
-| [`MAYOERU_001.json`](trad/negociations/MAYOERU_001.json) | 100 | 0 | 0 % | libre |
-| [`MAYOERU_002.json`](trad/negociations/MAYOERU_002.json) | 100 | 0 | 0 % | libre |
-| [`MAYOERU_003.json`](trad/negociations/MAYOERU_003.json) | 39 | 0 | 0 % | libre |
+| [`MAYOERU_001.json`](trad/negociations/MAYOERU_001.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#40) |
+| [`MAYOERU_002.json`](trad/negociations/MAYOERU_002.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#40) |
+| [`MAYOERU_003.json`](trad/negociations/MAYOERU_003.json) | 39 | 0 | 0 % | en cours par @CodeByHaamza (#40) |
 | [`POLUTAR_001.json`](trad/negociations/POLUTAR_001.json) | 100 | 0 | 0 % | libre |
 | [`POLUTAR_002.json`](trad/negociations/POLUTAR_002.json) | 100 | 0 | 0 % | libre |
 | [`POLUTAR_003.json`](trad/negociations/POLUTAR_003.json) | 100 | 0 | 0 % | libre |
