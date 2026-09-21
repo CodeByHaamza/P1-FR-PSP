@@ -2,55 +2,55 @@
   {
     "id": "SYOUJO.BIN:resp:0284",
     "en": "How about the sky?(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Et le ciel?(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "SYOUJO.BIN:resp:0288",
     "en": "We got business.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "On a du boulot.(*RESPONSE*)",
     "_occurrences": 6
   },
   {
     "id": "SYOUJO.BIN:resp:0289",
     "en": "Get out of here.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Dégage de là.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "SYOUJO.BIN:resp:0290",
     "en": "Don't leave!(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Attends!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:resp:0293",
     "en": "You need something?(*RESPONSE*)",
-    "fr": "",
+    "fr": "T'as besoin d'un truc?(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "SYOUJO.BIN:resp:0295",
     "en": "Shake your head(*RESPONSE*)",
-    "fr": "",
+    "fr": "Secoue la tête(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:resp:0296",
     "en": "Spread your arms(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Écarte les bras(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:resp:0301",
     "en": "We're not a match.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "On est pas compatibles.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:resp:0303",
     "en": "Snort(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Grogne(*RESPONSE*)",
     "_occurrences": 2
   }
 ]
