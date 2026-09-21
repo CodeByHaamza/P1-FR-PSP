@@ -358,7 +358,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`SYOUJO_004.json`](trad/negociations/SYOUJO_004.json) | 100 | 0 | 0 % | libre |
 | [`SYOUJO_005.json`](trad/negociations/SYOUJO_005.json) | 100 | 0 | 0 % | libre |
 | [`SYOUJO_006.json`](trad/negociations/SYOUJO_006.json) | 100 | 0 | 0 % | libre |
-| [`SYOUJO_007.json`](trad/negociations/SYOUJO_007.json) | 9 | 0 | 0 % | en cours par @Uolil-Raccoon (#31) |
+| [`SYOUJO_007.json`](trad/negociations/SYOUJO_007.json) | 9 | 0 | 0 % | libre |
 | [`TENSI_001.json`](trad/negociations/TENSI_001.json) | 100 | 100 | 100 % | terminé |
 | [`TENSI_002.json`](trad/negociations/TENSI_002.json) | 100 | 100 | 100 % | terminé |
 | [`TENSI_003.json`](trad/negociations/TENSI_003.json) | 100 | 100 | 100 % | terminé |
