@@ -2,523 +2,523 @@
   {
     "id": "ETC.BIN:text:0146",
     "en": "{PAGE}(*SPEAKER*)Shiva{SAUT}Surely you have not forgotten me?{ATTENTE}",
-    "fr": "{PAGE}(*SPEAKER*)Shiva{SAUT}Tu ne m'as tout de même pas oublié?{ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0149",
     "en": "(*SPEAKER*)Shiva{SAUT}Do not concern yourself with that.{ATTENTE}",
-    "fr": "(*SPEAKER*)Shiva{SAUT}Ne t'en soucie pas.{ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0150",
     "en": "{PAGE}(*SPEAKER*)Shiva{SAUT}Due to unforseen circumstances, I am{SAUT}merely lending my power to this human.{ATTENTE}",
-    "fr": "{PAGE}(*SPEAKER*)Shiva{SAUT}Par des circonstances imprévues, je{SAUT}prête simplement ma force à cet humain.{ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0151",
     "en": "{PAGE}(*SPEAKER*)Shiva{SAUT}You! Aid us as well!{ATTENTE}",
-    "fr": "{PAGE}(*SPEAKER*)Shiva{SAUT}Toi! Aide-nous aussi!{ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0152",
     "en": "{PAGE}[FFEC](*SPEAKER*)Kwancha{SAUT}Your wish is my command. ...Human, take{SAUT}my card.(*OPTION*)",
-    "fr": "{PAGE}[FFEC](*SPEAKER*)Kwancha{SAUT}Tes désirs sont des ordres. ...Humain,{SAUT}prends ma carte.(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0153",
     "en": " (*SPEAKER*)Shiva{SAUT}Bones of the underworld! I am the{SAUT}great and supreme destroyer!{ATTENTE}",
-    "fr": " (*SPEAKER*)Shiva{SAUT}Ossements des enfers! Je suis le{SAUT}grand et suprême destructeur!{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0160",
     "en": "{PAGE}[FFEC](*SPEAKER*)Kwancha{SAUT}Even at your request, I have my pride{SAUT}to consider...(*OPTION*)",
-    "fr": "{PAGE}[FFEC](*SPEAKER*)Kwancha{SAUT}Même à ta demande, j'ai ma fierté{SAUT}à préserver...(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0161",
     "en": " (*SPEAKER*)Shiva{SAUT}Fool... He may be a demon of disease,{SAUT}but what better way to ward off evil?{ATTENTE}",
-    "fr": " (*SPEAKER*)Shiva{SAUT}Sot... C'est un démon de la maladie,{SAUT}mais quoi de mieux contre le mal?{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0162",
     "en": "{PAGE}[FFED](*SPEAKER*)Kwancha{SAUT}...Master Shiva, it is fine. I have{SAUT}duties to attend to anyway...(*OPTION*)",
-    "fr": "{PAGE}[FFED](*SPEAKER*)Kwancha{SAUT}...Maître Shiva, ce n'est rien. J'ai{SAUT}des devoirs à remplir, de toute façon...(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0164",
     "en": "   (*SPEAKER*)Shiva{SAUT}Excellent. I can finally relax!{ATTENTE}",
-    "fr": "   (*SPEAKER*)Shiva{SAUT}Excellent. Je peux enfin me reposer!{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0165",
     "en": "{PAGE}(*SPEAKER*)Kwancha{SAUT}...How lamentable. A disgrace to the{SAUT}title of \"Great Destroyer\"...(*OPTION*)",
-    "fr": "{PAGE}(*SPEAKER*)Kwancha{SAUT}...Quelle pitié. Une honte pour le{SAUT}titre de \"Grand Destructeur\"...(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0166",
     "en": "(*SPEAKER*)Otohime{SAUT}Oh, hi there, Otohime. That's my name too.{ATTENTE}",
-    "fr": "(*SPEAKER*)Otohime{SAUT}Oh, salut, Otohime. C'est mon nom aussi.{ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0167",
     "en": "{PAGE}[FFEE](*SPEAKER*)Otohime{SAUT}Really? But if I were as tall as you,{SAUT}I wouldn't be suitable for Taro.(*OPTION*)",
-    "fr": "{PAGE}[FFEE](*SPEAKER*)Otohime{SAUT}Ah bon? Mais si j'étais grande comme{SAUT}toi, je n'irais plus à Taro.(*OPTION*)",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0168",
     "en": "  (*SPEAKER*)Otohime{SAUT}I've become a Persona. I swim the seas{SAUT}with this human.{ATTENTE}",
-    "fr": "  (*SPEAKER*)Otohime{SAUT}Je suis devenue un Persona. Je nage{SAUT}les mers avec cet humain.{ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0169",
     "en": "{PAGE}[FFEE](*SPEAKER*)Otohime{SAUT}Oooh, I'm jealous.{ATTENTE}",
-    "fr": "{PAGE}[FFEE](*SPEAKER*)Otohime{SAUT}Oooh, je suis jalouse.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0170",
     "en": "{PAGE}(*SPEAKER*)Otohime{SAUT}Hey, you should take my card with you too!(*OPTION*)",
-    "fr": "{PAGE}(*SPEAKER*)Otohime{SAUT}Hé, emporte ma carte avec toi aussi!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0174",
     "en": "{PAGE}[FFEE](*SPEAKER*)Otohime{SAUT}I don't know...{ATTENTE}",
-    "fr": "{PAGE}[FFEE](*SPEAKER*)Otohime{SAUT}Je ne sais pas...{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0175",
     "en": "{PAGE}(*SPEAKER*)Otohime{SAUT}Maybe you like weak humans, but I'd{SAUT}rather hang out with my boyfriend!(*OPTION*)",
-    "fr": "{PAGE}(*SPEAKER*)Otohime{SAUT}Tu aimes peut-être les humains faibles,{SAUT}mais je préfère rester avec mon copain!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0176",
     "en": "   [FFEC](*SPEAKER*)Otohime{SAUT}No way... Am I dreaming? I can't{SAUT}believe this! Ughhhh!(*OPTION*)",
-    "fr": "   [FFEC](*SPEAKER*)Otohime{SAUT}Pas possible... Je rêve? J'y crois{SAUT}pas! Ughhhh!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0178",
     "en": "   [FFEB](*SPEAKER*)Otohime{SAUT}Yay! See ya later then, big me and{SAUT}Mr. Human!(*OPTION*)",
-    "fr": "   [FFEB](*SPEAKER*)Otohime{SAUT}Youpi! À plus, alors, grande moi{SAUT}et M. l'Humain!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0179",
     "en": "(*SPEAKER*)Cerberus{SAUT}AWOOOOOO! ME YOUR BROTHER! YOU DOING{SAUT}WELL?{ATTENTE}",
-    "fr": "(*SPEAKER*)Cerberus{SAUT}AWOOOOOO! MOI TON FRÈRE! TOI ALLER{SAUT}BIEN?{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0180",
     "en": "{PAGE}[FFEB](*SPEAKER*)Orthrus{SAUT}AWOOOO! ME FINE. BUT BROTHER, WHAT{SAUT}ABOUT GUARDING HADES?(*OPTION*)",
-    "fr": "{PAGE}[FFEB](*SPEAKER*)Orthrus{SAUT}AWOOOO! MOI BIEN. MAIS FRÈRE, ET{SAUT}GARDER HADÈS?(*OPTION*)",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0181",
     "en": "   (*SPEAKER*)Ceberus{SAUT}ME TAKE VACATION... BUT ENOUGH OF THAT.{SAUT}CAN YOU LEND POWER TO THIS HUMAN?{ATTENTE}",
-    "fr": "   (*SPEAKER*)Cerberus{SAUT}MOI EN VACANCES... MAIS ASSEZ PARLÉ.{SAUT}TOI PRÊTER FORCE À CET HUMAIN?{ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0182",
     "en": "{PAGE}[FFEE](*SPEAKER*)Orthrus{SAUT}HMMM... BROTHER'S REQUEST. ME NOT ABLE{SAUT}TO DECLINE. HUMAN, TAKE CARD.(*OPTION*)",
-    "fr": "{PAGE}[FFEE](*SPEAKER*)Orthrus{SAUT}HMMM... DEMANDE DE FRÈRE. MOI PAS{SAUT}POUVOIR REFUSER. HUMAIN, PRENDS CARTE.(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0183",
     "en": " (*SPEAKER*)Cerberus{SAUT}AWOOOOOO! ME YOUR BROTHER! YOU DOING{SAUT}WELL?{ATTENTE}",
-    "fr": " (*SPEAKER*)Cerberus{SAUT}AWOOOOOO! MOI TON FRÈRE! TOI ALLER{SAUT}BIEN?{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0186",
     "en": "{PAGE}[FFEE](*SPEAKER*)Orthrus{SAUT}HRRMMM... HE LOOK TOO WEAK.{SAUT}[FFED]ME GO BACK TO WORK. YOU SHOULD TOO.(*OPTION*)",
-    "fr": "{PAGE}[FFEE](*SPEAKER*)Orthrus{SAUT}HRRMMM... LUI TROP FAIBLE.{SAUT}[FFED]MOI RETOURNER TRAVAILLER. TOI AUSSI.(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0187",
     "en": " [FFED](*SPEAKER*)Orthus{SAUT}GAAAAAH! THIS HUMAN... DUMB, BROTHER!{SAUT}YOU SHOULD GO BACK TO WORK!(*OPTION*)",
-    "fr": " [FFED](*SPEAKER*)Orthrus{SAUT}GAAAAAH! CET HUMAIN... BÊTE, FRÈRE!{SAUT}TOI RETOURNER TRAVAILLER!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0189",
     "en": "   [FFEB](*SPEAKER*)Orthrus{SAUT}THIS FINE? THEN ME RETURN TO HADES.{ATTENTE}",
-    "fr": "   [FFEB](*SPEAKER*)Orthrus{SAUT}ÇA VA? ALORS MOI RENTRER À HADÈS.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0190",
     "en": "{PAGE}(*SPEAKER*)Orthrus{SAUT}BROTHER, YOU COME TOO.{ATTENTE}",
-    "fr": "{PAGE}(*SPEAKER*)Orthrus{SAUT}FRÈRE, TOI VENIR AUSSI.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0191",
     "en": "{PAGE}(*SPEAKER*)Cerberus{SAUT}NO. ME HAVE RESPONSIBILITY. YOU GO{SAUT}AHEAD.{ATTENTE}",
-    "fr": "{PAGE}(*SPEAKER*)Cerberus{SAUT}NON. MOI AVOIR RESPONSABILITÉ. TOI{SAUT}PARTIR DEVANT.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0192",
     "en": "{PAGE}(*SPEAKER*)Cerberus{SAUT}RED CATTLE WAITING FOR YOU.(*OPTION*)",
-    "fr": "{PAGE}(*SPEAKER*)Cerberus{SAUT}BÉTAIL ROUGE T'ATTEND.(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0193",
     "en": " (*SPEAKER*)Barbatos{SAUT}Holy smokes! You're still alive?{SAUT}I thought you up and croaked.{ATTENTE}",
-    "fr": " (*SPEAKER*)Barbatos{SAUT}Sapristi! T'es encore en vie?{SAUT}Je te croyais clamsé.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0194",
     "en": "{PAGE}[FFEB](*SPEAKER*)Barbatos{SAUT}Whatchya talkin' 'bout, fool? I'm still{SAUT}alive and kickin', obviously!(*OPTION*)",
-    "fr": "{PAGE}[FFEB](*SPEAKER*)Barbatos{SAUT}Qu'est-ce tu racontes, idiot? J'suis{SAUT}bien vivant, ça se voit!(*OPTION*)",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0195",
     "en": " (*SPEAKER*)Barbatos{SAUT}I can see that! So how's about you{SAUT}lend yer power to this here human...?{ATTENTE}",
-    "fr": " (*SPEAKER*)Barbatos{SAUT}Je vois ça! Alors, et si tu prêtais{SAUT}ta force à c't humain-là...?{ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0196",
     "en": "{PAGE}[FFEB](*SPEAKER*)Barbatos{SAUT}Consider it done.{ATTENTE}",
-    "fr": "{PAGE}[FFEB](*SPEAKER*)Barbatos{SAUT}Considère que c'est fait.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0197",
     "en": "{PAGE}(*SPEAKER*)Barbatos{SAUT}Alright human, I'm about to give ya{SAUT}one heckuva card.(*OPTION*)",
-    "fr": "{PAGE}(*SPEAKER*)Barbatos{SAUT}Bon, l'humain, j'vais te filer{SAUT}une sacrée carte.(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0198",
     "en": "  (*SPEAKER*)Barbatos{SAUT}Holy smokes! You're still alive?{SAUT}I thought you up and croaked.{ATTENTE}",
-    "fr": "  (*SPEAKER*)Barbatos{SAUT}Sapristi! T'es encore en vie?{SAUT}Je te croyais clamsé.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0201",
     "en": "{PAGE}[FFED](*SPEAKER*)Barbatos{SAUT}Sorry, but no can do.{ATTENTE}",
-    "fr": "{PAGE}[FFED](*SPEAKER*)Barbatos{SAUT}Désolé, mais pas moyen.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0202",
     "en": "{PAGE}(*SPEAKER*)Barbatos{SAUT}I don't fancy weaklings. Go bark up{SAUT}someone else's tree.(*OPTION*)",
-    "fr": "{PAGE}(*SPEAKER*)Barbatos{SAUT}J'aime pas les gringalets. Va voir{SAUT}ailleurs si j'y suis.(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0203",
     "en": "   [FFED](*SPEAKER*)Barbatos{SAUT}Whaddaya mean you don't need my card!?{ATTENTE}",
-    "fr": "   [FFED](*SPEAKER*)Barbatos{SAUT}Quoi, t'as pas besoin de ma carte!?{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0204",
     "en": "{PAGE}[FFED](*SPEAKER*)Barbatos{SAUT}And on top of that, yer an ingrate for{SAUT}rejectin' my offer!(*OPTION*)",
-    "fr": "{PAGE}[FFED](*SPEAKER*)Barbatos{SAUT}Et en plus, t'es un ingrat de{SAUT}refuser mon offre!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0205",
     "en": "   (*SPEAKER*)Barbatos{SAUT}It's just an evil whim. I know it.{ATTENTE}",
-    "fr": "   (*SPEAKER*)Barbatos{SAUT}C'est juste un caprice du mal. Je sais.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0206",
     "en": "{PAGE}[FFED](*SPEAKER*)Barbatos{SAUT}It don't matter! I'm going home!(*OPTION*)",
-    "fr": "{PAGE}[FFED](*SPEAKER*)Barbatos{SAUT}Peu importe! Je rentre chez moi!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0207",
     "en": "  [FFEE](*SPEAKER*)Barbatos{SAUT}When ya make me a Persona, gimme back{SAUT}my youth, m'kay? I'll be leavin' now.(*OPTION*)",
-    "fr": "  [FFEE](*SPEAKER*)Barbatos{SAUT}Quand tu feras de moi un Persona, rends-{SAUT}moi ma jeunesse, hein? Allez, j'y vais.(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0208",
     "en": " (*SPEAKER*)Loki{SAUT}Hey, what the hell? YOU'RE my son?{SAUT}Is this some kinda joke?{ATTENTE}",
-    "fr": " (*SPEAKER*)Loki{SAUT}Hé, c'est quoi ce délire? TOI, mon fils?{SAUT}C'est une blague?{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0209",
     "en": "{PAGE}(*SPEAKER*)Loki{SAUT}How do all my kids end up as snakes,{SAUT}horses, or wolves, man?{ATTENTE}",
-    "fr": "{PAGE}(*SPEAKER*)Loki{SAUT}Pourquoi mes gosses finissent tous{SAUT}serpents, chevaux ou loups?{ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0210",
     "en": "{PAGE}[FFED](*SPEAKER*)Fenrir{SAUT}GAAHHH! THE GODS BOUND ME, AND EVEN{SAUT}STILL, FATHER IGNORES ME! HOW CRUEL!(*OPTION*)",
-    "fr": "{PAGE}[FFED](*SPEAKER*)Fenrir{SAUT}GAAHHH! LES DIEUX M'ONT ENCHAÎNÉ, ET{SAUT}PÈRE M'IGNORE ENCORE! QUEL CRUEL!(*OPTION*)",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0211",
     "en": "   (*SPEAKER*)Loki{SAUT}Uhh... Let's let bygones be bygones,{SAUT}shall we?{ATTENTE}",
-    "fr": "   (*SPEAKER*)Loki{SAUT}Euh... Oublions le passé,{SAUT}tu veux bien?{ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0212",
     "en": "{PAGE}(*SPEAKER*)Loki{SAUT}So! You've still got some cards left,{SAUT}right? Wanna give one to this human?[FFED](*SPEAKER*)Fenrir{SAUT}GRRR... IF YOU WEREN'T DAD, ME EAT YOU{SAUT}WHOLE! ...HUMAN, TAKE CARD!(*OPTION*)",
-    "fr": "{PAGE}(*SPEAKER*)Loki{SAUT}Bon! Il te reste des cartes, pas{SAUT}vrai? T'en donnes une à cet humain?[FFED](*SPEAKER*)Fenrir{SAUT}GRRR... SI TOI PAS PAPA, MOI TE MANGER{SAUT}TOUT ENTIER! ...HUMAIN, PRENDS CARTE!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0213",
     "en": "  (*SPEAKER*)Loki{SAUT}Hey, what the hell? YOU'RE my son?{SAUT}Is this some kinda joke?{ATTENTE}",
-    "fr": "  (*SPEAKER*)Loki{SAUT}Hé, c'est quoi ce délire? TOI, mon fils?{SAUT}C'est une blague?{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0217",
     "en": "{PAGE}(*SPEAKER*)Loki{SAUT}So! You've still got some cards left,{SAUT}right? Wanna give one to this human?{ATTENTE}",
-    "fr": "{PAGE}(*SPEAKER*)Loki{SAUT}Bon! Il te reste des cartes, pas{SAUT}vrai? T'en donnes une à cet humain?{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0218",
     "en": "{PAGE}[FFED](*SPEAKER*)Fenrir{SAUT}GAAAAAAH! ME NO WANT TO!(*OPTION*)",
-    "fr": "{PAGE}[FFED](*SPEAKER*)Fenrir{SAUT}GAAAAAAH! MOI PAS VOULOIR!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0219",
     "en": "  (*SPEAKER*)Loki{SAUT}What's your deal, human? You don't want{SAUT}the world's strongest wolf here with ya?{ATTENTE}",
-    "fr": "  (*SPEAKER*)Loki{SAUT}C'est quoi ton problème, humain? Tu veux{SAUT}pas du loup le plus fort du monde?{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0220",
     "en": "{PAGE}[FFEE](*SPEAKER*)Fenrir{SAUT}HMMM... NEXT TIME WE MEET, ME EAT YOU{SAUT}WHOLE.(*OPTION*)",
-    "fr": "{PAGE}[FFEE](*SPEAKER*)Fenrir{SAUT}HMMM... PROCHAINE FOIS, MOI TE MANGER{SAUT}TOUT ENTIER.(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0221",
     "en": "  (*OPTION*)",
-    "fr": "  (*OPTION*)",
+    "fr": "",
     "_occurrences": 4
   },
   {
     "id": "ETC.BIN:text:0222",
     "en": "   (*SPEAKER*)Loki{SAUT}Alright, thanks. We're done with you{SAUT}now, so scamper along.{ATTENTE}",
-    "fr": "   (*SPEAKER*)Loki{SAUT}Bon, merci. On en a fini avec toi,{SAUT}alors file.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0223",
     "en": "{PAGE}[FFED](*SPEAKER*)Fenrir{SAUT}FATHER... ME EAT YOU SOMEDAY...(*OPTION*)",
-    "fr": "{PAGE}[FFED](*SPEAKER*)Fenrir{SAUT}PÈRE... MOI TE MANGER UN JOUR...(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0224",
     "en": "(*SPEAKER*)Succubus{SAUT}Oh, what a coincidence. Sucked on any{SAUT}good souls lately?{ATTENTE}",
-    "fr": "(*SPEAKER*)Succubus{SAUT}Oh, quelle coïncidence. Tu as sucé de{SAUT}belles âmes, ces temps-ci?{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0225",
     "en": "{PAGE}[FFEC](*SPEAKER*)Succubus{SAUT}It's been a bit dry, actually...{ATTENTE}",
-    "fr": "{PAGE}[FFEC](*SPEAKER*)Succubus{SAUT}C'est plutôt calme, en fait...{ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0226",
     "en": "{PAGE}(*SPEAKER*)Succubus{SAUT}I need to lay off the smart Christian{SAUT}types...(*OPTION*)",
-    "fr": "{PAGE}(*SPEAKER*)Succubus{SAUT}Je devrais lâcher les chrétiens{SAUT}trop malins...(*OPTION*)",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0227",
     "en": "  (*SPEAKER*)Succubus{SAUT}Hmm, yeah, those are the tough ones.{SAUT}Give up on them and come with us.{ATTENTE}",
-    "fr": "  (*SPEAKER*)Succubus{SAUT}Hmm, oui, ceux-là sont coriaces.{SAUT}Laisse tomber et viens avec nous.{ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0228",
     "en": "{PAGE}[FFEE](*SPEAKER*)Succubus{SAUT}Maybe I'll do that...{ATTENTE}",
-    "fr": "{PAGE}[FFEE](*SPEAKER*)Succubus{SAUT}Pourquoi pas...{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0229",
     "en": "{PAGE}(*SPEAKER*)Succubus{SAUT}I'm glad we met. Why don't you take my{SAUT}card, humans?(*OPTION*)",
-    "fr": "{PAGE}(*SPEAKER*)Succubus{SAUT}Ravie de la rencontre. Prenez donc ma{SAUT}carte, les humains?(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0230",
     "en": " (*SPEAKER*)Succubus{SAUT}Oh, what a coincidence. Sucked on any{SAUT}good souls lately?{ATTENTE}",
-    "fr": " (*SPEAKER*)Succubus{SAUT}Oh, quelle coïncidence. Tu as sucé de{SAUT}belles âmes, ces temps-ci?{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0234",
     "en": "{PAGE}[FFED](*SPEAKER*)Succubus{SAUT}No, I'm not ready to give up yet.{SAUT}I'll try a few more Europeans!(*OPTION*)",
-    "fr": "{PAGE}[FFED](*SPEAKER*)Succubus{SAUT}Non, je n'abandonne pas encore.{SAUT}Je vais tenter quelques Européens!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0235",
     "en": "  [FFEC](*SPEAKER*)Succubus{SAUT}Hmmm...{ATTENTE}",
-    "fr": "  [FFEC](*SPEAKER*)Succubus{SAUT}Hmmm...{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0236",
     "en": "{PAGE}(*SPEAKER*)Succubus{SAUT}Well, you've already got my Persona.{SAUT}I should get back to my prey...(*OPTION*)",
-    "fr": "{PAGE}(*SPEAKER*)Succubus{SAUT}Bon, tu as déjà mon Persona.{SAUT}Je retourne à mes proies...(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0238",
     "en": "   [FFEB](*SPEAKER*)Succubus{SAUT}Thanks for everything. Bye bye, now.(*OPTION*)",
-    "fr": "   [FFEB](*SPEAKER*)Succubus{SAUT}Merci pour tout. Bye bye.(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0239",
     "en": "(*SPEAKER*)Lilim{SAUT}Hey, how's it going, Lilim? Been sucking{SAUT}the life out of the innocents?{ATTENTE}",
-    "fr": "(*SPEAKER*)Lilim{SAUT}Hé, ça va, Lilim? Tu pompes toujours{SAUT}la vie des innocents?{ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0240",
     "en": "{PAGE}[FFEB](*SPEAKER*)Lilim{SAUT}You bet I have!{ATTENTE}",
-    "fr": "{PAGE}[FFEB](*SPEAKER*)Lilim{SAUT}Et comment!{ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0241",
     "en": "{PAGE}(*SPEAKER*)Lilim{SAUT}How about you, Persona me? Having fun{SAUT}with those humans?(*OPTION*)",
-    "fr": "{PAGE}(*SPEAKER*)Lilim{SAUT}Et toi, moi en Persona? Tu t'amuses{SAUT}avec ces humains?(*OPTION*)",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0242",
     "en": "   (*SPEAKER*)Lilim{SAUT}Hard to say... It's certainly not{SAUT}boring, but I have to fight a lot.{ATTENTE}",
-    "fr": "   (*SPEAKER*)Lilim{SAUT}Dur à dire... On s'ennuie pas,{SAUT}mais je dois beaucoup me battre.{ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0243",
     "en": "{PAGE}[FFEE](*SPEAKER*)Lilim{SAUT}Hmmm, really?{ATTENTE}",
-    "fr": "{PAGE}[FFEE](*SPEAKER*)Lilim{SAUT}Hmmm, vraiment?{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0244",
     "en": "{PAGE}(*SPEAKER*)Lilim{SAUT}Sounds interesting. Why don't you take{SAUT}my card with you?(*OPTION*)",
-    "fr": "{PAGE}(*SPEAKER*)Lilim{SAUT}Ça a l'air intéressant. Emporte donc{SAUT}ma carte avec toi?(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0249",
     "en": "{PAGE}[FFEE](*SPEAKER*)Lilim{SAUT}Hmm, I see. Maybe I'll go find some{SAUT}stronger humans then!(*OPTION*)",
-    "fr": "{PAGE}[FFEE](*SPEAKER*)Lilim{SAUT}Hmm, je vois. Je vais me trouver des{SAUT}humains plus forts, alors!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0250",
     "en": " [FFED](*SPEAKER*)Lilim{SAUT}Oh yeah? Fine, then! There're plenty of{SAUT}souls in the sea!(*OPTION*)",
-    "fr": " [FFED](*SPEAKER*)Lilim{SAUT}Ah ouais? Très bien! Il y a plein{SAUT}d'âmes dans la mer!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0252",
     "en": "   [FFEB](*SPEAKER*)Lilim{SAUT}Ahaha! I've got some errands to run, but{SAUT}remember to turn me into a Persona!(*OPTION*)",
-    "fr": "   [FFEB](*SPEAKER*)Lilim{SAUT}Ahaha! J'ai des courses à faire, mais{SAUT}pense à faire de moi un Persona!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0253",
     "en": "   (*SPEAKER*)Garuda{SAUT}You! You imprisoned my mother and forced{SAUT}me to commit theft! I haven't forgotten!{ATTENTE}",
-    "fr": "   (*SPEAKER*)Garuda{SAUT}Toi! Tu as emprisonné ma mère et fait{SAUT}de moi un voleur! Je n'ai pas oublié!{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0254",
     "en": "{PAGE}[FFEB](*SPEAKER*)Naga{SAUT}And now you hunt the world's evil,{SAUT}defiled as you are? How laughable!(*OPTION*)",
-    "fr": "{PAGE}[FFEB](*SPEAKER*)Naga{SAUT}Et tu chasses le mal du monde,{SAUT}souillé comme tu l'es? Risible!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0255",
     "en": "(*SPEAKER*)Garuda{SAUT}How dare you...{ATTENTE}",
-    "fr": "(*SPEAKER*)Garuda{SAUT}Comment oses-tu...{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0256",
     "en": "{PAGE}(*SPEAKER*)Garuda{SAUT}Humans, protected by my power!{SAUT}Strike down this eviil snake!{ATTENTE}",
-    "fr": "{PAGE}(*SPEAKER*)Garuda{SAUT}Humains, que protège mon pouvoir!{SAUT}Abattez ce serpent maléfique!{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0257",
     "en": "{PAGE}[FFED](*SPEAKER*)Naga{SAUT}Hahaha! Classic, bird! You only attained{SAUT}your rank by threatning the gods!(*OPTION*)",
-    "fr": "{PAGE}[FFED](*SPEAKER*)Naga{SAUT}Hahaha! Du grand oiseau! Tu n'as ton{SAUT}rang qu'en ayant menacé les dieux!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0258",
     "en": "   (*SPEAKER*)Airgetlam{SAUT}Snake of darkness, the time for my{SAUT}vengeance is at hand!{ATTENTE}",
-    "fr": "   (*SPEAKER*)Airgetlam{SAUT}Serpent des ténèbres, l'heure de ma{SAUT}vengeance est venue!{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0259",
     "en": "{PAGE}(*SPEAKER*)Airgetlam{SAUT}I shall strike you down with my sword{SAUT}of light!{ATTENTE}",
-    "fr": "{PAGE}(*SPEAKER*)Airgetlam{SAUT}Je t'abattrai de mon épée{SAUT}de lumière!{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0260",
     "en": "{PAGE}[FFED](*SPEAKER*)Cromm Cruach{SAUT}Hmph! You want me to swallow you again?{SAUT}You Tuatha De are so feebleminded!(*OPTION*)",
-    "fr": "{PAGE}[FFED](*SPEAKER*)Cromm Cruach{SAUT}Hmph! Tu veux que je t'avale encore?{SAUT}Vous, Tuatha Dé, êtes si bornés!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0261",
     "en": " [FFEB](*SPEAKER*)Cromm Cruach{SAUT}...Not that your silver arm would be{SAUT}easy to digest! Gahahahaha!{ATTENTE}",
-    "fr": " [FFEB](*SPEAKER*)Cromm Cruach{SAUT}...Non que ton bras d'argent soit{SAUT}facile à digérer! Gahahahaha!{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0262",
     "en": "{PAGE}(*SPEAKER*)Airgetlam{SAUT}...Master! To this bringer of death,{SAUT}death!{ATTENTE}",
-    "fr": "{PAGE}(*SPEAKER*)Airgetlam{SAUT}...Maître! À ce porteur de mort,{SAUT}la mort!{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0263",
     "en": "{PAGE}(*SPEAKER*)Airgetlam{SAUT}Avenge me!{ATTENTE}",
-    "fr": "{PAGE}(*SPEAKER*)Airgetlam{SAUT}Venge-moi!{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0264",
     "en": "{PAGE}(*SPEAKER*)Cromm Cruach{SAUT}It's futile!(*OPTION*)",
-    "fr": "{PAGE}(*SPEAKER*)Cromm Cruach{SAUT}C'est inutile!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0265",
     "en": " (*SPEAKER*)Marduk{SAUT}So the raging snakes still exist...{SAUT}I must rectify my mistake...{ATTENTE}",
-    "fr": " (*SPEAKER*)Marduk{SAUT}Les serpents furieux existent encore...{SAUT}Je dois réparer mon erreur...{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0266",
     "en": "{PAGE}[FFED](*SPEAKER*)Mushus{SAUT}GAAAAAAAH! ME AVENGE GODDESS! ME READY{SAUT}TO DIE!(*OPTION*)",
-    "fr": "{PAGE}[FFED](*SPEAKER*)Mushus{SAUT}GAAAAAAAH! MOI VENGER DÉESSE! MOI PRÊT{SAUT}À MOURIR!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0267",
     "en": "  (*SPEAKER*)Marduk{SAUT}Fool...{ATTENTE}",
-    "fr": "  (*SPEAKER*)Marduk{SAUT}Sot...{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0268",
     "en": "{PAGE}(*SPEAKER*)Marduk{SAUT}Humans, in whom I breathe life! Defeat{SAUT}him and restore order!{ATTENTE}",
-    "fr": "{PAGE}(*SPEAKER*)Marduk{SAUT}Humains, à qui j'insuffle la vie!{SAUT}Vainquez-le et rétablissez l'ordre!{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0269",
     "en": "{PAGE}[FFED](*SPEAKER*)Mushus{SAUT}GAAAAH! MASTER TIAMAT! GIVE ME POWER!(*OPTION*)",
-    "fr": "{PAGE}[FFED](*SPEAKER*)Mushus{SAUT}GAAAAH! MAÎTRESSE TIAMAT! DONNE FORCE!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0270",
     "en": " (*SPEAKER*)Tyr{SAUT}Son of Loki!{ATTENTE}",
-    "fr": " (*SPEAKER*)Tyr{SAUT}Fils de Loki!{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0271",
     "en": "{PAGE}(*SPEAKER*)Tyr{SAUT}You will pay for taking my hand!{ATTENTE}",
-    "fr": "{PAGE}(*SPEAKER*)Tyr{SAUT}Tu paieras pour m'avoir pris la main!{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0272",
     "en": "{PAGE}[FFED](*SPEAKER*)Fenrir{SAUT}GAAAH! YOU TRICKED ME! YOU DESERVE TO{SAUT}HAVE NO HAND! YOU NOT MANLY!(*OPTION*)",
-    "fr": "{PAGE}[FFED](*SPEAKER*)Fenrir{SAUT}GAAAH! TOI M'AVOIR PIÉGÉ! TOI MÉRITER{SAUT}D'AVOIR PAS DE MAIN! TOI PAS VIRIL!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0273",
     "en": "  (*SPEAKER*)Tyr{SAUT}To defeat you is to prevent Ragnarok!{SAUT}I shall slay you where you stand!{ATTENTE}",
-    "fr": "  (*SPEAKER*)Tyr{SAUT}Te vaincre, c'est empêcher le Ragnarok!{SAUT}Je vais t'abattre sur place!{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0274",
     "en": "{PAGE}[FFED](*SPEAKER*)Fenrir{SAUT}GAAAAAH! ME NOT AFRAID OF YOU. YOU HAVE{SAUT}NO MAGIC FETTER HERE!(*OPTION*)",
-    "fr": "{PAGE}[FFED](*SPEAKER*)Fenrir{SAUT}GAAAAAH! MOI PAS PEUR DE TOI. TOI PAS{SAUT}AVOIR CHAÎNE MAGIQUE ICI!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0275",
     "en": "   (*SPEAKER*)Fuhedi Mergane{SAUT}I did not think you still walked this{SAUT}world, evil beast!{ATTENTE}",
-    "fr": "   (*SPEAKER*)Fuhedi Mergane{SAUT}Je ne te croyais plus de ce monde,{SAUT}bête maléfique!{ATTENTE}"
+    "fr": ""
   }
 ]

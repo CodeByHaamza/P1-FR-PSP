@@ -2,129 +2,129 @@
   {
     "id": "ETC.BIN:text:0417",
     "en": "   (*SPEAKER*)Azrael{SAUT}I am Azrael.{ATTENTE}",
-    "fr": "   (*SPEAKER*)Azrael{SAUT}Moi, Azrael.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0418",
     "en": "{PAGE}(*SPEAKER*)Azrael{SAUT}I am the angel who recordeth birth and{SAUT}death.{ATTENTE}",
-    "fr": "{PAGE}(*SPEAKER*)Azrael{SAUT}L'ange qui consigne naissances{SAUT}et morts.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0419",
     "en": "{PAGE}[FFEE](*SPEAKER*)Virtue{SAUT}I am Virtue.{ATTENTE}",
-    "fr": "{PAGE}[FFEE](*SPEAKER*)Virtue{SAUT}Moi, Virtue.{ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0420",
     "en": "{PAGE}(*SPEAKER*)Virtue{SAUT}I serve under Raphael to lead humans{SAUT}toward virtue.(*OPTION*)",
-    "fr": "{PAGE}(*SPEAKER*)Virtue{SAUT}Sous Raphael, je mène les hommes{SAUT}vers la vertu.(*OPTION*)",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0421",
     "en": "(*SPEAKER*)Azrael{SAUT}Wilt thou hear my request as a fellow{SAUT}angel's subordinate?{ATTENTE}",
-    "fr": "(*SPEAKER*)Azrael{SAUT}Veux-tu entendre ma requête, entre{SAUT}serviteurs d'anges?{ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0422",
     "en": "{PAGE}(*SPEAKER*)Azrael{SAUT}I ask of thee to give thy card to this{SAUT}human.{ATTENTE}",
-    "fr": "{PAGE}(*SPEAKER*)Azrael{SAUT}Je te demande de donner ta carte à{SAUT}cet humain.{ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0423",
     "en": "{PAGE}[FFEB](*SPEAKER*)Virtue{SAUT}Very well. My card is yours, human.(*OPTION*)",
-    "fr": "{PAGE}[FFEB](*SPEAKER*)Virtue{SAUT}Bien. Ma carte est à toi, humain.(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0424",
     "en": "(*SPEAKER*)Azrael{SAUT}I am Azrael.{ATTENTE}",
-    "fr": "(*SPEAKER*)Azrael{SAUT}Moi, Azrael.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0425",
     "en": "{PAGE}(*SPEAKER*)Azrael{SAUT}I am the angel who recordeth birth{SAUT}and death.{ATTENTE}",
-    "fr": "{PAGE}(*SPEAKER*)Azrael{SAUT}L'ange qui consigne{SAUT}naissances et morts.{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0430",
     "en": "{PAGE}[FFEB](*SPEAKER*)Virtue{SAUT}I refuse. This human has no virtue.(*OPTION*)",
-    "fr": "{PAGE}[FFEB](*SPEAKER*)Virtue{SAUT}Non. Cet humain n'a nulle vertu.(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0431",
     "en": "[FFED](*SPEAKER*)Virtue{SAUT}...That is all. I have no business with{SAUT}those beyond redemption!(*OPTION*)",
-    "fr": "[FFED](*SPEAKER*)Virtue{SAUT}...C'est tout. Rien à faire de{SAUT}ceux qu'on ne peut plus sauver!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0433",
     "en": "   (*SPEAKER*)Azrael{SAUT}Good... I thank thee for thy{SAUT}cooperation, Virtue.(*OPTION*)",
-    "fr": "   (*SPEAKER*)Azrael{SAUT}Bien... Je te remercie de ton{SAUT}concours, Virtue.(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0434",
     "en": "  (*SPEAKER*)Nike{SAUT}My... name... Nike... Foreign angel...{SAUT}Angel... Let us... speak...{ATTENTE}",
-    "fr": "  (*SPEAKER*)Nike{SAUT}Mon... nom... Nike... Ange étranger...{SAUT}Ange... Parlons...{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0435",
     "en": "{PAGE}[FFEB](*SPEAKER*)Angel{SAUT}Very well.{ATTENTE}",
-    "fr": "{PAGE}[FFEB](*SPEAKER*)Angel{SAUT}Fort bien.{ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0436",
     "en": "{PAGE}(*SPEAKER*)Angel{SAUT}You are a goddess of victory, correct?{SAUT}What is the secret of your success?(*OPTION*)",
-    "fr": "{PAGE}(*SPEAKER*)Angel{SAUT}Vous êtes une déesse de la victoire?{SAUT}Quel est le secret de vos succès?(*OPTION*)",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0437",
     "en": "(*SPEAKER*)Nike{SAUT}Always... reinforce... power. So...{SAUT}desire... your card... for the humans...{ATTENTE}",
-    "fr": "(*SPEAKER*)Nike{SAUT}Toujours... plus... de force. Donc...{SAUT}veux... ta carte... pour humains...{ATTENTE}",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0438",
     "en": "{PAGE}[FFEE](*SPEAKER*)Angel{SAUT}I understand you. Here, human. Take my{SAUT}card.(*OPTION*)",
-    "fr": "{PAGE}[FFEE](*SPEAKER*)Angel{SAUT}Je vous comprends. Tenez, humain. Ma{SAUT}carte.(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0439",
     "en": "   (*SPEAKER*)Nike{SAUT}My... name... Nike... Foreign angel...{SAUT}Angel... Let us... speak...{ATTENTE}",
-    "fr": "   (*SPEAKER*)Nike{SAUT}Mon... nom... Nike... Ange étranger...{SAUT}Ange... Parlons...{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0443",
     "en": "{PAGE}[FFED](*SPEAKER*)Angel{SAUT}I understand, but in this world, too{SAUT}much power is unnecessary...(*OPTION*)",
-    "fr": "{PAGE}[FFED](*SPEAKER*)Angel{SAUT}Je comprends, mais en ce monde, trop{SAUT}de force est superflu...(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0444",
     "en": "  [FFED](*SPEAKER*)Angel{SAUT}You are guarding a foolish human...{SAUT}I am irked!(*OPTION*)",
-    "fr": "  [FFED](*SPEAKER*)Angel{SAUT}Vous gardez un humain insensé...{SAUT}Cela m'agace!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0446",
     "en": "   [FFEB](*SPEAKER*)Angel{SAUT}I must be going... Farewell, my Greek{SAUT}comrade.(*OPTION*)",
-    "fr": "   [FFEB](*SPEAKER*)Angel{SAUT}Je dois partir... Adieu, ma{SAUT}camarade grecque.(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0447",
     "en": " [FFEB]Hee hee hee...... Hee hee hee....{ATTENTE}",
-    "fr": " [FFEB]Hi hi hi...... Hi hi hi....{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "ETC.BIN:text:0448",
     "en": "{PAGE}> Alice has a fearless smile on her{SAUT}face... She has no intention of{SAUT}negotiating!(*RESPONSE*)",
-    "fr": "{PAGE}> Alice sourit sans peur...{SAUT}Elle n'a aucune intention{SAUT}de négocier!(*RESPONSE*)",
+    "fr": "",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0449",
     "en": "   [FFEB]Hee hee hee...... Hee hee hee....{ATTENTE}",
-    "fr": "   [FFEB]Hi hi hi...... Hi hi hi....{ATTENTE}"
+    "fr": ""
   }
 ]

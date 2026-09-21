@@ -2,196 +2,196 @@
   {
     "id": "MAYOERU.BIN:text:0201",
     "en": "  [FFEC]Uuuuurh! Augh... Uuuurh!{SAUT}Augh... Feel like going insane...(*RESPONSE*)",
-    "fr": "  [FFEC]Uuuuurh! Augh... Uuuurh!{SAUT}Augh... Va devenir fou...(*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0202",
     "en": "[FFED]Answered in relaxed manner... What do{SAUT}you think [FFF3] is!?{ATTENTE}",
-    "fr": "[FFED]Répondu si tranquillement... Tu prends{SAUT}[FFF3] pour quoi!?{ATTENTE}"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0203",
     "en": "{PAGE}[FFEC]Hm... Maybe thinking that already...(*RESPONSE*)",
-    "fr": "{PAGE}[FFEC]Hm... Pensait déjà ça, peut-être...(*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0204",
     "en": " [FFEB]Happy and annoyed...{SAUT}[FFF3] fails to understand{SAUT}fleshlings!(*RESPONSE*)",
-    "fr": " [FFEB]Content et agacé...{SAUT}[FFF3] ne comprend pas{SAUT}les charnus!(*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0205",
     "en": "[FFED][FFF3] is happy and angry!{SAUT}Those of flesh... Give something.[FFF1](*RESPONSE*)",
-    "fr": "[FFED][FFF3] est content et fâché!{SAUT}Gens de chair... Donne un truc.[FFF1](*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0206",
     "en": "  [FFEC]Augh... But why does [FFF3]'s{SAUT}heart dance in happiness...?(*RESPONSE*)",
-    "fr": "  [FFEC]Augh... Mais pourquoi [FFF3]{SAUT}a le coeur qui danse de joie...?(*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0207",
     "en": " [FFEB][FFF3] isn't a masochist, but{SAUT}being scared feels good...(*RESPONSE*)",
-    "fr": " [FFEB][FFF3] n'est pas masochiste, mais{SAUT}avoir peur, c'est bon...(*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0208",
     "en": "   [FFF3] likes fleshlings now.{SAUT}Will listen to flesh-haver wishes.(*OPTION*)",
-    "fr": "   [FFF3] aime les charnus maintenant.{SAUT}Écoutera les voeux des charnus.(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0209",
     "en": " Uuurrhhh! Hate those of flesh!{SAUT}Will possess them!(*OPTION*)",
-    "fr": " Uuurrhhh! Hais les gens de chair!{SAUT}Va les posséder!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0210",
     "en": "  Augh... Augh... Want to go home...(*OPTION*)",
-    "fr": "  Augh... Augh... Veut rentrer...(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0211",
     "en": " [FFF3] is so happy...(*OPTION*)",
-    "fr": " [FFF3] est si content...(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0212",
     "en": "   Hate those of flesh.{SAUT}But slightly interested.{SAUT}What do fleshlings want?(*OPTION*)",
-    "fr": "   Hais les gens de chair.{SAUT}Mais un peu intéressé.{SAUT}Que veulent les charnus?(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0213",
     "en": " Augh... Augh... Will listen to what the{SAUT}fleshlings say... What do you want{SAUT}[FFF3] to do?(*OPTION*)",
-    "fr": " Augh... Augh... Écoutera ce que disent{SAUT}les charnus... Que doit faire{SAUT}[FFF3]?(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0214",
     "en": "[FFF3] loves fleshlings now.{SAUT}Will listen to all their wishes.(*OPTION*)",
-    "fr": "[FFF3] adore les charnus.{SAUT}Écoutera tous leurs voeux.(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0215",
     "en": "   Uuurghhh! Augh... Augh... Urrghhh!(*OPTION*)",
-    "fr": "   Uuurghhh! Augh... Augh... Urrghhh!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0216",
     "en": " ...Want body of flesh, but not{SAUT}interested in bodies of no use!(*OPTION*)",
-    "fr": " ...Veut corps de chair, mais pas{SAUT}les corps inutiles!(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0217",
     "en": " ...That good body of flesh...{SAUT}Watching makes [FFF3]very{SAUT}fascinated...(*OPTION*)",
-    "fr": " ...Ce beau corps de chair...{SAUT}Le regarder fascine [FFF3]{SAUT}beaucoup...(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0218",
     "en": "   [FFF3] wants money.{SAUT}Will be satisfied with (*VALUE*) yen.(*OPTION*)",
-    "fr": "   [FFF3] veut de l'argent.{SAUT}Satisfait avec (*VALUE*) yens.(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0219",
     "en": "   Uiii! Those of flesh are good humans.(*RESPONSE*)",
-    "fr": "   Uiii! Les gens de chair sont bons.(*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0220",
     "en": "  Don't have any!{SAUT}Uuuurh! Those of flesh are liars!(*RESPONSE*)",
-    "fr": "  Rien du tout!{SAUT}Uuuurh! Les gens de chair mentent!(*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0221",
     "en": "  Augh... Nothing to be done if fleshlings{SAUT}are poor...(*RESPONSE*)",
-    "fr": "  Augh... Rien à faire si les charnus{SAUT}sont pauvres...(*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0222",
     "en": "   Don't underestimate [FFF3]!(*RESPONSE*)",
-    "fr": "   Ne sous-estime pas [FFF3]!(*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0223",
     "en": " Augh...{SAUT}But [FFF3] is so hungry...(*RESPONSE*)",
-    "fr": " Augh...{SAUT}Mais [FFF3] a si faim...(*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0224",
     "en": "  [FFF3] wants life stones.{SAUT}Will be satisfied with one.(*OPTION*)",
-    "fr": "  [FFF3] veut des pierres de vie.{SAUT}Satisfait avec une seule.(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0225",
     "en": "   Uiiii! [FFF3] loves fleshlings.(*RESPONSE*)",
-    "fr": "   Uiiii! [FFF3] adore les charnus.(*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0226",
     "en": " Don't have any!?{SAUT}Are those of flesh idiots?{SAUT}Yes, must be idiots.(*RESPONSE*)",
-    "fr": " Rien du tout!?{SAUT}Les gens de chair sont idiots?{SAUT}Oui, sûrement idiots.(*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0227",
     "en": "   Augh... Nothing to be done if fleshlings{SAUT}don't have any...(*RESPONSE*)",
-    "fr": "   Augh... Rien à faire si les charnus{SAUT}n'en ont pas...(*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0228",
     "en": " Those of flesh!{SAUT}Don't underestimate [FFF3]!(*RESPONSE*)",
-    "fr": " Gens de chair!{SAUT}Ne sous-estimez pas [FFF3]!(*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0229",
     "en": " No...? But might have given money to{SAUT}[FFF3]... Should look forward{SAUT}to next time.(*RESPONSE*)",
-    "fr": " Non...? Aurait pu donner l'argent à{SAUT}[FFF3]... Vivement la{SAUT}prochaine fois.(*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0230",
     "en": "[FFF3] wants a gem.{SAUT}Wants [FFF4].(*OPTION*)",
-    "fr": "[FFF3] veut une gemme.{SAUT}Veut [FFF4].(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0231",
     "en": "Uiiii! [FFF3] likes those of{SAUT}living flesh! Will love you!(*RESPONSE*)",
-    "fr": "Uiiii! [FFF3] aime les gens de{SAUT}chair vive! Vous aimera!(*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0232",
     "en": "   Okay... Those of flesh are weird.(*RESPONSE*)",
-    "fr": "   Bon... Les gens de chair sont bizarres.(*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0233",
     "en": "  Those of flesh are so greedy!(*RESPONSE*)",
-    "fr": "  Les gens de chair sont si avides!(*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0234",
     "en": "  Those of flesh must love [FFF4]!(*RESPONSE*)",
-    "fr": "  Les gens de chair adorent [FFF4]!(*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0235",
     "en": "[FFF3] wants the vital energy{SAUT}of living flesh. Will be satisfied with{SAUT}single serving.(*OPTION*)",
-    "fr": "[FFF3] veut l'énergie vitale{SAUT}de la chair vive. Satisfait avec{SAUT}une seule portion.(*OPTION*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0236",
     "en": "   Uiiii! So warm! So delicious!(*RESPONSE*)",
-    "fr": "   Uiiii! Si chaud! Si délicieux!(*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0237",
     "en": "  Those of flesh think it is not possible{SAUT}for [FFF0]!? Nasty humans!(*RESPONSE*)",
-    "fr": "  Les gens de chair croient ça impossible{SAUT}pour un [FFF0]!? Vilains humains!(*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0238",
     "en": "  Just wanted a little...{SAUT}[FFF3] is saddened...(*RESPONSE*)",
-    "fr": "  Voulait juste un peu...{SAUT}[FFF3] est triste...(*RESPONSE*)"
+    "fr": ""
   },
   {
     "id": "MAYOERU.BIN:text:0239",
     "en": "   Just wanted a little...{SAUT}[FFF3] is saddened...(*RESPONSE*)",
-    "fr": "   Voulait juste un peu...{SAUT}[FFF3] est triste...(*RESPONSE*)"
+    "fr": ""
   }
 ]
