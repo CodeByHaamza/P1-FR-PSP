@@ -129,127 +129,127 @@
     "id": "E0.BIN:161:0018",
     "locuteur": "Brown",
     "en": "What!? Then how do we get to Pandora!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Quoi!? Mais alors comment on va jusqu'à Pandore!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0019",
     "locuteur": "Ayase",
     "en": "No way! Seriously!? Then, uhh, where{SAUT}do we find Pandora!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "C'est pas vrai! Vraiment!? mais, euh, où{SAUT}on peut trouver Pandore!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0020",
     "locuteur": "Nanjo",
     "en": "The school...! She must be beyond that{SAUT}door we found in the library.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "L'école...! Elle est surement au delà de cette{SAUT}porte que nous avons trouver à la bibliothèque.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0021",
     "locuteur": "Nanjo",
     "en": "Am I correct?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Ai je raison?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0022",
     "locuteur": "Maki",
     "en": "Uh-huh.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Mm-hm.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0023",
     "locuteur": "Maki",
     "en": "But you'll need the three compacts...{SAUT}and my energetic self's help.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Mais vous allez avoir besoin des trois morceaux...{SAUT}et l'aide de l'énergis que j'ai.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0024",
     "locuteur": "Nanjo",
     "en": "Energetic... You mean the ideal Maki?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "L'énergis... Vous voulez dire la vraie Maki?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0025",
     "locuteur": "Nanjo",
     "en": "We have the three compacts, don't we?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Nous avons les trois morceaux, n'est ce pas?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0026",
     "locuteur": "Reiji",
     "en": "I remember you had two of them,{SAUT}(*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Je me souviens que vous en avez deux d'entre eux,{SAUT}(*APELLIDO_HEREO*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0027",
     "locuteur": "Reiji",
     "en": "Red and green... We're missing one.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Rouge et verte... Il nous en manques une.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0028",
     "locuteur": "Elly",
     "en": "(*APELLIDO_HEROE*), aren't you carrying two of{SAUT}them already?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "(*APELLIDO_HEROE*), tu n'en porte pas déjà deux{SAUT}d'entre eux?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0029",
     "locuteur": "Elly",
     "en": "One red and one green... We only need{SAUT}one more.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Une rouge et une verte... il nous faut{SAUTE}une de plus.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0030",
     "locuteur": "Elly",
     "en": "You have two of them, right (*APELLIDO_HEROE*)?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Tu en as deux d'entre eux? c'est ça (*APELLIDO_HEROE*)?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0031",
     "locuteur": "Elly",
     "en": "Red and green... We just need one more.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Rouge et verte... Il nous manques juste la dernière.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0032",
     "locuteur": "Brown",
     "en": "Didn't you have two already, (*APODO_HEROE*)?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Tu n'en as pas déjà deux, (*APELLIDO_HEROE*)?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0033",
     "locuteur": "Brown",
     "en": "Red and green, huh...? We're still{SAUT}missing one.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Rouge et verte, hein...? Il y en a{SAUT}donc une manquante.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0034",
     "locuteur": "Ayase",
     "en": "Hey (*APODO_HEROE*), didn't you have them?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Hey (*APODO_HEROE*), tu les as pas déjà?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0035",
     "locuteur": "Ayase",
     "en": "One red one and one green one?{SAUT}So we're still missing one...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Ayase",
+    "fr": "Une rouge et une verte?{SAUT}donc il en manque encore une...{ATTENTE}",
     "_occurrences": 2
   },
   {
