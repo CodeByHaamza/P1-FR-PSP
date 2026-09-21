@@ -6,9 +6,9 @@
 Dialogues      ████████████░░░░░░░░░░░░   51 %    4 375 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
-Négociations   █████░░░░░░░░░░░░░░░░░░░   19 %    2 344 / 12 487 textes
+Négociations   █████░░░░░░░░░░░░░░░░░░░   21 %    2 583 / 12 487 textes
 
-Total          ██████████░░░░░░░░░░░░░░   41 %    9 805 / 24 145 textes
+Total          ██████████░░░░░░░░░░░░░░   42 %   10 044 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -333,9 +333,9 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`KYOUKI_005.json`](trad/negociations/KYOUKI_005.json) | 100 | 0 | 0 % | libre |
 | [`KYOUKI_006.json`](trad/negociations/KYOUKI_006.json) | 100 | 0 | 0 % | libre |
 | [`KYOUKI_007.json`](trad/negociations/KYOUKI_007.json) | 23 | 0 | 0 % | libre |
-| [`MAYOERU_001.json`](trad/negociations/MAYOERU_001.json) | 100 | 0 | 0 % | libre |
-| [`MAYOERU_002.json`](trad/negociations/MAYOERU_002.json) | 100 | 0 | 0 % | libre |
-| [`MAYOERU_003.json`](trad/negociations/MAYOERU_003.json) | 39 | 0 | 0 % | libre |
+| [`MAYOERU_001.json`](trad/negociations/MAYOERU_001.json) | 100 | 100 | 100 % | terminé |
+| [`MAYOERU_002.json`](trad/negociations/MAYOERU_002.json) | 100 | 100 | 100 % | terminé |
+| [`MAYOERU_003.json`](trad/negociations/MAYOERU_003.json) | 39 | 39 | 100 % | terminé |
 | [`POLUTAR_001.json`](trad/negociations/POLUTAR_001.json) | 100 | 0 | 0 % | libre |
 | [`POLUTAR_002.json`](trad/negociations/POLUTAR_002.json) | 100 | 0 | 0 % | libre |
 | [`POLUTAR_003.json`](trad/negociations/POLUTAR_003.json) | 100 | 0 | 0 % | libre |
