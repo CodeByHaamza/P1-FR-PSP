@@ -3,12 +3,12 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Dialogues      ████████████░░░░░░░░░░░░   51 %    4 365 / 8 572 textes
+Dialogues      ████████████░░░░░░░░░░░░   51 %    4 375 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
-Négociations   ████░░░░░░░░░░░░░░░░░░░░   17 %    2 102 / 12 487 textes
+Négociations   ████░░░░░░░░░░░░░░░░░░░░   17 %    2 130 / 12 487 textes
 
-Total          █████████░░░░░░░░░░░░░░░   40 %    9 553 / 24 145 textes
+Total          ██████████░░░░░░░░░░░░░░   40 %    9 591 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -135,7 +135,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_032.json`](trad/dialogues/E0_032.json) | 100 | 11 | 11 % | commencé |
 | [`E0_033.json`](trad/dialogues/E0_033.json) | 74 | 74 | 100 % | terminé |
 | [`E0_034.json`](trad/dialogues/E0_034.json) | 70 | 1 | 1 % | commencé |
-| [`E0_035.json`](trad/dialogues/E0_035.json) | 57 | 0 | 0 % | en cours par @DiCEO0 (#39) |
+| [`E0_035.json`](trad/dialogues/E0_035.json) | 57 | 10 | 18 % | commencé par @DiCEO0 |
 | [`E0_036.json`](trad/dialogues/E0_036.json) | 53 | 5 | 9 % | commencé |
 | [`E0_037.json`](trad/dialogues/E0_037.json) | 99 | 4 | 4 % | commencé |
 | [`E0_038.json`](trad/dialogues/E0_038.json) | 79 | 1 | 1 % | commencé |
@@ -359,7 +359,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`SYOUJO_004.json`](trad/negociations/SYOUJO_004.json) | 100 | 0 | 0 % | libre |
 | [`SYOUJO_005.json`](trad/negociations/SYOUJO_005.json) | 100 | 0 | 0 % | libre |
 | [`SYOUJO_006.json`](trad/negociations/SYOUJO_006.json) | 100 | 0 | 0 % | libre |
-| [`SYOUJO_007.json`](trad/negociations/SYOUJO_007.json) | 9 | 0 | 0 % | libre |
+| [`SYOUJO_007.json`](trad/negociations/SYOUJO_007.json) | 9 | 9 | 100 % | terminé par @Uolil-Raccoon |
 | [`TENSI_001.json`](trad/negociations/TENSI_001.json) | 100 | 100 | 100 % | terminé |
 | [`TENSI_002.json`](trad/negociations/TENSI_002.json) | 100 | 100 | 100 % | terminé |
 | [`TENSI_003.json`](trad/negociations/TENSI_003.json) | 100 | 100 | 100 % | terminé |
@@ -372,7 +372,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`TOILET_001.json`](trad/negociations/TOILET_001.json) | 100 | 0 | 0 % | libre |
 | [`TOILET_002.json`](trad/negociations/TOILET_002.json) | 100 | 0 | 0 % | libre |
 | [`TOILET_003.json`](trad/negociations/TOILET_003.json) | 100 | 0 | 0 % | libre |
-| [`TOILET_004.json`](trad/negociations/TOILET_004.json) | 19 | 0 | 0 % | en cours par @Uolil-Raccoon (#37) |
+| [`TOILET_004.json`](trad/negociations/TOILET_004.json) | 19 | 19 | 100 % | terminé par @Uolil-Raccoon |
 | [`WORM_001.json`](trad/negociations/WORM_001.json) | 100 | 0 | 0 % | libre |
 | [`WORM_002.json`](trad/negociations/WORM_002.json) | 100 | 0 | 0 % | libre |
 | [`WORM_003.json`](trad/negociations/WORM_003.json) | 100 | 0 | 0 % | libre |
