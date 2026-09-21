@@ -4,49 +4,49 @@
     "locuteur": "Mark",
     "en": "Yo Reiji! You still alive!?{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Hé Reiji! T'es toujours en vie!?{ATTENTE}",
+    "fr": "Hé Reiji! T'es toujours en vie!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0001",
     "locuteur": "Reiji",
     "en": "Ngh... Where is he...?{ATTENTE}",
     "locuteur_fr": "Reiji",
-    "fr": "Ngh...Où il est...?{ATTENTE]",
+    "fr": "Ngh... Où il est...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0002",
     "locuteur": "Mark",
     "en": "You dummy... We told you, you couldn't{SAUT}do it alone. He went back to our world.{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Imbécile... Nous te l'avions dit, tu ne pouvais pas{SAUT}le faire seul. Il est reparti chez nous.{SAUT}",
+    "fr": "Idiot... On te l'avait dit, t'y arrives{SAUT}pas seul. Il est reparti chez nous.{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0003",
     "locuteur": "Reiji",
     "en": "Then what are you waiting for!?{SAUT}Hurry after him!{ATTENTE}",
     "locuteur_fr": "Reiji",
-    "fr": "Alors qu'est ce que t'attend!?{SAUT}Dépêche toi de le ratrapper!{ATTENTE}",
+    "fr": "Alors qu'est-ce que t'attends!?{SAUT}Dépêche-toi de le rattraper!{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0004",
     "locuteur": "Elly",
     "en": "But how...? We haven't any means of{SAUT}returning to our world!{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Mais comment...? Nous n'avons aucun moyens de{SAUT} retourner chez nous!{ATTENTE}",
+    "fr": "Mais comment...? Nous n'avons aucun{SAUT}moyen de retourner chez nous!{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0005",
     "locuteur": "Brown",
     "en": "We can't! How the hell do we beat a{SAUT}guy with that kind of power?{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "On peut pas! Comment diable on bat un{SAUT}mec aussi puissant?{ATTENTE]",
+    "fr": "On peut pas! Comment on bat un{SAUT}mec aussi puissant, bon sang?{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0006",
     "locuteur": "Brown",
     "en": "Never mind that, how do we even get{SAUT}back to our world!?{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "Oublie ça, Comment peut-on même rentrer{SAUT}chez nous!?{ATTENTE}",
+    "fr": "Laisse tomber, comment on fait{SAUT}déjà pour rentrer chez nous!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0007",
@@ -316,7 +316,7 @@
     "locuteur": "Reiji",
     "en": "I'm Reiji Kido, dammit!{ATTENTE}",
     "locuteur_fr": "Reiji",
-    "fr": "Je suis Reiji Kido, bordel!{ATTENTE}",
+    "fr": "Je suis Reiji Kido, bon sang!{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0049",
