@@ -333,6 +333,14 @@ module CheckTrad
   rescue JSON::ParserError => e
     reste = e.message[/at '(.*)\z/m, 1].to_s
     ligne = [source.lines.count - reste.lines.count + 1, 1].max
+    # Quand l'accroc est dans le premier objet, Ruby recopie tout le document
+    # et la ligne calculée vaut 1, ce qui n'aide personne. On cherche alors
+    # soi-même le coupable le plus fréquent : une virgule juste avant `}`.
+    if ligne == 1 && (pos = source =~ /,\s*
+\s*[}\]]/)
+      ligne = source[0..pos].count("
+") + 1
+    end
     "[JSON] fichier illisible vers la ligne #{ligne} — une virgule, un guillemet ou "       'un caractère en trop ou en moins, souvent sur la ligne juste avant'
   end
 
