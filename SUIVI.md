@@ -6,9 +6,9 @@
 Dialogues      ████████████░░░░░░░░░░░░   51 %    4 375 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
-Négociations   █████░░░░░░░░░░░░░░░░░░░   21 %    2 583 / 12 487 textes
+Négociations   ██████░░░░░░░░░░░░░░░░░░   23 %    2 907 / 12 487 textes
 
-Total          ██████████░░░░░░░░░░░░░░   42 %   10 044 / 24 145 textes
+Total          ██████████░░░░░░░░░░░░░░   43 %   10 368 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -273,10 +273,10 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`DOPPEL_001.json`](trad/negociations/DOPPEL_001.json) | 100 | 100 | 100 % | terminé |
 | [`DOPPEL_002.json`](trad/negociations/DOPPEL_002.json) | 100 | 100 | 100 % | terminé |
 | [`DOPPEL_003.json`](trad/negociations/DOPPEL_003.json) | 14 | 14 | 100 % | terminé |
-| [`ETC_001.json`](trad/negociations/ETC_001.json) | 100 | 0 | 0 % | libre |
-| [`ETC_002.json`](trad/negociations/ETC_002.json) | 100 | 0 | 0 % | libre |
-| [`ETC_003.json`](trad/negociations/ETC_003.json) | 100 | 0 | 0 % | libre |
-| [`ETC_004.json`](trad/negociations/ETC_004.json) | 24 | 0 | 0 % | libre |
+| [`ETC_001.json`](trad/negociations/ETC_001.json) | 100 | 100 | 100 % | terminé |
+| [`ETC_002.json`](trad/negociations/ETC_002.json) | 100 | 100 | 100 % | terminé |
+| [`ETC_003.json`](trad/negociations/ETC_003.json) | 100 | 100 | 100 % | terminé |
+| [`ETC_004.json`](trad/negociations/ETC_004.json) | 24 | 24 | 100 % | terminé |
 | [`GAKI_001.json`](trad/negociations/GAKI_001.json) | 100 | 100 | 100 % | terminé |
 | [`GAKI_002.json`](trad/negociations/GAKI_002.json) | 100 | 100 | 100 % | terminé |
 | [`GAKI_003.json`](trad/negociations/GAKI_003.json) | 28 | 28 | 100 % | terminé |
