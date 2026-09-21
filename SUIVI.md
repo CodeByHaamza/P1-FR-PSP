@@ -397,5 +397,5 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`ZOMBIKO_001.json`](trad/negociations/ZOMBIKO_001.json) | 100 | 0 | 0 % | libre |
 | [`ZOMBIKO_002.json`](trad/negociations/ZOMBIKO_002.json) | 90 | 0 | 0 % | libre |
 | [`ZOMB_MAN_001.json`](trad/negociations/ZOMB_MAN_001.json) | 100 | 0 | 0 % | libre |
-| [`ZOMB_MAN_002.json`](trad/negociations/ZOMB_MAN_002.json) | 82 | 0 | 0 % | libre |
+| [`ZOMB_MAN_002.json`](trad/negociations/ZOMB_MAN_002.json) | 82 | 0 | 0 % | en cours par @vikmorp (#36) |
 
