@@ -4,351 +4,351 @@
     "locuteur": "Mark",
     "en": "Huh? After all that bitching, you{SAUT}decided to show up anyway?{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": ""
+    "fr": "Hein? Après avoir tant râlé, t'as{SAUT}quand même décidé de venir?{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0001",
     "locuteur": "Reiji",
     "en": "Heheh...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Héhéh...{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0002",
     "locuteur": "Nanjo",
     "en": "What in the... You're behaving rather{SAUT}strangely today.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Mais que... Vous vous comportez{SAUT}bien étrangement aujourd'hui.{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0003",
     "locuteur": "Reiji",
     "en": "Masao... They tell me you hate heights.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Masao... On dit que tu crains le vide.{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0004",
     "locuteur": "Mark",
     "en": "Wh-Who told you that!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Q-Qui t'a dit ça!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0005",
     "locuteur": "Reiji",
     "en": "Hidehiko was telling anyone who'd listen.{SAUT}Something about this being the last...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Hidehiko le criait sur tous les toits.{SAUT}Un truc comme quoi c'était la fin...{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0006",
     "locuteur": "Reiji",
     "en": "I came to get a good look at you,{SAUT}screaming in terror.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Je suis venu bien te regarder{SAUT}hurler de terreur.{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0007",
     "locuteur": "Nanjo",
     "en": "Indeed? That does sound like something{SAUT}worth witnessing...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "En effet? Voilà qui mériterait{SAUT}assurément d'être vu...{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0008",
     "locuteur": "Nanjo",
     "en": "I believe I'll stay around to observe{SAUT}as well.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Je crois que je vais rester{SAUT}observer, moi aussi.{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0009",
     "locuteur": "Mark",
     "en": "That dick! He's always doing stuff{SAUT}like this!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Cet abruti! Il fait toujours{SAUT}des coups comme ça!{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0010",
     "locuteur": "Mark",
     "en": "What're you laughing about!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Qu'est-ce qui te fait marrer!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0011",
     "locuteur": "Mark",
     "en": "Look, there's no way I'm going!{SAUT}Forget it!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Écoute, pas question que j'y aille!{SAUT}Laisse tomber!{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0012",
     "locuteur": "Maki",
     "en": "Sorry to keep you waiting! Huh...?{SAUT}What's wrong, guys?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Maki",
+    "fr": "Désolée de l'attente! Hein...?{SAUT}Qu'est-ce qui va pas, les amis?{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:217:0013",
     "locuteur": "Nanjo",
     "en": "Ah, Maki, (*APELLIDO_HEROE*).{SAUT}Perfect timing.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Ah, Maki, (*APELLIDO_HEROE*).{SAUT}Vous tombez à pic.{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0014",
     "locuteur": "Nanjo",
     "en": "It seems Masao's cancelling today's{SAUT}plans. Such a pity...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Il paraît que Masao annule tout{SAUT}pour aujourd'hui. Quel dommage...{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0015",
     "locuteur": "Maki",
     "en": "Huh!? How come? I was really looking{SAUT}forward to it...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Hein!? Pourquoi ça? Je m'en faisais{SAUT}une telle joie...{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0016",
     "locuteur": "Mark",
     "en": "Nanjo, you evil...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Nanjo, sale fourbe...!{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0017",
     "locuteur": "Reiji",
     "en": "Heh heh heh...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Héhéhé...{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0018",
     "locuteur": "Maki",
     "en": "Is he telling the truth, Masao?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "C'est vrai, ce qu'il dit, Masao?{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0019",
     "locuteur": "Mark",
     "en": "N-No way... Um... I'm... I'm goin'.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "N-Non... Euh... Je... Je viens.{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0020",
     "locuteur": "Maki",
     "en": "Yay! Chisato and the others are waiting{SAUT}outside! C'mon, everyone, let's go!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Youpi! Chisato et les autres attendent{SAUT}dehors! Allez, on y va, tout le monde!{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0021",
     "locuteur": "Mark",
     "en": "Nanjo... Reiji...! You guys are gonna{SAUT}pay for this!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Nanjo... Reiji...! Vous allez me le{SAUT}payer, tous les deux!{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0022",
     "locuteur": "Reiji",
     "en": "Heh... Looking at Maki now, what{SAUT}happened before is like a bad dream.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Heh... À voir Maki maintenant,{SAUT}ce qui s'est passé semble un cauchemar.{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0024",
     "locuteur": "Reiji",
     "en": "Don't tell me you're still thinking{SAUT}about all that.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Me dis pas que tu penses encore{SAUT}à tout ça.{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0026",
     "locuteur": "Nanjo",
     "en": "Well then, (*APELLIDO_HEROE*), shall we go?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Nanjo",
+    "fr": "Eh bien, (*APELLIDO_HEROE*), y allons-nous?{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:217:0027",
     "locuteur": "Reiji",
     "en": "Hey, what did you mean by that?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Hé, tu voulais dire quoi, là?{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0028",
     "locuteur": "Maki's voice",
     "en": "Hurry up, (*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de Maki",
+    "fr": "Dépêche-toi, (*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0029",
     "locuteur": "Mark",
     "en": "Hey, looks like Mr. Smellypants{SAUT}is here.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Tiens, voilà Monsieur Pue-du-slip{SAUT}qui débarque.{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0030",
     "locuteur": "Brown",
     "en": "Heheh... Laugh it up, chump. Today's{SAUT}the last day you get to call me that!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Héhéh... Rigole bien, pauvre naze. C'est{SAUT}le dernier jour où tu m'appelles ça!{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0031",
     "locuteur": "Brown",
     "en": "You're not too fond of heights, are you,{SAUT}Massy? Or should I say, Mr. Dampcrotch?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "T'aimes pas trop les hauteurs, hein,{SAUT}Massy? Ou plutôt Monsieur Pipi-Culotte?{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0032",
     "locuteur": "Mark",
     "en": "What the--Who told you that, you{SAUT}bastard!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Mais qu'est-ce que--Qui t'a dit ça,{SAUT}espèce d'enflure!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0033",
     "locuteur": "Brown",
     "en": "Mwahaha... Your mom gave me every last{SAUT}detail!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Mwahaha... Ta mère m'a tout raconté{SAUT}dans les moindres détails!{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0034",
     "locuteur": "Brown",
     "en": "My, my, how shameful for a sixth-{SAUT}grader...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Oh là là, quelle honte pour un{SAUT}élève de sixième...{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0035",
     "locuteur": "Mark",
     "en": "That stupid cow!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Cette pipelette, sérieux!{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0036",
     "locuteur": "Mark",
     "en": "Can it, okay? It's better than crapping{SAUT}your pants in junior high!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "La ferme, OK? C'est mieux que de{SAUT}te faire dessus au collège!{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0037",
     "locuteur": "Brown",
     "en": "Well technically, sixth grade's part{SAUT}of junior high, too... Heheheh.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Techniquement, la sixième, c'est déjà{SAUT}le collège aussi... Héhéhé.{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0038",
     "locuteur": "Brown",
     "en": "I'm gonna get a good look at a return{SAUT}performance by Mr. Dampcrotch today!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Je vais me régaler du grand retour{SAUT}de Monsieur Pipi-Culotte, aujourd'hui!{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0039",
     "locuteur": "Nanjo",
     "en": "Those nitwits... Where do they think{SAUT}they are!? Ugh, they give me a headache.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Ces écervelés... Ils se croient où,{SAUT}au juste!? Ils me donnent la migraine.{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0041",
     "locuteur": "Brown",
     "en": "(*APODO_HEROE*)! Maki! Perfect timing.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "(*APODO_HEROE*)! Maki! Pile au bon moment!{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0042",
     "locuteur": "Brown",
     "en": "Mark here wanted to tell you how{SAUT}excited he is to ride the freefall!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Mark ici présent voulait vous dire{SAUT}son impatience de faire la chute libre!{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0043",
     "locuteur": "Maki",
     "en": "Ooh, really? Then let's get going!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Oh, c'est vrai? Alors allons-y!{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0044",
     "locuteur": "Mark",
     "en": "Hidehiko, you dick...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Hidehiko, sale traître...!{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0045",
     "locuteur": "Brown",
     "en": "Heeheehee...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Hihihi...{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0046",
     "locuteur": "Maki",
     "en": "What's wrong? C'mon, let's go! Chisato{SAUT}and the others are waiting outside!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Qu'est-ce qu'il y a? Allez, on y va!{SAUT}Chisato et les autres attendent dehors!{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0047",
     "locuteur": "Mark",
     "en": "Hidehiko...! I'll get you!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Hidehiko...! Je t'aurai!{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0048",
     "locuteur": "Brown",
     "en": "Man, I can't wait to see this.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Ah, j'ai trop hâte de voir ça.{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0049",
     "locuteur": "Brown",
     "en": "But check out Maki... Makes the stuff{SAUT}that happened seem like a bad dream.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Mais regarde Maki... Ça fait passer{SAUT}ce qui s'est passé pour un cauchemar.{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0051",
     "locuteur": "Brown",
     "en": "Sorry, what?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Pardon, quoi?{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0052",
     "locuteur": "Brown",
     "en": "Man, you're bringing that up now?{SAUT}Cruel as ever, huh...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Ah, tu remets ça sur le tapis{SAUT}maintenant? Cruel comme toujours...{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0055",
     "locuteur": "Brown",
     "en": "Huh? What's that supposed to mean?{SAUT}Hey, wait up!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Hein? Qu'est-ce que ça veut dire?{SAUT}Hé, attends-moi!{ATTENTE}"
   }
 ]
