@@ -296,7 +296,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`KEMONO_008.json`](trad/negociations/KEMONO_008.json) | 100 | 0 | 0 % | libre |
 | [`KEMONO_009.json`](trad/negociations/KEMONO_009.json) | 100 | 0 | 0 % | libre |
 | [`KEMONO_010.json`](trad/negociations/KEMONO_010.json) | 69 | 0 | 0 % | libre |
-| [`KOKURI_001.json`](trad/negociations/KOKURI_001.json) | 96 | 0 | 0 % | libre |
+| [`KOKURI_001.json`](trad/negociations/KOKURI_001.json) | 96 | 0 | 0 % | en cours par @ATMC14 (#34) |
 | [`KOROU_001.json`](trad/negociations/KOROU_001.json) | 100 | 0 | 0 % | libre |
 | [`KOROU_002.json`](trad/negociations/KOROU_002.json) | 100 | 0 | 0 % | libre |
 | [`KOROU_003.json`](trad/negociations/KOROU_003.json) | 100 | 0 | 0 % | libre |
