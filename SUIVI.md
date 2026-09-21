@@ -6,9 +6,9 @@
 Dialogues      ████████████░░░░░░░░░░░░   51 %    4 365 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
-Négociations   ████░░░░░░░░░░░░░░░░░░░░   17 %    2 073 / 12 487 textes
+Négociations   ████░░░░░░░░░░░░░░░░░░░░   17 %    2 102 / 12 487 textes
 
-Total          █████████░░░░░░░░░░░░░░░   39 %    9 524 / 24 145 textes
+Total          █████████░░░░░░░░░░░░░░░   40 %    9 553 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -359,7 +359,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`SYOUJO_004.json`](trad/negociations/SYOUJO_004.json) | 100 | 0 | 0 % | libre |
 | [`SYOUJO_005.json`](trad/negociations/SYOUJO_005.json) | 100 | 0 | 0 % | libre |
 | [`SYOUJO_006.json`](trad/negociations/SYOUJO_006.json) | 100 | 0 | 0 % | libre |
-| [`SYOUJO_007.json`](trad/negociations/SYOUJO_007.json) | 9 | 0 | 0 % | en cours par @Uolil-Raccoon (#38) |
+| [`SYOUJO_007.json`](trad/negociations/SYOUJO_007.json) | 9 | 0 | 0 % | libre |
 | [`TENSI_001.json`](trad/negociations/TENSI_001.json) | 100 | 100 | 100 % | terminé |
 | [`TENSI_002.json`](trad/negociations/TENSI_002.json) | 100 | 100 | 100 % | terminé |
 | [`TENSI_003.json`](trad/negociations/TENSI_003.json) | 100 | 100 | 100 % | terminé |
@@ -398,5 +398,5 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`ZOMBIKO_001.json`](trad/negociations/ZOMBIKO_001.json) | 100 | 0 | 0 % | libre |
 | [`ZOMBIKO_002.json`](trad/negociations/ZOMBIKO_002.json) | 90 | 0 | 0 % | libre |
 | [`ZOMB_MAN_001.json`](trad/negociations/ZOMB_MAN_001.json) | 100 | 0 | 0 % | libre |
-| [`ZOMB_MAN_002.json`](trad/negociations/ZOMB_MAN_002.json) | 82 | 0 | 0 % | en cours par @vikmorp (#36) |
+| [`ZOMB_MAN_002.json`](trad/negociations/ZOMB_MAN_002.json) | 82 | 29 | 35 % | commencé par @vikmorp |
 
