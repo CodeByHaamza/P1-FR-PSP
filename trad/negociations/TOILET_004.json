@@ -2,12 +2,12 @@
   {
     "id": "TOILET.BIN:text:0563",
     "en": " Huh... I envy your self-confidence...(*RESPONSE*)",
-    "fr": "Oh... J'envie ton assurance...(*RESPONSE*)",
+    "fr": "Oh... J'envie ton assurance...(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0564",
     "en": "  Hey! You're forgetting to add \"totally\"!(*RESPONSE*)",
-    "fr": "He! Tu oublies d'ajouter \"complétement\"!(*RESPONSE*)"
+    "fr": "Hé! Tu oublies d'ajouter \"complètement\"!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0565",
@@ -22,12 +22,12 @@
   {
     "id": "TOILET.BIN:text:0567",
     "en": "  ...Things aren't getting any livelier...(*RESPONSE*)",
-    "fr": "...Les choses ne sont plus aussi stimulantes...(*RESPONSE*)"
+    "fr": "...C'est pas plus animé pour autant...(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0568",
     "en": "   I don't really get it... but I'm scared!{SAUT}W-Waaaaaah!(*RESPONSE*)",
-    "fr": "Je ne comprends pas tout... mais j'ai peur!{SAUT}A-Aaaaaaah!(*RESPONSE*)",
+    "fr": "Je comprends pas tout... mais j'ai peur!{SAUT}A-Aaaaaaah!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -88,7 +88,7 @@
   {
     "id": "TOILET.BIN:resp:0243",
     "en": "Wanna talk, then?(*RESPONSE*)  ",
-    "fr": "Alors, ça te dit de papoter?(*RESPONSE*)",
+    "fr": "Alors, on discute?(*RESPONSE*)",
     "_occurrences": 3
   },
   {
