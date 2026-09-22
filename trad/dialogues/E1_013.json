@@ -3,120 +3,120 @@
     "id": "E1.BIN:073:0000",
     "locuteur": "Yukino",
     "en": "Wh-What the!? Are we... in space!?{SAUT}What the hell is this!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Qu-Que'est-ce que!? On est... dans l'espace!?{SAUT}C'est quoi ce délire!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0001",
     "locuteur": "Yukino",
     "en": "Huh...? Who're you!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Oh...? Qui es-tu!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0002",
     "locuteur": "Glasses-wearing schoolgirl",
     "en": "Um... hello.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Écolière à lunettes",
+    "fr": "Euh... salut.{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0003",
     "locuteur": "Glasses-wearing schoolgirl",
     "en": "I'm Kumi Hirose. The Snow Queen entrusted{SAUT}me with guarding this tower.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Écolière à lunettes",
+    "fr": "Je suis Kumi Hirose. La Reine des Neiges{SAUT}m'a confié la garde de cette tour.{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0004",
     "locuteur": "Kumi",
     "en": "I've, um... been ordered to kill you{SAUT}all, but...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "On m'a, euh... ordonné de tous vous tuer,{SAUT}mais...{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0005",
     "locuteur": "Kumi",
     "en": "To be honest, I'd rather not.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "J'avoue que j'aimerais éviter.{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0006",
     "locuteur": "Kumi",
     "en": "So why don't you surrender? That way,{SAUT}we can live happily in the Dream World.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "Alors, pourquoi ne pas vous rendre?{SAUT}On pourrait vivre heureux dans le Monde des Rêves.{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0007",
     "locuteur": "Kumi",
     "en": "That way... at least I can spare{SAUT}your life.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "Je pourrais... au moins{SAUT}vous épargner.{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0008",
     "locuteur": "Nanjo",
     "en": "Kumi Hirose...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Kumi Hirose...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0009",
     "locuteur": "Nanjo",
     "en": "A girl like you is this tower's guardian?{SAUT}Enough mockery!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Une fille comme vous, gardienne de la tour?{SAUT}Trêve de plaisanterie!{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0010",
     "locuteur": "Nanjo",
     "en": "You wear our school's uniform, I see..{SAUT}What grade are you in?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Vous portez l'uniforme de notre école...{SAUT}Quelle est votre classe?{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0011",
     "locuteur": "Nanjo",
     "en": "If you're trying to play a prank on us,{SAUT}you've chosen a singularly bad time!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Si vous cherchez à nous piéger,{SAUT}vous avez vraiment choisi le mauvais moment!{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0012",
     "locuteur": "Nanjo",
     "en": "What are you doing here!? Answer me!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Que faites-vous ici!? Répondez!{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0013",
     "locuteur": "Brown",
     "en": "Hey, wait a sec. You're a St. Hermelin{SAUT}girl, I can tell by the uniform.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Hé, attends. T'es à St. Hermelin{SAUT}, ça se voit à ton uniforme.{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0014",
     "locuteur": "Brown",
     "en": "So a cutie like you is the boss here?{SAUT}Haha, gimme a break! Dream on...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Brown",
     "fr": ""
   },
   {
     "id": "E1.BIN:073:0015",
     "locuteur": "Ayase",
     "en": "What, you think we're dumb or something!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Quoi, tu nous prends pour des idiots!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0016",
     "locuteur": "Ayase",
     "en": "How can a scrawny, depressed-looking,{SAUT}four-eyes like you be a boss!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Comment une fille aussi chétive, à l'air{SAUT}déprimé, bigleuse que toi peut être"
   },
   {
     "id": "E1.BIN:073:0017",
