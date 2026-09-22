@@ -369,7 +369,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`TINPRA_001.json`](trad/negociations/TINPRA_001.json) | 100 | 0 | 0 % | libre |
 | [`TINPRA_002.json`](trad/negociations/TINPRA_002.json) | 100 | 0 | 0 % | libre |
 | [`TINPRA_003.json`](trad/negociations/TINPRA_003.json) | 69 | 0 | 0 % | libre |
-| [`TOILET_001.json`](trad/negociations/TOILET_001.json) | 100 | 0 | 0 % | libre |
+| [`TOILET_001.json`](trad/negociations/TOILET_001.json) | 100 | 0 | 0 % | en cours par @Uolil-Raccoon (#44) |
 | [`TOILET_002.json`](trad/negociations/TOILET_002.json) | 100 | 0 | 0 % | libre |
 | [`TOILET_003.json`](trad/negociations/TOILET_003.json) | 100 | 0 | 0 % | libre |
 | [`TOILET_004.json`](trad/negociations/TOILET_004.json) | 19 | 19 | 100 % | terminé par @Uolil-Raccoon |
