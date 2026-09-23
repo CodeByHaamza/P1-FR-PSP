@@ -3,12 +3,12 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Dialogues      █████████████░░░░░░░░░░░   52 %    4 495 / 8 572 textes
+Dialogues      █████████████░░░░░░░░░░░   53 %    4 514 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
 Négociations   ██████░░░░░░░░░░░░░░░░░░   26 %    3 204 / 12 487 textes
 
-Total          ███████████░░░░░░░░░░░░░   45 %   10 785 / 24 145 textes
+Total          ███████████░░░░░░░░░░░░░   45 %   10 804 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -41,6 +41,7 @@ Ces lignes sont plus larges que l'anglaise et approchent de la limite de la boî
 - [`E0_044.json`](trad/dialogues/E0_044.json) — 2 lignes
 - [`E1_001.json`](trad/dialogues/E1_001.json) — 3 lignes
 - [`E1_002.json`](trad/dialogues/E1_002.json) — 1 ligne
+- [`E1_008.json`](trad/dialogues/E1_008.json) — 1 ligne
 - [`E1_009.json`](trad/dialogues/E1_009.json) — 2 lignes
 - [`E1_013.json`](trad/dialogues/E1_013.json) — 3 lignes
 - [`E1_026.json`](trad/dialogues/E1_026.json) — 5 lignes
@@ -159,7 +160,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E1_005.json`](trad/dialogues/E1_005.json) | 81 | 1 | 1 % | commencé |
 | [`E1_006.json`](trad/dialogues/E1_006.json) | 77 | 37 | 48 % | commencé · 1 terme |
 | [`E1_007.json`](trad/dialogues/E1_007.json) | 97 | 1 | 1 % | commencé |
-| [`E1_008.json`](trad/dialogues/E1_008.json) | 74 | 0 | 0 % | en cours par @vikmorp (#51) |
+| [`E1_008.json`](trad/dialogues/E1_008.json) | 74 | 19 | 26 % | commencé par @vikmorp · 1 trop large |
 | [`E1_009.json`](trad/dialogues/E1_009.json) | 75 | 27 | 36 % | commencé · 2 trop large |
 | [`E1_010.json`](trad/dialogues/E1_010.json) | 63 | 63 | 100 % | terminé |
 | [`E1_011.json`](trad/dialogues/E1_011.json) | 87 | 87 | 100 % | terminé |
