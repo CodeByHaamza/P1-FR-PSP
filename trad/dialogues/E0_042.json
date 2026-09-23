@@ -18,7 +18,7 @@
     "locuteur": "Mark",
     "en": "I get it... The compact brought{SAUT}us here...{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Je comprends... Le contrat nous a{SAUT}amenés ici...{ATTENTE}"
+    "fr": "Je pige... C'est le poudrier qui{SAUT}nous a amenés ici...{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0003",
@@ -53,14 +53,14 @@
     "locuteur": "Brown",
     "en": "Hey, it worked! Isn't this the forest{SAUT}where that little Maki was!?{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "Hey, ça a marché! N'est-ce pas la forêt{SAUT}où la petite Maki était!?{ATTENTE}"
+    "fr": "Hé, ça a marché! C'est pas la forêt{SAUT}de la petite Maki, ça!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0008",
     "locuteur": "Ayase",
     "en": "Wow, talk about luck! Isn't this that{SAUT}little Maki's forest!?{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "Wow, si ça c'est pas de la chance! C'est{SAUT}pas la forêt de la petite Maki!?{ATTENTE}"
+    "fr": "Wow, quelle chance! C'est pas la{SAUT}forêt de la petite Maki, ça!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0009",
@@ -88,14 +88,14 @@
     "locuteur": "Setsuko Sonomura",
     "en": "After I transported you all, I thought{SAUT}I heard Maki's voice again...{ATTENTE}",
     "locuteur_fr": "Setsuko Sonomura",
-    "fr": "Après que je vous ai tous transportés, j'ai{SAUT}cru entendre la voix de Maki...{ATTENTE}"
+    "fr": "Après vous avoir transportés, j'ai{SAUT}cru entendre la voix de Maki...{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0013",
     "locuteur": "Setsuko Sonomura",
     "en": "And when I came to, I was here...{SAUT}But why have you all come back?{ATTENTE}",
     "locuteur_fr": "Setsuko Sonomura",
-    "fr": "Et quand j'ai repris connaissance, j'étais{SAUT}ici... Mais pourquoi êtes-vous revenus?{ATTENTE}"
+    "fr": "Et j'ai repris connaissance ici...{SAUT}Mais pourquoi êtes-vous revenus?{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0014",
