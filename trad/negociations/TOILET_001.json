@@ -233,7 +233,7 @@
   {
     "id": "TOILET.BIN:text:0055",
     "en": "   W-Waaaaah! I'm scared...[FFFD][27FF][F500] Say what you want, but you've got one{SAUT}nasty personality, mister...(*RESPONSE*)",
-    "fr": "A-Aaaaaah! J'ai peur...[FFFD][27FF][F500] Quoi que tu dises, tu as vraiment un vilain caractère, monsieur...(*RESPONSE*)"
+    "fr": "A-Aaaaaah! J'ai peur...[FFFD][27FF][F500] Quoi que tu dises, tu as vraiment un{SAUT}vilain caractère, monsieur...(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0056",
@@ -248,7 +248,7 @@
   {
     "id": "TOILET.BIN:text:0058",
     "en": "  Hee hee! You're smart too, aren't you,{SAUT}mister!?[FFFD][2AFF][F500]  Hmm... Not bad at all!(*RESPONSE*)",
-    "fr": "Hihi! Toi aussi tu es intelligent,{SAUT}n'est-ce pas, monsieur!?[FFFD][2AFF][F500] Hmm... Pas mal du tout!(*RESPONSE*)"
+    "fr": "Hihi! Toi aussi tu es intelligent,pas{SAUT}vrai monsieur!?[FFFD][2AFF][F500] Hmm... Pas mal du tout!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0059",
@@ -283,7 +283,7 @@
   {
     "id": "TOILET.BIN:text:0065",
     "en": "What is it? Are you THAT curious about{SAUT}my toilet?[FFFD][31FF][F500]What...? What's wrong with me being in{SAUT}a toilet? You got a problem with that!?(*RESPONSE*)",
-    "fr": "Qu'est-ce que c'est? Ma cuvette t'intrigue{SAUT}À CE POINT?[FFFD][31FF][F500]Quoi...? Est-ce un souci{SAUT}d'être dans un siège de WC? Ça te pose un problème?"
+    "fr": "Qu'est-ce que c'est? Ma cuvette t'intrigue{SAUT}À CE POINT?[FFFD][31FF][F500]Quoi...? Est-ce un souci d'être dans un{SAUT}siège de WC? Ça te pose un problème?'*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0066",
@@ -313,7 +313,7 @@
   {
     "id": "TOILET.BIN:text:0074",
     "en": " W-Waaaaah! I'm not one of those demons{SAUT}who likes stuff like that![FFFD][36FF][F500]You know, my stories are much scarier{SAUT}than that! You wanna hear one?[FFFD][37FF][F500] I wanna go to a spooky place on a dare,{SAUT}too! Do you know anywhere I could do{SAUT}something like that?[FFFD][38FF][F500]Hmm, that was pretty good. You've got{SAUT}talent, miss!(*RESPONSE*)",
-    "fr": "A-Aaaaaah! Je ne suis pas comme ces démons{SAUT}, je n'aime pas ce genre de truc![FFFD][36FF][F500]Mes histoires sont bien plus effrayantes que ça, tu sais! Tu veux en entendre une?[FFFD][37FF][F500] Moi aussi, j'aimerais aller dans un lieu sinistre{SAUT}pour y relever un défi! Tu connais un endroit{SAUT}où je pourrais faire ça?[FFFD][38FF][F500]Hmm, c'était pas mal. Tu as{SAUT}du talent, miss!(*RESPONSE*)"
+    "fr": "A-Aaaaaah! Je ne suis pas comme ces démons{SAUT}, je n'aime pas ce genre de truc![FFFD][36FF][F500]Mes histoires sont bien plus effrayantes{SAUT}que ça, tu sais! Tu veux en entendre une?[FFFD][37FF][F500] Moi aussi, j'aimerais aller dans un lieu sinistre{SAUT}pour y relever un défi! Tu connais un endroit{SAUT}comme ça?[FFFD][38FF][F500]Hmm, c'était pas mal. Tu as{SAUT}du talent, miss!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0077",
@@ -323,7 +323,7 @@
   {
     "id": "TOILET.BIN:text:0078",
     "en": " Huhhh... I'm not that much of a kid,{SAUT}you know.[FFFD][3CFF][F500]   You're the worst! I'm gonna finish{SAUT}you off...!(*RESPONSE*)",
-    "fr": "Ohhh...Je ne suis pas si puérile,{SAUT}tu sais.[FFFD][3CFF][F500] T'es pire que tout! Je vais te liquider!"
+    "fr": "Ohhh...Je ne suis pas si puérile,{SAUT}tu sais.[FFFD][3CFF][F500] T'es pire que tout! Je vais te{SAUT}liquider!"
   },
   {
     "id": "TOILET.BIN:text:0079",
@@ -333,7 +333,7 @@
   {
     "id": "TOILET.BIN:text:0080",
     "en": " Hee hee! This is kinda fun![FFFD][3EFF][F500]  I don't really get what you're saying,{SAUT}miss, but I feel like I'm being invited.(*RESPONSE*)",
-    "fr": "Hihi, c'est plutôt marrant![FFFD][3EFF][F500] Je ne comprends pas tout ce que tu dis,{SAUT}miss, mais j'ai l'impression d'être invitée.(*RESPONSE*)"
+    "fr": "Hihi, c'est plutôt marrant![FFFD][3EFF][F500] Je ne comprends pas tout ce que tu dis, miss,{SAUT}mais j'ai l'impression d'être invitée.(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0082",
@@ -358,7 +358,7 @@
   {
     "id": "TOILET.BIN:text:0086",
     "en": " What a rude human! You don't have any{SAUT}manners at all![FFFD][42FF][F500]W-Waaaaah! Even if I am just a toilet,{SAUT}you're still too mean...(*RESPONSE*)",
-    "fr": "Quelle personne impolie! Tu n'as absolument{SAUT}aucune éducation![FFFD][42FF][F500]A-Aaaaaah! Même si je ne suis qu'un{SAUT}siège de WC, tu restes bien trop méchante...(*RESPONSE*)"
+    "fr": "Quelle personne impolie! Tu n'as absolument{SAUT}aucune éducation![FFFD][42FF][F500]A-Aaaaaah! Malgré mon statut de siège de WC,{SAUT}tu es bien méchante...(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0087",
