@@ -3,12 +3,12 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Dialogues      ████████████░░░░░░░░░░░░   52 %    4 423 / 8 572 textes
+Dialogues      █████████████░░░░░░░░░░░   52 %    4 495 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
 Négociations   ██████░░░░░░░░░░░░░░░░░░   25 %    3 104 / 12 487 textes
 
-Total          ███████████░░░░░░░░░░░░░   44 %   10 613 / 24 145 textes
+Total          ███████████░░░░░░░░░░░░░   44 %   10 685 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -42,6 +42,7 @@ Ces lignes sont plus larges que l'anglaise et approchent de la limite de la boî
 - [`E1_001.json`](trad/dialogues/E1_001.json) — 3 lignes
 - [`E1_002.json`](trad/dialogues/E1_002.json) — 1 ligne
 - [`E1_009.json`](trad/dialogues/E1_009.json) — 2 lignes
+- [`E1_013.json`](trad/dialogues/E1_013.json) — 3 lignes
 - [`E1_026.json`](trad/dialogues/E1_026.json) — 5 lignes
 - [`E1_030.json`](trad/dialogues/E1_030.json) — 3 lignes
 - [`E1_031.json`](trad/dialogues/E1_031.json) — 1 ligne
@@ -143,7 +144,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_038.json`](trad/dialogues/E0_038.json) | 79 | 1 | 1 % | commencé |
 | [`E0_039.json`](trad/dialogues/E0_039.json) | 56 | 1 | 2 % | commencé |
 | [`E0_040.json`](trad/dialogues/E0_040.json) | 89 | 2 | 2 % | commencé |
-| [`E0_041.json`](trad/dialogues/E0_041.json) | 89 | 0 | 0 % | libre |
+| [`E0_041.json`](trad/dialogues/E0_041.json) | 89 | 12 | 13 % | commencé par @Colonel-Maskou |
 | [`E0_042.json`](trad/dialogues/E0_042.json) | 82 | 14 | 17 % | commencé par @s3rei |
 | [`E0_043.json`](trad/dialogues/E0_043.json) | 100 | 43 | 43 % | commencé par @Colonel-Maskou · 1 trop large |
 | [`E0_044.json`](trad/dialogues/E0_044.json) | 100 | 100 | 100 % | terminé · 2 trop large |
@@ -163,7 +164,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E1_010.json`](trad/dialogues/E1_010.json) | 63 | 63 | 100 % | terminé |
 | [`E1_011.json`](trad/dialogues/E1_011.json) | 87 | 87 | 100 % | terminé |
 | [`E1_012.json`](trad/dialogues/E1_012.json) | 83 | 1 | 1 % | commencé |
-| [`E1_013.json`](trad/dialogues/E1_013.json) | 60 | 0 | 0 % | en cours par @Uolil-Raccoon (#49) |
+| [`E1_013.json`](trad/dialogues/E1_013.json) | 60 | 60 | 100 % | terminé par @Uolil-Raccoon · 3 trop large |
 | [`E1_014.json`](trad/dialogues/E1_014.json) | 43 | 43 | 100 % | terminé |
 | [`E1_015.json`](trad/dialogues/E1_015.json) | 65 | 1 | 2 % | commencé |
 | [`E1_016.json`](trad/dialogues/E1_016.json) | 100 | 0 | 0 % | libre |
