@@ -49,6 +49,20 @@ répliques donne une idée du poids de chaque voix.
 | **Reiji** (Reiji Kido) | 179 | fermé, hostile au début. Répliques courtes. |
 | **Le héros** | — | muet. Ses répliques sont des choix du joueur : courtes et neutres. |
 
+### Les démons, eux, ne sont pas des lycéens
+
+Le « jamais vulgaire » du tableau ci-dessus vaut **pour les personnages qu'il
+nomme** — Mark, Brown, les élèves. Les démons des négociations n'y sont pas
+soumis : un zombie, un voyou, des WC fantômes ont le droit d'être crus, et
+l'anglais l'est souvent. « Don't talk crap » dit par un siège de toilettes
+appelle « merde », et le mot fait écho au personnage : le perdre, c'est perdre
+la blague. Quand la crudité est **dans l'anglais et dans le personnage**, on
+la garde.
+
+Ce qui reste interdit partout : les insultes que l'anglais n'a pas, et les
+tours inventés pour gagner des caractères. Une expression doit exister en
+français — « c'est du bidon » oui, « sentir le bidon » non.
+
 > ⚠️ **Ces descriptions de voix demandent validation.** Elles ont été écrites
 > d'après la connaissance générale du jeu, pas d'après une relecture du script
 > complet. Si tu connais le jeu et qu'une ligne te paraît fausse, ouvre une

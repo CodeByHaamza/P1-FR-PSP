@@ -194,7 +194,7 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2A20E4",
     "en": "(Toggles Persona summoning and",
-    "fr": "(Active l'invocation du Persona",
+    "fr": "(Active l'invocation de Persona",
     "max": 30
   },
   {
@@ -351,7 +351,7 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D3F3C",
     "en": "Which Persona would you like?",
-    "fr": "Quel Persona voulez-vous?",
+    "fr": "Quelle Persona voulez-vous?",
     "max": 29
   },
   {
@@ -363,7 +363,7 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D3FD0",
     "en": "Who will take on a Persona?",
-    "fr": "Qui endosse un Persona?",
+    "fr": "Qui endosse une Persona?",
     "max": 27
   },
   {
@@ -555,7 +555,7 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2D8498",
     "en": "The Power of Persona",
-    "fr": "Pouvoir du Persona",
+    "fr": "Pouvoir de Persona",
     "max": 20
   },
   {

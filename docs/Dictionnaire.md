@@ -13,8 +13,8 @@
 
 | Anglais | Français | Statut |
 |---|---|---|
-| Persona | Persona | ✅ |
-| Personas | Personae | ✅ *(cohérent avec P2IS)* |
+| Persona | Persona — **féminin** : *la* Persona, *une* Persona, *ta* Persona | ✅ |
+| Personas | Personae — féminin pluriel : *des Personae neuves* | ✅ *(cohérent avec P2IS)* |
 | Velvet Room | Chambre de Velours / Velours | ✅ *(forme abrégée sur les étiquettes de carte : 18 caractères pour un budget de 10)* |
 | Shadow / Shadows | Ombre / Ombres | ✅ |
 | Demon / Demons | Démon / Démons | ✅ |

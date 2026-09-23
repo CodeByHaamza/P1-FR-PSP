@@ -237,7 +237,7 @@
   {
     "id": "ETC.BIN:text:0055",
     "en": "{PAGE}[FFEE](*SPEAKER*)Pyro Jack{SAUT}Hee-huh? Why are you a Persona, ho?{SAUT}I'm jealous...(*OPTION*)",
-    "fr": "{PAGE}[FFEE](*SPEAKER*)Pyro Jack{SAUT}Hi-hein? T'es un Persona, ho?{SAUT}Je suis jaloux...(*OPTION*)",
+    "fr": "{PAGE}[FFEE](*SPEAKER*)Pyro Jack{SAUT}Hi-hein? T'es une Persona, ho?{SAUT}Je suis jaloux...(*OPTION*)",
     "_occurrences": 2
   },
   {
@@ -249,7 +249,7 @@
   {
     "id": "ETC.BIN:text:0057",
     "en": "{PAGE}(*SPEAKER*)Pyro Jack{SAUT}Then you can become a Persona, ho!!{ATTENTE}",
-    "fr": "{PAGE}(*SPEAKER*)Pyro Jack{SAUT}Comme ça tu deviens un Persona, ho!!{ATTENTE}",
+    "fr": "{PAGE}(*SPEAKER*)Pyro Jack{SAUT}Comme ça tu deviens une Persona, ho!!{ATTENTE}",
     "_occurrences": 4
   },
   {
@@ -306,7 +306,7 @@
   {
     "id": "ETC.BIN:text:0071",
     "en": "{PAGE}[FFEE](*SPEAKER*)Jack Frost{SAUT}Hee-huh? Why are you a Persona, ho?{SAUT}I'm jealous...(*OPTION*)",
-    "fr": "{PAGE}[FFEE](*SPEAKER*)Jack Frost{SAUT}Hi-hein? T'es un Persona, ho?{SAUT}Je suis jaloux...(*OPTION*)",
+    "fr": "{PAGE}[FFEE](*SPEAKER*)Jack Frost{SAUT}Hi-hein? T'es une Persona, ho?{SAUT}Je suis jaloux...(*OPTION*)",
     "_occurrences": 2
   },
   {
@@ -318,7 +318,7 @@
   {
     "id": "ETC.BIN:text:0073",
     "en": "{PAGE}(*SPEAKER*)Jack Frost{SAUT}Then you can become a Persona, ho!!{ATTENTE}",
-    "fr": "{PAGE}(*SPEAKER*)Jack Frost{SAUT}Comme ça tu deviens un Persona, ho!!{ATTENTE}",
+    "fr": "{PAGE}(*SPEAKER*)Jack Frost{SAUT}Comme ça tu deviens une Persona, ho!!{ATTENTE}",
     "_occurrences": 4
   },
   {
@@ -364,7 +364,7 @@
   {
     "id": "ETC.BIN:text:0087",
     "en": "{PAGE}[FFEE](*SPEAKER*)Jack Frost{SAUT}Hee-huh? Why are you a Persona, ho?{SAUT}I'm jealous...(*RESPONSE*)",
-    "fr": "{PAGE}[FFEE](*SPEAKER*)Jack Frost{SAUT}Hi-hein? T'es un Persona, ho?{SAUT}Je suis jaloux...(*RESPONSE*)",
+    "fr": "{PAGE}[FFEE](*SPEAKER*)Jack Frost{SAUT}Hi-hein? T'es une Persona, ho?{SAUT}Je suis jaloux...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -391,7 +391,7 @@
   {
     "id": "ETC.BIN:text:0103",
     "en": "{PAGE}[FFEE](*SPEAKER*)Pyro Jack{SAUT}Hee-huh? Why are you a Persona, ho?{SAUT}I'm jealous...(*RESPONSE*)",
-    "fr": "{PAGE}[FFEE](*SPEAKER*)Pyro Jack{SAUT}Hi-hein? T'es un Persona, ho?{SAUT}Je suis jaloux...(*RESPONSE*)",
+    "fr": "{PAGE}[FFEE](*SPEAKER*)Pyro Jack{SAUT}Hi-hein? T'es une Persona, ho?{SAUT}Je suis jaloux...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -440,7 +440,7 @@
   {
     "id": "ETC.BIN:text:0121",
     "en": "(*SPEAKER*)Pixie{SAUT}They made me into a Persona. Now I go{SAUT}for walks with this human.{ATTENTE}",
-    "fr": "(*SPEAKER*)Pixie{SAUT}On a fait de moi un Persona. Je me{SAUT}balade avec cet humain.{ATTENTE}",
+    "fr": "(*SPEAKER*)Pixie{SAUT}On a fait de moi une Persona. Je me{SAUT}balade avec cet humain.{ATTENTE}",
     "_occurrences": 2
   },
   {

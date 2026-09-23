@@ -68,7 +68,7 @@
     "locuteur": "Igor",
     "en": "A Persona is a side of you that shows{SAUT}itself when you face the world...{ATTENTE}",
     "locuteur_fr": "Igor",
-    "fr": "Un Persona est une part de vous qui{SAUT}paraît face au monde...{ATTENTE}",
+    "fr": "Une Persona est une part de vous{SAUT}qui paraît face au monde...{ATTENTE}",
     "_occurrences": 47
   },
   {
@@ -116,7 +116,7 @@
     "locuteur": "Igor",
     "en": "I will assist you in giving birth to{SAUT}new Personas.{ATTENTE}",
     "locuteur_fr": "Igor",
-    "fr": "Je vous aiderai à enfanter{SAUT}de nouveaux Personae.{ATTENTE}",
+    "fr": "Je vous aiderai à enfanter{SAUT}de nouvelles Personae.{ATTENTE}",
     "_occurrences": 47
   },
   {
@@ -132,7 +132,7 @@
     "locuteur": "Igor",
     "en": "Thereby creating a new Persona.{ATTENTE}",
     "locuteur_fr": "Igor",
-    "fr": "Ainsi naît un Persona nouveau.{ATTENTE}",
+    "fr": "Ainsi naît une Persona nouvelle.{ATTENTE}",
     "_occurrences": 47
   },
   {
@@ -172,7 +172,7 @@
     "locuteur": "Igor",
     "en": "I'm afraid you don't have enough (*TEXTBOX_PARAM,0700*)spell{SAUT}cards(*TEXTBOX_PARAM,0000*) to give birth to a new Persona.{ATTENTE}",
     "locuteur_fr": "Igor",
-    "fr": "Hélas, vos (*TEXTBOX_PARAM,0700*)cartes de{SAUT}sort(*TEXTBOX_PARAM,0000*) sont trop peu pour un Persona.{ATTENTE}",
+    "fr": "Hélas, vos (*TEXTBOX_PARAM,0700*)cartes de{SAUT}sort(*TEXTBOX_PARAM,0000*) sont trop peu pour une Persona.{ATTENTE}",
     "_occurrences": 47
   },
   {
@@ -204,7 +204,7 @@
     "locuteur": "Igor",
     "en": "If it's new Personas you want, I shall{SAUT}fuse and create them for you.{ATTENTE}",
     "locuteur_fr": "Igor",
-    "fr": "Si vous voulez des Personae neufs,{SAUT}je les fondrai pour vous.{ATTENTE}",
+    "fr": "Si vous voulez des Personae neuves,{SAUT}je les fondrai pour vous.{ATTENTE}",
     "_occurrences": 47
   },
   {
@@ -212,7 +212,7 @@
     "locuteur": "Igor",
     "en": "First, though, I must summon demons to{SAUT}fuse together into a Persona.{ATTENTE}",
     "locuteur_fr": "Igor",
-    "fr": "Mais il me faut d'abord des démons{SAUT}à fondre en un Persona.{ATTENTE}",
+    "fr": "Mais il me faut d'abord des démons{SAUT}à fondre en une Persona.{ATTENTE}",
     "_occurrences": 47
   },
   {
@@ -276,7 +276,7 @@
     "locuteur": "Igor",
     "en": "It isn't enough merely to fuse a new{SAUT}Persona in order to make it your own...{ATTENTE}",
     "locuteur_fr": "Igor",
-    "fr": "Fondre un Persona nouveau ne suffit{SAUT}pas à le faire vôtre...{ATTENTE}",
+    "fr": "Fondre une Persona nouvelle ne suffit{SAUT}pas à la faire vôtre...{ATTENTE}",
     "_occurrences": 47
   },
   {
@@ -292,7 +292,7 @@
     "locuteur": "Igor",
     "en": "You must take a Persona onto yourself{SAUT}in order to use its power.{ATTENTE}",
     "locuteur_fr": "Igor",
-    "fr": "Il vous faut endosser un Persona{SAUT}pour user de son pouvoir.{ATTENTE}",
+    "fr": "Il vous faut endosser une Persona{SAUT}pour user de son pouvoir.{ATTENTE}",
     "_occurrences": 47
   },
   {
@@ -308,7 +308,7 @@
     "locuteur": "Igor",
     "en": "A newly-fused Persona will be entrusted{SAUT}into my care.{ATTENTE}",
     "locuteur_fr": "Igor",
-    "fr": "Un Persona fraîchement fondu me{SAUT}sera confié.{ATTENTE}",
+    "fr": "Une Persona fraîchement fondue me{SAUT}sera confiée.{ATTENTE}",
     "_occurrences": 47
   },
   {
@@ -316,7 +316,7 @@
     "locuteur": "Igor",
     "en": "By all means let me know when you{SAUT}would like to take on new Personas.{ATTENTE}",
     "locuteur_fr": "Igor",
-    "fr": "Dites-le-moi quand vous voudrez{SAUT}endosser de nouveaux Personae.{ATTENTE}",
+    "fr": "Dites-le-moi quand vous voudrez{SAUT}endosser de nouvelles Personae.{ATTENTE}",
     "_occurrences": 47
   },
   {
@@ -372,7 +372,7 @@
     "locuteur": "Igor",
     "en": "To invoke a Persona is to summon it{SAUT}in combat.{ATTENTE}",
     "locuteur_fr": "Igor",
-    "fr": "Invoquer, c'est appeler un Persona{SAUT}au combat.{ATTENTE}",
+    "fr": "Invoquer, c'est appeler une Persona{SAUT}au combat.{ATTENTE}",
     "_occurrences": 47
   },
   {
@@ -396,7 +396,7 @@
     "locuteur": "Igor",
     "en": "Different active Personas will grant{SAUT}you different abilities.{ATTENTE}",
     "locuteur_fr": "Igor",
-    "fr": "Des Personae actifs différents{SAUT}donnent d'autres aptitudes.{ATTENTE}",
+    "fr": "Des Personae actives différentes{SAUT}donnent d'autres aptitudes.{ATTENTE}",
     "_occurrences": 47
   },
   {
@@ -404,7 +404,7 @@
     "locuteur": "Igor",
     "en": "Without the power of Persona, you are{SAUT}no different than an ordinary human...{ATTENTE}",
     "locuteur_fr": "Igor",
-    "fr": "Sans le pouvoir du Persona, vous{SAUT}n'êtes qu'un humain ordinaire...{ATTENTE}",
+    "fr": "Sans le pouvoir de la Persona, vous{SAUT}n'êtes qu'un humain ordinaire...{ATTENTE}",
     "_occurrences": 47
   },
   {
@@ -428,7 +428,7 @@
     "locuteur": "Igor",
     "en": "But by taking on a Persona, your defense{SAUT}against spells is considerably enhanced.{ATTENTE}",
     "locuteur_fr": "Igor",
-    "fr": "Mais endossez un Persona, et votre{SAUT}défense aux sorts croît beaucoup.{ATTENTE}",
+    "fr": "Mais endossez une Persona, et votre{SAUT}défense aux sorts croît beaucoup.{ATTENTE}",
     "_occurrences": 47
   },
   {
@@ -444,7 +444,7 @@
     "locuteur": "Igor",
     "en": "This, too, is the power of Persona.{ATTENTE}",
     "locuteur_fr": "Igor",
-    "fr": "Voilà encore le pouvoir du Persona.{ATTENTE}",
+    "fr": "Voilà encore le pouvoir de la Persona.{ATTENTE}",
     "_occurrences": 47
   },
   {
@@ -452,7 +452,7 @@
     "locuteur": "Igor",
     "en": "Though they are called Personas, each{SAUT}is a hidden side of yourself.{ATTENTE}",
     "locuteur_fr": "Igor",
-    "fr": "On les nomme Personae, mais chacun{SAUT}est une part cachée de vous.{ATTENTE}",
+    "fr": "On les nomme Personae, mais chacune{SAUT}est une part cachée de vous.{ATTENTE}",
     "_occurrences": 47
   },
   {
@@ -484,7 +484,7 @@
     "locuteur": "Igor",
     "en": "But the more you invoke a Persona,{SAUT}the more powers it will grant you.{ATTENTE}",
     "locuteur_fr": "Igor",
-    "fr": "Mais plus vous invoquez un Persona,{SAUT}plus il vous donne de pouvoirs.{ATTENTE}",
+    "fr": "Plus vous invoquez une Persona, plus{SAUT}elle vous donne de pouvoirs.{ATTENTE}",
     "_occurrences": 47
   },
   {
@@ -548,7 +548,7 @@
     "locuteur": "Igor",
     "en": "For example, even when creating the{SAUT}same Persona...{ATTENTE}",
     "locuteur_fr": "Igor",
-    "fr": "Ainsi, pour créer un seul et{SAUT}même Persona...{ATTENTE}",
+    "fr": "Ainsi, pour créer une seule et{SAUT}même Persona...{ATTENTE}",
     "_occurrences": 47
   },
   {
@@ -572,7 +572,7 @@
     "locuteur": "Igor",
     "en": "All of these factor into the resultant{SAUT}Persona. And one more thing...{ATTENTE}",
     "locuteur_fr": "Igor",
-    "fr": "Tout cela pèse sur le Persona obtenu.{SAUT}Et une chose encore...{ATTENTE}",
+    "fr": "Tout cela pèse sur la Persona obtenue.{SAUT}Et une chose encore...{ATTENTE}",
     "_occurrences": 47
   },
   {

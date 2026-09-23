@@ -92,7 +92,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_29B490",
     "en": "No active Persona.{ATTENTE}",
-    "fr": "Aucun Persona.{ATTENTE}",
+    "fr": "Aucune Persona.{ATTENTE}",
     "max": 18
   },
   {
@@ -578,7 +578,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_29C736",
     "en": "by the Persona!?{ATTENTE}",
-    "fr": "par le Persona!?{ATTENTE}",
+    "fr": "par la Persona!?{ATTENTE}",
     "max": 16
   },
   {

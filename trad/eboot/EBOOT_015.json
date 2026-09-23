@@ -52,7 +52,7 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1E4B54",
     "en": "Invoke a Persona's ability",
-    "fr": "Invoquer un don du Persona",
+    "fr": "Invoquer un don de Persona",
     "max": 26,
     "_occurrences": 2
   },
@@ -494,7 +494,7 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_1A46EE",
     "en": "Take on which Persona?",
-    "fr": "Endosser quel Persona?",
+    "fr": "Endosser laquelle?",
     "max": 22
   },
   {
