@@ -4,7 +4,7 @@
     "locuteur": "Yukino",
     "en": "Whoa, a creepy room right off the bat.{SAUT}What're these skulls about?{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Waouh, on a déjà une salle flippante.{SAUT}C'est quoi ces crânes?{ATTENTE}"
+    "fr": "Ouah, une salle flippante d'entrée.{SAUT}C'est quoi, ces crânes?{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0001",
@@ -18,7 +18,7 @@
     "locuteur": "Cheerful schoolgirl",
     "en": "Welcome to good old Thanatos Tower!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "Bienvenue à la vieille Tour Thanatos!{ATTENTE}"
+    "fr": "Bienvenue dans la vieille tour Thanatos!{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0003",
@@ -32,7 +32,7 @@
     "locuteur": "Cheerful schoolgirl",
     "en": "I'm your host, everyone's favorite idol,{SAUT}Yuriko Yamamoto!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "Je suis votre hôtesse, l'idole préférée{SAUT}de tout le monde, Yuriko Yamamoto!{ATTENTE}"
+    "fr": "Je suis votre hôtesse, l'idole chérie{SAUT}de tous, Yuriko Yamamoto!{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0005",
@@ -88,14 +88,14 @@
     "locuteur": "Ayase",
     "en": "Oh. My. God. You look, like, SO dumb.{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "Oh. Mon. Dieu. T'as l'air, SI stupide.{ATTENTE}"
+    "fr": "Oh. Mon. Dieu. T'as l'air TROP bête.{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0013",
     "locuteur": "Ayase",
     "en": "Who do you think you are, weirdo?{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "Tu te prends pour qui,{SAUT}la meuf cheloue?{ATTENTE}"
+    "fr": "Tu te prends pour qui, la bizarre?{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0014",
@@ -158,21 +158,21 @@
     "locuteur": "Elly",
     "en": "Is it a battle you seek? We'd have no{SAUT}objections to that.{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Est-ce un combat que tu cherches?{SAUT}Nous n'avons pas d'objections pour ça."
+    "fr": "Est-ce un combat que tu cherches?{SAUT}Nous n'y voyons pas d'objection.{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0023",
     "locuteur": "Yuriko",
     "en": "Awww, don't talk like that, guys!{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": "Ohhh, ne parlez pas comme ça,{SAUT}les gars!{ATTENTE}"
+    "fr": "Ohhh, ne parlez pas comme ça, les gars!{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0024",
     "locuteur": "Yuriko",
     "en": "I'm just here to tell you how to open the{SAUT}door back there.{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": "J'suis juste là pour vous dire comment{SAUT}ouvrir la porte juste là.{ATTENTE}"
+    "fr": "J'suis juste là pour vous dire comment{SAUT}ouvrir la porte derrière.{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0025",
@@ -186,7 +186,7 @@
     "locuteur": "Yuriko",
     "en": "Reaaaady? Then here goes!{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": "Prêêêêêt? Alors c'est parti!ATTENTE}"
+    "fr": "Prêêêêêts? Alors c'est parti!{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0027",
@@ -214,21 +214,21 @@
     "locuteur": "Yukino",
     "en": "Well, uh... this is definitely a trap.{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Eh bien... c'est sûr que un piège."
+    "fr": "Eh ben... c'est un piège, c'est sûr.{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0031",
     "locuteur": "Yukino",
     "en": "But that girl... Yuriko, right? I get the{SAUT}feeling she's tougher than she looks.{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Mais cette fille... Yuriko? Je sens qu'elle{SAUT}est bien plus coriace qu'elle en a l'air.{ATTENTE}"
+    "fr": "Mais cette fille... Yuriko? Je la sens{SAUT}bien plus coriace qu'elle n'en a l'air.{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0032",
     "locuteur": "Yukino",
     "en": "It's hard to describe how, but... this{SAUT}tower has an eerie feel to it.{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "C'est dur d'expliquer, mais... cette{SAUT}tour a une sensation inquiétante.{ATTENTE}"
+    "fr": "Dur à expliquer, mais... cette tour{SAUT}a quelque chose d'inquiétant.{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0033",
@@ -249,7 +249,7 @@
     "locuteur": "Ayase",
     "en": "I can't believe that girl! What a loser!{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "J'y crois pas à cette meuf! Quelle tocarde!{ATTENTE}"
+    "fr": "J'y crois pas, cette fille! Quelle nase!{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0036",
@@ -284,14 +284,14 @@
     "locuteur": "Brown",
     "en": "Psst! Hey! Yuriko's a cutie, huh?{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "Psst! Eh! Yuriko est mignonne hein?{ATTENTE}"
+    "fr": "Psst! Hé! Mignonne, Yuriko, hein?{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0041",
     "locuteur": "Elly",
     "en": "What frightens me is that I can't tell{SAUT}what Yuriko is thinking...{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Ce qui est effrayant, c'est que je{SAUT}n'arrive pas à savoir ce que Yuriko pense...{ATTENTE}"
+    "fr": "Ce qui m'effraie, c'est que je n'arrive{SAUT}pas à lire dans Yuriko...{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0042",
@@ -338,7 +338,7 @@
     "locuteur": "Yuriko",
     "en": "Teeheehee! Gotcha!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "Yuriko",
+    "fr": "Hihihi! Bien eu!{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -370,7 +370,7 @@
     "locuteur": "Yuriko",
     "en": "If you want anything in this tower,{SAUT}you gotta give something up in return!{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": "Si vous voulez une chose dans cette{SAUT}tour, vous devez donner une chose en retour!{ATTENTE}",
+    "fr": "Si vous voulez quelque chose dans cette{SAUT}tour, il faut donner quelque chose!{ATTENTE}",
     "_occurrences": 2
   },
   {
