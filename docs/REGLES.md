@@ -40,7 +40,7 @@ répliques donne une idée du poids de chaque voix.
 | Locuteur | Répliques | Registre |
 |---|---:|---|
 | **Nanjo** (Kei Nanjo) | 1 011 | soutenu, sec, phrases complètes. Il ne contracte rien et vouvoie. |
-| **Mark** (Masao Inaba) | 685 | familier, énergique, argot léger. « Mec », « ouais ». Jamais vulgaire. |
+| **Mark** (Masao Inaba) | 685 | familier, énergique, argot léger. « Mec », « ouais ». Jure quand l'anglais jure. |
 | **Ayase** (Yuka Ayase) | 685 | bavarde, directe, s'intéresse de près au héros. |
 | **Elly** (Eriko Kirishima) | 674 | assurée, un rien théâtrale, cultivée. |
 | **Brown** (Hidehiko Uesugi) | 664 | le blagueur ; il en fait trop, et c'est le but. |
@@ -49,19 +49,32 @@ répliques donne une idée du poids de chaque voix.
 | **Reiji** (Reiji Kido) | 179 | fermé, hostile au début. Répliques courtes. |
 | **Le héros** | — | muet. Ses répliques sont des choix du joueur : courtes et neutres. |
 
-### Les démons, eux, ne sont pas des lycéens
+### La vulgarité suit l'anglais
 
-Le « jamais vulgaire » du tableau ci-dessus vaut **pour les personnages qu'il
-nomme** — Mark, Brown, les élèves. Les démons des négociations n'y sont pas
-soumis : un zombie, un voyou, des WC fantômes ont le droit d'être crus, et
-l'anglais l'est souvent. « Don't talk crap » dit par un siège de toilettes
-appelle « merde », et le mot fait écho au personnage : le perdre, c'est perdre
-la blague. Quand la crudité est **dans l'anglais et dans le personnage**, on
-la garde.
+**Si la réplique est vulgaire en anglais, elle l'est en français.** Sans
+exception de personnage : lycéens, adultes, démons. Le script original ne se
+gêne pas — Mark traite Hidehiko de `dick`, Ayase lâche `assholes`, Reiji parle
+de `shit`, et un siège de toilettes dit `don't talk crap` — et adoucir tout ça
+donne un jeu mou, où plus personne n'a de voix.
 
-Ce qui reste interdit partout : les insultes que l'anglais n'a pas, et les
-tours inventés pour gagner des caractères. Une expression doit exister en
-français — « c'est du bidon » oui, « sentir le bidon » non.
+Ce que ça veut dire concrètement :
+
+| Anglais | On rend | Pas |
+|---|---|---|
+| `That dick!` | Ce con! | ~~Cet abruti!~~ |
+| `you bastard!` | espèce de salaud! | ~~espèce d'enflure!~~ |
+| `assholes!` | bande de cons! | ~~bande de nazes!~~ |
+| `worse shit than this` | des merdes bien pires | ~~des trucs bien pires~~ |
+| `Don't talk crap` *(les WC)* | Dis pas de la merde | ~~Dis pas n'importe quoi~~ |
+
+**L'inverse est vrai aussi** : on n'ajoute pas de vulgarité que l'anglais n'a
+pas. `frickin'`, `freakin'`, `darn`, `heck` sont déjà des euphémismes en
+anglais — ils appellent un français ordinaire, pas un juron. Et `bitching and
+moaning` veut dire « râler », `bitchin'` veut dire « génial » : ce sont des
+expressions, pas des insultes.
+
+La règle est donc : **le même niveau de langue que l'original, ni plus haut ni
+plus bas.**
 
 > ⚠️ **Ces descriptions de voix demandent validation.** Elles ont été écrites
 > d'après la connaissance générale du jeu, pas d'après une relecture du script
