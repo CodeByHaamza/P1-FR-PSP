@@ -6,9 +6,9 @@
 Dialogues      ████████████░░░░░░░░░░░░   51 %    4 375 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
-Négociations   ██████░░░░░░░░░░░░░░░░░░   23 %    2 907 / 12 487 textes
+Négociations   ██████░░░░░░░░░░░░░░░░░░   23 %    2 914 / 12 487 textes
 
-Total          ██████████░░░░░░░░░░░░░░   43 %   10 368 / 24 145 textes
+Total          ██████████░░░░░░░░░░░░░░   43 %   10 375 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -169,7 +169,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E1_018.json`](trad/dialogues/E1_018.json) | 100 | 0 | 0 % | libre |
 | [`E1_019.json`](trad/dialogues/E1_019.json) | 46 | 1 | 2 % | commencé |
 | [`E1_020.json`](trad/dialogues/E1_020.json) | 67 | 3 | 4 % | commencé |
-| [`E1_021.json`](trad/dialogues/E1_021.json) | 66 | 0 | 0 % | en cours par @vikmorp (#42) |
+| [`E1_021.json`](trad/dialogues/E1_021.json) | 66 | 0 | 0 % | libre |
 | [`E1_022.json`](trad/dialogues/E1_022.json) | 95 | 0 | 0 % | libre |
 | [`E1_023.json`](trad/dialogues/E1_023.json) | 96 | 9 | 9 % | commencé |
 | [`E1_024.json`](trad/dialogues/E1_024.json) | 93 | 1 | 1 % | commencé |
@@ -398,5 +398,5 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`ZOMBIKO_001.json`](trad/negociations/ZOMBIKO_001.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#46) |
 | [`ZOMBIKO_002.json`](trad/negociations/ZOMBIKO_002.json) | 90 | 0 | 0 % | en cours par @ATMC14 (#45) |
 | [`ZOMB_MAN_001.json`](trad/negociations/ZOMB_MAN_001.json) | 100 | 0 | 0 % | libre |
-| [`ZOMB_MAN_002.json`](trad/negociations/ZOMB_MAN_002.json) | 82 | 29 | 35 % | en cours par @vikmorp (#41) |
+| [`ZOMB_MAN_002.json`](trad/negociations/ZOMB_MAN_002.json) | 82 | 36 | 44 % | commencé par @vikmorp |
 
