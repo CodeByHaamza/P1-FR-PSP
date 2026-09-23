@@ -3,99 +3,99 @@
     "id": "E0.BIN:160:0000",
     "locuteur": "Setsuko Sonomura",
     "en": "You kids!? Are you all right!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Les jeunes!? Vous allez bien!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0001",
     "locuteur": "Mark",
     "en": "Owwww! Ugh... Huh?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Aïïïe! Argh... Hein?{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0002",
     "locuteur": "Mark",
     "en": "I get it... The compact brought{SAUT}us here...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Je pige... C'est le poudrier qui{SAUT}nous a amenés ici...{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0003",
     "locuteur": "Nanjo",
     "en": "Ngh... Where are we!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Argh... Où sommes-nous!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0004",
     "locuteur": "Reiji",
     "en": "Looks like it worked...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "On dirait que ça a marché...{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0005",
     "locuteur": "Reiji",
     "en": "This looks like the forest where that{SAUT}girl in white was... the child-Maki.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Ça ressemble à la forêt où cette{SAUT}fille en blanc était... la petite Maki.{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0006",
     "locuteur": "Elly",
     "en": "Bingo! This is child-Maki's forest!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Bingo! C'est la forêt de la petite Maki!{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0007",
     "locuteur": "Brown",
     "en": "Hey, it worked! Isn't this the forest{SAUT}where that little Maki was!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Hé, ça a marché! C'est pas la forêt{SAUT}de la petite Maki, ça!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0008",
     "locuteur": "Ayase",
     "en": "Wow, talk about luck! Isn't this that{SAUT}little Maki's forest!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Wow, quelle chance! C'est pas la{SAUT}forêt de la petite Maki, ça!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0009",
     "locuteur": "Setsuko Sonomura",
     "en": "Why have you all come back!?{SAUT}What about Kandori!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Pourquoi êtes-vous tous revenus!?{SAUT}Qu'en est-il de Kandori!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0010",
     "locuteur": "Mark",
     "en": "Same to you, lady! Why're YOU here?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Pareil, Madame! Pourquoi VOUS êtes ici?{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0011",
     "locuteur": "Setsuko Sonomura",
     "en": "I... don't really know...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Je... ne sais pas vraiment...{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0012",
     "locuteur": "Setsuko Sonomura",
     "en": "After I transported you all, I thought{SAUT}I heard Maki's voice again...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Après vous avoir transportés, j'ai{SAUT}cru entendre la voix de Maki...{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0013",
     "locuteur": "Setsuko Sonomura",
     "en": "And when I came to, I was here...{SAUT}But why have you all come back?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Et j'ai repris connaissance ici...{SAUT}Mais pourquoi êtes-vous revenus?{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0014",
