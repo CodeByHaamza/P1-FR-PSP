@@ -73,7 +73,7 @@
   {
     "id": "ETC.BIN:text:0168",
     "en": "  (*SPEAKER*)Otohime{SAUT}I've become a Persona. I swim the seas{SAUT}with this human.{ATTENTE}",
-    "fr": "  (*SPEAKER*)Otohime{SAUT}Je suis devenue un Persona. Je nage{SAUT}les mers avec cet humain.{ATTENTE}",
+    "fr": "  (*SPEAKER*)Otohime{SAUT}Je suis devenue une Persona. Je nage{SAUT}les mers avec cet humain.{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -228,7 +228,7 @@
   {
     "id": "ETC.BIN:text:0207",
     "en": "  [FFEE](*SPEAKER*)Barbatos{SAUT}When ya make me a Persona, gimme back{SAUT}my youth, m'kay? I'll be leavin' now.(*OPTION*)",
-    "fr": "  [FFEE](*SPEAKER*)Barbatos{SAUT}Quand tu feras de moi un Persona, rends-{SAUT}moi ma jeunesse, hein? Allez, j'y vais.(*OPTION*)"
+    "fr": "  [FFEE](*SPEAKER*)Barbatos{SAUT}Quand tu feras de moi une Persona, rends-{SAUT}moi ma jeunesse, hein? Allez, j'y vais.(*OPTION*)"
   },
   {
     "id": "ETC.BIN:text:0208",
@@ -350,7 +350,7 @@
   {
     "id": "ETC.BIN:text:0236",
     "en": "{PAGE}(*SPEAKER*)Succubus{SAUT}Well, you've already got my Persona.{SAUT}I should get back to my prey...(*OPTION*)",
-    "fr": "{PAGE}(*SPEAKER*)Succubus{SAUT}Bon, tu as déjà mon Persona.{SAUT}Je retourne à mes proies...(*OPTION*)"
+    "fr": "{PAGE}(*SPEAKER*)Succubus{SAUT}Bon, tu as déjà ma Persona.{SAUT}Je retourne à mes proies...(*OPTION*)"
   },
   {
     "id": "ETC.BIN:text:0238",
@@ -404,7 +404,7 @@
   {
     "id": "ETC.BIN:text:0252",
     "en": "   [FFEB](*SPEAKER*)Lilim{SAUT}Ahaha! I've got some errands to run, but{SAUT}remember to turn me into a Persona!(*OPTION*)",
-    "fr": "   [FFEB](*SPEAKER*)Lilim{SAUT}Ahaha! J'ai des courses à faire, mais{SAUT}pense à faire de moi un Persona!(*OPTION*)"
+    "fr": "   [FFEB](*SPEAKER*)Lilim{SAUT}Ahaha! J'ai des courses à faire, mais{SAUT}pense à faire de moi une Persona!(*OPTION*)"
   },
   {
     "id": "ETC.BIN:text:0253",

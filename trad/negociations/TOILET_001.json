@@ -7,12 +7,12 @@
   {
     "id": "TOILET.BIN:text:0001",
     "en": " Hmm... You're actually pretty reliable,{SAUT}mister.[FFFD]É[F500]  Hey! Don't talk crap just 'cause I'm a{SAUT}toilet ghost!(*RESPONSE*)",
-    "fr": "Hmm...Tu es plutôt digne de confiance,{SAUT}monsieur.[FFFD]É[F500] Hé! Dis pas n'importe quoi parce{SAUT}que je suis un WC fantôme!(*RESPONSE*)"
+    "fr": "Hmm...Tu es plutôt digne de confiance,{SAUT}monsieur.[FFFD]É[F500] Hé! Dis pas de la merde sur moi{SAUT}juste parce que je suis un WC!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0002",
     "en": "   Your story sounds like a big phony to me!{SAUT}Is it for real?[FFFD]α[F500]Say what you want, but you wanna sit on{SAUT}me, huh? This is one comfortable toilet{SAUT}seat, after all!(*RESPONSE*)",
-    "fr": "Ton histoire sent le bidon!{SAUT}C'est vrai, ça?[FFFD]α[F500]Dis ce que tu veux, t'as envie de{SAUT}t'asseoir sur moi, hein? C'est une{SAUT}cuvette bien confortable!(*RESPONSE*)"
+    "fr": "Ton histoire est tirée par les{SAUT}cheveux! C'est vrai, ça?[FFFD]α[F500]Dis ce que tu veux, t'as envie de{SAUT}t'asseoir sur moi, hein? C'est une{SAUT}cuvette bien confortable!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0003",
@@ -37,13 +37,13 @@
   {
     "id": "TOILET.BIN:text:0008",
     "en": "Hey! Don't talk crap just 'cause I'm a{SAUT}toilet ghost!(*RESPONSE*)",
-    "fr": "Hé! Dis pas n'importe quoi parce{SAUT}que je suis un WC fantôme!(*RESPONSE*)",
+    "fr": "Hé! Dis pas de la merde sur moi{SAUT}juste parce que je suis un WC!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TOILET.BIN:text:0009",
     "en": "   Your story sounds like a big phony to me!{SAUT}Is it for real?[FFFD][06FF][F500]I'm in kind of a rush... Um, can I{SAUT}leave now...?(*RESPONSE*)",
-    "fr": "Ton histoire sent le bidon!{SAUT}C'est vrai, ça?[FFFD][06FF][F500]Je suis pressée... Euh, je peux{SAUT}partir, là...?(*RESPONSE*)"
+    "fr": "Ton histoire est tirée par les{SAUT}cheveux! C'est vrai, ça?[FFFD][06FF][F500]Je suis pressée... Euh, je peux{SAUT}partir, là...?(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0010",
@@ -58,7 +58,7 @@
   {
     "id": "TOILET.BIN:text:0016",
     "en": "   Your story sounds like a big phony to me!{SAUT}Is it for real?[FFFD][0BFF][F500]Say what you want, but you wanna sit on{SAUT}me, huh? This is one comfortable toilet{SAUT}seat, after all!(*RESPONSE*)",
-    "fr": "Ton histoire sent le bidon!{SAUT}C'est vrai, ça?[FFFD][0BFF][F500]Dis ce que tu veux, t'as envie de{SAUT}t'asseoir sur moi, hein? C'est une{SAUT}cuvette bien confortable!(*RESPONSE*)"
+    "fr": "Ton histoire est tirée par les{SAUT}cheveux! C'est vrai, ça?[FFFD][0BFF][F500]Dis ce que tu veux, t'as envie de{SAUT}t'asseoir sur moi, hein? C'est une{SAUT}cuvette bien confortable!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0019",
@@ -88,7 +88,7 @@
   {
     "id": "TOILET.BIN:text:0024",
     "en": " Your story sounds like a big phony to me!{SAUT}Is it for real?[FFFD][0FFF][F500]Say what you want, but you wanna sit on{SAUT}me, huh? This is one comfortable toilet{SAUT}seat, after all!(*RESPONSE*)",
-    "fr": "Ton histoire sent le bidon!{SAUT}C'est vrai, ça?[FFFD][0FFF][F500]Dis ce que tu veux, t'as envie de{SAUT}t'asseoir sur moi, hein? C'est une{SAUT}cuvette bien confortable!(*RESPONSE*)"
+    "fr": "Ton histoire est tirée par les{SAUT}cheveux! C'est vrai, ça?[FFFD][0FFF][F500]Dis ce que tu veux, t'as envie de{SAUT}t'asseoir sur moi, hein? C'est une{SAUT}cuvette bien confortable!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0025",
@@ -298,7 +298,7 @@
   {
     "id": "TOILET.BIN:text:0070",
     "en": "  Your story sounds like a big phony to me!{SAUT}Is it for real?[FFFD][34FF][F500]Say what you want, but you wanna sit on{SAUT}me, huh? This is one comfortable toilet{SAUT}seat, after all!(*RESPONSE*)",
-    "fr": "Ton histoire sent le bidon!{SAUT}C'est vrai, ça?[FFFD][34FF][F500]Dis ce que tu veux, t'as envie de{SAUT}t'asseoir sur moi, hein? C'est une{SAUT}cuvette bien confortable!(*RESPONSE*)"
+    "fr": "Ton histoire est tirée par les{SAUT}cheveux! C'est vrai, ça?[FFFD][34FF][F500]Dis ce que tu veux, t'as envie de{SAUT}t'asseoir sur moi, hein? C'est une{SAUT}cuvette bien confortable!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0071",
@@ -343,7 +343,7 @@
   {
     "id": "TOILET.BIN:text:0083",
     "en": "Your story sounds like a big phony to me!{SAUT}Is it for real?[FFFD][3FFF][F500]Say what you want, but you wanna sit on{SAUT}me, huh? This is one comfortable toilet{SAUT}seat, after all!(*RESPONSE*)",
-    "fr": "Ton histoire sent le bidon!{SAUT}C'est vrai, ça?[FFFD][3FFF][F500]Dis ce que tu veux, t'as envie de{SAUT}t'asseoir sur moi, hein? C'est une{SAUT}cuvette bien confortable!(*RESPONSE*)"
+    "fr": "Ton histoire est tirée par les{SAUT}cheveux! C'est vrai, ça?[FFFD][3FFF][F500]Dis ce que tu veux, t'as envie de{SAUT}t'asseoir sur moi, hein? C'est une{SAUT}cuvette bien confortable!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0084",
@@ -423,7 +423,7 @@
   {
     "id": "TOILET.BIN:text:0101",
     "en": "   Your story sounds like a big phony to me!{SAUT}Is it for real?[FFFD][51FF][F500]Say what you want, but you wanna sit on{SAUT}me, huh? This is one comfortable toilet{SAUT}seat, after all!(*RESPONSE*)",
-    "fr": "Ton histoire sent le bidon!{SAUT}C'est vrai, ça?[FFFD][51FF][F500]Dis ce que tu veux, t'as envie de{SAUT}t'asseoir sur moi, hein? C'est une{SAUT}cuvette bien confortable!(*RESPONSE*)"
+    "fr": "Ton histoire est tirée par les{SAUT}cheveux! C'est vrai, ça?[FFFD][51FF][F500]Dis ce que tu veux, t'as envie de{SAUT}t'asseoir sur moi, hein? C'est une{SAUT}cuvette bien confortable!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0102",
