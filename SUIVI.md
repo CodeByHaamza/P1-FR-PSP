@@ -6,9 +6,9 @@
 Dialogues      █████████████░░░░░░░░░░░   52 %    4 495 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
-Négociations   ██████░░░░░░░░░░░░░░░░░░   25 %    3 104 / 12 487 textes
+Négociations   ██████░░░░░░░░░░░░░░░░░░   26 %    3 204 / 12 487 textes
 
-Total          ███████████░░░░░░░░░░░░░   44 %   10 685 / 24 145 textes
+Total          ███████████░░░░░░░░░░░░░   45 %   10 785 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -398,7 +398,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`ZMBITYAN_001.json`](trad/negociations/ZMBITYAN_001.json) | 100 | 100 | 100 % | terminé |
 | [`ZMBITYAN_002.json`](trad/negociations/ZMBITYAN_002.json) | 100 | 100 | 100 % | terminé |
 | [`ZMBITYAN_003.json`](trad/negociations/ZMBITYAN_003.json) | 22 | 22 | 100 % | terminé |
-| [`ZOMBIKO_001.json`](trad/negociations/ZOMBIKO_001.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#46) |
+| [`ZOMBIKO_001.json`](trad/negociations/ZOMBIKO_001.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
 | [`ZOMBIKO_002.json`](trad/negociations/ZOMBIKO_002.json) | 90 | 90 | 100 % | terminé par @ATMC14 |
 | [`ZOMB_MAN_001.json`](trad/negociations/ZOMB_MAN_001.json) | 100 | 0 | 0 % | libre |
 | [`ZOMB_MAN_002.json`](trad/negociations/ZOMB_MAN_002.json) | 82 | 36 | 44 % | commencé par @vikmorp |
