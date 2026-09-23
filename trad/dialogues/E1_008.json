@@ -4,56 +4,56 @@
     "locuteur": "Yukino",
     "en": "This is... the fencing club room.{SAUT}Which means...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "C'est... la salle du club d'escrime.{SAUT}Ça veut dire que...{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0001",
     "locuteur": "Tadashi",
     "en": "T-Ta-Ta-Tamaki! I love you!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "T-Ta-Ta-Tamaki! Je t'aime!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0002",
     "locuteur": "Tadashi",
     "en": "I love you with every fiber of my being!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Je t'aime de toutes les fibres de mon être!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0003",
     "locuteur": "Tamaki",
     "en": "Tadashi... I love you too...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Tadashi... Moi aussi je t'aime...{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0004",
     "locuteur": "Nanjo",
     "en": "So we're inside their dream... In the{SAUT}real world, they argue incessantly.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Nanjo",
     "fr": ""
   },
   {
     "id": "E1.BIN:050:0005",
     "locuteur": "Nanjo",
     "en": "But I see now. It's a classic example of{SAUT}\"fighting because they care.\"{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Nanjo",
     "fr": ""
   },
   {
     "id": "E1.BIN:050:0006",
     "locuteur": "Brown",
     "en": "Nooooo! Oh, the humanity!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Noooon! Oh, l'humanité!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0007",
     "locuteur": "Brown",
     "en": "I refuse to believe Tamaki likes Tadashi!{SAUT}Someone, please tell me it's all a dream!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "J'peux pas croire que Tamaki aime{SAUT}Tadashi! Dites-moi que je rêve!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0008",
@@ -67,20 +67,20 @@
     "locuteur": "Ayase",
     "en": "Omigawd! I knew it!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Oh mon Dieu! Je le savais!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0010",
     "locuteur": "Tadashi",
     "en": "Honey... look into my eyes...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Chérie... regarde-moi dans les yeux...!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0011",
     "locuteur": "Tamaki",
     "en": "I am, darling...!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Tamaki",
     "fr": ""
   },
   {
@@ -108,22 +108,22 @@
     "id": "E1.BIN:050:0015",
     "locuteur": "Tadashi",
     "en": "Look me in the eyes... Do you see{SAUT}yourself?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Regarde-moi dans les yeux...{SAUT}Vois-tu ton reflet?{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0016",
     "locuteur": "Tadashi",
     "en": "I see myself in your eyes... Ah!{SAUT}We're united as one!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Je me vois dans tes yeux... Ah!{SAUT}Nous ne faisons qu'un!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0017",
     "locuteur": "Tamaki",
     "en": "Yes... Yes! I see myself in your eyes!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Oui... Oui! Je me vois dans tes yeux!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0018",
@@ -136,14 +136,14 @@
     "id": "E1.BIN:050:0019",
     "locuteur": "Yukino",
     "en": "...＊sigh＊ They can keep at this once{SAUT}they're awake.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Yukino",
     "fr": ""
   },
   {
     "id": "E1.BIN:050:0020",
     "locuteur": "Yukino",
     "en": "Let's wake them up already.{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Yukino",
     "fr": ""
   },
   {
@@ -151,7 +151,7 @@
     "locuteur": "Yukino",
     "en": "Being in someone else's dream feels kinda{SAUT}awkward, you know?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Être dans le rêve de quelqu'un,{SAUT}ça fait bizarre, non?{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0022",
@@ -164,15 +164,15 @@
     "id": "E1.BIN:050:0023",
     "locuteur": "Nanjo",
     "en": "It's often difficult to convey one's{SAUT}true feelings to another...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Nanjo",
     "fr": ""
   },
   {
     "id": "E1.BIN:050:0024",
     "locuteur": "Nanjo",
     "en": "Especially between a man and a woman.{SAUT}Interesting, no?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Surtout entre un homme et une femme.{SAUT}Intéressant, n'est-ce pas?{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0025",
@@ -192,8 +192,8 @@
     "id": "E1.BIN:050:0027",
     "locuteur": "Brown",
     "en": "Ahh... Tamaki...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Ahh... Tamaki...!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0028",
@@ -206,15 +206,15 @@
     "id": "E1.BIN:050:0029",
     "locuteur": "Tadashi",
     "en": "Argh! Stop bothering us! Can't you see{SAUT}we're in the middle of something!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Argh! Arrêtez de nous déranger! Vous{SAUT}voyez pas qu'on est occupés!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0030",
     "locuteur": "Tadashi",
     "en": "You're really rude, you know that?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Vous êtes vraiment malpolis, vous savez?{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0031",
@@ -225,8 +225,8 @@
     "id": "E1.BIN:050:0032",
     "locuteur": "Tamaki",
     "en": "Stop getting in our way! If you ruin{SAUT}this moment...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Arrêtez de vous mettre en travers!{SAUT}Si vous gâchez ce moment...!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0033",
@@ -237,15 +237,15 @@
     "id": "E1.BIN:050:0034",
     "locuteur": "Tadashi",
     "en": "Huh? Wh-What?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Hein? Qu-Quoi?{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0035",
     "locuteur": "Tamaki",
     "en": "Huh? Wh-Why?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Hein? Pou-Pourquoi?{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0036",
