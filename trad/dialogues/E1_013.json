@@ -116,7 +116,7 @@
     "locuteur": "Ayase",
     "en": "How can a scrawny, depressed-looking,{SAUT}four-eyes like you be a boss!?{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "Comment une maigrichonne austère et bigleuse{SAUT}comme toi pourrait monter la garde!?{ATTENTE}"
+    "fr": "Comment une bigleuse maigre et austère{SAUT}comme toi pourrait monter la garde!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0017",
@@ -340,7 +340,7 @@
     "locuteur": "Ayase",
     "en": "Now's the time to apologize if you're{SAUT}gonna!{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "Si tu veux t'excuser, c'est maintenant!{ATTENTE}"
+    "fr": "Si tu veux t'excuser, c'est{SAUT}maintenant!{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0049",
@@ -397,7 +397,7 @@
     "locuteur": "Elly",
     "en": "Then the Hypnos we met in the Dream{SAUT}World wasn't a product of her dream!{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Ça signifie que l'Hypnos du Monde des Rêves ne venait pas de son rêve!{ATTENTE}"
+    "fr": "Ça signifie que l'Hypnos du Monde{SAUT}des Rêves ne venait pas de son rêve!{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0058",
