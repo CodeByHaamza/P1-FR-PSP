@@ -6,9 +6,9 @@
 Dialogues      █████████████░░░░░░░░░░░   53 %    4 514 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
-Négociations   ██████░░░░░░░░░░░░░░░░░░   26 %    3 204 / 12 487 textes
+Négociations   ██████░░░░░░░░░░░░░░░░░░   26 %    3 304 / 12 487 textes
 
-Total          ███████████░░░░░░░░░░░░░   45 %   10 804 / 24 145 textes
+Total          ███████████░░░░░░░░░░░░░   45 %   10 904 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -413,8 +413,8 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`TENSI_004.json`](trad/negociations/TENSI_004.json) | 100 | 100 | 100 % | terminé · 4 trop large |
 | [`TENSI_005.json`](trad/negociations/TENSI_005.json) | 100 | 100 | 100 % | terminé |
 | [`TENSI_006.json`](trad/negociations/TENSI_006.json) | 82 | 82 | 100 % | terminé |
-| [`TINPRA_001.json`](trad/negociations/TINPRA_001.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#52) |
-| [`TINPRA_002.json`](trad/negociations/TINPRA_002.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#53) |
+| [`TINPRA_001.json`](trad/negociations/TINPRA_001.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`TINPRA_002.json`](trad/negociations/TINPRA_002.json) | 100 | 0 | 0 % | libre |
 | [`TINPRA_003.json`](trad/negociations/TINPRA_003.json) | 69 | 0 | 0 % | en cours par @ATMC14 (#54) |
 | [`TOILET_001.json`](trad/negociations/TOILET_001.json) | 100 | 100 | 100 % | terminé par @Uolil-Raccoon · 1 à alléger |
 | [`TOILET_002.json`](trad/negociations/TOILET_002.json) | 100 | 0 | 0 % | libre |
