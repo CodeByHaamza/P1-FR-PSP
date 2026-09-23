@@ -46,7 +46,7 @@
     "locuteur": "Kumi",
     "en": "So why don't you surrender? That way,{SAUT}we can live happily in the Dream World.{ATTENTE}",
     "locuteur_fr": "Kumi",
-    "fr": "Alors, pourquoi ne pas vous rendre?{SAUT}On serait heureux dans le Monde des Rêves.{ATTENTE}"
+    "fr": "Alors, pourquoi ne pas vous rendre?{SAUT}On vivrait heureux au Monde des Reves.{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0007",
@@ -67,7 +67,7 @@
     "locuteur": "Nanjo",
     "en": "A girl like you is this tower's guardian?{SAUT}Enough mockery!{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Une fille comme vous, gardienne de la tour?{SAUT}Trêve de plaisanterie!{ATTENTE}"
+    "fr": "Une fille comme vous, gardienne?{SAUT}Trêve de plaisanterie!{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0010",
@@ -81,7 +81,7 @@
     "locuteur": "Nanjo",
     "en": "If you're trying to play a prank on us,{SAUT}you've chosen a singularly bad time!{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Si vous cherchez à nous piéger, vous n'avez{SAUT}pas du tout choisi le bon moment!{ATTENTE}"
+    "fr": "Si vous cherchez à nous piéger, vous{SAUT}avez très mal choisi votre moment!{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0012",
@@ -95,7 +95,7 @@
     "locuteur": "Brown",
     "en": "Hey, wait a sec. You're a St. Hermelin{SAUT}girl, I can tell by the uniform.{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "Hé, attends. T'es à St. Hermelin{SAUT}, ça se voit à ton uniforme.{ATTENTE}"
+    "fr": "Hé, attends. T'es à St. Hermelin,{SAUT}ça se voit à ton uniforme.{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0014",
@@ -158,7 +158,7 @@
     "locuteur": "Nanjo",
     "en": "What the--Can you feel that? Was what{SAUT}she said true, then!?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Que...Sentez-vous cela? Disait-elle{SAUT}vraiment la vérité!?{ATTENTE}"
+    "fr": "Mais... Sentez-vous cela? Disait-elle{SAUT}donc vrai!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0023",
@@ -172,7 +172,7 @@
     "locuteur": "Elly",
     "en": "Oh my... That sudden, evil aura...{SAUT}Is she really going to...!?{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Nom de... Cette atmosphère sombre,{SAUT}d'un coup... Va-t-elle...!?{ATTENTE}"
+    "fr": "Mon Dieu... Cette aura mauvaise,{SAUT}soudain... Va-t-elle...!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0025",
@@ -207,14 +207,14 @@
     "locuteur": "Yukino",
     "en": "A Persona!?{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Une Persona!?{ATTENTE}"
+    "fr": "Un Persona!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0030",
     "locuteur": "Yukino",
     "en": "Okay... now I get it. No point in{SAUT}holding back, guys!{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Okay... je vois. Ne retenons pas{SAUT}nos coups!{ATTENTE}"
+    "fr": "OK... je vois. Ne retenons pas{SAUT}nos coups!{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0031",
@@ -270,14 +270,14 @@
     "locuteur": "Nanjo",
     "en": "Excuse me, but who's calling who a fool?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Excusez-moi, mais qui traite qui d'idiot?{ATTENTE}"
+    "fr": "Pardon, mais qui traite qui d'idiot?{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0039",
     "locuteur": "Nanjo",
     "en": "You're the coward who lived her life{SAUT}constantly fleeing from her problems...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Vous êtes une lâche qui avez passé{SAUT}votre vie à fuir vos problèmes...{ATTENTE}"
+    "fr": "Vous êtes la lâche qui a passé sa{SAUT}vie à fuir ses problèmes...{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0040",
@@ -305,7 +305,7 @@
     "locuteur": "Brown",
     "en": "It really tears me up having to fight{SAUT}a cutie like you... But I gotta.{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "Devoir combattre une poupée comme{SAUT}toi me brise le cœur... Mais pas le choix.{ATTENTE}"
+    "fr": "Me battre contre une poupée comme{SAUT}toi me brise le coeur... Mais bon.{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0044",
