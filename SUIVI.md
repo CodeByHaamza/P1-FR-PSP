@@ -79,6 +79,7 @@ Terminologie à confirmer — un terme du dictionnaire apparaît dans l'anglais 
 
 Ces lignes sont plus larges que l'anglaise et approchent de la limite de la boîte. Elles ne débordent pas à coup sûr, mais un `{SAUT}` de plus serait plus sage.
 
+- [`E0_014.json`](trad/dialogues/E0_014.json) — 1 ligne
 - [`E0_016.json`](trad/dialogues/E0_016.json) — 1 ligne
 - [`E0_028.json`](trad/dialogues/E0_028.json) — 5 lignes
 - [`E0_041.json`](trad/dialogues/E0_041.json) — 1 ligne
@@ -135,7 +136,7 @@ Ces lignes dépassent la place que l'anglais occupe dans l'exécutable. Le moteu
 - [`EBOOT_020.json`](trad/eboot/EBOOT_020.json) — 4 lignes
 - [`EBOOT_021.json`](trad/eboot/EBOOT_021.json) — 27 lignes
 - [`EBOOT_022.json`](trad/eboot/EBOOT_022.json) — 2 lignes
-- [`EBOOT_023.json`](trad/eboot/EBOOT_023.json) — 5 lignes
+- [`EBOOT_023.json`](trad/eboot/EBOOT_023.json) — 4 lignes
 - [`EBOOT_024.json`](trad/eboot/EBOOT_024.json) — 1 ligne
 - [`EBOOT_025.json`](trad/eboot/EBOOT_025.json) — 10 lignes
 - [`EBOOT_026.json`](trad/eboot/EBOOT_026.json) — 23 lignes
@@ -285,7 +286,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`EBOOT_020.json`](trad/eboot/EBOOT_020.json) | 100 | 100 | 100 % | terminé · 1 à alléger |
 | [`EBOOT_021.json`](trad/eboot/EBOOT_021.json) | 100 | 100 | 100 % | terminé · 27 à vérifier |
 | [`EBOOT_022.json`](trad/eboot/EBOOT_022.json) | 100 | 100 | 100 % | terminé · 2 termes |
-| [`EBOOT_023.json`](trad/eboot/EBOOT_023.json) | 100 | 100 | 100 % | terminé · 5 à vérifier |
+| [`EBOOT_023.json`](trad/eboot/EBOOT_023.json) | 100 | 100 | 100 % | terminé · 4 à vérifier |
 | [`EBOOT_024.json`](trad/eboot/EBOOT_024.json) | 100 | 100 | 100 % | terminé · 2 termes |
 | [`EBOOT_025.json`](trad/eboot/EBOOT_025.json) | 100 | 100 | 100 % | terminé · 4 termes |
 | [`EBOOT_026.json`](trad/eboot/EBOOT_026.json) | 100 | 100 | 100 % | terminé · 2 termes |
