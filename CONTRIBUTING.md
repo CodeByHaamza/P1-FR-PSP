@@ -141,6 +141,22 @@ Si tu utilises un assistant, donne-lui [CLAUDE.md](CLAUDE.md) : il liste les
 erreurs que les modèles font systématiquement sur ce jeu. Et dis-le dans ta
 PR, tout simplement.
 
+**Ce que la relecture touche, et ce qu'elle ne touche pas.** Quand ta
+proposition est relue, deux choses très différentes peuvent arriver :
+
+| Ce qui est trouvé | Ce qui se passe |
+|---|---|
+| **De la technique** — un code `{SAUT}` perdu, un JSON cassé, une ligne trop large, un fichier de négociation qui grossit, un terme du dictionnaire, une faute indiscutable | **C'est corrigé directement** dans ta branche, et expliqué dans un commentaire. Pas d'aller-retour pour une accolade. |
+| **De l'écriture** — une tournure jugée plate, un registre discutable, un jeu de mots à retrouver | **On n'y touche pas.** Tu reçois une suggestion en commentaire, et c'est toi qui tranches. |
+
+La frontière compte : ton fichier de négociation doit rentrer dans son budget
+d'octets, ça c'est technique et non négociable — mais **quels mots** tu coupes
+pour y arriver, c'est ton texte. Dans ce cas tu reçois le nombre d'octets à
+gagner, les lignes concernées, des pistes, et tu choisis.
+
+Et la section **« Des points à discuter ? »** de ta proposition est lue : si tu
+y signales une hésitation, tu auras une réponse dessus. Sers-t'en.
+
 ---
 
 ## Le style
