@@ -32,7 +32,7 @@
     "locuteur": "Kumi",
     "en": "I've, um... been ordered to kill you{SAUT}all, but...{ATTENTE}",
     "locuteur_fr": "Kumi",
-    "fr": "On m'a, euh... ordonné de tous vous tuer,{SAUT}mais...{ATTENTE}"
+    "fr": "On m'a, euh... ordonné de tous vous{SAUT}tuer, mais...{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0005",
@@ -81,7 +81,7 @@
     "locuteur": "Nanjo",
     "en": "If you're trying to play a prank on us,{SAUT}you've chosen a singularly bad time!{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Si vous cherchez à nous piéger,{SAUT}vous n'avez pas du tout choisi le bon moment!{ATTENTE}"
+    "fr": "Si vous cherchez à nous piéger, vous n'avez{SAUT}pas du tout choisi le bon moment!{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0012",
@@ -116,7 +116,7 @@
     "locuteur": "Ayase",
     "en": "How can a scrawny, depressed-looking,{SAUT}four-eyes like you be a boss!?{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "Comment une maigrichonne austère et{SAUT}bigleuse comme toi pourrait monter la garde!?{ATTENTE}"
+    "fr": "Comment une maigrichonne austère et bigleuse{SAUT}comme toi pourrait monter la garde!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0017",
@@ -172,7 +172,7 @@
     "locuteur": "Elly",
     "en": "Oh my... That sudden, evil aura...{SAUT}Is she really going to...!?{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Nom de... Cette atmosphère sombre, d'un coup...{SAUT}Va-t-elle...!?{ATTENTE}"
+    "fr": "Nom de... Cette atmosphère sombre,{SAUT}d'un coup... Va-t-elle...!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0025",
@@ -193,7 +193,7 @@
     "locuteur": "Kumi",
     "en": "Sir Hypnos, my Prince! Please crush them!{ATTENTE}",
     "locuteur_fr": "Kumi",
-    "fr": "Hypnos, mon Prince! Je t'en prie, détruis-les!{ATTENTE}"
+    "fr": "Hypnos, mon Prince! De grâce, détruis-les!{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0028",
@@ -207,7 +207,7 @@
     "locuteur": "Yukino",
     "en": "A Persona!?{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Une Persona!?"
+    "fr": "Une Persona!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0030",
@@ -263,7 +263,7 @@
     "locuteur": "Kumi",
     "en": "You can't grasp or accept the paradise{SAUT}of dreams!{ATTENTE}",
     "locuteur_fr": "Kumi",
-    "fr": "Saisir ou accepter le paradis des rêves vous est impossible!{ATTENTE}"
+    "fr": "Saisir ou accepter le paradis des rêves{SAUT}vous est impossible!{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0038",
@@ -312,7 +312,7 @@
     "locuteur": "Brown",
     "en": "But I gotta! For truth, justice,{SAUT}and the St. Hermelin way!{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "Pas le choix! Pour la vérité, la{SAUTjustice, et signé St. Hermelin!{ATTENTE}"
+    "fr": "Pas le choix! Pour la vérité, la{SAUT}justice, et signé St. Hermelin!{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0045",
