@@ -3,12 +3,12 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Dialogues      ████████████░░░░░░░░░░░░   52 %    4 416 / 8 572 textes
+Dialogues      ████████████░░░░░░░░░░░░   52 %    4 423 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
-Négociations   ██████░░░░░░░░░░░░░░░░░░   23 %    2 914 / 12 487 textes
+Négociations   ██████░░░░░░░░░░░░░░░░░░   25 %    3 104 / 12 487 textes
 
-Total          ██████████░░░░░░░░░░░░░░   43 %   10 416 / 24 145 textes
+Total          ███████████░░░░░░░░░░░░░   44 %   10 613 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -17,6 +17,7 @@ Ces entrées alourdissent leur fichier. Un bloc qui franchit sa frontière fait 
 
 - [`E0_024.json`](trad/dialogues/E0_024.json) — 1 entrée
 - [`EBOOT_020.json`](trad/eboot/EBOOT_020.json) — 1 entrée
+- [`TOILET_001.json`](trad/negociations/TOILET_001.json) — 1 entrée
 
 ## À relire
 
@@ -60,6 +61,7 @@ Ces lignes sont plus larges que l'anglaise et approchent de la limite de la boî
 - [`KUTISAKE_002.json`](trad/negociations/KUTISAKE_002.json) — 3 lignes
 - [`KUTISAKE_003.json`](trad/negociations/KUTISAKE_003.json) — 7 lignes
 - [`TENSI_004.json`](trad/negociations/TENSI_004.json) — 4 lignes
+- [`TOILET_001.json`](trad/negociations/TOILET_001.json) — 11 lignes
 - [`YAKUZA_001.json`](trad/negociations/YAKUZA_001.json) — 1 ligne
 - [`YAKUZA_002.json`](trad/negociations/YAKUZA_002.json) — 6 lignes
 
@@ -141,9 +143,9 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_038.json`](trad/dialogues/E0_038.json) | 79 | 1 | 1 % | commencé |
 | [`E0_039.json`](trad/dialogues/E0_039.json) | 56 | 1 | 2 % | commencé |
 | [`E0_040.json`](trad/dialogues/E0_040.json) | 89 | 2 | 2 % | commencé |
-| [`E0_041.json`](trad/dialogues/E0_041.json) | 89 | 0 | 0 % | en cours par @Colonel-Maskou (#48) |
+| [`E0_041.json`](trad/dialogues/E0_041.json) | 89 | 0 | 0 % | libre |
 | [`E0_042.json`](trad/dialogues/E0_042.json) | 82 | 14 | 17 % | commencé par @s3rei |
-| [`E0_043.json`](trad/dialogues/E0_043.json) | 100 | 36 | 36 % | en cours par @Colonel-Maskou (#47) · 1 trop large |
+| [`E0_043.json`](trad/dialogues/E0_043.json) | 100 | 43 | 43 % | commencé par @Colonel-Maskou · 1 trop large |
 | [`E0_044.json`](trad/dialogues/E0_044.json) | 100 | 100 | 100 % | terminé · 2 trop large |
 | [`E0_045.json`](trad/dialogues/E0_045.json) | 100 | 30 | 30 % | commencé |
 | [`E0_046.json`](trad/dialogues/E0_046.json) | 92 | 12 | 13 % | commencé |
@@ -369,7 +371,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`TINPRA_001.json`](trad/negociations/TINPRA_001.json) | 100 | 0 | 0 % | libre |
 | [`TINPRA_002.json`](trad/negociations/TINPRA_002.json) | 100 | 0 | 0 % | libre |
 | [`TINPRA_003.json`](trad/negociations/TINPRA_003.json) | 69 | 0 | 0 % | libre |
-| [`TOILET_001.json`](trad/negociations/TOILET_001.json) | 100 | 0 | 0 % | libre |
+| [`TOILET_001.json`](trad/negociations/TOILET_001.json) | 100 | 100 | 100 % | terminé par @Uolil-Raccoon · 1 à alléger |
 | [`TOILET_002.json`](trad/negociations/TOILET_002.json) | 100 | 0 | 0 % | libre |
 | [`TOILET_003.json`](trad/negociations/TOILET_003.json) | 100 | 0 | 0 % | libre |
 | [`TOILET_004.json`](trad/negociations/TOILET_004.json) | 19 | 19 | 100 % | terminé par @Uolil-Raccoon |
@@ -396,7 +398,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`ZMBITYAN_002.json`](trad/negociations/ZMBITYAN_002.json) | 100 | 100 | 100 % | terminé |
 | [`ZMBITYAN_003.json`](trad/negociations/ZMBITYAN_003.json) | 22 | 22 | 100 % | terminé |
 | [`ZOMBIKO_001.json`](trad/negociations/ZOMBIKO_001.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#46) |
-| [`ZOMBIKO_002.json`](trad/negociations/ZOMBIKO_002.json) | 90 | 0 | 0 % | en cours par @ATMC14 (#45) |
+| [`ZOMBIKO_002.json`](trad/negociations/ZOMBIKO_002.json) | 90 | 90 | 100 % | terminé par @ATMC14 |
 | [`ZOMB_MAN_001.json`](trad/negociations/ZOMB_MAN_001.json) | 100 | 0 | 0 % | libre |
 | [`ZOMB_MAN_002.json`](trad/negociations/ZOMB_MAN_002.json) | 82 | 36 | 44 % | commencé par @vikmorp |
 
