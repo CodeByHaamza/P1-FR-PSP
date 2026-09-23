@@ -63,17 +63,17 @@
   {
     "id": "TOILET.BIN:text:0019",
     "en": "  Don't you have any pride, miss? I hate{SAUT}girls like you more than anything![FFFD][0CFF][F500]W-Waaaah! You're up to something...(*RESPONSE*)",
-    "fr": "N'as-tu aucune fierté, mademoiselle?{SAUT}Je déteste plus que tout les filles dans ton genre![FFFD][0CFF][F500]A-Aaaaah! Tu manigances quelque chose...(*RESPONSE*)"
+    "fr": "N'as-tu aucune fierté, miss?{SAUT}Je déteste plus que tout les filles dans ton genre![FFFD][0CFF][F500]A-Aaaaah! Tu manigances quelque chose...(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0020",
     "en": "You're... complimenting me, right...?{SAUT}I've heard a lot of rumors about you,{SAUT}Miss Maki...[FFFD][0DFF][F500] Hee hee! Modesty is the way to go! Yep!(*RESPONSE*)",
-    "fr": "Tu... me complimentes, n'est-ce pas...?{SAUT}J'ai entendu beaucoup de rumeurs à ton{SAUT}sujet, Mademoiselle Maki...[FFFD][0DFF][F500] Hihi! La modestie, c'est la clé! Ouais!(*RESPONSE*)"
+    "fr": "Tu... me complimentes, n'est-ce pas...?{SAUT}J'ai entendu beaucoup de rumeurs à ton{SAUT}sujet, miss Maki...[FFFD][0DFF][F500] Hihi! La modestie, c'est la clé! Ouais!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0021",
     "en": "I always knew I was too perfect! I even{SAUT}scare myself... squee![FFFD][0EFF][F500]   I don't really get what you're saying,{SAUT}miss, but you might be right.(*RESPONSE*)",
-    "fr": "J'ai toujours su que j'étais trop parfaite!{SAUT}Je me fais même peur...hiii![FFFD][0EFF][F500] Je ne comprends pas tout ce que tu dis,{SAUT}mademoiselle, mais tu as sûrement raison.(*RESPONSE*)"
+    "fr": "J'ai toujours su que j'étais trop parfaite!{SAUT}Je me fais même peur...hiii![FFFD][0EFF][F500] Je ne comprends pas tout ce que tu dis,{SAUT}miss, mais tu as sûrement raison.(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0022",
@@ -93,7 +93,7 @@
   {
     "id": "TOILET.BIN:text:0025",
     "en": "   Hee hee! I can't believe your story, miss.{ATTENTE}",
-    "fr": "Hihi! Je ne peux pas croire à ton histoire, miss.{ATTENTE}"
+    "fr": "Hihi! Je ne crois pas à ton histoire, miss.{ATTENTE}"
   },
   {
     "id": "TOILET.BIN:text:0026",
@@ -173,7 +173,7 @@
   {
     "id": "TOILET.BIN:text:0042",
     "en": "   Will you be serious for once!? I'm telling{SAUT}you, this isn't the time to be talking{SAUT}about that stuff![FFFD][1AFF][F500]  Thanks for telling me a story! Ooh, I'll{SAUT}tell you a great story I know later!(*RESPONSE*)",
-    "fr": "Peux-tu garder ton sérieux un instant!? Je{SAUT}viens de te dire que ce n'était pas le{SAUT}moment de parler de ce genre de chose![FFFD][1AFF][F500] Merci de m'avoir raconté une histoire! Ohh,{SAUT}je te raconterai une bonne histoire plus tard!(*RESPONSE*)"
+    "fr": "Peux-tu garder ton sérieux un instant!? Je{SAUT}viens de te dire que ce n'était pas le{SAUT}moment de parler de ce genre de chose![FFFD][1AFF][F500] Merci de m'avoir raconté une histoire! Ohh,{SAUT}j'ai une histoire pour toi, à l'occasion!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0043",
@@ -183,7 +183,7 @@
   {
     "id": "TOILET.BIN:text:0044",
     "en": "   Wh-What was that just now!?[FFFD][1CFF][F500]  Wh-What was that!? Oh... I see... I get{SAUT}it now! You really piss me off!(*RESPONSE*)",
-    "fr": "Q-Qu'est'ce que c'était que ça, à l'instant!?[FFFD][1CFF][F500] Q-Qu'est-ce que c'était!? Oh... Je vois...{SAUT}Je comprends mieux! Tu me fais vraiment sortir de mes gonds!(*RESPONSE*)"
+    "fr": "Q-Qu'est'ce que c'était que ça, à l'instant!?[FFFD][1CFF][F500] Q-Qu'est-ce que c'était!? Oh... Je vois...{SAUT}J'ai compris! Ça me sort de mes gonds!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0045",
@@ -198,7 +198,7 @@
   {
     "id": "TOILET.BIN:text:0047",
     "en": " Are you from a rich family? Then you can{SAUT}give me more, right!?[FFFD][1FFF][F500]   Hey! A gift like that will clog up{SAUT}the toilet!(*RESPONSE*)",
-    "fr": "Tu viens d'une famille aisée? Dans ce cas{SAUT}tu pourrais m'offrir plus de trucs, non!?[FFFD][1FFF][F500] Hé! Ce genre de cadeau va obstruer les WC!(*RESPONSE*)"
+    "fr": "Tu viens d'une famille aisée? Dans ce cas{SAUT}tu pourrais m'offrir plus de trucs, non!?[FFFD][1FFF][F500] Hé! Ce genre de cadeau va obstruer{SAUT}les WC!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0048",
@@ -208,7 +208,7 @@
   {
     "id": "TOILET.BIN:text:0049",
     "en": "  Hee hee! Make more offerings to me! More![FFFD][21FF][F500]I don't really get what you're saying,{SAUT}mister, but you might be right.(*RESPONSE*)",
-    "fr": "Hihi! Offre-moi plus de trucs! Plus![FFFD][21FF][F500]Je ne comprends pas tout ce que tu dis, monsieur, mais tu as sûrement raison.(*RESPONSE*)"
+    "fr": "Hihi! Offre-moi plus de trucs! Plus![FFFD][21FF][F500]Je ne comprends pas tout ce que tu dis,{SAUT}monsieur, mais tu as sûrement raison.(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0051",
@@ -218,17 +218,17 @@
   {
     "id": "TOILET.BIN:text:0052",
     "en": "   Hee hee! You're making a big speech, but{SAUT}what you mean is, you need me, right?[FFFD][24FF][F500]   Normally someone who yelled at a toilet{SAUT}would be seen as a freak... but you{SAUT}might be an interesting person.(*RESPONSE*)",
-    "fr": "Hihi! Un grand discours, tout ça pour dire que tu as besoin de moi, c'est ça?[FFFD][24FF][F500] Normalement, quelqu'un qui hurle sur des{SAUT}WC passerait pour un fou... mais tu{SAUT}es peut-être quelqu'un d'intéressant.(*RESPONSE*)"
+    "fr": "Hihi! Un grand discours, tout ça pour{SAUT}dire que tu as besoin de moi, c'est ça?[FFFD][24FF][F500] Normalement, quelqu'un qui hurle sur des{SAUT}WC passerait pour un fou... mais tu{SAUT}es peut-être quelqu'un d'intéressant.(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0053",
     "en": "If you say you're strong, mister, I guess{SAUT}you are! So, what are your plans for me?[FFFD][25FF][F500]   ...Fine! See if I play with you anymore!(*RESPONSE*)",
-    "fr": "Si tu affirmes être fort, monsieur, j'imagine{SAUT}que c'est vrai! Alors, quels sont tes projets pour moi?[FFFD][25FF][F500] ...D'accord! Tu verras si je joue encore avec toi!(*RESPONSE*)"
+    "fr": "Si tu dis être fort, monsieur, j'imagine{SAUT}que c'est vrai! Alors, quels sont tes projets pour moi?[FFFD][25FF][F500] ...D'accord! Tu verras si je joue encore avec toi!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0054",
     "en": "   You're a smooth talker, mister![FFFD][26FF][F500]  W-Waaaaah! You get your kicks out of{SAUT}surprising a toilet...?(*RESPONSE*)",
-    "fr": "Tu es un beau parleur, monsieur![FFFD][26FF][F500] A-Aaaaaah! Ça t'amuse de surprendre des WC...?(*RESPONSE*)"
+    "fr": "Tu es un beau parleur, monsieur![FFFD][26FF][F500] A-Aaaaaah! Ça t'amuse de surprendre{SAUT}des WC...?(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0055",
@@ -303,7 +303,7 @@
   {
     "id": "TOILET.BIN:text:0071",
     "en": "   Hee hee! I can't believe your story,{SAUT}mister. Of course, it would be{SAUT}different if you gave me something![FFF1](*RESPONSE*)",
-    "fr": "Hihi! Je ne peux pas croire à ton histoire,{SAUT}monsieur. Évidemment, ce serait{SAUT}différent si tu me donnais quelque chose![FFF1](*RESPONSE*)"
+    "fr": "Hihi! Je ne crois pas à ton histoire,{SAUT}monsieur. Évidemment, ce serait{SAUT}différent si tu me donnais quelque chose![FFF1](*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0073",
@@ -313,7 +313,7 @@
   {
     "id": "TOILET.BIN:text:0074",
     "en": " W-Waaaaah! I'm not one of those demons{SAUT}who likes stuff like that![FFFD][36FF][F500]You know, my stories are much scarier{SAUT}than that! You wanna hear one?[FFFD][37FF][F500] I wanna go to a spooky place on a dare,{SAUT}too! Do you know anywhere I could do{SAUT}something like that?[FFFD][38FF][F500]Hmm, that was pretty good. You've got{SAUT}talent, miss!(*RESPONSE*)",
-    "fr": "A-Aaaaaah! Je ne suis pas comme ces démons{SAUT}, je n'aime pas ce genre de truc![FFFD][36FF][F500]Mes histoires sont bien plus effrayantes que ça, tu sais! Tu veux en entendre une?[FFFD][37FF][F500] Moi aussi, j'aimerais aller dans un lieu sinistre{SAUT}pour y relever un défi! Tu connais un endroit{SAUT}où je pourrais faire ça?[FFFD][38FF][F500]Hmm, c'était pas mal. Tu as{SAUT}du talent, mademoiselle!(*RESPONSE*)"
+    "fr": "A-Aaaaaah! Je ne suis pas comme ces démons{SAUT}, je n'aime pas ce genre de truc![FFFD][36FF][F500]Mes histoires sont bien plus effrayantes que ça, tu sais! Tu veux en entendre une?[FFFD][37FF][F500] Moi aussi, j'aimerais aller dans un lieu sinistre{SAUT}pour y relever un défi! Tu connais un endroit{SAUT}où je pourrais faire ça?[FFFD][38FF][F500]Hmm, c'était pas mal. Tu as{SAUT}du talent, miss!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0077",
@@ -333,7 +333,7 @@
   {
     "id": "TOILET.BIN:text:0080",
     "en": " Hee hee! This is kinda fun![FFFD][3EFF][F500]  I don't really get what you're saying,{SAUT}miss, but I feel like I'm being invited.(*RESPONSE*)",
-    "fr": "Hihi, c'est plutôt marrant![FFFD][3EFF][F500] Je ne comprends pas tout ce que tu dis,{SAUT}mademoiselle, mais j'ai l'impression d'être invitée.(*RESPONSE*)"
+    "fr": "Hihi, c'est plutôt marrant![FFFD][3EFF][F500] Je ne comprends pas tout ce que tu dis,{SAUT}miss, mais j'ai l'impression d'être invitée.(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0082",
@@ -388,12 +388,12 @@
   {
     "id": "TOILET.BIN:text:0094",
     "en": "   You seem strong, miss! So, what are{SAUT}your plans for me?[FFFD][4AFF][F500]   ...Fine! See if I play with you anymore!(*RESPONSE*)",
-    "fr": "Tu sembles être forte, mademoiselle!{SAUT}Alors, quels sont tes projets pour moi?[FFFD][4AFF][F500] ...D'accord! Tu verras si je joue encore avec toi!(*RESPONSE*)"
+    "fr": "Tu sembles être forte, miss!{SAUT}Alors, quels sont tes projets pour moi?[FFFD][4AFF][F500] ...D'accord! Tu verras si je joue encore avec toi!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0095",
     "en": "   You're a smooth talker, miss![FFFD][4BFF][F500]W-Waaaaah! You get your kicks out of{SAUT}threatening a toilet...?(*RESPONSE*)",
-    "fr": "Tu es une baratineuse, mademoiselle![FFFD][4BFF][F500] A-Aaaaaah! Ça t'amuse de menacer{SAUT}des WC...?(*RESPONSE*)"
+    "fr": "Tu es une baratineuse, miss![FFFD][4BFF][F500] A-Aaaaaah! Ça t'amuse de menacer{SAUT}des WC...?(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0096",
@@ -403,7 +403,7 @@
   {
     "id": "TOILET.BIN:text:0097",
     "en": "You're so rude all of a sudden! You don't{SAUT}have any manners at all![FFFD][4DFF][F500]   W-Waaaaah! Please stop, miss...(*RESPONSE*)",
-    "fr": "Tu es bien insolente tout à coup! Tu n'as{SAUT}absolument aucune éducation![FFFD][4DFF][F500] A-Aaaaaah! S'il te plaît, mademoiselle, arrête...(*RESPONSE*)"
+    "fr": "Tu es bien insolente tout à coup! Tu n'as{SAUT}absolument aucune éducation![FFFD][4DFF][F500] A-Aaaaaah! S'il te plaît, miss, arrête...(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0098",
@@ -413,12 +413,12 @@
   {
     "id": "TOILET.BIN:text:0099",
     "en": "  Hee hee! I've been a bad girl...{SAUT}so bully me more![FFFD][4FFF][F500]   I don't really get what you're saying,{SAUT}miss, but I think I can help you.(*RESPONSE*)",
-    "fr": "Hihi! Je n'ai pas été sage...{SAUT}alors harcèle-moi encore![FFFD][4FFF][F500] Je ne comprends pas tout ce que tu dis,{SAUT}mademoiselle, mais je pense que je peux t'aider.(*RESPONSE*)"
+    "fr": "Hihi! Je n'ai pas été sage...{SAUT}alors harcèle-moi encore![FFFD][4FFF][F500] Je ne comprends pas tout ce que tu dis,{SAUT}miss, mais je pense que je peux t'aider.(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0100",
     "en": "   Hmm... You're actually pretty reliable,{SAUT}miss.[FFFD][50FF][F500]Isn't there something wrong with you if{SAUT}you're trying to persuade a toilet!?(*RESPONSE*)",
-    "fr": "Hmm... Tu es plutôt digne de confiance,{SAUT}mademoiselle.[FFFD][50FF][F500]N'y a t-il pas un truc qui cloche{SAUT}chez toi si tu essayes de convaincre des WC!?(*RESPONSE*)"
+    "fr": "Hmm... Tu es plutôt digne de confiance,{SAUT}miss.[FFFD][50FF][F500]N'y a t-il pas un truc qui cloche{SAUT}chez toi si tu essayes de convaincre des WC!?(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0101",
@@ -448,7 +448,7 @@
   {
     "id": "TOILET.BIN:text:0106",
     "en": " Huh...? Miss, don't you want something{SAUT}with me?[FFFD][56FF][F500]  Hey! Don't ignore me! Ooh, how annoying!(*RESPONSE*)",
-    "fr": "Oh...? Mademoiselle, tu ne veux pas faire{SAUT}quelque chose avec moi?[FFFD][56FF][F500] Hé! Ne m'ignore pas! Ohh, que c'est énervant!(*RESPONSE*)"
+    "fr": "Oh...? Miss, tu ne veux pas faire{SAUT}quelque chose avec moi?[FFFD][56FF][F500] Hé! Ne m'ignore pas! Ohh, que c'est énervant!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0107",
