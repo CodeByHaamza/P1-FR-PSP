@@ -138,7 +138,7 @@
     "locuteur": "Mark",
     "en": "Me and Baldy... I mean, that lieutenant,{SAUT}had run-ins before, and it pissed me off...{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Le Chauve et moi... enfin, le{SAUT}lieutenant, on s'est déjà accrochés...{ATTENTE}"
+    "fr": "Le Chauve et moi... enfin, le lieutenant,{SAUT}on s'est accrochés, ça m'a gonflé...{ATTENTE}"
   },
   {
     "id": "E0.BIN:048:0021",
@@ -236,7 +236,7 @@
     "locuteur": "Mark",
     "en": "Nanjo, you dickweed! What took you guys!?{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Nanjo, abruti! T'en as mis, du temps!{ATTENTE}"
+    "fr": "Nanjo, connard! T'en as mis, du temps!{ATTENTE}"
   },
   {
     "id": "E0.BIN:049:0009",

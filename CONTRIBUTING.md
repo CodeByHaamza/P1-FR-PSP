@@ -159,6 +159,17 @@ y signales une hésitation, tu auras une réponse dessus. Sers-t'en.
 
 ---
 
+### Et si l'anglais est vulgaire?
+
+**Alors le français l'est aussi.** Sans exception de personnage : `That dick!`
+devient « Ce con! », `you bastard!` devient « espèce de salaud! ». Adoucir
+donne un jeu mou où plus personne n'a de voix.
+
+L'inverse vaut aussi : on n'ajoute pas de gros mot que l'anglais n'a pas.
+`frickin'`, `darn`, `heck` sont déjà des façons polies de jurer en anglais, et
+`bitching and moaning` veut simplement dire « râler ». Le détail est dans
+[docs/REGLES.md](docs/REGLES.md).
+
 ## Le style
 
 - **Tutoiement entre les personnages**, sauf Nanjo, qui vouvoie presque tout le
