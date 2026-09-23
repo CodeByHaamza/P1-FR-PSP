@@ -79,6 +79,7 @@ Terminologie à confirmer — un terme du dictionnaire apparaît dans l'anglais 
 
 Ces lignes sont plus larges que l'anglaise et approchent de la limite de la boîte. Elles ne débordent pas à coup sûr, mais un `{SAUT}` de plus serait plus sage.
 
+- [`E0_016.json`](trad/dialogues/E0_016.json) — 1 ligne
 - [`E0_028.json`](trad/dialogues/E0_028.json) — 5 lignes
 - [`E0_041.json`](trad/dialogues/E0_041.json) — 1 ligne
 - [`E0_043.json`](trad/dialogues/E0_043.json) — 1 ligne
