@@ -266,7 +266,7 @@
   {
     "id": "E1.BIN:074:0038",
     "en": "{FERME} > Obtained (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Ambrosia(*TEXTBOX_PARAM,0000*) x1.{ATTENTE}",
-    "fr": "{FERME} > (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Ambrosia(*TEXTBOX_PARAM,0000*) x1 obtenue.{ATTENTE}",
+    "fr": "{FERME} > (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Ambroisie(*TEXTBOX_PARAM,0000*) x1 obtenue.{ATTENTE}",
     "_occurrences": 3
   },
   {

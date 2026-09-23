@@ -219,27 +219,27 @@
     "id": "E0.BIN:006:0004",
     "locuteur": "Principal Ooishi",
     "en": "Well, hello, (*APELLIDO_HEROE*)!{SAUT}Are you all taking a walk, too?{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
+    "locuteur_fr": "Proviseure Ooishi",
     "fr": "Tiens, bonjour, (*APELLIDO_HEROE*)!{SAUT}Vous vous promenez aussi?{ATTENTE}"
   },
   {
     "id": "E0.BIN:006:0005",
     "locuteur": "Principal Ooishi",
     "en": "It's been part of my daily routine,{SAUT}ever since I was a girl...{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
+    "locuteur_fr": "Proviseure Ooishi",
     "fr": "C'est mon rituel quotidien,{SAUT}depuis que je suis toute petite...{ATTENTE}"
   },
   {
     "id": "E0.BIN:006:0006",
     "locuteur": "Principal Ooishi",
     "en": "...Praying to the guardian deity that{SAUT}everyone grows up into fine adults.{ATTENTE}",
-    "locuteur_fr": "Proviseur Ooishi",
+    "locuteur_fr": "Proviseure Ooishi",
     "fr": "...Prier la divinité gardienne pour{SAUT}que chacun devienne quelqu'un de bien.{ATTENTE}"
   },
   {
     "id": "E0.BIN:006:0007",
     "en": "{FERME}  (*TEXTBOX_PARAM,0300*)> Principal Ooishi{SAUT}The principal of St. Hermelin High.{SAUT}She adores children and flowers.(*TEXTBOX_PARAM,0000*){ATTENTE}",
-    "fr": "{FERME}  (*TEXTBOX_PARAM,0300*)> Proviseur Ooishi{SAUT}Proviseur du lycée St. Hermelin.{SAUT}Elle adore les enfants et les fleurs.(*TEXTBOX_PARAM,0000*){ATTENTE}",
+    "fr": "{FERME}  (*TEXTBOX_PARAM,0300*)> Proviseure Ooishi{SAUT}Proviseure du lycée St. Hermelin.{SAUT}Elle adore les enfants et les fleurs.(*TEXTBOX_PARAM,0000*){ATTENTE}",
     "_occurrences": 2
   },
   {

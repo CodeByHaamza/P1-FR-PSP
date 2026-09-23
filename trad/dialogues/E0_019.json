@@ -144,7 +144,7 @@
     "locuteur": "Nanjo",
     "en": "You mean a time slip? That's rather{SAUT}different than what your mother said.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Un glissement temporel? Cela diffère{SAUT}de ce qu'a dit votre mère.{ATTENTE}"
+    "fr": "Un saut dans le temps? Cela diffère{SAUT}de ce qu'a dit votre mère.{ATTENTE}"
   },
   {
     "id": "E0.BIN:064:0021",
@@ -277,7 +277,7 @@
     "locuteur": "Elly",
     "en": "A time slip... Do you think it's true,{SAUT}(*APELLIDO_HEROE*)?{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Un glissement temporel... Tu y crois,{SAUT}(*APELLIDO_HEROE*)?{ATTENTE}"
+    "fr": "Un saut dans le temps... Tu y crois,{SAUT}(*APELLIDO_HEROE*)?{ATTENTE}"
   },
   {
     "id": "E0.BIN:064:0040",
@@ -326,7 +326,7 @@
     "locuteur": "Nanjo",
     "en": "You there. How many days are left until{SAUT}the sports festival?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Vous, là. Combien de jours reste-t-il{SAUT}avant la fête du sport?{ATTENTE}"
+    "fr": "Vous, là. Combien de jours reste-t-il{SAUT}avant le festival sportif?{ATTENTE}"
   },
   {
     "id": "E0.BIN:064:0047",

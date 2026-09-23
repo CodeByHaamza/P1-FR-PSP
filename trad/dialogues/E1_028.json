@@ -57,12 +57,12 @@
     "locuteur": "Raiho",
     "en": "Why not exchange your (*TEXTBOX_PARAM,0500*)Ambrosia(*TEXTBOX_PARAM,0000*) for one{SAUT}of my hee-(*TEXTBOX_PARAM,0700*)totems(*TEXTBOX_PARAM,0000*), ho?{ATTENTE}",
     "locuteur_fr": "Raiho",
-    "fr": "Et si tu échangeais ton (*TEXTBOX_PARAM,0500*)Ambrosia(*TEXTBOX_PARAM,0000*) contre{SAUT}un de mes hi-(*TEXTBOX_PARAM,0700*)totems(*TEXTBOX_PARAM,0000*), ho?{ATTENTE}"
+    "fr": "Et si tu échangeais ton (*TEXTBOX_PARAM,0500*)Ambroisie(*TEXTBOX_PARAM,0000*) contre{SAUT}un de mes hi-(*TEXTBOX_PARAM,0700*)totems(*TEXTBOX_PARAM,0000*), ho?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0012",
     "en": "{FERME}   > Ask about exchanging Ambrosia?{ATTENTE}",
-    "fr": "{FERME}   > Demander un échange d'Ambrosia?{ATTENTE}"
+    "fr": "{FERME}   > Demander un échange d'Ambroisie?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0013",
@@ -76,7 +76,7 @@
     "locuteur": "Reiho",
     "en": "Hee! You're right! He's got (*TEXTBOX_PARAM,0500*)Ambrosia(*TEXTBOX_PARAM,0000*)!{ATTENTE}",
     "locuteur_fr": "Reiho",
-    "fr": "Hi! T'as raison! Il a de l'(*TEXTBOX_PARAM,0500*)Ambrosia(*TEXTBOX_PARAM,0000*)!{ATTENTE}"
+    "fr": "Hi! T'as raison! Il a de l'(*TEXTBOX_PARAM,0500*)Ambroisie(*TEXTBOX_PARAM,0000*)!{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0015",
@@ -111,7 +111,7 @@
     "locuteur": "Raiho",
     "en": "I'll exchange one of my (*TEXTBOX_PARAM,0700*)totems(*TEXTBOX_PARAM,0000*) for a{SAUT}piece of (*TEXTBOX_PARAM,0500*)Ambrosia(*TEXTBOX_PARAM,0000*)!{ATTENTE}",
     "locuteur_fr": "Raiho",
-    "fr": "J'échange un de mes (*TEXTBOX_PARAM,0700*)totems(*TEXTBOX_PARAM,0000*) contre{SAUT}une part d'(*TEXTBOX_PARAM,0500*)Ambrosia(*TEXTBOX_PARAM,0000*)!{ATTENTE}"
+    "fr": "J'échange un de mes (*TEXTBOX_PARAM,0700*)totems(*TEXTBOX_PARAM,0000*) contre{SAUT}une part d'(*TEXTBOX_PARAM,0500*)Ambroisie(*TEXTBOX_PARAM,0000*)!{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0021",
@@ -139,7 +139,7 @@
     "locuteur": "Raiho",
     "en": "Think about hee-how much Ambrosia you{SAUT}have left before you decide who gets one.{ATTENTE}",
     "locuteur_fr": "Raiho",
-    "fr": "Pense à la hi-quantité d' Ambrosia qu'il{SAUT}te reste avant de choisir qui en a un.{ATTENTE}"
+    "fr": "Pense à la hi-quantité d' Ambroisie qu'il{SAUT}te reste avant de choisir qui en a un.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0025",
@@ -228,7 +228,7 @@
     "locuteur": "Yukino",
     "en": "We don't have many Ambrosia. You should{SAUT}think hard about who gets a totem.{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "On n'a pas beaucoup d' Ambrosia.{SAUT}Réfléchis bien à qui recevra un totem.{ATTENTE}"
+    "fr": "On n'a pas beaucoup d' Ambroisie.{SAUT}Réfléchis bien à qui recevra un totem.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0039",
@@ -365,7 +365,7 @@
     "locuteur": "Nanjo",
     "en": "I'm sure you're aware that Ambrosia is{SAUT}a rare commodity.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Tu sais sûrement que l' Ambrosia est une{SAUT}denrée rare.{ATTENTE}"
+    "fr": "Tu sais sûrement que l' Ambroisie est une{SAUT}denrée rare.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0060",

@@ -180,13 +180,13 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2BC0A4",
     "en": "Alaya[0000]Shrine{FERME}",
-    "fr": "Autel[0000]Alaya{FERME}",
+    "fr": "Temple[0000]Alaya{FERME}",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2BC0EE",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Alaya[0000]Shrine{FERME}",
-    "fr": "Autel[0000]Alaya{FERME}",
+    "fr": "Temple[0000]Alaya{FERME}",
     "max": 11,
     "_occurrences": 6
   },
