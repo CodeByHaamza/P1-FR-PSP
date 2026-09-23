@@ -3,12 +3,12 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Dialogues      ████████████░░░░░░░░░░░░   51 %    4 375 / 8 572 textes
+Dialogues      ████████████░░░░░░░░░░░░   52 %    4 416 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
 Négociations   ██████░░░░░░░░░░░░░░░░░░   23 %    2 914 / 12 487 textes
 
-Total          ██████████░░░░░░░░░░░░░░   43 %   10 375 / 24 145 textes
+Total          ██████████░░░░░░░░░░░░░░   43 %   10 416 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -142,7 +142,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_039.json`](trad/dialogues/E0_039.json) | 56 | 1 | 2 % | commencé |
 | [`E0_040.json`](trad/dialogues/E0_040.json) | 89 | 2 | 2 % | commencé |
 | [`E0_041.json`](trad/dialogues/E0_041.json) | 89 | 0 | 0 % | en cours par @Colonel-Maskou (#48) |
-| [`E0_042.json`](trad/dialogues/E0_042.json) | 82 | 0 | 0 % | en cours par @s3rei (#43) |
+| [`E0_042.json`](trad/dialogues/E0_042.json) | 82 | 14 | 17 % | commencé par @s3rei |
 | [`E0_043.json`](trad/dialogues/E0_043.json) | 100 | 36 | 36 % | en cours par @Colonel-Maskou (#47) · 1 trop large |
 | [`E0_044.json`](trad/dialogues/E0_044.json) | 100 | 100 | 100 % | terminé · 2 trop large |
 | [`E0_045.json`](trad/dialogues/E0_045.json) | 100 | 30 | 30 % | commencé |
@@ -169,7 +169,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E1_018.json`](trad/dialogues/E1_018.json) | 100 | 0 | 0 % | libre |
 | [`E1_019.json`](trad/dialogues/E1_019.json) | 46 | 1 | 2 % | commencé |
 | [`E1_020.json`](trad/dialogues/E1_020.json) | 67 | 3 | 4 % | commencé |
-| [`E1_021.json`](trad/dialogues/E1_021.json) | 66 | 0 | 0 % | libre |
+| [`E1_021.json`](trad/dialogues/E1_021.json) | 66 | 27 | 41 % | commencé par @vikmorp |
 | [`E1_022.json`](trad/dialogues/E1_022.json) | 95 | 0 | 0 % | libre |
 | [`E1_023.json`](trad/dialogues/E1_023.json) | 96 | 9 | 9 % | commencé |
 | [`E1_024.json`](trad/dialogues/E1_024.json) | 93 | 1 | 1 % | commencé |
@@ -369,7 +369,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`TINPRA_001.json`](trad/negociations/TINPRA_001.json) | 100 | 0 | 0 % | libre |
 | [`TINPRA_002.json`](trad/negociations/TINPRA_002.json) | 100 | 0 | 0 % | libre |
 | [`TINPRA_003.json`](trad/negociations/TINPRA_003.json) | 69 | 0 | 0 % | libre |
-| [`TOILET_001.json`](trad/negociations/TOILET_001.json) | 100 | 0 | 0 % | en cours par @Uolil-Raccoon (#44) |
+| [`TOILET_001.json`](trad/negociations/TOILET_001.json) | 100 | 0 | 0 % | libre |
 | [`TOILET_002.json`](trad/negociations/TOILET_002.json) | 100 | 0 | 0 % | libre |
 | [`TOILET_003.json`](trad/negociations/TOILET_003.json) | 100 | 0 | 0 % | libre |
 | [`TOILET_004.json`](trad/negociations/TOILET_004.json) | 19 | 19 | 100 % | terminé par @Uolil-Raccoon |
