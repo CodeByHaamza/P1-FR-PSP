@@ -7,7 +7,7 @@
   {
     "id": "ZOMB_MAN.BIN:text:0101",
     "en": "I feel like I'm burning up inside...(*RESPONSE*)",
-    "fr": "On dirait que ça brûle en moi...(*RESPONSE*)"
+    "fr": "Za brûle en dedans...(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0102",
@@ -42,7 +42,7 @@
   {
     "id": "ZOMB_MAN.BIN:text:0108",
     "en": "Guh! Sorry! I'm sorry!(*RESPONSE*)",
-    "fr": "Gah! Pardon! Désolé!(*RESPONSE*)"
+    "fr": "Gah! Pardon! J'suis dézolé!(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0109",
@@ -67,7 +67,7 @@
   {
     "id": "ZOMB_MAN.BIN:text:0113",
     "en": "  I feel like I'm not gonna gro az a{SAUT}zombie if I talk with you...(*OPTION*)",
-    "fr": "  J'sens que j'vais pas évoluer en{SAUT}tant que zombie zi j'te parle...(*OPTION*)"
+    "fr": "  J'sens que j'vais pas grandir en{SAUT}zombie zi j'te parle...(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0114",
@@ -122,7 +122,7 @@
   {
     "id": "ZOMB_MAN.BIN:text:0124",
     "en": "   I'll give you my card, but hurry and{SAUT}make a Persona with it, or it might rot.(*OPTION*)",
-    "fr": "   J'te donne ma carte, mais fais vite{SAUT}une Persona avec, zinon ça va pourrir.(*OPTION*)"
+    "fr": "   J'te donne ma carte, mais fais vite{SAUT}un Persona avec, zinon ça va pourrir.(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0125",
@@ -157,12 +157,12 @@
   {
     "id": "ZOMB_MAN.BIN:text:0131",
     "en": "Just be happy yur still alive! It's greedy{SAUT}to want more!(*OPTION*)",
-    "fr": "Zois heureux d'être vivant! Z'est avide{SAUT}de vouloir plus!(*OPTION*)"
+    "fr": "Zois heureux d'être vivant! Z'est{SAUT}trop gourmand d'en vouloir plus!(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0132",
     "en": "   You wanna talk? You brought a little{SAUT}prezent for me, right...?[FFF1](*RESPONSE*)",
-    "fr": "   T'veux parler? T'as acheté un p'tit{SAUT}cadeau pour moi, hein...?[FFF1](*RESPONSE*)"
+    "fr": "   T'veux parler? T'as apporté un p'tit{SAUT}cadeau pour moi, hein...?[FFF1](*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0133",
@@ -187,7 +187,7 @@
   {
     "id": "ZOMB_MAN.BIN:text:0137",
     "en": "   ...Yur hiding something... I hate guyz{SAUT}who keep secrets!(*RESPONSE*)",
-    "fr": "   ...Tu caches un truc... J'hais ceux{SAUT}qui garde des secrets!(*RESPONSE*)"
+    "fr": "   ...Tu caches un truc... J'aime pô ceux{SAUT}qui gardent des zecrets!(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0138",
