@@ -452,7 +452,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_289FC0",
     "en": "Alaya Shrine... That's a funny name.{ATTENTE}",
-    "fr": "Autel Alaya... Drôle de nom.{ATTENTE}",
+    "fr": "Temple Alaya... Drôle de nom.{ATTENTE}",
     "max": 36
   },
   {
@@ -470,7 +470,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_28A090",
     "en": "\"The history of the Alaya Shrine\"...{ATTENTE}",
-    "fr": "\"L'histoire de l'autel Alaya\"...{ATTENTE}",
+    "fr": "\"L'histoire du temple Alaya\"...{ATTENTE}",
     "max": 36
   },
   {

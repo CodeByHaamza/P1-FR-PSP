@@ -235,7 +235,7 @@
     "locuteur": "Maki",
     "en": "(*APELLIDO_HEROE*), let's try our luck at{SAUT}the (*TEXTBOX_PARAM,0700*)Alaya Shrine(*TEXTBOX_PARAM,0000*).{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "(*APELLIDO_HEROE*), tentons notre chance à{SAUT}l'(*TEXTBOX_PARAM,0700*)Autel Alaya(*TEXTBOX_PARAM,0000*).{ATTENTE}"
+    "fr": "(*APELLIDO_HEROE*), tentons notre chance à{SAUT}l'(*TEXTBOX_PARAM,0700*)Temple Alaya(*TEXTBOX_PARAM,0000*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:070:0036",
@@ -312,7 +312,7 @@
     "locuteur": "Yosuke",
     "en": "The Alaya Shrine is right where it was{SAUT}in our world. Find a way home.{ATTENTE}",
     "locuteur_fr": "Yosuke",
-    "fr": "L'Autel Alaya est au même endroit que{SAUT}chez nous. Trouvez le chemin du retour.{ATTENTE}"
+    "fr": "Le Temple Alaya est au même endroit que{SAUT}chez nous. Trouvez le chemin du retour.{ATTENTE}"
   },
   {
     "id": "E0.BIN:070:0048",

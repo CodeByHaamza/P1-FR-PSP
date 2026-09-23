@@ -186,7 +186,7 @@
     "locuteur": "Nanjo",
     "en": "Don't forget to go to the Alaya Shrine,{SAUT}(*APELLIDO_HEROE*).{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "N'oubliez pas l'Autel Alaya,{SAUT}(*APELLIDO_HEROE*).{ATTENTE}"
+    "fr": "N'oubliez pas le Temple Alaya,{SAUT}(*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:088:0004",

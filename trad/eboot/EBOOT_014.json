@@ -56,13 +56,13 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28BA40",
     "en": "Alaya Shrine",
-    "fr": "Autel Alaya",
+    "fr": "Temple Alaya",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:LE_UI:OFF_28BA80",
     "en": "Alaya Shrine Entrance",
-    "fr": "Entrée autel Alaya",
+    "fr": "Entrée temple Alaya",
     "max": 21
   },
   {
