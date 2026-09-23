@@ -183,7 +183,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E1_028.json`](trad/dialogues/E1_028.json) | 79 | 79 | 100 % | terminé |
 | [`E1_029.json`](trad/dialogues/E1_029.json) | 99 | 23 | 23 % | commencé |
 | [`E1_030.json`](trad/dialogues/E1_030.json) | 96 | 96 | 100 % | terminé · 3 trop large |
-| [`E1_031.json`](trad/dialogues/E1_031.json) | 97 | 28 | 29 % | commencé · 1 trop large |
+| [`E1_031.json`](trad/dialogues/E1_031.json) | 97 | 28 | 29 % | en cours par @CodeByHaamza (#56) · 1 trop large |
 | [`E2_001.json`](trad/dialogues/E2_001.json) | 95 | 29 | 31 % | commencé · 2 trop large |
 | [`E2_002.json`](trad/dialogues/E2_002.json) | 100 | 39 | 39 % | commencé · 2 trop large |
 | [`E2_003.json`](trad/dialogues/E2_003.json) | 96 | 7 | 7 % | commencé |
@@ -402,5 +402,5 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`ZOMBIKO_001.json`](trad/negociations/ZOMBIKO_001.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
 | [`ZOMBIKO_002.json`](trad/negociations/ZOMBIKO_002.json) | 90 | 90 | 100 % | terminé par @ATMC14 |
 | [`ZOMB_MAN_001.json`](trad/negociations/ZOMB_MAN_001.json) | 100 | 0 | 0 % | libre |
-| [`ZOMB_MAN_002.json`](trad/negociations/ZOMB_MAN_002.json) | 82 | 36 | 44 % | commencé par @vikmorp |
+| [`ZOMB_MAN_002.json`](trad/negociations/ZOMB_MAN_002.json) | 82 | 36 | 44 % | en cours par @CodeByHaamza (#56) |
 
