@@ -205,7 +205,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E1_004.json`](trad/dialogues/E1_004.json) | 87 | 4 | 5 % | commencé |
 | [`E1_005.json`](trad/dialogues/E1_005.json) | 81 | 1 | 1 % | commencé |
 | [`E1_006.json`](trad/dialogues/E1_006.json) | 77 | 37 | 48 % | commencé · 1 terme |
-| [`E1_007.json`](trad/dialogues/E1_007.json) | 97 | 1 | 1 % | commencé |
+| [`E1_007.json`](trad/dialogues/E1_007.json) | 97 | 1 | 1 % | en cours par @CodeByHaamza (#58) |
 | [`E1_008.json`](trad/dialogues/E1_008.json) | 74 | 19 | 26 % | commencé par @vikmorp · 1 trop large |
 | [`E1_009.json`](trad/dialogues/E1_009.json) | 75 | 27 | 36 % | commencé · 2 trop large |
 | [`E1_010.json`](trad/dialogues/E1_010.json) | 63 | 63 | 100 % | terminé |
@@ -230,12 +230,12 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E1_029.json`](trad/dialogues/E1_029.json) | 99 | 23 | 23 % | commencé |
 | [`E1_030.json`](trad/dialogues/E1_030.json) | 96 | 96 | 100 % | terminé · 3 trop large |
 | [`E1_031.json`](trad/dialogues/E1_031.json) | 97 | 28 | 29 % | commencé · 1 terme |
-| [`E2_001.json`](trad/dialogues/E2_001.json) | 95 | 29 | 31 % | commencé · 2 trop large |
+| [`E2_001.json`](trad/dialogues/E2_001.json) | 95 | 29 | 31 % | en cours par @CodeByHaamza (#58) · 2 trop large |
 | [`E2_002.json`](trad/dialogues/E2_002.json) | 100 | 39 | 39 % | commencé · 2 trop large |
 | [`E2_003.json`](trad/dialogues/E2_003.json) | 96 | 7 | 7 % | commencé |
 | [`E2_004.json`](trad/dialogues/E2_004.json) | 97 | 4 | 4 % | commencé |
 | [`E2_005.json`](trad/dialogues/E2_005.json) | 92 | 92 | 100 % | terminé · 1 terme |
-| [`E2_006.json`](trad/dialogues/E2_006.json) | 92 | 32 | 35 % | commencé |
+| [`E2_006.json`](trad/dialogues/E2_006.json) | 92 | 32 | 35 % | en cours par @CodeByHaamza (#58) |
 | [`E2_007.json`](trad/dialogues/E2_007.json) | 99 | 7 | 7 % | commencé |
 | [`E2_008.json`](trad/dialogues/E2_008.json) | 99 | 39 | 39 % | commencé · 2 trop large |
 | [`E2_009.json`](trad/dialogues/E2_009.json) | 97 | 36 | 37 % | commencé · 1 trop large |
