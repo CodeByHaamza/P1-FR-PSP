@@ -3,12 +3,12 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Dialogues      █████████████░░░░░░░░░░░   53 %    4 514 / 8 572 textes
+Dialogues      █████████████░░░░░░░░░░░   53 %    4 530 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
-Négociations   ██████░░░░░░░░░░░░░░░░░░   26 %    3 304 / 12 487 textes
+Négociations   ███████░░░░░░░░░░░░░░░░░   28 %    3 473 / 12 487 textes
 
-Total          ███████████░░░░░░░░░░░░░   45 %   10 904 / 24 145 textes
+Total          ███████████░░░░░░░░░░░░░   46 %   11 089 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -69,6 +69,7 @@ Terminologie à confirmer — un terme du dictionnaire apparaît dans l'anglais 
 - [`MAYOERU_002.json`](trad/negociations/MAYOERU_002.json) — 2 termes
 - [`SLIME_002.json`](trad/negociations/SLIME_002.json) — 2 termes
 - [`TENSI_002.json`](trad/negociations/TENSI_002.json) — 1 terme
+- [`TINPRA_002.json`](trad/negociations/TINPRA_002.json) — 2 termes
 - [`YAKUZA_002.json`](trad/negociations/YAKUZA_002.json) — 2 termes
 - [`ZMBITYAN_002.json`](trad/negociations/ZMBITYAN_002.json) — 2 termes
 - [`ZOMBIKO_002.json`](trad/negociations/ZOMBIKO_002.json) — 3 termes
@@ -79,6 +80,7 @@ Terminologie à confirmer — un terme du dictionnaire apparaît dans l'anglais 
 Ces lignes sont plus larges que l'anglaise et approchent de la limite de la boîte. Elles ne débordent pas à coup sûr, mais un `{SAUT}` de plus serait plus sage.
 
 - [`E0_028.json`](trad/dialogues/E0_028.json) — 5 lignes
+- [`E0_041.json`](trad/dialogues/E0_041.json) — 1 ligne
 - [`E0_043.json`](trad/dialogues/E0_043.json) — 1 ligne
 - [`E0_044.json`](trad/dialogues/E0_044.json) — 2 lignes
 - [`E1_001.json`](trad/dialogues/E1_001.json) — 3 lignes
@@ -188,7 +190,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_038.json`](trad/dialogues/E0_038.json) | 79 | 1 | 1 % | commencé |
 | [`E0_039.json`](trad/dialogues/E0_039.json) | 56 | 1 | 2 % | commencé |
 | [`E0_040.json`](trad/dialogues/E0_040.json) | 89 | 2 | 2 % | commencé |
-| [`E0_041.json`](trad/dialogues/E0_041.json) | 89 | 12 | 13 % | en cours par @Colonel-Maskou (#55) |
+| [`E0_041.json`](trad/dialogues/E0_041.json) | 89 | 28 | 31 % | commencé par @Colonel-Maskou · 1 trop large |
 | [`E0_042.json`](trad/dialogues/E0_042.json) | 82 | 14 | 17 % | commencé par @s3rei |
 | [`E0_043.json`](trad/dialogues/E0_043.json) | 100 | 43 | 43 % | commencé par @Colonel-Maskou · 1 trop large |
 | [`E0_044.json`](trad/dialogues/E0_044.json) | 100 | 100 | 100 % | terminé · 2 trop large |
@@ -414,8 +416,8 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`TENSI_005.json`](trad/negociations/TENSI_005.json) | 100 | 100 | 100 % | terminé |
 | [`TENSI_006.json`](trad/negociations/TENSI_006.json) | 82 | 82 | 100 % | terminé |
 | [`TINPRA_001.json`](trad/negociations/TINPRA_001.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
-| [`TINPRA_002.json`](trad/negociations/TINPRA_002.json) | 100 | 0 | 0 % | libre |
-| [`TINPRA_003.json`](trad/negociations/TINPRA_003.json) | 69 | 0 | 0 % | en cours par @ATMC14 (#54) |
+| [`TINPRA_002.json`](trad/negociations/TINPRA_002.json) | 100 | 100 | 100 % | terminé par @ATMC14 · 2 termes |
+| [`TINPRA_003.json`](trad/negociations/TINPRA_003.json) | 69 | 69 | 100 % | terminé par @ATMC14 |
 | [`TOILET_001.json`](trad/negociations/TOILET_001.json) | 100 | 100 | 100 % | terminé par @Uolil-Raccoon · 1 à alléger |
 | [`TOILET_002.json`](trad/negociations/TOILET_002.json) | 100 | 0 | 0 % | libre |
 | [`TOILET_003.json`](trad/negociations/TOILET_003.json) | 100 | 0 | 0 % | libre |
