@@ -2,452 +2,452 @@
   {
     "id": "ZOMBIKO.BIN:text:0102",
     "en": "I'd forgotten the excitement I felt as{SAUT}a girl, but it's coming back to me...(*RESPONSE*)",
-    "fr": ""
+    "fr": "J'avais oublié le frisson que je{SAUT}sentais jeune fille, mais ça revient...(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0103",
     "en": "   I might not mind being your servant...{SAUT}Is there anyone in particular you{SAUT}want dead?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Être ta servante, pourquoi pas... Y a{SAUT}quelqu'un en particulier que tu veux{SAUT}voir mort?(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0104",
     "en": "You're a really bad actor.(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es un très mauvais acteur.(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0105",
     "en": " I'd like to go along with your lie,{SAUT}but I just can't.(*RESPONSE*)",
-    "fr": ""
+    "fr": "J'aimerais bien gober ton mensonge,{SAUT}mais je peux pas.(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0106",
     "en": "  You're pretty cocky.(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es plutôt culotté.(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0107",
     "en": "   You wouldn't want to make me mad, right?{SAUT}Then agree to my request...[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu voudrais pas me fâcher, hein?{SAUT}Alors accepte ma demande...[FFF1](*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0108",
     "en": "  Are you trying to praise me to death?{SAUT}I wonder if it'll work...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu veux me tuer sous les compliments?{SAUT}Je me demande si ça marchera...(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0109",
     "en": "You have to be scheming something...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu manigances forcément un truc...(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0110",
     "en": "   The same bastards who used to pick on{SAUT}me, begging and pleading for me to spare{SAUT}their lives...{ATTENTE}",
-    "fr": ""
+    "fr": "Ces salauds qui me malmenaient,{SAUT}en train de me supplier de leur{SAUT}laisser la vie...{ATTENTE}"
   },
   {
     "id": "ZOMBIKO.BIN:text:0111",
     "en": "{PAGE}It's good to be a demon!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}C'est bon d'être un démon!(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0112",
     "en": "Hey... I'm cuter than you, right?{SAUT}C'mon, give me a straight answer!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hé... Je suis plus mignonne que toi,{SAUT}non? Allez, réponds franchement!(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0113",
     "en": "You have my spell card, right? I can{SAUT}smell it on you.{ATTENTE}",
-    "fr": ""
+    "fr": "Tu as ma carte de sort, pas vrai?{SAUT}Je la sens sur toi.{ATTENTE}"
   },
   {
     "id": "ZOMBIKO.BIN:text:0114",
     "en": "{PAGE}Make me into a Persona with beautiful,{SAUT}clear skin, okay?(*OPTION*)",
-    "fr": ""
+    "fr": "{PAGE}Fais de moi un Persona à la peau{SAUT}belle et nette, d'accord?(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0115",
     "en": "I don't think my personality would be{SAUT}a good match for a cheerful guy like you.(*OPTION*)",
-    "fr": ""
+    "fr": "Mon caractère collerait mal avec un{SAUT}gars joyeux comme toi, je crois.(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0116",
     "en": "You're so weak... You'd better shape up{SAUT}if you want me to keep you company.(*OPTION*)",
-    "fr": ""
+    "fr": "T'es si faible... Ressaisis-toi si tu{SAUT}veux que je te tienne compagnie.(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0117",
     "en": "Oh my... no way.(*OPTION*)",
-    "fr": ""
+    "fr": "Oh là... hors de question.(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0118",
     "en": "   Here, I'll give you this.(*OPTION*)",
-    "fr": ""
+    "fr": "Tiens, je te donne ça.(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0119",
     "en": "  This is for you too!(*OPTION*)",
-    "fr": ""
+    "fr": "Ça aussi, c'est pour toi!(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0120",
     "en": "   I'll give you this... just don't think{SAUT}badly of me.(*OPTION*)",
-    "fr": ""
+    "fr": "Je te donne ça... pense juste pas{SAUT}du mal de moi.(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0121",
     "en": "Maybe by the time we meet again,{SAUT}you'll have turned into a zombie!(*OPTION*)",
-    "fr": ""
+    "fr": "D'ici qu'on se revoie, tu seras{SAUT}peut-être devenu un zombie!(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0122",
     "en": " I have lots of time, but I don't want{SAUT}to waste it on something trivial.(*OPTION*)",
-    "fr": ""
+    "fr": "J'ai tout mon temps, mais pas envie{SAUT}de le gâcher pour une broutille.(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0123",
     "en": "I-I'll give you this! Please, just look{SAUT}the other way this once!(*OPTION*)",
-    "fr": ""
+    "fr": "J-Je te donne ça! S'il te plaît, ferme{SAUT}les yeux pour cette fois!(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0124",
     "en": "   I think I'm starting to get all cold...{SAUT}I want to go somewhere else.(*OPTION*)",
-    "fr": ""
+    "fr": "Je crois que je me refroidis...{SAUT}Je veux aller ailleurs.(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0125",
     "en": "   I'll give you this, so hurry on home!(*OPTION*)",
-    "fr": ""
+    "fr": "Je te donne ça, alors file chez toi!(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0126",
     "en": "  I can kill you anytime I want... What's{SAUT}the harm in keeping you alive just a{SAUT}little longer?(*OPTION*)",
-    "fr": ""
+    "fr": "Je peux te tuer quand je veux... Où est{SAUT}le mal à te garder en vie encore{SAUT}un peu?(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0127",
     "en": "Here's my card. I... I just want to be{SAUT}beautiful again...(*OPTION*)",
-    "fr": ""
+    "fr": "Voici ma carte. Je... je veux juste{SAUT}redevenir belle...(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0128",
     "en": "  Oh, I know! I can eat anyone you don't{SAUT}like for you...{ATTENTE}",
-    "fr": ""
+    "fr": "Oh, j'ai une idée! Je peux dévorer{SAUT}ceux que tu aimes pas...{ATTENTE}"
   },
   {
     "id": "ZOMBIKO.BIN:text:0130",
     "en": "If I fight you... I'll turn all the way{SAUT}into a demon.(*OPTION*)",
-    "fr": ""
+    "fr": "Si je me bats... je deviendrai un{SAUT}démon pour de bon.(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0131",
     "en": "  Will you accept this? Or do you not want{SAUT}anything I'd give you...?(*OPTION*)",
-    "fr": ""
+    "fr": "Tu acceptes ça? Ou tu veux rien de ce{SAUT}que je pourrais te donner...?(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0132",
     "en": " There's still so much I want to do.{SAUT}So...(*OPTION*)",
-    "fr": ""
+    "fr": "Il me reste tant de choses à faire.{SAUT}Alors...(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0133",
     "en": "  Why go through all the trouble of{SAUT}fighting? You could just turn your back{SAUT}on it all and go have fun...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pourquoi se donner le mal de se battre?{SAUT}Tu pourrais tout laisser tomber{SAUT}et aller t'amuser...(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0134",
     "en": " It's been a while since I last met{SAUT}a human. Won't you give me something{SAUT}to remember the occasion?[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Ça faisait un bail que j'avais pas vu{SAUT}d'humain. Tu me donnes un truc en{SAUT}souvenir de l'occasion?[FFF1](*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0135",
     "en": " What more do you want from me?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Qu'est-ce que tu me veux encore?(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0136",
     "en": " If you want me to talk to you, it's common{SAUT}sense to bring a present or two![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Si tu veux que je te parle, la moindre{SAUT}des choses, c'est un cadeau ou deux![FFF1](*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0137",
     "en": "   What's wrong with living an un-life?{SAUT}I want to stay alive as much as you do!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Qu'y a-t-il de mal à vivre une non-vie?{SAUT}Je tiens à la vie autant que toi!(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0138",
     "en": "   Did you come to make fun of me again?{SAUT}Well, I've had it! I'm not falling for{SAUT}it this time! Don't come near me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu reviens te moquer de moi?{SAUT}J'en ai marre! Je marche pas cette{SAUT}fois! M'approche pas!(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0139",
     "en": " I don't have to be on a diet anymore!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Fini les régimes, pour moi!(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0140",
     "en": "  You should come over to our side!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu devrais passer de notre côté!(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0141",
     "en": "  [FFED]You know what I hate? Insincere people!(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFED]Tu sais ce que je hais? Les hypocrites!(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0142",
     "en": "   [FFEE]You've been taking a lot of things from{SAUT}demons, right? Share some with me![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEE]Tu as pris plein de trucs aux{SAUT}démons, non? Partage avec moi![FFF1](*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0143",
     "en": "   [FFEC]Violence against women is never called{SAUT}for, okay? I'm sure we can talk this out.(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEC]La violence contre les femmes, ça{SAUT}se fait pas! On peut discuter, non?(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0144",
     "en": "  [FFEE][FFFA], right? You're so famous,{SAUT}even I know about you. So do you need{SAUT}something from me?(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEE][FFFA], c'est ça? Tu es si célèbre{SAUT}que même moi je te connais. Tu as{SAUT}besoin de quelque chose?(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0145",
     "en": "  [FFEE]You know... I think we can be friends.(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEE]Tu sais... on pourrait être amis.(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0146",
     "en": "[FFEE]Hey, let's talk some more!(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEE]Hé, discutons encore un peu!(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0147",
     "en": "[FFEC]Mommy! Mommy! Mommmyyy!(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEC]Maman! Maman! Mamaaan!(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0148",
     "en": "   [FFED]Do I have to die again? I refuse!{SAUT}I've had it with dying!(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFED]Je dois mourir encore? Je refuse!{SAUT}J'en ai marre de mourir!(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0149",
     "en": " [FFED]Something smells nice... Are you wearing{SAUT}perfume? Wait... are you insinuating{SAUT}something with that!?{ATTENTE}",
-    "fr": ""
+    "fr": "[FFED]Ça sent bon... Tu portes du{SAUT}parfum? Attends... tu insinues{SAUT}quelque chose, là!?{ATTENTE}"
   },
   {
     "id": "ZOMBIKO.BIN:text:0150",
     "en": "{PAGE}Well, excuse me for being smelly!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Bon, excuse-moi de puer!(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0151",
     "en": "[FFED]I hate people like you, who always look{SAUT}peaceful and happy!{ATTENTE}",
-    "fr": ""
+    "fr": "[FFED]Je déteste les gens comme toi,{SAUT}toujours paisibles et heureux!{ATTENTE}"
   },
   {
     "id": "ZOMBIKO.BIN:text:0152",
     "en": "{PAGE}Share some of that happiness with me![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Partage un peu de ce bonheur avec moi![FFF1](*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0153",
     "en": "   [FFEC]I-If you don't mind, I'd like you to{SAUT}keep me close by.(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEC]S-Si ça te dérange pas, j'aimerais{SAUT}que tu me gardes près de toi.(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0154",
     "en": "[FFEB]Wait, let me fix my makeup... I'm really{SAUT}pretty as long as my makeup's on!(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEB]Attends, je refais mon maquillage...{SAUT}Maquillée, je suis vraiment jolie!(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0155",
     "en": "......{SAUT}So... you had a request for me?(*OPTION*)",
-    "fr": ""
+    "fr": "......{SAUT}Alors... tu avais une demande?(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0156",
     "en": " ......{ATTENTE}",
-    "fr": ""
+    "fr": "......{ATTENTE}"
   },
   {
     "id": "ZOMBIKO.BIN:text:0157",
     "en": "{PAGE}Ugh, you're so boring! I don't want to{SAUT}look at you anymore! Go away! And hurry{SAUT}it up, before I kill you!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Pff, ce que tu es ennuyeux! Je veux{SAUT}plus te voir! Va-t'en! Et fais vite,{SAUT}avant que je te tue!(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0158",
     "en": "   Are you going to get rid of me...?{SAUT}That's fine... It's got to be better{SAUT}than looking like this. But...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu vas te débarrasser de moi...?{SAUT}Tant mieux... Ça vaut mieux que{SAUT}d'avoir cette tête. Mais...(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0159",
     "en": " I don't know why, but I have a warm{SAUT}feeling when I'm by your side...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je sais pas pourquoi, mais je me sens{SAUT}au chaud à tes côtés...(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0160",
     "en": "   You wanted something from me, right?{SAUT}Why not stop bluffing and spit it out?(*OPTION*)",
-    "fr": ""
+    "fr": "Tu voulais un truc de moi, non?{SAUT}Arrête de bluffer et crache le morceau.(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0161",
     "en": "I'll do anything you want! Just start by{SAUT}telling me what's going on!(*OPTION*)",
-    "fr": ""
+    "fr": "Je ferai tout ce que tu veux! Commence{SAUT}par me dire ce qui se passe!(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0162",
     "en": "   The reasons why don't matter, I just{SAUT}want to be useful to you! After all...{SAUT}you took an interest in me...!(*OPTION*)",
-    "fr": ""
+    "fr": "Peu importe le pourquoi, je veux juste{SAUT}t'être utile! Après tout...{SAUT}tu t'es intéressé à moi...!(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0163",
     "en": " I get it! This is just a dream!{SAUT}It's all a dream! It's gotta be!(*RESPONSE*)",
-    "fr": ""
+    "fr": "J'ai compris! C'est juste un rêve!{SAUT}Tout ça est un rêve! Forcément!(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0164",
     "en": "   I wouldn't normally deal with people{SAUT}like you.(*RESPONSE*)",
-    "fr": ""
+    "fr": "D'habitude, je traite pas avec des{SAUT}gens comme toi.(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0165",
     "en": " To be honest, I've liked you for some{SAUT}time now! I-I'm not lying!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pour être honnête, tu me plais depuis{SAUT}un moment! J-Je mens pas!(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0166",
     "en": "   Money's the only thing I can believe in...{SAUT}Give me (*VALUE*) yen.(*OPTION*)",
-    "fr": ""
+    "fr": "L'argent, c'est tout ce en quoi je{SAUT}crois... Donne-moi (*VALUE*) yens.(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0167",
     "en": "  I guess I'll take it.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je vais le prendre, allez.(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0168",
     "en": "  Ohh... you're poor.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ohh... t'es fauché.(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0169",
     "en": "You'll never get to heaven if you keep{SAUT}that up.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu iras jamais au paradis si tu{SAUT}continues comme ça.(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0170",
     "en": "I want a life stone! One will be fine.(*OPTION*)",
-    "fr": ""
+    "fr": "Je veux une pierre de vie! Une suffira.(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0171",
     "en": " Ahhh... So warm...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ahhh... Si chaud...(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0172",
     "en": " What the--You don't have any!{ATTENTE}",
-    "fr": ""
+    "fr": "Quoi--Tu en as pas!{ATTENTE}"
   },
   {
     "id": "ZOMBIKO.BIN:text:0173",
     "en": "{PAGE}Sheesh, just my luck. There were other{SAUT}potential customers around, too...(*RESPONSE*)",
-    "fr": "",
+    "fr": "{PAGE}Pff, c'est bien ma veine. Il y avait{SAUT}d'autres clients potentiels, en plus...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "ZOMBIKO.BIN:text:0174",
     "en": "   The moon isn't always so bright at night,{SAUT}you know. You better be careful!(*RESPONSE*)",
-    "fr": ""
+    "fr": "La lune n'est pas toujours si claire{SAUT}la nuit, tu sais. Fais gaffe!(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0175",
     "en": " I'll tell you up front: I want a{SAUT}[FFF4].(*OPTION*)",
-    "fr": ""
+    "fr": "Je te le dis franchement: je veux{SAUT}un [FFF4].(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0176",
     "en": "All girls long for gems...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Toutes les filles rêvent de gemmes...(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0177",
     "en": " What's that about!? Ugh, I can't{SAUT}believe this!(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est quoi, ça!? Pff, j'arrive pas{SAUT}à y croire!(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0178",
     "en": " You're turning down a poor girl's only{SAUT}wish? That's so awful...!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu refuses le seul voeu d'une pauvre{SAUT}fille? C'est affreux...!(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0179",
     "en": "   Share your living body's warmth with me...(*OPTION*)",
-    "fr": ""
+    "fr": "Partage la chaleur de ton corps vivant...(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0180",
     "en": " Ahh... so revitalizing...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ahh... ça ravigote...(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0181",
     "en": "  You stingy bastard! Didn't anyone ever{SAUT}teach you to help out people in trouble!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Sale radin! On t'a jamais appris à{SAUT}aider les gens en difficulté!?(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0182",
     "en": "   You don't have any!{ATTENTE}",
-    "fr": ""
+    "fr": "T'en as pas!{ATTENTE}"
   },
   {
     "id": "ZOMBIKO.BIN:text:0183",
     "en": "{PAGE}Ugh! Poor bums like you are out of{SAUT}the question!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Pff! Les fauchés comme toi, c'est{SAUT}hors de question!(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0184",
     "en": "  Well, if that's the attitude you're going{SAUT}to take, I'll rip you apart!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Bon, si tu le prends comme ça,{SAUT}je te mets en pièces!(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0185",
     "en": " Hey! You should've just been honest with{SAUT}me that you didn't have any!{ATTENTE}",
-    "fr": ""
+    "fr": "Hé! T'avais qu'à être honnête et dire{SAUT}que t'en avais pas!{ATTENTE}"
   },
   {
     "id": "ZOMBIKO.BIN:text:0186",
     "en": "{PAGE}You really make me mad!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Tu m'énerves vraiment!(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0187",
     "en": " You're stingier than you look...{ATTENTE}",
-    "fr": ""
+    "fr": "T'es plus radin que t'en as l'air...{ATTENTE}"
   },
   {
     "id": "ZOMBIKO.BIN:text:0189",
     "en": "...It's okay... I had a feeling you'd{SAUT}say no anyway...(*RESPONSE*)",
-    "fr": ""
+    "fr": "...C'est rien... Je me doutais que{SAUT}tu dirais non de toute façon...(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0190",
     "en": " I'm just a zombie after all...{SAUT}It's so cold...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je suis qu'un zombie, après tout...{SAUT}Il fait si froid...(*RESPONSE*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0191",
     "en": " ......{SAUT}I'll give you my spell card!(*OPTION*)",
-    "fr": ""
+    "fr": "......{SAUT}Je te donne ma carte de sort!(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0192",
     "en": "Hey, I'll give you my spell card!{SAUT}Since I can't eat that much, let the{SAUT}Persona you make eat it all for me!(*OPTION*)",
-    "fr": ""
+    "fr": "Hé, je te donne ma carte de sort!{SAUT}Je peux pas tout manger, alors que la{SAUT}Persona que tu crées mange pour moi!(*OPTION*)"
   },
   {
     "id": "ZOMBIKO.BIN:text:0193",
     "en": " Hey, I'll give you my spell card!{SAUT}Since I can't eat that much, let the{SAUT}Persona you make eat it all for me!(*OPTION*)",
-    "fr": ""
+    "fr": "Hé, je te donne ma carte de sort!{SAUT}Je peux pas tout manger, alors que la{SAUT}Persona que tu crées mange pour moi!(*OPTION*)"
   }
 ]
