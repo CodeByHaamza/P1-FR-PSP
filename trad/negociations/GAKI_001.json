@@ -95,7 +95,7 @@
   {
     "id": "GAKI.BIN:text:0018",
     "en": "  Gah! You say some weird shit outta the{SAUT}blue, sister.(*RESPONSE*)",
-    "fr": "Gah! Tu sors des trucs bizarres{SAUT}comme ça, meuf.(*RESPONSE*)"
+    "fr": "Gah! Tu sors de ces conneries,{SAUT}comme ça, meuf.(*RESPONSE*)"
   },
   {
     "id": "GAKI.BIN:text:0019",
@@ -130,7 +130,7 @@
   {
     "id": "GAKI.BIN:text:0025",
     "en": "   What was that, lameass!? I'm a guy!{SAUT}That shit ain't funny! I'll stab you!(*RESPONSE*)",
-    "fr": "T'as dit quoi, minable!? Je suis un mec!{SAUT}C'est pas drôle! Je vais te planter!(*RESPONSE*)"
+    "fr": "T'as dit quoi, minable!? Je suis un mec!{SAUT}C'est pas drôle, merde! Je te plante!(*RESPONSE*)"
   },
   {
     "id": "GAKI.BIN:text:0026",
@@ -285,7 +285,7 @@
   {
     "id": "GAKI.BIN:text:0059",
     "en": "Gah! You're spoutin' some weird shit{SAUT}outta the blue, bro.(*RESPONSE*)",
-    "fr": "Gah! Tu sors des trucs bizarres{SAUT}comme ça, mec.(*RESPONSE*)"
+    "fr": "Gah! Tu sors de ces conneries,{SAUT}comme ça, mec.(*RESPONSE*)"
   },
   {
     "id": "GAKI.BIN:text:0060",
@@ -305,7 +305,7 @@
   {
     "id": "GAKI.BIN:text:0063",
     "en": " Damn, girl, don't say such scary shit...(*RESPONSE*)",
-    "fr": " Purée, meuf, dis pas ces trucs-là...(*RESPONSE*)"
+    "fr": " Putain, meuf, dis pas ces horreurs...(*RESPONSE*)"
   },
   {
     "id": "GAKI.BIN:text:0064",
@@ -420,7 +420,7 @@
   {
     "id": "GAKI.BIN:text:0086",
     "en": "What was that, lameass!? Stop acting{SAUT}like you're the shit! Dumbass fool!(*RESPONSE*)",
-    "fr": "T'as dit quoi, minable!? Joue pas{SAUT}les caïds! Espèce d'idiote!(*RESPONSE*)"
+    "fr": "T'as dit quoi, minable!? Joue pas{SAUT}les caïds! Espèce de conne!(*RESPONSE*)"
   },
   {
     "id": "GAKI.BIN:text:0087",
