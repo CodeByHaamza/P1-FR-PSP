@@ -7,7 +7,7 @@
   {
     "id": "ZOMB_MAN.BIN:text:0101",
     "en": "I feel like I'm burning up inside...(*RESPONSE*)",
-    "fr": "J'ai comme un feu en dedans...(*RESPONSE*)"
+    "fr": "Za brûle en dedans...(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0102",
@@ -17,12 +17,12 @@
   {
     "id": "ZOMB_MAN.BIN:text:0103",
     "en": "  Man, sound like you mean it.(*RESPONSE*)",
-    "fr": "Mec, t'as l'air zérieux.(*RESPONSE*)"
+    "fr": "  Mec, t'as l'air zérieux.(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0104",
     "en": "   Then gimme something![FFF1](*RESPONSE*)",
-    "fr": "Alors donne un truc![FFF1](*RESPONSE*)"
+    "fr": "   Alors donne un truc![FFF1](*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0105",
@@ -32,7 +32,7 @@
   {
     "id": "ZOMB_MAN.BIN:text:0106",
     "en": " C'mon, I'm getting real mad!{SAUT}Lissen to wut I'm saying![FFF1](*RESPONSE*)",
-    "fr": "Eh, j'commence à être vénère!{SAUT}Écoute c'que j'te dis![FFF1](*RESPONSE*)"
+    "fr": " Eh, j'commence à être vénère!{SAUT}Écoute c'que j'te dis![FFF1](*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0107",
@@ -42,7 +42,7 @@
   {
     "id": "ZOMB_MAN.BIN:text:0108",
     "en": "Guh! Sorry! I'm sorry!(*RESPONSE*)",
-    "fr": "Gah! Pardon! Pardon!(*RESPONSE*)"
+    "fr": "Gah! Pardon! J'suis dézolé!(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0109",
@@ -52,7 +52,7 @@
   {
     "id": "ZOMB_MAN.BIN:text:0110",
     "en": "   There'z nothing to worry about if{SAUT}you come with me!(*RESPONSE*)",
-    "fr": "Rien à craindre zi tu{SAUT}viens avec moi!(*RESPONSE*)"
+    "fr": "   Rien à craindre zi tu viens avec{SAUT}moi!(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0111",
@@ -67,7 +67,7 @@
   {
     "id": "ZOMB_MAN.BIN:text:0113",
     "en": "  I feel like I'm not gonna gro az a{SAUT}zombie if I talk with you...(*OPTION*)",
-    "fr": "J'sens que j'vais pas grandir en{SAUT}zombie zi j'te parle...(*OPTION*)"
+    "fr": "  J'sens que j'vais pas grandir en{SAUT}zombie zi j'te parle...(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0114",
@@ -77,12 +77,12 @@
   {
     "id": "ZOMB_MAN.BIN:text:0115",
     "en": "  Then I'll give you this.(*OPTION*)",
-    "fr": "Alors j'te donne ça.(*OPTION*)"
+    "fr": "  Alors j'te donne ça.(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0116",
     "en": "   Take this, too.(*OPTION*)",
-    "fr": "Et ça auzzi.(*OPTION*)"
+    "fr": "   Et za auzzi.(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0117",
@@ -92,37 +92,37 @@
   {
     "id": "ZOMB_MAN.BIN:text:0118",
     "en": "   Lemme have just a li'l bite ov you{SAUT}next time!(*OPTION*)",
-    "fr": "Laisse-moi t'mordre un peu{SAUT}la prochaine fois!(*OPTION*)"
+    "fr": "   Laizze-moi t'mordre un peu{SAUT}la prochaine fois!(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0119",
     "en": "  I'm gonna go now. Somewun might be{SAUT}calling for me somewhere...(*OPTION*)",
-    "fr": "J'y vais. Kelkun m'appelle{SAUT}p't-être kelke part...(*OPTION*)"
+    "fr": "  J'y vais. Kelkun m'appelle{SAUT}p't-être kelke part...(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0120",
     "en": " Uuurrgh... I'll give you this if you{SAUT}just lemme go...(*OPTION*)",
-    "fr": "Aaarrgh... J'te donne ça zi tu{SAUT}m'laisses partir...(*OPTION*)"
+    "fr": " Aaarrgh... J'te donne za zi tu{SAUT}m'laizzes partir...(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0121",
     "en": "  I feel like my brain'z gonna rot if{SAUT}I keep talking to you!(*OPTION*)",
-    "fr": "J'sens qu'mon cerveau va pourrir{SAUT}zi j'te parle encore!(*OPTION*)"
+    "fr": "  J'sens qu'mon zerveau va pourrir{SAUT}zi j'te parle encore!(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0122",
     "en": " I'll give you this. You should go home{SAUT}before it'z too late...(*OPTION*)",
-    "fr": "J'te donne ça. Rentre chez toi{SAUT}avant qu'il zoit trop tard...(*OPTION*)"
+    "fr": " J'te donne za. Rentre chez toi{SAUT}avant qu'il zoit trop tard...(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0123",
     "en": " ...Why won't you disappear!? Urrrgh...{SAUT}I really am a zombie!(*OPTION*)",
-    "fr": "...Pourquoi tu pars pas!? Arrrgh...{SAUT}J'suis un vrai zombie!(*OPTION*)"
+    "fr": " ...Pourquoi tu pars pas!? Arrrgh...{SAUT}J'suis un vrai zombie!(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0124",
     "en": "   I'll give you my card, but hurry and{SAUT}make a Persona with it, or it might rot.(*OPTION*)",
-    "fr": "J'te donne ma carte, mais fais vite{SAUT}une Persona avec, zinon ça pourrit.(*OPTION*)"
+    "fr": "   J'te donne ma carte, mais fais vite{SAUT}un Persona avec, zinon ça va pourrir.(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0125",
@@ -137,7 +137,7 @@
   {
     "id": "ZOMB_MAN.BIN:text:0127",
     "en": "   Take this and hang in there. Tho maybe{SAUT}you won't like getting it from me...(*OPTION*)",
-    "fr": "Prends ça et tiens bon. Même zi{SAUT}venant d'moi, ça t'plaira pô...(*OPTION*)"
+    "fr": "   Prends za et tiens bon. Même zi{SAUT}venant d'moi, ça t'plaira pô...(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0128",
@@ -157,37 +157,37 @@
   {
     "id": "ZOMB_MAN.BIN:text:0131",
     "en": "Just be happy yur still alive! It's greedy{SAUT}to want more!(*OPTION*)",
-    "fr": ""
+    "fr": "Zois heureux d'être vivant! Z'est{SAUT}trop gourmand d'en vouloir plus!(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0132",
     "en": "   You wanna talk? You brought a little{SAUT}prezent for me, right...?[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "   T'veux parler? T'as apporté un p'tit{SAUT}cadeau pour moi, hein...?[FFF1](*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0133",
     "en": "I got a right to live too, don't I?{SAUT}Don't I...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Z'ai le droit de vivre auzzi, non?{SAUT}Pas vrai...?(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0134",
     "en": "You still wanna pick on me? Just leave{SAUT}me alone!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu m'cherches encore? Laizze-moi{SAUT}tranquille!(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0135",
     "en": "   Y'know, it's a lot more fun than you{SAUT}think being a zombie.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   T'sais, z'est plus amuzant que tu le{SAUT}penses d'être zombie.(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0136",
     "en": " Yur fun to be around... Let's be frienz!(*RESPONSE*)",
-    "fr": ""
+    "fr": " T'es amuzant... Allez, devenons z'amis!(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0137",
     "en": "   ...Yur hiding something... I hate guyz{SAUT}who keep secrets!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   ...Tu caches un truc... J'aime pô ceux{SAUT}qui gardent des zecrets!(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0138",
