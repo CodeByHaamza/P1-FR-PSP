@@ -7,22 +7,22 @@
   {
     "id": "TOILET.BIN:text:0001",
     "en": " Hmm... You're actually pretty reliable,{SAUT}mister.[FFFD]É[F500]  Hey! Don't talk crap just 'cause I'm a{SAUT}toilet ghost!(*RESPONSE*)",
-    "fr": "Hmm...Tu es plutôt digne de confiance,{SAUT}monsieur.[FFFD]É[F500] Hé! Ne dis pas de la merde parce que je{SAUT}suis un WC fantôme!(*RESPONSE*)"
+    "fr": "Hmm...Tu es plutôt digne de confiance,{SAUT}monsieur.[FFFD]É[F500] Hé! Dis pas n'importe quoi parce{SAUT}que je suis un WC fantôme!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0002",
     "en": "   Your story sounds like a big phony to me!{SAUT}Is it for real?[FFFD]α[F500]Say what you want, but you wanna sit on{SAUT}me, huh? This is one comfortable toilet{SAUT}seat, after all!(*RESPONSE*)",
-    "fr": "Ton histoire me semble tirée par les{SAUT}cheveux! Est-elle vraie?[FFFD]α[F500]Quoi que tu dises, tu aimerais{SAUT}t'asseoir sur moi, hein? C'est un siège de{SAUT}WC bien confortable, après tout!(*RESPONSE*)"
+    "fr": "Ton histoire sent le bidon!{SAUT}C'est vrai, ça?[FFFD]α[F500]Dis ce que tu veux, t'as envie de{SAUT}t'asseoir sur moi, hein? C'est une{SAUT}cuvette bien confortable!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0003",
     "en": "   Hee hee! You're trying to persuade me...{SAUT}In other words, you need me, right?[FFFD][02FF][F500] Normally someone who taunted a toilet{SAUT}would be seen as a freak... but you{SAUT}might be an interesting person.(*RESPONSE*)",
-    "fr": "Hihi! Tu essayes de me convaincre...{SAUT}Autrement dit, tu as besoin de moi, n'est-ce pas?[FFFD][02FF][F500] Normalement, quelqu'un qui nargue des{SAUT}WC passerait pour un fou... mais tu{SAUT}es peut-être quelqu'un d'intéressant.(*RESPONSE*)"
+    "fr": "Hihi! Tu essaies de me convaincre...{SAUT}Donc tu as besoin de moi, hein?[FFFD][02FF][F500] D'habitude, qui nargue des WC{SAUT}passe pour un fou... mais tu es{SAUT}peut-être intéressant.(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0004",
     "en": "  You seem strong, mister! So, what are{SAUT}your plans for me?[FFFD][03FF][F500] ...Fine! See if I play with you anymore!(*RESPONSE*)",
-    "fr": "Tu sembles être fort, monsieur! Alors,{SAUT}quels sont tes projets pour moi?[FFFD][03FF][F500] ...D'accord! Tu verras si je joue encore avec toi!(*RESPONSE*)"
+    "fr": "T'as l'air fort, monsieur! Alors,{SAUT}tu comptes faire quoi de moi?[FFFD][03FF][F500] ...Bon! Je joue plus avec toi!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0005",
@@ -37,13 +37,13 @@
   {
     "id": "TOILET.BIN:text:0008",
     "en": "Hey! Don't talk crap just 'cause I'm a{SAUT}toilet ghost!(*RESPONSE*)",
-    "fr": "Hé! Ne dis pas de la merde parce que je{SAUT}suis un WC fantôme!(*RESPONSE*)",
+    "fr": "Hé! Dis pas n'importe quoi parce{SAUT}que je suis un WC fantôme!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TOILET.BIN:text:0009",
     "en": "   Your story sounds like a big phony to me!{SAUT}Is it for real?[FFFD][06FF][F500]I'm in kind of a rush... Um, can I{SAUT}leave now...?(*RESPONSE*)",
-    "fr": "Ton histoire me semble tirée par les{SAUT}cheveux! Est-elle vraie?[FFFD][06FF][F500]Je suis un peu pressée... Euh, je{SAUT}peux partir, maintenant...?(*RESPONSE*)"
+    "fr": "Ton histoire sent le bidon!{SAUT}C'est vrai, ça?[FFFD][06FF][F500]Je suis pressée... Euh, je peux{SAUT}partir, là...?(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0010",
@@ -58,22 +58,22 @@
   {
     "id": "TOILET.BIN:text:0016",
     "en": "   Your story sounds like a big phony to me!{SAUT}Is it for real?[FFFD][0BFF][F500]Say what you want, but you wanna sit on{SAUT}me, huh? This is one comfortable toilet{SAUT}seat, after all!(*RESPONSE*)",
-    "fr": "Ton histoire me semble tirée par les{SAUT}cheveux! Est-elle vraie?[FFFD][0BFF][F500]Quoi que tu dises, tu aimerais{SAUT}t'asseoir sur moi, hein? C'est un siège de{SAUT}WC bien confortable, après tout!(*RESPONSE*)"
+    "fr": "Ton histoire sent le bidon!{SAUT}C'est vrai, ça?[FFFD][0BFF][F500]Dis ce que tu veux, t'as envie de{SAUT}t'asseoir sur moi, hein? C'est une{SAUT}cuvette bien confortable!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0019",
     "en": "  Don't you have any pride, miss? I hate{SAUT}girls like you more than anything![FFFD][0CFF][F500]W-Waaaah! You're up to something...(*RESPONSE*)",
-    "fr": "N'as-tu aucune fierté, miss?{SAUT}Je déteste plus que tout les filles dans ton genre![FFFD][0CFF][F500]A-Aaaaah! Tu manigances quelque chose...(*RESPONSE*)"
+    "fr": "T'as aucune fierté, miss?{SAUT}Je déteste les filles comme toi![FFFD][0CFF][F500]A-Aaaaah! Tu manigances quelque chose...(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0020",
     "en": "You're... complimenting me, right...?{SAUT}I've heard a lot of rumors about you,{SAUT}Miss Maki...[FFFD][0DFF][F500] Hee hee! Modesty is the way to go! Yep!(*RESPONSE*)",
-    "fr": "Tu... me complimentes, n'est-ce pas...?{SAUT}J'ai entendu beaucoup de rumeurs à ton{SAUT}sujet, miss Maki...[FFFD][0DFF][F500] Hihi! La modestie, c'est la clé! Ouais!(*RESPONSE*)"
+    "fr": "Tu... me complimentes, hein...?{SAUT}On raconte beaucoup de choses sur{SAUT}toi, miss Maki...[FFFD][0DFF][F500] Hihi! La modestie, c'est la clé! Ouais!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0021",
     "en": "I always knew I was too perfect! I even{SAUT}scare myself... squee![FFFD][0EFF][F500]   I don't really get what you're saying,{SAUT}miss, but you might be right.(*RESPONSE*)",
-    "fr": "J'ai toujours su que j'étais trop parfaite!{SAUT}Je me fais même peur...hiii![FFFD][0EFF][F500] Je ne comprends pas tout ce que tu dis,{SAUT}miss, mais tu as sûrement raison.(*RESPONSE*)"
+    "fr": "J'ai toujours su que j'étais trop{SAUT}parfaite! Je me fais peur...hiii![FFFD][0EFF][F500] Je comprends pas tout, miss,{SAUT}mais t'as sûrement raison.(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0022",
@@ -88,7 +88,7 @@
   {
     "id": "TOILET.BIN:text:0024",
     "en": " Your story sounds like a big phony to me!{SAUT}Is it for real?[FFFD][0FFF][F500]Say what you want, but you wanna sit on{SAUT}me, huh? This is one comfortable toilet{SAUT}seat, after all!(*RESPONSE*)",
-    "fr": "Ton histoire me semble tirée par les{SAUT}cheveux! Est-elle vraie?[FFFD][0FFF][F500]Quoi que tu dises, tu aimerais{SAUT}t'asseoir sur moi, hein? C'est un siège de{SAUT}WC bien confortable, après tout!(*RESPONSE*)"
+    "fr": "Ton histoire sent le bidon!{SAUT}C'est vrai, ça?[FFFD][0FFF][F500]Dis ce que tu veux, t'as envie de{SAUT}t'asseoir sur moi, hein? C'est une{SAUT}cuvette bien confortable!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0025",
@@ -113,17 +113,17 @@
   {
     "id": "TOILET.BIN:text:0030",
     "en": "I always knew I was too perfect! I even{SAUT}scare myself... squee![FFFD][12FF][F500]   Huh... well, that was weird! But you{SAUT}seem cool, so I don't mind!(*RESPONSE*)",
-    "fr": "J'ai toujours su que j'étais trop parfaite!{SAUT}Je me fais même peur...hiii![FFFD][12FF][F500] Oh... eh bien, c'était bizarre! Mais tu{SAUT}as l'air sympa, alors ça m'est égal!(*RESPONSE*)"
+    "fr": "J'ai toujours su que j'étais trop{SAUT}parfaite! Je me fais peur...hiii![FFFD][12FF][F500] Oh... c'était bizarre! Mais t'as{SAUT}l'air sympa, alors ça va!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0031",
     "en": "   I don't mind going out with you, as long{SAUT}as it's just to grab a bite. It's your{SAUT}treat, right?[FFFD][13FF][F500]D-Do I look that easy to pick up...?{SAUT}I don't think I like that...(*RESPONSE*)",
-    "fr": "Ça ne me dérange pas de sortir avec toi,{SAUT}si c'est juste pour manger un bout.{SAUT}C'est toi qui invite, hein?[FFFD][13FF][F500]J-J'ai l'air si facile à séduire que ça...?{SAUT}Je n'aime pas trop cette idée...(*RESPONSE*)"
+    "fr": "Sortir avec toi, ça me va, si{SAUT}c'est juste pour manger un bout.{SAUT}C'est toi qui invites, hein?[FFFD][13FF][F500]J'ai l'air si facile que ça...?{SAUT}Ça me plaît pas trop...(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0032",
     "en": "  I'm only interested in toilets!{SAUT}You're out of the picture![FFFD][14FF][F500]   You're not a guy, so... pass.(*RESPONSE*)",
-    "fr": "Tout ce qui m'intéresse, ce sont{SAUT}les WC! Tu n'as aucune chance![FFFD][14FF][F500] Tu n'es pas un gars, donc... Sans moi.(*RESPONSE*)"
+    "fr": "Y a que les WC qui m'intéressent!{SAUT}T'as aucune chance![FFFD][14FF][F500] Tu n'es pas un gars, donc... Sans moi.(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0033",
@@ -138,12 +138,12 @@
   {
     "id": "TOILET.BIN:text:0035",
     "en": " Whoa, are you hitting on me? I'm glad,{SAUT}but... Hee hee! What should I do?[FFFD][15FF][F500] Do you really want my attention that bad?{SAUT}You're like a kid, mister!(*RESPONSE*)",
-    "fr": "Wouah! Tu me dragues? Je suis contente,{SAUT}mais... Hihi! Que dois-je faire?[FFFD][15FF][F500] Veux-tu vraiment de mon attention à ce point?{SAUT}C'est puéril, monsieur!(*RESPONSE*)"
+    "fr": "Wouah! Tu me dragues? Je suis contente,{SAUT}mais... Hihi! Que dois-je faire?[FFFD][15FF][F500] Tu veux mon attention à ce point?{SAUT}Quel gamin, monsieur!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0036",
     "en": "   Hee hee! I heard that entertainers are{SAUT}really smart!(*RESPONSE*)",
-    "fr": "Hihi! J'ai entendu dire que les comédiens{SAUT}étaient très intelligents!(*RESPONSE*)"
+    "fr": "Hihi! Il paraît que les comédiens{SAUT}sont très malins!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0037",
@@ -173,17 +173,17 @@
   {
     "id": "TOILET.BIN:text:0042",
     "en": "   Will you be serious for once!? I'm telling{SAUT}you, this isn't the time to be talking{SAUT}about that stuff![FFFD][1AFF][F500]  Thanks for telling me a story! Ooh, I'll{SAUT}tell you a great story I know later!(*RESPONSE*)",
-    "fr": "Peux-tu garder ton sérieux un instant!? Je{SAUT}viens de te dire que ce n'était pas le{SAUT}moment de parler de ce genre de chose![FFFD][1AFF][F500] Merci de m'avoir raconté une histoire! Ohh,{SAUT}j'ai une histoire pour toi, à l'occasion!(*RESPONSE*)"
+    "fr": "Sois sérieux une seconde!? Je te dis{SAUT}que c'est pas le moment de parler{SAUT}de ça![FFFD][1AFF][F500] Merci pour l'histoire! Ohh, j'en ai{SAUT}une pour toi, à l'occasion!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0043",
     "en": "  Thanks for telling me a story! But what{SAUT}I like most of all is badmouthing people![FFFD][1BFF][F500]Do you really want my attention that bad?{SAUT}You're like a kid, mister!(*RESPONSE*)",
-    "fr": "Merci de m'avoir raconté une histoire! Mais{SAUT}ce que je préfère par-dessus tout, c'est de dénigrer les gens![FFFD][1BFF][F500]Veux-tu vraiment de mon attention à ce point?{SAUT}C'est puéril, monsieur!(*RESPONSE*)"
+    "fr": "Merci pour l'histoire! Mais ce que{SAUT}je préfère, c'est casser du sucre![FFFD][1BFF][F500]Tu veux mon attention à ce point?{SAUT}Quel gamin, monsieur!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0044",
     "en": "   Wh-What was that just now!?[FFFD][1CFF][F500]  Wh-What was that!? Oh... I see... I get{SAUT}it now! You really piss me off!(*RESPONSE*)",
-    "fr": "Q-Qu'est'ce que c'était que ça, à l'instant!?[FFFD][1CFF][F500] Q-Qu'est-ce que c'était!? Oh... Je vois...{SAUT}J'ai compris! Ça me sort de mes gonds!(*RESPONSE*)"
+    "fr": "Q-Qu'est-ce que c'était!?[FFFD][1CFF][F500] Q-Qu'est-ce que c'était!? Oh... Je{SAUT}vois... Ça me sort par les yeux!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0045",
@@ -193,12 +193,12 @@
   {
     "id": "TOILET.BIN:text:0046",
     "en": "Are you okay, mister? You could break{SAUT}something if you're that hyper...{SAUT}Calm down a little, okay?[FFFD][1EFF][F500]You're giving me a present? Huh...(*RESPONSE*)",
-    "fr": "Ça va, monsieur? Tu vas casser{SAUT}des trucs à force d'être surexcité...{SAUT}Calme-toi un peu, okay?[FFFD][1EFF][F500]Tu m'offres un cadeau? Oh...(*RESPONSE*)"
+    "fr": "Ça va, monsieur? À t'exciter comme{SAUT}ça tu vas casser des trucs...{SAUT}Calme-toi, ok?[FFFD][1EFF][F500]Tu m'offres un cadeau? Oh...(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0047",
     "en": " Are you from a rich family? Then you can{SAUT}give me more, right!?[FFFD][1FFF][F500]   Hey! A gift like that will clog up{SAUT}the toilet!(*RESPONSE*)",
-    "fr": "Tu viens d'une famille aisée? Dans ce cas{SAUT}tu pourrais m'offrir plus de trucs, non!?[FFFD][1FFF][F500] Hé! Ce genre de cadeau va obstruer{SAUT}les WC!(*RESPONSE*)"
+    "fr": "T'es d'une famille riche? Alors tu{SAUT}peux m'offrir plus, non!?[FFFD][1FFF][F500] Hé! Ce cadeau-là{SAUT}va boucher les WC!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0048",
@@ -208,7 +208,7 @@
   {
     "id": "TOILET.BIN:text:0049",
     "en": "  Hee hee! Make more offerings to me! More![FFFD][21FF][F500]I don't really get what you're saying,{SAUT}mister, but you might be right.(*RESPONSE*)",
-    "fr": "Hihi! Offre-moi plus de trucs! Plus![FFFD][21FF][F500]Je ne comprends pas tout ce que tu dis,{SAUT}monsieur, mais tu as sûrement raison.(*RESPONSE*)"
+    "fr": "Hihi! Offre-moi plus de trucs! Plus![FFFD][21FF][F500]Je comprends pas tout, monsieur,{SAUT}mais t'as sûrement raison.(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0051",
@@ -223,7 +223,7 @@
   {
     "id": "TOILET.BIN:text:0053",
     "en": "If you say you're strong, mister, I guess{SAUT}you are! So, what are your plans for me?[FFFD][25FF][F500]   ...Fine! See if I play with you anymore!(*RESPONSE*)",
-    "fr": "Si tu dis être fort, monsieur, j'imagine{SAUT}que c'est vrai! Alors, quels sont tes projets pour moi?[FFFD][25FF][F500] ...D'accord! Tu verras si je joue encore avec toi!(*RESPONSE*)"
+    "fr": "Si tu te dis fort, monsieur, ça doit{SAUT}être vrai! Tu comptes faire quoi de moi?[FFFD][25FF][F500] ...Bon! Je joue plus avec toi!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0054",
@@ -238,7 +238,7 @@
   {
     "id": "TOILET.BIN:text:0056",
     "en": " Hey, mister, is this your first time{SAUT}talking to a girl?[FFFD][28FF][F500]  I'm actually older than you, you know!{SAUT}Now start acting normal!(*RESPONSE*)",
-    "fr": "Hé monsieur, c'est la première fois{SAUT}que tu parles à une fille?[FFFD][28FF][F500] En fait, je suis plus agée que toi, tu sais!{SAUT}Maintenant, comporte-toi normalement!(*RESPONSE*)"
+    "fr": "Hé monsieur, c'est ta première fois{SAUT}avec une fille?[FFFD][28FF][F500] Je suis plus âgée que toi, tu sais!{SAUT}Alors tiens-toi normalement!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0057",
@@ -253,22 +253,22 @@
   {
     "id": "TOILET.BIN:text:0059",
     "en": " Hey, you're pretty good! Teach me too{SAUT}next time![FFFD][2BFF][F500] Awww, you suck. You're the worst!(*RESPONSE*)",
-    "fr": "Hé, tu es plutôt bon! Tu m'apprendras{SAUT}la prochaine fois![FFFD][2BFF][F500] Ouuh, ça craint. T'es pire que tout!(*RESPONSE*)"
+    "fr": "Hé, t'es plutôt bon! Apprends-moi{SAUT}la prochaine fois![FFFD][2BFF][F500] Ouuh, ça craint. T'es pire que tout!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0060",
     "en": "  Yikes, what're you doing!? The bathroom's{SAUT}that way! I'm not letting you use mine![FFFD][2CFF][F500]Hee hee! You're so cool!(*RESPONSE*)",
-    "fr": "Beurk, qu'est-ce que tu fiches!? Les WC{SAUT}sont par là-bas! Hors de question d'utiliser ma cuvette![FFFD][2CFF][F500]Hihi! Tu es trop sympa!(*RESPONSE*)"
+    "fr": "Beurk, tu fais quoi!? Les WC sont{SAUT}par là! Pas touche à ma cuvette![FFFD][2CFF][F500]Hihi! Tu es trop sympa!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0061",
     "en": "   Hee hee! This is my first time seeing{SAUT}a human dance![FFFD][2DFF][F500] Normally someone who taunted a toilet{SAUT}would be seen as a freak... but you{SAUT}might be an interesting person.(*RESPONSE*)",
-    "fr": "Hihi! C'est la première fois que je vois{SAUT}un humain danser![FFFD][2DFF][F500] Normalement, quelqu'un qui nargue des{SAUT}WC passerait pour un fou... mais tu{SAUT}es peut-être quelqu'un d'intéressant.(*RESPONSE*)"
+    "fr": "Hihi! C'est la première fois que je vois{SAUT}un humain danser![FFFD][2DFF][F500] D'habitude, qui nargue des WC{SAUT}passe pour un fou... mais tu es{SAUT}peut-être intéressant.(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0062",
     "en": "  You seem strong, mister! So, what are{SAUT}your plans for me?[FFFD][2EFF][F500] ...Fine! See if I play with you anymore!(*RESPONSE*)",
-    "fr": "Tu sembles être fort, monsieur! Alors,{SAUT}quels sont tes projets pour moi?[FFFD][2EFF][F500] ...D'accord! Tu verras si je joue encore avec toi!(*RESPONSE*)"
+    "fr": "T'as l'air fort, monsieur! Alors,{SAUT}tu comptes faire quoi de moi?[FFFD][2EFF][F500] ...Bon! Je joue plus avec toi!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0063",
@@ -278,7 +278,7 @@
   {
     "id": "TOILET.BIN:text:0064",
     "en": "   W-Waaaaah! I'm scared...[FFFD][30FF][F500] Huh... So are you curious about my{SAUT}toilet? You're so weird!(*RESPONSE*)",
-    "fr": "A-Aaaaaah! J'ai peur...[FFFD][30FF][F500] Oh...Alors comme ça ma cuvette attise{SAUT}ta curiosité? Tu es vraiment bizarre!(*RESPONSE*)"
+    "fr": "A-Aaaaaah! J'ai peur...[FFFD][30FF][F500] Oh... Ma cuvette t'intrigue?{SAUT}T'es vraiment bizarre!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0065",
@@ -293,12 +293,12 @@
   {
     "id": "TOILET.BIN:text:0067",
     "en": "Hmm? What's wrong? Never seen a demon{SAUT}as cute as me?[FFFD][33FF][F500] I don't really get what you're saying,{SAUT}mister, but you might be right.(*RESPONSE*)",
-    "fr": "Hmm? Qu'y a-t-il? Tu n'as jamais vu de{SAUT}démon aussi mignon que moi?[FFFD][33FF][F500] Je ne comprends pas tout ce que tu dis,{SAUT}monsieur, mais tu as sûrement raison.(*RESPONSE*)"
+    "fr": "Hmm? Quoi? Jamais vu de démon{SAUT}aussi mignon que moi?[FFFD][33FF][F500] Je comprends pas tout, monsieur,{SAUT}mais t'as sûrement raison.(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0070",
     "en": "  Your story sounds like a big phony to me!{SAUT}Is it for real?[FFFD][34FF][F500]Say what you want, but you wanna sit on{SAUT}me, huh? This is one comfortable toilet{SAUT}seat, after all!(*RESPONSE*)",
-    "fr": "Ton histoire me semble tirée par les{SAUT}cheveux! Est-elle vraie?[FFFD][34FF][F500]Quoi que tu dises, tu aimerais{SAUT}t'asseoir sur moi, hein? C'est un siège de{SAUT}WC bien confortable, après tout!(*RESPONSE*)"
+    "fr": "Ton histoire sent le bidon!{SAUT}C'est vrai, ça?[FFFD][34FF][F500]Dis ce que tu veux, t'as envie de{SAUT}t'asseoir sur moi, hein? C'est une{SAUT}cuvette bien confortable!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0071",
@@ -328,7 +328,7 @@
   {
     "id": "TOILET.BIN:text:0079",
     "en": " What a rude human! You don't have any{SAUT}manners at all![FFFD][3DFF][F500]For some reason, I'm feeling all{SAUT}nostalgic... Hee hee!(*RESPONSE*)",
-    "fr": "Quelle personne impolie! Tu n'as absolument{SAUT}aucune éducation![FFFD][3DFF][F500]Pour une raison qui m'échappe,{SAUT}je me sens nostalgique... Hihi!(*RESPONSE*)"
+    "fr": "Quel malpoli!{SAUT}Aucune éducation![FFFD][3DFF][F500]Pour une raison qui m'échappe,{SAUT}je me sens nostalgique... Hihi!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0080",
@@ -343,7 +343,7 @@
   {
     "id": "TOILET.BIN:text:0083",
     "en": "Your story sounds like a big phony to me!{SAUT}Is it for real?[FFFD][3FFF][F500]Say what you want, but you wanna sit on{SAUT}me, huh? This is one comfortable toilet{SAUT}seat, after all!(*RESPONSE*)",
-    "fr": "Ton histoire me semble tirée par les{SAUT}cheveux! Est-elle vraie?[FFFD][3FFF][F500]Quoi que tu dises, tu aimerais{SAUT}t'asseoir sur moi, hein? C'est un siège de{SAUT}WC bien confortable, après tout!(*RESPONSE*)"
+    "fr": "Ton histoire sent le bidon!{SAUT}C'est vrai, ça?[FFFD][3FFF][F500]Dis ce que tu veux, t'as envie de{SAUT}t'asseoir sur moi, hein? C'est une{SAUT}cuvette bien confortable!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0084",
@@ -358,7 +358,7 @@
   {
     "id": "TOILET.BIN:text:0086",
     "en": " What a rude human! You don't have any{SAUT}manners at all![FFFD][42FF][F500]W-Waaaaah! Even if I am just a toilet,{SAUT}you're still too mean...(*RESPONSE*)",
-    "fr": "Quelle personne impolie! Tu n'as absolument{SAUT}aucune éducation![FFFD][42FF][F500]A-Aaaaaah! Malgré mon statut de siège de WC,{SAUT}tu es bien méchante...(*RESPONSE*)"
+    "fr": "Quel malpoli!{SAUT}Aucune éducation![FFFD][42FF][F500]A-Aaaaaah! Malgré mon statut de siège de WC,{SAUT}tu es bien méchante...(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0087",
@@ -383,12 +383,12 @@
   {
     "id": "TOILET.BIN:text:0093",
     "en": "   Why'd you have to start crying...?[FFFD][49FF][F500]   Normally someone who threatened a toilet{SAUT}would be seen as a freak... but you{SAUT}might be an interesting person.(*RESPONSE*)",
-    "fr": "Pourquoi tu t'es mise à pleurer...?[FFFD][49FF][F500] Normalement, quelqu'un qui menace des{SAUT}WC passerait pour un fou... mais tu{SAUT}es peut-être quelqu'un d'intéressant.(*RESPONSE*)"
+    "fr": "Pourquoi tu t'es mise à pleurer...?[FFFD][49FF][F500] D'habitude, qui menace des WC{SAUT}passe pour un fou... mais tu es{SAUT}peut-être intéressant.(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0094",
     "en": "   You seem strong, miss! So, what are{SAUT}your plans for me?[FFFD][4AFF][F500]   ...Fine! See if I play with you anymore!(*RESPONSE*)",
-    "fr": "Tu sembles être forte, miss!{SAUT}Alors, quels sont tes projets pour moi?[FFFD][4AFF][F500] ...D'accord! Tu verras si je joue encore avec toi!(*RESPONSE*)"
+    "fr": "Tu sembles être forte, miss!{SAUT}Alors, quels sont tes projets pour moi?[FFFD][4AFF][F500] ...Bon! Je joue plus avec toi!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0095",
@@ -403,7 +403,7 @@
   {
     "id": "TOILET.BIN:text:0097",
     "en": "You're so rude all of a sudden! You don't{SAUT}have any manners at all![FFFD][4DFF][F500]   W-Waaaaah! Please stop, miss...(*RESPONSE*)",
-    "fr": "Tu es bien insolente tout à coup! Tu n'as{SAUT}absolument aucune éducation![FFFD][4DFF][F500] A-Aaaaaah! S'il te plaît, miss, arrête...(*RESPONSE*)"
+    "fr": "Quelle insolente, tout à coup!{SAUT}Aucune éducation![FFFD][4DFF][F500] A-Aaaaaah! S'il te plaît, miss, arrête...(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0098",
@@ -423,17 +423,17 @@
   {
     "id": "TOILET.BIN:text:0101",
     "en": "   Your story sounds like a big phony to me!{SAUT}Is it for real?[FFFD][51FF][F500]Say what you want, but you wanna sit on{SAUT}me, huh? This is one comfortable toilet{SAUT}seat, after all!(*RESPONSE*)",
-    "fr": "Ton histoire me semble tirée par les{SAUT}cheveux! Est-elle vraie?[FFFD][51FF][F500]Quoi que tu dises, tu aimerais{SAUT}t'asseoir sur moi, hein? C'est un siège de{SAUT}WC bien confortable, après tout!(*RESPONSE*)"
+    "fr": "Ton histoire sent le bidon!{SAUT}C'est vrai, ça?[FFFD][51FF][F500]Dis ce que tu veux, t'as envie de{SAUT}t'asseoir sur moi, hein? C'est une{SAUT}cuvette bien confortable!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0102",
     "en": "   If you're interested in me, it means you{SAUT}need this toilet, right?[FFFD][52FF][F500]Will you shut up!? I won't think twice{SAUT}about flushing you out to sea, you know!(*RESPONSE*)",
-    "fr": "Si je t'intéresse, ça veut dire que tu as{SAUT}besoin de ces WC, hein?[FFFD][52FF][F500]Tu vas te taire!? Je tire la chasse sans{SAUT}hésitasion pour t'engloutir dans la mer!(*RESPONSE*)"
+    "fr": "Si je t'intéresse, ça veut dire que tu as{SAUT}besoin de ces WC, hein?[FFFD][52FF][F500]Tu vas te taire!? Je tire la chasse{SAUT}sans hésiter, direction la mer!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0103",
     "en": "You're so rude all of a sudden! You don't{SAUT}have any manners at all![FFFD][53FF][F500]   W-Waaaah! I'm sorry...(*RESPONSE*)",
-    "fr": "Tu es bien insolente tout à coup! Tu n'as{SAUT}absolument aucune éducation![FFFD][53FF][F500] A-Aaaaah! Désolée...(*RESPONSE*)"
+    "fr": "Quelle insolente, tout à coup!{SAUT}Aucune éducation![FFFD][53FF][F500] A-Aaaaah! Désolée...(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0104",
@@ -468,12 +468,12 @@
   {
     "id": "TOILET.BIN:text:0111",
     "en": " Um... Didn't you need something from me?[FFFD][5BFF][F500] Normally someone who threatened a toilet{SAUT}would be seen as a freak... but you{SAUT}might be an interesting person.(*RESPONSE*)",
-    "fr": "Euh... Tu n'avais pas besoin de quelque chose de ma part?[FFFD][5BFF][F500] Normalement, quelqu'un qui menace des{SAUT}WC passerait pour un fou... mais tu{SAUT}es peut-être quelqu'un d'intéressant.(*RESPONSE*)"
+    "fr": "Euh... Tu n'avais pas besoin de quelque chose de ma part?[FFFD][5BFF][F500] D'habitude, qui menace des WC{SAUT}passe pour un fou... mais tu es{SAUT}peut-être intéressant.(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0112",
     "en": "   You seem strong, mister! So, what are{SAUT}your plans for me?[FFFD][5CFF][F500] ...Fine! See if I play with you anymore!(*RESPONSE*)",
-    "fr": "Tu sembles être fort, monsieur!{SAUT}Alors, quels sont tes projets pour moi?[FFFD][5CFF][F500] ...D'accord! Tu verras si je joue encore avec toi!(*RESPONSE*)"
+    "fr": "Tu sembles être fort, monsieur!{SAUT}Alors, quels sont tes projets pour moi?[FFFD][5CFF][F500] ...Bon! Je joue plus avec toi!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0113",
@@ -493,7 +493,7 @@
   {
     "id": "TOILET.BIN:text:0116",
     "en": " Are you okay, mister? You could break{SAUT}something if you're that hyper...{SAUT}Calm down a little, okay?[FFFD][60FF][F500]You're weird, mister! But you seem cool,{SAUT}so I don't mind!(*RESPONSE*)",
-    "fr": "Ça va, monsieur? Tu vas casser{SAUT}des trucs à force d'être surexcité...{SAUT}Calme-toi un peu, okay?[FFFD][60FF][F500]Tu es bizarre, monsieur! Mais tu parais sympa,{SAUT}alors ça m'est égal!(*RESPONSE*)"
+    "fr": "Ça va, monsieur? À t'exciter comme{SAUT}ça tu vas casser des trucs...{SAUT}Calme-toi, ok?[FFFD][60FF][F500]Tu es bizarre, monsieur! Mais tu parais sympa,{SAUT}alors ça m'est égal!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0117",
