@@ -371,7 +371,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`TENSI_005.json`](trad/negociations/TENSI_005.json) | 100 | 100 | 100 % | terminé |
 | [`TENSI_006.json`](trad/negociations/TENSI_006.json) | 82 | 82 | 100 % | terminé |
 | [`TINPRA_001.json`](trad/negociations/TINPRA_001.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#52) |
-| [`TINPRA_002.json`](trad/negociations/TINPRA_002.json) | 100 | 0 | 0 % | libre |
+| [`TINPRA_002.json`](trad/negociations/TINPRA_002.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#53) |
 | [`TINPRA_003.json`](trad/negociations/TINPRA_003.json) | 69 | 0 | 0 % | libre |
 | [`TOILET_001.json`](trad/negociations/TOILET_001.json) | 100 | 100 | 100 % | terminé par @Uolil-Raccoon · 1 à alléger |
 | [`TOILET_002.json`](trad/negociations/TOILET_002.json) | 100 | 0 | 0 % | libre |
