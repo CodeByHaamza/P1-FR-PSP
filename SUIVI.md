@@ -145,7 +145,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_038.json`](trad/dialogues/E0_038.json) | 79 | 1 | 1 % | commencé |
 | [`E0_039.json`](trad/dialogues/E0_039.json) | 56 | 1 | 2 % | commencé |
 | [`E0_040.json`](trad/dialogues/E0_040.json) | 89 | 2 | 2 % | commencé |
-| [`E0_041.json`](trad/dialogues/E0_041.json) | 89 | 12 | 13 % | commencé par @Colonel-Maskou |
+| [`E0_041.json`](trad/dialogues/E0_041.json) | 89 | 12 | 13 % | en cours par @Colonel-Maskou (#55) |
 | [`E0_042.json`](trad/dialogues/E0_042.json) | 82 | 14 | 17 % | commencé par @s3rei |
 | [`E0_043.json`](trad/dialogues/E0_043.json) | 100 | 43 | 43 % | commencé par @Colonel-Maskou · 1 trop large |
 | [`E0_044.json`](trad/dialogues/E0_044.json) | 100 | 100 | 100 % | terminé · 2 trop large |
