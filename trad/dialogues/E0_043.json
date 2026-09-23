@@ -257,49 +257,49 @@
     "locuteur": "Ayase",
     "en": "Hey (*APELLIDO_HEROE*), didn't you have them?{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "Et (*APELLIO_HEROE*}, tu en as pas?{ATTENTE}"
+    "fr": "Hé (*APELLIDO_HEROE*), tu les as pas?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0038",
     "locuteur": "Nanjo",
     "en": "Where's the final compact and the{SAUT}ideal Maki?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Où est le dernier poudrier et la{SAUT}Maki idéale?{ATTENTE}"
+    "fr": "Où sont le dernier poudrier et la{SAUT}Maki idéale?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0039",
     "locuteur": "Maki",
     "en": "Please save the energetic me first...{SAUT}It's all my fault...{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "S'il vous plait sauvé la moi d'énergie en premier...{SAUT}Tous est de ma faute...{ATTENTE}"
+    "fr": "Sauvez d'abord la moi pleine{SAUT}d'énergie... Tout est ma faute...{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0040",
     "locuteur": "Maki",
     "en": "My energetic self is crying deeper{SAUT}in the forest...{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "La moi d'énergie pleure au fond{SAUT}de la forêt...{ATTENTE}"
+    "fr": "La moi pleine d'énergie pleure{SAUT}au fond de la forêt...{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0041",
     "locuteur": "Setsuko Sonomura",
     "en": "There's another Maki behind this door?{SAUT}Then I'm coming with you all!{ATTENTE}",
     "locuteur_fr": "Setsuko Sonomura",
-    "fr": "Il y a une autre Maki derrière cette porte?{SAUT}Dans ce cas je viens avec vous tous!{ATTENTE}"
+    "fr": "Une autre Maki derrière cette porte?{SAUT}Alors je viens avec vous!{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0042",
     "locuteur": "Mark",
     "en": "You guys okay with that? I mean, she's{SAUT}come this far... Let's go, (*APELLIDO_HEROE*).{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Vous êtes ok avec ça? Je veux dire, elle{SAUT}est là... Aller go, (*APELLIDO_HEROE*).{ATTENTE}"
+    "fr": "Ça vous va? Elle est venue jusqu'ici,{SAUT}quand même... On y va, (*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0043",
     "locuteur": "Maki",
     "en": "I'm sorry, me.{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "je suis désolé, moi.{ATTENTE}"
+    "fr": "Je suis désolée, moi.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0044",
