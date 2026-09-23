@@ -2,505 +2,505 @@
   {
     "id": "TINPRA.BIN:text:0000",
     "en": "Tryin' to persuade me ain't gonna do ya{SAUT}any good, y'know! You're a weird dude...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Essaie de me convaincre, ça te{SAUT}servira à rien! T'es un drôle de type...(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0001",
     "en": "   Dude... don't ask me stuff like you 'n{SAUT}me are best buddies! I might be small{SAUT}time, but don't go underestimatin' me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Mec... me parle pas comme si on était{SAUT}potes! Je suis peut-être un petit,{SAUT}mais me sous-estime pas!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0002",
     "en": "Ya got some real damn guts. I like it.{SAUT}Ya ain't scared o' me, neither.(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'as un sacré cran. J'aime ça.{SAUT}Et t'as même pas peur de moi.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0003",
     "en": " You wanna step, man? Eh, I'll let it go.{SAUT}At least ya ain't no prancin' prick.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Tu cherches, mec? Bah, laisse tomber.{SAUT}Au moins t'es pas un petit prétentieux.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TINPRA.BIN:text:0004",
     "en": "  Ya want some!? 'Cause I'll give ya{SAUT}more'n ya can handle! Better quit if{SAUT}ya know what's good for ya!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu en veux!? Je vais t'en filer plus{SAUT}que tu peux encaisser! Arrête si tu{SAUT}tiens à ta peau!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0005",
     "en": "Guess I went soft, if even the humans{SAUT}are underestimatin' me...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Faut croire que je me ramollis, si même{SAUT}les humains me sous-estiment...(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0006",
     "en": "Ya invitin' me in? Eh... I got enough{SAUT}work of my own. But I might change my{SAUT}mind if you gimme somethin'.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu m'invites? Bah... j'ai déjà bien{SAUT}assez de boulot. Mais je changerais{SAUT}d'avis si tu me files un truc.[FFF1](*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0007",
     "en": "  We got our own code, and negotiatin'{SAUT}with humans for no damn reason ain't{SAUT}part of it!(*RESPONSE*)",
-    "fr": "",
+    "fr": "On a nos règles, et négocier avec{SAUT}des humains sans raison, ça en fait{SAUT}pas partie!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TINPRA.BIN:text:0008",
     "en": "  I'll pass on that one... I doubt ya'd{SAUT}do better than a half-ass job...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je passe mon tour... Je doute que tu{SAUT}fasses mieux qu'un travail bâclé...(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0009",
     "en": " Man, ya suck so bad my ears are gonna{SAUT}go on strike! Stop singin' already!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Mec, tu chantes tellement mal que mes{SAUT}oreilles se mettent en grève! Arrête!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0010",
     "en": "  I can't believe ANYONE can sing that{SAUT}bad... Ya got a throat problem?(*RESPONSE*)",
-    "fr": ""
+    "fr": "J'hallucine qu'on puisse chanter aussi{SAUT}mal... T'as un souci de gorge?(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0011",
     "en": "   Wow, ya sing just like Jones!{SAUT}Kick ass, man.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ouah, tu chantes comme Jones!{SAUT}Ça déchire, mec.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0012",
     "en": "   I wanna give you a hand, but ehhh...{SAUT}Gimme somethin' first.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "J'aimerais te filer un coup de main,{SAUT}mais bon... File-moi un truc d'abord.[FFF1](*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0013",
     "en": "   Don't underestimate me just 'cause I'm{SAUT}small-time! This ain't charity hour!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Me sous-estime pas parce que je suis{SAUT}un petit! C'est pas la charité, ici!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0014",
     "en": "I can see why ya'd wanna rely on me.{SAUT}It's great you're bein' so honest.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je comprends que tu comptes sur moi.{SAUT}C'est bien d'être aussi honnête.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0015",
     "en": "It ain't that fun gettin' praise from{SAUT}ya, y'know!? It just pisses me off!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ça m'amuse pas des masses que tu me{SAUT}complimentes, tu vois!? Ça me gonfle!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0016",
     "en": "  Ya don't gotta be so modest, y'know...{SAUT}It gives me the creeps, kinda.(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es pas obligé d'être si modeste...{SAUT}Ça me file un peu la chair de poule.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0017",
     "en": "  Hey, a girl that understands me!{SAUT}Now that makes my day!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tiens, une fille qui me comprend!{SAUT}Ça, ça me fait ma journée!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0018",
     "en": "You're an interestin' kid. Who knows,{SAUT}maybe the crap you're sayin' is true.(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es un gamin intéressant. Qui sait,{SAUT}tes conneries sont peut-être vraies.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0019",
     "en": "No more of your bullshit! I ain't so{SAUT}thick I'm gonna fall for that crap!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Arrête tes conneries! Je suis pas{SAUT}assez con pour gober ça!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0020",
     "en": "   Ya lie so bad. If ya wanna fool a hood{SAUT}like me, ya gotta give it your all!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu mens trop mal. Pour rouler un voyou{SAUT}comme moi, faut te donner à fond!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0021",
     "en": " Relax, willya? I'm a nice hood. I ain't{SAUT}gonna attack or nothin'.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Détends-toi, tu veux? Je suis un{SAUT}gentil voyou. Je vais pas t'attaquer.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0022",
     "en": "   Whaddaya talkin' to me for!? I ain't{SAUT}interested in no ordinary humans!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pourquoi tu me parles!? Les humains{SAUT}ordinaires m'intéressent pas!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0023",
     "en": " Whaddaya talkin' about? Don't worry,{SAUT}me and my guys are all gentlemen.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu racontes quoi? T'inquiète, mes{SAUT}gars et moi, on est des gentlemen.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0024",
     "en": " Seriously, man? Get yourself checked out{SAUT}at the doc's... If there ain't nothin'{SAUT}wrong with ya, I'll think about it.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Sérieux, mec? Va te faire examiner{SAUT}chez le toubib... Si t'as rien,{SAUT}j'y réfléchirai.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0025",
     "en": "The hell are ya talkin' about!? A hood{SAUT}like me can't go around havin' tea with{SAUT}no regular joes!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu délires ou quoi!? Un voyou comme{SAUT}moi peut pas aller prendre le thé avec{SAUT}des types lambda!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0026",
     "en": "Dude... Hurry up and go see a doc...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Mec... Va vite voir un toubib...(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0027",
     "en": "   Man, that joke is wearin' out its{SAUT}welcome. Ya better quit while I'm{SAUT}still laughin'.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Mec, elle commence à me lasser, ta{SAUT}blague. Arrête tant que je ris{SAUT}encore.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0028",
     "en": "You're pretty frickin' funny, ya know{SAUT}that? Ya could be the next Diceman.{SAUT}Let's hear your nursery rhymes.(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es sacrément drôle, tu sais ça?{SAUT}Tu pourrais être le prochain Diceman.{SAUT}Balance tes comptines.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0029",
     "en": "  Ya tell another shitty joke, and I'm{SAUT}gonna cut ya down! Ya got talent,{SAUT}all right... talent for pissin' me off!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Encore une blague pourrie et je te{SAUT}découpe! T'as du talent, ça oui...{SAUT}pour me gonfler!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0030",
     "en": " No SAD Dummy.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pas mal, andouille.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0031",
     "en": "  You're pretty funny. I like that kinda{SAUT}joke, an' screw anyone who don't.(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es plutôt drôle. J'aime ce genre de{SAUT}blague, et tant pis pour les autres.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0032",
     "en": "   Ya wanna talk? Then cut the chit-chat.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu veux causer? Alors abrège le blabla.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0033",
     "en": " Don't waste my time with that crap!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Me fais pas perdre mon temps avec ça!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0034",
     "en": "Man, you're a real chatterbox! Alright,{SAUT}sure, I'm game if ya wanna talk!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Mec, quel moulin à paroles! Bon, OK,{SAUT}je veux bien causer si tu veux!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0035",
     "en": "   What the hell was that!? Ya gave me a{SAUT}hell of a scare... Warn me next time,{SAUT}all right?(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'était quoi ça!? Tu m'as foutu une{SAUT}sacrée trouille... Préviens, la{SAUT}prochaine fois, OK?(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0036",
     "en": " Go around surprisin' people if ya want,{SAUT}but don't pull that crap on me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Va surprendre les gens si tu veux,{SAUT}mais me fais pas ce coup-là!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0037",
     "en": "Man, ain't ya scared of me...? Ya ain't{SAUT}all there upstairs, are ya...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Mec, t'as pas peur de moi...? T'as{SAUT}pas toute ta tête, hein...?(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0038",
     "en": " Ahhh, I get it... A rich boy, ain't ya?{SAUT}That makes us pals.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ahhh, je vois... Un fils à papa, hein?{SAUT}Ça fait de nous des potes.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0039",
     "en": "Ya think ya can pay me off just 'cause{SAUT}I'm a hood!? Think again, asshole!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu crois pouvoir m'acheter parce que{SAUT}je suis un voyou!? Rêve, connard!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0040",
     "en": "  Well hell, if you're offerin', I'll{SAUT}take it. Today's my lucky day!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Bon sang, si tu proposes, je prends.{SAUT}C'est mon jour de chance!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0041",
     "en": " That was one eloquent damn speech!{SAUT}I bet ya'd make a hell of a politician!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Sacré discours, dis donc! Je parie{SAUT}que tu ferais un super politicien!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0042",
     "en": " Quit usin' all those fancy words and{SAUT}be quiet for a while.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Arrête tes grands mots et{SAUT}boucle-la un moment.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0043",
     "en": " Is this for real!? Ain't ya kinda young{SAUT}to be sayin' crap like that?(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est du sérieux!? T'es pas un peu{SAUT}jeune pour sortir ça?(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0044",
     "en": "   You got cojones, man. I bet you 'n me'd{SAUT}make a hell of a team!(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'as des couilles, mec. Je parie qu'on{SAUT}ferait une sacrée équipe!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0045",
     "en": " You wanna scrap? I ain't holdin' back,{SAUT}so you best be ready!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu veux te battre? Je me retiens pas,{SAUT}alors tiens-toi prêt!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0046",
     "en": "   The hell are you...? We ain't got nothin'{SAUT}to do with you, man...(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es qui, toi...? On a rien à voir{SAUT}avec toi, mec...(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0047",
     "en": "   Ya seem like you're on a roll! I wonder{SAUT}if it's about time I took a younger{SAUT}brother under my wing.(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'as l'air sur ta lancée! Je me demande{SAUT}s'il est pas temps que je prenne un{SAUT}petit frère sous mon aile.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0048",
     "en": " Cut the bullshit! You ain't old enough{SAUT}to make a fool outta me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Arrête tes conneries! T'es trop jeune{SAUT}pour te foutre de moi!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0049",
     "en": "Hell yeah! I'm workin' hard and{SAUT}aimin' high!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ouais! Je bosse dur{SAUT}et je vise haut!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0050",
     "en": "   Man, lookit you work them hips! You're{SAUT}better 'n Crazy Legs! I love watchin'{SAUT}that breakdancin' stuff.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Mec, regarde-moi ce déhanché! T'es{SAUT}meilleur que Crazy Legs! J'adore{SAUT}le breakdance.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0051",
     "en": "  Boy, do you ever suck ass... Stop that{SAUT}right now!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Purée, ce que t'es nul... Arrête ça{SAUT}tout de suite!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0052",
     "en": "  You ain't bad... But you better get more{SAUT}practice if you wanna be like Crazy Legs!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pas mal... Mais faut t'entraîner plus{SAUT}si tu veux être comme Crazy Legs!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0054",
     "en": "  The hell're ya talkin' about!? Better{SAUT}shut it if ya know what's good for ya!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu délires ou quoi!? Ferme-la si tu{SAUT}tiens à ta peau!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0055",
     "en": "   Guess I went soft, if even the humans{SAUT}are underestimatin' me...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Faut croire que je me ramollis, si même{SAUT}les humains me sous-estiment...(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0056",
     "en": "You got guts, bro... It's been a while{SAUT}since a man's looked me straight in{SAUT}the eye!(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'as du cran, frère... Ça faisait{SAUT}longtemps qu'un mec m'avait pas{SAUT}regardé droit dans les yeux!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0057",
     "en": "Hey, you just glare at me!? Alright,{SAUT}now I'm pissed!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hé, tu me fusilles du regard!? Bon,{SAUT}là je suis énervé!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0058",
     "en": "   Man, be a little more modest.{SAUT}It's creepy, starin' at guys like that.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Mec, sois un peu plus modeste.{SAUT}C'est glauque, fixer les gens comme ça.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0059",
     "en": "  Are you a frickin' moron? I ain't ever{SAUT}heard such a pile of crapola!(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es débile ou quoi? J'ai jamais{SAUT}entendu autant de foutaises!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0060",
     "en": "   No more of your bullshit! I ain't so{SAUT}thick I'm gonna fall for some{SAUT}kid's braggin'!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Arrête tes conneries! Je suis pas{SAUT}assez con pour gober les vantardises{SAUT}d'un gamin!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0061",
     "en": " A cocky guy, huh? Well, if ya wanna fool{SAUT}a hood like me, ya gotta give it your all!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Un p'tit prétentieux, hein? Pour rouler{SAUT}un voyou comme moi, faut te donner à fond!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0062",
     "en": "A story like that ain't gonna freak us{SAUT}out! Is that what you think of us hoods!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est pas ça qui va nous faire flipper!{SAUT}Tu nous prends pour quoi, les voyous!?(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0063",
     "en": "   Me an' horror stories don't get along,{SAUT}so... I didn't like it...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Les histoires d'horreur et moi, ça fait{SAUT}deux, alors... j'ai pas aimé...(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0064",
     "en": "   Man, girls sure do love that kinda story!{SAUT}Ah, hell, they're cute... They can do{SAUT}whatever they want.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Mec, les filles adorent ce genre{SAUT}d'histoire! Bah, elles sont mignonnes...{SAUT}Qu'elles fassent ce qu'elles veulent.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0065",
     "en": "Hey, that ain't bad! Ya coulda made it{SAUT}big if ya'd been a singer!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hé, pas mal! T'aurais pu percer{SAUT}si t'avais été chanteur!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0066",
     "en": "  Man, that ain't gonna cut it! Even Alanis{SAUT}sang her jagged heart out better'n that!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Mec, ça le fait pas! Même Alanis{SAUT}chantait son coeur écorché mieux que ça!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0067",
     "en": " You got a great voice! Not only that,{SAUT}but that's a great song! Man, I'm on top{SAUT}o' the world now!(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'as une super voix! Et en plus, c'est{SAUT}une super chanson! Mec, je suis au{SAUT}sommet du monde, là!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0068",
     "en": "   Ya seein' things? No matter which way{SAUT}ya cut it, I ain't a little kid...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu vois des trucs? De toute façon,{SAUT}je suis pas un gamin...(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0069",
     "en": "   Cut the bullshit! If you were my mom,{SAUT}how old would that make ya!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Arrête tes conneries! Si t'étais ma{SAUT}mère, t'aurais quel âge!?(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0070",
     "en": " Hah! I didn't see that one comin', lady!{SAUT}Well, I guess life's more fun when it{SAUT}throws ya a curveball now and then!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ha! Je l'avais pas vue venir, ma belle!{SAUT}La vie est plus fun quand elle te{SAUT}réserve des surprises de temps en temps!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0071",
     "en": " Ya invitin' me in? Eh... I got enough{SAUT}work of my own. But I might change my{SAUT}mind if you gimme somethin'.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu m'invites? Bah... j'ai déjà bien{SAUT}assez de boulot. Mais je changerais{SAUT}d'avis si tu me files un truc.[FFF1](*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0073",
     "en": "  Ain't ya sorta invitin' me in a tricky{SAUT}way? I know what you're up to!(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est une invitation déguisée, ça,{SAUT}non? Je vois clair dans ton jeu!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0074",
     "en": "  You're a hell of a girl. You an' me would{SAUT}make a great couple!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Sacrée fille, dis donc. Toi et moi,{SAUT}on ferait un beau couple!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0075",
     "en": " You talkin' shit about me!? I don't{SAUT}take that, not even from girls, so I{SAUT}hope you're prepared!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu dis du mal de moi!? J'accepte pas{SAUT}ça, même d'une fille, alors{SAUT}j'espère que t'es prête!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0076",
     "en": " What's with you? Ya got a grudge or{SAUT}somethin'?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Qu'est-ce que t'as? T'as une dent{SAUT}contre moi ou quoi?(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0077",
     "en": " You're bad news all over... My heart's{SAUT}poundin' 'cause of you!(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es une vraie plaie... Mon coeur{SAUT}s'emballe à cause de toi!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0078",
     "en": " A little girl like you shouldn't go{SAUT}around seducin' men!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Une gamine comme toi devrait pas{SAUT}s'amuser à séduire les hommes!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0079",
     "en": "   Now that's what I like to hear!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ça, c'est ce que j'aime entendre!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0080",
     "en": "Whaddaya cryin' for? Cheer up, it ain't{SAUT}the end of the world.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pourquoi tu pleures? Allez, c'est pas{SAUT}la fin du monde.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0081",
     "en": "  If ya think I'm gonna help ya for free,{SAUT}think again! It's gonna cost ya![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Si tu crois que je t'aide gratos,{SAUT}rêve! Ça va te coûter![FFF1](*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0082",
     "en": "  You've been through some rough shit,{SAUT}huh? Must be hard being human...(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'en as bavé, hein? Ça doit être{SAUT}dur d'être humain...(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0083",
     "en": "  What, you're tryin' to scare me with{SAUT}that? Ya gotta put some effort into it!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Quoi, tu crois me faire peur avec ça?{SAUT}Faut y mettre un peu du tien!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0084",
     "en": "   Whaddaya talkin' about!? You're pissin'{SAUT}me off... I got half a mind to shut you{SAUT}up once and for all!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Tu racontes quoi!? Tu me gonfles...{SAUT}J'ai bien envie de te faire taire{SAUT}une bonne fois pour toutes!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TINPRA.BIN:text:0085",
     "en": "   You're a real handful... Even a yakuza{SAUT}floozy wouldn't go that far.(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es un sacré numéro... Même une{SAUT}poule de yakuza irait pas si loin.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0086",
     "en": "Whaddaya talkin' about? This ain't a{SAUT}joke, and I ain't laughin'!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu racontes quoi? C'est pas une{SAUT}blague, et je rigole pas!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0087",
     "en": "   You're a holy terror... Those awful eyes{SAUT}o' yours... ＊shudder＊(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es une vraie terreur... Ces yeux{SAUT}affreux... ＊frisson＊(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0088",
     "en": " You're one spirited gal. I like girls{SAUT}like you!(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'as du tempérament, ma belle. J'aime{SAUT}les filles comme toi!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0089",
     "en": "You're one smart cookie! I'm pretty{SAUT}interested in that kinda stuff...(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es maligne, toi! Ce genre de truc{SAUT}m'intéresse pas mal...(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0090",
     "en": "  Do you ever shut up? I didn't come here{SAUT}to listen to girls talk!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu la fermes jamais? Je suis pas venu{SAUT}écouter des filles papoter!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0091",
     "en": "   Man, don't make me laugh! You're way too{SAUT}young to go around sayin' that stuff.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Mec, me fais pas rire! T'es beaucoup{SAUT}trop jeune pour sortir ça.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0092",
     "en": " The hell're ya talkin' about!?{SAUT}You're one uppity bitch! I'll make{SAUT}ya eat those words!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu délires ou quoi!?{SAUT}Quelle pétasse arrogante! Je vais te{SAUT}faire ravaler tes mots!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0093",
     "en": "  I know I been a bad boy... Just don't{SAUT}yell at me anymore...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je sais que j'ai été un vilain...{SAUT}Arrête juste de me crier dessus...(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0094",
     "en": "You got guts, for a woman... You'll be{SAUT}a great mom someday!(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'as du cran, pour une femme...{SAUT}Tu feras une super mère un jour!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0095",
     "en": "Hey, didn't ya want to talk to me about{SAUT}somethin'? I'm' dyin' to know what{SAUT}it was!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Hé, t'avais pas un truc à me dire?{SAUT}Je meurs d'envie de savoir ce que{SAUT}c'était!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "TINPRA.BIN:text:0096",
     "en": " Ain't you the one who started this?{SAUT}Screw it, you deserve a smackin'!(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est pas toi qui as commencé?{SAUT}Tant pis, tu mérites une raclée!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0097",
     "en": "  Ouch... A girl's givin' me the cold{SAUT}shoulder... I really blew it...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Aïe... Une fille qui me bat froid...{SAUT}J'ai vraiment tout gâché...(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0099",
     "en": " Ain't you the one who started this?{SAUT}I've had enough of this shit!(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est pas toi qui as commencé?{SAUT}J'en ai marre de ces conneries!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0100",
     "en": "  A lone wolf, eh...? Well, that's fine.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Un loup solitaire, hein...? Ça me va.(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0101",
     "en": " That supposed to be some kinda threat?{SAUT}Be a man! Put some oomph into it!(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est censé être une menace, ça?{SAUT}Sois un homme! Mets-y du punch!(*RESPONSE*)"
   },
   {
     "id": "TINPRA.BIN:text:0103",
     "en": "   Holy crap, man... I-I'm gonna pass{SAUT}for now...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Putain, mec... Je-Je vais passer{SAUT}mon tour pour l'instant...(*RESPONSE*)"
   }
 ]
