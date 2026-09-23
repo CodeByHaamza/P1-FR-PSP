@@ -18,7 +18,7 @@
     "locuteur": "Tadashi",
     "en": "I love you with every fiber of my being!{ATTENTE}",
     "locuteur_fr": "Tadashi",
-    "fr": "Je t'aime de tous les fibres de mon corps!{ATTENTE}"
+    "fr": "Je t'aime de toutes les fibres{SAUT}de mon être!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0003",
@@ -53,7 +53,7 @@
     "locuteur": "Brown",
     "en": "I refuse to believe Tamaki likes Tadashi!{SAUT}Someone, please tell me it's all a dream!{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "J'peux pas croire que Tamaki aime Tadashi!{SAUT}Dites-moi qu'on nage en plein rêve!{ATTENTE}"
+    "fr": "J'peux pas croire que Tamaki aime{SAUT}Tadashi! Dites-moi que je rêve!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0008",
@@ -67,14 +67,14 @@
     "locuteur": "Ayase",
     "en": "Omigawd! I knew it!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "Oh mon dieu! Je le savais!{ATTENTE}"
+    "fr": "Oh mon Dieu! Je le savais!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0010",
     "locuteur": "Tadashi",
     "en": "Honey... look into my eyes...!{ATTENTE}",
     "locuteur_fr": "Tadashi",
-    "fr": "Chérie... regarde-moi dans les{SAUT}yeux...!{ATTENTE}"
+    "fr": "Chérie... regarde-moi dans les yeux...!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0011",
@@ -116,7 +116,7 @@
     "locuteur": "Tadashi",
     "en": "I see myself in your eyes... Ah!{SAUT}We're united as one!{ATTENTE}",
     "locuteur_fr": "Tadashi",
-    "fr": "Je me vois dans tes yeux... Ah!{SAUT}Nous sommes en harmonie!{ATTENTE}"
+    "fr": "Je me vois dans tes yeux... Ah!{SAUT}Nous ne faisons qu'un!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0017",
@@ -151,7 +151,7 @@
     "locuteur": "Yukino",
     "en": "Being in someone else's dream feels kinda{SAUT}awkward, you know?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "Être dans le rêve de quelqu'un d'autre{SAUT}c'est bizarre, tu sais?{ATTENTE}"
+    "fr": "Être dans le rêve de quelqu'un,{SAUT}ça fait bizarre, non?{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0022",
@@ -172,7 +172,7 @@
     "locuteur": "Nanjo",
     "en": "Especially between a man and a woman.{SAUT}Interesting, no?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Spécifiquement entre un homme et une{SAUT}femme. Intéressant, n'est-ce pas?{ATTENTE}"
+    "fr": "Surtout entre un homme et une femme.{SAUT}Intéressant, n'est-ce pas?{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0025",
@@ -207,14 +207,14 @@
     "locuteur": "Tadashi",
     "en": "Argh! Stop bothering us! Can't you see{SAUT}we're in the middle of something!?{ATTENTE}",
     "locuteur_fr": "Tadashi",
-    "fr": "Argh! Arrêtez de nous déranger! Vous{SAUT}voyez pas qu'on en plein moment d'intimité!?{ATTENTE}"
+    "fr": "Argh! Arrêtez de nous déranger! Vous{SAUT}voyez pas qu'on est occupés!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0030",
     "locuteur": "Tadashi",
     "en": "You're really rude, you know that?{ATTENTE}",
     "locuteur_fr": "Tadashi",
-    "fr": "Vous êtes vraiment malpolis, vous{SAUT}savez ça?{ATTENTE}"
+    "fr": "Vous êtes vraiment malpolis, vous savez?{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0031",
@@ -226,7 +226,7 @@
     "locuteur": "Tamaki",
     "en": "Stop getting in our way! If you ruin{SAUT}this moment...!{ATTENTE}",
     "locuteur_fr": "Tamaki",
-    "fr": "Arrêtez de vous m'être en travers de{SAUT}notre chemin! Si vous ruinez ce moment...!{ATTENTE}"
+    "fr": "Arrêtez de vous mettre en travers!{SAUT}Si vous gâchez ce moment...!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0033",
