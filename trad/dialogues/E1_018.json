@@ -4,7 +4,7 @@
     "locuteur": "Yukino",
     "en": "Michiko Matsudaira! We're here for you!{SAUT}Give us the key to free Toro and Tsutomu!{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Michiko Matsudaira! On te cherchait!{SAUT}Donne-nous la clé pour libérer Toro et Tsutomu!{ATTENTE}"
+    "fr": "Michiko Matsudaira! On te cherchait!{SAUT}Où est la clé pour libérer Toro et Tsutomu?{ATTENTE}"
   },
   {
     "id": "E1.BIN:086:0001",
@@ -60,7 +60,7 @@
     "locuteur": "Michiko",
     "en": "Not only that, but...{ATTENTE}",
     "locuteur_fr": "Michiko",
-    "fr": "Il y a autre chose...{ATTENT}"
+    "fr": "Il y a autre chose...{ATTENTE}"
   },
   {
     "id": "E1.BIN:086:0009",
@@ -172,14 +172,14 @@
     "locuteur": "Nanjo",
     "en": "Frankly, I'd normally be happy to leave{SAUT}those two and retrieve the Mirror Shard.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Je devrais être heureux d'abandonner ces{SAUT}deux-là et de retrouver le Fragment de Miroir.{ATTENTE}"
+    "fr": "Je devrais être heureux d'abandonner ces{SAUT}types et de trouver le Fragment de Miroir.{ATTENTE}"
   },
   {
     "id": "E1.BIN:086:0025",
     "locuteur": "Nanjo",
     "en": "Hmph! As if I gave a damn what that empty{SAUT}head of yours was scheming.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Hmpf! Comme si je me souciais des manigances{SAUT}d'une sotte comme toi.{ATTENTE}"
+    "fr": "Hmpf! Comme si je me souciais de ce qu'une{SAUT}sotte comme toi manigance.{ATTENTE}"
   },
   {
     "id": "E1.BIN:086:0026",
@@ -200,7 +200,7 @@
     "locuteur": "Nanjo",
     "en": "Did you seriously think you could mock{SAUT}me and walk away unharmed?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Pensiez-vous pouvoir vous moquer de moi{SAUTet vous en soritr indemne?{ATTENTE}"
+    "fr": "Pensiez-vous pouvoir vous moquer de moi{SAUT}et vous en soritr indemne?{ATTENTE}"
   },
   {
     "id": "E1.BIN:086:0029",
@@ -228,14 +228,14 @@
     "locuteur": "Brown",
     "en": "And I'd DEFINITELY never forgive{SAUT}a bitch like you!{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "Et je pardonnerais JAMAIS une{SAUTgarce comme toi!{ATTENTE}"
+    "fr": "Et je pardonnerais JAMAIS une{SAUT}garce comme toi!{ATTENTE}"
   },
   {
     "id": "E1.BIN:086:0033",
     "locuteur": "Brown",
     "en": "This is for torturing Toro and Tsutomu!{SAUT}For calling us all \"whelps\"!{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "Ça, c'est pour avoir torturé Toro et{SAUT}Tsutomo! Pour nous avoir traités de \"chiens\"!{ATTENTE}"
+    "fr": "Tu as torturé Toro et Tsutomu!{SAUT}Tu nous as traités d'\"avortons\"!{ATTENTE}"
   },
   {
     "id": "E1.BIN:086:0034",
@@ -249,7 +249,7 @@
     "locuteur": "Brown",
     "en": "For saying I'm your pet! You're gonna{SAUT}pay royally for that one!{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "Pour m'avoir traité de chien! Tu vas{SAUT}payer cher tes paroles!{ATTENTE}"
+    "fr": "Tu m'as pris de haut! Tu vas{SAUT}le regretter!{ATTENTE}"
   },
   {
     "id": "E1.BIN:086:0036",
@@ -667,7 +667,7 @@
     "locuteur": "Nanjo",
     "en": "＊gasp＊ That letter...! What was that{SAUT}all about? Answer me!{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Ah... Cette lettre...! De quoi parlait-elle?{SAUT}Répondez!{ATTENTE}"
+    "fr": "Ah... Cette lettre...! De quoi{SAUT}parlait-elle? Répondez!{ATTENTE}"
   },
   {
     "id": "E1.BIN:086:0097",
@@ -690,7 +690,7 @@
     "locuteur": "Ayase",
     "en": "Whatever, ugly!{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "Cause toujours, le thon!{ATTENTE]",
+    "fr": "Cause toujours, le thon!{ATTENTE}",
     "_occurrences": 2
   },
   {
