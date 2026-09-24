@@ -53,21 +53,21 @@
     "locuteur": "Ayase",
     "en": "Just like that, huh? How do you suggest{SAUT}we get back, call a cab!?{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": ""
+    "fr": "Comme ça, hein? tu propose quoi pour rentrer, appeler un taxi!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0008",
     "locuteur": "Ayase",
     "en": "And even if we do... There's nothing we{SAUT}can do against him now! It's all over...{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": ""
+    "fr": "Et même si on le fait... pour l'instant on peut rien faire contre lui! c'en est fini...{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0009",
     "locuteur": "Reiji",
     "en": "There must be a way! That's the kind of{SAUT}bastard he is! He's still toying with us.{ATTENTE}",
     "locuteur_fr": "Reiji",
-    "fr": "",
+    "fr": "Il doit y avoir un moyen! C'est son genre! Il continue de se moquer de nous.{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -75,7 +75,7 @@
     "locuteur": "Nanjo",
     "en": "Reiji's right. There must be some way...{SAUT}Heh. For once, we're in agreement.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": ""
+    "fr": "Reiji a raison. Il doit y avoir un moyen...{SAUT}Heh. Pour une fois on est d'accords.{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0011",
@@ -89,21 +89,21 @@
     "locuteur": "Maki",
     "en": "Maybe there... The place where there were{SAUT}rumors of people being spirited away.{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": ""
+    "fr": "Peut-être là... l'endroit où il y avait{ATTENTE}des rumeurs de gens étaient enlevés.{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0013",
     "locuteur": "Mark",
     "en": "The (*TEXTBOX_PARAM,0700*)haunted mansion(*TEXTBOX_PARAM,0000*)!{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": ""
+    "fr": "Le (*TEXTBOX_PARAM,0700*)manoir hanté(*TEXTBOX_PARAM,0000*)!{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0014",
     "locuteur": "Mark",
     "en": "I used to sneak in there all the time{SAUT}when I was a kid. Ma would get so mad...{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": ""
+    "fr": "J'allais tout le temps m'y cacher{SAUT}quand j'étais gamin. Mam serait tellement furieuse...{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0015",
