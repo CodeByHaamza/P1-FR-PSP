@@ -216,7 +216,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E1_013.json`](trad/dialogues/E1_013.json) | 60 | 60 | 100 % | terminé par @Uolil-Raccoon · 3 termes |
 | [`E1_014.json`](trad/dialogues/E1_014.json) | 43 | 43 | 100 % | terminé · 1 terme |
 | [`E1_015.json`](trad/dialogues/E1_015.json) | 65 | 1 | 2 % | commencé |
-| [`E1_016.json`](trad/dialogues/E1_016.json) | 100 | 0 | 0 % | libre |
+| [`E1_016.json`](trad/dialogues/E1_016.json) | 100 | 0 | 0 % | en cours par @Uolil-Raccoon (#61) |
 | [`E1_017.json`](trad/dialogues/E1_017.json) | 38 | 38 | 100 % | terminé |
 | [`E1_018.json`](trad/dialogues/E1_018.json) | 100 | 0 | 0 % | en cours par @Uolil-Raccoon (#60) |
 | [`E1_019.json`](trad/dialogues/E1_019.json) | 46 | 1 | 2 % | commencé |
