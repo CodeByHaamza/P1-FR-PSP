@@ -2,183 +2,183 @@
   {
     "id": "POLUTAR.BIN:resp:0013",
     "en": "It's a slum.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "C'est un bidonville.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0014",
     "en": "It's Kuala Lumpur.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "C'est Kuala Lumpur.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0015",
     "en": "Try and stab me.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Vas-y, poignarde-moi.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0016",
     "en": "Stop it!(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Arrête!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0017",
     "en": "Stop its laughing(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Arrêter son rire(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0018",
     "en": "Leave it alone(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Le laisser faire(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0019",
     "en": "Yeah, it's great.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Ouais, c'est génial.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0020",
     "en": "It's not so great.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Pas si génial.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0021",
     "en": "Give the peace sign(*RESPONSE*)",
-    "fr": ""
+    "fr": "Faire le signe V(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0022",
     "en": "Give the bird(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Faire un doigt(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0023",
     "en": "Later, I promise.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Plus tard, promis.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0024",
     "en": "You don't get any.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "T'en auras pas.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0026",
     "en": "＊snort＊(*RESPONSE*)",
-    "fr": ""
+    "fr": "＊ricane＊(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0027",
     "en": "Hmph! You coward!(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Pff! Espèce de lâche!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0028",
     "en": "I'm nice.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Je suis gentil.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0029",
     "en": "Then pay up.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Alors paie.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0030",
     "en": "It was just sarcasm.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "C'était ironique.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0031",
     "en": "Here I go!(*RESPONSE*) ",
-    "fr": ""
+    "fr": "J'y vais!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0032",
     "en": "Your move, fool!(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "À toi, idiot!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0033",
     "en": "I got no nose.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "J'ai pas de nez.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0034",
     "en": "I got no eyes.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "J'ai pas d'yeux.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0035",
     "en": "I got no navel.(*RESPONSE*)",
-    "fr": ""
+    "fr": "J'ai pas de nombril.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0036",
     "en": "Believe me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Crois-moi!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0037",
     "en": "Haha, I lied.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Haha, j'ai menti.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0038",
     "en": "Mitsuya ghost stories(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Fantômes de Mitsuya(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0039",
     "en": "Omen(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Omen(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0040",
     "en": "Hamah(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Hamah(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0041",
     "en": "AT(*RESPONSE*) ",
-    "fr": ""
+    "fr": "AT(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0042",
     "en": "Komiya(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Komiya(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0047",
     "en": "So please, help me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Alors, aide-moi!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0051",
     "en": "Outta my face!(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Dégage!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0054",
     "en": "...Don't do it.(*RESPONSE*)",
-    "fr": ""
+    "fr": "...Fais pas ça.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0055",
     "en": "Talk about cameras(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Parler de photos(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0056",
     "en": "Keep ignoring him(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "L'ignorer encore(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "POLUTAR.BIN:resp:0057",
     "en": "Glance, then ignore(*RESPONSE*)",
-    "fr": ""
+    "fr": "Regarder, puis ignorer(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0058",
     "en": "Glare, then ignore(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Foudroyer, puis ignorer(*RESPONSE*)",
     "_occurrences": 2
   }
 ]
