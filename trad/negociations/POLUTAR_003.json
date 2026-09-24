@@ -2,505 +2,505 @@
   {
     "id": "POLUTAR.BIN:text:0200",
     "en": " Hyuk... So... uh... wh-what do you{SAUT}want from me...?(*OPTION*)",
-    "fr": ""
+    "fr": "Hyuk... Alors... euh... qu-qu'est-ce{SAUT}que tu me veux...?(*OPTION*)"
   },
   {
     "id": "POLUTAR.BIN:text:0201",
     "en": "This is the most fun I ever had! I'll do{SAUT}whatever you want!(*OPTION*)",
-    "fr": ""
+    "fr": "Je me suis jamais autant amusé! Je ferai{SAUT}tout ce que tu veux!(*OPTION*)"
   },
   {
     "id": "POLUTAR.BIN:text:0202",
     "en": "Eep... Ooohehehe! Hyuck hehehe!{SAUT}Teehee... hyuk hyuk hyuk...(*OPTION*)",
-    "fr": ""
+    "fr": "Iiik... Ooohéhéhé! Hyuk héhéhé!{SAUT}Hihi... hyuk hyuk hyuk...(*OPTION*)"
   },
   {
     "id": "POLUTAR.BIN:text:0203",
     "en": "You call that negotiating!? I don't{SAUT}like stupidheads. Hahahah...(*OPTION*)",
-    "fr": ""
+    "fr": "Tu appelles ça négocier!? J'aime pas{SAUT}les gros bêtas. Hahahah...(*OPTION*)"
   },
   {
     "id": "POLUTAR.BIN:text:0204",
     "en": "   Hyuk... Humans are so amazing. I dunno{SAUT}what to say. Teehee!(*OPTION*)",
-    "fr": ""
+    "fr": "Hyuk... Les humains sont trop forts.{SAUT}Je sais pas quoi dire. Hihi!(*OPTION*)"
   },
   {
     "id": "POLUTAR.BIN:text:0205",
     "en": "I want money.{SAUT}(*VALUE*) yen will be fine.(*OPTION*)",
-    "fr": ""
+    "fr": "Je veux des sous.{SAUT}(*VALUE*) yens, ça ira.(*OPTION*)"
   },
   {
     "id": "POLUTAR.BIN:text:0206",
     "en": "  Yaaaaaay!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Youpiii!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0207",
     "en": "  What!? You don't have any! Grrrr!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Quoi!? T'en as pas! Grrrr!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0208",
     "en": "  I'm gonna kill you.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je vais te tuer.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0209",
     "en": "I want a life stone. Just one...(*OPTION*)",
-    "fr": ""
+    "fr": "Je veux une pierre de vie. Juste une...(*OPTION*)"
   },
   {
     "id": "POLUTAR.BIN:text:0210",
     "en": "   Yaaaaay! I got a life stone!{SAUT}Hooray!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Youpiii! J'ai une pierre de vie!{SAUT}Hourra!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0211",
     "en": "   Huh!? You don't have any!? You're a big{SAUT}dummy, aren't you? Stupid!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hein!? T'en as pas!? T'es un gros{SAUT}nigaud, hein? Idiot!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0212",
     "en": " Don't make fun of me! I'll throw plates{SAUT}at you! I'll break windows!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Te moque pas de moi! Je vais te lancer{SAUT}des assiettes! Je casse les vitres!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0213",
     "en": "I know you'll probably say no...{SAUT}but I want a [FFF4]...(*OPTION*)",
-    "fr": ""
+    "fr": "Tu vas sûrement dire non...{SAUT}mais je veux un [FFF4]...(*OPTION*)"
   },
   {
     "id": "POLUTAR.BIN:text:0214",
     "en": " No way, seriously!? Yaaaaay!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Nan, sérieux!? Youpiii!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0215",
     "en": "   Oh... you don't have any... Oops!{SAUT}Crud, I just broke a window somewhere.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh... t'en as pas... Oups!{SAUT}Zut, j'ai cassé une vitre quelque part.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0216",
     "en": "   You're right, it's too bad... But I'm{SAUT}still gonna kill you.(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'as raison, c'est dommage... Mais{SAUT}je vais quand même te tuer.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0217",
     "en": "Vital energy looks cool... Does it taste{SAUT}good? Let me try some!(*OPTION*)",
-    "fr": ""
+    "fr": "L'énergie vitale, ça a l'air cool... Ça{SAUT}a bon goût? Je veux essayer!(*OPTION*)"
   },
   {
     "id": "POLUTAR.BIN:text:0218",
     "en": "Th-This looks delicious... Chow time!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ç-Ça a l'air délicieux... À table!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0219",
     "en": "  Huh...? I don't need any!? Ooohhhhh,{SAUT}you make me so mad!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hein...? J'en ai pas besoin!? Ooohhhh,{SAUT}tu m'énerves trop!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0220",
     "en": "   I'm so happy! Even if I don't have any{SAUT}ears... Ooohehehehe!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je suis trop content! Même si j'ai pas{SAUT}d'oreilles... Ooohéhéhéhé!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0221",
     "en": "Don't make fun of me!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Te moque pas de moi!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "POLUTAR.BIN:text:0222",
     "en": "  Ooohehehehe! Ooohehehehe!{SAUT}Ooooooheeheeheeheeheeeee!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ooohéhéhéhé! Ooohéhéhéhé!{SAUT}Oooooohihihihihiiiii!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0224",
     "en": "  I'll buy it!(*RESPONSE*)",
-    "fr": ""
+    "fr": "J'achète!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0225",
     "en": "   Wow! You've got guts!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ouah! T'as du cran!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0226",
     "en": "  Don't make fun of me... Go to hell!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Te moque pas de moi... Va au diable!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0227",
     "en": "Wh-What...? Then what am I supposed{SAUT}to do?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Q-Quoi...? Alors je suis censé{SAUT}faire quoi?(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0228",
     "en": " What? \"Yaaaay\"...? You can just roll{SAUT}over and die.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Quoi? \"Youpiii\"...? T'as qu'à tomber{SAUT}raide mort.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0229",
     "en": " Yep, it's me. I don't get it, but that{SAUT}has a nice ring to it!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ouais, c'est moi. Je pige pas, mais{SAUT}ça sonne bien!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0230",
     "en": "  R-Really...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "V-Vraiment...?(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0231",
     "en": "   Huh!? I-I think my heart's starting{SAUT}to pound!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hein!? J-Je crois que mon coeur{SAUT}s'emballe!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0232",
     "en": "  Turtles! Dogs! Cats! That's the stuff{SAUT}I like! Oops... I kinda drooled.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tortues! Chiens! Chats! Voilà ce que{SAUT}j'aime! Oups... j'ai un peu bavé.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0233",
     "en": " That place is s-s-scary... I-It's a{SAUT}scary place... eep...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Cet endroit fait p-p-peur... C-C'est un{SAUT}endroit qui fait peur... iiik...(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0234",
     "en": "  What's that about? Hey, you liar!{SAUT}You can't talk in a pool!(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est quoi, ce délire? Hé, menteur!{SAUT}On peut pas parler dans une piscine!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0235",
     "en": "Oh, crud...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh, zut...(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0236",
     "en": "Phew...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ouf...(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0237",
     "en": "What're you doing!? I was having so much{SAUT}fun doing that!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Qu'est-ce que tu fais!? Je m'amusais{SAUT}trop bien!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0238",
     "en": "   Ooohehehehe! Ooooheeheeheeheeee!{SAUT}Oooooooheeeeheeeheeeheeeeeeee!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ooohéhéhéhé! Ooooohihihihiii!{SAUT}Ooooooohiiiihiiihiiihiiiiiiii!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0239",
     "en": "Yep! You and me hit it off really good,{SAUT}mister!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ouais! On s'entend trop bien, toi et{SAUT}moi, m'sieur!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0240",
     "en": "Then why'd you tell me that!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Alors pourquoi tu me dis ça!?(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0241",
     "en": "  WHAT!? I hate British people!(*RESPONSE*)",
-    "fr": ""
+    "fr": "QUOI!? Je déteste les Anglais!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0242",
     "en": "  Awww... that finger's so cool...{ATTENTE}",
-    "fr": ""
+    "fr": "Ooh... il est trop cool, ce doigt...{ATTENTE}"
   },
   {
     "id": "POLUTAR.BIN:text:0243",
     "en": "{PAGE}I'm not allowed to do it... but it{SAUT}would be fun if I could!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}J'ai pas le droit de le faire... mais{SAUT}ce serait trop drôle si je pouvais!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0244",
     "en": "  Huh!? Really!? C'mon, hurry up and gimme!{SAUT}Teehee! This is gonna be awesome!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hein!? Vrai!? Allez, vite, donne-le-moi!{SAUT}Hihi! Ça va être génial!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0245",
     "en": "Awww, really...? Now I'm curious...{SAUT}Hmm... what could it be?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ooh, vraiment...? Là, je suis curieux...{SAUT}Hmm... qu'est-ce que ça peut être?(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0246",
     "en": "   Huh...? Saying that stuff to a{SAUT}[FFF0]... Are you one of{SAUT}those people who lives on the edge?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hein...? Dire des trucs pareils à un{SAUT}[FFF0]... T'es de ceux qui{SAUT}aiment vivre dangereusement?(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0247",
     "en": " Grrrrrr! Don't make fun of Germans!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Grrrrrr! Te moque pas des Allemands!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0248",
     "en": "Eep... yikes... Someone help me...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Iiik... aïe... Au secours...(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0249",
     "en": " Don't say that with such a straight face!{SAUT}Wow, you're an embarrassing human!{SAUT}Just go roll over and die.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Dis pas ça avec un air aussi sérieux!{SAUT}Ouah, t'es un humain gênant!{SAUT}Va donc tomber raide mort.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0250",
     "en": "R-Really...? Humans are scary...(*RESPONSE*)",
-    "fr": ""
+    "fr": "V-Vraiment...? Les humains font peur...(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0251",
     "en": "   Huh? Minced meat? BBQ sauce? Meat sauce?{SAUT}Meaty meat? Hey, what's so meaty{SAUT}about that?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hein? Viande hachée? Sauce barbecue?{SAUT}Sauce bolo? Viande viandeuse? Hé, c'est{SAUT}viandeux en quoi, ça?(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0252",
     "en": "  Yep. I'll do it! I'm doing this!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ouais. Je le fais! C'est parti!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0253",
     "en": "   N-No way... Do you like getting{SAUT}beat up...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "N-Nan... T'aimes te faire{SAUT}taper dessus...?(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0254",
     "en": "Grrr! I hate when people say that!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Grrr! Je déteste qu'on dise ça!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0255",
     "en": " Ooohehehehe! Isn't that cool!? Thumbing{SAUT}doesn't work on me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ooohéhéhéhé! Trop cool, hein!? Le coup{SAUT}des pouces, ça marche pas sur moi!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0256",
     "en": "Huh...? What are you looking at, mister?{SAUT}You're such a pervert...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hein...? Tu regardes quoi, m'sieur?{SAUT}T'es vraiment un pervers...(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0257",
     "en": "  Nuh-uh!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Nan-nan!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0258",
     "en": "Ooohehehehe! I thought so! You can't{SAUT}fool me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ooohéhéhéhé! Je m'en doutais! Tu peux{SAUT}pas me rouler!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0259",
     "en": "  Yaaaaaay! I broke that plate!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Youpiii! J'ai cassé l'assiette!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0260",
     "en": "  \"What mask?\" Don't make fun of me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "\"Quel masque?\" Te moque pas de moi!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0261",
     "en": " Yep! This'll be a good partner for me.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ouais! Un bon partenaire pour moi.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0262",
     "en": " Don't make fun of me! Go back to{SAUT}America, lady!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Te moque pas de moi! Retourne en{SAUT}Amérique, madame!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0263",
     "en": "Who's that? I don't know anyone like{SAUT}that. Who could it be...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est qui? Je connais personne comme{SAUT}ça. Qui ça peut bien être...?(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0264",
     "en": " ...Hmm... If you're being this nice...{SAUT}Maybe you're up to something...(*RESPONSE*)",
-    "fr": ""
+    "fr": "...Hmm... Si t'es aussi gentil...{SAUT}Tu manigances peut-être un truc...(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0265",
     "en": " You're kind of like a mommy, lady...(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es un peu comme une maman, madame...(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0266",
     "en": "   Ooohehehehe! I'm so popular!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ooohéhéhéhé! Je suis trop populaire!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0267",
     "en": "   Huuuh? What's that about...? You better{SAUT}not have been making fun of me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hein? C'est quoi, ça...? T'as intérêt à{SAUT}pas t'être moqué de moi!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0268",
     "en": "Eeep... I'll pass... My tummy's not{SAUT}feeling so good right now...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Iiiik... Je passe... J'ai un peu mal{SAUT}au ventre, là...(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0269",
     "en": "   Okay, I'll forget it.(*RESPONSE*)",
-    "fr": ""
+    "fr": "D'accord, j'oublie.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0270",
     "en": "  Eeep... You're one mean lady...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Iiiik... T'es méchante, madame...(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0271",
     "en": "Ohhhh, you were joking. Phew!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ohhhh, tu blaguais. Ouf!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0272",
     "en": "  Teehee! I'm so excited!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hihi! Je suis tout excité!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0273",
     "en": "Huh!? Why? Why won't you say it!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hein!? Pourquoi tu veux pas le dire!?(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0274",
     "en": "  Haha, that's not true at all! I think{SAUT}it'd be fun to go with you, lady.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Haha, c'est pas vrai du tout! Je crois{SAUT}qu'on s'amuserait bien ensemble, madame.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0275",
     "en": "No way! That was totally amazing!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Sans blague! C'était trop génial!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0276",
     "en": "  You know, I'm good at showing up{SAUT}in photos!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu sais, je suis doué pour apparaître{SAUT}sur les photos!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0277",
     "en": "I've had it... I've completely lost it!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ras-le-bol... J'ai complètement craqué!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0278",
     "en": "Don't make fun of me! Roll over and die!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Te moque pas de moi! Tombe raide mort!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0279",
     "en": "   Hyuk hyuk! You've got bones, mister!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hyuk hyuk! T'as des os, m'sieur!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0280",
     "en": "   Huh... Me too, then!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hein... Moi aussi, alors!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0281",
     "en": "   Humans are that poor? I never knew that...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Les humains sont si pauvres? Ah bon...(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0282",
     "en": " I wonder if I failed... If I said \"life{SAUT}stones,\" maybe I could've gotten one...(*RESPONSE*)",
-    "fr": ""
+    "fr": "J'ai raté mon coup? Si j'avais dit{SAUT}\"pierres de vie\", j'en aurais eu une...(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0283",
     "en": "Huh!? You don't have any!? Whoa...{SAUT}Life stones are important when you{SAUT}wanna negotiate, you know.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hein!? T'en as pas!? Ouah...{SAUT}Les pierres de vie, c'est important{SAUT}pour négocier, tu sais.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0284",
     "en": "   I wonder if I failed... If I said \"money,\"{SAUT}maybe I could've gotten some...(*RESPONSE*)",
-    "fr": ""
+    "fr": "J'ai raté mon coup? Si j'avais dit{SAUT}\"des sous\", j'en aurais peut-être eu...(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0285",
     "en": " I'm not surprised... they are gems{SAUT}and all... But I'm still kinda{SAUT}disappointed.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ça m'étonne pas... c'est des gemmes,{SAUT}après tout... Mais je suis quand même{SAUT}un peu déçu.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0286",
     "en": "A-Are you saying you don't need me?{SAUT}You're a meanie...(*RESPONSE*)",
-    "fr": ""
+    "fr": "T-Tu dis que t'as pas besoin de moi?{SAUT}T'es méchant...(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:text:0287",
     "en": " Uuuurrrgh! Urgh, urgh, uuuurrrrrgggghhh!{ATTENTE}",
-    "fr": ""
+    "fr": "Rrraaah! Rah, rah, rrraaaaaaah!{ATTENTE}"
   },
   {
     "id": "POLUTAR.BIN:text:0288",
     "en": "{PAGE}Ooh, that had a cool rhythm... I'll give{SAUT}you my spell card!(*OPTION*)",
-    "fr": ""
+    "fr": "{PAGE}Ooh, ça avait du rythme... Je te{SAUT}donne ma carte de sort!(*OPTION*)"
   },
   {
     "id": "POLUTAR.BIN:text:0289",
     "en": "  ...Oh, that's right! I'll give you my{SAUT}spell card. If you make a Person with{SAUT}me, we can stay together!(*OPTION*)",
-    "fr": "",
+    "fr": "...Oh, c'est vrai! Je te donne ma{SAUT}carte de sort. Si tu fais un Persona{SAUT}avec moi, on restera ensemble!(*OPTION*)",
     "_occurrences": 2
   },
   {
     "id": "POLUTAR.BIN:resp:0000",
     "en": "Believe him(*RESPONSE*)",
-    "fr": ""
+    "fr": "Le croire(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0001",
     "en": "Don't believe him(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Ne pas le croire(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0002",
     "en": "We need you.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "On a besoin de toi.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0003",
     "en": "We don't need you.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Pas besoin de toi.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0004",
     "en": "Keep taunting(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Narguer encore(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0005",
     "en": "Ignore him(*RESPONSE*) ",
-    "fr": "",
+    "fr": "L'ignorer(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "POLUTAR.BIN:resp:0008",
     "en": "YMCYaaaay!(*RESPONSE*) ",
-    "fr": ""
+    "fr": "YMCYoupiii!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0009",
     "en": "Oh, it's you.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Ah, c'est toi.(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0010",
     "en": "Nothing, really...(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Rien, en fait...(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "POLUTAR.BIN:resp:0011",
     "en": "I want your body!(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Je veux ton corps!(*RESPONSE*)"
   },
   {
     "id": "POLUTAR.BIN:resp:0012",
     "en": "It's Hong Kong.(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est Hong Kong.(*RESPONSE*)"
   }
 ]
