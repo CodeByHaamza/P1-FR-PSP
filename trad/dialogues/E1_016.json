@@ -4,7 +4,7 @@
     "locuteur": "Mr. Devilish",
     "en": "Hey! Who said you were allowed to spill{SAUT}the milk!? That milk is good for you!{ATTENTE}",
     "locuteur_fr": "M. Diabolique",
-    "fr": "Hé! Qui a dit que tu pouvais renverser{SAUT}le lait!? C'est du bon lait pour toi!{ATTENTE}"
+    "fr": "Hé! Qui a dit que tu pouvais gaspiller{SAUT}le lait!? C'est du bon lait pour toi!{ATTENTE}"
   },
   {
     "id": "E1.BIN:081:0001",
@@ -18,7 +18,7 @@
     "locuteur": "Mr. Devilish",
     "en": "You should be happy, you gluttonous{SAUT}little porker!{ATTENTE}",
     "locuteur_fr": "M. Diabolique",
-    "fr": "Tu devrais être content, petit{ATTENTE}porcinet goulu!{ATTENTE}"
+    "fr": "Tu devrais être content, petit{SAUT}porcinet goulu!{ATTENTE}"
   },
   {
     "id": "E1.BIN:081:0003",
@@ -108,7 +108,7 @@
     "id": "E1.BIN:081:0015",
     "locuteur": "Tsutomu",
     "en": "Ugh...! I... I can't do this...!{ATTENTE}",
-    "locuteur_fr": "Tsutomi",
+    "locuteur_fr": "Tsutomu",
     "fr": "Han...! Je... J'en peux plus...!{ATTENTE}"
   },
   {
@@ -137,7 +137,7 @@
     "locuteur": "Yukino",
     "en": "I thought you were both back at school!{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Je pensais que vous étiez retournés au lycée!{ATTENTE}"
+    "fr": "Vous n'êtes pas retournés au lycée?{ATTENTE}"
   },
   {
     "id": "E1.BIN:081:0020",
@@ -179,7 +179,7 @@
     "locuteur": "Mr. Devilish",
     "en": "Think of yourself as a machine...{ATTENTE}",
     "locuteur_fr": "M. Diabolique",
-    "fr": "Mets-toi dans la peau d'un robot...{ATTENDRE}"
+    "fr": "Mets-toi dans la peau d'un robot...{ATTENTE}"
   },
   {
     "id": "E1.BIN:081:0026",
@@ -193,7 +193,7 @@
     "locuteur": "Tsutomu",
     "en": "I... ＊pant＊ can't move... anymore...{ATTENTE}",
     "locuteur_fr": "Tsutomu",
-    "fr": "Je... *souffle* ne peux... plus bouger...{ATTENTE}"
+    "fr": "Je... ＊souffle＊ ne peux... plus bouger...{ATTENTE}"
   },
   {
     "id": "E1.BIN:081:0028",
@@ -376,7 +376,7 @@
     "locuteur": "Nanjo",
     "en": "...Shouldn't you speak for yourself? In{SAUT}any event, ugly as you may see them...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "...Vous êtes-vous vue? En tout cas,{SAUT}aussi laids qu'ils puissent vous paraître...{ATTENTE}"
+    "fr": "...Vous êtes-vous vue? En tout cas, aussi{SAUT}laids qu'ils puissent vous paraître...{ATTENTE}"
   },
   {
     "id": "E1.BIN:081:0054",
@@ -425,7 +425,7 @@
     "locuteur": "Michiko",
     "en": "Oh, you care deeply for your friends, mm?{ATTENTE}",
     "locuteur_fr": "Michiko",
-    "fr": "Oh, tu te fais du soucis pour tes amis, hein?{ATTENTE}"
+    "fr": "Oh, tu te fais du souci pour tes amis, hum?{ATTENTE}"
   },
   {
     "id": "E1.BIN:081:0061",
@@ -510,7 +510,7 @@
     "locuteur": "Michiko",
     "en": "Those Mirror Shards you so eagerly seek...{ATTENTE}",
     "locuteur_fr": "Michiko",
-    "fr": "Ces Fragments de Miroir que vous cherchez éperdument...{ATTENTE} "
+    "fr": "Ces Fragments de Miroir que vous cherchez...{ATTENTE} "
   },
   {
     "id": "E1.BIN:081:0073",
@@ -693,7 +693,7 @@
     "locuteur": "Mr. Devilish",
     "en": "I'm only doing what Lady Michiko ordered.{SAUT}If you have a problem, take it up with her.{ATTENTE}",
     "locuteur_fr": "M. Diabolique",
-    "fr": "Je suis juste les ordres de Dame Michiko.{SAUT}Si vous avez un problème, voyez ça avec elle.{ATTENTE}"
+    "fr": "Je suis juste les ordres de Dame Michiko.{SAUT}Si vous avez un problème, voyez avec elle.{ATTENTE}"
   },
   {
     "id": "E1.BIN:081:0099",
