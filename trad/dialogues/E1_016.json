@@ -510,7 +510,7 @@
     "locuteur": "Michiko",
     "en": "Those Mirror Shards you so eagerly seek...{ATTENTE}",
     "locuteur_fr": "Michiko",
-    "fr": "Ces Fragments de Miroir que vous cherchez...{ATTENTE} "
+    "fr": "Ces Fragments de Miroir que vous{SAUT}cherchez éperdument...{ATTENTE} "
   },
   {
     "id": "E1.BIN:081:0073",
