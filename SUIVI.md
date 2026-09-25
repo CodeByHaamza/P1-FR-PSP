@@ -225,7 +225,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E1_022.json`](trad/dialogues/E1_022.json) | 95 | 0 | 0 % | en cours par @Uolil-Raccoon (#67) |
 | [`E1_023.json`](trad/dialogues/E1_023.json) | 96 | 9 | 9 % | commencé |
 | [`E1_024.json`](trad/dialogues/E1_024.json) | 93 | 1 | 1 % | commencé |
-| [`E1_025.json`](trad/dialogues/E1_025.json) | 86 | 0 | 0 % | libre |
+| [`E1_025.json`](trad/dialogues/E1_025.json) | 86 | 0 | 0 % | en cours par @Uolil-Raccoon (#68) |
 | [`E1_026.json`](trad/dialogues/E1_026.json) | 97 | 97 | 100 % | terminé · 5 trop large |
 | [`E1_027.json`](trad/dialogues/E1_027.json) | 89 | 8 | 9 % | commencé |
 | [`E1_028.json`](trad/dialogues/E1_028.json) | 79 | 79 | 100 % | terminé · 2 trop large |
