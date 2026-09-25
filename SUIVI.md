@@ -3,12 +3,12 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Dialogues      █████████████░░░░░░░░░░░   53 %    4 530 / 8 572 textes
+Dialogues      ██████████████░░░░░░░░░░   57 %    4 918 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
-Négociations   ███████░░░░░░░░░░░░░░░░░   28 %    3 473 / 12 487 textes
+Négociations   ███████░░░░░░░░░░░░░░░░░   31 %    3 809 / 12 487 textes
 
-Total          ███████████░░░░░░░░░░░░░   46 %   11 089 / 24 145 textes
+Total          ████████████░░░░░░░░░░░░   49 %   11 813 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -16,6 +16,7 @@ Total          ███████████░░░░░░░░░░�
 Ces entrées alourdissent leur fichier. Un bloc qui franchit sa frontière fait rester **tout le fichier en anglais** dans le jeu, sans erreur au build : c'est le plus sournois des avertissements.
 
 - [`E0_024.json`](trad/dialogues/E0_024.json) — 3 entrées
+- [`E1_025.json`](trad/dialogues/E1_025.json) — 1 entrée
 - [`EBOOT_020.json`](trad/eboot/EBOOT_020.json) — 1 entrée
 - [`TOILET_001.json`](trad/negociations/TOILET_001.json) — 1 entrée
 
@@ -25,6 +26,7 @@ Terminologie à confirmer — un terme du dictionnaire apparaît dans l'anglais 
 
 - [`E1_001.json`](trad/dialogues/E1_001.json) — 1 terme
 - [`E1_006.json`](trad/dialogues/E1_006.json) — 1 terme
+- [`E1_025.json`](trad/dialogues/E1_025.json) — 1 terme
 - [`E2_005.json`](trad/dialogues/E2_005.json) — 1 terme
 - [`E3_001.json`](trad/dialogues/E3_001.json) — 1 terme
 - [`E3_006.json`](trad/dialogues/E3_006.json) — 1 terme
@@ -48,6 +50,10 @@ Ces lignes sont plus larges que l'anglaise et approchent de la limite de la boî
 - [`E1_008.json`](trad/dialogues/E1_008.json) — 1 ligne
 - [`E1_009.json`](trad/dialogues/E1_009.json) — 2 lignes
 - [`E1_013.json`](trad/dialogues/E1_013.json) — 3 lignes
+- [`E1_016.json`](trad/dialogues/E1_016.json) — 10 lignes
+- [`E1_018.json`](trad/dialogues/E1_018.json) — 11 lignes
+- [`E1_022.json`](trad/dialogues/E1_022.json) — 9 lignes
+- [`E1_025.json`](trad/dialogues/E1_025.json) — 5 lignes
 - [`E1_026.json`](trad/dialogues/E1_026.json) — 5 lignes
 - [`E1_028.json`](trad/dialogues/E1_028.json) — 2 lignes
 - [`E1_030.json`](trad/dialogues/E1_030.json) — 3 lignes
@@ -145,7 +151,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_032.json`](trad/dialogues/E0_032.json) | 100 | 11 | 11 % | commencé |
 | [`E0_033.json`](trad/dialogues/E0_033.json) | 74 | 74 | 100 % | terminé |
 | [`E0_034.json`](trad/dialogues/E0_034.json) | 70 | 1 | 1 % | commencé |
-| [`E0_035.json`](trad/dialogues/E0_035.json) | 57 | 10 | 18 % | en cours par @DiCEO0 (#66) |
+| [`E0_035.json`](trad/dialogues/E0_035.json) | 57 | 17 | 30 % | commencé par @DiCEO0 |
 | [`E0_036.json`](trad/dialogues/E0_036.json) | 53 | 5 | 9 % | commencé |
 | [`E0_037.json`](trad/dialogues/E0_037.json) | 99 | 4 | 4 % | commencé |
 | [`E0_038.json`](trad/dialogues/E0_038.json) | 79 | 1 | 1 % | commencé |
@@ -174,16 +180,16 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E1_013.json`](trad/dialogues/E1_013.json) | 60 | 60 | 100 % | terminé par @Uolil-Raccoon · 3 trop large |
 | [`E1_014.json`](trad/dialogues/E1_014.json) | 43 | 43 | 100 % | terminé |
 | [`E1_015.json`](trad/dialogues/E1_015.json) | 65 | 1 | 2 % | commencé |
-| [`E1_016.json`](trad/dialogues/E1_016.json) | 100 | 0 | 0 % | en cours par @Uolil-Raccoon (#61) |
+| [`E1_016.json`](trad/dialogues/E1_016.json) | 100 | 100 | 100 % | terminé par @Uolil-Raccoon · 10 trop large |
 | [`E1_017.json`](trad/dialogues/E1_017.json) | 38 | 38 | 100 % | terminé |
-| [`E1_018.json`](trad/dialogues/E1_018.json) | 100 | 0 | 0 % | en cours par @Uolil-Raccoon (#60) |
+| [`E1_018.json`](trad/dialogues/E1_018.json) | 100 | 100 | 100 % | terminé par @Uolil-Raccoon · 11 trop large |
 | [`E1_019.json`](trad/dialogues/E1_019.json) | 46 | 1 | 2 % | commencé |
 | [`E1_020.json`](trad/dialogues/E1_020.json) | 67 | 3 | 4 % | commencé |
 | [`E1_021.json`](trad/dialogues/E1_021.json) | 66 | 27 | 41 % | commencé par @vikmorp |
-| [`E1_022.json`](trad/dialogues/E1_022.json) | 95 | 0 | 0 % | en cours par @Uolil-Raccoon (#67) |
+| [`E1_022.json`](trad/dialogues/E1_022.json) | 95 | 95 | 100 % | terminé par @Uolil-Raccoon · 9 trop large |
 | [`E1_023.json`](trad/dialogues/E1_023.json) | 96 | 9 | 9 % | commencé |
 | [`E1_024.json`](trad/dialogues/E1_024.json) | 93 | 1 | 1 % | commencé |
-| [`E1_025.json`](trad/dialogues/E1_025.json) | 86 | 0 | 0 % | en cours par @Uolil-Raccoon (#68) |
+| [`E1_025.json`](trad/dialogues/E1_025.json) | 86 | 86 | 100 % | terminé par @Uolil-Raccoon · 1 à alléger |
 | [`E1_026.json`](trad/dialogues/E1_026.json) | 97 | 97 | 100 % | terminé · 5 trop large |
 | [`E1_027.json`](trad/dialogues/E1_027.json) | 89 | 8 | 9 % | commencé |
 | [`E1_028.json`](trad/dialogues/E1_028.json) | 79 | 79 | 100 % | terminé · 2 trop large |
@@ -346,10 +352,10 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`MAYOERU_001.json`](trad/negociations/MAYOERU_001.json) | 100 | 100 | 100 % | terminé |
 | [`MAYOERU_002.json`](trad/negociations/MAYOERU_002.json) | 100 | 100 | 100 % | terminé |
 | [`MAYOERU_003.json`](trad/negociations/MAYOERU_003.json) | 39 | 39 | 100 % | terminé |
-| [`POLUTAR_001.json`](trad/negociations/POLUTAR_001.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#63) |
-| [`POLUTAR_002.json`](trad/negociations/POLUTAR_002.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#62) |
-| [`POLUTAR_003.json`](trad/negociations/POLUTAR_003.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#64) |
-| [`POLUTAR_004.json`](trad/negociations/POLUTAR_004.json) | 36 | 0 | 0 % | en cours par @ATMC14 (#65) |
+| [`POLUTAR_001.json`](trad/negociations/POLUTAR_001.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`POLUTAR_002.json`](trad/negociations/POLUTAR_002.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`POLUTAR_003.json`](trad/negociations/POLUTAR_003.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`POLUTAR_004.json`](trad/negociations/POLUTAR_004.json) | 36 | 36 | 100 % | terminé par @ATMC14 |
 | [`QSIRUBA_001.json`](trad/negociations/QSIRUBA_001.json) | 100 | 0 | 0 % | libre |
 | [`QSIRUBA_002.json`](trad/negociations/QSIRUBA_002.json) | 100 | 0 | 0 % | libre |
 | [`QSIRUBA_003.json`](trad/negociations/QSIRUBA_003.json) | 20 | 0 | 0 % | libre |
