@@ -236,7 +236,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E3_004.json`](trad/dialogues/E3_004.json) | 95 | 95 | 100 % | terminé · 1 trop large |
 | [`E3_005.json`](trad/dialogues/E3_005.json) | 97 | 97 | 100 % | terminé · 4 trop large |
 | [`E3_006.json`](trad/dialogues/E3_006.json) | 98 | 98 | 100 % | terminé · 1 terme |
-| [`E3_007.json`](trad/dialogues/E3_007.json) | 96 | 0 | 0 % | libre |
+| [`E3_007.json`](trad/dialogues/E3_007.json) | 96 | 0 | 0 % | en cours par @Uolil-Raccoon (#78) |
 | [`E3_008.json`](trad/dialogues/E3_008.json) | 66 | 1 | 2 % | commencé |
 
 ## EBOOT
