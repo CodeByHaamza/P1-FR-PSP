@@ -11,7 +11,7 @@
     "locuteur": "Yukino",
     "en": "Or are you gonna go cry to the nice Snow{SAUT}Queen who gave you eternal beauty?{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Ou vas-tu te plaindre à la gentille Reine{SAUT}des Neiges qui t'a offert une beauté éternelle?{ATTENTE}"
+    "fr": "Ou tu vas pleurer chez la gentille Reine{SAUT}des Neiges qui t'a faite si belle?{ATTENTE}"
   },
   {
     "id": "E1.BIN:129:0002",
@@ -46,7 +46,7 @@
     "locuteur": "Yuriko",
     "en": "I'm glad... it ended like this...{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": "Je suis contente... Que ça finisse comme ça...{ATTENTE}"
+    "fr": "Contente... que ça finisse ainsi...{ATTENTE}"
   },
   {
     "id": "E1.BIN:129:0007",
@@ -144,7 +144,7 @@
     "locuteur": "Brown",
     "en": "I admit I've got a soft spot for a cute{SAUT}girl in tears, but I know you're faking.{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "J'avoue que les jolies filles en larmes,{SAUT}c'est mon point faible, mais tu fais semblant.{ATTENTE}"
+    "fr": "J'avoue, les jolies filles en larmes,{SAUT}c'est mon faible. Mais tu fais semblant.{ATTENTE}"
   },
   {
     "id": "E1.BIN:129:0021",
@@ -186,7 +186,7 @@
     "locuteur": "Brown",
     "en": "If you're gonna lie, try to come up with{SAUT}something better than that.{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "Quitte à mentir, fais-le bien.{ATTENTE}"
+    "fr": "Quitte à mentir, trouve mieux{SAUT}que ça.{ATTENTE}"
   },
   {
     "id": "E1.BIN:129:0027",
@@ -305,7 +305,7 @@
     "locuteur": "Yuriko",
     "en": "\"Will I ever be happier than I am now?\"{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": "\"Serai-je toujours aussi heureuse qu'aujourd'hui?\"{ATTENTE}"
+    "fr": "\"Serai-je un jour plus heureuse?\"{ATTENTE}"
   },
   {
     "id": "E1.BIN:129:0044",
@@ -326,7 +326,7 @@
     "locuteur": "Yuriko",
     "en": "That's when the Snow Queen's mask I wore{SAUT}in the play spoke to me.{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": "C'est là que le masque de la Reine des Neiges{SAUT}que je portais dans la pièce m'a parlé.{ATTENTE}"
+    "fr": "C'est là que le masque de la Reine des{SAUT}Neiges de la pièce m'a parlé.{ATTENTE}"
   },
   {
     "id": "E1.BIN:129:0047",
@@ -340,7 +340,7 @@
     "locuteur": "Yuriko",
     "en": "Before I knew it, I was in this tower...{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": "L'instant d'après, j'étais dans cette tour...{ATTENTE}"
+    "fr": "Et je me suis retrouvée ici...{ATTENTE}"
   },
   {
     "id": "E1.BIN:129:0049",
