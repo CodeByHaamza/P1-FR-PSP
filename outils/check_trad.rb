@@ -254,7 +254,13 @@ module CheckTrad
       next unless cases.length >= 3 && cases[2].include?('✅')
 
       en = cases[0]
-      fr = cases[1].sub(/\*\(.*/, '').strip # coupe la note en italique
+      # La case française peut porter une précision après un tiret cadratin
+      # (« Persona — **féminin** : la Persona... ») : seule la forme qui
+      # précède est le terme. On retire aussi le gras et la note en italique,
+      # sinon le message d'avertissement recrache le Markdown du tableau.
+      fr = cases[1].sub(/\*\(.*/, '')      # note en italique
+                   .sub(/\s+[—–-]\s.*/, '') # précision après un tiret
+                   .gsub('**', '').strip
 
       # Une case qui porte encore une parenthèse est une explication, pas un
       # terme : « (nom choisi par le joueur) » ne se cherche pas dans un texte.
