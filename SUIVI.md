@@ -339,13 +339,13 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`KOROU_007.json`](trad/negociations/KOROU_007.json) | 100 | 0 | 0 % | libre |
 | [`KOROU_008.json`](trad/negociations/KOROU_008.json) | 100 | 0 | 0 % | libre |
 | [`KOROU_009.json`](trad/negociations/KOROU_009.json) | 69 | 0 | 0 % | libre |
-| [`KOSIKI_001.json`](trad/negociations/KOSIKI_001.json) | 100 | 0 | 0 % | libre |
-| [`KOSIKI_002.json`](trad/negociations/KOSIKI_002.json) | 100 | 0 | 0 % | libre |
-| [`KOSIKI_003.json`](trad/negociations/KOSIKI_003.json) | 100 | 0 | 0 % | libre |
-| [`KOSIKI_004.json`](trad/negociations/KOSIKI_004.json) | 100 | 0 | 0 % | libre |
-| [`KOSIKI_005.json`](trad/negociations/KOSIKI_005.json) | 100 | 0 | 0 % | libre |
-| [`KOSIKI_006.json`](trad/negociations/KOSIKI_006.json) | 100 | 0 | 0 % | libre |
-| [`KOSIKI_007.json`](trad/negociations/KOSIKI_007.json) | 25 | 0 | 0 % | libre |
+| [`KOSIKI_001.json`](trad/negociations/KOSIKI_001.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#77) |
+| [`KOSIKI_002.json`](trad/negociations/KOSIKI_002.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#77) |
+| [`KOSIKI_003.json`](trad/negociations/KOSIKI_003.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#77) |
+| [`KOSIKI_004.json`](trad/negociations/KOSIKI_004.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#77) |
+| [`KOSIKI_005.json`](trad/negociations/KOSIKI_005.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#77) |
+| [`KOSIKI_006.json`](trad/negociations/KOSIKI_006.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#77) |
+| [`KOSIKI_007.json`](trad/negociations/KOSIKI_007.json) | 25 | 0 | 0 % | en cours par @CodeByHaamza (#77) |
 | [`KOUMAN_001.json`](trad/negociations/KOUMAN_001.json) | 100 | 0 | 0 % | libre |
 | [`KOUMAN_002.json`](trad/negociations/KOUMAN_002.json) | 100 | 0 | 0 % | libre |
 | [`KOUMAN_003.json`](trad/negociations/KOUMAN_003.json) | 100 | 0 | 0 % | libre |
@@ -375,12 +375,12 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`QSIRUBA_001.json`](trad/negociations/QSIRUBA_001.json) | 100 | 100 | 100 % | terminé · 10 trop large |
 | [`QSIRUBA_002.json`](trad/negociations/QSIRUBA_002.json) | 100 | 100 | 100 % | terminé · 13 trop large |
 | [`QSIRUBA_003.json`](trad/negociations/QSIRUBA_003.json) | 20 | 20 | 100 % | terminé · 4 trop large |
-| [`SINSI_001.json`](trad/negociations/SINSI_001.json) | 100 | 0 | 0 % | libre |
-| [`SINSI_002.json`](trad/negociations/SINSI_002.json) | 100 | 0 | 0 % | libre |
+| [`SINSI_001.json`](trad/negociations/SINSI_001.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#77) |
+| [`SINSI_002.json`](trad/negociations/SINSI_002.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#77) |
 | [`SINSI_003.json`](trad/negociations/SINSI_003.json) | 100 | 0 | 0 % | libre |
 | [`SINSI_004.json`](trad/negociations/SINSI_004.json) | 100 | 0 | 0 % | libre |
-| [`SINSI_005.json`](trad/negociations/SINSI_005.json) | 100 | 0 | 0 % | libre |
-| [`SINSI_006.json`](trad/negociations/SINSI_006.json) | 100 | 0 | 0 % | libre |
+| [`SINSI_005.json`](trad/negociations/SINSI_005.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#77) |
+| [`SINSI_006.json`](trad/negociations/SINSI_006.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#77) |
 | [`SINSI_007.json`](trad/negociations/SINSI_007.json) | 36 | 0 | 0 % | libre |
 | [`SLIME_001.json`](trad/negociations/SLIME_001.json) | 100 | 100 | 100 % | terminé |
 | [`SLIME_002.json`](trad/negociations/SLIME_002.json) | 100 | 100 | 100 % | terminé |
@@ -430,5 +430,5 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`ZOMBIKO_001.json`](trad/negociations/ZOMBIKO_001.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
 | [`ZOMBIKO_002.json`](trad/negociations/ZOMBIKO_002.json) | 90 | 90 | 100 % | terminé par @ATMC14 |
 | [`ZOMB_MAN_001.json`](trad/negociations/ZOMB_MAN_001.json) | 100 | 100 | 100 % | terminé · 4 trop large |
-| [`ZOMB_MAN_002.json`](trad/negociations/ZOMB_MAN_002.json) | 82 | 36 | 44 % | commencé par @vikmorp |
+| [`ZOMB_MAN_002.json`](trad/negociations/ZOMB_MAN_002.json) | 82 | 36 | 44 % | en cours par @CodeByHaamza (#77) |
 
