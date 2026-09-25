@@ -147,12 +147,12 @@
   {
     "id": "ZOMB_MAN.BIN:text:0129",
     "en": " Why bother going through thaa hassle?{SAUT}I'll negoshiate for you.(*OPTION*)",
-    "fr": ""
+    "fr": " Pourquoi z'embêter avec tout ça?{SAUT}J'négozie pour toi.(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0130",
     "en": " I'm kinda in a fix right now. Think ov{SAUT}it as helping out a friend.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": " J'zuis un peu embêté là. Vois ça{SAUT}comme aider un copain.[FFF1](*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0131",
@@ -192,222 +192,222 @@
   {
     "id": "ZOMB_MAN.BIN:text:0138",
     "en": "   I've heard a lotta rumors about you.{SAUT}Sounz like yur threatening demonz and{SAUT}taking their stuff.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "   J'ai entendu plein de rumeurz zur toi.{SAUT}Paraît que tu menaces les démonz{SAUT}et que tu prends leurs trucs.[FFF1](*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0139",
     "en": "I-I could take you, easy! But if you{SAUT}behave, I'll lissen to wut you have{SAUT}to say!(*RESPONSE*)",
-    "fr": ""
+    "fr": "J-J'pourrais t'écrazer, facile! Mais zi{SAUT}tu te tiens bien, j'écoute c'que{SAUT}t'as à dire!(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0140",
     "en": "   [FFEC]You really have business with me? Aren't{SAUT}you mistaking me for somewun else...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   [FFEC]T'as vraiment affaire à moi? Tu me{SAUT}confonds pô avec quelqu'un d'autre...?(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0141",
     "en": "[FFEE]I think I like you. Wanna be frienz...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEE]J'crois que j't'aime bien. Potes...?(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0142",
     "en": "   [FFEE]I wanna talk more. I don't get chancez{SAUT}like this too often.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   [FFEE]J'veux parler encore. J'ai pô zouvent{SAUT}des occazions comme ça.(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0143",
     "en": "   [FFEC]Are you gonna take this body too...?{SAUT}Nooo! I don't wanna disappear!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   [FFEC]Tu vas prendre ce corps auzzi...?{SAUT}Nooon! J'veux pô disparaître!(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0144",
     "en": "   [FFEC]Yur cruel! Yur so cruel! Waaaah!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   [FFEC]T'es cruel! Zi cruel! Waaaah!(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0145",
     "en": "  [FFEB]I'm above humans. Every human iz just{SAUT}food for us!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  [FFEB]J'zuis au-dezzus des humains. Tous{SAUT}de la bouffe pour nous!(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0146",
     "en": "[FFED]I hear you've been doing pretty good{SAUT}lately. Gimme some of thaa money...![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFED]Paraît que tu te débrouilles bien{SAUT}ces temps-ci. File-moi du fric...![FFF1](*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0147",
     "en": "[FFEC]Hey, man. Won't we be unbeatable if we{SAUT}team up? How about it...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEC]Hé, mec. On zerait pô imbattables{SAUT}en équipe? Ça te dit...?(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0148",
     "en": "  [FFEB]I've been looking for you... I wanted{SAUT}to be yur apprentice.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  [FFEB]J'te cherchais... J'voulais être{SAUT}ton apprenti.(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0149",
     "en": "   Whuh... Wut do you want with me?(*OPTION*)",
-    "fr": ""
+    "fr": "   Heu... Tu me veux quoi?(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0150",
     "en": "   Don't make fun ov me! Get outta my sight!(*OPTION*)",
-    "fr": ""
+    "fr": "   Te moque pô de moi! Dégage de là!(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0151",
     "en": "  I'm freaking out... I wunner if I'm gonna{SAUT}get killed again...(*OPTION*)",
-    "fr": ""
+    "fr": "  J'panique... J'me demande zi j'vais{SAUT}encore me faire tuer...(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0152",
     "en": "  When I'm with you, I feel like I'm back{SAUT}at school shooting the breeze with{SAUT}my frienz...(*OPTION*)",
-    "fr": ""
+    "fr": "  Avec toi, j'ai l'impression d'être{SAUT}encore au lycée à tailler le bout{SAUT}de gras avec mes potes...(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0153",
     "en": "Wut did you want from me...? Thaa'z{SAUT}wut this wuz all about, right?(*OPTION*)",
-    "fr": ""
+    "fr": "Tu me voulais quoi...? C'était{SAUT}bien ça, hein?(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0154",
     "en": " Wait a sec... I didn't say nothing about{SAUT}ignoring you. Yur asking me for a favor!(*OPTION*)",
-    "fr": ""
+    "fr": " Attends... J'ai jamais dit que j'allais{SAUT}t'ignorer. Tu me demandes un zervice!(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0155",
     "en": "  Oh man... This is wun helluva weird dream.{SAUT}I wunner if it's becuz I played a weird{SAUT}game before I went to sleep...(*OPTION*)",
-    "fr": ""
+    "fr": "  Oh la la... Quel rêve bizarre.{SAUT}C'est peut-être parce que j'ai joué{SAUT}à un jeu bizarre avant de dormir...(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0156",
     "en": "  You should be honored thaa you could talk{SAUT}to me last!(*OPTION*)",
-    "fr": ""
+    "fr": "  Tu devrais être honoré de m'avoir{SAUT}parlé en dernier!(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0157",
     "en": "  Humanz are amazing... L-Lemme join you{SAUT}guyz... pleaze...?(*OPTION*)",
-    "fr": ""
+    "fr": "  Les humains zont formidables...{SAUT}L-Laizzez-moi venir... pitié...?(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0158",
     "en": "  I'm collecting money so I can swap{SAUT}for a new arm. Can you spare{SAUT}(*VALUE*) yen?(*OPTION*)",
-    "fr": ""
+    "fr": "  J'amasse du fric pour m'acheter{SAUT}un nouveau bras. Tu peux lâcher{SAUT}(*VALUE*) yens?(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0159",
     "en": " Just a little more and I can buy a{SAUT}new arm!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Encore un peu et j'm'achète un{SAUT}nouveau bras!(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0160",
     "en": "Thaa'z not enuff... Y'kno, you could{SAUT}just gimme your arm!(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est pô azzez... Tu zais, tu pourrais{SAUT}me filer ton bras!(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0161",
     "en": "  Urgh! Then gimme your arm!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Urgh! File ton bras alors!(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0162",
     "en": " I wanna life stone. They make me feel{SAUT}all nice and fuzzy...(*OPTION*)",
-    "fr": ""
+    "fr": " J'veux une pierre de vie. Ça me fait{SAUT}tout chaud dedans...(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0163",
     "en": "Yur actually a pretty nice guy!(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es plutôt zympa en fait!(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0164",
     "en": "Awww... thaa'z a bummer...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Awww... c'est ballot...(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0165",
     "en": " Yur on yur way to hell... I'll sho{SAUT}you how to get there!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tu vas droit en enfer... J'te montre{SAUT}le chemin!(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0166",
     "en": "   I wanna present to give to a girl.{SAUT}Gimme a [FFF4].(*OPTION*)",
-    "fr": ""
+    "fr": "   J'veux un cadeau pour une fille.{SAUT}File-moi un [FFF4].(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0167",
     "en": "  Now she'z mine for shure!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Elle est à moi c'est zûr!(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0168",
     "en": "  Dammit! I can't believe this!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Merde! J'y crois pô!(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0169",
     "en": "  Are you trying to stand in the way ov{SAUT}my luv!? Somewun like you should get{SAUT}kicked by a horse and killed!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Tu veux te mettre en travers de{SAUT}mon amour!? Un type comme toi{SAUT}devrait crever d'un coup de zabot!(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0170",
     "en": "   Give me some of yur strength... Pleaze?{SAUT}I'm begging you...(*OPTION*)",
-    "fr": ""
+    "fr": "   Donne-moi un peu de ta force...{SAUT}Pitié? J'te zupplie...(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0171",
     "en": " Y-You look so tasty...(*RESPONSE*)",
-    "fr": ""
+    "fr": " T-T'as l'air zi bon...(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0172",
     "en": " Yur courage would've helped out a poor{SAUT}zombie too...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Ton courage aurait aidé un pauvre{SAUT}zombie auzzi...(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0173",
     "en": "   To be honest, I don't want anywun else{SAUT}ending up like me...(*OPTION*)",
-    "fr": ""
+    "fr": "   Franchement, j'veux pô que quelqu'un{SAUT}finisse comme moi...(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0174",
     "en": "You don't have enuff? Man, yur not{SAUT}fit to be alive.(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'en as pô azzez? Mec, tu mérites{SAUT}pô de vivre.(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0175",
     "en": "Wut's up with thaa...? I'm injured,{SAUT}y'kno... Yur cold for a human.(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est quoi ça...? J'zuis blessé,{SAUT}tu zais... T'es froid pour un humain.(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0176",
     "en": " You don't have any! You were alwayz{SAUT}planning to fight me, huh!?(*RESPONSE*)",
-    "fr": ""
+    "fr": " T'en as aucune! Tu comptais te battre{SAUT}depuis le début, hein!?(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0177",
     "en": "Yur so cruel... Yur even more twisted{SAUT}than me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es zi cruel... Encore plus tordu{SAUT}que moi!(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0178",
     "en": " Huh...? Are you my rival!? Urrrgh...{SAUT}You won't be eazy to beat...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hein...? T'es mon rival!? Urrrgh...{SAUT}Tu zeras pô facile à battre...(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0179",
     "en": "  I only wanted a little! Yur such a jerk!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  J'en voulais juste un peu! Quel crétin!(*RESPONSE*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0180",
     "en": "   Dammit! I'll give you my spell card!(*OPTION*)",
-    "fr": ""
+    "fr": "   Merde! J'te donne ma carte de sort!(*OPTION*)"
   },
   {
     "id": "ZOMB_MAN.BIN:text:0181",
     "en": "   We're frienz, so I'll give you my spell{SAUT}card! But you better not thro it away...(*OPTION*)",
-    "fr": "",
+    "fr": "   On est potes, alors j'te donne ma carte{SAUT}de sort! Mais la jette pô, hein...(*OPTION*)",
     "_occurrences": 2
   }
 ]
