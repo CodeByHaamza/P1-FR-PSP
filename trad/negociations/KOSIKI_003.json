@@ -2,207 +2,207 @@
   {
     "id": "KOSIKI.BIN:text:0200",
     "en": "   This is my spell card... I pray it{SAUT}serves thy purpose well...(*OPTION*)",
-    "fr": ""
+    "fr": "   Voici ma carte de sort... Je prie{SAUT}qu'elle te serve bien...(*OPTION*)"
   },
   {
     "id": "KOSIKI.BIN:text:0201",
     "en": "  To fight thee would be an act of{SAUT}betrayal to fate itself!(*OPTION*)",
-    "fr": ""
+    "fr": "  Te combattre serait trahir le{SAUT}destin lui-même!(*OPTION*)"
   },
   {
     "id": "KOSIKI.BIN:text:0202",
     "en": "  Take this, and hold it close to thee as{SAUT}a keepsake of our encounter...(*OPTION*)",
-    "fr": ""
+    "fr": "  Prends ceci, et garde-le près de toi{SAUT}en souvenir de notre rencontre...(*OPTION*)"
   },
   {
     "id": "KOSIKI.BIN:text:0203",
     "en": " No... I must find a way to survive...(*OPTION*)",
-    "fr": ""
+    "fr": " Non... Je dois trouver à survivre...(*OPTION*)"
   },
   {
     "id": "KOSIKI.BIN:text:0204",
     "en": "  ...I know! I shall give unto thee my{SAUT}spell card, in hopes that it subdue thy{SAUT}anger...(*OPTION*)",
-    "fr": ""
+    "fr": "  ...J'ai une idée! Je te donne ma carte{SAUT}de sort, en espérant qu'elle apaise{SAUT}ta colère...(*OPTION*)"
   },
   {
     "id": "KOSIKI.BIN:text:0205",
     "en": "  Hahaha... What business doth a human{SAUT}have here?[FFFD][6BFF][F500]  Haha, humans wear such eccentric{SAUT}raiments...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hahaha... Qu'a donc un humain{SAUT}à faire ici?[FFFD][6BFF][F500]Haha, les humains portent de bien{SAUT}excentriques atours...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0206",
     "en": "   Thou art the first human I have met...{SAUT}Wouldst thou honor me with a keepsake?[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "   Tu es le premier humain que je{SAUT}rencontre... M'honorerais-tu d'un{SAUT}souvenir?[FFF1](*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0207",
     "en": " Thou art an obstruction in my path!{SAUT}Remove thyself, now![FFFD][6CFF][F500] I am rife with choler this day. Makest{SAUT}thou an ill move, and I shall tear thy{SAUT}throat from 'neath thy head!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tu encombres mon chemin!{SAUT}Ôte-toi de là, sur-le-champ![FFFD][6CFF][F500]La bile me ronge, ce jour. Fais un{SAUT}faux pas et je t'arrache la gorge{SAUT}sous la tête!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0208",
     "en": " I stand before thee, yet thou dost{SAUT}nothing! Canst thou not even present{SAUT}me with a gift!?[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": " Je me tiens devant toi et tu ne fais{SAUT}rien! Ne peux-tu même pas m'offrir{SAUT}un présent!?[FFF1](*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0209",
     "en": "  Mark me well, beyond where thou standest{SAUT}is my territory...[FFFD][6DFF][F500]  My, how thy face hath contorted... Thou{SAUT}lookest ill, and I shall grant thee no{SAUT}favors...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Retiens bien ceci : au-delà d'où tu{SAUT}te tiens commence mon territoire...[FFFD][6DFF][F500]Mon Dieu, quelle grimace... Tu as{SAUT}mauvaise mine, et je ne t'accorderai{SAUT}nulle faveur...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0210",
     "en": "   Thy face is one to be reviled...{SAUT}I daren't use the toilet alone this{SAUT}eve...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Ton visage est à faire horreur...{SAUT}Je n'oserai aller seule aux{SAUT}commodités ce soir...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0211",
     "en": "Haha, a beautifully rounded moon shineth{SAUT}this eve. But lunar cycles aside, how{SAUT}dost thou fare?[FFFD][6EFF][F500]   Hahaha, 'twould gladden my heart to{SAUT}drink fine mead and take in a dance!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Haha, une lune bien ronde brille ce{SAUT}soir. Mais cycles lunaires mis à{SAUT}part, comment te portes-tu?[FFFD][6EFF][F500]Hahaha, il me plairait de boire un{SAUT}bon hydromel et de voir danser!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0212",
     "en": "   Were I to be offered a gift from a{SAUT}winsome lad, I would be most merry![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "   Si un charmant garçon m'offrait un{SAUT}présent, j'en serais fort réjouie![FFF1](*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0213",
     "en": "[FFED]To think that thou wouldst answer my{SAUT}question! What dost thou desire? If it{SAUT}be nothing, I shall take my leave![FFFD][70FF][F500]  [FFED]If thou hast business with me, thou{SAUT}shouldst be the one to make it known!(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFED]Dire que tu réponds à ma question!{SAUT}Que désires-tu? Si ce n'est rien,{SAUT}je prends congé![FFFD][70FF][F500][FFED]Si tu as affaire à moi, c'est à toi{SAUT}de le faire savoir!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0214",
     "en": " [FFED]...Thou art entirely incompatible with{SAUT}me! A wastrel of a human, thou art!{ATTENTE}",
-    "fr": ""
+    "fr": " [FFED]...Tu m'es en tout point incompatible!{SAUT}Quel humain bon à rien tu fais!{ATTENTE}"
   },
   {
     "id": "KOSIKI.BIN:text:0215",
     "en": "{PAGE}So be it... If thou offerest me a{SAUT}gift, I might be persuaded to enter{SAUT}negotiations with thee.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Soit... Si tu m'offres un présent,{SAUT}je me laisserai peut-être{SAUT}convaincre de négocier.[FFF1](*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0216",
     "en": "[FFEC]Pardon me, but if the conversation hath{SAUT}run its course, may I take my leave?[FFFD][71FF][F500][FFEE]...Another savage human... Whatever{SAUT}shall I do? Luck doth forsake me on{SAUT}these moonless nights...(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEC]Pardonne-moi, mais si l'entretien a{SAUT}fait son temps, puis-je prendre congé?[FFFD][71FF][F500][FFEE]...Encore un humain sauvage... Que{SAUT}ferai-je? La chance m'abandonne{SAUT}ces nuits sans lune...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0217",
     "en": "  [FFEC]Violence is an ill retort, and only{SAUT}those of addled minds resort to steel.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  [FFEC]La violence est une piètre réponse,{SAUT}et seuls les esprits troublés{SAUT}recourent à l'acier.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0218",
     "en": "[FFEB]Hahaha, I wish to abandon my station{SAUT}and go with thee... Were I to say that,{SAUT}what wouldst thou do?[FFFD][72FF][F500]  [FFEE]Hahaha, even encounters of chance are{SAUT}guided by fate.(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEB]Hahaha, je souhaite quitter mon rang{SAUT}et te suivre... Si je disais cela,{SAUT}que ferais-tu?[FFFD][72FF][F500][FFEE]Hahaha, même les rencontres fortuites{SAUT}sont guidées par le destin.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0219",
     "en": " [FFEB]If it is thy desire, I shall hear thee{SAUT}further. That is, with a proper gift...[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": " [FFEB]Si tel est ton désir, je t'écouterai{SAUT}encore. Avec un présent convenable...[FFF1](*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0220",
     "en": "   [FFEC]Monster! Come n-no closer![FFFD][73FF][F500]  [FFEC]What darkness doth I espy that gathers{SAUT}behind thee? N-No, keep it at bay!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   [FFEC]Monstre! N-N'approche pas![FFFD][73FF][F500][FFEC]Quelles ténèbres vois-je s'amasser{SAUT}derrière toi? N-Non, tiens-les loin!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0221",
     "en": " [FFED]In order to live, I must take life!{SAUT}Thou mustn't fault me...(*RESPONSE*)",
-    "fr": ""
+    "fr": " [FFED]Pour vivre, je dois ôter la vie!{SAUT}Ne m'en fais pas grief...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0222",
     "en": "  [FFEB]Thou and I art as day is to night. A{SAUT}world of difference exists betwixt us!{SAUT}Dost thou understand?[FFFD][74FF][F500]   [FFED]Thou knowest not the proper way to{SAUT}speak to a lady. 'Tis written on thy{SAUT}face like a birthmark!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  [FFEB]Toi et moi sommes le jour et la nuit.{SAUT}Un monde nous sépare!{SAUT}Le comprends-tu?[FFFD][74FF][F500][FFED]Tu ne sais pas parler à une dame.{SAUT}C'est écrit sur ton visage comme{SAUT}une tache de naissance!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0223",
     "en": "[FFEB]My question is answered... And I see{SAUT}that thou hast brought a symbol of{SAUT}surrender![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEB]Ma question trouve réponse... Et je{SAUT}vois que tu apportes un gage{SAUT}de reddition![FFF1](*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0224",
     "en": "   [FFEC]Thy gaze is sharp as needles... What{SAUT}dost thou plan to do with me?[FFFD][75FF][F500]  [FFEB]Though I close mine eyes, thine image{SAUT}remains clear as day. Why is this...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   [FFEC]Ton regard est aigu comme une{SAUT}aiguille... Que comptes-tu faire de moi?[FFFD][75FF][F500][FFEB]J'ai beau fermer les yeux, ton image{SAUT}reste claire. Pourquoi donc...?(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0225",
     "en": "   [FFEB]O, what art thou doing...? Nay... I mind{SAUT}not whatever thou dost unto me...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   [FFEB]Ô, que fais-tu...? Non... peu m'importe{SAUT}ce que tu me fais...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0226",
     "en": "Thou art a human of interest! Very well,{SAUT}I shall grant thy wishes; you have only{SAUT}to ask them.(*OPTION*)",
-    "fr": ""
+    "fr": "Tu es un humain digne d'intérêt! Soit,{SAUT}j'exaucerai tes voeux; tu n'as{SAUT}qu'à les formuler.(*OPTION*)"
   },
   {
     "id": "KOSIKI.BIN:text:0227",
     "en": "  Hm, it seems negotiations with humans{SAUT}are a waste of time. I shall tear thy{SAUT}body asunder!(*OPTION*)",
-    "fr": ""
+    "fr": "  Hm, négocier avec les humains est{SAUT}perte de temps. Je vais mettre ton{SAUT}corps en pièces!(*OPTION*)"
   },
   {
     "id": "KOSIKI.BIN:text:0228",
     "en": "  How frightful... Is this where my{SAUT}ashes are to be scattered?(*OPTION*)",
-    "fr": ""
+    "fr": "  Quelle horreur... Est-ce ici que mes{SAUT}cendres seront dispersées?(*OPTION*)"
   },
   {
     "id": "KOSIKI.BIN:text:0229",
     "en": "   What a grand moment we've shared! Thou{SAUT}hast stolen my heart...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Quel grand moment nous avons partagé!{SAUT}Tu m'as volé le coeur...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0230",
     "en": " I have not time to spare thee, so keep{SAUT}thy negotiations swift! If thou hast{SAUT}business, state it thusly!(*OPTION*)",
-    "fr": ""
+    "fr": " Je n'ai pas de temps à te donner,{SAUT}sois bref! Si tu as affaire,{SAUT}énonce-la sans détour!(*OPTION*)"
   },
   {
     "id": "KOSIKI.BIN:text:0231",
     "en": " Thou art a dreadful sort... I did not{SAUT}say I would hear thee...{ATTENTE}",
-    "fr": ""
+    "fr": " Tu es d'une espèce redoutable...{SAUT}Je n'ai pas dit que je t'écouterais...{ATTENTE}"
   },
   {
     "id": "KOSIKI.BIN:text:0232",
     "en": "{PAGE}Tell me thy desires.(*OPTION*)",
-    "fr": ""
+    "fr": "{PAGE}Dis-moi tes désirs.(*OPTION*)"
   },
   {
     "id": "KOSIKI.BIN:text:0233",
     "en": "   The moment that hath just passed carried{SAUT}more meaning than a fortnight! 'Tis for{SAUT}thee, I shall be glad to oblige.(*OPTION*)",
-    "fr": ""
+    "fr": "   L'instant qui vient de passer valait{SAUT}plus qu'une quinzaine! Pour toi,{SAUT}j'obligerai avec joie.(*OPTION*)"
   },
   {
     "id": "KOSIKI.BIN:text:0234",
     "en": "  What evil is this? My skin shivers{SAUT}as though 'twere ice, yet mine eyes{SAUT}boil with choler!{ATTENTE}",
-    "fr": ""
+    "fr": "  Quel mal est-ce là? Ma peau frissonne{SAUT}comme glace, et pourtant mes yeux{SAUT}bouillent de fureur!{ATTENTE}"
   },
   {
     "id": "KOSIKI.BIN:text:0235",
     "en": "{PAGE}What hath become of me? Will I be slain{SAUT}by thee where I stand, my tomb marked{SAUT}only by the wild posies?(*OPTION*)",
-    "fr": ""
+    "fr": "{PAGE}Que suis-je devenue? Vais-je périr{SAUT}de ta main ici même, pour tombe{SAUT}les seules fleurs sauvages?(*OPTION*)"
   },
   {
     "id": "KOSIKI.BIN:text:0236",
     "en": "   ...Hmm, I grow weary of toying with{SAUT}thee. Thou hast outlived thy use!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   ...Hmm, jouer avec toi me lasse.{SAUT}Tu as fait ton temps!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0237",
     "en": "  ...I understand. Our encounter was{SAUT}fated...(*OPTION*)",
-    "fr": ""
+    "fr": "  ...Je comprends. Notre rencontre{SAUT}était écrite...(*OPTION*)"
   },
   {
     "id": "KOSIKI.BIN:text:0238",
     "en": "Then I shall take ￥(*VALUE*).(*OPTION*)",
-    "fr": ""
+    "fr": "Alors je prendrai ￥(*VALUE*).(*OPTION*)"
   },
   {
     "id": "KOSIKI.BIN:text:0239",
     "en": "  I thank thee...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Je te remercie...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0240",
     "en": "I am not so foolish as to barter with{SAUT}beggars and paupers!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je ne suis pas sotte au point de{SAUT}marchander avec des gueux!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0241",
