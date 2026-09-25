@@ -2,468 +2,468 @@
   {
     "id": "YOUEN.BIN:text:0588",
     "en": " Huh... What should I do?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hein... Qu'est-ce que je fais?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0589",
     "en": "   Is that so!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ah bon!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0590",
     "en": "What a weird human...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Quel humain bizarre...(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0591",
     "en": "  You won't do anything painful, right...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu vas pas me faire mal, hein...?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0592",
     "en": "   Huh? Is that really true...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hein? C'est bien vrai...?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0593",
     "en": "   Huh? Me? Well, who knows?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hein? Moi? Qui sait?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0594",
     "en": "  Hmmm... I feel like there's something{SAUT}else at work here...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hmmm... J'ai l'impression qu'il y a{SAUT}autre chose là-dessous...(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0595",
     "en": " Hmph! I hate you too!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pff! Moi aussi, je te déteste!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0596",
     "en": "  Is there an obstacle in the way of our{SAUT}love? Ahaha... I've always wanted to{SAUT}say that!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Un obstacle se dresse-t-il sur la route{SAUT}de notre amour? Ahaha... J'ai toujours{SAUT}rêvé de dire ça!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0597",
     "en": "  Oh, I'm sorry... I'm okay now.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh, pardon... Ça va mieux, maintenant.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0598",
     "en": " Nooooo! I'm scaaared!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Nooooon! J'ai peuuuur!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0599",
     "en": "  A-Ahahaha...!(*RESPONSE*)",
-    "fr": ""
+    "fr": "A-Ahahaha...!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0600",
     "en": "  Where's that confidence coming from?{SAUT}Then again, it's better that than a man{SAUT}who has no confidence at all.(*RESPONSE*)",
-    "fr": ""
+    "fr": "D'où te vient cette assurance?{SAUT}Remarque, ça vaut mieux qu'un homme{SAUT}sans aucune confiance en lui.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0601",
     "en": " You think so too? You understand!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu trouves aussi? Tu me comprends!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0602",
     "en": "  Sheesh! You don't have to get so angry!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pfff! T'as pas à t'énerver comme ça!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0603",
     "en": "Hey! You got my hopes up!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hé! Tu m'as donné de faux espoirs!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0604",
     "en": "  Oh, my! What should I do?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh, là là! Qu'est-ce que je fais?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0605",
     "en": "  A-A secret...? I've got a really bad{SAUT}feeling about this...(*RESPONSE*)",
-    "fr": ""
+    "fr": "U-Un secret...? J'ai un très mauvais{SAUT}pressentiment...(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0606",
     "en": " A-A secret...? I've got a really bad{SAUT}feeling about this...(*RESPONSE*)",
-    "fr": ""
+    "fr": "U-Un secret...? J'ai un très mauvais{SAUT}pressentiment...(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0041",
     "en": "Heheh, that's right.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Héhé, c'est ça.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0044",
     "en": "No, that's not it!(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Non, c'est pas ça!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0045",
     "en": "Ooh, you found out?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Oh, t'as deviné?(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "YOUEN.BIN:resp:0049",
     "en": "You think so too?(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Tu trouves aussi?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0051",
     "en": "Is that a joke?(*RESPONSE*)",
-    "fr": "",
+    "fr": "C'est une blague?(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "YOUEN.BIN:resp:0052",
     "en": "Wooooow!(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Ouaaaah!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0071",
     "en": "Mwahahaha, okay!(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Mwahahaha, d'accord!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0073",
     "en": "Eh, never mind...(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Bof, laisse tomber...(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0075",
     "en": "That's a lie!(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Tu mens!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0077",
     "en": "You'll say yes?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu vas dire oui?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0080",
     "en": "Nothing...(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Rien...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0082",
     "en": "It's just a joke!(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "C'est juste une blague!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0088",
     "en": "I was ordered to.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "On me l'a ordonné.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0089",
     "en": "Heeheehee!(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Hihihi!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0093",
     "en": "I can't tell you...(*RESPONSE*)",
-    "fr": "",
+    "fr": "Je peux pas te le dire...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0095",
     "en": "Roger that!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Bien reçu!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0097",
     "en": "NO. WAY!(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "PAS. QUESTION!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0098",
     "en": "That's pretty cute.(*RESPONSE*)",
-    "fr": "",
+    "fr": "C'est plutôt mignon.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0100",
     "en": "So lame...(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Trop nul...(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0113",
     "en": "You ask too much!(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "T'en demandes trop!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0114",
     "en": "Something else okay?(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Autre chose, ça ira?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0116",
     "en": "Don't get excited.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "T'emballe pas.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0117",
     "en": "Hmph. Are you happy?(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Pff. Contente?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0129",
     "en": "Torment(*RESPONSE*)",
-    "fr": "",
+    "fr": "Tourmenter(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0137",
     "en": "Will you be quiet!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu vas te taire!?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0139",
     "en": "Hmph. I refuse.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pff. Je refuse.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0141",
     "en": "You're a fool!(*RESPONSE*) ",
-    "fr": ""
+    "fr": "T'es bête!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0145",
     "en": "Gotta use the john!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Faut que j'aille au petit coin!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0146",
     "en": "That ain't it.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "C'est pas ça.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0152",
     "en": "It's my power.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "C'est mon pouvoir.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0168",
     "en": "Could you tell?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Ça se voit?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0169",
     "en": "Yeah, I'm serious.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Ouais, sérieux.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0171",
     "en": "Maybe not.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Peut-être pas.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0187",
     "en": "Then I'll be Carrie.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Alors je serai Carrie.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0188",
     "en": "I'm doing Corin's!(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Moi, je fais Corin!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0217",
     "en": "I'm totally happy!(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Je suis trop contente!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0223",
     "en": "Mistress!(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Maîtresse!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0227",
     "en": "It totally hurts.(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Ça fait trop mal.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0229",
     "en": "You figured it out.(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'as deviné.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0230",
     "en": "But that's mean...(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Mais c'est méchant...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0235",
     "en": "I'm gonna bully you.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Je vais te malmener.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0246",
     "en": "Because I'm curious.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Par curiosité.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0271",
     "en": "Nothing special.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Rien de spécial.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0274",
     "en": "Why not?(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Pourquoi pas?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0277",
     "en": "What do you want?(*RESPONSE*)[0A89] ",
-    "fr": "",
+    "fr": "Tu veux quoi?(*RESPONSE*)[0A89]",
     "_occurrences": 4
   },
   {
     "id": "YOUEN.BIN:resp:0283",
     "en": "Why not!?(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Pourquoi pas!?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0288",
     "en": "I won't do anything.(*RESPONSE*)ぉ(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Je ne ferai rien.(*RESPONSE*)ぉ(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0289",
     "en": "I'll bully you.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Je vais te maltraiter.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0293",
     "en": "Shut up. Get lost.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Tais-toi. Dégage.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0297",
     "en": "I'm a fool.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je suis bête.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0313",
     "en": "I'm Reiji.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Je suis Reiji.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0316",
     "en": "Having an adventure.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Je pars à l'aventure.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0319",
     "en": "You're in MY way.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "C'est TOI qui me gênes.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0320",
     "en": "Don't go in.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "N'entre pas.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0324",
     "en": "I'm doing okay.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ça va.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0325",
     "en": "I could be better.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Ça pourrait aller mieux.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0326",
     "en": "I'm about to puke.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "J'ai envie de vomir.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0328",
     "en": "Get outta here.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Va-t'en.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:resp:0329",
     "en": "Hey, don't leave!(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Hé, pars pas!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0333",
     "en": "My door's open.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu es la bienvenue.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0334",
     "en": "Don't come near me.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Approche pas.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0335",
     "en": "I want to, but...(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "J'aimerais bien, mais...(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0336",
     "en": "Calm it down(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "La calmer(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0337",
     "en": "Scare it(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Lui faire peur(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0338",
     "en": "Make it laugh(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "La faire rire(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0340",
     "en": "I don't measure up.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je suis pas à la hauteur.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0342",
     "en": "Do nothing(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Ne rien faire(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:resp:0343",
     "en": "Adore it(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "L'adorer(*RESPONSE*)",
     "_occurrences": 2
   }
 ]
