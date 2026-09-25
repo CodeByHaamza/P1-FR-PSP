@@ -32,7 +32,7 @@
   {
     "id": "KOSIKI.BIN:text:0206",
     "en": "   Thou art the first human I have met...{SAUT}Wouldst thou honor me with a keepsake?[FFF1](*RESPONSE*)",
-    "fr": "   Tu es le premier humain que je{SAUT}rencontre... M'honorerais-tu d'un{SAUT}souvenir?[FFF1](*RESPONSE*)"
+    "fr": "   Tu es le premier humain que je croise...{SAUT}M'honorerais-tu d'un souvenir?[FFF1](*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0207",
@@ -87,7 +87,7 @@
   {
     "id": "KOSIKI.BIN:text:0217",
     "en": "  [FFEC]Violence is an ill retort, and only{SAUT}those of addled minds resort to steel.(*RESPONSE*)",
-    "fr": "  [FFEC]La violence est une piètre réponse,{SAUT}et seuls les esprits troublés{SAUT}recourent à l'acier.(*RESPONSE*)"
+    "fr": "  [FFEC]La violence est une piètre réponse, et{SAUT}seuls les esprits troublés y recourent.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0218",
@@ -319,13 +319,13 @@
   {
     "id": "KOSIKI.BIN:text:0263",
     "en": "  Then this shalt not be settled without{SAUT}a proper gift.[FFF1](*RESPONSE*)",
-    "fr": "  Alors ceci ne se réglera point sans{SAUT}un présent convenable.[FFF1](*RESPONSE*)",
+    "fr": "  Alors rien ne se règle sans{SAUT}un présent digne.[FFF1](*RESPONSE*)",
     "_occurrences": 6
   },
   {
     "id": "KOSIKI.BIN:text:0264",
     "en": " I trust thee as I trust a sleeping{SAUT}serpent!(*RESPONSE*)",
-    "fr": " Je te fais la confiance qu'on fait{SAUT}à un serpent endormi!(*RESPONSE*)",
+    "fr": " Je te crois comme un serpent qui{SAUT}dort!(*RESPONSE*)",
     "_occurrences": 6
   },
   {
@@ -343,7 +343,7 @@
   {
     "id": "KOSIKI.BIN:text:0267",
     "en": "  I see... Thou needst this not...(*RESPONSE*)",
-    "fr": "  Je vois... Tu n'en as point besoin...(*RESPONSE*)",
+    "fr": "  Je vois... Tu n'en veux point...(*RESPONSE*)",
     "_occurrences": 7
   },
   {

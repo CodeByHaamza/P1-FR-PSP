@@ -2,7 +2,7 @@
   {
     "id": "KOSIKI.BIN:text:0310",
     "en": "  Haha, ordinary men cannot comprehend.(*RESPONSE*)",
-    "fr": "  Haha, le commun des hommes ne saurait comprendre.(*RESPONSE*)"
+    "fr": "  Haha, le commun ne peut comprendre.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0311",
@@ -40,7 +40,7 @@
   {
     "id": "KOSIKI.BIN:text:0325",
     "en": " Haha, ordinary men cannot comprehend.(*RESPONSE*)",
-    "fr": " Haha, le commun des hommes ne saurait comprendre.(*RESPONSE*)"
+    "fr": " Haha, le commun ne peut comprendre.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0328",
@@ -274,7 +274,7 @@
   {
     "id": "KOSIKI.BIN:text:0375",
     "en": "  I trust thee as I trust a sleeping{SAUT}serpent!(*RESPONSE*)",
-    "fr": "  Je te fais la confiance qu'on fait{SAUT}à un serpent endormi!(*RESPONSE*)",
+    "fr": "  Je te crois comme un serpent qui{SAUT}dort!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -395,7 +395,7 @@
   {
     "id": "KOSIKI.BIN:text:0413",
     "en": "  I trust thee as I trust a sleeping{SAUT}serpent.(*RESPONSE*)",
-    "fr": "  Je te fais confiance comme à un{SAUT}serpent qui dort.(*RESPONSE*)"
+    "fr": "  Je te crois comme un serpent qui{SAUT}dort.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0414",

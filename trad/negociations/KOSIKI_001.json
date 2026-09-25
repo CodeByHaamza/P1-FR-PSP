@@ -17,7 +17,7 @@
   {
     "id": "KOSIKI.BIN:text:0003",
     "en": " What meanest thou? Dost thou desire my{SAUT}power?[FFFD][02FF][F500]Thou hast confidence. A battle with thee{SAUT}would be most enjoyable.(*RESPONSE*)",
-    "fr": " Qu'entends-tu par là? Désires-tu{SAUT}mon pouvoir?[FFFD][02FF][F500]Tu as de l'assurance. Un combat contre{SAUT}toi serait fort plaisant.(*RESPONSE*)"
+    "fr": " Qu'entends-tu par là? Désires-tu mon{SAUT}pouvoir?[FFFD][02FF][F500]Tu as de l'assurance. Un combat contre{SAUT}toi serait fort plaisant.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0004",
@@ -57,7 +57,7 @@
   {
     "id": "KOSIKI.BIN:text:0011",
     "en": "  How dost thou maintain thy calm{SAUT}disposition with such vile sounds{SAUT}assaulting thee?[FFFD][0AFF][F500]   Haha... Thou canst match me not, but{SAUT}it doth suffice.(*RESPONSE*)",
-    "fr": "  Comment gardes-tu pareil calme quand{SAUT}de si viles sonorités t'assaillent?[FFFD][0AFF][F500]Haha... Tu ne m'égales point, mais{SAUT}cela suffira.(*RESPONSE*)"
+    "fr": "  Comment gardes-tu pareil calme{SAUT}quand de si viles sonorités{SAUT}t'assaillent?[FFFD][0AFF][F500]Haha... Tu ne m'égales point, mais{SAUT}cela suffira.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0012",
@@ -77,7 +77,7 @@
   {
     "id": "KOSIKI.BIN:text:0015",
     "en": " What meanest thou? Dost thou desire my{SAUT}power?[FFFD][0EFF][F500]I despise such adulation!(*RESPONSE*)",
-    "fr": " Qu'entends-tu par là? Désires-tu{SAUT}mon pouvoir?[FFFD][0EFF][F500]Je méprise pareille flagornerie!(*RESPONSE*)"
+    "fr": " Qu'entends-tu par là? Désires-tu mon{SAUT}pouvoir?[FFFD][0EFF][F500]Je méprise pareille flagornerie!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0016",
@@ -107,7 +107,7 @@
   {
     "id": "KOSIKI.BIN:text:0021",
     "en": " What meanest thou? Dost thou desire my{SAUT}power?[FFFD][14FF][F500]Thine ability considered, that is{SAUT}natural.(*RESPONSE*)",
-    "fr": " Qu'entends-tu par là? Désires-tu{SAUT}mon pouvoir?[FFFD][14FF][F500]Vu tes aptitudes, cela va{SAUT}de soi.(*RESPONSE*)"
+    "fr": " Qu'entends-tu par là? Désires-tu mon{SAUT}pouvoir?[FFFD][14FF][F500]Vu tes aptitudes, cela va{SAUT}de soi.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0022",
@@ -192,7 +192,7 @@
   {
     "id": "KOSIKI.BIN:text:0038",
     "en": "No matter the era, women are ever drawn{SAUT}to scandals, and scandals to women...[FFFD][1FFF][F500]Thou desirest my attentions so? Thou{SAUT}art quite winsome.(*RESPONSE*)",
-    "fr": "Quelle que soit l'époque, les femmes{SAUT}vont au scandale, et le scandale{SAUT}aux femmes...[FFFD][1FFF][F500]Tu désires tant mes attentions?{SAUT}Te voilà bien charmant.(*RESPONSE*)"
+    "fr": "Quelle que soit l'époque, les femmes vont{SAUT}au scandale, et le scandale aux femmes...[FFFD][1FFF][F500]Tu désires tant mes attentions?{SAUT}Te voilà bien charmant.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0039",
@@ -237,7 +237,7 @@
   {
     "id": "KOSIKI.BIN:text:0047",
     "en": " What meanest thou? Dost thou desire my{SAUT}power?[FFFD][28FF][F500]Thou hast confidence. A battle with thee{SAUT}would be most enjoyable.(*RESPONSE*)",
-    "fr": " Qu'entends-tu par là? Désires-tu{SAUT}mon pouvoir?[FFFD][28FF][F500]Tu as de l'assurance. Un combat contre{SAUT}toi serait fort plaisant.(*RESPONSE*)"
+    "fr": " Qu'entends-tu par là? Désires-tu mon{SAUT}pouvoir?[FFFD][28FF][F500]Tu as de l'assurance. Un combat contre{SAUT}toi serait fort plaisant.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0048",
@@ -327,7 +327,7 @@
   {
     "id": "KOSIKI.BIN:text:0065",
     "en": " What meanest thou? Dost thou desire my{SAUT}power?[FFFD][3AFF][F500]Thou art irrational to put stock in{SAUT}such childish notions.(*RESPONSE*)",
-    "fr": " Qu'entends-tu par là? Désires-tu{SAUT}mon pouvoir?[FFFD][3AFF][F500]Tu es déraisonnable d'accorder foi{SAUT}à d'aussi puériles notions.(*RESPONSE*)"
+    "fr": " Qu'entends-tu par là? Désires-tu mon{SAUT}pouvoir?[FFFD][3AFF][F500]Tu es déraisonnable d'accorder foi{SAUT}à d'aussi puériles notions.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0066",
@@ -362,7 +362,7 @@
   {
     "id": "KOSIKI.BIN:text:0072",
     "en": " Hahaha, do I truly look so young? 'Tis{SAUT}not unappreciated...[FFFD][41FF][F500]  Thou art envious of my beauty! Women{SAUT}can be base and sinful creatures.(*RESPONSE*)",
-    "fr": " Hahaha, ai-je vraiment l'air si jeune?{SAUT}Voilà qui n'est pas pour me déplaire...[FFFD][41FF][F500]Tu envies ma beauté! Les femmes savent{SAUT}être viles et pécheresses.(*RESPONSE*)"
+    "fr": " Hahaha, ai-je vraiment l'air si jeune?{SAUT}Voilà qui n'est pas pour me déplaire...[FFFD][41FF][F500]Tu envies ma beauté! Les femmes{SAUT}savent être viles et pécheresses.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0073",
@@ -387,12 +387,12 @@
   {
     "id": "KOSIKI.BIN:text:0077",
     "en": " What meanest thou? Dost thou desire my{SAUT}power?[FFFD][46FF][F500]Thy speech treads deep in the realm of{SAUT}absurdity... However, I forgive thee.(*RESPONSE*)",
-    "fr": " Qu'entends-tu par là? Désires-tu{SAUT}mon pouvoir?[FFFD][46FF][F500]Tes propos s'aventurent loin dans{SAUT}l'absurde... Je te pardonne pourtant.(*RESPONSE*)"
+    "fr": " Qu'entends-tu par là? Désires-tu mon{SAUT}pouvoir?[FFFD][46FF][F500]Tes propos s'aventurent loin dans{SAUT}l'absurde... Je te pardonne pourtant.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0078",
     "en": "   If thou desirest longevity, 'twould be{SAUT}prudent to learn courtesy.[FFFD][47FF][F500]Thou art envious of my beauty! Women{SAUT}can be base and sinful creatures.(*RESPONSE*)",
-    "fr": "   Si tu désires vivre longtemps, il{SAUT}serait sage d'apprendre la courtoisie.[FFFD][47FF][F500]Tu envies ma beauté! Les femmes savent{SAUT}être viles et pécheresses.(*RESPONSE*)"
+    "fr": "   Si tu désires vivre longtemps, il{SAUT}serait sage d'apprendre la courtoisie.[FFFD][47FF][F500]Tu envies ma beauté! Les femmes{SAUT}savent être viles et pécheresses.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0079",
@@ -427,7 +427,7 @@
   {
     "id": "KOSIKI.BIN:text:0085",
     "en": " Now I see why thou art known as{SAUT}[FFF9], the Weeping Crocodile among we{SAUT}demons.[FFFD][4EFF][F500]Please, banish thy tears. The human{SAUT}world is one of many terrors...(*RESPONSE*)",
-    "fr": " Je vois enfin pourquoi l'on te nomme{SAUT}[FFF9], le Crocodile Pleureur, chez{SAUT}nous autres démons.[FFFD][4EFF][F500]De grâce, chasse tes larmes. Le monde{SAUT}des humains est plein de terreurs...(*RESPONSE*)"
+    "fr": " Je vois enfin pourquoi l'on te nomme{SAUT}[FFF9], le Crocodile Pleureur,{SAUT}chez nous.[FFFD][4EFF][F500]Chasse tes larmes. Le monde des{SAUT}humains est plein de terreurs...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0086",
@@ -447,7 +447,7 @@
   {
     "id": "KOSIKI.BIN:text:0089",
     "en": "  Hm? That scowl...[FFFD][52FF][F500]Thou art envious of my beauty! Women{SAUT}can be base and sinful creatures.(*RESPONSE*)",
-    "fr": "  Hm? Cette mine renfrognée...[FFFD][52FF][F500]Tu envies ma beauté! Les femmes savent{SAUT}être viles et pécheresses.(*RESPONSE*)"
+    "fr": "  Hm? Cette mine renfrognée...[FFFD][52FF][F500]Tu envies ma beauté! Les femmes{SAUT}savent être viles et pécheresses.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0090",
@@ -477,7 +477,7 @@
   {
     "id": "KOSIKI.BIN:text:0095",
     "en": " What meanest thou? Dost thou desire my{SAUT}power?[FFFD][58FF][F500]Thou art envious of my beauty! Women{SAUT}can be base and sinful creatures.(*RESPONSE*)",
-    "fr": " Qu'entends-tu par là? Désires-tu{SAUT}mon pouvoir?[FFFD][58FF][F500]Tu envies ma beauté! Les femmes savent{SAUT}être viles et pécheresses.(*RESPONSE*)"
+    "fr": " Qu'entends-tu par là? Désires-tu mon{SAUT}pouvoir?[FFFD][58FF][F500]Tu envies ma beauté! Les femmes{SAUT}savent être viles et pécheresses.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0096",
