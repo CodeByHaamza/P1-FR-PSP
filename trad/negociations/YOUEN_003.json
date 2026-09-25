@@ -2,520 +2,520 @@
   {
     "id": "YOUEN.BIN:text:0203",
     "en": "   ...Though if I give you my card, it could{SAUT}be helpful...(*OPTION*)",
-    "fr": ""
+    "fr": "...Mais si je te donnais ma carte, ça{SAUT}pourrait t'être utile...(*OPTION*)"
   },
   {
     "id": "YOUEN.BIN:text:0204",
     "en": "I'll hand over my spell card... please,{SAUT}forgive me!(*OPTION*)",
-    "fr": ""
+    "fr": "Je te remets ma carte de sort... pitié,{SAUT}pardonne-moi!(*OPTION*)"
   },
   {
     "id": "YOUEN.BIN:text:0205",
     "en": "Oooh, what a fine man... Hello there.{SAUT}What brings you here?[FFFD][6EFF][F500]  I'm not trying to be rude in saying{SAUT}this... but you wear some weird clothes.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oooh, quel bel homme... Bonjour, toi.{SAUT}Qu'est-ce qui t'amène?[FFFD][6EFF][F500]Sans vouloir être impolie... tu portes{SAUT}des vêtements bizarres.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0206",
     "en": "   This is my first time seeing a human.{SAUT}Mind giving me something to mark the{SAUT}occasion?[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est la première fois que je vois un{SAUT}humain. Tu me donnes un souvenir de{SAUT}l'occasion?[FFF1](*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0207",
     "en": "  Hey! You there! You're in my way!{SAUT}Could you move over a skosh?[FFFD][6FFF][F500]   Don't even start with me today! If you{SAUT}try anything funny, I'll beat the tar{SAUT}out of you! Got that!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hé! Toi, là! Tu me gênes!{SAUT}Tu peux te pousser un chouïa?[FFFD][6FFF][F500]Ne me cherche pas aujourd'hui! Si tu{SAUT}tentes quoi que ce soit, je te mets{SAUT}une raclée! Compris!?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0208",
     "en": "I bet I'm the only demoness negotiating{SAUT}with humans with such a beautiful, full{SAUT}moon out! Honestly!{ATTENTE}",
-    "fr": ""
+    "fr": "Je parie que je suis la seule démone à{SAUT}négocier avec des humains sous une si{SAUT}belle pleine lune! Franchement!{ATTENTE}"
   },
   {
     "id": "YOUEN.BIN:text:0209",
     "en": "{PAGE}So, did you bring any presents for me?{SAUT}Ugh, you're so inconsiderate! Give me{SAUT}something![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Alors, tu m'as apporté des cadeaux?{SAUT}Pff, quel manque d'égards! Donne-moi{SAUT}quelque chose![FFF1](*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0210",
     "en": "  You're a human, right...? You shouldn't{SAUT}come in past this line...[FFFD][70FF][F500]...That's one scary face...(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es un humain, non...? Tu ne devrais{SAUT}pas franchir cette ligne...[FFFD][70FF][F500]...Quelle tête effrayante...(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0211",
     "en": "That's one scary face... I'm sure not{SAUT}getting any sleep tonight...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Quelle tête effrayante... Je sens que{SAUT}je ne vais pas dormir cette nuit...(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0212",
     "en": " Oh my, a human! The strangest things have{SAUT}been happening to me lately. How are you?[FFFD][71FF][F500]  Oooh, what a fine man... Hey, you don't{SAUT}have anything against demon girls, hm...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh, un humain! Il m'arrive de ces trucs{SAUT}bizarres, ces temps-ci. Ça va?[FFFD][71FF][F500]Oooh, quel bel homme... Dis, tu n'as{SAUT}rien contre les démones, hmm...?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0213",
     "en": "  Heeheehee...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hihihi...(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0214",
     "en": "   [FFED]You know, if you don't have any business{SAUT}with me, I have other things to do.[FFFD][72FF][F500][FFED]I really wish you would've talked to me{SAUT}first, you know! You're such a coward.(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFED]Tu sais, si tu ne me veux rien, j'ai{SAUT}d'autres choses à faire.[FFFD][72FF][F500][FFED]T'aurais pu me parler en premier,{SAUT}quand même! Quel trouillard.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0215",
     "en": "[FFEE]What an ordinary face... I'm a little{SAUT}disappointed...{ATTENTE}",
-    "fr": ""
+    "fr": "[FFEE]Quel visage banal... Je suis un peu{SAUT}déçue...{ATTENTE}"
   },
   {
     "id": "YOUEN.BIN:text:0216",
     "en": "{PAGE}Well, I'll let it slide. I'll hear you{SAUT}out anyway if you give me something.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Bon, je passe l'éponge. Je t'écoute{SAUT}quand même si tu me donnes un truc.[FFF1](*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0217",
     "en": "   [FFEE]Um... If there's nothing you want,{SAUT}I'm going to leave.[FFFD][73FF][F500]  [FFEC]Y-You... smell of blood... Sheesh, how{SAUT}do I always attract the weirdos...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEE]Euh... Si tu ne veux rien, je{SAUT}m'en vais.[FFFD][73FF][F500][FFEC]T-Tu... sens le sang... Pff, pourquoi{SAUT}j'attire toujours les tarés...?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0218",
     "en": "[FFEC]Anyways, let's talk. Keep that weapon{SAUT}tucked away, all right?(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEC]Bref, parlons. Et range cette arme,{SAUT}d'accord?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0219",
     "en": " [FFEE]If I said I wanted to go with you,{SAUT}what would you do?[FFFD][74FF][F500]   [FFEB]You... me... it was meant to happen!{SAUT}Now, let's negotiate!(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEE]Si je te disais que je veux venir{SAUT}avec toi, tu ferais quoi?[FFFD][74FF][F500][FFEB]Toi... moi... c'était écrit!{SAUT}Allez, négocions!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0220",
     "en": "[FFEE]Oooh, what a fine man... This is my{SAUT}big chance! Now, let's negotiate!(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEE]Oooh, quel bel homme... C'est ma{SAUT}chance! Allez, négocions!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0221",
     "en": " [FFEC]Uh-oh, a human! Eeeek! Eeeeeek!{SAUT}EEEEEEEEEEK![FFFD][75FF][F500][FFEC]Hey... what's that hovering over you...!?{SAUT}Yikes! Don't look at me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEC]Oh oh, un humain! Iiiih! Iiiiiih!{SAUT}IIIIIIIIIIIH![FFFD][75FF][F500][FFEC]Hé... c'est quoi, ce truc au-dessus de{SAUT}toi...!? Aïe! Me regarde pas!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0222",
     "en": "[FFED]I-If you kill me, I'll curse the next{SAUT}eight generations of your family!(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFED]S-Si tu me tues, je maudirai ta{SAUT}famille sur huit générations!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0223",
     "en": "   [FFED]Hey! What's the big idea, answering{SAUT}my call!?{ATTENTE}",
-    "fr": ""
+    "fr": "[FFED]Hé! Qu'est-ce qui te prend de répondre{SAUT}à mon appel!?{ATTENTE}"
   },
   {
     "id": "YOUEN.BIN:text:0224",
     "en": "{PAGE}Don't tell me you think YOU'RE good{SAUT}enough for me![FFFD][76FF][F500]   [FFED]I don't get the sense that negotiating{SAUT}with you will be very exciting... but{SAUT}I'll give you a shot anyway!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Ne me dis pas que TOI, tu crois être{SAUT}assez bien pour moi![FFFD][76FF][F500][FFED]J'ai pas l'impression que négocier{SAUT}avec toi sera très palpitant... mais{SAUT}je te laisse ta chance quand même!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0225",
     "en": " [FFEB]Why'd you answer me? Oh, I get it!{SAUT}You came to give me a gift, right?[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEB]Pourquoi tu m'as répondu? Ah, je sais!{SAUT}Tu viens m'offrir un cadeau, pas vrai?[FFF1](*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0226",
     "en": "[FFEC]You have scary eyes... what are you going{SAUT}to do to me...!?[FFFD][77FF][F500]  [FFEB]I'm in the strangest mood right now!{SAUT}I just don't care anymore... Do whatever{SAUT}you want to me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEC]T'as un regard qui fait peur... tu vas{SAUT}me faire quoi...!?[FFFD][77FF][F500][FFEB]Je suis d'une humeur bizarre, là!{SAUT}Je m'en fiche, maintenant... Fais de moi{SAUT}ce que tu veux!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0227",
     "en": " I'm s-scared of you... but I'm also{SAUT}hoping for something. What's gotten{SAUT}into me...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "T-Tu me fais peur... mais j'espère{SAUT}aussi quelque chose. Qu'est-ce qui{SAUT}me prend...?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0228",
     "en": "You're interesting! So, what do you want?{SAUT}I'm in the mood to listen.(*OPTION*)",
-    "fr": ""
+    "fr": "Tu m'intéresses! Alors, tu veux quoi?{SAUT}Je suis d'humeur à écouter.(*OPTION*)"
   },
   {
     "id": "YOUEN.BIN:text:0229",
     "en": "   I won't gain anything by spending more{SAUT}time with you. In fact, I feel like I've{SAUT}wasted my time!(*OPTION*)",
-    "fr": ""
+    "fr": "Je ne gagnerai rien à rester plus{SAUT}longtemps avec toi. En fait, j'ai{SAUT}l'impression d'avoir perdu mon temps!(*OPTION*)"
   },
   {
     "id": "YOUEN.BIN:text:0230",
     "en": "I-I'm scared... it looks like my luck's{SAUT}run out...(*RESPONSE*)",
-    "fr": ""
+    "fr": "J-J'ai peur... on dirait que la chance{SAUT}m'a abandonnée...(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0231",
     "en": " Aaaahahaha! You know what it takes to{SAUT}keep a demon happy.(*OPTION*)",
-    "fr": ""
+    "fr": "Aaaahahaha! Tu sais comment rendre{SAUT}un démon heureux.(*OPTION*)"
   },
   {
     "id": "YOUEN.BIN:text:0232",
     "en": "  I can't spend all day negotiating with{SAUT}you! Tell me what you want!(*OPTION*)",
-    "fr": ""
+    "fr": "Je ne vais pas négocier toute la journée{SAUT}avec toi! Dis-moi ce que tu veux!(*OPTION*)"
   },
   {
     "id": "YOUEN.BIN:text:0233",
     "en": " I'll listen... just don't do anything{SAUT}cruel, okay?(*OPTION*)",
-    "fr": ""
+    "fr": "Je t'écoute... mais ne fais rien de{SAUT}cruel, d'accord?(*OPTION*)"
   },
   {
     "id": "YOUEN.BIN:text:0234",
     "en": " Ahahah... I'm glad I met you.{SAUT}I'll grant any desire you have!(*OPTION*)",
-    "fr": ""
+    "fr": "Ahahah... Je suis ravie de cette{SAUT}rencontre. J'exaucerai tous tes désirs!(*OPTION*)"
   },
   {
     "id": "YOUEN.BIN:text:0235",
     "en": "  Ugh! I'm annoyed AND I'm feeling a chill{SAUT}down my spine! Hey, Master!{ATTENTE}",
-    "fr": ""
+    "fr": "Pff! Je suis agacée ET j'ai des frissons{SAUT}dans le dos! Hé, Maître!{ATTENTE}"
   },
   {
     "id": "YOUEN.BIN:text:0236",
     "en": "{PAGE}Please punish these--hey, where'd he go!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Punissez ces--hé, il est passé où!?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0237",
     "en": "Well, it's about time to draw a line{SAUT}under this. I can't play with you{SAUT}all day.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Bon, il est temps de tirer un trait{SAUT}là-dessus. Je ne peux pas jouer{SAUT}avec toi toute la journée.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0238",
     "en": "I'm enjoying this, but it's scary, too...{SAUT}Guess I should be a good demon and obey.(*OPTION*)",
-    "fr": ""
+    "fr": "Ça me plaît, mais ça fait peur aussi...{SAUT}Je vais être une démone sage et obéir.(*OPTION*)"
   },
   {
     "id": "YOUEN.BIN:text:0239",
     "en": " Let's see, I'll take (*VALUE*) yen.(*OPTION*)",
-    "fr": ""
+    "fr": "Voyons... je prendrai (*VALUE*) yens.(*OPTION*)"
   },
   {
     "id": "YOUEN.BIN:text:0240",
     "en": "Heehee... thanks.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hihi... merci.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0241",
     "en": "  What!? You don't even have that much?{SAUT}Frickin' bums!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Quoi!? T'as même pas ça?{SAUT}Bande de fauchés!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0242",
     "en": "   What!? You don't even have that much?{SAUT}Sheesh! I can't believe this!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Quoi!? T'as même pas ça?{SAUT}Pff! J'y crois pas!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0243",
     "en": "There's no use saving all that money.{SAUT}It'll all be mine in the end!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ça ne sert à rien de garder tout cet{SAUT}argent. Il finira dans ma poche!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0244",
     "en": "...If you didn't want to negotiate, you{SAUT}should've said so from the start...(*RESPONSE*)",
-    "fr": ""
+    "fr": "...Tu ne voulais pas négocier? Fallait{SAUT}le dire dès le début...(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0245",
     "en": "I want a life stone.(*OPTION*)",
-    "fr": ""
+    "fr": "Je veux une pierre de vie.(*OPTION*)"
   },
   {
     "id": "YOUEN.BIN:text:0246",
     "en": "   Heehee... thanks.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hihi... merci.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0247",
     "en": "  What, you were negotiating without any{SAUT}life stones? Uggggh, you're the worst!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Quoi, tu négociais sans pierres de vie?{SAUT}Rhaaaa, t'es pas possible!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0248",
     "en": "  No way! It's just common sense to carry{SAUT}life stones with you!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pas possible! C'est la base d'avoir des{SAUT}pierres de vie sur soi!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0249",
     "en": "  What!? You don't deserve any life stones!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Quoi!? Tu mérites pas de pierres de vie!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0250",
     "en": "  You've been negotiating without any life{SAUT}stones? You gotta be kidding me...{SAUT}Are you for real...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu négociais sans aucune pierre de vie?{SAUT}Tu te moques de moi...{SAUT}Sérieusement...?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0251",
     "en": "   Heehee... You have a [FFF4],{SAUT}don't you? That's what I want.(*OPTION*)",
-    "fr": ""
+    "fr": "Hihi... Tu as un [FFF4],{SAUT}pas vrai? C'est ça que je veux.(*OPTION*)"
   },
   {
     "id": "YOUEN.BIN:text:0252",
     "en": " This shine... It never stops being{SAUT}wonderful, no matter how many times{SAUT}I look at it...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Cet éclat... Il est toujours aussi{SAUT}merveilleux, peu importe combien de{SAUT}fois je le regarde...(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0253",
     "en": " Hey! Isn't there something wrong here?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hé! Il n'y a pas un problème, là?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0254",
     "en": " Oh, is that so? Then I'll just have to{SAUT}take it by force!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ah, vraiment? Alors je vais devoir{SAUT}le prendre de force!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0255",
     "en": "   No way! Not even if it's me asking?{SAUT}You can't appreciate beauty, can you?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Non!? Même si c'est moi qui demande?{SAUT}Tu n'as aucun sens de la beauté, hein?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0256",
     "en": "  I want your life... Well, just a little{SAUT}of it, really. A small sip is enough.(*OPTION*)",
-    "fr": ""
+    "fr": "Je veux ta vie... Enfin, juste un peu,{SAUT}hein. Une petite gorgée suffira.(*OPTION*)"
   },
   {
     "id": "YOUEN.BIN:text:0257",
     "en": "  Heehee... your life energy looks{SAUT}delicious!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hihi... ton énergie vitale a l'air{SAUT}délicieuse!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0258",
     "en": "Oh...? Are you scared of me? I'm even{SAUT}scarier to kids who don't listen to what{SAUT}I tell them!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh...? Je te fais peur? Je suis encore{SAUT}pire avec les gamins qui n'écoutent pas{SAUT}ce que je dis!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0259",
     "en": "Oh, is that so? I don't want to take any{SAUT}if you don't want to give... Well, I'll{SAUT}let it go this once.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ah, vraiment? Je ne veux rien prendre{SAUT}si tu ne veux rien donner... Bon, je{SAUT}laisse passer pour cette fois.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0260",
     "en": "  Oh, is that so?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ah, vraiment?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0261",
     "en": "I think it's cute when you do that.(*RESPONSE*)",
-    "fr": "",
+    "fr": "C'est mignon quand tu fais ça.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "YOUEN.BIN:text:0262",
     "en": "Even if that's true, you're not supposed{SAUT}to say so yourself!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Même si c'est vrai, on ne le dit pas{SAUT}soi-même!(*RESPONSE*)",
     "_occurrences": 6
   },
   {
     "id": "YOUEN.BIN:text:0263",
     "en": "   Is that so? All right, then.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Ah bon? D'accord, alors.(*RESPONSE*)",
     "_occurrences": 16
   },
   {
     "id": "YOUEN.BIN:text:0265",
     "en": "   I can't trust you!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Je me méfie de toi!(*RESPONSE*)",
     "_occurrences": 8
   },
   {
     "id": "YOUEN.BIN:text:0266",
     "en": " Ahaha... I understand very well now.{SAUT}You're not bad at all.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Ahaha... Je comprends très bien, là.{SAUT}Tu n'es pas mal du tout.(*RESPONSE*)",
     "_occurrences": 7
   },
   {
     "id": "YOUEN.BIN:text:0267",
     "en": "Is that so!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Ah bon!(*RESPONSE*)",
     "_occurrences": 6
   },
   {
     "id": "YOUEN.BIN:text:0268",
     "en": "Ahaha... You're so cute when you're{SAUT}embarrassed.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Ahaha... T'es trop chou quand{SAUT}tu rougis.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:text:0269",
     "en": "   That's what you have to say for yourself{SAUT}after taunting me? Ahaha... you have{SAUT}quite the silver tongue.(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est tout ce que tu trouves à dire{SAUT}après m'avoir provoquée? Ahaha... tu as{SAUT}la langue bien pendue.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0270",
     "en": " What do you mean, something bad!?{SAUT}Let's see you try!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Comment ça, quelque chose de mal!?{SAUT}Essaie un peu, pour voir!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0271",
     "en": "   N-No way... What did I do...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "N-Non... Qu'est-ce que j'ai fait...?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0272",
     "en": "  That's what I thought! The sentence{SAUT}structure's all wrong. You're such{SAUT}an idiot!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Je m'en doutais! La construction de{SAUT}ta phrase est bancale. T'es{SAUT}vraiment bête!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:text:0273",
     "en": "   That's what I thought! The sentence{SAUT}structure's all wrong.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je m'en doutais! La construction de{SAUT}ta phrase est bancale.(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0274",
     "en": " Huh? Really? What ARE they teaching{SAUT}them in schools today...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hein? Vraiment? Mais qu'est-ce qu'on{SAUT}leur APPREND à l'école...?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0275",
     "en": "  Thanks... that's nice of you!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Merci... c'est gentil!(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "YOUEN.BIN:text:0276",
     "en": "  Don't get conceited!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Prends pas la grosse tête!(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "YOUEN.BIN:text:0277",
     "en": "   Why...? I'm just a weak demoness...(*RESPONSE*)",
-    "fr": "",
+    "fr": "Pourquoi...? Moi, une faible démone...(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "YOUEN.BIN:text:0284",
     "en": " Uh-oh...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh oh...(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0285",
     "en": "   Ahaha... you're honest in the strangest{SAUT}ways!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ahaha... t'es honnête d'une drôle{SAUT}de façon!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0286",
     "en": "  Now I'm even more suspicious...!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Là, je me méfie encore plus...!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0287",
     "en": "   Well, bring it on! I'm not responsible{SAUT}if you lose your voice!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Eh bien, vas-y! Je ne suis pas{SAUT}responsable si tu perds ta voix!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0288",
     "en": " Hm, you seem pretty confident.{SAUT}...Let's call it off for now!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Hm, t'as l'air d'avoir confiance.{SAUT}...On arrête là pour l'instant!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:text:0289",
     "en": "   Hmhmhm, you must've gotten scared.{SAUT}No surprise there!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Hmhmhm, t'as dû avoir peur.{SAUT}Pas étonnant!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:text:0290",
     "en": "  ＊gasp＊ ＊gasp＊ I've never been treated{SAUT}so cruelly before...(*RESPONSE*)",
-    "fr": ""
+    "fr": "＊halète＊ ＊halète＊ On ne m'a jamais{SAUT}traitée aussi cruellement...(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0291",
     "en": " Enough is enough!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Trop, c'est trop!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0292",
     "en": "  Ahhh... that was marvelous...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ahhh... c'était merveilleux...(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0293",
     "en": "  That voice... I can't believe it's coming{SAUT}from a human! What ARE you...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Cette voix... Dire qu'elle vient d'un{SAUT}humain! Mais QU'es-tu...?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0294",
     "en": "   That voice... I can't believe it's coming{SAUT}from a human!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Cette voix... Dire qu'elle vient d'un{SAUT}humain!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0295",
     "en": "What are you so embarrassed about?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pourquoi tant de gêne?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0296",
     "en": " I think it's cute when you do that.(*RESPONSE*)",
-    "fr": "",
+    "fr": "C'est mignon quand tu fais ça.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:text:0303",
     "en": "Ahaha... You know you want me, but it's{SAUT}cute that you're so embarrassed about it.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Ahaha... Tu me veux, avoue, mais c'est{SAUT}mignon de te voir rougir comme ça.(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "YOUEN.BIN:text:0304",
     "en": "  So you're going to keep pretending you{SAUT}don't know?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Alors tu vas continuer à faire{SAUT}semblant de ne pas savoir?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0305",
     "en": " You're one stubborn girl! Heh... it's{SAUT}a welcome challenge.(*RESPONSE*)",
-    "fr": "",
+    "fr": "T'es une vraie tête de mule! Héhé...{SAUT}C'est un défi bienvenu.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:text:0306",
     "en": " Don't give me that crap! I'm not falling{SAUT}for your silver tongue!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Arrête tes conneries! Tu ne m'auras pas{SAUT}avec tes belles paroles!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:text:0307",
     "en": "   Man, you're so modest!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ce que tu es modeste!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0308",
     "en": " You know... you being so modest makes{SAUT}me anxious...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu sais... ta modestie me met{SAUT}mal à l'aise...(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0309",
     "en": "C'mon, I was just flattering you!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Allons, je te flattais, c'est tout!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0310",
     "en": "  That wasn't a joke at all, you know!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ce n'était pas une blague, tu sais!(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0311",
     "en": "   C-C'mon... I've just always wanted to{SAUT}say that!(*RESPONSE*)",
-    "fr": "",
+    "fr": "A-Allons... J'ai toujours rêvé de{SAUT}dire ça!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:text:0312",
     "en": "You think so, too? Ah... I'm such a{SAUT}sinful woman!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Tu trouves aussi? Ah... je suis une{SAUT}vraie pécheresse!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "YOUEN.BIN:text:0313",
     "en": "  What're you all embarrassed about?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pourquoi tu rougis comme ça?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0322",
     "en": "  What!? You got a problem!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Quoi!? T'as un problème!?(*RESPONSE*)"
   },
   {
     "id": "YOUEN.BIN:text:0323",
     "en": " Oh my, I'm sorry.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh, pardon.(*RESPONSE*)"
   }
 ]
