@@ -593,6 +593,6 @@
   {
     "id": "E1.BIN:129:0087",
     "en": "{FERME}  > You have conquered Thanatos Tower!{ATTENTE}",
-    "fr": "{FERME}  > Vous êtes venus à bout de la{SAUT}tour Thanatos!{ATTENTE}"
+    "fr": "{FERME}  > Vous avez vaincu la tour Thanatos!{ATTENTE}"
   }
 ]
