@@ -23,57 +23,15 @@ Ces entrées alourdissent leur fichier. Un bloc qui franchit sa frontière fait 
 
 Terminologie à confirmer — un terme du dictionnaire apparaît dans l'anglais sans sa traduction officielle dans le français. Ce n'est pas forcément une faute, mais ça mérite un avis.
 
-- [`E0_001.json`](trad/dialogues/E0_001.json) — 5 termes
-- [`E0_002.json`](trad/dialogues/E0_002.json) — 1 terme
-- [`E0_009.json`](trad/dialogues/E0_009.json) — 4 termes
-- [`E0_013.json`](trad/dialogues/E0_013.json) — 4 termes
-- [`E0_014.json`](trad/dialogues/E0_014.json) — 1 terme
-- [`E0_015.json`](trad/dialogues/E0_015.json) — 1 terme
-- [`E0_016.json`](trad/dialogues/E0_016.json) — 2 termes
-- [`E0_017.json`](trad/dialogues/E0_017.json) — 3 termes
-- [`E0_021.json`](trad/dialogues/E0_021.json) — 1 terme
-- [`E0_024.json`](trad/dialogues/E0_024.json) — 31 termes
 - [`E1_001.json`](trad/dialogues/E1_001.json) — 1 terme
-- [`E1_003.json`](trad/dialogues/E1_003.json) — 1 terme
 - [`E1_006.json`](trad/dialogues/E1_006.json) — 1 terme
-- [`E1_013.json`](trad/dialogues/E1_013.json) — 3 termes
-- [`E1_014.json`](trad/dialogues/E1_014.json) — 1 terme
-- [`E1_031.json`](trad/dialogues/E1_031.json) — 1 terme
 - [`E2_005.json`](trad/dialogues/E2_005.json) — 1 terme
 - [`E3_001.json`](trad/dialogues/E3_001.json) — 1 terme
-- [`E3_004.json`](trad/dialogues/E3_004.json) — 2 termes
 - [`E3_006.json`](trad/dialogues/E3_006.json) — 1 terme
-- [`EBOOT_002.json`](trad/eboot/EBOOT_002.json) — 1 terme
-- [`EBOOT_003.json`](trad/eboot/EBOOT_003.json) — 3 termes
-- [`EBOOT_007.json`](trad/eboot/EBOOT_007.json) — 5 termes
-- [`EBOOT_008.json`](trad/eboot/EBOOT_008.json) — 19 termes
-- [`EBOOT_009.json`](trad/eboot/EBOOT_009.json) — 33 termes
-- [`EBOOT_010.json`](trad/eboot/EBOOT_010.json) — 19 termes
-- [`EBOOT_011.json`](trad/eboot/EBOOT_011.json) — 1 terme
-- [`EBOOT_013.json`](trad/eboot/EBOOT_013.json) — 1 terme
-- [`EBOOT_014.json`](trad/eboot/EBOOT_014.json) — 2 termes
-- [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) — 4 termes
-- [`EBOOT_016.json`](trad/eboot/EBOOT_016.json) — 8 termes
-- [`EBOOT_020.json`](trad/eboot/EBOOT_020.json) — 2 termes
-- [`EBOOT_022.json`](trad/eboot/EBOOT_022.json) — 2 termes
+- [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) — 1 terme
+- [`EBOOT_022.json`](trad/eboot/EBOOT_022.json) — 1 terme
 - [`EBOOT_024.json`](trad/eboot/EBOOT_024.json) — 2 termes
-- [`EBOOT_025.json`](trad/eboot/EBOOT_025.json) — 4 termes
-- [`EBOOT_026.json`](trad/eboot/EBOOT_026.json) — 2 termes
-- [`EBOOT_027.json`](trad/eboot/EBOOT_027.json) — 2 termes
-- [`DOPPEL_002.json`](trad/negociations/DOPPEL_002.json) — 1 terme
-- [`ETC_001.json`](trad/negociations/ETC_001.json) — 7 termes
-- [`ETC_002.json`](trad/negociations/ETC_002.json) — 5 termes
-- [`GAKI_002.json`](trad/negociations/GAKI_002.json) — 1 terme
-- [`KUTISAKE_002.json`](trad/negociations/KUTISAKE_002.json) — 1 terme
-- [`KUTISAKE_003.json`](trad/negociations/KUTISAKE_003.json) — 1 terme
-- [`MAYOERU_002.json`](trad/negociations/MAYOERU_002.json) — 2 termes
-- [`SLIME_002.json`](trad/negociations/SLIME_002.json) — 2 termes
-- [`TENSI_002.json`](trad/negociations/TENSI_002.json) — 1 terme
-- [`TINPRA_002.json`](trad/negociations/TINPRA_002.json) — 2 termes
-- [`YAKUZA_002.json`](trad/negociations/YAKUZA_002.json) — 2 termes
-- [`ZMBITYAN_002.json`](trad/negociations/ZMBITYAN_002.json) — 2 termes
-- [`ZOMBIKO_002.json`](trad/negociations/ZOMBIKO_002.json) — 3 termes
-- [`ZOMB_MAN_002.json`](trad/negociations/ZOMB_MAN_002.json) — 1 terme
+- [`EBOOT_025.json`](trad/eboot/EBOOT_025.json) — 2 termes
 
 ## Largeur à surveiller
 
@@ -153,27 +111,27 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 
 | Fichier | Textes | Traduits | % | État |
 |---|---:|---:|---:|---|
-| [`E0_001.json`](trad/dialogues/E0_001.json) | 99 | 99 | 100 % | terminé · 5 termes |
-| [`E0_002.json`](trad/dialogues/E0_002.json) | 92 | 92 | 100 % | terminé · 1 terme |
+| [`E0_001.json`](trad/dialogues/E0_001.json) | 99 | 99 | 100 % | terminé |
+| [`E0_002.json`](trad/dialogues/E0_002.json) | 92 | 92 | 100 % | terminé |
 | [`E0_003.json`](trad/dialogues/E0_003.json) | 40 | 40 | 100 % | terminé |
 | [`E0_004.json`](trad/dialogues/E0_004.json) | 100 | 100 | 100 % | terminé |
 | [`E0_005.json`](trad/dialogues/E0_005.json) | 100 | 100 | 100 % | terminé |
 | [`E0_006.json`](trad/dialogues/E0_006.json) | 18 | 18 | 100 % | terminé |
 | [`E0_007.json`](trad/dialogues/E0_007.json) | 97 | 97 | 100 % | terminé |
 | [`E0_008.json`](trad/dialogues/E0_008.json) | 93 | 93 | 100 % | terminé |
-| [`E0_009.json`](trad/dialogues/E0_009.json) | 100 | 100 | 100 % | terminé · 4 termes |
+| [`E0_009.json`](trad/dialogues/E0_009.json) | 100 | 100 | 100 % | terminé |
 | [`E0_010.json`](trad/dialogues/E0_010.json) | 86 | 86 | 100 % | terminé |
 | [`E0_011.json`](trad/dialogues/E0_011.json) | 67 | 67 | 100 % | terminé |
 | [`E0_012.json`](trad/dialogues/E0_012.json) | 55 | 55 | 100 % | terminé |
-| [`E0_013.json`](trad/dialogues/E0_013.json) | 85 | 85 | 100 % | terminé · 4 termes |
-| [`E0_014.json`](trad/dialogues/E0_014.json) | 91 | 91 | 100 % | terminé · 1 terme |
-| [`E0_015.json`](trad/dialogues/E0_015.json) | 66 | 66 | 100 % | terminé · 1 terme |
-| [`E0_016.json`](trad/dialogues/E0_016.json) | 100 | 100 | 100 % | terminé · 2 termes |
-| [`E0_017.json`](trad/dialogues/E0_017.json) | 56 | 56 | 100 % | terminé · 3 termes |
+| [`E0_013.json`](trad/dialogues/E0_013.json) | 85 | 85 | 100 % | terminé |
+| [`E0_014.json`](trad/dialogues/E0_014.json) | 91 | 91 | 100 % | terminé · 1 trop large |
+| [`E0_015.json`](trad/dialogues/E0_015.json) | 66 | 66 | 100 % | terminé |
+| [`E0_016.json`](trad/dialogues/E0_016.json) | 100 | 100 | 100 % | terminé · 1 trop large |
+| [`E0_017.json`](trad/dialogues/E0_017.json) | 56 | 56 | 100 % | terminé |
 | [`E0_018.json`](trad/dialogues/E0_018.json) | 83 | 83 | 100 % | terminé |
 | [`E0_019.json`](trad/dialogues/E0_019.json) | 58 | 58 | 100 % | terminé |
 | [`E0_020.json`](trad/dialogues/E0_020.json) | 87 | 87 | 100 % | terminé |
-| [`E0_021.json`](trad/dialogues/E0_021.json) | 89 | 89 | 100 % | terminé · 1 terme |
+| [`E0_021.json`](trad/dialogues/E0_021.json) | 89 | 89 | 100 % | terminé |
 | [`E0_022.json`](trad/dialogues/E0_022.json) | 52 | 52 | 100 % | terminé |
 | [`E0_023.json`](trad/dialogues/E0_023.json) | 65 | 65 | 100 % | terminé |
 | [`E0_024.json`](trad/dialogues/E0_024.json) | 96 | 96 | 100 % | terminé · 3 à alléger |
@@ -203,7 +161,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_048.json`](trad/dialogues/E0_048.json) | 50 | 50 | 100 % | terminé par @Gyotre, @ATMC14 |
 | [`E1_001.json`](trad/dialogues/E1_001.json) | 80 | 77 | 96 % | commencé · 1 terme |
 | [`E1_002.json`](trad/dialogues/E1_002.json) | 100 | 99 | 99 % | commencé · 1 trop large |
-| [`E1_003.json`](trad/dialogues/E1_003.json) | 94 | 94 | 100 % | terminé · 1 terme |
+| [`E1_003.json`](trad/dialogues/E1_003.json) | 94 | 94 | 100 % | terminé |
 | [`E1_004.json`](trad/dialogues/E1_004.json) | 87 | 4 | 5 % | commencé |
 | [`E1_005.json`](trad/dialogues/E1_005.json) | 81 | 1 | 1 % | commencé |
 | [`E1_006.json`](trad/dialogues/E1_006.json) | 77 | 37 | 48 % | commencé · 1 terme |
@@ -213,8 +171,8 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E1_010.json`](trad/dialogues/E1_010.json) | 63 | 63 | 100 % | terminé |
 | [`E1_011.json`](trad/dialogues/E1_011.json) | 87 | 87 | 100 % | terminé |
 | [`E1_012.json`](trad/dialogues/E1_012.json) | 83 | 1 | 1 % | commencé |
-| [`E1_013.json`](trad/dialogues/E1_013.json) | 60 | 60 | 100 % | terminé par @Uolil-Raccoon · 3 termes |
-| [`E1_014.json`](trad/dialogues/E1_014.json) | 43 | 43 | 100 % | terminé · 1 terme |
+| [`E1_013.json`](trad/dialogues/E1_013.json) | 60 | 60 | 100 % | terminé par @Uolil-Raccoon · 3 trop large |
+| [`E1_014.json`](trad/dialogues/E1_014.json) | 43 | 43 | 100 % | terminé |
 | [`E1_015.json`](trad/dialogues/E1_015.json) | 65 | 1 | 2 % | commencé |
 | [`E1_016.json`](trad/dialogues/E1_016.json) | 100 | 0 | 0 % | en cours par @Uolil-Raccoon (#61) |
 | [`E1_017.json`](trad/dialogues/E1_017.json) | 38 | 38 | 100 % | terminé |
@@ -231,7 +189,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E1_028.json`](trad/dialogues/E1_028.json) | 79 | 79 | 100 % | terminé · 2 trop large |
 | [`E1_029.json`](trad/dialogues/E1_029.json) | 99 | 23 | 23 % | commencé |
 | [`E1_030.json`](trad/dialogues/E1_030.json) | 96 | 96 | 100 % | terminé · 3 trop large |
-| [`E1_031.json`](trad/dialogues/E1_031.json) | 97 | 28 | 29 % | commencé · 1 terme |
+| [`E1_031.json`](trad/dialogues/E1_031.json) | 97 | 28 | 29 % | commencé · 1 trop large |
 | [`E2_001.json`](trad/dialogues/E2_001.json) | 95 | 29 | 31 % | commencé · 2 trop large |
 | [`E2_002.json`](trad/dialogues/E2_002.json) | 100 | 39 | 39 % | commencé · 2 trop large |
 | [`E2_003.json`](trad/dialogues/E2_003.json) | 96 | 7 | 7 % | commencé |
@@ -252,7 +210,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E3_001.json`](trad/dialogues/E3_001.json) | 93 | 14 | 15 % | commencé · 1 terme |
 | [`E3_002.json`](trad/dialogues/E3_002.json) | 97 | 13 | 13 % | commencé |
 | [`E3_003.json`](trad/dialogues/E3_003.json) | 70 | 70 | 100 % | terminé |
-| [`E3_004.json`](trad/dialogues/E3_004.json) | 95 | 95 | 100 % | terminé · 2 termes |
+| [`E3_004.json`](trad/dialogues/E3_004.json) | 95 | 95 | 100 % | terminé · 1 trop large |
 | [`E3_005.json`](trad/dialogues/E3_005.json) | 97 | 97 | 100 % | terminé · 4 trop large |
 | [`E3_006.json`](trad/dialogues/E3_006.json) | 98 | 98 | 100 % | terminé · 1 terme |
 | [`E3_007.json`](trad/dialogues/E3_007.json) | 96 | 0 | 0 % | libre |
@@ -265,32 +223,32 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | Fichier | Textes | Traduits | % | État |
 |---|---:|---:|---:|---|
 | [`EBOOT_001.json`](trad/eboot/EBOOT_001.json) | 100 | 100 | 100 % | terminé · 5 à vérifier |
-| [`EBOOT_002.json`](trad/eboot/EBOOT_002.json) | 100 | 100 | 100 % | terminé · 1 terme |
-| [`EBOOT_003.json`](trad/eboot/EBOOT_003.json) | 100 | 100 | 100 % | terminé · 3 termes |
+| [`EBOOT_002.json`](trad/eboot/EBOOT_002.json) | 100 | 100 | 100 % | terminé · 2 à vérifier |
+| [`EBOOT_003.json`](trad/eboot/EBOOT_003.json) | 100 | 100 | 100 % | terminé · 15 à vérifier |
 | [`EBOOT_004.json`](trad/eboot/EBOOT_004.json) | 100 | 100 | 100 % | terminé · 1 à vérifier |
 | [`EBOOT_005.json`](trad/eboot/EBOOT_005.json) | 100 | 100 | 100 % | terminé |
 | [`EBOOT_006.json`](trad/eboot/EBOOT_006.json) | 100 | 100 | 100 % | terminé |
-| [`EBOOT_007.json`](trad/eboot/EBOOT_007.json) | 100 | 100 | 100 % | terminé · 5 termes |
-| [`EBOOT_008.json`](trad/eboot/EBOOT_008.json) | 100 | 100 | 100 % | terminé · 19 termes |
-| [`EBOOT_009.json`](trad/eboot/EBOOT_009.json) | 100 | 100 | 100 % | terminé · 33 termes |
-| [`EBOOT_010.json`](trad/eboot/EBOOT_010.json) | 100 | 100 | 100 % | terminé · 19 termes |
-| [`EBOOT_011.json`](trad/eboot/EBOOT_011.json) | 60 | 60 | 100 % | terminé · 1 terme |
+| [`EBOOT_007.json`](trad/eboot/EBOOT_007.json) | 100 | 100 | 100 % | terminé |
+| [`EBOOT_008.json`](trad/eboot/EBOOT_008.json) | 100 | 100 | 100 % | terminé |
+| [`EBOOT_009.json`](trad/eboot/EBOOT_009.json) | 100 | 100 | 100 % | terminé |
+| [`EBOOT_010.json`](trad/eboot/EBOOT_010.json) | 100 | 100 | 100 % | terminé · 10 à vérifier |
+| [`EBOOT_011.json`](trad/eboot/EBOOT_011.json) | 60 | 60 | 100 % | terminé · 5 à vérifier |
 | [`EBOOT_012.json`](trad/eboot/EBOOT_012.json) | 58 | 58 | 100 % | terminé · 15 à vérifier |
-| [`EBOOT_013.json`](trad/eboot/EBOOT_013.json) | 82 | 82 | 100 % | terminé · 1 terme |
-| [`EBOOT_014.json`](trad/eboot/EBOOT_014.json) | 100 | 100 | 100 % | terminé · 2 termes |
-| [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) | 100 | 100 | 100 % | terminé · 4 termes |
-| [`EBOOT_016.json`](trad/eboot/EBOOT_016.json) | 100 | 100 | 100 % | terminé · 8 termes |
+| [`EBOOT_013.json`](trad/eboot/EBOOT_013.json) | 82 | 82 | 100 % | terminé · 5 à vérifier |
+| [`EBOOT_014.json`](trad/eboot/EBOOT_014.json) | 100 | 100 | 100 % | terminé · 20 à vérifier |
+| [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) | 100 | 100 | 100 % | terminé · 1 terme |
+| [`EBOOT_016.json`](trad/eboot/EBOOT_016.json) | 100 | 100 | 100 % | terminé · 7 à vérifier |
 | [`EBOOT_017.json`](trad/eboot/EBOOT_017.json) | 18 | 18 | 100 % | terminé · 1 à vérifier |
 | [`EBOOT_018.json`](trad/eboot/EBOOT_018.json) | 100 | 100 | 100 % | terminé · 17 à vérifier |
 | [`EBOOT_019.json`](trad/eboot/EBOOT_019.json) | 100 | 100 | 100 % | terminé · 1 trop large |
 | [`EBOOT_020.json`](trad/eboot/EBOOT_020.json) | 100 | 100 | 100 % | terminé · 1 à alléger |
 | [`EBOOT_021.json`](trad/eboot/EBOOT_021.json) | 100 | 100 | 100 % | terminé · 27 à vérifier |
-| [`EBOOT_022.json`](trad/eboot/EBOOT_022.json) | 100 | 100 | 100 % | terminé · 2 termes |
+| [`EBOOT_022.json`](trad/eboot/EBOOT_022.json) | 100 | 100 | 100 % | terminé · 1 terme |
 | [`EBOOT_023.json`](trad/eboot/EBOOT_023.json) | 100 | 100 | 100 % | terminé · 4 à vérifier |
 | [`EBOOT_024.json`](trad/eboot/EBOOT_024.json) | 100 | 100 | 100 % | terminé · 2 termes |
-| [`EBOOT_025.json`](trad/eboot/EBOOT_025.json) | 100 | 100 | 100 % | terminé · 4 termes |
-| [`EBOOT_026.json`](trad/eboot/EBOOT_026.json) | 100 | 100 | 100 % | terminé · 2 termes |
-| [`EBOOT_027.json`](trad/eboot/EBOOT_027.json) | 100 | 100 | 100 % | terminé · 2 termes |
+| [`EBOOT_025.json`](trad/eboot/EBOOT_025.json) | 100 | 100 | 100 % | terminé · 2 termes |
+| [`EBOOT_026.json`](trad/eboot/EBOOT_026.json) | 100 | 100 | 100 % | terminé · 23 à vérifier |
+| [`EBOOT_027.json`](trad/eboot/EBOOT_027.json) | 100 | 100 | 100 % | terminé · 16 à vérifier |
 | [`EBOOT_028.json`](trad/eboot/EBOOT_028.json) | 100 | 100 | 100 % | terminé · 17 à vérifier |
 | [`EBOOT_029.json`](trad/eboot/EBOOT_029.json) | 100 | 100 | 100 % | terminé · 22 à vérifier |
 | [`EBOOT_030.json`](trad/eboot/EBOOT_030.json) | 100 | 100 | 100 % | terminé · 29 à vérifier |
@@ -323,14 +281,14 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`BASKET_007.json`](trad/negociations/BASKET_007.json) | 100 | 0 | 0 % | libre |
 | [`BASKET_008.json`](trad/negociations/BASKET_008.json) | 56 | 0 | 0 % | libre |
 | [`DOPPEL_001.json`](trad/negociations/DOPPEL_001.json) | 100 | 100 | 100 % | terminé |
-| [`DOPPEL_002.json`](trad/negociations/DOPPEL_002.json) | 100 | 100 | 100 % | terminé · 1 terme |
+| [`DOPPEL_002.json`](trad/negociations/DOPPEL_002.json) | 100 | 100 | 100 % | terminé |
 | [`DOPPEL_003.json`](trad/negociations/DOPPEL_003.json) | 14 | 14 | 100 % | terminé |
-| [`ETC_001.json`](trad/negociations/ETC_001.json) | 100 | 100 | 100 % | terminé · 7 termes |
-| [`ETC_002.json`](trad/negociations/ETC_002.json) | 100 | 100 | 100 % | terminé · 5 termes |
+| [`ETC_001.json`](trad/negociations/ETC_001.json) | 100 | 100 | 100 % | terminé |
+| [`ETC_002.json`](trad/negociations/ETC_002.json) | 100 | 100 | 100 % | terminé · 1 trop large |
 | [`ETC_003.json`](trad/negociations/ETC_003.json) | 100 | 100 | 100 % | terminé |
 | [`ETC_004.json`](trad/negociations/ETC_004.json) | 24 | 24 | 100 % | terminé |
 | [`GAKI_001.json`](trad/negociations/GAKI_001.json) | 100 | 100 | 100 % | terminé |
-| [`GAKI_002.json`](trad/negociations/GAKI_002.json) | 100 | 100 | 100 % | terminé · 1 terme |
+| [`GAKI_002.json`](trad/negociations/GAKI_002.json) | 100 | 100 | 100 % | terminé |
 | [`GAKI_003.json`](trad/negociations/GAKI_003.json) | 28 | 28 | 100 % | terminé |
 | [`HIHO_001.json`](trad/negociations/HIHO_001.json) | 100 | 0 | 0 % | libre |
 | [`HIHO_002.json`](trad/negociations/HIHO_002.json) | 100 | 0 | 0 % | libre |
@@ -376,8 +334,8 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`KOUMAN_008.json`](trad/negociations/KOUMAN_008.json) | 100 | 0 | 0 % | libre |
 | [`KOUMAN_009.json`](trad/negociations/KOUMAN_009.json) | 93 | 0 | 0 % | libre |
 | [`KUTISAKE_001.json`](trad/negociations/KUTISAKE_001.json) | 100 | 100 | 100 % | terminé · 1 trop large |
-| [`KUTISAKE_002.json`](trad/negociations/KUTISAKE_002.json) | 100 | 100 | 100 % | terminé · 1 terme |
-| [`KUTISAKE_003.json`](trad/negociations/KUTISAKE_003.json) | 81 | 81 | 100 % | terminé · 1 terme |
+| [`KUTISAKE_002.json`](trad/negociations/KUTISAKE_002.json) | 100 | 100 | 100 % | terminé · 3 trop large |
+| [`KUTISAKE_003.json`](trad/negociations/KUTISAKE_003.json) | 81 | 81 | 100 % | terminé · 7 trop large |
 | [`KYOUKI_001.json`](trad/negociations/KYOUKI_001.json) | 100 | 0 | 0 % | libre |
 | [`KYOUKI_002.json`](trad/negociations/KYOUKI_002.json) | 100 | 0 | 0 % | libre |
 | [`KYOUKI_003.json`](trad/negociations/KYOUKI_003.json) | 100 | 0 | 0 % | libre |
@@ -386,7 +344,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`KYOUKI_006.json`](trad/negociations/KYOUKI_006.json) | 100 | 0 | 0 % | libre |
 | [`KYOUKI_007.json`](trad/negociations/KYOUKI_007.json) | 23 | 0 | 0 % | libre |
 | [`MAYOERU_001.json`](trad/negociations/MAYOERU_001.json) | 100 | 100 | 100 % | terminé |
-| [`MAYOERU_002.json`](trad/negociations/MAYOERU_002.json) | 100 | 100 | 100 % | terminé · 2 termes |
+| [`MAYOERU_002.json`](trad/negociations/MAYOERU_002.json) | 100 | 100 | 100 % | terminé |
 | [`MAYOERU_003.json`](trad/negociations/MAYOERU_003.json) | 39 | 39 | 100 % | terminé |
 | [`POLUTAR_001.json`](trad/negociations/POLUTAR_001.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#63) |
 | [`POLUTAR_002.json`](trad/negociations/POLUTAR_002.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#62) |
@@ -403,7 +361,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`SINSI_006.json`](trad/negociations/SINSI_006.json) | 100 | 0 | 0 % | libre |
 | [`SINSI_007.json`](trad/negociations/SINSI_007.json) | 36 | 0 | 0 % | libre |
 | [`SLIME_001.json`](trad/negociations/SLIME_001.json) | 100 | 100 | 100 % | terminé |
-| [`SLIME_002.json`](trad/negociations/SLIME_002.json) | 100 | 100 | 100 % | terminé · 2 termes |
+| [`SLIME_002.json`](trad/negociations/SLIME_002.json) | 100 | 100 | 100 % | terminé |
 | [`SLIME_003.json`](trad/negociations/SLIME_003.json) | 20 | 20 | 100 % | terminé |
 | [`SYOUJO_001.json`](trad/negociations/SYOUJO_001.json) | 100 | 0 | 0 % | libre |
 | [`SYOUJO_002.json`](trad/negociations/SYOUJO_002.json) | 100 | 0 | 0 % | libre |
@@ -413,13 +371,13 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`SYOUJO_006.json`](trad/negociations/SYOUJO_006.json) | 100 | 0 | 0 % | libre |
 | [`SYOUJO_007.json`](trad/negociations/SYOUJO_007.json) | 9 | 9 | 100 % | terminé par @Uolil-Raccoon |
 | [`TENSI_001.json`](trad/negociations/TENSI_001.json) | 100 | 100 | 100 % | terminé |
-| [`TENSI_002.json`](trad/negociations/TENSI_002.json) | 100 | 100 | 100 % | terminé · 1 terme |
+| [`TENSI_002.json`](trad/negociations/TENSI_002.json) | 100 | 100 | 100 % | terminé |
 | [`TENSI_003.json`](trad/negociations/TENSI_003.json) | 100 | 100 | 100 % | terminé |
 | [`TENSI_004.json`](trad/negociations/TENSI_004.json) | 100 | 100 | 100 % | terminé · 4 trop large |
 | [`TENSI_005.json`](trad/negociations/TENSI_005.json) | 100 | 100 | 100 % | terminé |
 | [`TENSI_006.json`](trad/negociations/TENSI_006.json) | 82 | 82 | 100 % | terminé |
 | [`TINPRA_001.json`](trad/negociations/TINPRA_001.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
-| [`TINPRA_002.json`](trad/negociations/TINPRA_002.json) | 100 | 100 | 100 % | terminé par @ATMC14 · 2 termes |
+| [`TINPRA_002.json`](trad/negociations/TINPRA_002.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
 | [`TINPRA_003.json`](trad/negociations/TINPRA_003.json) | 69 | 69 | 100 % | terminé par @ATMC14 |
 | [`TOILET_001.json`](trad/negociations/TOILET_001.json) | 100 | 100 | 100 % | terminé par @Uolil-Raccoon · 1 à alléger |
 | [`TOILET_002.json`](trad/negociations/TOILET_002.json) | 100 | 0 | 0 % | libre |
@@ -436,7 +394,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`WORM_009.json`](trad/negociations/WORM_009.json) | 86 | 0 | 0 % | libre |
 | [`WTENSI_001.json`](trad/negociations/WTENSI_001.json) | 80 | 80 | 100 % | terminé par @ATMC14 |
 | [`YAKUZA_001.json`](trad/negociations/YAKUZA_001.json) | 100 | 100 | 100 % | terminé · 1 trop large |
-| [`YAKUZA_002.json`](trad/negociations/YAKUZA_002.json) | 100 | 100 | 100 % | terminé · 2 termes |
+| [`YAKUZA_002.json`](trad/negociations/YAKUZA_002.json) | 100 | 100 | 100 % | terminé · 6 trop large |
 | [`YAKUZA_003.json`](trad/negociations/YAKUZA_003.json) | 59 | 59 | 100 % | terminé |
 | [`YOUEN_001.json`](trad/negociations/YOUEN_001.json) | 100 | 0 | 0 % | libre |
 | [`YOUEN_002.json`](trad/negociations/YOUEN_002.json) | 100 | 0 | 0 % | libre |
@@ -445,10 +403,10 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`YOUEN_005.json`](trad/negociations/YOUEN_005.json) | 100 | 0 | 0 % | libre |
 | [`YOUEN_006.json`](trad/negociations/YOUEN_006.json) | 87 | 0 | 0 % | libre |
 | [`ZMBITYAN_001.json`](trad/negociations/ZMBITYAN_001.json) | 100 | 100 | 100 % | terminé |
-| [`ZMBITYAN_002.json`](trad/negociations/ZMBITYAN_002.json) | 100 | 100 | 100 % | terminé · 2 termes |
+| [`ZMBITYAN_002.json`](trad/negociations/ZMBITYAN_002.json) | 100 | 100 | 100 % | terminé |
 | [`ZMBITYAN_003.json`](trad/negociations/ZMBITYAN_003.json) | 22 | 22 | 100 % | terminé |
 | [`ZOMBIKO_001.json`](trad/negociations/ZOMBIKO_001.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
-| [`ZOMBIKO_002.json`](trad/negociations/ZOMBIKO_002.json) | 90 | 90 | 100 % | terminé par @ATMC14 · 3 termes |
+| [`ZOMBIKO_002.json`](trad/negociations/ZOMBIKO_002.json) | 90 | 90 | 100 % | terminé par @ATMC14 |
 | [`ZOMB_MAN_001.json`](trad/negociations/ZOMB_MAN_001.json) | 100 | 0 | 0 % | libre |
-| [`ZOMB_MAN_002.json`](trad/negociations/ZOMB_MAN_002.json) | 82 | 36 | 44 % | commencé par @vikmorp · 1 terme |
+| [`ZOMB_MAN_002.json`](trad/negociations/ZOMB_MAN_002.json) | 82 | 36 | 44 % | commencé par @vikmorp |
 
