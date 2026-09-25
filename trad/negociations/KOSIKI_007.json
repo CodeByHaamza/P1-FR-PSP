@@ -2,133 +2,133 @@
   {
     "id": "KOSIKI.BIN:resp:0291",
     "en": "Raaaahhhhh!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Raaaahhhhh!(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "KOSIKI.BIN:resp:0296",
     "en": "Don't screw with me!(*RESPONSE*)Fine.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Me cherche pas!(*RESPONSE*)Bien.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:resp:0299",
     "en": "Ha...(*RESPONSE*)Doesn't involve me.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Ha...(*RESPONSE*)Ça me concerne pas.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:resp:0303",
     "en": "Demon hunting.(*RESPONSE*)(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je chasse.(*RESPONSE*)(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:resp:0304",
     "en": "I waited for you.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Je t'attendais.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:resp:0305",
     "en": "Moon watching.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Voir la lune.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:resp:0306",
     "en": "Yes.(*RESPONSE*)Done   ",
-    "fr": ""
+    "fr": "Oui.(*RESPONSE*)Fini"
   },
   {
     "id": "KOSIKI.BIN:resp:0307",
     "en": "No.(*RESPONSE*)Evil.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Non.(*RESPONSE*)Mal.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:resp:0308",
     "en": "You're in the way.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Tu me gênes.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOSIKI.BIN:resp:0310",
     "en": "I won't enter.(*RESPONSE*)Done ",
-    "fr": ""
+    "fr": "J'entre pas.(*RESPONSE*)Fini"
   },
   {
     "id": "KOSIKI.BIN:resp:0311",
     "en": "Like I'd know!(*RESPONSE*) ",
-    "fr": "",
+    "fr": "J'en sais rien!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOSIKI.BIN:resp:0313",
     "en": "Mid-air count?(*RESPONSE*) ",
-    "fr": ""
+    "fr": "En l'air?(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:resp:0315",
     "en": "Not so hot.(*RESPONSE*)[0A89]   ",
-    "fr": ""
+    "fr": "Pas terrible.(*RESPONSE*)[0A89]"
   },
   {
     "id": "KOSIKI.BIN:resp:0316",
     "en": "I'm gonna barf...(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Je vais vomir...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:resp:0317",
     "en": "I have business.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "J'ai à faire.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "KOSIKI.BIN:resp:0319",
     "en": "Don't go.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Reste ici.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:resp:0323",
     "en": "You got no business?(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "T'as rien à faire?(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:resp:0324",
     "en": "I welcome it!(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Avec plaisir!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:resp:0326",
     "en": "I'd take you, but...(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Je t'emmènerais...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOSIKI.BIN:resp:0328",
     "en": "Calm her down(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "La calmer(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:resp:0329",
     "en": "Get closer(*RESPONSE*)Done ",
-    "fr": ""
+    "fr": "S'approcher(*RESPONSE*)Fini"
   },
   {
     "id": "KOSIKI.BIN:resp:0330",
     "en": "Make her laugh(*RESPONSE*) ",
-    "fr": ""
+    "fr": "La faire rire(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:resp:0332",
     "en": "I don't get it.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Je pige pas.(*RESPONSE*)",
     "_occurrences": 6
   },
   {
     "id": "KOSIKI.BIN:resp:0336",
     "en": "Bully you.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "T'embêter.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:resp:0337",
     "en": "It's a secret.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "C'est secret.(*RESPONSE*)",
     "_occurrences": 3
   }
 ]

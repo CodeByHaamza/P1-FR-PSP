@@ -2,7 +2,7 @@
   {
     "id": "SINSI.BIN:text:0102",
     "en": "   If I've done you any wrong, I apologize{SAUT}for it... I beg your forgiveness...[FFFD][5CFF][F500]  When I was a child, there was something{SAUT}I too, could not forgive...{ATTENTE}",
-    "fr": ""
+    "fr": "   Si je vous ai fait tort, je vous en{SAUT}demande pardon... De grâce...[FFFD][5CFF][F500]Enfant, moi aussi, je n'ai pu{SAUT}pardonner certaine chose...{ATTENTE}"
   },
   {
     "id": "SINSI.BIN:text:0104",
@@ -42,27 +42,27 @@
   {
     "id": "SINSI.BIN:text:0111",
     "en": " Are you using those barbaric negotiation{SAUT}tactics in hopes that I'll listen?[FFFD][64FF][F500]  If you can cross even me, you are really{SAUT}rather hopeless!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Usez-vous de ces tactiques barbares{SAUT}en espérant que je vous écoute?[FFFD][64FF][F500]Si vous osez me contrarier, vous êtes{SAUT}vraiment sans espoir!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0112",
     "en": "  The changing seasons always bring these{SAUT}types around. It's so troubling...[FFFD][65FF][F500]   It would be easiest were I to just{SAUT}crush you... But I will stay my hand a{SAUT}bit longer...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Le changement de saison ramène{SAUT}toujours ces gens-là. Quel ennui...[FFFD][65FF][F500]Le plus simple serait de vous{SAUT}écraser... Mais je retiendrai ma{SAUT}main un moment encore...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0113",
     "en": "If you kill a demon who puts up no{SAUT}resistance, your reputation will suffer.[FFFD][66FF][F500]  That's a childish idea. But I understand{SAUT}the need for attention.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tuer un démon qui ne résiste pas{SAUT}nuira à votre réputation.[FFFD][66FF][F500]Voilà une idée puérile. Mais je{SAUT}comprends ce besoin d'attention.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0114",
     "en": "   You may have a point, but allow me to{SAUT}ask... What was it?[FFFD][67FF][F500]Did I hurt your feelings? I'm sorry, but{SAUT}your logic is rather flawed. That's not{SAUT}good...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Vous n'avez pas tort, mais permettez...{SAUT}C'était quoi, déjà?[FFFD][67FF][F500]Vous ai-je blessé? J'en suis navré,{SAUT}mais votre raisonnement boite.{SAUT}C'est fâcheux...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0115",
     "en": "   Calm down, young man... You are taking{SAUT}this too far...[FFFD][68FF][F500]   I cannot believe you, yet... nor can I{SAUT}bring myself to hate you. A mystery...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Du calme, jeune homme... Vous allez{SAUT}beaucoup trop loin...[FFFD][68FF][F500]Je ne vous crois pas, et pourtant...{SAUT}je n'arrive pas à vous haïr. Étrange...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0116",
@@ -72,7 +72,7 @@
   {
     "id": "SINSI.BIN:text:0117",
     "en": "   That's a childish idea. But I understand{SAUT}the need for attention.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Voilà une idée puérile. Mais je{SAUT}comprends ce besoin d'attention.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0118",
