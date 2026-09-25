@@ -212,7 +212,7 @@
   {
     "id": "KOSIKI.BIN:text:0242",
     "en": "Hmph! It seemeth I have been taken for{SAUT}the halfwit fool upon a stage!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hmph! On me prend, dirait-on, pour le{SAUT}bouffon d'une scène de théâtre!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0243",
@@ -313,7 +313,7 @@
   {
     "id": "KOSIKI.BIN:text:0262",
     "en": "  Then all is well.(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Alors tout va bien.(*RESPONSE*)",
     "_occurrences": 5
   },
   {
@@ -325,7 +325,7 @@
   {
     "id": "KOSIKI.BIN:text:0264",
     "en": " I trust thee as I trust a sleeping{SAUT}serpent!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Je te fais la confiance qu'on fait{SAUT}à un serpent endormi!(*RESPONSE*)",
     "_occurrences": 6
   },
   {
@@ -354,7 +354,7 @@
   {
     "id": "KOSIKI.BIN:text:0269",
     "en": "   Ha! Art thou so confident?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Ha! Es-tu si sûr de toi?(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0270",
@@ -399,13 +399,13 @@
   {
     "id": "KOSIKI.BIN:text:0277",
     "en": "   Hmph... Is this thy true intention!?(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Hmph... Est-ce là ton vrai dessein!?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOSIKI.BIN:text:0278",
     "en": "   That maketh thee rather adorable.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Cela te rend plutôt adorable.(*RESPONSE*)",
     "_occurrences": 6
   },
   {
@@ -417,7 +417,7 @@
   {
     "id": "KOSIKI.BIN:text:0280",
     "en": " Then all is well.(*RESPONSE*)",
-    "fr": "",
+    "fr": " Alors tout va bien.(*RESPONSE*)",
     "_occurrences": 3
   },
   {
@@ -438,7 +438,7 @@
   {
     "id": "KOSIKI.BIN:text:0286",
     "en": " Hmm... Thou art not wanting for{SAUT}confidence...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hmm... L'assurance ne te fait point{SAUT}défaut...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0287",
@@ -481,12 +481,12 @@
   {
     "id": "KOSIKI.BIN:text:0294",
     "en": "  Haha, o that I could sing as thou{SAUT}dost...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Haha, si seulement je chantais{SAUT}comme toi...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0295",
     "en": "  Hmph... Is this thy true intention!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hmph... Est-ce là ton vrai dessein!?(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0304",
@@ -496,7 +496,7 @@
   {
     "id": "KOSIKI.BIN:text:0305",
     "en": "  Hmph! It seemeth I have been taken for{SAUT}the halfwit fool upon a stage!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hmph! On me prend, dirait-on, pour le{SAUT}bouffon d'une scène de théâtre!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0306",

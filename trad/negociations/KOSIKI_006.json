@@ -168,7 +168,7 @@
   {
     "id": "KOSIKI.BIN:resp:0112",
     "en": "I know...(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Je sais...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -533,7 +533,7 @@
   {
     "id": "KOSIKI.BIN:resp:0270",
     "en": "Leave me alone...(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Laisse-moi tranquille...(*RESPONSE*)",
     "_occurrences": 4
   },
   {
