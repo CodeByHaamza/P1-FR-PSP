@@ -257,32 +257,32 @@
   {
     "id": "KOSIKI.BIN:text:0051",
     "en": "   If thou desirest longevity, 'twould be{SAUT}prudent to learn courtesy.[FFFD][2CFF][F500]Hahaha, I scoff at the notion! A child{SAUT}such as thee thinks to oppose me?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Si tu désires vivre longtemps, il{SAUT}serait sage d'apprendre la courtoisie.[FFFD][2CFF][F500]Hahaha, quelle idée risible! Un enfant{SAUT}tel que toi songe à m'affronter?(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0052",
     "en": "   Knave, I have lived many a century more{SAUT}than thee! Hold thy tongue![FFFD][2DFF][F500]  To recieve such praise gladdens me.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Manant, j'ai vécu bien des siècles de{SAUT}plus que toi! Retiens ta langue![FFFD][2DFF][F500]Recevoir tel éloge me réjouit.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0053",
     "en": "Thou art quite adept...[FFFD][2EFF][F500]  I, too, specialize in dance! But 'tis{SAUT}perhaps too bewitching for the eyes of{SAUT}ones so young.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu es fort habile...[FFFD][2EFF][F500]Moi aussi je suis versée dans la danse!{SAUT}Mais elle est peut-être trop{SAUT}envoûtante pour de si jeunes yeux.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0054",
     "en": "Were I to learn from thee, would I be{SAUT}able to perform such feats of dance?[FFFD][2FFF][F500]   'Tis beyond imagination that thou{SAUT}wouldst display such a crude dance!{SAUT}I find thy dedication sorely lacking!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Si j'apprenais de toi, saurais-je{SAUT}accomplir pareilles prouesses?[FFFD][2FFF][F500]Il est inimaginable que tu exhibes{SAUT}une danse si grossière! Ton application{SAUT}me semble bien maigre!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0055",
     "en": "＊cough＊ The toilet is hither...[FFFD][30FF][F500]  Such elegance! Allow me to join thee!(*RESPONSE*)",
-    "fr": ""
+    "fr": "＊tousse＊ Les commodités sont par là...[FFFD][30FF][F500]Quelle élégance! Laisse-moi me joindre à toi!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0056",
     "en": "  Let our cheer and merriment endure until{SAUT}the morning sun shines![FFFD][31FF][F500] Thou hast confidence. A battle with thee{SAUT}would be most enjoyable.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Que notre joie dure jusqu'à ce que{SAUT}brille le soleil du matin![FFFD][31FF][F500]Tu as de l'assurance. Un combat contre{SAUT}toi serait fort plaisant.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0057",
@@ -297,22 +297,22 @@
   {
     "id": "KOSIKI.BIN:text:0059",
     "en": "  Hm? That scowl...[FFFD][34FF][F500]Hast thou spied something on my face?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hm? Cette mine renfrognée...[FFFD][34FF][F500]Aurais-tu vu quelque chose sur mon visage?(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0060",
     "en": "  Is it thine intention to pierce me with{SAUT}thy fixed stare?[FFFD][35FF][F500] Why dost thou glare? I like this{SAUT}not...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Comptes-tu me transpercer de ton{SAUT}regard fixe?[FFFD][35FF][F500]Pourquoi ce regard noir? Cela ne{SAUT}me plaît point...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0061",
     "en": "What art thou looking at!? Hast thou{SAUT}no manners, villain!?[FFFD][36FF][F500]   Thou art fascinated by me, art thou not?{SAUT}I sympathize, but...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Que regardes-tu là!? N'as-tu nulle{SAUT}manière, vilain!?[FFFD][36FF][F500]Je te fascine, n'est-ce pas?{SAUT}Je compatis, mais...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0062",
     "en": "  What ails thee? Am I the first{SAUT}beautiful maiden thou hast lain eyes{SAUT}upon?[FFFD][37FF][F500]What thou sayest is rational...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Qu'as-tu donc? Suis-je la première{SAUT}belle demoiselle sur qui tu poses{SAUT}les yeux?[FFFD][37FF][F500]Ce que tu dis est sensé...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0063",
@@ -327,27 +327,27 @@
   {
     "id": "KOSIKI.BIN:text:0065",
     "en": " What meanest thou? Dost thou desire my{SAUT}power?[FFFD][3AFF][F500]Thou art irrational to put stock in{SAUT}such childish notions.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Qu'entends-tu par là? Désires-tu{SAUT}mon pouvoir?[FFFD][3AFF][F500]Tu es déraisonnable d'accorder foi{SAUT}à d'aussi puériles notions.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0066",
     "en": " Thou thinkest me no different than such{SAUT}fiends!?[FFFD][3BFF][F500] O, what terror... P-Please, no more...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Me crois-tu semblable à pareils{SAUT}monstres!?[FFFD][3BFF][F500]Ô, quelle terreur... D-De grâce, assez...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0067",
     "en": " They sayeth, \"Speak of the devil...\"{SAUT}What canst thou hope to accomplish with{SAUT}such foul creatures abound?[FFFD][3CFF][F500] Tales of my comrades inspire far{SAUT}greater terror! For after all, they are{SAUT}real!(*RESPONSE*)",
-    "fr": ""
+    "fr": " On dit : « quand on parle du loup... »{SAUT}Qu'espères-tu accomplir avec pareilles{SAUT}créatures alentour?[FFFD][3CFF][F500]Les récits de mes semblables inspirent{SAUT}bien plus de terreur! Car après tout,{SAUT}ils sont vrais!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0068",
     "en": " Thou seemest quite learned in this{SAUT}subject. Wilst thou not exchange more{SAUT}harrowing tales with me on the morrow?[FFFD][3DFF][F500]  A fine voice indeed... Thou art skilled,{SAUT}young lady.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tu sembles fort savant en la matière.{SAUT}N'échangerais-tu pas demain d'autres{SAUT}récits effroyables avec moi?[FFFD][3DFF][F500]Belle voix, en vérité... Tu es{SAUT}habile, jeune dame.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0069",
     "en": "   I must confess, I, too, am skilled in{SAUT}the art of song. What sayest thou to{SAUT}a duet with me?[FFFD][3EFF][F500]   A fine voice indeed... But let us change{SAUT}the tune... I would have thy screams!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Je dois l'avouer, je suis versée moi{SAUT}aussi dans l'art du chant. Que dis-tu{SAUT}d'un duo avec moi?[FFFD][3EFF][F500]Belle voix, en vérité... Mais changeons{SAUT}d'air... Je veux tes cris!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0070",
@@ -357,22 +357,22 @@
   {
     "id": "KOSIKI.BIN:text:0071",
     "en": "  Hmmm...[FFFD][40FF][F500]  Hahaha, what is this? It is rather{SAUT}delightful!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hmmm...[FFFD][40FF][F500]Hahaha, qu'est-ce là? Voilà qui est{SAUT}fort délicieux!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0072",
     "en": " Hahaha, do I truly look so young? 'Tis{SAUT}not unappreciated...[FFFD][41FF][F500]  Thou art envious of my beauty! Women{SAUT}can be base and sinful creatures.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hahaha, ai-je vraiment l'air si jeune?{SAUT}Voilà qui n'est pas pour me déplaire...[FFFD][41FF][F500]Tu envies ma beauté! Les femmes savent{SAUT}être viles et pécheresses.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0073",
     "en": " Insolent rogue! Thou art not of standing{SAUT}to speak to me in such a fashion![FFFD][42FF][F500]   I am reminded of days long past...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Insolent! Tu n'as pas le rang de me{SAUT}parler de la sorte![FFFD][42FF][F500]Cela me rappelle des jours anciens...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0074",
     "en": " Hahaha, how amusing![FFFD][43FF][F500] What thou sayest is rational...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hahaha, fort amusant![FFFD][43FF][F500]Ce que tu dis est sensé...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0075",
@@ -397,12 +397,12 @@
   {
     "id": "KOSIKI.BIN:text:0079",
     "en": " Insolent rogue! Thou art not of standing{SAUT}to speak to me in such a fashion![FFFD][48FF][F500]   That is... too cruel. O, woe...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Insolent! Tu n'as pas le rang de me{SAUT}parler de la sorte![FFFD][48FF][F500]Voilà qui est... trop cruel. Ô, malheur...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0080",
     "en": "Wh-What!? Never have I been subjected{SAUT}to an act of such cruelty...[FFFD][49FF][F500]   Thou art quite eccentric. I, however,{SAUT}am offended not.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Q-Quoi!? Jamais je n'ai subi un acte{SAUT}d'une telle cruauté...[FFFD][49FF][F500]Tu es fort excentrique. Je n'en suis{SAUT}pourtant point offensée.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0081",
@@ -412,27 +412,27 @@
   {
     "id": "KOSIKI.BIN:text:0082",
     "en": "   Churl, thy actions art in haste! The{SAUT}proper procedure cannot be ignored![FFFD][4BFF][F500] Haha, I am betrothed to another.{SAUT}I beg thy forgiveness.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Rustre, tu agis avec trop de hâte!{SAUT}On ne saurait ignorer les usages![FFFD][4BFF][F500]Haha, je suis promise à un autre.{SAUT}Je te prie de me pardonner.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0083",
     "en": "O, the anguish...[FFFD][4CFF][F500]Thou hast seen many a trying time...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ô, quelle angoisse...[FFFD][4CFF][F500]Tu as connu bien des épreuves...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0084",
     "en": "   How pitable. Take heart.[FFFD][4DFF][F500] Hmph. Do not take me for a fool! Thy{SAUT}tears lack the brine of authenticity!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Quelle pitié. Prends courage.[FFFD][4DFF][F500]Hmph. Ne me prends pas pour une sotte!{SAUT}Tes larmes manquent de sel!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0085",
     "en": " Now I see why thou art known as{SAUT}[FFF9], the Weeping Crocodile among we{SAUT}demons.[FFFD][4EFF][F500]Please, banish thy tears. The human{SAUT}world is one of many terrors...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Je vois enfin pourquoi l'on te nomme{SAUT}[FFF9], le Crocodile Pleureur, chez{SAUT}nous autres démons.[FFFD][4EFF][F500]De grâce, chasse tes larmes. Le monde{SAUT}des humains est plein de terreurs...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0086",
     "en": "Thou needst not thy tears...[FFFD][4FFF][F500] Thou hast confidence. A battle with thee{SAUT}would be most enjoyable.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu n'as nul besoin de tes larmes...[FFFD][4FFF][F500]Tu as de l'assurance. Un combat contre{SAUT}toi serait fort plaisant.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0087",
@@ -457,7 +457,7 @@
   {
     "id": "KOSIKI.BIN:text:0091",
     "en": "This is much too cruel! Tell me, how{SAUT}have I offended thee?[FFFD][54FF][F500]   Please, show mercy...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Voilà qui est par trop cruel! Dis-moi,{SAUT}en quoi t'ai-je offensé?[FFFD][54FF][F500]De grâce, sois clément...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0092",
@@ -487,7 +487,7 @@
   {
     "id": "KOSIKI.BIN:text:0097",
     "en": "This is much too cruel! Tell me, how{SAUT}have I offended thee?[FFFD][5AFF][F500]   Haha... Thou art a confident woman.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Voilà qui est par trop cruel! Dis-moi,{SAUT}en quoi t'ai-je offensé?[FFFD][5AFF][F500]Haha... Te voilà bien sûre de toi.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0098",
