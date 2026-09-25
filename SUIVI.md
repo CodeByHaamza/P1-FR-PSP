@@ -6,9 +6,9 @@
 Dialogues      ██████████████░░░░░░░░░░   57 %    4 918 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
-Négociations   █████████░░░░░░░░░░░░░░░   39 %    4 929 / 12 487 textes
+Négociations   ██████████░░░░░░░░░░░░░░   41 %    5 116 / 12 487 textes
 
-Total          █████████████░░░░░░░░░░░   54 %   12 933 / 24 145 textes
+Total          █████████████░░░░░░░░░░░   54 %   13 120 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -422,8 +422,8 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`YOUEN_002.json`](trad/negociations/YOUEN_002.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#74) |
 | [`YOUEN_003.json`](trad/negociations/YOUEN_003.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#75) |
 | [`YOUEN_004.json`](trad/negociations/YOUEN_004.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#72) |
-| [`YOUEN_005.json`](trad/negociations/YOUEN_005.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#71) |
-| [`YOUEN_006.json`](trad/negociations/YOUEN_006.json) | 87 | 0 | 0 % | en cours par @ATMC14 (#70) |
+| [`YOUEN_005.json`](trad/negociations/YOUEN_005.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`YOUEN_006.json`](trad/negociations/YOUEN_006.json) | 87 | 87 | 100 % | terminé par @ATMC14 |
 | [`ZMBITYAN_001.json`](trad/negociations/ZMBITYAN_001.json) | 100 | 100 | 100 % | terminé |
 | [`ZMBITYAN_002.json`](trad/negociations/ZMBITYAN_002.json) | 100 | 100 | 100 % | terminé |
 | [`ZMBITYAN_003.json`](trad/negociations/ZMBITYAN_003.json) | 22 | 22 | 100 % | terminé |
