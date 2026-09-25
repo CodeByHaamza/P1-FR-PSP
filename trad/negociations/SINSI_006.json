@@ -99,7 +99,7 @@
   {
     "id": "SINSI.BIN:resp:0056",
     "en": "I understand!(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Je comprends!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -110,7 +110,7 @@
   {
     "id": "SINSI.BIN:resp:0059",
     "en": "Thank goodness...(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Heureusement...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0060",
