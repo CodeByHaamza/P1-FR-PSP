@@ -402,9 +402,9 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`YAKUZA_001.json`](trad/negociations/YAKUZA_001.json) | 100 | 100 | 100 % | terminé · 1 trop large |
 | [`YAKUZA_002.json`](trad/negociations/YAKUZA_002.json) | 100 | 100 | 100 % | terminé · 6 trop large |
 | [`YAKUZA_003.json`](trad/negociations/YAKUZA_003.json) | 59 | 59 | 100 % | terminé |
-| [`YOUEN_001.json`](trad/negociations/YOUEN_001.json) | 100 | 0 | 0 % | libre |
-| [`YOUEN_002.json`](trad/negociations/YOUEN_002.json) | 100 | 0 | 0 % | libre |
-| [`YOUEN_003.json`](trad/negociations/YOUEN_003.json) | 100 | 0 | 0 % | libre |
+| [`YOUEN_001.json`](trad/negociations/YOUEN_001.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#73) |
+| [`YOUEN_002.json`](trad/negociations/YOUEN_002.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#74) |
+| [`YOUEN_003.json`](trad/negociations/YOUEN_003.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#75) |
 | [`YOUEN_004.json`](trad/negociations/YOUEN_004.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#72) |
 | [`YOUEN_005.json`](trad/negociations/YOUEN_005.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#71) |
 | [`YOUEN_006.json`](trad/negociations/YOUEN_006.json) | 87 | 0 | 0 % | en cours par @ATMC14 (#70) |
