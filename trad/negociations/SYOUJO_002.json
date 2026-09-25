@@ -2,547 +2,547 @@
   {
     "id": "SYOUJO.BIN:text:0104",
     "en": "[FFF3] has been a bad girl...{SAUT}Scold me more![FFFD][55FF][F500]  Huh, you're pretty confident. I'll be{SAUT}impressed if you can keep that up until{SAUT}the end.(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFF3]a été vilaine...{SAUT}Gronde-moi encore![FFFD][55FF][F500]Oh, t'as de l'assurance. Je serai{SAUT}impressionnée si tu tiens ça{SAUT}jusqu'au bout.(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0105",
     "en": " Huh? Don't you have some business with{SAUT}me, miss?[FFFD][56FF][F500] You've got so much confidence, miss!{SAUT}It's totally pissing me off!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hein? T'avais pas un truc à me{SAUT}demander, miss?[FFFD][56FF][F500]T'as tellement d'assurance, miss!{SAUT}Ça me fout carrément en rogne!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0106",
     "en": "  So you're gonna ignore me, huh? Hmph!{SAUT}How dare you make fun of me like that!?[FFFD][57FF][F500]Did I do something...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Alors tu vas m'ignorer, hein? Hmpf!{SAUT}Comment oses-tu te moquer de moi ainsi!?[FFFD][57FF][F500]J'ai fait quelque chose...?(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0107",
     "en": " Um... Didn't you need something from me?[FFFD][58FF][F500] Huh, you're pretty confident. I'll be{SAUT}impressed if you can keep that up until{SAUT}the end.(*RESPONSE*)",
-    "fr": "",
+    "fr": " Euh... Tu n'avais pas besoin de quelque chose de ma part?[FFFD][58FF][F500]Oh, t'as de l'assurance. Je serai{SAUT}impressionnée si tu tiens ça{SAUT}jusqu'au bout.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0108",
     "en": " Huh? Don't you have some business with{SAUT}me, mister?[FFFD][59FF][F500]   You've got so much confidence, mister!{SAUT}It's totally pissing me off!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hein? T'avais pas un truc à me{SAUT}demander, monsieur?[FFFD][59FF][F500]T'as tellement d'assurance, monsieur!{SAUT}Ça me fout carrément en rogne!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0109",
     "en": "So you're gonna ignore me, huh? Hmph!{SAUT}How dare you make fun of me like that!?[FFFD][5AFF][F500]Did I do something...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Alors tu vas m'ignorer, hein? Hmpf!{SAUT}Comment oses-tu te moquer de moi ainsi!?[FFFD][5AFF][F500]J'ai fait quelque chose...?(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0110",
     "en": " Um... Didn't you need something from me?[FFFD][5BFF][F500] You're confident, aren't ya mister?{SAUT}But I bet you're all talk!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Euh... Tu n'avais pas besoin de quelque chose de ma part?[FFFD][5BFF][F500]T'as confiance en toi, monsieur?{SAUT}Mais je parie que c'est du vent!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0111",
     "en": " You seem strong, mister! So, what are{SAUT}your plans for me?[FFFD][5CFF][F500] See if I play with you anymore!(*RESPONSE*)",
-    "fr": ""
+    "fr": " T'as l'air fort, monsieur! Alors,{SAUT}tu comptes faire quoi de moi?[FFFD][5CFF][F500]Je joue plus avec toi, tiens!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0112",
     "en": "You're a smooth talker, mister![FFFD][5DFF][F500]  What's so fun about surprising a{SAUT}demon like me...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu es un beau parleur, monsieur![FFFD][5DFF][F500]C'est si drôle de surprendre{SAUT}un démon comme moi...?(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0113",
     "en": " I'm scared...[FFFD][5EFF][F500]Wh-What the!? Oh, you make me so{SAUT}angry! Screw you!(*RESPONSE*)",
-    "fr": ""
+    "fr": " J'ai peur...[FFFD][5EFF][F500]Q-Quoi!? Oh, tu m'énerves{SAUT}tellement! Va te faire voir!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0114",
     "en": " What was that for!? Are you stupid or{SAUT}something!?[FFFD][5FFF][F500]Yikes! Seriously, what was that for?{SAUT}You're like, sorta out there, mister.(*RESPONSE*)",
-    "fr": ""
+    "fr": " C'était pour quoi!? T'es bête{SAUT}ou quoi!?[FFFD][5FFF][F500]Beurk! Sérieux, c'était pour quoi?{SAUT}T'es genre un peu allumé, monsieur.(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0115",
     "en": " Are you okay, mister? It's dangerous{SAUT}if you're gonna get that hyper...{SAUT}Calm down a little, okay?[FFFD][60FF][F500] You're weird, mister! But you seem cool,{SAUT}so I don't mind!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Ça va, monsieur? C'est dangereux{SAUT}de t'exciter comme ça...{SAUT}Calme-toi un peu, ok?[FFFD][60FF][F500]Tu es bizarre, monsieur! Mais tu parais sympa,{SAUT}alors ça m'est égal!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0116",
     "en": "  You're crazy! I like dangerous{SAUT}people![FFFD][61FF][F500]   You'd go as far as pulling out magic{SAUT}tricks to get me to play with you?{SAUT}You're such a kid, mister!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  T'es fou! J'aime les gens{SAUT}dangereux![FFFD][61FF][F500]Tu vas jusqu'à sortir des tours de{SAUT}magie pour que je joue avec toi?{SAUT}Quel gamin, monsieur!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0117",
     "en": " Wowwies! So you're a sorcerer![FFFD][62FF][F500]   Huh? Humans can cast spells now?(*RESPONSE*)",
-    "fr": ""
+    "fr": " Ouahou! Alors t'es un sorcier![FFFD][62FF][F500]Hein? Les humains lancent des sorts?(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0118",
     "en": "   Don't try anything funny, like making{SAUT}me disappear, okay...?[FFFD][63FF][F500] Magic tricks, huh...?{SAUT}You're so refined, mister!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Fais pas de bêtise, genre me faire{SAUT}disparaître, d'accord...?[FFFD][63FF][F500]Des tours de magie, hein...?{SAUT}T'es si raffiné, monsieur!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0119",
     "en": "   Hey, Mr. Handsome! Use your magic to{SAUT}conjure me up some new clothes![FFFD][64FF][F500] Hmm... Human stories are interesting!{SAUT}I love listening to them.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hé, beau gosse! Sers-toi de ta magie{SAUT}pour me faire des habits neufs![FFFD][64FF][F500]Hmm... Les histoires d'humains sont{SAUT}intéressantes! J'adore en entendre.(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0120",
     "en": "Why're you being so serious...? Huh...{SAUT}Do you think I'm that charming?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Pourquoi t'es si sérieux...? Oh...{SAUT}Tu me trouves si charmante?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0121",
     "en": " I don't mind listening to your story,{SAUT}but you know, it'd be nice if my wallet{SAUT}was heavier...[FFF1](*RESPONSE*)",
-    "fr": "",
+    "fr": " Je veux bien écouter ton histoire,{SAUT}mais tu sais, ce serait bien que mon{SAUT}porte-monnaie soit plus lourd...[FFF1](*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0122",
     "en": "  That's the worst story I've ever heard!{SAUT}So stupid!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  C'est la pire histoire que j'aie{SAUT}entendue! Trop bête!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0123",
     "en": " It's no use going on and on about stupid{SAUT}stuff like that to me!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Ça sert à rien de me rabâcher des{SAUT}bêtises pareilles!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0124",
     "en": "Your story's boring, you know! But if{SAUT}you gave me something, maybe I'd be in{SAUT}a good mood again...[FFF1](*RESPONSE*)",
-    "fr": "",
+    "fr": "Ton histoire est ennuyeuse, tu sais!{SAUT}Mais si tu me donnais un truc, je{SAUT}serais peut-être de meilleure humeur...[FFF1](*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0125",
     "en": " Y-Ya know, That glare you have when you{SAUT}talk to me is scary...(*RESPONSE*)",
-    "fr": ""
+    "fr": " T-Tu sais, il fait peur, ton regard{SAUT}quand tu me parles...(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0126",
     "en": " I don't care about stories like that...{SAUT}Seriously, I just wanna go home...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Je me fiche de ces histoires...{SAUT}Sérieux, je veux juste rentrer...(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0127",
     "en": " Hahaha! It's been a long time since{SAUT}I heard such a fun story!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hahaha! Ça faisait longtemps que je{SAUT}n'avais pas ri comme ça!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0128",
     "en": "  The way you talk is so cute!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Ta façon de parler est trop mignonne!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0129",
     "en": "   This is so fun... I could keep chatting{SAUT}like this forever...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   C'est trop bien... Je papoterais{SAUT}comme ça pour toujours...(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0130",
     "en": "   Hmm... You actually have a keen eye for{SAUT}demons... I have some pretty high{SAUT}expectations for you!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hmm... T'as vraiment l'oeil pour les{SAUT}démons... J'attends de grandes{SAUT}choses de toi!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0131",
     "en": "C'mon! Just negotiate, no frills!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Allez! Négocie, sans chichis!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0132",
     "en": "  I totally understand what you want to{SAUT}say! So you should listen to me, too!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Je comprends très bien ce que tu veux{SAUT}dire! Alors écoute-moi aussi!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0133",
     "en": "Who do you think I am? I'm {SAUT}[FFF3] of the [FFF0]!{SAUT}I'm not lending my powers to a human!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu me prends pour qui? Je suis {SAUT}[FFF3]de la[FFF0]!{SAUT}Je prête pas mes pouvoirs à un humain!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0134",
     "en": "  Are you stupid or something!? Why ask{SAUT}for help from someone who doesn't deal{SAUT}with slimy humans!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  T'es bête ou quoi!? Pourquoi demander{SAUT}de l'aide à quelqu'un qui traite pas{SAUT}avec les humains visqueux!?(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0135",
     "en": "   Aren't you a human!? Then we have nothing{SAUT}more to talk about!{ATTENTE}",
-    "fr": "",
+    "fr": "   T'es pas un humain!? Alors on n'a plus{SAUT}rien à se dire!{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0136",
     "en": "{PAGE}Though I might change my tune if you{SAUT}coughed up a little...[FFF1](*RESPONSE*)",
-    "fr": "",
+    "fr": "{PAGE}Quoique je changerais d'avis si tu{SAUT}crachais un peu...[FFF1](*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0137",
     "en": "That's what you say now, but you're gonna{SAUT}trick me, huh? Humans are scary...(*RESPONSE*)",
-    "fr": "",
+    "fr": "Tu dis ça, mais tu vas me berner,{SAUT}hein? Les humains font peur...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0138",
     "en": "   I don't feel like listening to requests{SAUT}from humans. I really want to just get{SAUT}out of here...(*RESPONSE*)",
-    "fr": "",
+    "fr": "   J'ai pas envie d'écouter les demandes{SAUT}des humains. Je veux juste partir{SAUT}d'ici...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0139",
     "en": "  I hate humans... So stay away from me!{SAUT}If you don't, I'll cry...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Je déteste les humains... Reste loin{SAUT}de moi! Sinon je pleure...(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0140",
     "en": "   Huh? You actually want me? Wow, this is{SAUT}so great!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hein? Tu me veux vraiment? Ouah,{SAUT}c'est trop bien!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0141",
     "en": "  Does that mean you want me? Ooh, keep{SAUT}saying stuff like that!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Ça veut dire que tu me veux? Ooh,{SAUT}continue de dire des trucs comme ça!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0142",
     "en": "  Hahaha! My charms drive humans mad, too.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hahaha! Mes charmes rendent fous!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0143",
     "en": "   Aren't you doing that on purpose? Well,{SAUT}I get it, already, so hurry up and get{SAUT}to the point.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Tu le fais pas exprès, des fois? Bon,{SAUT}j'ai compris, alors dépêche-toi{SAUT}d'en venir au fait.(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0144",
     "en": "   I'm kind of interested in people who{SAUT}aren't quite normal...(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Les gens pas tout à fait normaux{SAUT}m'intéressent plutôt...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0145",
     "en": "If you want to get to know me, there's a{SAUT}better way to do it than with those tired{SAUT}negotiation skills![FFF1](*RESPONSE*)",
-    "fr": "",
+    "fr": "Si tu veux me connaître, y a mieux{SAUT}que ces techniques de négociation{SAUT}éculées![FFF1](*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0146",
     "en": "Did you just make fun of me? I hope you{SAUT}have a will prepared!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Tu viens de te moquer de moi? J'espère{SAUT}que ton testament est prêt!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0147",
     "en": "  I see no reason to hold back when I have{SAUT}to deal with annoying humans like you!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Aucune raison de me retenir face à des{SAUT}humains agaçants comme toi!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0148",
     "en": "I'm so incredibly annoyed! I won't forgive{SAUT}you unless you give me something![FFF1](*RESPONSE*)",
-    "fr": "",
+    "fr": "Je suis incroyablement agacée! Je te{SAUT}pardonne pas sans un cadeau![FFF1](*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0149",
     "en": "  You're so cruel, taunting a cute{SAUT}demon like me...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  T'es cruel, de railler un démon{SAUT}aussi mignon que moi...(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0150",
     "en": "  What's wrong with you? Stop making fun{SAUT}of me... ＊sniff＊(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Qu'est-ce qui va pas chez toi? Arrête{SAUT}de te moquer... ＊renifle＊(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0151",
     "en": "I'm just a cute girl...＊sniff＊ ＊sniff＊(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je suis qu'une gentille fille...＊renifle＊(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0152",
     "en": " I love a thrilling negotiation!(*RESPONSE*)",
-    "fr": ""
+    "fr": " J'adore une négociation palpitante!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0153",
     "en": "You annoy me, but you're just a kid,{SAUT}so I'll forgive you!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu m'agaces, mais t'es qu'un gamin,{SAUT}alors je te pardonne!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0154",
     "en": "  Ahahaha! You're just jealous because{SAUT}I'm cute, huh?{ATTENTE}",
-    "fr": ""
+    "fr": "  Ahahaha! T'es jaloux parce que je{SAUT}suis mignonne, hein?{ATTENTE}"
   },
   {
     "id": "SYOUJO.BIN:text:0155",
     "en": "{PAGE}Well, all right, I'll play with you!{SAUT}Just give me something first![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Bon, d'accord, je joue avec toi!{SAUT}Donne-moi juste un truc d'abord![FFF1](*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0156",
     "en": "   Oh, are you an entertainer? Well,{SAUT}good luck to you!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Oh, t'es comédien? Eh bien,{SAUT}bonne chance à toi!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0157",
     "en": "Sorry, but not quite! You weren't bad,{SAUT}though, so please try again sometime!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Désolée, mais pas tout à fait! C'était{SAUT}pas mal, alors réessaie une autre fois!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0158",
     "en": "   Hmm... that wasn't so great, so I'll give{SAUT}you some advice! But you'll have to pay{SAUT}up first![FFF1](*RESPONSE*)",
-    "fr": "",
+    "fr": "   Hmm... c'était pas terrible, je vais{SAUT}te conseiller! Mais il faudra{SAUT}payer d'abord![FFF1](*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0159",
     "en": "   Boooooriiiing...!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Ennuuuuyeuuux...!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0160",
     "en": "  Bleeeeah! Go home already!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Beuuuurk! Rentre chez toi!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0161",
     "en": " You expect to make some cash with{SAUT}something like that? Forget it! I'm the{SAUT}one who'll be taking money from you![FFF1](*RESPONSE*)",
-    "fr": "",
+    "fr": " Tu comptes gagner de l'argent avec un{SAUT}truc pareil? Laisse tomber! C'est moi{SAUT}qui vais te prendre ton fric![FFF1](*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0162",
     "en": "Wh-What in the world...? I don't get{SAUT}it at all...(*RESPONSE*)",
-    "fr": "",
+    "fr": "Q-Qu'est-ce que...? Je comprends{SAUT}rien du tout...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0163",
     "en": "  Was that a ritual or something...?{SAUT}Are you some kinda cultist...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  C'était un rituel ou quoi...?{SAUT}T'es un adepte de secte...?(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0164",
     "en": "  Hahaha! Man, you're funny. I could{SAUT}watch you all day!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hahaha! T'es drôle, toi. Je pourrais{SAUT}te regarder toute la journée!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0165",
     "en": "  I wish I could do some kind of trick,{SAUT}too... Maybe I should take up a hobby.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  J'aimerais savoir faire un tour, moi{SAUT}aussi... Je devrais me trouver un loisir.(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0166",
     "en": "   ＊whistle＊ Show me more!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   ＊siffle＊ Montre-m'en plus!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0167",
     "en": "So you want me? Maybe I'll let myself{SAUT}fall for it! Hehehe!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Alors tu me veux? Je vais peut-être{SAUT}me laisser tenter! Héhéhé!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0168",
     "en": " Haha! I'm actually much older than{SAUT}I look. Are you okay with that?(*RESPONSE*)",
-    "fr": ""
+    "fr": " Haha! Je suis bien plus vieille que{SAUT}j'en ai l'air. Ça te va?(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0169",
     "en": " Hmm... I'll think about it, sure...{SAUT}But you gotta show some generosity![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": " Hmm... Je vais y réfléchir, oui...{SAUT}Mais montre-toi généreux![FFF1](*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0170",
     "en": "   Are you making fun of me?(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Tu te moques de moi?(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "SYOUJO.BIN:text:0171",
     "en": "  I can't betray my friends for that!{SAUT}Do I LOOK that stupid to you?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Je peux pas trahir mes amis pour ça!{SAUT}J'ai l'air si BÊTE que ça?(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0172",
     "en": "  One yell from me and loads of my friends{SAUT}will show up. You wouldn't want that to{SAUT}happen, right?{ATTENTE}",
-    "fr": ""
+    "fr": "  Un seul cri de moi et des tas de{SAUT}copains débarquent. Tu voudrais pas{SAUT}que ça arrive, hein?{ATTENTE}"
   },
   {
     "id": "SYOUJO.BIN:text:0173",
     "en": "{PAGE}If not, then give me something![FFF1](*RESPONSE*)",
-    "fr": "",
+    "fr": "{PAGE}Sinon, donne-moi un truc![FFF1](*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0174",
     "en": "  Uh-oh! I-I was wrong...(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Oh-oh! J-J'ai eu tort...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0175",
     "en": "Uh-oh! I-I was wrong...(*RESPONSE*)",
-    "fr": "",
+    "fr": "Oh-oh! J-J'ai eu tort...(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "SYOUJO.BIN:text:0177",
     "en": "Oh no... I think I'm falling for it...(*RESPONSE*)",
-    "fr": "",
+    "fr": "Oh non... Je crois que je craque...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0178",
     "en": " That's a pretty old trick for seducing{SAUT}people! But that makes it an antique...{SAUT}So it might be a good thing!(*RESPONSE*)",
-    "fr": "",
+    "fr": " C'est une vieille technique de drague!{SAUT}Mais du coup c'est un antiquité...{SAUT}Alors c'est peut-être bien!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0179",
     "en": "Hahahaha...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hahahaha...(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0180",
     "en": "Huh... Do you do stuff like that because{SAUT}you're so weak?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh... Tu fais des trucs pareils parce{SAUT}que t'es trop faible?(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0181",
     "en": "   Tooooo bad! I can see right through{SAUT}your schemes!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Dommaaage! Je vois clair dans{SAUT}ton jeu!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0182",
     "en": "  Maybe in 100 years you'll be worthy{SAUT}to look at my feet.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Dans 100 ans tu seras peut-être digne{SAUT}de regarder mes pieds.(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0183",
     "en": "Ugh, you're annoying the crap out of me!{SAUT}Will you stop it!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pff, tu commences à me faire chier!{SAUT}Tu vas arrêter!?(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0184",
     "en": "If you want to be my slave, do as I say![FFF1](*RESPONSE*)",
-    "fr": "",
+    "fr": "Si tu veux être mon esclave, obéis![FFF1](*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0185",
     "en": "  Something seems kinda off...{SAUT}You're suspicious...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Y a un truc qui cloche...{SAUT}T'es louche...(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0186",
     "en": "  Are you scheming something? If you are,{SAUT}just come out and tell me...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Tu manigances un truc? Si oui,{SAUT}dis-le franchement...(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0187",
     "en": "   Hahaha! Maybe I should make you my{SAUT}bodyguard!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hahaha! Je devrais peut-être te{SAUT}prendre comme garde du corps!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0188",
     "en": "  If you don't say, \"forgive me, mistress,\"{SAUT}I'll shred you to pieces!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Si tu dis pas \"pardon, maîtresse\",{SAUT}je te mets en pièces!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0189",
     "en": "My name seems to be famous in the human{SAUT}world, too! Hee hee... That's so great!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Mon nom est célèbre dans le monde des{SAUT}humains aussi! Hihi... C'est génial!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0190",
     "en": "Huh? You already have my card! You better{SAUT}take good care of it, okay!?(*OPTION*)",
-    "fr": "",
+    "fr": "Hein? Tu as déjà ma carte! T'as{SAUT}intérêt à en prendre soin, hein!?(*OPTION*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0191",
     "en": " Then I'll give you this!(*OPTION*)",
-    "fr": "",
+    "fr": " Alors je te donne ça!(*OPTION*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0192",
     "en": "   Huh? Is that so?(*OPTION*)",
-    "fr": "",
+    "fr": "   Hein? Ah bon?(*OPTION*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0193",
     "en": "   Sorry, it seems like our tastes are{SAUT}too different.(*OPTION*)",
-    "fr": "",
+    "fr": "   Désolée, on dirait que nos goûts sont{SAUT}trop différents.(*OPTION*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0194",
     "en": " Aren't you a little too cocky for how{SAUT}weak you are? I'm not giving you my card!(*RESPONSE*)",
-    "fr": "",
+    "fr": " T'es pas un peu trop culotté pour un{SAUT}faible? Je te donne pas ma carte!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0195",
     "en": "Then I'll give you this.(*OPTION*)",
-    "fr": "",
+    "fr": "Alors j'te donne ça.(*OPTION*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0196",
     "en": "   Well, bye-bye!(*OPTION*)",
-    "fr": "",
+    "fr": "   Bon, bye-bye!(*OPTION*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0197",
     "en": " Here's something extra on top!(*OPTION*)",
-    "fr": "",
+    "fr": " Et un petit extra en plus!(*OPTION*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0198",
     "en": " I'm gonna get going now!(*OPTION*)",
-    "fr": "",
+    "fr": " Je m'en vais maintenant!(*OPTION*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0199",
     "en": "   I'll curse you if you fuse me with{SAUT}some weirdo demon!(*OPTION*)",
-    "fr": ""
+    "fr": "   Je te maudis si tu me fusionnes avec{SAUT}un démon bizarre!(*OPTION*)"
   },
   {
     "id": "SYOUJO.BIN:text:0200",
     "en": "  I'll give you this... so please, spare{SAUT}my life!(*OPTION*)",
-    "fr": "",
+    "fr": "  Je te donne ça... alors pitié,{SAUT}épargne-moi!(*OPTION*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0201",
     "en": "Ugh, I've had enough! I'm leaving!(*OPTION*)",
-    "fr": "",
+    "fr": "Pff, j'en ai assez! Je m'en vais!(*OPTION*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0202",
     "en": " I'll give you this if you go home like{SAUT}a good human.(*OPTION*)",
-    "fr": "",
+    "fr": " Je te donne ça si tu rentres{SAUT}gentiment chez toi.(*OPTION*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0203",
     "en": "   Sheesh! Humans have made me so angry{SAUT}lately! Honestly... I feel like a total{SAUT}idiot for negotiating with you!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Pff! Les humains m'énervent tellement{SAUT}ces temps-ci! Franchement... je me sens{SAUT}bête d'avoir négocié avec toi!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SYOUJO.BIN:text:0204",
     "en": "   I just don't even care anymore! You want{SAUT}my spell card? Fine! It's yours!(*OPTION*)",
-    "fr": "",
+    "fr": "   Je m'en fiche complètement! Tu veux ma{SAUT}carte de sort? Bon! Elle est à toi!(*OPTION*)",
     "_occurrences": 2
   }
 ]
