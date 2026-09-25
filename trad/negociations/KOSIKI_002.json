@@ -87,7 +87,7 @@
   {
     "id": "KOSIKI.BIN:text:0117",
     "en": "   I am not the least bit interested!(*RESPONSE*)",
-    "fr": "   Cela ne m'intéresse pas le moins du monde!(*RESPONSE*)"
+    "fr": "   Cela ne m'intéresse pas du tout!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0118",
@@ -132,7 +132,7 @@
   {
     "id": "KOSIKI.BIN:text:0126",
     "en": "I am wont to concede to thy wishes, but{SAUT}first... Hast thou anything to offer me?[FFF1](*RESPONSE*)",
-    "fr": "Je suis encline à céder à tes voeux,{SAUT}mais d'abord... As-tu quelque chose{SAUT}à m'offrir?[FFF1](*RESPONSE*)"
+    "fr": "Je céderais bien à tes voeux, mais{SAUT}d'abord... as-tu un présent pour moi?[FFF1](*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0127",
@@ -232,7 +232,7 @@
   {
     "id": "KOSIKI.BIN:text:0146",
     "en": "How uncouth... Woe is me, thou hast{SAUT}roused my ＊hic＊ chronic ＊hic＊ hiccups...(*RESPONSE*)",
-    "fr": "Quelle grossièreté... Malheur, tu as{SAUT}réveillé mon ＊hic＊ hoquet ＊hic＊ chronique...(*RESPONSE*)"
+    "fr": "Quelle grossièreté... Tu as réveillé{SAUT}mon ＊hic＊ hoquet ＊hic＊ chronique...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0147",
@@ -407,7 +407,7 @@
   {
     "id": "KOSIKI.BIN:text:0181",
     "en": " Hahaha! Humans are but slaves of demons!(*RESPONSE*)",
-    "fr": " Hahaha! Les humains ne sont que{SAUT}les esclaves des démons!(*RESPONSE*)"
+    "fr": " Hahaha! L'humain est l'esclave du démon!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0182",
@@ -497,6 +497,6 @@
   {
     "id": "KOSIKI.BIN:text:0199",
     "en": " There art no bonds stronger than fate...{SAUT}Thou shalt be my master evermore...(*RESPONSE*)",
-    "fr": " Nul lien n'est plus fort que le{SAUT}destin... Tu seras mon maître à{SAUT}jamais...(*RESPONSE*)"
+    "fr": " Nul lien n'est plus fort que le sort...{SAUT}Tu seras mon maître à jamais...(*RESPONSE*)"
   }
 ]

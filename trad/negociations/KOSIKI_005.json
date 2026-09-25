@@ -12,7 +12,7 @@
   {
     "id": "KOSIKI.BIN:text:0451",
     "en": " Children these days know naught of{SAUT}manners!(*RESPONSE*)",
-    "fr": " Les enfants d'aujourd'hui ne savent{SAUT}rien des belles manières!(*RESPONSE*)"
+    "fr": " Ces enfants n'ont point de{SAUT}manières!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0452",
@@ -33,7 +33,7 @@
   {
     "id": "KOSIKI.BIN:text:0466",
     "en": "   Children these days know naught of{SAUT}manners!(*RESPONSE*)",
-    "fr": "   Les enfants d'aujourd'hui ne savent{SAUT}rien des belles manières!(*RESPONSE*)",
+    "fr": "   Ces enfants n'ont point de{SAUT}manières!(*RESPONSE*)",
     "_occurrences": 3
   },
   {
@@ -166,7 +166,7 @@
   {
     "id": "KOSIKI.BIN:text:0519",
     "en": "  Ask me why I do not anger!(*RESPONSE*)",
-    "fr": "  Demande-moi pourquoi je ne m'emporte pas!(*RESPONSE*)"
+    "fr": "  Demande pourquoi je ne m'emporte pas!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0520",
@@ -215,7 +215,7 @@
   {
     "id": "KOSIKI.BIN:text:0528",
     "en": "Ask me why I do not anger!(*RESPONSE*)",
-    "fr": "Demande-moi pourquoi je ne m'emporte pas!(*RESPONSE*)"
+    "fr": "Demande pourquoi je ne m'emporte pas!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0532",
@@ -445,76 +445,76 @@
   {
     "id": "KOSIKI.BIN:text:0590",
     "en": "  If thou understandest, begone!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Si tu comprends, va-t'en!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0591",
     "en": " Hahaha... Hast thou a dictionary on{SAUT}hand? Perhaps thou shouldst open it.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hahaha... As-tu un dictionnaire sous{SAUT}la main? Tu devrais l'ouvrir.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0592",
     "en": "   Use a dictionary if thou must know!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Prends un dictionnaire, tiens!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0593",
     "en": "Quite a merry one!(*RESPONSE*)",
-    "fr": ""
+    "fr": "En voilà une joyeuse!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0594",
     "en": " I am a fool to hath believed!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Sotte que j'ai été d'y croire!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0595",
     "en": "  What a harrowing yet sweet sound!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Quel son déchirant et doux!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0596",
     "en": "  Why doth it need be kept secret...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Pourquoi le taire ainsi...?(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0597",
     "en": "Why doth it need be kept secret...?{SAUT}I bid thee tell me.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Pourquoi le taire ainsi...?{SAUT}Je te prie de me le dire.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOSIKI.BIN:resp:0000",
     "en": "I'm not really...(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Pas vraiment...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOSIKI.BIN:resp:0002",
     "en": "It's been hard...(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "C'était dur...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:resp:0010",
     "en": "I'll show you hell.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Tu verras l'enfer.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOSIKI.BIN:resp:0013",
     "en": "I have skills too.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "J'ai du talent.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOSIKI.BIN:resp:0018",
     "en": "I'm not, really...(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Non, pas vraiment.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOSIKI.BIN:resp:0020",
     "en": "I have no reason.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "J'ai pas de raison.(*RESPONSE*)"
   }
 ]
