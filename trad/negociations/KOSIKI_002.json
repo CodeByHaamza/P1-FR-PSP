@@ -2,37 +2,37 @@
   {
     "id": "KOSIKI.BIN:text:0100",
     "en": "Thou heedest me not? Then thou hast{SAUT}underestimated me![FFFD][5DFF][F500]   ...I have committed no wrongs...{SAUT}At least, I do not believe I have...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu ne m'écoutes point? Alors tu{SAUT}m'as sous-estimée![FFFD][5DFF][F500]...Je n'ai commis nul tort...{SAUT}Du moins, je ne le crois pas...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0101",
     "en": "  Pardon me, o wanderer...[FFFD][5EFF][F500] Thou hast confidence in spades... yet{SAUT}I cannot help but wonder how easily it{SAUT}it shaken...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Pardonne-moi, ô voyageur...[FFFD][5EFF][F500]Tu regorges d'assurance... et pourtant{SAUT}je me demande combien il faudrait{SAUT}peu pour l'ébranler...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0102",
     "en": "  What? Hast thou no business with me?[FFFD][5FFF][F500] Thy confidence runneth over... Yet thou{SAUT}hast chosen the wrong opponent!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Quoi? N'as-tu nulle affaire avec moi?[FFFD][5FFF][F500]Ton assurance déborde... Mais tu as{SAUT}choisi le mauvais adversaire!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0103",
     "en": "Thou heedest me not? Then thou hast{SAUT}underestimated me![FFFD][60FF][F500]   ...I have committed no wrongs...{SAUT}At least, I do not believe I have...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu ne m'écoutes point? Alors tu{SAUT}m'as sous-estimée![FFFD][60FF][F500]...Je n'ai commis nul tort...{SAUT}Du moins, je ne le crois pas...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0104",
     "en": "  Pardon me, o wanderer...[FFFD][61FF][F500] Thou hast confidence. A battle with thee{SAUT}would be most enjoyable.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Pardonne-moi, ô voyageur...[FFFD][61FF][F500]Tu as de l'assurance. Un combat contre{SAUT}toi serait fort plaisant.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0105",
     "en": "  Thou art confident in thy strength...{SAUT}What wouldst thou do with me?[FFFD][62FF][F500]  Shall I be thine opponent?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Tu as foi en ta force...{SAUT}Que ferais-tu de moi?[FFFD][62FF][F500]Serai-je ton adversaire?(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0106",
     "en": " Thy tongue weaveth a grand tapestry, but{SAUT}it shalt fall mute if thou hast not the{SAUT}fortitude to back thy words...[FFFD][63FF][F500]  Thou art an extortionist, knave? I have{SAUT}no coin for thee.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Ta langue tisse une belle tapisserie,{SAUT}mais elle se taira si tu n'as la force{SAUT}de soutenir tes paroles...[FFFD][63FF][F500]Tu me rançonnes, manant? Je n'ai{SAUT}pas un sou pour toi.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0107",
@@ -42,12 +42,12 @@
   {
     "id": "KOSIKI.BIN:text:0108",
     "en": "What art thou doing, scoundrel!?[FFFD][65FF][F500] Eeeeek! What madness is this!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Que fais-tu là, gredin!?[FFFD][65FF][F500]Iiiiik! Quelle folie est-ce là!?(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0109",
     "en": " I shall take no action... Calm thy{SAUT}nerves...[FFFD][66FF][F500] Thou art quite eccentric. I, however,{SAUT}am offended not.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Je ne ferai rien... Calme{SAUT}tes nerfs...[FFFD][66FF][F500]Tu es fort excentrique. Je n'en suis{SAUT}pourtant point offensée.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0110",
@@ -357,7 +357,7 @@
   {
     "id": "KOSIKI.BIN:text:0171",
     "en": "  Hahaha...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hahaha...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0172",

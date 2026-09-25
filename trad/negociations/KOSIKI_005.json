@@ -12,7 +12,7 @@
   {
     "id": "KOSIKI.BIN:text:0451",
     "en": " Children these days know naught of{SAUT}manners!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Les enfants d'aujourd'hui ne savent{SAUT}rien des belles manières!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0452",
@@ -33,7 +33,7 @@
   {
     "id": "KOSIKI.BIN:text:0466",
     "en": "   Children these days know naught of{SAUT}manners!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Les enfants d'aujourd'hui ne savent{SAUT}rien des belles manières!(*RESPONSE*)",
     "_occurrences": 3
   },
   {
@@ -64,7 +64,7 @@
   {
     "id": "KOSIKI.BIN:text:0473",
     "en": " All things hath an order. One mustn't{SAUT}be negligent.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Toute chose a son ordre. On ne saurait{SAUT}être négligent.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0474",
@@ -74,7 +74,7 @@
   {
     "id": "KOSIKI.BIN:text:0475",
     "en": "   Thinkest me not a vulgar woman...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Ne me crois pas une femme vulgaire...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0478",
@@ -119,7 +119,7 @@
   {
     "id": "KOSIKI.BIN:text:0486",
     "en": "You speak thusly after thou makest such{SAUT}threats? Thou art a vexing being.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Tu parles ainsi après m'avoir menacée?{SAUT}Tu es un être bien contrariant.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -166,7 +166,7 @@
   {
     "id": "KOSIKI.BIN:text:0519",
     "en": "  Ask me why I do not anger!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Demande-moi pourquoi je ne m'emporte pas!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0520",
@@ -194,7 +194,7 @@
   {
     "id": "KOSIKI.BIN:text:0524",
     "en": " All is well!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tout va bien!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0525",
@@ -204,7 +204,7 @@
   {
     "id": "KOSIKI.BIN:text:0526",
     "en": "  ...Art thou feeling proper?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  ...Te sens-tu bien?(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0527",
@@ -215,27 +215,27 @@
   {
     "id": "KOSIKI.BIN:text:0528",
     "en": "Ask me why I do not anger!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Demande-moi pourquoi je ne m'emporte pas!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0532",
     "en": "  What manner of remark is that, thou{SAUT}irksome human!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Quelle sorte de propos est-ce là,{SAUT}humain importun!?(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0533",
     "en": "All is well!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tout va bien!(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0534",
     "en": "   What manner of remark is that, thou{SAUT}irksome human!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Quelle sorte de propos est-ce là,{SAUT}humain importun!?(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0535",
     "en": "...Art thou feeling proper?(*RESPONSE*)",
-    "fr": ""
+    "fr": "...Te sens-tu bien?(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0546",
@@ -255,7 +255,7 @@
   {
     "id": "KOSIKI.BIN:text:0549",
     "en": " ...I feel relieved.(*RESPONSE*)",
-    "fr": ""
+    "fr": " ...Me voilà soulagée.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0552",

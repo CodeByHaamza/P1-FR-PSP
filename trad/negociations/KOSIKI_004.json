@@ -2,7 +2,7 @@
   {
     "id": "KOSIKI.BIN:text:0310",
     "en": "  Haha, ordinary men cannot comprehend.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Haha, le commun des hommes ne saurait comprendre.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0311",
@@ -19,7 +19,7 @@
   {
     "id": "KOSIKI.BIN:text:0313",
     "en": "Hmph... Is this thy true intention!?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Hmph... Est-ce là ton vrai dessein!?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -40,7 +40,7 @@
   {
     "id": "KOSIKI.BIN:text:0325",
     "en": " Haha, ordinary men cannot comprehend.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Haha, le commun des hommes ne saurait comprendre.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0328",
@@ -60,7 +60,7 @@
   {
     "id": "KOSIKI.BIN:text:0331",
     "en": "   All things hath an order. One mustn't{SAUT}be negligent.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Toute chose a son ordre. On ne saurait{SAUT}être négligent.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0332",
@@ -70,7 +70,7 @@
   {
     "id": "KOSIKI.BIN:text:0333",
     "en": "  Thinkest me not a vulgar woman...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Ne me crois pas une femme vulgaire...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0334",
@@ -207,7 +207,7 @@
   {
     "id": "KOSIKI.BIN:text:0360",
     "en": "  ...I feel relieved.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  ...Me voilà soulagée.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0361",
@@ -269,23 +269,23 @@
   {
     "id": "KOSIKI.BIN:text:0372",
     "en": "That maketh thee rather adorable.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Cela te rend plutôt adorable.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0375",
     "en": "  I trust thee as I trust a sleeping{SAUT}serpent!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Je te fais la confiance qu'on fait{SAUT}à un serpent endormi!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOSIKI.BIN:text:0379",
     "en": "   You speak thusly after thou makest such{SAUT}threats? Thou art a vexing being.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Tu parles ainsi après m'avoir menacée?{SAUT}Tu es un être bien contrariant.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0380",
     "en": "  Ha! Art thou so confident?(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Ha! Es-tu si sûr de toi?(*RESPONSE*)",
     "_occurrences": 4
   },
   {
@@ -380,7 +380,7 @@
   {
     "id": "KOSIKI.BIN:text:0403",
     "en": "  You speak thusly after thou makest such{SAUT}threats? Thou art a vexing being.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Tu parles ainsi après m'avoir menacée?{SAUT}Tu es un être bien contrariant.(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0411",
@@ -495,7 +495,7 @@
   {
     "id": "KOSIKI.BIN:text:0442",
     "en": "  Hmm... Thou art not wanting for{SAUT}confidence...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hmm... L'assurance ne te fait point{SAUT}défaut...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0446",
@@ -505,7 +505,7 @@
   {
     "id": "KOSIKI.BIN:text:0447",
     "en": "Haha, o that I could sing as thou{SAUT}dost...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Haha, si seulement je chantais{SAUT}comme toi...(*RESPONSE*)"
   },
   {
     "id": "KOSIKI.BIN:text:0448",
