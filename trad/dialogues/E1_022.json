@@ -151,7 +151,7 @@
     "locuteur": "Yuriko",
     "en": "And I'm feeling super-duper-generous{SAUT}today, so you can try your luck for free!{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": "Et je suis d'humeur généreuse aujourd'hui,{SAUT}alors vous pouvez tenter votre chance gratuitement!{ATTENTE}"
+    "fr": "Et je suis d'humeur généreuse aujourd'hui,{SAUT}alors je vous laisse tenter votre chance!{ATTENTE}"
   },
   {
     "id": "E1.BIN:098:0022",
@@ -312,14 +312,14 @@
     "locuteur": "Elly",
     "en": "She's even prepared a gift to entice us.{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Elle avait même préparé un cadeau pour nous appâter.{ATTENTE}"
+    "fr": "Un cadeau pour nous appâter, rien que ça.{ATTENTE}"
   },
   {
     "id": "E1.BIN:098:0045",
     "locuteur": "Elly",
     "en": "Everything's been meticulously planned...{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Tout était prévu dans les moindres détails...{ATTENTE}"
+    "fr": "Tout était soigneusement prévu...{ATTENTE}"
   },
   {
     "id": "E1.BIN:098:0046",
@@ -339,7 +339,7 @@
     "locuteur": "Ayase",
     "en": "Yeeeeek! S-Something's coming out of me!{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "Aaaaah! Quelque chose s'échappe hors de moi!{ATTENTE}"
+    "fr": "Aaaaah! Quelque chose s'échappe de moi!{ATTENTE}"
   },
   {
     "id": "E1.BIN:098:0049",
@@ -353,7 +353,7 @@
     "locuteur": "Yuriko",
     "en": "I'm taking your other self as a forfeit!{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": "En guise de gage, je t'enlève ton autre moi!{ATTENTE}"
+    "fr": "En guise de gage, je confisque{SAUT}ton autre moi!{ATTENTE}"
   },
   {
     "id": "E1.BIN:098:0051",
@@ -374,7 +374,7 @@
     "locuteur": "Ayase",
     "en": "Argh... I can't use my Persona anymore!{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "Ahhh... Je ne peux plus utiliser ma Persona!{ATTENTE}"
+    "fr": "Ahhh... Ma Persona a disparu!{ATTENTE}"
   },
   {
     "id": "E1.BIN:098:0054",
@@ -452,7 +452,7 @@
     "locuteur": "Yuriko",
     "en": "Your desperate efforts were the perfect{SAUT}way to celebrate the Eternal Night...{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": "Vos efforts désespérés étaient une{SAUT}manière parfaite d'honorer la Nuit Éternelle...{ATTENTE}"
+    "fr": "Vos efforts désespérés étaient une belle{SAUT}manière d'honorer la Nuit Éternelle...{ATTENTE}"
   },
   {
     "id": "E1.BIN:098:0068",
@@ -473,7 +473,7 @@
     "locuteur": "Yukino",
     "en": "Wh-What!? What's happening!? Oh, don't{SAUT}tell me...{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Q-Quoi!? QU'est-ce qu'il se passe!? Ce{SAUTn'est pas...{ATTENTE}"
+    "fr": "Q-Quoi!? QU'est-ce qu'il se passe!? Ce{SAUT}n'est pas...{ATTENTE}"
   },
   {
     "id": "E1.BIN:098:0071",
@@ -620,7 +620,7 @@
     "locuteur": "Yuriko",
     "en": "Catch you guys later! Bye-bye!{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": "À la prochaine, les amis!{ATTENTE}"
+    "fr": "À la prochaine, les amis!{ATTENTE}"
   },
   {
     "id": "E1.BIN:098:0092",
