@@ -234,7 +234,7 @@
   {
     "id": "KYOUKI.BIN:text:0368",
     "en": " Shut up, shut up! I hate dudes who can't{SAUT}even make a decision!(*RESPONSE*)",
-    "fr": " Tais-toi, tais-toi! J'déteste les mecs{SAUT}qui savent pas se décider!(*RESPONSE*)"
+    "fr": " Tais-toi! J'déteste les mecs qui{SAUT}savent pas se décider!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0369",
@@ -245,7 +245,7 @@
   {
     "id": "KYOUKI.BIN:text:0370",
     "en": "   Gyahaha! You really are whack! ...{SAUT}Maybe I'll join you! Grr... RAAHHHH!(*RESPONSE*)",
-    "fr": "   Gyahaha! T'es vraiment taré! ...{SAUT}J'vais peut-être te suivre! Grr... RAAHHHH!(*RESPONSE*)",
+    "fr": "   Gyahaha! T'es vraiment taré! ...{SAUT}J'te suis peut-être! Grr... RAAHHHH!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -299,7 +299,7 @@
   {
     "id": "KYOUKI.BIN:text:0380",
     "en": "First, bring me a soul. We'll split it{SAUT}70:30!{ATTENTE}",
-    "fr": "D'abord, apporte-moi une âme. On{SAUT}partage 70/30!{ATTENTE}"
+    "fr": "D'abord, apporte-moi une âme. On{SAUT}partage 70:30!{ATTENTE}"
   },
   {
     "id": "KYOUKI.BIN:text:0381",
@@ -362,7 +362,7 @@
   {
     "id": "KYOUKI.BIN:text:0400",
     "en": "Wha... What's with those puppy-dog{SAUT}eyes!? That was a lie... I feel so{SAUT}defiled...(*RESPONSE*)",
-    "fr": "Quoi... C'est quoi ces yeux de{SAUT}chien battu!? C'était un mensonge...{SAUT}Je me sens sali...(*RESPONSE*)"
+    "fr": "Quoi... C'est quoi ce regard de{SAUT}chien battu!? Un mensonge...{SAUT}Je me sens sali...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0401",
