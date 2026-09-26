@@ -3,12 +3,12 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Dialogues      ██████████████░░░░░░░░░░   57 %    4 918 / 8 572 textes
+Dialogues      ██████████████░░░░░░░░░░   58 %    5 014 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
 Négociations   ████████████░░░░░░░░░░░░   50 %    6 297 / 12 487 textes
 
-Total          ██████████████░░░░░░░░░░   59 %   14 301 / 24 145 textes
+Total          ██████████████░░░░░░░░░░   60 %   14 397 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -73,6 +73,7 @@ Ces lignes sont plus larges que l'anglaise et approchent de la limite de la boî
 - [`E3_004.json`](trad/dialogues/E3_004.json) — 1 ligne
 - [`E3_005.json`](trad/dialogues/E3_005.json) — 4 lignes
 - [`E3_006.json`](trad/dialogues/E3_006.json) — 6 lignes
+- [`E3_007.json`](trad/dialogues/E3_007.json) — 13 lignes
 - [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) — 1 ligne
 - [`EBOOT_019.json`](trad/eboot/EBOOT_019.json) — 1 ligne
 - [`ETC_002.json`](trad/negociations/ETC_002.json) — 1 ligne
@@ -236,7 +237,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E3_004.json`](trad/dialogues/E3_004.json) | 95 | 95 | 100 % | terminé · 1 trop large |
 | [`E3_005.json`](trad/dialogues/E3_005.json) | 97 | 97 | 100 % | terminé · 4 trop large |
 | [`E3_006.json`](trad/dialogues/E3_006.json) | 98 | 98 | 100 % | terminé · 1 terme |
-| [`E3_007.json`](trad/dialogues/E3_007.json) | 96 | 0 | 0 % | en cours par @Uolil-Raccoon (#78) |
+| [`E3_007.json`](trad/dialogues/E3_007.json) | 96 | 96 | 100 % | terminé par @Uolil-Raccoon · 13 trop large |
 | [`E3_008.json`](trad/dialogues/E3_008.json) | 66 | 1 | 2 % | commencé |
 
 ## EBOOT
