@@ -387,116 +387,116 @@
   {
     "id": "SINSI.BIN:text:0180",
     "en": "Hahaha! You have a cute side!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hahaha! Vous avez un côté charmant!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0181",
     "en": "  Well, knowing how much stronger I am{SAUT}than you... I cannot hold back.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Sachant combien je suis plus fort{SAUT}que vous... je ne me retiendrai pas.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0182",
     "en": "   Hmmm... The rumors said you had more{SAUT}spirit than you're showing me now...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hmmm... On vous disait plus de{SAUT}fougue que ce que je vois là...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0183",
     "en": "  No matter how much time passes, you'll{SAUT}never catch up to me! That's how it is!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Le temps passera sans que jamais vous{SAUT}me rattrapiez! C'est ainsi!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0184",
     "en": " How unsightly! Please, knock it off!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Quelle laideur! De grâce, cessez!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0185",
     "en": "   Then you will listen to whatever I say,{SAUT}correct!?[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "   Alors vous écouterez tout ce que je{SAUT}dirai, n'est-ce pas!?[FFF1](*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0186",
     "en": " Why would you say that...? That's a{SAUT}bit fishy...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Pourquoi dire cela...? Voilà qui{SAUT}sent le louche...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0187",
     "en": "   Wh-What are you trying to say? Let's{SAUT}negotiate normally, shall we...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Q-Que voulez-vous dire? Négocions{SAUT}normalement, voulez-vous...?(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0188",
     "en": "  Exactly! I am as strong as I am{SAUT}beautiful! Hahahahaha!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Exactement! Je suis aussi fort que{SAUT}beau! Hahahahaha!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0189",
     "en": " Admit defeat! If you do, I'll spare{SAUT}your life!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Avouez votre défaite! Je vous{SAUT}laisserai la vie!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0190",
     "en": " Finally! I have come so far!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Enfin! Que de chemin parcouru!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0191",
     "en": "   Ahh, you already have my spell card!{SAUT}Not bad!(*OPTION*)",
-    "fr": ""
+    "fr": "   Ahh, vous avez déjà ma carte de sort!{SAUT}Pas mal!(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0192",
     "en": "  Then I shall give you this.(*OPTION*)",
-    "fr": ""
+    "fr": "  Alors je vous donne ceci.(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0193",
     "en": "I see...(*OPTION*)",
-    "fr": ""
+    "fr": "Je vois...(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0194",
     "en": "   It seems our values are irreconciably{SAUT}different. We'd only be unhappy, so I{SAUT}think we should break up...(*OPTION*)",
-    "fr": ""
+    "fr": "   Nos valeurs semblent inconciliables.{SAUT}Nous n'en serions que malheureux:{SAUT}mieux vaut nous quitter...(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0195",
     "en": "A low-level demon would be more becoming{SAUT}of such low-level humans. You understand{SAUT}that, right?(*OPTION*)",
-    "fr": ""
+    "fr": "Un démon de bas étage conviendrait{SAUT}mieux à des humains de bas étage.{SAUT}Vous comprenez, n'est-ce pas?(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0196",
     "en": " Then at least make use of this!(*OPTION*)",
-    "fr": ""
+    "fr": " Faites au moins usage de ceci!(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0197",
     "en": "Then excuse me, if you will. I look{SAUT}forward to meeting again.(*OPTION*)",
-    "fr": ""
+    "fr": "Permettez que je me retire. Au{SAUT}plaisir de vous revoir.(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0198",
     "en": "  Here is a token of my gratitude.(*OPTION*)",
-    "fr": ""
+    "fr": "  Voici un gage de ma gratitude.(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0199",
     "en": "   If you are done, I'll be on my way!(*OPTION*)",
-    "fr": ""
+    "fr": "   Si vous en avez fini, je m'en vais!(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0200",
     "en": "Then I will give you my spell card, as{SAUT}you have requested. Make me a Persona{SAUT}both gentle and firm.(*OPTION*)",
-    "fr": ""
+    "fr": "Je vous donne donc ma carte de sort,{SAUT}comme demandé. Faites de moi une{SAUT}Persona douce et ferme.(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0201",
     "en": " I shall give you this... so... er...{SAUT}Please, just let me go!(*OPTION*)",
-    "fr": ""
+    "fr": " Je vous donne ceci... alors... euh...{SAUT}De grâce, laissez-moi partir!(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0202",
     "en": "   If I continue this conversation, my{SAUT}level will drop as well!(*OPTION*)",
-    "fr": ""
+    "fr": "   Si je poursuis cette conversation,{SAUT}je vais m'abaisser aussi!(*OPTION*)"
   }
 ]
