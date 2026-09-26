@@ -288,47 +288,47 @@
   {
     "id": "SINSI.BIN:text:0261",
     "en": "  I ask for a [FFF4] of you.{SAUT}That is a gem worthy of me.(*OPTION*)",
-    "fr": ""
+    "fr": "  Je vous demande un [FFF4].{SAUT}Voilà une gemme digne de moi.(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0262",
     "en": "  I believe the gem would be more happy{SAUT}with me than with you.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Je crois que la gemme serait plus{SAUT}heureuse avec moi qu'avec vous.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0263",
     "en": "   Hmph... So my request was impossible{SAUT}for you, was it?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hmph... Ma demande vous était donc{SAUT}impossible?(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0264",
     "en": "  The gem is crying... I won't forgive you{SAUT}for that!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  La gemme pleure... Je ne vous le{SAUT}pardonnerai pas!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0265",
     "en": " The fairy of the gem must be happy,{SAUT}being so protected by you. I will{SAUT}relent for now...(*RESPONSE*)",
-    "fr": ""
+    "fr": " La fée de la gemme doit être heureuse,{SAUT}si bien protégée par vous. Je céderai{SAUT}pour cette fois...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0266",
     "en": "Then would you please share some of your{SAUT}power with me? ...It'll be painless.(*OPTION*)",
-    "fr": ""
+    "fr": "Voudriez-vous alors me céder un peu{SAUT}de votre force? ...Sans douleur.(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0267",
     "en": "  Excuse me, then...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Permettez, alors...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0268",
     "en": " Your power will sustain my flesh...{SAUT}Nothing is more honorable than that,{SAUT}and yet you...!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Votre force nourrira ma chair...{SAUT}Rien n'est plus honorable, et{SAUT}pourtant vous...!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0269",
     "en": "   Are you not feeling well? If you plan on{SAUT}surviving in this world, you must attend{SAUT}to your health.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Vous sentez-vous mal? Si vous comptez{SAUT}survivre en ce monde, prenez soin{SAUT}de votre santé.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0270",
@@ -339,13 +339,13 @@
   {
     "id": "SINSI.BIN:text:0271",
     "en": "   I'm nitpicky, you say!? Hahahaha!{SAUT}What an answer! Hahahaha!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Je serais tatillon!? Hahahaha!{SAUT}Quelle réponse! Hahahaha!(*RESPONSE*)",
     "_occurrences": 7
   },
   {
     "id": "SINSI.BIN:text:0272",
     "en": "My question is nitpicky, you say!? Do{SAUT}you realize a single mistake can lead to{SAUT}a life or death situation!?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Ma question serait tatillonne!?{SAUT}Savez-vous qu'une seule erreur peut{SAUT}coûter la vie!?(*RESPONSE*)",
     "_occurrences": 5
   },
   {
@@ -357,31 +357,31 @@
   {
     "id": "SINSI.BIN:text:0274",
     "en": "  I won't nod to every word out of your{SAUT}mouth, but I may believe some of them.(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Je n'acquiescerai pas à tout ce que{SAUT}vous dites, mais j'en croirai une part.(*RESPONSE*)",
     "_occurrences": 8
   },
   {
     "id": "SINSI.BIN:text:0275",
     "en": "   Right? There is nothing I do not know.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   N'est-ce pas? Rien ne m'est inconnu.(*RESPONSE*)",
     "_occurrences": 8
   },
   {
     "id": "SINSI.BIN:text:0276",
     "en": " Right!? You weak humans must be quite{SAUT}jealous!(*RESPONSE*)",
-    "fr": "",
+    "fr": " N'est-ce pas!? Vous autres faibles{SAUT}humains devez être bien jaloux!(*RESPONSE*)",
     "_occurrences": 7
   },
   {
     "id": "SINSI.BIN:text:0277",
     "en": " How tragic! Are your eyes clouded!?{SAUT}Allow me to polish them then!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Quel malheur! Vos yeux sont-ils{SAUT}voilés!? Permettez que je les polisse!(*RESPONSE*)",
     "_occurrences": 7
   },
   {
     "id": "SINSI.BIN:text:0278",
     "en": "  What...? To think there are humans who{SAUT}cannot comprehend my body's beauty!{SAUT}What is the world coming to...?(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Quoi...? Dire qu'il est des humains{SAUT}insensibles à la beauté de mon corps!{SAUT}Où va donc le monde...?(*RESPONSE*)",
     "_occurrences": 7
   },
   {
@@ -393,13 +393,13 @@
   {
     "id": "SINSI.BIN:text:0280",
     "en": "  Then would you be so kind as to tell me{SAUT}what the meaning of this is!? Hmph,{SAUT}there are no excuses!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Auriez-vous alors la bonté de m'en{SAUT}dire le sens!? Hmph, il n'y a{SAUT}point d'excuse!(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "SINSI.BIN:text:0281",
     "en": "  Is that so...? If that is the case,{SAUT}then never mind.(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Vraiment...? S'il en est ainsi,{SAUT}alors n'en parlons plus.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
@@ -411,31 +411,31 @@
   {
     "id": "SINSI.BIN:text:0283",
     "en": "  Hmph! Then watch what you do before you{SAUT}get upset over what I tell you next{SAUT}time!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Hmph! Surveillez vos actes avant de{SAUT}vous offusquer de ce que je vous dirai{SAUT}la prochaine fois!(*RESPONSE*)",
     "_occurrences": 5
   },
   {
     "id": "SINSI.BIN:text:0284",
     "en": "  ...Oh my... It looks like you're the{SAUT}real thing...(*RESPONSE*)",
-    "fr": "",
+    "fr": "  ...Oh là... Il semble que vous soyez{SAUT}bien sérieux...(*RESPONSE*)",
     "_occurrences": 5
   },
   {
     "id": "SINSI.BIN:text:0285",
     "en": " You don't care what others think of{SAUT}you...? Is... Is that so...? P-Please,{SAUT}spare my life!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Le regard des autres vous est égal...?{SAUT}Est... Est-ce vrai...? De grâce,{SAUT}épargnez-moi!(*RESPONSE*)",
     "_occurrences": 5
   },
   {
     "id": "SINSI.BIN:text:0286",
     "en": "  You are quite understanding!{SAUT}It seems we have good affinity.(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Vous êtes fort compréhensif!{SAUT}Nos affinités semblent bonnes.(*RESPONSE*)",
     "_occurrences": 5
   },
   {
     "id": "SINSI.BIN:text:0287",
     "en": "   Correct, there is no need for pointless{SAUT}bloodshed! I'm glad you are so wise.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   En effet, point n'est besoin de verser{SAUT}le sang! Votre sagesse me réjouit.(*RESPONSE*)",
     "_occurrences": 5
   },
   {
@@ -447,17 +447,17 @@
   {
     "id": "SINSI.BIN:text:0294",
     "en": " What...? You enjoy the loss of life?{SAUT}I cannot fathom how anyone can't{SAUT}understand its precious nature...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Quoi...? La mort vous réjouit?{SAUT}Je ne comprends pas qu'on ignore{SAUT}le prix de la vie...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0295",
     "en": "Oh... Please, spare me a moment!{SAUT}I need time to think...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh... De grâce, un instant!{SAUT}Il me faut réfléchir...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0296",
     "en": "   It may not have been your intention,{SAUT}but in the end, you tricked me! I cannot{SAUT}forgive you for this!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Ce n'était peut-être pas votre dessein,{SAUT}mais vous m'avez trompé! Cela, je ne{SAUT}puis le pardonner!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0297",
@@ -467,24 +467,24 @@
   {
     "id": "SINSI.BIN:text:0298",
     "en": "   Hahaha, it's just a joke! You must have{SAUT}it hard, doing this and that to try and{SAUT}get on a demon's good side.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Hahaha, je plaisante! Ce doit être{SAUT}pénible, tout faire pour entrer dans{SAUT}les bonnes grâces d'un démon.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:text:0299",
     "en": "What are you looking for? A warrior to{SAUT}fight by your side? Or a circus{SAUT}performer? Now isn't the time to sing!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Que cherchez-vous? Un guerrier pour{SAUT}combattre à vos côtés? Un saltimbanque?{SAUT}Ce n'est pas l'heure de chanter!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:text:0300",
     "en": "  Huh? It was just such a horrible voice,{SAUT}so... Er... Excuse me...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hein? C'est que la voix était si{SAUT}affreuse... Euh... Pardonnez-moi...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0301",
     "en": "   A gentleman can never be defeated by{SAUT}cowards! My rage is in full swing!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Un gentleman ne cède pas aux couards!{SAUT}Ma colère est à son comble!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0303",
@@ -494,13 +494,13 @@
   {
     "id": "SINSI.BIN:text:0304",
     "en": "  I do not approve of this arrogance!{SAUT}You are a fool who has forgotten the{SAUT}importance of knowing when to quit!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Je n'approuve point cette arrogance!{SAUT}Vous êtes un sot qui a oublié l'art{SAUT}de savoir s'arrêter!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:text:0305",
     "en": "   That was wonderful... As long as I can{SAUT}hear that voice sing, I don't need{SAUT}anything else!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   C'était merveilleux... Tant que{SAUT}j'entends chanter cette voix, je ne{SAUT}demande rien d'autre!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -511,17 +511,17 @@
   {
     "id": "SINSI.BIN:text:0316",
     "en": " I see. You mean to say that the ends{SAUT}justify the means. ...I disagree!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Je vois. La fin justifierait donc les{SAUT}moyens. ...Je ne suis pas d'accord!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:text:0317",
     "en": " No? That is too bad. If it were true,{SAUT}I would have considered helping you.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Non? Quel dommage. Si c'était vrai,{SAUT}j'aurais songé à vous aider.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0318",
     "en": " I knew it! You fell for it, you demon{SAUT}murderer! You won't be forgiven!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Je le savais! Vous êtes tombé dedans,{SAUT}tueur de démons! Point de pardon!(*RESPONSE*)"
   }
 ]
