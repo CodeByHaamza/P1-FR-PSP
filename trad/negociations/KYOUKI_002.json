@@ -148,32 +148,32 @@
   {
     "id": "KYOUKI.BIN:text:0134",
     "en": "To put it in simple terms... NO!{ATTENTE}",
-    "fr": ""
+    "fr": "Pour faire simple... NON!{ATTENTE}"
   },
   {
     "id": "KYOUKI.BIN:text:0135",
     "en": "{PAGE}Now, in simpler terms, give me{SAUT}something![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Et encore plus simple: file-moi{SAUT}un truc![FFF1](*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0136",
     "en": "   This is boring as hell! I deserve a{SAUT}way better negotiation than this!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   C'est chiant à mourir! Je mérite bien{SAUT}mieux comme négociation!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0137",
     "en": "  Who'd listen to your request!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Qui écouterait ta demande!?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0138",
     "en": " Something smells here... I'm gonna open{SAUT}this carefully...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Ça sent le coup fourré... J'ouvre ça{SAUT}avec précaution...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0139",
     "en": "  I could help you, but there's nothing{SAUT}in it for me...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  J'pourrais t'aider, mais j'y gagne{SAUT}rien...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0140",
@@ -183,321 +183,321 @@
   {
     "id": "KYOUKI.BIN:text:0141",
     "en": "Hyahahaha! I'm too damn irresistible!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hyahahaha! J'suis trop irrésistible!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0142",
     "en": "  It's nice to come through for somebody,{SAUT}but it's tough sometimes! Really!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  C'est bien d'aider les gens, mais{SAUT}parfois c'est dur! Vraiment!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0143",
     "en": "  I wouldn't mind helping you out! Give{SAUT}me a little more, though! You can do it![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "  Ça me dérange pas de t'aider! Mais{SAUT}donne un peu plus! Tu peux le faire![FFF1](*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0144",
     "en": "So that's gonna be your attitude, huh?{SAUT}I don't get you. Not that I get me...(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est ça, ton attitude? J'te comprends{SAUT}pas. Moi non plus je me comprends pas...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0145",
     "en": "   Huh? ...Am I supposed to be happy or{SAUT}sad?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hein? ...J'dois être content ou{SAUT}triste?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0146",
     "en": "  I don't care if you make fun of me!{SAUT}Just gimme the goods!{ATTENTE}",
-    "fr": ""
+    "fr": "  J'me fiche que tu te moques de moi!{SAUT}File juste la marchandise!{ATTENTE}"
   },
   {
     "id": "KYOUKI.BIN:text:0147",
     "en": "{PAGE}A badass gets the goods no matter what!{SAUT}So hand 'em over![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Un caïd obtient la marchandise quoi{SAUT}qu'il arrive! Alors donne![FFF1](*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0148",
     "en": "  Huh!? You must be ready to die!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hein!? Tu dois être prêt à mourir!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0149",
     "en": "You just made the top of my \"to die\"{SAUT}list!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Te voilà en tête de ma liste des{SAUT}\"à buter\"!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0150",
     "en": " With an attitude like that, you must{SAUT}want me to kill you, huh!?{ATTENTE}",
-    "fr": ""
+    "fr": " Avec une attitude pareille, tu veux{SAUT}que je te tue, c'est ça!?{ATTENTE}"
   },
   {
     "id": "KYOUKI.BIN:text:0151",
     "en": "{PAGE}Not that you stand a chance, so you{SAUT}better listen to orders![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}T'as aucune chance, alors obéis{SAUT}aux ordres![FFF1](*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0152",
     "en": " Why you... Don't you know the difference{SAUT}between a good idea and a bad one?(*RESPONSE*)",
-    "fr": ""
+    "fr": " Espèce de... Tu vois pas la différence{SAUT}entre une bonne et une mauvaise idée?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0153",
     "en": "＊sniff＊ What an attitude...＊sniff＊{SAUT}...I'm not crying! It's sweat...(*RESPONSE*)",
-    "fr": ""
+    "fr": "＊snif＊ Quelle attitude...＊snif＊{SAUT}...Je pleure pas! C'est la sueur...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0154",
     "en": "I ain't gonna get worked up over some{SAUT}punk kids...(*RESPONSE*)",
-    "fr": ""
+    "fr": "J'vais pas m'énerver pour des gamins{SAUT}de rien...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0155",
     "en": " That's a hell of an attitude! Whatever,{SAUT}I prefer that to emo kids.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Sacrée attitude! Bref, je préfère ça{SAUT}aux gamins déprimés.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0156",
     "en": " Taunt me all you want, you can't crack{SAUT}me!{ATTENTE}",
-    "fr": ""
+    "fr": " Provoque-moi tant que tu veux, tu me{SAUT}feras pas craquer!{ATTENTE}"
   },
   {
     "id": "KYOUKI.BIN:text:0157",
     "en": "{PAGE}I'm the epitome of perfect!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}J'suis la perfection même!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0158",
     "en": "According to my horoscope, I need to{SAUT}avoid being short-tempered. So I'm{SAUT}gonna let you off the hook... once!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Mon horoscope dit que je dois éviter{SAUT}de m'emporter. Alors je te laisse{SAUT}passer... une fois!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0159",
     "en": "So ya wanna be an entertainer? Well then{SAUT}what are you hanging around here for?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu veux faire du spectacle? Alors{SAUT}qu'est-ce que tu traînes ici?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0160",
     "en": " No, no... You think too much! You gotta{SAUT}go with your gut.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Non, non... Tu réfléchis trop! Faut{SAUT}suivre son instinct.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0161",
     "en": "  Uh... Shouldn't your act be something{SAUT}people would actually pay to see?[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "  Euh... Ton numéro, faudrait pas que{SAUT}les gens paient pour le voir?[FFF1](*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0162",
     "en": "   Do something interesting!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Fais un truc marrant!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0163",
     "en": "  That sucks... It sucks, man!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  C'est nul... C'est nul, mec!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0164",
     "en": "   My time is precious, and you're wasting{SAUT}it with this crap!{ATTENTE}",
-    "fr": ""
+    "fr": "   Mon temps est précieux, et tu le gâches{SAUT}avec ces conneries!{ATTENTE}"
   },
   {
     "id": "KYOUKI.BIN:text:0165",
     "en": "{PAGE}You better pay me back, pronto![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Tu vas me rembourser, et vite![FFF1](*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0166",
     "en": "   Who do you think I am...? You better{SAUT}get serious here!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Tu me prends pour qui...? Tu ferais{SAUT}mieux d'être sérieux!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0167",
     "en": " D-Did you die of fear?(*RESPONSE*)",
-    "fr": ""
+    "fr": " T-T'es mort de peur?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0168",
     "en": " I'm jealous... You've got nerves of{SAUT}steel...(*RESPONSE*)",
-    "fr": ""
+    "fr": " J'suis jaloux... T'as des nerfs{SAUT}d'acier...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0169",
     "en": "   Maybe I should learn a trick or two.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   J'devrais apprendre un ou deux tours.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0170",
     "en": "   Hyhahahaha! That was cool! I feel{SAUT}like drinking...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hyhahahaha! C'était classe! J'ai{SAUT}envie de boire un coup...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0171",
     "en": " I'm not interested, actually... But I{SAUT}feel sorry for ya, so I'll hang around{SAUT}a little longer!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Ça m'intéresse pas, en fait... Mais{SAUT}t'as l'air pitoyable, alors je reste{SAUT}encore un peu!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0172",
     "en": "  There's no guarantee this ain't a{SAUT}trap... Tough call...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Rien ne dit que c'est pas un{SAUT}piège... Dur à dire...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0173",
     "en": "I can't give you the nod for this!{SAUT}How 'bout a little more?[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "J'peux pas dire oui à ça!{SAUT}Et si tu mettais un peu plus?[FFF1](*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0174",
     "en": "   You shouldn't mess with adults!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Faut pas chercher les adultes!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0175",
     "en": "You think I'd backstab my homies for{SAUT}that!? You're an idiot!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu crois que je trahirais mes potes{SAUT}pour ça!? T'es débile!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0176",
     "en": "   I'll give you something, but I ain't{SAUT}gonna hand you my spell card. That's{SAUT}just how it is.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "   J'te donne un truc, mais ma carte de{SAUT}sort, tu l'auras pas. C'est{SAUT}comme ça.[FFF1](*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0177",
     "en": " You mistook me for a girl just because{SAUT}I've got a beautiful face...? Damn...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tu m'as pris pour une fille juste parce{SAUT}que j'ai un beau visage...? Merde...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0178",
     "en": "   Sorry, bud! I'm just not in the mood...{SAUT}Maybe next time...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Désolé, mon pote! Pas d'humeur...{SAUT}Une autre fois, peut-être...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0179",
     "en": " H-Hold up! Wait, man! I ain't ready yet!(*RESPONSE*)",
-    "fr": ""
+    "fr": " A-Attends! Minute, mec! J'suis pas prêt!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0180",
     "en": "   Hyahaha! Everyone's nuts about me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hyahaha! Tout le monde est fou de moi!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0181",
     "en": " Don't put me on the spot like that...{SAUT}But I guess I won't turn down kindness,{SAUT}so I'll take something![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": " Me mets pas dans l'embarras comme ça...{SAUT}Mais je refuse pas la gentillesse,{SAUT}alors je prends un truc![FFF1](*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0182",
     "en": " You're better than a buncha demons...{SAUT}Maybe I'll go with you...(*RESPONSE*)",
-    "fr": ""
+    "fr": " T'es mieux qu'un paquet de démons...{SAUT}J'vais peut-être te suivre...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0183",
     "en": "Makin' threats, calmin' 'em down...{SAUT}you've got your work cut out for you...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Menacer, puis calmer...{SAUT}t'as du boulot, toi...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0184",
     "en": "I know cute when I see it, and I'm{SAUT}seeing it, so I'll let it slide!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je reconnais le mignon quand j'en vois,{SAUT}et là j'en vois, alors je laisse filer!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0185",
     "en": "Heh, scared of me, huh? Good! Bow{SAUT}before me! Beg for mercy!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Héh, j'te fais peur? Bien! Incline-toi!{SAUT}Demande grâce!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0186",
     "en": "Hey! You think you kids can handle a{SAUT}negotiation with me!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hé! Vous croyez pouvoir négocier{SAUT}avec moi, les gamins!?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0187",
     "en": " Words are empty, man. Wouldn't you{SAUT}agree?[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": " Les mots, c'est du vide, mec.{SAUT}Pas d'accord?[FFF1](*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0188",
     "en": " I don't have a freakin' clue what's{SAUT}going on in that head of yours...(*RESPONSE*)",
-    "fr": ""
+    "fr": " J'ai pas la moindre idée de ce qui{SAUT}se passe dans ta tête...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0189",
     "en": "  O-Okay... You're angry, aren't you?{SAUT}C'mon, talk with a little emotion...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  D-D'accord... T'es en colère, hein?{SAUT}Allez, parle avec un peu d'émotion...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0190",
     "en": "   It's alright, I don't harm ladies. I'm{SAUT}a feminist, y'know!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   T'inquiète, je touche pas aux dames.{SAUT}J'suis féministe, moi!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0191",
     "en": " Damn, I'm bigger than I thought!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Merde, j'suis plus grand que je croyais!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0192",
     "en": "   You look nice and soft... But I think{SAUT}you should put on s'more meat!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   T'as l'air bien tendre... Mais tu{SAUT}devrais prendre un peu de gras!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0193",
     "en": "   What the hell!? You've already got my{SAUT}spell card! You don't need two! Heh!(*OPTION*)",
-    "fr": ""
+    "fr": "   C'est quoi ce truc!? T'as déjà ma{SAUT}carte de sort! T'en veux deux? Héh!(*OPTION*)"
   },
   {
     "id": "KYOUKI.BIN:text:0194",
     "en": " Oh well. I'll give this to ya!(*OPTION*)",
-    "fr": ""
+    "fr": " Bon. J'te donne ça!(*OPTION*)"
   },
   {
     "id": "KYOUKI.BIN:text:0195",
     "en": " Tch, that so!?(*OPTION*)",
-    "fr": ""
+    "fr": " Tss, ah ouais!?(*OPTION*)"
   },
   {
     "id": "KYOUKI.BIN:text:0196",
     "en": " Looks like we aren't hitting it off.{SAUT}Oh well.(*OPTION*)",
-    "fr": ""
+    "fr": " On dirait que ça colle pas entre nous.{SAUT}Bon.(*OPTION*)"
   },
   {
     "id": "KYOUKI.BIN:text:0197",
     "en": "  Huh!? You!? Am I hearing things!? You're{SAUT}way too weak!(*OPTION*)",
-    "fr": ""
+    "fr": "  Hein!? Toi!? J'entends mal!? T'es{SAUT}beaucoup trop faible!(*OPTION*)"
   },
   {
     "id": "KYOUKI.BIN:text:0198",
     "en": " Oh well. I guess I'll toss ya this as a{SAUT}parting gift.(*OPTION*)",
-    "fr": ""
+    "fr": " Bon. J'te lance ça en cadeau{SAUT}d'adieu.(*OPTION*)"
   },
   {
     "id": "KYOUKI.BIN:text:0199",
     "en": "  I'm gonna eat you one of these days...{SAUT}So don't let any other demons sink their{SAUT}teeth into ya until then!(*OPTION*)",
-    "fr": ""
+    "fr": "  Un de ces jours, je te mange...{SAUT}Alors laisse aucun autre démon planter{SAUT}les dents en toi d'ici là!(*OPTION*)"
   },
   {
     "id": "KYOUKI.BIN:text:0200",
     "en": "  I'll give ya this. It's been nice{SAUT}workin' with ya!(*OPTION*)",
-    "fr": ""
+    "fr": "  J'te donne ça. C'était sympa de{SAUT}bosser avec toi!(*OPTION*)"
   },
   {
     "id": "KYOUKI.BIN:text:0201",
     "en": " ＊sigh＊ If I stick around any longer,{SAUT}I think I'll get moldy. I'm out!(*OPTION*)",
-    "fr": ""
+    "fr": " ＊soupir＊ Si je reste plus longtemps,{SAUT}je vais moisir. J'me tire!(*OPTION*)"
   },
   {
     "id": "KYOUKI.BIN:text:0202",
     "en": "  You don't get it! I don't need no{SAUT}brats! Fuse me with the hotties!(*OPTION*)",
-    "fr": ""
+    "fr": "  Tu comprends pas! J'veux pas de{SAUT}gamins! Fusionne-moi avec les canons!(*OPTION*)"
   },
   {
     "id": "KYOUKI.BIN:text:0203",
     "en": " ...I know! Take this! That'll make you{SAUT}happy, right? Right? So c'mon, lemme go!(*OPTION*)",
-    "fr": ""
+    "fr": " ...J'sais! Prends ça! Ça te va, hein?{SAUT}Hein? Alors allez, laisse-moi partir!(*OPTION*)"
   },
   {
     "id": "KYOUKI.BIN:text:0204",
     "en": "You're so slow, I'm growin' mold, man!(*OPTION*)",
-    "fr": ""
+    "fr": "T'es si lent que je moisis, mec!(*OPTION*)"
   }
 ]
