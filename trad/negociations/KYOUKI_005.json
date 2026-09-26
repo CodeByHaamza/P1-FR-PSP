@@ -62,7 +62,7 @@
   {
     "id": "KYOUKI.BIN:text:0458",
     "en": "   Encore! Encore!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Encore! Encore!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0462",
@@ -109,7 +109,7 @@
   {
     "id": "KYOUKI.BIN:text:0477",
     "en": "  Wha... What's with those puppy-dog{SAUT}eyes!? That was a lie... I feel so{SAUT}defiled...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Quoi... C'est quoi ce regard de{SAUT}chien battu!? Un mensonge...{SAUT}Je me sens sali...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0480",
@@ -215,7 +215,7 @@
   {
     "id": "KYOUKI.BIN:text:0500",
     "en": "That so...? Let's test it out!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ah ouais...? On va voir ça!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0506",
@@ -225,7 +225,7 @@
   {
     "id": "KYOUKI.BIN:text:0507",
     "en": " Whaddaya mean, stupid!? It's important,{SAUT}man! You just don't get it!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Comment ça, bête!? C'est important,{SAUT}mec! Tu piges pas, c'est tout!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0508",
@@ -359,12 +359,12 @@
   {
     "id": "KYOUKI.BIN:text:0553",
     "en": "  Then I'll take something from ya!{SAUT}I know it's outta the blue, but don't{SAUT}sweat it![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "  Alors je te prends un truc!{SAUT}Je sais, ça tombe de nulle part,{SAUT}mais t'inquiète![FFF1](*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0558",
     "en": "Shut up, shut up! I hate dudes who can't{SAUT}even make a decision!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tais-toi! J'déteste les mecs qui{SAUT}savent pas se décider!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0564",
