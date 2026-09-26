@@ -24,12 +24,12 @@
   {
     "id": "SINSI.BIN:text:0332",
     "en": "   So you still have shame... So be it.{SAUT}But be careful next time.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Vous avez donc encore honte... Soit.{SAUT}Mais prenez garde la prochaine fois.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0336",
     "en": "  Is... Is that so... V-Very well... Ugh!{SAUT}No! My body will not move...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Est... Est-ce vrai... T-Très bien... Ugh!{SAUT}Non! Mon corps ne bouge plus...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0337",
@@ -175,7 +175,7 @@
   {
     "id": "SINSI.BIN:text:0365",
     "en": "Well, I figured that was the case...{SAUT}How utterly absurd!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je m'en doutais bien...{SAUT}Quelle parfaite absurdité!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0366",
@@ -210,7 +210,7 @@
   {
     "id": "SINSI.BIN:text:0372",
     "en": "  Oh, you cannot hear? Then I shall have{SAUT}you answer with your body!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Ah, vous n'entendez pas? Alors votre{SAUT}corps me répondra!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0373",
@@ -272,7 +272,7 @@
   {
     "id": "SINSI.BIN:text:0384",
     "en": "Is that so...? You can never trust the{SAUT}words of a human, though.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Vraiment...? On ne peut jamais croire{SAUT}la parole d'un humain, cela dit.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -283,7 +283,7 @@
   {
     "id": "SINSI.BIN:text:0387",
     "en": "   You should consider who you are trying{SAUT}to fool before you engage the trick.{SAUT}I don't trust a word you say.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Songez à qui vous tentez de tromper{SAUT}avant de jouer de vos tours.{SAUT}Je ne crois pas un mot.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0394",
@@ -298,12 +298,12 @@
   {
     "id": "SINSI.BIN:text:0396",
     "en": "Haha, pardon me! It's just that your{SAUT}actions lacked common sense!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Haha, pardonnez-moi! C'est que vos{SAUT}actes manquaient de bon sens!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0402",
     "en": "   Then what if I said... \"Hey baby, how's{SAUT}it hanging!?\" ...Hahaha, I jest!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Et si je disais... \"Salut poupée, ça{SAUT}gaze!?\" ...Hahaha, je plaisante!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0403",
@@ -354,12 +354,12 @@
   {
     "id": "SINSI.BIN:text:0412",
     "en": "  Hahaha, I knew that from the start,{SAUT}Mr. Klutz!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hahaha, je le savais depuis le début,{SAUT}monsieur le maladroit!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0413",
     "en": " Hahaha, I knew that from the start,{SAUT}Mr. Klutz!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hahaha, je le savais depuis le début,{SAUT}monsieur le maladroit!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0414",
@@ -384,7 +384,7 @@
   {
     "id": "SINSI.BIN:text:0418",
     "en": "   Hahaha, you are like a child!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hahaha, vous êtes un enfant!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0427",
@@ -429,7 +429,7 @@
   {
     "id": "SINSI.BIN:text:0437",
     "en": "You should consider who you are trying{SAUT}to fool before you engage the trick.{SAUT}I don't trust a word you say.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Songez à qui vous tentez de tromper{SAUT}avant de jouer de vos tours.{SAUT}Je ne crois pas un mot.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0443",
@@ -489,12 +489,12 @@
   {
     "id": "SINSI.BIN:text:0454",
     "en": "   Hahaha, I kid! An honest answer would{SAUT}only put me on the spot. Hahahaha!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hahaha, je plaisante! Une réponse{SAUT}sincère m'embarrasserait. Hahahaha!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0457",
     "en": "  Please, stop this! If I hear any more,{SAUT}I may have reservations about killing{SAUT}you!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  De grâce, cessez! Si j'en entends{SAUT}plus, j'aurai peut-être des scrupules{SAUT}à vous tuer!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0460",
