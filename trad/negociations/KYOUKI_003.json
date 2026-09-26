@@ -322,7 +322,7 @@
   {
     "id": "KYOUKI.BIN:text:0269",
     "en": "You got a lotta guts lyin' to me! When{SAUT}did you grow a pair?(*RESPONSE*)",
-    "fr": "",
+    "fr": "T'as du culot de me mentir! Ça t'est{SAUT}venu quand, ces couilles?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -334,7 +334,7 @@
   {
     "id": "KYOUKI.BIN:text:0271",
     "en": "I got it, I got it. You can finish your{SAUT}conversation in hell.(*RESPONSE*)",
-    "fr": "",
+    "fr": "C'est bon, c'est bon. Tu finiras ta{SAUT}conversation en enfer.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -352,13 +352,13 @@
   {
     "id": "KYOUKI.BIN:text:0274",
     "en": "Now you're all confident? That's fishy.{SAUT}You're up to something, aren't you!?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Te voilà tout sûr de toi? Louche, ça.{SAUT}Tu prépares un truc, hein!?(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "KYOUKI.BIN:text:0275",
     "en": "   Oh well. Guess I'll take care of the{SAUT}kids!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Bon. J'vais m'occuper des{SAUT}gamins!(*RESPONSE*)",
     "_occurrences": 4
   },
   {
@@ -370,7 +370,7 @@
   {
     "id": "KYOUKI.BIN:text:0277",
     "en": "  That so...? Let's test it out!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Ah ouais...? On va voir ça!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -393,7 +393,7 @@
   {
     "id": "KYOUKI.BIN:text:0281",
     "en": "  Ooh, now we're talking. Why can't kids{SAUT}be more like that?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Ooh, là on parle. Pourquoi les gamins{SAUT}sont pas plus comme ça?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0282",
@@ -415,7 +415,7 @@
   {
     "id": "KYOUKI.BIN:text:0285",
     "en": " You got a lotta guts lyin' to me! When{SAUT}did you grow a pair?(*RESPONSE*)",
-    "fr": ""
+    "fr": " T'as du culot de me mentir! Ça t'est{SAUT}venu quand, ces couilles?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0290",
@@ -481,7 +481,7 @@
   {
     "id": "KYOUKI.BIN:text:0301",
     "en": "  You got a lotta guts lyin' to me! When{SAUT}did you grow a pair?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  T'as du culot de me mentir! Ça t'est{SAUT}venu quand, ces couilles?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0302",
@@ -492,13 +492,13 @@
   {
     "id": "KYOUKI.BIN:text:0303",
     "en": "   I got it, I got it. You can finish your{SAUT}conversation in hell.(*RESPONSE*)",
-    "fr": "",
+    "fr": "   C'est bon, c'est bon. Tu finiras ta{SAUT}conversation en enfer.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:text:0309",
     "en": "  So you threw away your pride for that?{SAUT}You must have some deeper reason...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  T'as jeté ta fierté pour ça? Tu dois{SAUT}avoir une raison plus profonde...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0310",
