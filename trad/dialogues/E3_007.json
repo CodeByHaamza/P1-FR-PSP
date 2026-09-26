@@ -32,7 +32,7 @@
     "locuteur": "Brown",
     "en": "It's true that some clothes are only{SAUT}worthy of a handsome man. Mwahahahaha!{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "Certains vêtement sont taillés pour{SAUT}les beau gosses dans mon genre. Mouhahahaha!{ATTENTE}"
+    "fr": "Certains vêtement sont taillés pour{SAUT}les beau gosses comme moi. Mouhahaha!{ATTENTE}"
   },
   {
     "id": "E3.BIN:083:0006",
@@ -156,7 +156,7 @@
     "locuteur": "Ayase",
     "en": "I wonder if Toro and Tsutomu are okay...{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "Je me demande si Toro et Tsutomu vont bien...{ATTENTE}"
+    "fr": "Je m'inquiète pour Toro et Tsutomu...{ATTENTE}"
   },
   {
     "id": "E3.BIN:086:0002",
@@ -261,7 +261,7 @@
     "locuteur": "Yukino",
     "en": "Considering how far we've come, it's no{SAUT}surprise the items are getting pricier.{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Après tout ce chemin, ce n'est pas{SAUT}surprenant que les objets soient plus chers.{ATTENTE}"
+    "fr": "Après tout ce chemin, ce n'est pas{SAUT}surprenant que les prix augmentent.{ATTENTE}"
   },
   {
     "id": "E3.BIN:098:0018",
@@ -501,7 +501,7 @@
   {
     "id": "E3.BIN:101:0014",
     "en": "{FERME}> You decide not to open the treasure box.{ATTENTE}",
-    "fr": "{FERME}> Vous décidez de ne pas ouvrir la boîte à trésors.{ATTENTE}",
+    "fr": "{FERME}> Vous décidez de ne pas ouvrir la boîte.{ATTENTE}",
     "_occurrences": 3
   },
   {
@@ -557,7 +557,7 @@
     "locuteur": "Nanjo",
     "en": "Damn and blast!{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Bon sang!{SAUT}"
+    "fr": "Bon sang!{ATTENTE}"
   },
   {
     "id": "E3.BIN:102:0007",
@@ -648,14 +648,14 @@
     "locuteur": "Brown",
     "en": "Cerberus was right... this Tartarus place{SAUT}sure is exhausting...{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "Cerbère avait raison... ce Tartare est{SAUT}vraiment épuisant...{ATTENTE}"
+    "fr": "Cerberus avait raison... ce Tartare est{SAUT}vraiment épuisant...{ATTENTE}"
   },
   {
     "id": "E3.BIN:103:0006",
     "locuteur": "Elly",
     "en": "Checking every single treasure box may{SAUT}strain our time limitations.{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Fouiller chacune de ces boîtes à trésors pourrait nous retarder.{ATTENTE}"
+    "fr": "Fouiller chacune de ces boîtes à{SAUT}trésors pourrait nous retarder.{ATTENTE}"
   },
   {
     "id": "E3.BIN:103:0007",
