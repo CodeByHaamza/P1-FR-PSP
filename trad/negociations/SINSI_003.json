@@ -2,282 +2,282 @@
   {
     "id": "SINSI.BIN:text:0203",
     "en": "   You want this? Very well, take it and{SAUT}be gone!(*OPTION*)",
-    "fr": ""
+    "fr": "   Vous voulez ceci? Fort bien, prenez{SAUT}et disparaissez!(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0204",
     "en": " Still... a gentleman should never engage{SAUT}in such pointless bloodshed... Hmmm...{SAUT}What to do...(*OPTION*)",
-    "fr": ""
+    "fr": " Tout de même... un gentleman ne verse{SAUT}pas le sang pour rien... Hmmm...{SAUT}Que faire...(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0205",
     "en": "  Urgh, I can not bring myself to care{SAUT}any less! Here is my spell card;{SAUT}do what you will with it!(*OPTION*)",
-    "fr": ""
+    "fr": "  Urgh, je m'en soucie comme de rien!{SAUT}Voici ma carte de sort:{SAUT}faites-en ce que vous voulez!(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0206",
     "en": "So, I'd like for you to have my spell{SAUT}card!(*OPTION*)",
-    "fr": ""
+    "fr": "Aussi, je veux que vous ayez ma{SAUT}carte de sort!(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0207",
     "en": "Now! Take my spell card!(*OPTION*)",
-    "fr": ""
+    "fr": "Tenez! Prenez ma carte de sort!(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0208",
     "en": "   So you see, I have no intention of{SAUT}fighting you. I hold you in high esteem!(*OPTION*)",
-    "fr": ""
+    "fr": "   Vous voyez, je n'ai nulle envie de{SAUT}vous combattre. Je vous estime fort!(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0209",
     "en": "This isn't much, but it'd be an honor{SAUT}if you'd take it!(*OPTION*)",
-    "fr": ""
+    "fr": "Ce n'est pas grand-chose, mais ce{SAUT}serait un honneur que vous l'acceptiez.(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0210",
     "en": "I will give you my spell card... But{SAUT}please do not concern yourself with me{SAUT}again!(*OPTION*)",
-    "fr": ""
+    "fr": "Je vous donne ma carte de sort...{SAUT}Mais de grâce, ne vous occupez plus{SAUT}de moi!(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0211",
     "en": " Please, don't rip the spell card...(*OPTION*)",
-    "fr": ""
+    "fr": " De grâce, ne déchirez pas la carte...(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0212",
     "en": "You answered my call... So allow me{SAUT}to ask: what are your intentions?[FFFD][6CFF][F500]So you answered my call... I am{SAUT}conducting a study on humans, you see...{ATTENTE}",
-    "fr": ""
+    "fr": "Vous avez répondu à mon appel...{SAUT}Permettez: quelles sont vos intentions?[FFFD][6CFF][F500]Vous avez répondu à mon appel...{SAUT}Je mène une étude sur les humains...{ATTENTE}"
   },
   {
     "id": "SINSI.BIN:text:0213",
     "en": "{PAGE}But, it's quite strange... I don't see{SAUT}what reason you have for coming to such{SAUT}a dangerous place...(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Mais voilà bien étrange... Je ne vois{SAUT}pas quelle raison vous amène en un{SAUT}lieu si dangereux...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0214",
     "en": "  Ah, you've answered my call. I am{SAUT}glad to meet you.{ATTENTE}",
-    "fr": ""
+    "fr": "  Ah, vous avez répondu à mon appel.{SAUT}Enchanté de vous connaître.{ATTENTE}"
   },
   {
     "id": "SINSI.BIN:text:0215",
     "en": "{PAGE}In any case, would you be so kind as to{SAUT}provide some token by which I could{SAUT}commemorate this occasion by?[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Quoi qu'il en soit, auriez-vous la{SAUT}bonté de m'offrir un gage pour{SAUT}marquer cette occasion?[FFF1](*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0216",
     "en": "For some reason, it irks me to simply{SAUT}look upon your face. Why do you think{SAUT}that is?[FFFD][6DFF][F500] A human has answered my call, and it is{SAUT}a child, no less!{ATTENTE}",
-    "fr": ""
+    "fr": "Je ne sais pourquoi, votre visage{SAUT}m'agace rien qu'à le regarder.{SAUT}Pourquoi, à votre avis?[FFFD][6DFF][F500]Un humain a répondu à mon appel, et{SAUT}c'est un enfant, encore!{ATTENTE}"
   },
   {
     "id": "SINSI.BIN:text:0217",
     "en": "{PAGE}I would have rather it been a beautiful{SAUT}woman!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}J'aurais tant préféré{SAUT}une belle femme!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0218",
     "en": "  I am the guardian here! If you wish to{SAUT}pass, you must pay the toll![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "  Je suis le gardien de ces lieux! Pour{SAUT}passer, il faut payer le péage![FFF1](*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0219",
     "en": "   Do you believe that everything you say{SAUT}is automatically correct?[FFFD][6EFF][F500] Am I going to be killed by a human?{SAUT}Of all the ways to die...{ATTENTE}",
-    "fr": ""
+    "fr": "   Croyez-vous que tout ce que vous dites{SAUT}soit juste d'office?[FFFD][6EFF][F500]Vais-je être tué par un humain?{SAUT}Quelle façon de mourir...{ATTENTE}"
   },
   {
     "id": "SINSI.BIN:text:0220",
     "en": "{PAGE}Hmm? Don't mind me, I was just thinking{SAUT}aloud...(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Hmm? Ne m'écoutez pas, je pensais{SAUT}tout haut...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0221",
     "en": "I am strong! A vision of perfection!{SAUT}I cannot lose... to humans... or at{SAUT}least... I don't think I can...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je suis fort! L'image même de la{SAUT}perfection! Je ne puis perdre contre{SAUT}des humains... du moins je crois...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0222",
     "en": "   I feel as though we've met before!{SAUT}Do you have any idea where?[FFFD][6FFF][F500]   You seem to have your own troubles.{SAUT}Do not lose faith, and continue to{SAUT}persevere.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Il me semble nous être déjà vus!{SAUT}Auriez-vous une idée d'où?[FFFD][6FFF][F500]Vous avez vos propres tourments,{SAUT}semble-t-il. Ne perdez pas la foi,{SAUT}et persévérez.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0223",
     "en": "  I feel good today! Were I a human,{SAUT}I'd offer to go drinking with you!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Je me sens bien aujourd'hui! Si j'étais{SAUT}humain, je vous offrirais un verre!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0224",
     "en": "  [FFED]So it seems you've been busy tempting{SAUT}demons, and killing them if they don't{SAUT}comply... Are you an idler, or a fool?[FFFD][70FF][F500] [FFED]Have you grown weary of the mundane life{SAUT}you lead? ...You must be ecstatic that{SAUT}things have come to this!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  [FFED]Il paraît que vous tentez les démons,{SAUT}et que vous les tuez s'ils refusent...{SAUT}Êtes-vous oisif, ou sot?[FFFD][70FF][F500][FFED]Votre vie banale vous a-t-elle lassé?{SAUT}...Vous devez être ravi que les choses{SAUT}en soient venues là!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0225",
     "en": " [FFEE]You desire company? Normally you would{SAUT}pay for something like that, would you{SAUT}not?[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": " [FFEE]Vous voulez de la compagnie?{SAUT}D'ordinaire, pareille chose se paie,{SAUT}n'est-ce pas?[FFF1](*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0226",
     "en": "   [FFEE]It seems you are but children... Why do{SAUT}you walk headfirst into danger? Are you{SAUT}not afraid?[FFFD][71FF][F500] [FFEC]Those eyes mean business... I fear that{SAUT}if I do not oblige, I may be killed...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   [FFEE]Vous n'êtes que des enfants, on dirait...{SAUT}Pourquoi courir droit au danger?{SAUT}N'avez-vous pas peur?[FFFD][71FF][F500][FFEC]Ce regard ne plaisante pas... Je crains{SAUT}d'être tué si je refuse...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0227",
     "en": "[FFEC]So you are a human! Oh, the horror!{SAUT}And it was such a joyous stroll...(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEC]Vous êtes un humain! Quelle horreur!{SAUT}Et la promenade était si plaisante...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0228",
     "en": "[FFEE]Regardless, I don't feel I could ever{SAUT}be bored around you.[FFFD][72FF][F500]  [FFEB]Watching you, I feel something hot{SAUT}building up inside of me...(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEE]Quoi qu'il en soit, je ne saurais{SAUT}m'ennuyer auprès de vous.[FFFD][72FF][F500][FFEB]À vous regarder, je sens monter en{SAUT}moi quelque chose de brûlant...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0229",
     "en": "[FFEE]Hmm... I'd like to get your contact{SAUT}information for later.(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEE]Hmm... J'aimerais vos coordonnées{SAUT}pour plus tard.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0230",
     "en": "[FFEC]Unlike animals, d-demons have no meat{SAUT}on them... You couldn't eat me if you{SAUT}tried, okay?[FFFD][73FF][F500][FFED]Allow me to set the record straight:{SAUT}I've not killed any humans! Don't take{SAUT}your revenge on the wrong demon!(*RESPONSE*)",
-    "fr": ""
+    "fr": "[FFEC]Contrairement aux bêtes, les d-démons{SAUT}n'ont pas de chair... Vous ne pourriez{SAUT}pas me manger, d'accord?[FFFD][73FF][F500][FFED]Mettons les choses au clair: je n'ai{SAUT}tué aucun humain! N'allez pas vous{SAUT}venger sur le mauvais démon!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0231",
     "en": "  [FFEC]Of all things to run into, I encounter a{SAUT}barbaric human... How am I so unlucky!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  [FFEC]Il fallait que je tombe sur un humain{SAUT}barbare... Quelle malchance!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0232",
     "en": "  [FFEB]It is a human's fate to die with or{SAUT}without a demon's help! You'd agree,{SAUT}wouldn't you?[FFFD][74FF][F500]  [FFEB]In this world, there are meager humans{SAUT}such as yourself, and great demons{SAUT}such as I... Is that clear?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  [FFEB]Le sort de l'humain est de mourir, avec{SAUT}ou sans l'aide d'un démon! Vous en{SAUT}conviendrez, n'est-ce pas?[FFFD][74FF][F500][FFEB]En ce monde, il y a de maigres humains{SAUT}comme vous, et de grands démons{SAUT}comme moi... Est-ce clair?(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0233",
     "en": " [FFED]It's only a matter of time before humans{SAUT}are the domesticated pets of demons.{SAUT}You exist to serve![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": " [FFED]Ce n'est qu'une question de temps avant{SAUT}que les humains soient les bêtes{SAUT}des démons. Vous servez, c'est tout![FFF1](*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0234",
     "en": "[FFEC]Ah, Master... I may call you that, yes?[FFFD][75FF][F500] [FFEC]Compared to your greatness, I am but a{SAUT}weak, ugly, filthy demon... and yet...{ATTENTE}",
-    "fr": ""
+    "fr": "[FFEC]Ah, Maître... Puis-je vous nommer ainsi?[FFFD][75FF][F500][FFEC]Face à votre grandeur, je ne suis qu'un{SAUT}démon faible, laid, immonde... pourtant...{ATTENTE}"
   },
   {
     "id": "SINSI.BIN:text:0235",
     "en": "{PAGE}Thank you for answering my call.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Merci d'avoir répondu à mon appel.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0236",
     "en": "   [FFEB]So you've answered my call...{ATTENTE}",
-    "fr": ""
+    "fr": "   [FFEB]Vous avez répondu à mon appel...{ATTENTE}"
   },
   {
     "id": "SINSI.BIN:text:0237",
     "en": "{PAGE}No matter how much verbal or physical{SAUT}abuse you have for me... As long as it{SAUT}is from you, it is my pleasure!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Insultez-moi, frappez-moi tant qu'il{SAUT}vous plaira... Venant de vous,{SAUT}ce sera un plaisir!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0238",
     "en": "   It seems you and I might do well{SAUT}together.{ATTENTE}",
-    "fr": ""
+    "fr": "   Il semble que vous et moi nous{SAUT}entendrions bien.{ATTENTE}"
   },
   {
     "id": "SINSI.BIN:text:0239",
     "en": "{PAGE}Now, please tell me exactly what you{SAUT}want.(*OPTION*)",
-    "fr": ""
+    "fr": "{PAGE}Dites-moi donc exactement ce que{SAUT}vous voulez.(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0240",
     "en": " So you have finally managed to anger{SAUT}me... You shall not leave here alive!(*OPTION*)",
-    "fr": ""
+    "fr": " Vous avez enfin réussi à me mettre{SAUT}en colère... Vous ne sortirez pas vivant!(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0241",
     "en": " Y-You stand to gain n-nothing from...{SAUT}k-killing me... You are dangerous,{SAUT}human...(*RESPONSE*)",
-    "fr": ""
+    "fr": " V-Vous ne gagnerez r-rien à...{SAUT}me t-tuer... Vous êtes dangereux,{SAUT}humain...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0242",
     "en": "  I am so glad to have met you! This is{SAUT}one of the greatest moments in my{SAUT}life!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Quel bonheur de vous avoir rencontré!{SAUT}C'est l'un des plus grands moments{SAUT}de ma vie!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0243",
     "en": "  I won't allow you to waste any more of{SAUT}my precious time! Now, tell me your{SAUT}business!(*OPTION*)",
-    "fr": ""
+    "fr": "  Je ne vous laisserai plus gâcher mon{SAUT}temps précieux! Dites-moi ce que{SAUT}vous voulez!(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0244",
     "en": "   I will listen to you, but please, no{SAUT}frightening or painful things!(*OPTION*)",
-    "fr": ""
+    "fr": "   Je vous écoute, mais de grâce, rien{SAUT}d'effrayant ni de douloureux!(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0245",
     "en": "You have all the qualifications of a{SAUT}gentleman! Allow me to hear your{SAUT}request.(*OPTION*)",
-    "fr": ""
+    "fr": "Vous avez toutes les qualités d'un{SAUT}gentleman! Permettez que j'entende{SAUT}votre requête.(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0246",
     "en": " D-Don't come near me! I'm... I'm very{SAUT}strong, you hear!?(*OPTION*)",
-    "fr": ""
+    "fr": " N-N'approchez pas! Je suis... je suis{SAUT}très fort, vous entendez!?(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0247",
     "en": "   Speaking with you has made me hungry...{SAUT}I must say, you look quite delicious!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Vous parler m'a donné faim...{SAUT}Vous avez l'air fort savoureux!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0248",
     "en": "  You deserve to reign over the demons as{SAUT}king...! You will be our overlord!(*OPTION*)",
-    "fr": ""
+    "fr": "  Vous méritez de régner sur les démons{SAUT}en roi...! Vous serez notre suzerain!(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0249",
     "en": " Then I shall have money.{SAUT}￥(*VALUE*) shall do.(*OPTION*)",
-    "fr": ""
+    "fr": " Alors je prendrai de l'argent.{SAUT}￥(*VALUE*) feront l'affaire.(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0250",
     "en": "  Excellent answer.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Excellente réponse.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0251",
     "en": "  Ah, you are actually quite poor. Next{SAUT}time, stop at the bank first!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Ah, vous êtes fort pauvre en vérité.{SAUT}Passez donc à la banque d'abord!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0252",
     "en": "You don't even have that much...? Well,{SAUT}I have no business with poor vagrants.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Vous n'avez même pas cela...? Eh bien,{SAUT}je ne traite pas avec les gueux.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0253",
     "en": " Why did you begin this conversation?{SAUT}You don't have a very good attitude.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Pourquoi avoir engagé la conversation?{SAUT}Votre attitude laisse à désirer.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0254",
     "en": "  Why did you begin this conversation?{SAUT}I don't understand your attitude.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Pourquoi avoir engagé la conversation?{SAUT}Votre attitude m'échappe.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0255",
     "en": " Then I shall take a life stone. Just{SAUT}one will be sufficient.(*OPTION*)",
-    "fr": ""
+    "fr": " Alors je prendrai une pierre de vie.{SAUT}Une seule suffira.(*OPTION*)"
   },
   {
     "id": "SINSI.BIN:text:0256",
     "en": "   Ah, how obedient!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Ah, quelle docilité!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0257",
     "en": "  A good answer, but if you don't actually{SAUT}have it...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Bonne réponse, mais si vous ne{SAUT}l'avez pas...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0258",
     "en": "You don't have a life stone!? This is{SAUT}preposterous! A colossal waste of time!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Vous n'avez pas de pierre de vie!?{SAUT}Quelle absurdité! Quelle perte de temps!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:text:0259",
