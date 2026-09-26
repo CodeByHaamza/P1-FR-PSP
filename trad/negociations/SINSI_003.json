@@ -282,7 +282,7 @@
   {
     "id": "SINSI.BIN:text:0259",
     "en": "  Is that so...? I suggest you put more{SAUT}value on your life than on a stone!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Vraiment...? Mettez donc votre vie{SAUT}plus haut qu'une pierre!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -369,13 +369,13 @@
   {
     "id": "SINSI.BIN:text:0276",
     "en": " Right!? You weak humans must be quite{SAUT}jealous!(*RESPONSE*)",
-    "fr": " N'est-ce pas!? Vous autres faibles{SAUT}humains devez être bien jaloux!(*RESPONSE*)",
+    "fr": " N'est-ce pas!? Vous, faibles humains,{SAUT}devez être bien jaloux!(*RESPONSE*)",
     "_occurrences": 7
   },
   {
     "id": "SINSI.BIN:text:0277",
     "en": " How tragic! Are your eyes clouded!?{SAUT}Allow me to polish them then!(*RESPONSE*)",
-    "fr": " Quel malheur! Vos yeux sont-ils{SAUT}voilés!? Permettez que je les polisse!(*RESPONSE*)",
+    "fr": " Quel malheur! Vos yeux sont voilés!?{SAUT}Permettez que je les polisse!(*RESPONSE*)",
     "_occurrences": 7
   },
   {
@@ -411,7 +411,7 @@
   {
     "id": "SINSI.BIN:text:0283",
     "en": "  Hmph! Then watch what you do before you{SAUT}get upset over what I tell you next{SAUT}time!(*RESPONSE*)",
-    "fr": "  Hmph! Surveillez vos actes avant de{SAUT}vous offusquer de ce que je vous dirai{SAUT}la prochaine fois!(*RESPONSE*)",
+    "fr": "  Hmph! Surveillez vos actes avant de{SAUT}vous offusquer de ce que je dirai{SAUT}la fois suivante!(*RESPONSE*)",
     "_occurrences": 5
   },
   {
