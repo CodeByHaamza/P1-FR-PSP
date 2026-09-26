@@ -2,98 +2,98 @@
   {
     "id": "SINSI.BIN:text:0615",
     "en": "Master [FFF9]...(*RESPONSE*)",
-    "fr": "",
+    "fr": "Maître [FFF9]...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0000",
     "en": "I have a lot.(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "J'en ai plein.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "SINSI.BIN:resp:0001",
     "en": "Don't be nitpicky!(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Sois pas tatillon!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0005",
     "en": "How'd you know?(*RESPONSE*)",
-    "fr": "",
+    "fr": "T'as deviné?(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "SINSI.BIN:resp:0007",
     "en": "...I don't get it?(*RESPONSE*) ",
-    "fr": "",
+    "fr": "...Je pige pas?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0009",
     "en": "Exactly!(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Exact!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0016",
     "en": "Be nice(*RESPONSE*)",
-    "fr": "",
+    "fr": "Gentil(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0019",
     "en": "Don't be nitpicky.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Sois pas tatillon.(*RESPONSE*)",
     "_occurrences": 6
   },
   {
     "id": "SINSI.BIN:resp:0024",
     "en": "It's okay then.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Ça va alors.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0026",
     "en": "It's not a trick.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "C'est pas un tour.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0030",
     "en": "It's just a song...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Juste un chant...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0031",
     "en": "Serves you right!(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Bien fait pour toi!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0040",
     "en": "Hee hee, you knew.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Hé hé, tu savais.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0041",
     "en": "I know!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je sais(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0044",
     "en": "＊sniff＊ No...(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "＊snif＊ Non...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0048",
     "en": "Huh? Not true...(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Hein? C'est faux...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0049",
     "en": "That's it.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "C'est ça.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -105,7 +105,7 @@
   {
     "id": "SINSI.BIN:resp:0057",
     "en": "I don't get it...(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Je comprends pas...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0059",
@@ -115,436 +115,436 @@
   {
     "id": "SINSI.BIN:resp:0060",
     "en": "Hehe, I lied!(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Héhé, blague!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0066",
     "en": "Er, never mind.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Euh, laisse.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0067",
     "en": "Er, never mind!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Euh, laisse!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0068",
     "en": "I'll introduce you.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Je te présente.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0070",
     "en": "Don't be picky!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pas difficile!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0071",
     "en": "I'll stop!(*RESPONSE*) ",
-    "fr": ""
+    "fr": "J'arrête!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0072",
     "en": "Just say okay, man.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Dis oui, quoi.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0075",
     "en": "C'mover here.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Approche.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0076",
     "en": "Explain(*RESPONSE*)",
-    "fr": "",
+    "fr": "Parler(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0078",
     "en": "Make him laugh again(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Le faire rire encore(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0079",
     "en": "It's just a joke.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "C'est une blague.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0080",
     "en": "It's a real spell.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "C'est un vrai sort.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0082",
     "en": "Could I be on Idol?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je peux être idole?(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0083",
     "en": "I prefer a model.(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Plutôt mannequin.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0085",
     "en": "Once in a while...(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Parfois...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0086",
     "en": "Never heard of it...(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Jamais entendu...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0087",
     "en": "What kind of rumor?(*RESPONSE*)Heart(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Quelle rumeur?(*RESPONSE*)Coeur(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0088",
     "en": "Forget it!(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Laisse!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0090",
     "en": "Tell me!(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Dis-moi!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0091",
     "en": "Whoa, really?(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Ouah, vraiment?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0094",
     "en": "I've got reasons...(*RESPONSE*)",
-    "fr": "",
+    "fr": "J'ai mes raisons...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0099",
     "en": "Look! A UFO!(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Un OVNI, là!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0100",
     "en": "Hyahahahaha!(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Hyahahahaha!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0108",
     "en": "Don't get me wrong!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Te méprends pas!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0109",
     "en": "Hmph, you're happy?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Hmph, t'es content?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0111",
     "en": "There is.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Il y en a.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0112",
     "en": "Don't be so boring.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Sois pas si plat.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0114",
     "en": "It makes sense.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Ça se tient.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0116",
     "en": "You understand now?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu comprends, là?(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0123",
     "en": "You bastard!(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Salopard!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0125",
     "en": "Hmph... Heh.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Hmph... Héh.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0130",
     "en": "Hmph, I refuse!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hmph, refusé!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0131",
     "en": "Why you! It's rude!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Hé! C'est grossier!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0138",
     "en": "That dance was old.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Danse dépassée.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0141",
     "en": "It's cool, man.(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est cool.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0143",
     "en": "Fall to the ground(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Tomber par terre(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0148",
     "en": "What the hell!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Mais bordel!?(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0149",
     "en": "Huh, punk!?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Hein, con!?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0156",
     "en": "Look the other way(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Regarder ailleurs(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0157",
     "en": "'the hell!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "bordel!?(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0159",
     "en": "Yeah, there is!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ouais, y en a!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0160",
     "en": "There isn't...(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Y en a pas...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0161",
     "en": "Serious, there is.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Sérieux, y en a.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0166",
     "en": "Ya got me.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Tu m'as eu.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0167",
     "en": "I getchya.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "J'ai pigé.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0168",
     "en": "How should I know?(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Comment je saurais?(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "SINSI.BIN:resp:0170",
     "en": "That makes me happy!(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Ça me fait plaisir!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0172",
     "en": "You're scared, huh?(*RESPONSE*)",
-    "fr": "",
+    "fr": "T'as peur, hein?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0175",
     "en": "I like scary things.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "J'aime avoir peur.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0177",
     "en": "I have dreams.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "J'ai des rêves.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0178",
     "en": "I have a good voice.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "J'ai une belle voix.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0180",
     "en": "The song is good.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Bonne chanson.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0181",
     "en": "Yes, I see.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Je vois.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0183",
     "en": "Were you talking?(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Tu parlais?(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0189",
     "en": "Yes, strictly.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Oui, sévère.(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "SINSI.BIN:resp:0190",
     "en": "I had freedom.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "J'étais libre.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0191",
     "en": "Can I have an item?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Un objet pour moi?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0193",
     "en": "You seem tired.(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es fatigué?(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0194",
     "en": "So many.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Plein.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0195",
     "en": "I haven't a clue.(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Aucune idée.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0201",
     "en": "I don't understand.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Je comprends pas.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0204",
     "en": "I so don't need it.(*RESPONSE*)",
-    "fr": ""
+    "fr": "J'en ai pas besoin.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0205",
     "en": "They were tough.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "C'était dur.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0206",
     "en": "I was spoiled.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "J'étais gâté.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0207",
     "en": "I didn't hear that.(*RESPONSE*)",
-    "fr": "",
+    "fr": "J'ai pas entendu.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0209",
     "en": "Huh? What'd you say?(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Hein? T'as dit quoi?(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0211",
     "en": "Never mind!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Laisse!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0216",
     "en": "What an old man...(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Quel vieux...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0221",
     "en": "That's gross!(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "C'est dégueu!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0222",
     "en": "I'm so sure.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Mais bien sûr.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0223",
     "en": "Huhhh? You think?(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Hein? Tu trouves?(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0225",
     "en": "Waaaaaaaaa!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Waaaaaaaaa!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0227",
     "en": "That's true, but...!(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "C'est vrai, mais...!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0228",
     "en": "That's not true...(*RESPONSE*) ",
-    "fr": "",
+    "fr": "C'est pas vrai...(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "SINSI.BIN:resp:0233",
     "en": "That doesn't matter!(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "C'est sans importance!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0237",
     "en": "I was treated well.(*RESPONSE*)",
-    "fr": "",
+    "fr": "On m'a bien traité.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0238",
     "en": "Is that an apology?(*RESPONSE*)",
-    "fr": "",
+    "fr": "C'est des excuses?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0241",
     "en": ".........(*RESPONSE*)  ",
-    "fr": "",
+    "fr": ".........(*RESPONSE*)",
     "_occurrences": 11
   },
   {
     "id": "SINSI.BIN:resp:0243",
     "en": "It's a lot.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Beaucoup.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0244",
     "en": "Don't be so anal.(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Pas si tatillon.(*RESPONSE*)",
     "_occurrences": 2
   }
 ]

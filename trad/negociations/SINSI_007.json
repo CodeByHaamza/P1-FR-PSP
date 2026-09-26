@@ -2,190 +2,190 @@
   {
     "id": "SINSI.BIN:resp:0249",
     "en": "Yeah, I get it.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ouais, compris.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0260",
     "en": "Cling to him(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "S'accrocher(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0262",
     "en": "You bet.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Et comment.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0263",
     "en": "Probably not.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Sans doute pas.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0268",
     "en": "Wrong, dumbass!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Faux, abruti!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0270",
     "en": "Manners.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Manières.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0271",
     "en": "Quit buggin' me!(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Lâche-moi un peu!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0275",
     "en": "Well excuse me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh pardon!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0282",
     "en": "I'll let it go.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Je laisse.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0287",
     "en": "Raaaaaaaarrrr!(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Raaaaaaaarrrr!(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0293",
     "en": "Ha... You wanna die?(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Ha... Tu veux crever?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0295",
     "en": "I'm dangerous.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Dangereux, moi.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0296",
     "en": "Tell him(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Lui dire(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0298",
     "en": "Don't tell him(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Rien dire(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0299",
     "en": "World peace.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "La paix.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0300",
     "en": "Demon genocide.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tuer les démons(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0301",
     "en": "Saving the princess.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Sauver la princesse.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0302",
     "en": "You look annoying.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "T'as l'air pénible.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0303",
     "en": "You're too cool.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "T'es trop classe.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0305",
     "en": "Happy-go-lucky.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Insouciant.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0306",
     "en": "I'm right.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "J'ai raison(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0307",
     "en": "I mess up sometimes.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Je me trompe parfois.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0309",
     "en": "Totally wrong.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Tout faux.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0310",
     "en": "Y'know, that time...(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Tu sais, cette fois...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0311",
     "en": "I don't remember...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Aucun souvenir...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0312",
     "en": "Are you flirting?(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Tu me dragues?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0314",
     "en": "An idler.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Un oisif.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0315",
     "en": "A fool.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Un sot.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0316",
     "en": "Just a student.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Un lycéen.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0317",
     "en": "I'm scared, but...(*RESPONSE*) ",
-    "fr": ""
+    "fr": "J'ai peur, mais...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0319",
     "en": "I'm having fun.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je m'amuse.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0321",
     "en": "It's boring...(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Ennuyeux...(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0322",
     "en": "Could be dangerous.(*RESPONSE*)",
-    "fr": "",
+    "fr": "C'est dangereux.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "SINSI.BIN:resp:0324",
     "en": "I wanna try.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Ça me tente.(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0325",
     "en": "Is that so?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Vraiment?(*RESPONSE*)"
   },
   {
     "id": "SINSI.BIN:resp:0326",
     "en": "I don't plan on it.(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est pas prévu.(*RESPONSE*)"
   }
 ]
