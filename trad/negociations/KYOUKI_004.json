@@ -2,7 +2,7 @@
   {
     "id": "KYOUKI.BIN:text:0314",
     "en": " That so? Maybe I'm not that bad after{SAUT}all!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Ah ouais? J'suis peut-être pas si{SAUT}mauvais, finalement!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0315",
@@ -12,19 +12,19 @@
   {
     "id": "KYOUKI.BIN:text:0316",
     "en": " Right? Humanity doesn't need weak-ass{SAUT}guys either!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Hein? L'humanité veut pas de mous{SAUT}non plus!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:text:0317",
     "en": " Hey hey, that's common knowledge, lady.{SAUT}Lemme put it this way...{ATTENTE}",
-    "fr": "",
+    "fr": " Hé hé, tout le monde sait ça, ma belle.{SAUT}Je vais te le dire autrement...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:text:0318",
     "en": "{PAGE}If an insect says its a demon, you'd{SAUT}crush it all the same, right?(*RESPONSE*)",
-    "fr": "",
+    "fr": "{PAGE}Si un insecte dit qu'il est un démon,{SAUT}tu l'écrases quand même, non?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -42,29 +42,29 @@
   {
     "id": "KYOUKI.BIN:text:0325",
     "en": " Haha, no need to lie! Sticking to your{SAUT}plans is important!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Haha, pas la peine de mentir! Tenir{SAUT}ses plans, c'est important!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:text:0326",
     "en": " My rage just hit 11 on the 10-point{SAUT}scale, bro! Time to kill some people!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Ma rage vient de monter à 11 sur 10,{SAUT}frangin! L'heure de tuer du monde!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:text:0327",
     "en": "  Heh, you're on! I'll crush you!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Héh, c'est parti! Je t'écrase!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0328",
     "en": "You're a girl... I don't like how guilty{SAUT}that makes me feel about this...(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es une fille... J'aime pas la{SAUT}culpabilité que ça me donne...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0329",
     "en": "  Eh, don't sweat it. Just gimme something{SAUT}and we'll be cool.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "  Bah, t'inquiète. File-moi juste un{SAUT}truc et on sera bons.[FFF1](*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0330",
@@ -79,7 +79,7 @@
   {
     "id": "KYOUKI.BIN:text:0337",
     "en": "   Arrrgh! This isn't good!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Arrrgh! C'est pas bon, ça!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0338",
