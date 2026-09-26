@@ -2,175 +2,175 @@
   {
     "id": "KYOUKI.BIN:text:0000",
     "en": "I don't know what nerds like you talk{SAUT}about, but it sounds kinda fun.(*RESPONSE*)",
-    "fr": ""
+    "fr": "J'sais pas de quoi causent les intellos{SAUT}comme toi, mais ça a l'air marrant.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0001",
     "en": "  You don't sound much like a high{SAUT}schooler when you talk... You lyin'{SAUT}about your age?[FFFD]É[F500] You punk! You pullin' one over on me!?{SAUT}Are ya!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Tu parles pas trop comme un lycéen...{SAUT}Tu mentirais pas sur ton âge,{SAUT}par hasard?[FFFD]É[F500]Enfoiré! Tu te fous de moi, là!?{SAUT}Hein!?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0002",
     "en": "You seriously tryin' to talk me into{SAUT}this? Lying only causes trouble, man!{SAUT}Wanna know why?{ATTENTE}",
-    "fr": "",
+    "fr": "Tu veux vraiment me convaincre?{SAUT}Mentir, ça attire que des ennuis!{SAUT}Tu veux savoir pourquoi?{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "KYOUKI.BIN:text:0003",
     "en": "{PAGE}Because liars get their tongues ripped{SAUT}out by the law![FFFD]α[F500]   Hyahahahaha! You need me? ME, you say!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Parce que les menteurs, la loi leur{SAUT}arrache la langue![FFFD]α[F500]Hyahahahaha! T'as besoin de MOI!?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0004",
     "en": "You think you could actually control me?{SAUT}ME, [FFF3]?[FFFD][02FF][F500]  Sounds like you're pretty sure of{SAUT}yourself! Better not let it go to your{SAUT}head, or you'll regret it!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu crois pouvoir me contrôler, moi?{SAUT}MOI, [FFF3]?[FFFD][02FF][F500]T'as l'air sacrément sûr de toi!{SAUT}Gonfle pas trop la tête, tu vas{SAUT}le regretter!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0005",
     "en": "You think you could kill me!? Gahaha,{SAUT}you couldn't handle it.[FFFD][03FF][F500]Hehehe! Time to see if the blood of{SAUT}stupid humans runs as red as they say!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu crois pouvoir me tuer!? Gahaha,{SAUT}tu fais pas le poids.[FFFD][03FF][F500]Héhéhé! On va voir si le sang des{SAUT}humains débiles est aussi rouge qu'on dit!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0006",
     "en": " What's that? You want me to kill you{SAUT}first? Ha, my pleasure![FFFD][04FF][F500] I didn't do anything... C'mon, you're{SAUT}fingerin' the wrong guy...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Quoi? Tu veux que je te tue en{SAUT}premier? Ha, avec plaisir![FFFD][04FF][F500]J'ai rien fait... Allez, tu te{SAUT}trompes de gars...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0007",
     "en": "   I'm beggin' ya, lemme go. I've got a{SAUT}wife and kid back home, and they're{SAUT}starvin'.[FFFD][05FF][F500]   I don't know what nerds like you talk{SAUT}about, but it sounds kinda fun.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   J'te supplie, laisse-moi. J'ai femme{SAUT}et gosse à la maison, et ils{SAUT}crèvent la faim.[FFFD][05FF][F500]J'sais pas de quoi causent les intellos{SAUT}comme toi, mais ça a l'air marrant.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0008",
     "en": "  Bein' invited's fine and all, but are{SAUT}you really a high school kid? You better{SAUT}not be lyin' 'bout your age...[FFFD][06FF][F500]You punk! You pullin' one over on me!?{SAUT}Are ya!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Être invité, ça me va, mais t'es{SAUT}vraiment lycéen? Mens pas sur{SAUT}ton âge, hein...[FFFD][06FF][F500]Enfoiré! Tu te fous de moi, là!?{SAUT}Hein!?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0010",
     "en": "{PAGE}Because liars get their tongues ripped{SAUT}out by the law![FFFD][07FF][F500]   Where you plannin' on takin' me...?{SAUT}Maybe it's best to steer clear of you...(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Parce que les menteurs, la loi leur{SAUT}arrache la langue![FFFD][07FF][F500]Tu comptes m'emmener où...?{SAUT}Vaut mieux se tenir loin de toi...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0011",
     "en": "   Oh, er, damn! I got errands to run. Man,{SAUT}I almost forgot...[FFFD][08FF][F500]  That song is whack! Unless you're TRYING{SAUT}to sound like a whale!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Ah, euh, merde! J'ai des courses.{SAUT}J'avais presque oublié...[FFFD][08FF][F500]Elle est pourrie, ta chanson! À moins{SAUT}que tu VEUILLES faire la baleine!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0012",
     "en": "Damn, no need to go showin' off!{SAUT}I'm SO sorry I'm tone-deaf, alright!?[FFFD][09FF][F500]   Y-You're good...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Merde, pas la peine de te vanter!{SAUT}Désolé d'être à côté, hein!?[FFFD][09FF][F500]T-T'es doué...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0013",
     "en": "   Damn, are you part banshee!? S-Stop{SAUT}it, please![FFFD][0AFF][F500]  Ah, my heart feels cleansed... Maybe{SAUT}it's time to re-evalute my life...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Merde, t'es à moitié banshee!? A-Arrête{SAUT}ça, pitié![FFFD][0AFF][F500]Ah, j'ai le coeur tout lavé... Peut-être{SAUT}qu'il est temps de revoir ma vie...?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0014",
     "en": "   Bravo! Oh, good for you![FFFD][0BFF][F500] I don't know what chicks like you{SAUT}talk about, but it sounds kinda fun.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Bravo! Ah, bien joué![FFFD][0BFF][F500]J'sais pas de quoi causent les meufs{SAUT}comme toi, mais ça a l'air marrant.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0015",
     "en": " You don't sound much like a high{SAUT}schooler when you talk... You lyin'{SAUT}about your age?[FFFD][0CFF][F500] You tramp! You pullin' one over on me!?{SAUT}Are ya!?(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tu parles pas trop comme un lycéen...{SAUT}Tu mentirais pas sur ton âge,{SAUT}par hasard?[FFFD][0CFF][F500]Salope! Tu te fous de moi, là!?{SAUT}Hein!?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0016",
     "en": "   You serious, girl? If it's a lie, you're{SAUT}in deep shit!{ATTENTE}",
-    "fr": "",
+    "fr": "   Sérieux, meuf? Si c'est un mensonge,{SAUT}t'es dans la merde!{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:text:0017",
     "en": "{PAGE}Because liars get their tongues ripped{SAUT}out by the law![FFFD][0DFF][F500]   Hyahahahaha! You need me? ME, you say!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Parce que les menteurs, la loi leur{SAUT}arrache la langue![FFFD][0DFF][F500]Hyahahahaha! T'as besoin de MOI!?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0018",
     "en": "You think you could actually control me?{SAUT}ME, [FFF3], human?[FFFD][0EFF][F500]   I'm the strongest, most popular demon{SAUT}ever to cruise the streets! Don't front!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu crois pouvoir me contrôler, moi?{SAUT}MOI, [FFF3], humain?[FFFD][0EFF][F500]J'suis le démon le plus fort et le plus{SAUT}populaire de la rue! Fais pas semblant!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0019",
     "en": " Damn girl, what's with that? You ain't{SAUT}got no pride left?[FFFD][0FFF][F500]You gonna shank me when I turn my back?{SAUT}That's scary! I'm gettin' the chills!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Merde, meuf, c'est quoi ça? T'as plus{SAUT}aucune fierté?[FFFD][0FFF][F500]Tu vas me planter dès que je tourne le{SAUT}dos? Ça fait peur! J'ai des frissons!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0020",
     "en": "  Don't even bother. Nobody likes me{SAUT}anyway. I bet YOU'RE more popular...[FFFD][10FF][F500]  Well, I'll be ruling this world pretty{SAUT}soon... You can be my queen! Hahaha!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Laisse tomber. Personne m'aime, de{SAUT}toute façon. TOI, t'es plus populaire...[FFFD][10FF][F500]Bon, je vais bientôt régner sur ce{SAUT}monde... Tu seras ma reine! Hahaha!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0021",
     "en": "It's just what you'd think: Demons gotta{SAUT}roll strong!{ATTENTE}",
-    "fr": "",
+    "fr": "C'est ce que tu crois: un démon, ça{SAUT}doit être fort!{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:text:0022",
     "en": "{PAGE}In other words, if you're a pansy, you{SAUT}ain't a demon at all![FFFD][11FF][F500]  I don't know what chicks like you{SAUT}talk about, but it sounds kinda fun.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Autrement dit, si t'es une lavette,{SAUT}t'es pas un démon du tout![FFFD][11FF][F500]J'sais pas de quoi causent les meufs{SAUT}comme toi, mais ça a l'air marrant.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0023",
     "en": " You don't sound much like a high{SAUT}schooler when you talk... You lyin'{SAUT}about your age?[FFFD][12FF][F500] You tramp! You pullin' one over on me!?{SAUT}Are ya!?(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tu parles pas trop comme un lycéen...{SAUT}Tu mentirais pas sur ton âge,{SAUT}par hasard?[FFFD][12FF][F500]Salope! Tu te fous de moi, là!?{SAUT}Hein!?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0025",
     "en": "{PAGE}Because liars get their tongues ripped{SAUT}out by the law![FFFD][13FF][F500]   I don't even know what you're saying,{SAUT}but I'm pretty sweet huh!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Parce que les menteurs, la loi leur{SAUT}arrache la langue![FFFD][13FF][F500]J'comprends même pas ce que tu dis,{SAUT}mais j'suis plutôt classe, hein!?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0026",
     "en": "   You tryin' to sign me on to your{SAUT}cause or somethin'? Whatever, you{SAUT}just want my power, yeah?[FFFD][14FF][F500] Don't be scared! I'm nice to the ladies!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Tu veux me recruter pour ta cause{SAUT}ou un truc comme ça? Bref, tu veux{SAUT}juste ma force, ouais?[FFFD][14FF][F500]Aie pas peur! Avec les dames, je suis sympa!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0027",
     "en": "   Fighting a chick is lame. Bring out{SAUT}your boyfriend, I'll take him on![FFFD][15FF][F500]I'm the strongest, most popular demon{SAUT}ever to cruise the streets! Don't front!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Taper une meuf, c'est nul. Sors-moi{SAUT}ton copain, je le prends![FFFD][15FF][F500]J'suis le démon le plus fort et le plus{SAUT}populaire de la rue! Fais pas semblant!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0028",
     "en": " Damn girl, what's with that? You ain't{SAUT}got no pride left?[FFFD][16FF][F500]Well, I'll be ruling this world pretty{SAUT}soon... You can be my queen! Hahaha!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Merde, meuf, c'est quoi ça? T'as plus{SAUT}aucune fierté?[FFFD][16FF][F500]Bon, je vais bientôt régner sur ce{SAUT}monde... Tu seras ma reine! Hahaha!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0030",
     "en": "{PAGE}In other words, if you're a pansy, you{SAUT}ain't a demon at all![FFFD][17FF][F500]  Hyahaha! You hittin' on me? You've got{SAUT}guts!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Autrement dit, si t'es une lavette,{SAUT}t'es pas un démon du tout![FFFD][17FF][F500]Hyahaha! Tu me dragues? T'as du{SAUT}culot!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0031",
     "en": "   What!? What the hell is up with this?{SAUT}I feel all weird...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Quoi!? C'est quoi ce bordel?{SAUT}J'me sens tout bizarre...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0032",
     "en": "  Screw men! Er... You know!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  J'emmerde les mecs! Euh... Tu vois!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0033",
     "en": " Shut the hell up! One more word outta{SAUT}your mouth, and you're dead![FFFD][18FF][F500]   Hey hey hey! That ain't funny...{SAUT}Oh damn, those eyes mean business...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Ferme ta gueule! Un mot de plus et{SAUT}t'es mort![FFFD][18FF][F500]Hé hé hé! C'est pas drôle...{SAUT}Oh merde, ce regard plaisante pas...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0034",
     "en": "  I-I'm a guy...! You want some proof!?{SAUT}Er... nevermind![FFFD][19FF][F500]   You... You're pretty cute. Alright,{SAUT}call me later.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  J-Je suis un mec...! Tu veux une{SAUT}preuve!? Euh... laisse tomber![FFFD][19FF][F500]Toi... t'es plutôt mignonne. Bon,{SAUT}appelle-moi.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0035",
     "en": " Sure thing...[FFFD][1AFF][F500]A joke for the new age! You're a{SAUT}funny guy!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Ça marche...[FFFD][1AFF][F500]Une blague nouvelle génération!{SAUT}T'es un marrant!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0036",
     "en": "Ah, an upcoming comedian, eh? So how's{SAUT}life? Are ya eating well?[FFFD][1BFF][F500] ...What the hell!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ah, un futur comique, hein? Et la vie,{SAUT}ça va? Tu manges bien?[FFFD][1BFF][F500]...C'est quoi, ça!?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0037",
@@ -210,7 +210,7 @@
   {
     "id": "KYOUKI.BIN:text:0044",
     "en": "Hey! Were you absent the day they{SAUT}handed out brains!?[FFFD][23FF][F500]Yikes... What the hell was that...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hé! T'étais absent le jour où on{SAUT}a distribué les cerveaux!?[FFFD][23FF][F500]Ouille... C'était quoi ce truc...?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0045",
@@ -235,7 +235,7 @@
   {
     "id": "KYOUKI.BIN:text:0049",
     "en": "  You don't sound much like a high{SAUT}schooler when you talk... You lyin'{SAUT}about your age?[FFFD][28FF][F500] You punk! You pullin' one over on me!?{SAUT}Are ya!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Tu parles pas trop comme un lycéen...{SAUT}Tu mentirais pas sur ton âge,{SAUT}par hasard?[FFFD][28FF][F500]Enfoiré! Tu te fous de moi, là!?{SAUT}Hein!?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0050",
@@ -245,22 +245,22 @@
   {
     "id": "KYOUKI.BIN:text:0051",
     "en": "You think you could actually control me?{SAUT}ME, [FFF3]?[FFFD][2AFF][F500]  Sounds like you're pretty sure of{SAUT}yourself! Better not let it go to your{SAUT}head, or you'll regret it!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu crois pouvoir me contrôler, moi?{SAUT}MOI, [FFF3]?[FFFD][2AFF][F500]T'as l'air sacrément sûr de toi!{SAUT}Gonfle pas trop la tête, tu vas{SAUT}le regretter!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0052",
     "en": "You think you could kill me!? Gahaha,{SAUT}you couldn't handle it.[FFFD][2BFF][F500]Hehehe! Time to see if the blood of{SAUT}stupid humans runs as red as they say!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu crois pouvoir me tuer!? Gahaha,{SAUT}tu fais pas le poids.[FFFD][2BFF][F500]Héhéhé! On va voir si le sang des{SAUT}humains débiles est aussi rouge qu'on dit!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0053",
     "en": " What's that? You want me to kill you{SAUT}first? Ha, my pleasure![FFFD][2CFF][F500] I didn't do anything... C'mon, you're{SAUT}fingerin' the wrong guy...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Quoi? Tu veux que je te tue en{SAUT}premier? Ha, avec plaisir![FFFD][2CFF][F500]J'ai rien fait... Allez, tu te{SAUT}trompes de gars...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0054",
     "en": "   I'm beggin' ya, lemme go. I've got a{SAUT}wife and kid back home, and they're{SAUT}starvin'.[FFFD][2DFF][F500]   Hmm... I'd heard you kids were getting{SAUT}more conceited, but it's true.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   J'te supplie, laisse-moi. J'ai femme{SAUT}et gosse à la maison, et ils{SAUT}crèvent la faim.[FFFD][2DFF][F500]Hmm... On m'avait dit que les jeunes{SAUT}devenaient prétentieux. C'est vrai.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0055",
@@ -295,12 +295,12 @@
   {
     "id": "KYOUKI.BIN:text:0061",
     "en": "You think you could kill me!? Gahaha,{SAUT}you couldn't handle it.[FFFD][34FF][F500]Hehehe! Time to see if the blood of{SAUT}stupid humans runs as red as they say!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu crois pouvoir me tuer!? Gahaha,{SAUT}tu fais pas le poids.[FFFD][34FF][F500]Héhéhé! On va voir si le sang des{SAUT}humains débiles est aussi rouge qu'on dit!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0062",
     "en": " What's that? You want me to kill you{SAUT}first? Ha, my pleasure![FFFD][35FF][F500] I didn't do anything... C'mon, you're{SAUT}fingerin' the wrong guy...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Quoi? Tu veux que je te tue en{SAUT}premier? Ha, avec plaisir![FFFD][35FF][F500]J'ai rien fait... Allez, tu te{SAUT}trompes de gars...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0063",
@@ -325,7 +325,7 @@
   {
     "id": "KYOUKI.BIN:text:0067",
     "en": "  You don't sound much like a high{SAUT}schooler when you talk... You lyin'{SAUT}about your age?[FFFD][3AFF][F500] You punk! You pullin' one over on me!?{SAUT}Are ya!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Tu parles pas trop comme un lycéen...{SAUT}Tu mentirais pas sur ton âge,{SAUT}par hasard?[FFFD][3AFF][F500]Enfoiré! Tu te fous de moi, là!?{SAUT}Hein!?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0068",
@@ -365,7 +365,7 @@
   {
     "id": "KYOUKI.BIN:text:0075",
     "en": "Damn, no need to go showin' off!{SAUT}I'm SO sorry I'm tone-deaf, alright!?[FFFD][41FF][F500]   Ah, my heart feels cleansed... Maybe{SAUT}it's time to re-evalute my life...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Merde, pas la peine de te vanter!{SAUT}Désolé d'être à côté, hein!?[FFFD][41FF][F500]Ah, j'ai le coeur tout lavé... Peut-être{SAUT}qu'il est temps de revoir ma vie...?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0076",
@@ -390,22 +390,22 @@
   {
     "id": "KYOUKI.BIN:text:0080",
     "en": " Bein' invited's fine and all, but are{SAUT}you really a high school kid? You better{SAUT}not be lyin' 'bout your age...[FFFD][46FF][F500]You punk! You pullin' one over on me!?{SAUT}Are ya!?(*RESPONSE*)",
-    "fr": ""
+    "fr": " Être invité, ça me va, mais t'es{SAUT}vraiment lycéen? Mens pas sur{SAUT}ton âge, hein...[FFFD][46FF][F500]Enfoiré! Tu te fous de moi, là!?{SAUT}Hein!?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0082",
     "en": "{PAGE}Because liars get their tongues ripped{SAUT}out by the law![FFFD][47FF][F500]   Hyahahahaha! You need me? ME, you say!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Parce que les menteurs, la loi leur{SAUT}arrache la langue![FFFD][47FF][F500]Hyahahahaha! T'as besoin de MOI!?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0083",
     "en": "You think you could actually control me?{SAUT}ME, [FFF3]?[FFFD][48FF][F500]  Hmm... I'd heard you kids were getting{SAUT}more conceited, but it's true.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu crois pouvoir me contrôler, moi?{SAUT}MOI, [FFF3]?[FFFD][48FF][F500]Hmm... On m'avait dit que les jeunes{SAUT}devenaient prétentieux. C'est vrai.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0084",
     "en": "  I'll teach ya some manners... Hahaha...{SAUT}Gimme your hand![FFFD][49FF][F500] What was that!? You better shut your{SAUT}mouth!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  J'vais t'apprendre les manières...{SAUT}Hahaha... File ta main![FFFD][49FF][F500]C'était quoi ça!? Ferme ta{SAUT}gueule!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0085",
@@ -420,7 +420,7 @@
   {
     "id": "KYOUKI.BIN:text:0087",
     "en": "  What!? What the hell is up with this?{SAUT}I feel all weird...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Quoi!? C'est quoi ce bordel?{SAUT}J'me sens tout bizarre...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0088",
@@ -460,32 +460,32 @@
   {
     "id": "KYOUKI.BIN:text:0095",
     "en": " What's that? You want me to kill you{SAUT}first? Ha, my pleasure![FFFD][52FF][F500] I didn't do anything... C'mon, you're{SAUT}fingerin' the wrong guy...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Quoi? Tu veux que je te tue en{SAUT}premier? Ha, avec plaisir![FFFD][52FF][F500]J'ai rien fait... Allez, tu te{SAUT}trompes de gars...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0096",
     "en": "   I'm beggin' ya, lemme go. I've got a{SAUT}wife and kid back home, and they're{SAUT}starvin'.[FFFD][53FF][F500]   What was that!? You better shut your{SAUT}mouth!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   J'te supplie, laisse-moi. J'ai femme{SAUT}et gosse à la maison, et ils{SAUT}crèvent la faim.[FFFD][53FF][F500]C'était quoi ça!? Ferme ta{SAUT}gueule!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0097",
     "en": "I'm about to beat some sense into you!{SAUT}This may hurt, but you'll live... Maybe![FFFD][54FF][F500]  ...I-I'm sorry...(*RESPONSE*)",
-    "fr": ""
+    "fr": "J'vais te remettre les idées en place!{SAUT}Ça fera mal, mais tu vivras... Peut-être![FFFD][54FF][F500]...D-Désolé...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0098",
     "en": "  You're strong for a chick... But uh,{SAUT}Missy? Lay off picking on the weak, eh?[FFFD][55FF][F500] You're nice and healthy. I've lost my{SAUT}energy... It sucks... Heh, except that{SAUT}I'm totally lying.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  T'es forte pour une meuf... Mais dis,{SAUT}ma belle? Arrête de taper les faibles.[FFFD][55FF][F500]T'es en pleine forme. Moi j'ai plus{SAUT}d'énergie... C'est nul... Héh, sauf{SAUT}que je mens complètement.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0099",
     "en": "Th-This feeling...I can't contain it!{SAUT}Do some more![FFFD][56FF][F500]  I don't know what nerds like you talk{SAUT}about, but it sounds kinda fun.(*RESPONSE*)",
-    "fr": ""
+    "fr": "C-Ce truc... J'arrive pas à me{SAUT}retenir! Encore![FFFD][56FF][F500]J'sais pas de quoi causent les intellos{SAUT}comme toi, mais ça a l'air marrant.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0100",
     "en": "  You don't sound much like a high{SAUT}schooler when you talk... You lyin'{SAUT}about your age?[FFFD][57FF][F500] You punk! You pullin' one over on me!?{SAUT}Are ya!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Tu parles pas trop comme un lycéen...{SAUT}Tu mentirais pas sur ton âge,{SAUT}par hasard?[FFFD][57FF][F500]Enfoiré! Tu te fous de moi, là!?{SAUT}Hein!?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0101",
@@ -500,6 +500,6 @@
   {
     "id": "KYOUKI.BIN:text:0103",
     "en": "I'm about to beat some sense into you!{SAUT}This may hurt, but you'll live... Maybe![FFFD][5AFF][F500]  ...I-I'm sorry...(*RESPONSE*)",
-    "fr": ""
+    "fr": "J'vais te remettre les idées en place!{SAUT}Ça fera mal, mais tu vivras... Peut-être![FFFD][5AFF][F500]...D-Désolé...(*RESPONSE*)"
   }
 ]
