@@ -360,12 +360,12 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`KUTISAKE_001.json`](trad/negociations/KUTISAKE_001.json) | 100 | 100 | 100 % | terminé · 1 trop large |
 | [`KUTISAKE_002.json`](trad/negociations/KUTISAKE_002.json) | 100 | 100 | 100 % | terminé · 3 trop large |
 | [`KUTISAKE_003.json`](trad/negociations/KUTISAKE_003.json) | 81 | 81 | 100 % | terminé · 7 trop large |
-| [`KYOUKI_001.json`](trad/negociations/KYOUKI_001.json) | 100 | 0 | 0 % | libre |
-| [`KYOUKI_002.json`](trad/negociations/KYOUKI_002.json) | 100 | 0 | 0 % | libre |
-| [`KYOUKI_003.json`](trad/negociations/KYOUKI_003.json) | 100 | 0 | 0 % | libre |
-| [`KYOUKI_004.json`](trad/negociations/KYOUKI_004.json) | 100 | 0 | 0 % | libre |
-| [`KYOUKI_005.json`](trad/negociations/KYOUKI_005.json) | 100 | 0 | 0 % | libre |
-| [`KYOUKI_006.json`](trad/negociations/KYOUKI_006.json) | 100 | 0 | 0 % | libre |
+| [`KYOUKI_001.json`](trad/negociations/KYOUKI_001.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#81) |
+| [`KYOUKI_002.json`](trad/negociations/KYOUKI_002.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#81) |
+| [`KYOUKI_003.json`](trad/negociations/KYOUKI_003.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#81) |
+| [`KYOUKI_004.json`](trad/negociations/KYOUKI_004.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#81) |
+| [`KYOUKI_005.json`](trad/negociations/KYOUKI_005.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#81) |
+| [`KYOUKI_006.json`](trad/negociations/KYOUKI_006.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#81) |
 | [`KYOUKI_007.json`](trad/negociations/KYOUKI_007.json) | 23 | 0 | 0 % | libre |
 | [`MAYOERU_001.json`](trad/negociations/MAYOERU_001.json) | 100 | 100 | 100 % | terminé |
 | [`MAYOERU_002.json`](trad/negociations/MAYOERU_002.json) | 100 | 100 | 100 % | terminé |
@@ -378,12 +378,12 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`QSIRUBA_002.json`](trad/negociations/QSIRUBA_002.json) | 100 | 100 | 100 % | terminé · 13 trop large |
 | [`QSIRUBA_003.json`](trad/negociations/QSIRUBA_003.json) | 20 | 20 | 100 % | terminé · 4 trop large |
 | [`SINSI_001.json`](trad/negociations/SINSI_001.json) | 100 | 100 | 100 % | terminé |
-| [`SINSI_002.json`](trad/negociations/SINSI_002.json) | 100 | 7 | 7 % | commencé |
-| [`SINSI_003.json`](trad/negociations/SINSI_003.json) | 100 | 0 | 0 % | libre |
-| [`SINSI_004.json`](trad/negociations/SINSI_004.json) | 100 | 0 | 0 % | libre |
-| [`SINSI_005.json`](trad/negociations/SINSI_005.json) | 100 | 1 | 1 % | commencé |
-| [`SINSI_006.json`](trad/negociations/SINSI_006.json) | 100 | 2 | 2 % | commencé |
-| [`SINSI_007.json`](trad/negociations/SINSI_007.json) | 36 | 0 | 0 % | libre |
+| [`SINSI_002.json`](trad/negociations/SINSI_002.json) | 100 | 7 | 7 % | en cours par @CodeByHaamza (#81) |
+| [`SINSI_003.json`](trad/negociations/SINSI_003.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#81) |
+| [`SINSI_004.json`](trad/negociations/SINSI_004.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#81) |
+| [`SINSI_005.json`](trad/negociations/SINSI_005.json) | 100 | 1 | 1 % | en cours par @CodeByHaamza (#81) |
+| [`SINSI_006.json`](trad/negociations/SINSI_006.json) | 100 | 2 | 2 % | en cours par @CodeByHaamza (#81) |
+| [`SINSI_007.json`](trad/negociations/SINSI_007.json) | 36 | 0 | 0 % | en cours par @CodeByHaamza (#81) |
 | [`SLIME_001.json`](trad/negociations/SLIME_001.json) | 100 | 100 | 100 % | terminé |
 | [`SLIME_002.json`](trad/negociations/SLIME_002.json) | 100 | 100 | 100 % | terminé |
 | [`SLIME_003.json`](trad/negociations/SLIME_003.json) | 20 | 20 | 100 % | terminé |
