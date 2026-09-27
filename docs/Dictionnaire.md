@@ -239,7 +239,7 @@
 
 ---
 
-## 🏷️ Noms de l'EBOOT (objets / armes / armures / sorts / démons / Personas)
+## 🏷️ Noms de l'EBOOT (objets / armes / armures / sorts / démons / Personae)
 
 Source : EBOOT **déchiffré**, extraits par `game/tools/_ancien_pipeline/p1_names.py` (ancien pipeline) → `game/scripts/names/names_eboot.json`
 (`{off, en, max, fr}`). **Politique de traduction validée (convention série) :**
