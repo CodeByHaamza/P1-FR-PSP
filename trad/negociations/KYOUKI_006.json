@@ -2,484 +2,484 @@
   {
     "id": "KYOUKI.BIN:text:0593",
     "en": "  Oh really... Well... If it's for your{SAUT}sake, I guess...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Ah ouais... Bon... Si c'est pour toi,{SAUT}j'imagine...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0594",
     "en": " ...Ugh, whaddaya mean, \"why?\"(*RESPONSE*)",
-    "fr": ""
+    "fr": " ...Ugh, comment ça, \"pourquoi?\"(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0595",
     "en": "  Oh, that's kinda cool! I'll copy you!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Ah, c'est plutôt classe! Je te copie!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0596",
     "en": "  Hey, sounds good! Let's destroy the{SAUT}world, then we'll...! Huh? No?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hé, ça me va! Détruisons le monde,{SAUT}et après on...! Hein? Non?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0597",
     "en": " Why ya gotta put it that way...?{SAUT}Th-That's cold!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Pourquoi tu dis ça comme ça...?{SAUT}C-C'est froid!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0598",
     "en": "   Why ya gotta be all cold!? You don't{SAUT}get demons at all!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Pourquoi t'es si froid!? Tu comprends{SAUT}rien aux démons!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0599",
     "en": "What, are you worried about me? Damn,{SAUT}man... I'm touched...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Quoi, tu t'inquiètes pour moi? Merde,{SAUT}mec... ça me touche...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0600",
     "en": "I-I knew it! You're gonna shut me up!{SAUT}I'll be killed or locked away forever!(*RESPONSE*)",
-    "fr": ""
+    "fr": "J-Je le savais! Tu vas me faire taire!{SAUT}Je serai tué ou enfermé à jamais!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0601",
     "en": "   That was a joke? C'mon, [FFF3],{SAUT}if ya don't laugh, they'll kill ya...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   C'était une blague? Allez, [FFF3],{SAUT}si tu ris pas, ils te tuent...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0602",
     "en": "   Hyahaha! Good one! But I ain't gonna{SAUT}be fooled!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hyahaha! Bien joué! Mais on me la{SAUT}fait pas!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0603",
     "en": "Ha, brings back memories. I was kinda{SAUT}like that once... Maybe I should relive{SAUT}those days!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ha, ça me rappelle des souvenirs.{SAUT}J'étais un peu comme ça, avant...{SAUT}Je devrais revivre ce temps-là!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0604",
     "en": "  So it's something you've gotta do, even{SAUT}if you don't believe in it. Hm. I see...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Donc c'est un truc à faire même si{SAUT}t'y crois pas. Hm. Je vois...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0605",
     "en": "   You don't know? How am I supposed to let{SAUT}a fool like you control me!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Tu sais pas? Comment je pourrais{SAUT}laisser un sot comme toi me commander!?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0606",
     "en": "  Arrgggh! Wh-What are you doing!? You're{SAUT}inhumane! Ohhh, s-stop it...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Arrgggh! Q-Que fais-tu!? T'es{SAUT}inhumain! Ohhh, a-arrête...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0607",
     "en": "   S-Seriously!? Hey man, no jokes!{SAUT}You sure it's okay!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   S-Sérieux!? Hé mec, pas de blague!{SAUT}T'es sûr que c'est bon!?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0608",
     "en": "  Hmmm... I'm kinda happy, but sad at{SAUT}the same time... It's complicated...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hmmm... J'suis content et triste{SAUT}en même temps... C'est compliqué...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:text:0609",
     "en": "   Hmmm... I'm kinda happy, but sad at{SAUT}the same time... It's complicated...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hmmm... J'suis content et triste{SAUT}en même temps... C'est compliqué...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0001",
     "en": "No, I'm not.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Non, pas moi.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0002",
     "en": "I'm not lying!(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Je mens pas!(*RESPONSE*)",
     "_occurrences": 10
   },
   {
     "id": "KYOUKI.BIN:resp:0003",
     "en": "I lied.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Menti.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "KYOUKI.BIN:resp:0006",
     "en": "I'm not confident...(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Je suis pas sûr...(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "KYOUKI.BIN:resp:0008",
     "en": "I think so.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Je crois.(*RESPONSE*)",
     "_occurrences": 6
   },
   {
     "id": "KYOUKI.BIN:resp:0014",
     "en": "You've had it rough.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "T'en as bavé.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0015",
     "en": "So?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Et?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0017",
     "en": "I'm not.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Pas moi.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0021",
     "en": "Invite anyway(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Inviter(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0022",
     "en": "Ask about errands(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Parler des courses(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0027",
     "en": "Sing louder(*RESPONSE*)",
-    "fr": ""
+    "fr": "Plus fort(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0031",
     "en": "Heehee, you knew?(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Héhé, tu savais?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0034",
     "en": "I was lying.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Je mentais.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "KYOUKI.BIN:resp:0036",
     "en": "No worries!(*RESPONSE*)",
-    "fr": "",
+    "fr": "T'inquiète!(*RESPONSE*)",
     "_occurrences": 5
   },
   {
     "id": "KYOUKI.BIN:resp:0039",
     "en": "I have!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Oui!(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "KYOUKI.BIN:resp:0040",
     "en": "I haven't!(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Non!(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "KYOUKI.BIN:resp:0045",
     "en": "Yep! That's right!(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Ouais! C'est ça!(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "KYOUKI.BIN:resp:0047",
     "en": "You think?(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Tu crois?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0048",
     "en": "Heehee... You knew?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Héhé... Tu savais?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0056",
     "en": "I'm really strong.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Je suis très fort.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0058",
     "en": "Sorry, I'm weak...(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Désolé, chuis nul.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0067",
     "en": "What'll ya crush?(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Tu écraseras quoi?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0071",
     "en": "Good to know.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Bon à savoir.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0072",
     "en": "Whoa, seriously?(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Ouah, sérieux?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0078",
     "en": "That's not the plan.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "C'est pas le plan.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0079",
     "en": "Sorry you found out!(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Désolé, tu l'as vu!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0083",
     "en": "Hold up!(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Attends!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0085",
     "en": "Not with me...(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Pas avec moi...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0086",
     "en": "I read books.(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Je lis.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0088",
     "en": "What should I read?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je lis quoi?(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0089",
     "en": "Nice. Good to know.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Cool. Bon à savoir.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0090",
     "en": "You're behind.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "T'es en retard.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0095",
     "en": "I'm not crazy!(*RESPONSE*) ",
-    "fr": ""
+    "fr": "J'suis pas fou!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0099",
     "en": "The time is now...(*RESPONSE*) ",
-    "fr": "",
+    "fr": "C'est maintenant...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0104",
     "en": "I have...(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Oui...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0106",
     "en": "I haven't...(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Non...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0111",
     "en": "I'm a student.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Je suis lycéen.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0115",
     "en": "Simple.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Simple.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0118",
     "en": "I can kill you.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Je te tuerai.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0121",
     "en": "You misheard.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Mal entendu.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0122",
     "en": "That's unforgivable!(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "C'est impardonnable!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0124",
     "en": "You've had it hard.(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'en as bavé.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0125",
     "en": "Hmph. Stupid.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Hmph. Bête.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0126",
     "en": "Do it.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Fais-le(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0129",
     "en": "Try it.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Essaie.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0142",
     "en": "Uh-oh.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Oups.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0147",
     "en": "It's in your head.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "C'est dans ta tête.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0151",
     "en": "This is stupid.(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est bête.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0152",
     "en": "You shouldn't ask.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Demande pas.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0154",
     "en": "I'm lookin' at you.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je te regarde.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0160",
     "en": "I ain't a kid.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Pas un gamin.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0162",
     "en": "I ain't lying!(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Je mens pas!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0163",
     "en": "Wahaha, I lied.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Wahaha, menti.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0165",
     "en": "I want it!(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Je veux!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0171",
     "en": "Oh, behind you!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Derrière toi!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0172",
     "en": "I made it up.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "J'ai inventé.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0173",
     "en": "That is correct.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "C'est exact.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0174",
     "en": "It's new comedy.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "C'est du moderne.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0178",
     "en": "You're not tonedeaf.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "T'es pas faux.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0187",
     "en": "That's unacceptable!(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "C'est inacceptable!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0189",
     "en": "Very well...(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Très bien...(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0191",
     "en": "You found out.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Tu l'as vu.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0192",
     "en": "I'm in high school.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je suis au lycée.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0194",
     "en": "I lied...(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Menti...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0197",
     "en": "I have no evidence.(*RESPONSE*)",
-    "fr": "",
+    "fr": "J'ai pas de preuve.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0202",
     "en": "Go ahead.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Vas-y.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0203",
     "en": "No, no, no!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Non, non!(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "KYOUKI.BIN:resp:0205",
     "en": "Kyahaha!(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Kyahaha!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0206",
     "en": "Seriously!?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Sérieux!?(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "KYOUKI.BIN:resp:0210",
     "en": "I'll jump in!(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Je me jette!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0213",
     "en": "I'm wayyy happy!(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Trop content!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0215",
     "en": "I faked my tears!(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Larmes truquées!(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0216",
     "en": "Kyahahaha!(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Kyahahaha!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -491,53 +491,53 @@
   {
     "id": "KYOUKI.BIN:resp:0221",
     "en": "I can do that too.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Moi aussi je peux.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0223",
     "en": "I can't do that.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Je peux pas.(*RESPONSE*)"
   },
   {
     "id": "KYOUKI.BIN:resp:0225",
     "en": "I can't do that!(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Je peux pas!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0232",
     "en": "It's fine.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Ça va.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0236",
     "en": "I quit.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Stop.(*RESPONSE*)",
     "_occurrences": 4
   },
   {
     "id": "KYOUKI.BIN:resp:0253",
     "en": "You're not scary.(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "T'es pas effrayant.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0256",
     "en": "Yeah...(*RESPONSE*)",
-    "fr": "",
+    "fr": "Oui...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0258",
     "en": "Not true...(*RESPONSE*)",
-    "fr": "",
+    "fr": "Faux...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KYOUKI.BIN:resp:0261",
     "en": "Nuh uh.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Nan.(*RESPONSE*)"
   }
 ]
