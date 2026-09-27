@@ -117,7 +117,7 @@ majuscules accentuées `É À Ê Î Ô Ç`. Elles sont dessinées et validées e
 
 ## Ce qui ne s'invente pas
 
-- **Les noms propres, Personas, sorts, objets et lieux** passent par le
+- **Les noms propres, Personae, sorts, objets et lieux** passent par le
   [Dictionnaire](Dictionnaire.md). Un terme s'y trouve : tu l'emploies. Il ne
   s'y trouve pas : tu ouvres une issue, on tranche, on l'inscrit. Un terme
   traduit de deux façons dans le jeu, c'est un bug de traduction.
