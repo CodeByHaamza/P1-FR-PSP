@@ -372,9 +372,9 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`KYOUKI_002.json`](trad/negociations/KYOUKI_002.json) | 100 | 100 | 100 % | terminé |
 | [`KYOUKI_003.json`](trad/negociations/KYOUKI_003.json) | 100 | 100 | 100 % | terminé · 2 trop large |
 | [`KYOUKI_004.json`](trad/negociations/KYOUKI_004.json) | 100 | 100 | 100 % | terminé · 4 trop large |
-| [`KYOUKI_005.json`](trad/negociations/KYOUKI_005.json) | 100 | 6 | 6 % | commencé |
-| [`KYOUKI_006.json`](trad/negociations/KYOUKI_006.json) | 100 | 1 | 1 % | commencé |
-| [`KYOUKI_007.json`](trad/negociations/KYOUKI_007.json) | 23 | 0 | 0 % | libre |
+| [`KYOUKI_005.json`](trad/negociations/KYOUKI_005.json) | 100 | 6 | 6 % | en cours par @CodeByHaamza (#84) |
+| [`KYOUKI_006.json`](trad/negociations/KYOUKI_006.json) | 100 | 1 | 1 % | en cours par @CodeByHaamza (#84) |
+| [`KYOUKI_007.json`](trad/negociations/KYOUKI_007.json) | 23 | 0 | 0 % | en cours par @CodeByHaamza (#84) |
 | [`MAYOERU_001.json`](trad/negociations/MAYOERU_001.json) | 100 | 100 | 100 % | terminé |
 | [`MAYOERU_002.json`](trad/negociations/MAYOERU_002.json) | 100 | 100 | 100 % | terminé |
 | [`MAYOERU_003.json`](trad/negociations/MAYOERU_003.json) | 39 | 39 | 100 % | terminé |
