@@ -176,7 +176,7 @@ L'inverse vaut aussi : on n'ajoute pas de gros mot que l'anglais n'a pas.
   monde — c'est un trait de caractère, pas une politesse.
 - **Registre lycéen** pour Mark et Hidehiko : familier, vivant, jamais vulgaire.
 - Colle au **sens**, pas au mot-à-mot.
-- Les noms propres, Personas, sorts et lieux suivent le
+- Les noms propres, Personae, sorts et lieux suivent le
   [Dictionnaire](docs/Dictionnaire.md). Il fait autorité ; si un terme y manque,
   ouvre une issue ou viens en parler sur le
   [Discord du Grimoire du Cœur](https://discord.gg/s6CRadvPa3) plutôt que de
