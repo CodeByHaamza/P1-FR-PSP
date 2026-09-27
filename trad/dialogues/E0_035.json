@@ -110,77 +110,77 @@
     "locuteur": "Nanjo",
     "en": "It's in the same place here as SEBEC is{SAUT}in our world... It's certainly possible.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": ""
+    "fr": "C'est ici au même endroit que SEBEC{SAUT}chez nous... C'est bien possible.{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0016",
     "locuteur": "Elly",
     "en": "But this is madness! We have no proof{SAUT}it's even possible!{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": ""
+    "fr": "Mais c'est de la folie! Rien ne prouve{SAUT}que ce soit possible!{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0017",
     "locuteur": "Elly",
     "en": "And once we get there... how are we{SAUT}meant to fight Kandori as he is now!?{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": ""
+    "fr": "Et une fois là-bas... comment{SAUT}combattre Kandori sous cette forme!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0018",
     "locuteur": "Brown",
     "en": "Oh, give it up already! Some things are{SAUT}impossible no matter how hard you try!{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": ""
+    "fr": "Oh, laisse tomber! Y a des trucs{SAUT}impossibles, quoi qu'on fasse!{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0019",
     "locuteur": "Brown",
     "en": "We've been wasting our time from{SAUT}the start...{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": ""
+    "fr": "On perd notre temps depuis{SAUT}le début...{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0020",
     "locuteur": "Ayase",
     "en": "Shyeah, right! It's impossible! Why am{SAUT}I even bothering with this!?{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": ""
+    "fr": "Ouais, c'est ça! C'est impossible!{SAUT}Pourquoi je m'embête avec ça!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0021",
     "locuteur": "Maki",
     "en": "You can't give up! Isn't this about{SAUT}your world? Your future?{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": ""
+    "fr": "Vous ne pouvez pas abandonner! Ce{SAUT}monde est le vôtre, non? Votre avenir?{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0022",
     "locuteur": "Maki",
     "en": "Are you just going to let someone{SAUT}walk all over it?{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": ""
+    "fr": "Vous allez laisser quelqu'un{SAUT}le piétiner comme ça?{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0023",
     "locuteur": "Maki",
     "en": "You're fine with throwing it all away?{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": ""
+    "fr": "Vous acceptez de tout abandonner?{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0024",
     "locuteur": "Maki",
     "en": "Well, I'm not!{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": ""
+    "fr": "Eh bien, pas moi!{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0025",
     "locuteur": "Maki",
     "en": "I like this town! I like all of you!{SAUT}I like... me!{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "",
+    "fr": "J'aime cette ville! Je vous aime tous!{SAUT}Et moi... je m'aime!{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -188,7 +188,7 @@
     "locuteur": "Maki",
     "en": "And I can't just stay quiet and watch{SAUT}the things I like be destroyed!{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "",
+    "fr": "Et je ne peux pas me taire en{SAUT}regardant détruire ce que j'aime!{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -196,7 +196,7 @@
     "locuteur": "Maki",
     "en": "It's just not something I would do!{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "",
+    "fr": "Ce n'est pas quelque chose que je ferais!{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -204,112 +204,112 @@
     "locuteur": "Elly",
     "en": "...You're right, Maki. Staying here and{SAUT}whimpering won't solve the matter.{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": ""
+    "fr": "...Tu as raison, Maki. Rester ici à{SAUT}pleurnicher ne résoudra rien.{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0029",
     "locuteur": "Elly",
     "en": "Let's go and protect the things we love!{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": ""
+    "fr": "Allons protéger ce que nous aimons!{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0030",
     "locuteur": "Brown",
     "en": "...Alright! Your leader's back in action!{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": ""
+    "fr": "...Bon! Votre chef reprend du service!{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0031",
     "locuteur": "Brown",
     "en": "The worse the bad guy, the stronger the{SAUT}hero looks! Let's go!{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": ""
+    "fr": "Plus le méchant est pourri, plus le{SAUT}héros a l'air fort! On y va!{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0032",
     "locuteur": "Ayase",
     "en": "...Well, I guess I'll do this. Like, my{SAUT}future's at stake here, too.{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": ""
+    "fr": "...Bon, je vais le faire, j'imagine.{SAUT}Genre, mon avenir aussi est en jeu.{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0033",
     "locuteur": "Ayase",
     "en": "So let's go to the haunted mansion!{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": ""
+    "fr": "Alors allons au manoir hanté!{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0034",
     "locuteur": "Mark",
     "en": "The things we like, huh...? Looks like{SAUT}no one has any more complaints.{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": ""
+    "fr": "Les choses qu'on aime, hein...? On dirait{SAUT}que personne n'a d'objections.{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0035",
     "locuteur": "Mark",
     "en": "Let's get to the haunted mansion ASAP,{SAUT}(*APELLIDO_HEROE*)!{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": ""
+    "fr": "Allons au manoir hanté au plus vite,{SAUT}(*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0036",
     "locuteur": "Mark",
     "en": "Dammit! What a waste of time...{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": ""
+    "fr": "Bon sang! Quelle perte de temps...{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0037",
     "locuteur": "Mark",
     "en": "If we don't hurry and catch that scumbag,{SAUT}things are gonna get out of hand!{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": ""
+    "fr": "Si on se dépêche pas d'attraper cette{SAUT}ordure, ça va dégénérer!{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0039",
     "locuteur": "Reiji",
     "en": "I'm not giving up until my hands are{SAUT}around that bastard's neck!{ATTENTE}",
     "locuteur_fr": "Reiji",
-    "fr": ""
+    "fr": "J'abandonne pas avant d'avoir les mains{SAUT}autour du cou de ce salopard!{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0040",
     "locuteur": "Mark",
     "en": "Maki... It's our world's problem now.{SAUT}You can go back home.{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": ""
+    "fr": "Maki... C'est le problème de notre{SAUT}monde. Tu peux rentrer chez toi.{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0041",
     "locuteur": "Maki",
     "en": "No! I'm not going to be the only one{SAUT}who has to sit back and watch!{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": ""
+    "fr": "Non! Je ne serai pas la seule à devoir{SAUT}rester en arrière à regarder!{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0045",
     "locuteur": "Nanjo",
     "en": "Heh... \"In the lexicon of youth, there is{SAUT}no such word as 'fail.'\"{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": ""
+    "fr": "Héh... \"Dans le lexique de la jeunesse,{SAUT}le mot 'échec' n'existe pas.\"{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0046",
     "locuteur": "Nanjo",
     "en": "It may be a cheesy quote, but I think{SAUT}I'll take a shot at believing it.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": ""
+    "fr": "La citation est peut-être ringarde,{SAUT}mais je vais tenter d'y croire.{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0047",
     "locuteur": "Reiji",
     "en": "Will you hurry up and go!? I can take{SAUT}care of myself!{ATTENTE}",
     "locuteur_fr": "Reiji",
-    "fr": ""
+    "fr": "Tu vas te dépêcher de partir!? Je{SAUT}sais me débrouiller!{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0048",
@@ -337,14 +337,14 @@
     "locuteur": "Mark",
     "en": "You all right, Reiji?{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": ""
+    "fr": "Ça va, Reiji?{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0052",
     "locuteur": "Reiji",
     "en": "...Worry about yourself first.{ATTENTE}",
     "locuteur_fr": "Reiji",
-    "fr": ""
+    "fr": "...Occupe-toi de toi d'abord.{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0053",
