@@ -140,7 +140,7 @@ dans ta PR, donne-lui [CLAUDE.md](CLAUDE.md), et relis tout.
 | **Menus, écrans et combat** (`trad/eboot/`) | 2 956 textes, 32 fichiers — **terminé** le 20/09/2026 ; relecture bienvenue, surtout sur les lignes marquées « à vérifier en jeu » dans [SUIVI.md](SUIVI.md) |
 | **Donjons** (`trad/donjons/`) | 130 textes, 2 fichiers — **ouvert** |
 | **Négociations** (`trad/negociations/`) | 12 487 textes, 139 fichiers — **ouvert**. Ce que les démons répondent quand on leur parle en combat, un dossier par personnalité de démon |
-| Noms de démons, de Personas et sorts signature | **gardés en anglais** : Pixie reste Pixie, Bufu reste Bufu, comme dans toute la série |
+| Noms de démons, de Personae et sorts signature | **gardés en anglais** : Pixie reste Pixie, Bufu reste Bufu, comme dans toute la série |
 
 Le jeu répète énormément : 17 685 lignes de dialogue pour 8 572 textes
 distincts. Trois répliques de l'Arbre Agastya reviennent près de 570 fois
