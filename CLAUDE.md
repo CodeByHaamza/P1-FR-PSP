@@ -63,7 +63,7 @@ perfection par endroits. Détail dans [docs/REGLES.md](docs/REGLES.md).
 
 ### 6. Inventer la terminologie
 
-Les noms propres, Personas, sorts et lieux sont fixés dans
+Les noms propres, Personae, sorts et lieux sont fixés dans
 [docs/Dictionnaire.md](docs/Dictionnaire.md). Un modèle traduira « Velvet Room »
 de trois façons différentes dans le même fichier. **Le dictionnaire fait
 autorité.** Un terme absent : ouvrir une issue, ne pas trancher seul.

@@ -239,14 +239,14 @@
 
 ---
 
-## 🏷️ Noms de l'EBOOT (objets / armes / armures / sorts / démons / Personas)
+## 🏷️ Noms de l'EBOOT (objets / armes / armures / sorts / démons / Personae)
 
 Source : EBOOT **déchiffré**, extraits par `game/tools/_ancien_pipeline/p1_names.py` (ancien pipeline) → `game/scripts/names/names_eboot.json`
 (`{off, en, max, fr}`). **Politique de traduction validée (convention série) :**
 
 - ✅ **Traduire** : objets, objets-clés, armes, armures, accessoires, **sorts descriptifs**
   (« Crystal Wall », « Hell Drop »…).
-- 🚫 **GARDER en anglais** : noms de **démons** et **Personas** (Pixie, Cupid, Cerberus,
+- 🚫 **GARDER en anglais** : noms de **démons** et **Personae** (Pixie, Cupid, Cerberus,
   Angel…) et **sorts signature** de la série (Agi, Bufu, Garu, Zio, Dia, Mudo, Hama…).
 - ⚠️ Contrainte technique : le FR doit **tenir dans la longueur du champ EN** (`max`).
   Noms multi-mots = plusieurs champs (slots fixes) → l'ordre des mots suit l'anglais

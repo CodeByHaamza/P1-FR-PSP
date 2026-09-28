@@ -89,7 +89,7 @@ français.
 **Pourquoi certaines choses ne sont-elles pas ouvertes à la traduction ?**
 Les objets, les armes et les sorts descriptifs ont déjà été arbitrés en privé
 (1 427 noms) et attendent d'être reportés dans l'exécutable ; les noms de démons,
-de Personas et les sorts signature restent en anglais. Tout le reste est ouvert,
+de Personae et les sorts signature restent en anglais. Tout le reste est ouvert,
 négociations comprises depuis septembre 2026.
 
 **Les aliens parlent en chiffres, c'est normal ?**
