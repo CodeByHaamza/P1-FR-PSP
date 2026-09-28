@@ -6,9 +6,9 @@
 Dialogues      ██████████████░░░░░░░░░░   59 %    5 045 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
-Négociations   ██████████████░░░░░░░░░░   60 %    7 446 / 12 487 textes
+Négociations   ███████████████░░░░░░░░░   61 %    7 646 / 12 487 textes
 
-Total          ███████████████░░░░░░░░░   65 %   15 577 / 24 145 textes
+Total          ████████████████░░░░░░░░   65 %   15 777 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -101,6 +101,8 @@ Ces lignes sont plus larges que l'anglaise et approchent de la limite de la boî
 - [`TOILET_001.json`](trad/negociations/TOILET_001.json) — 11 lignes
 - [`TOILET_002.json`](trad/negociations/TOILET_002.json) — 4 lignes
 - [`TOILET_003.json`](trad/negociations/TOILET_003.json) — 4 lignes
+- [`WORM_001.json`](trad/negociations/WORM_001.json) — 4 lignes
+- [`WORM_002.json`](trad/negociations/WORM_002.json) — 1 ligne
 - [`YAKUZA_001.json`](trad/negociations/YAKUZA_001.json) — 1 ligne
 - [`YAKUZA_002.json`](trad/negociations/YAKUZA_002.json) — 6 lignes
 - [`ZOMB_MAN_001.json`](trad/negociations/ZOMB_MAN_001.json) — 4 lignes
@@ -415,8 +417,8 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`TOILET_002.json`](trad/negociations/TOILET_002.json) | 100 | 100 | 100 % | terminé · 4 trop large |
 | [`TOILET_003.json`](trad/negociations/TOILET_003.json) | 100 | 100 | 100 % | terminé · 4 trop large |
 | [`TOILET_004.json`](trad/negociations/TOILET_004.json) | 19 | 19 | 100 % | terminé par @Uolil-Raccoon |
-| [`WORM_001.json`](trad/negociations/WORM_001.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#86) |
-| [`WORM_002.json`](trad/negociations/WORM_002.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#86) |
+| [`WORM_001.json`](trad/negociations/WORM_001.json) | 100 | 100 | 100 % | terminé · 4 trop large |
+| [`WORM_002.json`](trad/negociations/WORM_002.json) | 100 | 100 | 100 % | terminé · 1 trop large |
 | [`WORM_003.json`](trad/negociations/WORM_003.json) | 100 | 0 | 0 % | libre |
 | [`WORM_004.json`](trad/negociations/WORM_004.json) | 100 | 0 | 0 % | libre |
 | [`WORM_005.json`](trad/negociations/WORM_005.json) | 100 | 0 | 0 % | libre |
