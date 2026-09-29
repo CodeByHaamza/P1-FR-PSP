@@ -35,12 +35,12 @@
   {
     "id": "HIHO.BIN:resp:0205",
     "en": "A plain face, maybe.(*RESPONSE*)   ",
-    "fr": "Un visage banal, peut-être.(*RESPONSE*)"
+    "fr": "Banal, peut-être.(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:resp:0206",
     "en": "Sure.(*RESPONSE*)  ",
-    "fr": "Bien sûr.(*RESPONSE*)",
+    "fr": "Ouais.(*RESPONSE*)",
     "_occurrences": 5
   },
   {
@@ -57,7 +57,7 @@
   {
     "id": "HIHO.BIN:resp:0212",
     "en": "Later is fine.(*RESPONSE*) ",
-    "fr": "Plus tard, ça ira.(*RESPONSE*)",
+    "fr": "Plus tard, ok.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -115,7 +115,7 @@
   {
     "id": "HIHO.BIN:resp:0235",
     "en": "Quit toying with me!(*RESPONSE*)   ",
-    "fr": "Arrête de jouer avec moi!(*RESPONSE*)",
+    "fr": "Joue pas avec moi!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -161,7 +161,7 @@
   {
     "id": "HIHO.BIN:resp:0250",
     "en": "Physics...?(*RESPONSE*)",
-    "fr": "La physique...?(*RESPONSE*)",
+    "fr": "Physique?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -179,7 +179,7 @@
   {
     "id": "HIHO.BIN:resp:0264",
     "en": "Can't I ignore you?(*RESPONSE*)",
-    "fr": "Je peux pas t'ignorer?(*RESPONSE*)",
+    "fr": "Je t'ignore, non?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -206,7 +206,7 @@
   {
     "id": "HIHO.BIN:resp:0280",
     "en": "You wanna die!?(*RESPONSE*)",
-    "fr": "Tu veux mourir!?(*RESPONSE*)",
+    "fr": "Tu veux mourir?(*RESPONSE*)",
     "_occurrences": 4
   },
   {
@@ -218,7 +218,7 @@
   {
     "id": "HIHO.BIN:resp:0289",
     "en": "Can't I yell!?(*RESPONSE*) ",
-    "fr": "J'ai pas le droit de crier!?(*RESPONSE*)"
+    "fr": "Je peux crier?(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:resp:0290",
@@ -234,7 +234,7 @@
   {
     "id": "HIHO.BIN:resp:0295",
     "en": "It's not magic!(*RESPONSE*)",
-    "fr": "C'est pas de la magie!(*RESPONSE*)"
+    "fr": "Pas magique!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:resp:0297",
@@ -245,7 +245,7 @@
   {
     "id": "HIHO.BIN:resp:0301",
     "en": "Sword hunting.(*RESPONSE*) ",
-    "fr": "Chasse aux sabres.(*RESPONSE*)"
+    "fr": "Chasse au sabre(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:resp:0302",
@@ -276,12 +276,12 @@
   {
     "id": "HIHO.BIN:resp:0309",
     "en": "I don't mind burns.(*RESPONSE*)",
-    "fr": "Les brûlures, ça me va.(*RESPONSE*)"
+    "fr": "Brûlures, ça va.(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:resp:0310",
     "en": "You're a scary demon.(*RESPONSE*)  ",
-    "fr": "T'es un démon effrayant.(*RESPONSE*)"
+    "fr": "T'es un démon flippant.(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:resp:0311",
@@ -297,7 +297,7 @@
   {
     "id": "HIHO.BIN:resp:0314",
     "en": "I hate you.(*RESPONSE*)",
-    "fr": "Je te déteste.(*RESPONSE*)"
+    "fr": "Je te hais.(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:resp:0315",
@@ -308,7 +308,7 @@
   {
     "id": "HIHO.BIN:resp:0316",
     "en": "Go home.(*RESPONSE*)   ",
-    "fr": "Rentre donc.(*RESPONSE*)",
+    "fr": "Rentre.(*RESPONSE*)",
     "_occurrences": 6
   },
   {
@@ -341,7 +341,7 @@
   {
     "id": "HIHO.BIN:resp:0327",
     "en": "Quiet!(*RESPONSE*) ",
-    "fr": "Silence!(*RESPONSE*)"
+    "fr": "Chut!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:resp:0329",
