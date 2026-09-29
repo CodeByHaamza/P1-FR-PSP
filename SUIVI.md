@@ -233,7 +233,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E2_007.json`](trad/dialogues/E2_007.json) | 99 | 7 | 7 % | commencé |
 | [`E2_008.json`](trad/dialogues/E2_008.json) | 99 | 39 | 39 % | commencé · 2 trop large |
 | [`E2_009.json`](trad/dialogues/E2_009.json) | 97 | 36 | 37 % | commencé · 1 trop large |
-| [`E2_010.json`](trad/dialogues/E2_010.json) | 97 | 0 | 0 % | libre |
+| [`E2_010.json`](trad/dialogues/E2_010.json) | 97 | 0 | 0 % | en cours par @Uolil-Raccoon (#87) |
 | [`E2_011.json`](trad/dialogues/E2_011.json) | 90 | 0 | 0 % | libre |
 | [`E2_012.json`](trad/dialogues/E2_012.json) | 91 | 4 | 4 % | commencé |
 | [`E2_013.json`](trad/dialogues/E2_013.json) | 88 | 0 | 0 % | libre |
