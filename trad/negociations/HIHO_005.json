@@ -2,516 +2,516 @@
   {
     "id": "HIHO.BIN:text:0461",
     "en": "   What!? You're going fishing, ho!?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Quoi!? Tu vas à la pêche, ho!?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "HIHO.BIN:text:0462",
     "en": "  Oh, excu-se moi, mademoiselle! Hee{SAUT}hee ho!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Oh, excu-sez-moi, mademoiselle! Hi{SAUT}hi ho!(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "HIHO.BIN:text:0463",
     "en": " Never mind, ho! I'm not really the{SAUT}type to play hee-house, ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Laisse tomber, ho! Je suis pas du genre{SAUT}à jouer au hi-papa-maman, ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0464",
     "en": " You're not... My long lost mother, are{SAUT}you, ho!? Naw, of course not. Hee-ho.(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es pas... ma mère disparue, hein,{SAUT}ho!? Nan, bien sûr que non. Hi-ho.(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0465",
     "en": "   That was fun, hee-ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'était marrant, hi-ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0474",
     "en": "  Here's an example! Your greeting should{SAUT}be, Master [FFF3], I humbly{SAUT}welcome you here!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Voici un exemple! Tu dois dire: \"Maître{SAUT}[FFF3], je vous souhaite humblement{SAUT}la bienvenue!\"(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0476",
     "en": "Oh, I'm sorry, ho. Did I mispronounce{SAUT}it...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh, pardon, ho. J'ai mal{SAUT}prononcé...?(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0479",
     "en": " Hooooo! I-I was ridiculed... I-I don't{SAUT}know if I can come back from this, ho...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hooooo! J-Je suis ridiculisé... J-Je{SAUT}sais pas si je m'en remettrai, ho...(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0480",
     "en": "Isn't it cruel, ho!? Hee-hold me in your{SAUT}arms while I cry! Just kidding, hee-ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est cruel, ho!? Hi-serre-moi fort{SAUT}pendant que je pleure! Je rigole, hi-ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0481",
     "en": "   Huh!? You're okay with just tea, ho!?{SAUT}I was a fool for hee-hoping... This sucks,{SAUT}ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hein!? Juste un thé, ça te va, ho!?{SAUT}J'ai été bête d'hi-espérer... C'est nul,{SAUT}ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0484",
     "en": "   Are you stupid, ho? If you wanna die,{SAUT}go ahead. No one'll stop you, hee-ho.(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es bête, ho? Si tu veux mourir,{SAUT}vas-y. Personne t'en empêchera, hi-ho.(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0485",
     "en": "Hee hee ho. You let your guard down,{SAUT}didn't you? But now you're hee-here, so{SAUT}you have to do what I say, hee-ho!{ATTENTE}",
-    "fr": ""
+    "fr": "Hi hi ho. T'as baissé ta garde, hein?{SAUT}Mais maintenant que t'es hi-ici, tu{SAUT}dois m'obéir, hi-ho!{ATTENTE}"
   },
   {
     "id": "HIHO.BIN:text:0486",
     "en": "{PAGE}Hee-hold me in your arms, ho! Er...{SAUT}Gimme something![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Hi-serre-moi dans tes bras, ho! Euh...{SAUT}File-moi un truc![FFF1](*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0487",
     "en": " Come on, fall for it, hee-ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Allez, craque, hi-ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0488",
     "en": "  Hmmm, I can wait, but gimme something to{SAUT}kill the time, hee-ho.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Hmmm, je peux attendre, mais file-moi un{SAUT}truc pour passer le temps, hi-ho.[FFF1](*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0489",
     "en": "   Alright! I'll go later on, ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "D'accord! J'irai plus tard, ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0490",
     "en": " You're a mean missy! You know how {SAUT}I feel, hee-ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es une méchante, mademoiselle! Tu sais{SAUT}ce que je ressens, hi-ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0491",
     "en": " I'm not in love with you, ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je suis pas amoureux de toi, ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0492",
     "en": "  I... I was just trying to heal the{SAUT}broken heart of a maiden... But you're{SAUT}no maiden, hee-ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "J-Je voulais juste consoler le coeur{SAUT}brisé d'une jeune fille... Mais toi,{SAUT}t'as rien d'une jeune fille, hi-ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0493",
     "en": "   It seems you're already in hee-high{SAUT}spirits, ho. I guess I'm not needed...(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'as déjà le moral au hi-beau fixe,{SAUT}ho. On n'a pas besoin de moi...(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0494",
     "en": " See! There's nothing in the world that{SAUT}I don't know, hee-ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu vois! Y a rien au monde que{SAUT}je sache pas, hi-ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0495",
     "en": "   I've been hee-had, ho! But you're not{SAUT}supposed to be lying in the first{SAUT}place, ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je me suis fait hi-avoir, ho! Mais{SAUT}c'est pas bien de mentir, pour{SAUT}commencer, ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0496",
     "en": " H-Ho? You were serious...? I'm sorry,{SAUT}hee-ho...(*RESPONSE*)",
-    "fr": ""
+    "fr": "H-Ho? T'étais sérieuse...? Pardon,{SAUT}hi-ho...(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0497",
     "en": "I'm gonna cry too, ho! Waaaahhh!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je vais pleurer aussi, ho! Waaaahhh!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0498",
     "en": "   Urp... What a total reversal... Women{SAUT}are scary, ho...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hic... Quel retournement... Les femmes{SAUT}font peur, ho...(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0499",
     "en": " No more crying from now on, hee-ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Désormais, plus de larmes, hi-ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0500",
     "en": "You got scared, didn't you, hee-ho!?{SAUT}After all, I'm invincible!(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'as eu peur, hein, hi-ho!?{SAUT}Après tout, je suis invincible!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0509",
     "en": "You're dumber than I thought, lady!{SAUT}Hee-how disappointing, ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es plus bête que je pensais, ma belle!{SAUT}Hi-quelle déception, ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0510",
     "en": " The Phillippines are in the Western{SAUT}Pacific, ho, and Taiwan is in the South{SAUT}Seas! Hee-ho, they're very different!{ATTENTE}",
-    "fr": ""
+    "fr": "Les Philippines sont dans le Pacifique{SAUT}ouest, ho, et Taïwan dans les mers du{SAUT}Sud! Hi-ho, c'est très différent!{ATTENTE}"
   },
   {
     "id": "HIHO.BIN:text:0511",
     "en": "{PAGE}Ho...? When did this become a trivia{SAUT}game, ho...? Hee-ho well!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Ho...? Depuis quand c'est un quiz,{SAUT}ho...? Hi-ho, tant pis!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0513",
     "en": " You're the one messing around, hee-ho!{SAUT}I'm totally peeved!(*RESPONSE*)",
-    "fr": "",
+    "fr": "C'est toi qui fais l'andouille, hi-ho!{SAUT}Je suis furax!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "HIHO.BIN:text:0514",
     "en": " My good looks make people crazy, hee-ho.{SAUT}I'm such a devil, ho!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Ma beauté rend les gens fous, hi-ho.{SAUT}Quel diable je fais, ho!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "HIHO.BIN:text:0515",
     "en": " N-No... There's nothing I can do about{SAUT}it then, ho...(*RESPONSE*)",
-    "fr": "",
+    "fr": "N-Non... Alors j'y peux rien,{SAUT}ho...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "HIHO.BIN:text:0516",
     "en": "  I-Is that ho? But I don't mind being{SAUT}punished if you're the one doing it...(*RESPONSE*)",
-    "fr": "",
+    "fr": "A-Ah bon, ho? Mais ça me dérange pas{SAUT}d'être puni si c'est par toi...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "HIHO.BIN:text:0517",
     "en": "Rarrr! I'm getting angry, ho!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Grrr! Je me fâche, ho!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "HIHO.BIN:text:0518",
     "en": "  Ho... Thank goodness, hee-ho...(*RESPONSE*)",
-    "fr": "",
+    "fr": "Ho... Ouf, hi-ho...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "HIHO.BIN:text:0520",
     "en": " ＊sigh＊ And now you're embarrassed. Such{SAUT}a simple person... But I guess that's{SAUT}a good thing, hee-ho...(*RESPONSE*)",
-    "fr": ""
+    "fr": "＊soupir＊ Et voilà que t'as honte. Quelle{SAUT}âme simple... Mais c'est plutôt{SAUT}une bonne chose, hi-ho...(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0521",
     "en": "  Is my nose malfunctioning, ho? No,{SAUT}that can't be...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Mon nez déraille, ho? Non,{SAUT}impossible...(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0523",
     "en": "   Still trying to play dumb, hee-ho!?{SAUT}Don't assume you can fool me, ho!{SAUT}I smell suspicion all over you, ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu fais encore semblant, hi-ho!?{SAUT}Crois pas que tu vas me duper, ho!{SAUT}Tu sens le louche à plein nez, ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0527",
     "en": "  Huh? What's that? I don't get this at{SAUT}all, hee-ho...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hein? C'est quoi? J'y comprends{SAUT}rien, hi-ho...(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0528",
     "en": "   So that's physics... ho? I can feel{SAUT}myself getting smarter, hee-ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Alors c'est ça, la physique... ho? Je{SAUT}me sens plus intelligent, hi-ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0529",
     "en": "Oh, excu-se moi, mademoiselle! Hee{SAUT}hee ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh, excu-sez-moi, mademoiselle! Hi{SAUT}hi ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0536",
     "en": "You smiled! Alright, now I'm hee-{SAUT}happy, ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu as souri! Super, là, je suis hi-{SAUT}heureux, ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0537",
     "en": "   What? What? What is it?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Quoi? Quoi? Qu'est-ce qu'il y a?(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0538",
     "en": "So you don't want to decide right now,{SAUT}hee-ho... That makes-me mad, ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu veux pas décider maintenant,{SAUT}hi-ho... Ça m'énerve, ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0539",
     "en": "Oh! Maybe I'm the only one who can see{SAUT}the illusion, ho...{ATTENTE}",
-    "fr": "",
+    "fr": "Oh! Je suis peut-être le seul à voir{SAUT}l'illusion, ho...{ATTENTE}",
     "_occurrences": 4
   },
   {
     "id": "HIHO.BIN:text:0540",
     "en": "{PAGE}Well, if that's the case, whatever, ho!(*RESPONSE*)",
-    "fr": "",
+    "fr": "{PAGE}Bon, si c'est ça, tant pis, ho!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "HIHO.BIN:text:0542",
     "en": "{PAGE}I must be working too hee-hard, ho...(*RESPONSE*)",
-    "fr": "",
+    "fr": "{PAGE}Je dois trop hi-travailler, ho...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "HIHO.BIN:text:0543",
     "en": "  Of course it's bad, ho! You're not{SAUT}supposed to do that, hee-ho!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Bien sûr que c'est mal, ho! Ça se{SAUT}fait pas, hi-ho!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "HIHO.BIN:text:0544",
     "en": "Singing is bad? What can I do to save{SAUT}myself then, hee-ho?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Chanter, c'est mal? Alors je fais quoi{SAUT}pour m'en sortir, hi-ho?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "HIHO.BIN:text:0545",
     "en": " Singing is bad? What can I do to get you{SAUT}to talk to me then, hee-ho!?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Chanter, c'est mal? Alors je fais quoi{SAUT}pour que tu me parles, hi-ho!?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "HIHO.BIN:text:0546",
     "en": "  Laaaa la la hee hee hee-ho, oooh ya!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Laaaa la la hi hi hi-ho, oooh yeah!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "HIHO.BIN:text:0547",
     "en": "   You talked to me! I'm so hee-happy, ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu m'as parlé! Je suis hi-heureux, ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0548",
     "en": "Why? Why? Why?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pourquoi? Pourquoi? Pourquoi?(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0549",
     "en": " So you don't want to decide right now,{SAUT}hee-ho... That makes me mad, ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu veux pas décider maintenant,{SAUT}hi-ho... Ça m'énerve, ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0564",
     "en": "   ＊sniff＊ ＊sniff＊ You really won't pick{SAUT}on me anymore, ho? You could be lying...(*RESPONSE*)",
-    "fr": ""
+    "fr": "＊snif＊ ＊snif＊ Tu vas vraiment plus{SAUT}m'embêter, ho? Tu mens peut-être...(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0565",
     "en": " Really!? I'm not gonna be picked on{SAUT}anymore for reals!? Hee hee-ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Vrai!? On va plus m'embêter, pour de{SAUT}vrai!? Hi hi-ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0567",
     "en": "That's right! All you have to do is{SAUT}apologize, hee-ho.{ATTENTE}",
-    "fr": ""
+    "fr": "Voilà! T'as juste à t'excuser,{SAUT}hi-ho.{ATTENTE}"
   },
   {
     "id": "HIHO.BIN:text:0568",
     "en": "{PAGE}I'm [FFF0], not some cold-blooded animal, ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Je suis un [FFF0], pas un reptile, ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0569",
     "en": "   Yeah, ho! Wouldn't you agree?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ouais, ho! T'es pas d'accord?(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0570",
     "en": "  What are you saying, ho!? There's no{SAUT}need to yell!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Qu'est-ce que tu dis, ho!? Pas la peine{SAUT}de crier!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0571",
     "en": " No... It's not your fault, ho...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Non... C'est pas ta faute, ho...(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0572",
     "en": "   You're a super cool guy, Mister!(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es un gars super cool, monsieur!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0573",
     "en": "   Ho? You're done screaming now? I guess{SAUT}that makes you cooler, hee-ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ho? T'as fini de crier? Ça te rend{SAUT}plus cool, faut croire, hi-ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0574",
     "en": "  Ho? C'mon! Keep screaming, ho! This{SAUT}sucks!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ho? Allez! Continue de crier, ho! C'est{SAUT}nul!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0575",
     "en": " That was amazing, ho! I haven't seen{SAUT}such incredible hee-hocus-pocus since{SAUT}I was born, ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'était génial, ho! J'ai jamais vu un{SAUT}hi-hocus-pocus aussi fou de toute{SAUT}ma vie, ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0576",
     "en": " Yeah! Yeah! That's incredible, ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ouais! Ouais! C'est incroyable, ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0577",
     "en": " So this is the power of science, hee-ho?{SAUT}H-Humans are...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Voilà le pouvoir de la science, hi-ho?{SAUT}L-Les humains sont...(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0578",
     "en": "   No way... You're going to erase me...?{SAUT}That's scary, ho...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Non... Tu vas m'effacer...?{SAUT}Ça fait peur, ho...(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0579",
     "en": " Then what are you going to do, ho?{SAUT}I can't trust you.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Alors tu vas faire quoi, ho?{SAUT}J'ai pas confiance.(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0580",
     "en": "  Really? Really really? Yay!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Vrai? Vrai de vrai? Youpi!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0581",
     "en": "Label it like this! \"To: [FFF3],\"{SAUT}please!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Mets-le comme ça! \"Pour [FFF3],\"{SAUT}s'il te plaît!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0582",
     "en": "   Pfft! What the ho! Forget it! I don't{SAUT}need it anyway, hee-ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pff! Et puis zut-ho! Laisse tomber! J'en{SAUT}ai pas besoin, de toute façon, hi-ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0583",
     "en": "  You're cool... Kinda like Benkei the{SAUT}warrior monk... But that doesn't mean{SAUT}I can't defeat you!(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es cool... Un peu comme Benkei, le{SAUT}moine guerrier... Mais ça veut pas dire{SAUT}que je peux pas te battre!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0584",
     "en": " Treasure...? You mean... like...{SAUT}buried treasure, ho!? Let me hee-help{SAUT}you, ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Un trésor...? Genre... un trésor{SAUT}enfoui, ho!? Laisse-moi t'hi-aider,{SAUT}ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0585",
     "en": "Um... Who are you talking about...?{SAUT}You don't mean me... do you, ho?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Euh... Tu parles de qui...?{SAUT}Pas de moi... hein, ho?(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0586",
     "en": "   Wow! That was sweetdiculous, ho!{SAUT}Let's duel, hee-ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ouah! C'était ridicugénial, ho!{SAUT}En duel, hi-ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0587",
     "en": "   Hee hee ho! Well, yeah! After all,{SAUT}you're up against the mighty me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hi hi ho! Ben ouais! Après tout,{SAUT}t'as affaire au puissant moi!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0588",
     "en": "You got scared! You're totally yell-ho!{SAUT}Hee-ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'as eu peur! T'es trop trouill-ho!{SAUT}Hi-ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0589",
     "en": "＊sniiiiiiiiiff＊ I-Is dat ho? I-I'm{SAUT}zahwyy...(*RESPONSE*)",
-    "fr": ""
+    "fr": "＊sniiiiiiiiif＊ A-Ah bon, ho? J-Je suis{SAUT}dézolé...(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0590",
     "en": "   Oh... Is that ho? You...adjust pretty{SAUT}quickly don't you, hee-ho...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh... Ah bon, ho? Tu... t'adaptes vite,{SAUT}toi, hein, hi-ho...?(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0591",
     "en": "Ahhhh! Ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ahhhh! Ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0592",
     "en": " Right? Right? Confidence level up!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hein? Hein? Confiance en hausse!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0593",
     "en": " It's [FFF3], ho! Remember that!(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est [FFF3], ho! Retiens-le!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0594",
     "en": " Of course! It's tough being a star{SAUT}sometimes, ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Bien sûr! C'est dur d'être une star,{SAUT}parfois, ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0595",
     "en": "  Hmm... This is my private time right{SAUT}now, hee-ho. Can you hee-hold off on{SAUT}that for a hee-bit, ho?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hmm... C'est mon moment à moi, là,{SAUT}hi-ho. Tu peux hi-patienter{SAUT}un hi-peu, ho?(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0596",
     "en": "  Nooo... Y-You hate me, ho? I'm{SAUT}shocked...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Nooon... T-Tu me détestes, ho? Je{SAUT}suis choqué...(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0597",
     "en": "  You shoulda said so earlier, ho! Not{SAUT}that I woulda listened, ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Fallait le dire plus tôt, ho! Pas que{SAUT}je t'aurais écouté, ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0598",
     "en": "   Is that ho? But I'm not going hee-home{SAUT}empty handed, ho! I've gotta get {SAUT}something outta this first, hee-ho![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Ah bon, ho? Mais je rentre pas chez{SAUT}hi-moi les mains vides, ho! Il me faut{SAUT}d'abord un petit quelque chose, hi-ho![FFF1](*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0599",
     "en": "  Yeah, I'll be here, ho! But I've gotta{SAUT}be home for dinner, okay? Hee-ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ouais, je reste là, ho! Mais je dois{SAUT}rentrer pour le dîner, d'accord? Hi-ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0600",
     "en": "   Okay! I'll stay here, hee-ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "D'accord! Je reste ici, hi-ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0601",
     "en": "  I want to go hee-home, but... ho...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je veux hi-rentrer, mais... ho...(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0602",
     "en": "Ho-ho... You're actually afraid of me,{SAUT}ho.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ho-ho... En fait, t'as peur de moi,{SAUT}ho.(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0603",
     "en": " Waaaah! I wanna go hee-home, ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Waaaah! Je veux rentrer chez hi-moi, ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0604",
     "en": "   Ummm... There is! Give me something,{SAUT}hee-ho![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "Euh... Oui, j'en ai! Donne-moi un truc,{SAUT}hi-ho![FFF1](*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0605",
     "en": "  The love story of the passion between{SAUT}a human and a demon that breaks down the{SAUT}walls between them begins here, ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "L'histoire d'amour passionnée d'un{SAUT}humain et d'un démon qui brise tous les{SAUT}murs entre eux commence ici, ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0606",
     "en": " Ho, come on now! No reason to be{SAUT}embarrassed, hee-ho! It's fate!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ho, allons! Pas la peine d'avoir{SAUT}honte, hi-ho! C'est le destin!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0607",
     "en": "   Why not? Take me with you, ho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pourquoi pas? Emmène-moi, ho!(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0608",
     "en": " You're right... You have your own{SAUT}reason, hee-ho... Too bad though...(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'as raison... T'as tes raisons,{SAUT}hi-ho... Dommage, quand même...(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:text:0609",
     "en": "  ＊huff ＊huff＊ I'm tired now...(*RESPONSE*)",
-    "fr": ""
+    "fr": "＊souffle＊ ＊souffle＊ Je suis crevé...(*RESPONSE*)"
   }
 ]
