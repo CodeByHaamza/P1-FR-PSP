@@ -6,9 +6,9 @@
 Dialogues      ██████████████░░░░░░░░░░   59 %    5 045 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
-Négociations   ███████████████░░░░░░░░░   63 %    7 846 / 12 487 textes
+Négociations   ████████████████░░░░░░░░   67 %    8 314 / 12 487 textes
 
-Total          ████████████████░░░░░░░░   66 %   15 977 / 24 145 textes
+Total          ████████████████░░░░░░░░   68 %   16 445 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -325,12 +325,12 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`GAKI_002.json`](trad/negociations/GAKI_002.json) | 100 | 100 | 100 % | terminé |
 | [`GAKI_003.json`](trad/negociations/GAKI_003.json) | 28 | 28 | 100 % | terminé |
 | [`HIHO_001.json`](trad/negociations/HIHO_001.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
-| [`HIHO_002.json`](trad/negociations/HIHO_002.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#93) |
+| [`HIHO_002.json`](trad/negociations/HIHO_002.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
 | [`HIHO_003.json`](trad/negociations/HIHO_003.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
-| [`HIHO_004.json`](trad/negociations/HIHO_004.json) | 100 | 0 | 0 % | libre |
-| [`HIHO_005.json`](trad/negociations/HIHO_005.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#88) |
-| [`HIHO_006.json`](trad/negociations/HIHO_006.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#90) |
-| [`HIHO_007.json`](trad/negociations/HIHO_007.json) | 68 | 0 | 0 % | en cours par @ATMC14 (#89) |
+| [`HIHO_004.json`](trad/negociations/HIHO_004.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`HIHO_005.json`](trad/negociations/HIHO_005.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`HIHO_006.json`](trad/negociations/HIHO_006.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`HIHO_007.json`](trad/negociations/HIHO_007.json) | 68 | 68 | 100 % | terminé par @ATMC14 |
 | [`KEMONO_001.json`](trad/negociations/KEMONO_001.json) | 100 | 0 | 0 % | libre |
 | [`KEMONO_002.json`](trad/negociations/KEMONO_002.json) | 100 | 0 | 0 % | libre |
 | [`KEMONO_003.json`](trad/negociations/KEMONO_003.json) | 100 | 0 | 0 % | libre |
