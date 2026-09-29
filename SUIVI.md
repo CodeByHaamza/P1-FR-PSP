@@ -325,7 +325,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`GAKI_002.json`](trad/negociations/GAKI_002.json) | 100 | 100 | 100 % | terminé |
 | [`GAKI_003.json`](trad/negociations/GAKI_003.json) | 28 | 28 | 100 % | terminé |
 | [`HIHO_001.json`](trad/negociations/HIHO_001.json) | 100 | 0 | 0 % | libre |
-| [`HIHO_002.json`](trad/negociations/HIHO_002.json) | 100 | 0 | 0 % | libre |
+| [`HIHO_002.json`](trad/negociations/HIHO_002.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#93) |
 | [`HIHO_003.json`](trad/negociations/HIHO_003.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#92) |
 | [`HIHO_004.json`](trad/negociations/HIHO_004.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#91) |
 | [`HIHO_005.json`](trad/negociations/HIHO_005.json) | 100 | 0 | 0 % | en cours par @ATMC14 (#88) |
