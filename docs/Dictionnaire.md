@@ -125,6 +125,7 @@
 | Element / Force (types) | Élément / Force | EBOOT_007.json | ✅ |
 | Element / Force / Dark / Light (types) | Élément / Force / Noir / Blanc | EBOOT_013.json | ✅ *(« Noir / Blanc » fait paire en français et tient dans 4 et 5, contrairement à « Ombre / Lumière »)* |
 | emplacements d'armure | Tête / Corps / Bras / Jambes | EBOOT_012.json | ✅ |
+| EX-File / EX-Files | EX-File / EX-Files | WORM_009.json, KEMONO_009.json | ✅ *(clin d'oeil à X-Files, dont le titre reste « X-Files » en français : traduire casserait la blague)* |
 | Erusaer Tsymmom (formule inversee d'Aki = "Mommys Treasure") | Namam ed Rosert ("Tresor de maman" inverse) | E0_018.json | ✅ |
 | essence(s) | essence(s) | E0_025.json | ✅ |
 | Estoma / Traesto | gardes (sorts signature : fuite/teleport) | names_eboot.json | ✅ |
