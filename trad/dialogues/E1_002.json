@@ -518,21 +518,21 @@
     "locuteur": "Elly",
     "en": "That writing is Greek for \"(*TEXTBOX_PARAM,0700*)Nemesis Tower(*TEXTBOX_PARAM,0000*).\"{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Cet écrit est du grec: \"(*TEXTBOX_PARAM,0700*)tour Nemesis(*TEXTBOX_PARAM,0000*)\".{ATTENTE}"
+    "fr": "Cet écrit est du grec: \"(*TEXTBOX_PARAM,0700*)Tour Némésis(*TEXTBOX_PARAM,0000*)\".{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0010",
     "locuteur": "Tsutomu",
     "en": "Nemesis? Hmm... Greek, you say?{SAUT}Iiiiiinteresting...{ATTENTE}",
     "locuteur_fr": "Tsutomu",
-    "fr": "Nemesis? Hmm... Du grec, dites-vous?{SAUT}Iiiiiintéressant...{ATTENTE}"
+    "fr": "Némésis? Hmm... Du grec, dites-vous?{SAUT}Iiiiiintéressant...{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0011",
     "locuteur": "Elly",
     "en": "Nemesis is the Greek goddess of{SAUT}retribution.{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Nemesis est la déesse grecque{SAUT}du châtiment.{ATTENTE}"
+    "fr": "Némésis est la déesse grecque{SAUT}du châtiment.{ATTENTE}"
   },
   {
     "id": "E1.BIN:005:0012",
