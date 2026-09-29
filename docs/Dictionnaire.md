@@ -95,6 +95,7 @@
 | big / small reels | grands / petits rouleaux | EBOOT_005.json | ✅ |
 | catégories d'armes à feu | Pistolet / Auto / Pompe / Fusil / Balles | EBOOT_012.json | ✅ |
 | catégories d'inventaire | Épée 1M / Épée 2M / Lance / Hache / Fouet / Jet / Arc / Poing | EBOOT_012.json | ✅ |
+| Cerberus (Persona) | Cerbère | E3_007.json, ETC_002.json | ✅ *(forme française de la localisation officielle : vérifié en jeu dans P3R et P4G. Voir la règle des noms mythologiques plus bas)* |
 | Chewing Soul / Bead | conservés | EBOOT_011.json | ✅ *(noms de série, comme Hiranya et Soma)* |
 | Chisato Kasai | Chisato Kasai | E2_018.json | ✅ |
 | Class 2-4 (salle de classe) | Salle 2-4 | EBOOT_001.json | ✅ *(« Classe » dépasse d'un caractère)* |
@@ -153,8 +154,8 @@
 | HP / SP | HP / SP | EBOOT_016.json | ✅ *(convention de la série en français, et déjà en jeu dans les fichiers traduits)* |
 | HP / SP Incense | Encens HP / Encens SP | EBOOT_011.json | ✅ |
 | Hypnos | Hypnos | E1_008.json | ✅ |
-| Hypnos / Nemesis / Thanatos Chamber | Salle Hypnos / Nemesis / Thanatos | EBOOT_001.json | ✅ |
-| Hypnos / Nemesis / Thanatos Tower | tour Hypnos / Nemesis / Thanatos | E1_014.json, EBOOT_017.json | ✅ |
+| Hypnos / Nemesis / Thanatos Chamber | Salle Hypnos / Némésis / Thanatos | EBOOT_001.json | ✅ |
+| Hypnos / Nemesis / Thanatos Tower | Tour Hypnos / Némésis / Thanatos | E1_014.json, EBOOT_017.json, EBOOT_023.json | ✅ *(majuscule à « Tour » : c'est le nom du lieu. Pas de « Tour de X », proposé sur le Discord : le slot du nom de lieu dans EBOOT_001 fait 11 à 13 caractères, « Tour de Thanatos » en fait 16 — il faudrait le code cave sur les trois libellés les plus visibles du jeu)* |
 | Ice Castle | Château de Glace / Glace | E1_023.json, EBOOT_002.json | ✅ *(forme abrégée sur les étiquettes)* |
 | Infirmary / Lab | Infirmerie / Labo | EBOOT_001.json | ✅ *(dépassent d'un caractère, sans équivalent plus court)* |
 | Injured boy (locuteur) | Garçon blessé | E0_020.json | ✅ |
@@ -182,10 +183,12 @@
 | Ms. Saeko (enseignante) | Mme Saeko | E1_023.json | ✅ |
 | Mysterious butterfly | Papillon mysterieux | E0_005.json | ✅ |
 | Nanjo Group | groupe Nanjo | E0_017.json | ✅ |
+| Nemesis (déesse / Persona) | Némésis | E1_002.json, E1_018.json | ✅ *(orthographe française du nom grec ; le dépôt l'écrivait déjà ainsi dans E1_018 et « Nemesis » partout ailleurs — unifié le 29/09/2026)* |
 | Night Queen (Persona/masque) | Reine de la Nuit | E1_023.json | ✅ |
 | noms mythologiques des énigmes | conservés (Seiryuu, Airgetlam, Verdandi, Susano-o…) | DNG_001.json | ✅ |
 | Nurse Natsumi | Natsumi (infirmiere) | E0_006.json | ✅ |
 | Order / Type (fusion de cartes) | Ordre / Type | EBOOT_016.json | ✅ |
+| Orthrus (Persona) | Orthros | ETC_002.json | ✅ *(forme française du nom grec ; c'est le frère de Cerbère, les deux doivent suivre la même règle)* |
 | Pandora's Nest | Nid de Pandore | EBOOT_002.json | ✅ |
 | parallel world | monde parallèle | E0_020.json | ✅ |
 | Petra / Para / Poisma / Nerve / Posumudi / Paraladi / Petradi / Nervundi | gardes (prefixes sorts de soin statut) | names_eboot.json | ✅ |
@@ -218,9 +221,11 @@
 | Stern-faced man (locuteur) | Homme sévère | E0_017.json | ✅ *(cohérent avec « Voix sévère », DNG_001)* |
 | Stone (objet conso, ex: Agidyne Stone) | Pierre (mot ajoute apres le sort garde) | names_eboot.json | ✅ |
 | Student Council Room | Conseil des élèves | EBOOT_001.json | ✅ |
+| Succubus (Persona) | Succube | ETC_002.json | ✅ *(nom commun français ; « Succubus » est le latin)* |
 | Suspicious-looking man (locuteur) | Homme suspect | E0_017.json | ✅ *(cohérent avec « Voix suspecte », DNG_001)* |
 | Tablet (objet conso, ex: Evil Fire Tablet) | Plaque (+ Maudit/e si "Evil") | names_eboot.json | ✅ |
 | Takeda | Takeda | DNG_001.json | ✅ |
+| Tartarus | le Tartare | E3_007.json | ✅ *(le nom français du lieu des Enfers grecs, et Persona 3 en français dit aussi « le Tartare ». La réplique d'Elly parle explicitement de mythologie grecque : le nom français y fait son effet)* |
 | Terra / Luna | Terra / Luna | E0_025.json (fusion) | ✅ |
 | the Tailors (bande de Mark) | les Tailors | E0_016.json | ✅ *(nom de bande conservé)* |
 | time slip | saut dans le temps | E0_019.json | ✅ |
@@ -231,6 +236,7 @@
 | Trish | Trish | E0_025.json | ✅ |
 | Tsutomu Kurouri | Tsutomu Kurouri | E0_006.json | ✅ |
 | Vice-Principal Hanya | Vice-proviseur Hanya | E0_006.json | ✅ |
+| world after death | le monde qui succède à la mort | E3_007.json | ✅ *(attention à la construction : succéder **à**. Forme courte quand la boîte est serrée : « l'au-delà »)* |
 | Yamaoka | Yamaoka | E1_020.json | ✅ |
 | Yosuke | Yosuke | E2_018.json | ✅ |
 | Yosuke Naito | Yosuke Naito | E0_019.json | ✅ |
@@ -246,8 +252,22 @@ Source : EBOOT **déchiffré**, extraits par `game/tools/_ancien_pipeline/p1_nam
 
 - ✅ **Traduire** : objets, objets-clés, armes, armures, accessoires, **sorts descriptifs**
   (« Crystal Wall », « Hell Drop »…).
-- 🚫 **GARDER en anglais** : noms de **démons** et **Personae** (Pixie, Cupid, Cerberus,
-  Angel…) et **sorts signature** de la série (Agi, Bufu, Garu, Zio, Dia, Mudo, Hama…).
+- 🚫 **GARDER en anglais** : les **sorts signature** de la série (Agi, Bufu, Garu, Zio,
+  Dia, Mudo, Hama…), et les noms de **démons et de Personae qui n'ont pas de forme
+  française consacrée** — noms inventés (Captain Kidd), noms japonais (Seimen Kongou),
+  créatures dont le nom anglais *est* le nom de série (Pixie, Lilim).
+- ✍️ **TRADUIRE** en revanche les noms de **figures mythologiques qui ont une forme
+  française établie** : `Cerberus` → **Cerbère**, `Nemesis` → **Némésis**,
+  `Succubus` → **Succube**, `Orthrus` → **Orthros**. C'est ce que fait la localisation
+  française officielle — @Uolil-Raccoon a vérifié Cerbère en jeu dans P3R **et** P4G —
+  et le dépôt le faisait déjà sans le dire (`Cupid` → Cupidon dans E1_011, `Hades` →
+  Hadès dans ETC_002, `Angel` → Anges dans EBOOT_018). Les noms sanskrits et japonais
+  s'écrivent pareil en français et ne posent pas la question (Kali, Shiva, Ganesha,
+  Garuda, Izanagi, Susano-o).
+  ⚠️ Un nom changé ici doit l'être **aussi** dans `names_eboot.json` du dépôt privé,
+  sinon le joueur lit « Cerbère » en dialogue et « Cerberus » à l'écran de fusion.
+  Les quatre ci-dessus sont plus courts ou de longueur égale à l'anglais : ils tiennent
+  dans leur `max`.
 - ⚠️ Contrainte technique : le FR doit **tenir dans la longueur du champ EN** (`max`).
   Noms multi-mots = plusieurs champs (slots fixes) → l'ordre des mots suit l'anglais
   pour l'instant (cf. `game/PERIMETRE.md`, format des records à finir de reverser).

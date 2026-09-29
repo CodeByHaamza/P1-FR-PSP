@@ -109,59 +109,59 @@
   {
     "id": "ETC.BIN:text:0179",
     "en": "(*SPEAKER*)Cerberus{SAUT}AWOOOOOO! ME YOUR BROTHER! YOU DOING{SAUT}WELL?{ATTENTE}",
-    "fr": "(*SPEAKER*)Cerberus{SAUT}AWOOOOOO! MOI TON FRÈRE! TOI ALLER{SAUT}BIEN?{ATTENTE}"
+    "fr": "(*SPEAKER*)Cerbère{SAUT}AWOOOOOO! MOI TON FRÈRE! TOI ALLER{SAUT}BIEN?{ATTENTE}"
   },
   {
     "id": "ETC.BIN:text:0180",
     "en": "{PAGE}[FFEB](*SPEAKER*)Orthrus{SAUT}AWOOOO! ME FINE. BUT BROTHER, WHAT{SAUT}ABOUT GUARDING HADES?(*OPTION*)",
-    "fr": "{PAGE}[FFEB](*SPEAKER*)Orthrus{SAUT}AWOOOO! MOI BIEN. MAIS FRÈRE, ET{SAUT}GARDER HADÈS?(*OPTION*)",
+    "fr": "{PAGE}[FFEB](*SPEAKER*)Orthros{SAUT}AWOOOO! MOI BIEN. MAIS FRÈRE, ET{SAUT}GARDER HADÈS?(*OPTION*)",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0181",
     "en": "   (*SPEAKER*)Ceberus{SAUT}ME TAKE VACATION... BUT ENOUGH OF THAT.{SAUT}CAN YOU LEND POWER TO THIS HUMAN?{ATTENTE}",
-    "fr": "   (*SPEAKER*)Cerberus{SAUT}MOI EN VACANCES... MAIS ASSEZ PARLÉ.{SAUT}TOI PRÊTER FORCE À CET HUMAIN?{ATTENTE}",
+    "fr": "   (*SPEAKER*)Cerbère{SAUT}MOI EN VACANCES... MAIS ASSEZ PARLÉ.{SAUT}TOI PRÊTER FORCE À CET HUMAIN?{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0182",
     "en": "{PAGE}[FFEE](*SPEAKER*)Orthrus{SAUT}HMMM... BROTHER'S REQUEST. ME NOT ABLE{SAUT}TO DECLINE. HUMAN, TAKE CARD.(*OPTION*)",
-    "fr": "{PAGE}[FFEE](*SPEAKER*)Orthrus{SAUT}HMMM... DEMANDE DE FRÈRE. MOI PAS{SAUT}POUVOIR REFUSER. HUMAIN, PRENDS CARTE.(*OPTION*)"
+    "fr": "{PAGE}[FFEE](*SPEAKER*)Orthros{SAUT}HMMM... DEMANDE DE FRÈRE. MOI PAS{SAUT}POUVOIR REFUSER. HUMAIN, PRENDS CARTE.(*OPTION*)"
   },
   {
     "id": "ETC.BIN:text:0183",
     "en": " (*SPEAKER*)Cerberus{SAUT}AWOOOOOO! ME YOUR BROTHER! YOU DOING{SAUT}WELL?{ATTENTE}",
-    "fr": " (*SPEAKER*)Cerberus{SAUT}AWOOOOOO! MOI TON FRÈRE! TOI ALLER{SAUT}BIEN?{ATTENTE}"
+    "fr": " (*SPEAKER*)Cerbère{SAUT}AWOOOOOO! MOI TON FRÈRE! TOI ALLER{SAUT}BIEN?{ATTENTE}"
   },
   {
     "id": "ETC.BIN:text:0186",
     "en": "{PAGE}[FFEE](*SPEAKER*)Orthrus{SAUT}HRRMMM... HE LOOK TOO WEAK.{SAUT}[FFED]ME GO BACK TO WORK. YOU SHOULD TOO.(*OPTION*)",
-    "fr": "{PAGE}[FFEE](*SPEAKER*)Orthrus{SAUT}HRRMMM... LUI TROP FAIBLE.{SAUT}[FFED]MOI RETOURNER TRAVAILLER. TOI AUSSI.(*OPTION*)"
+    "fr": "{PAGE}[FFEE](*SPEAKER*)Orthros{SAUT}HRRMMM... LUI TROP FAIBLE.{SAUT}[FFED]MOI RETOURNER TRAVAILLER. TOI AUSSI.(*OPTION*)"
   },
   {
     "id": "ETC.BIN:text:0187",
     "en": " [FFED](*SPEAKER*)Orthus{SAUT}GAAAAAH! THIS HUMAN... DUMB, BROTHER!{SAUT}YOU SHOULD GO BACK TO WORK!(*OPTION*)",
-    "fr": " [FFED](*SPEAKER*)Orthrus{SAUT}GAAAAAH! CET HUMAIN... BÊTE, FRÈRE!{SAUT}TOI RETOURNER TRAVAILLER!(*OPTION*)"
+    "fr": " [FFED](*SPEAKER*)Orthros{SAUT}GAAAAAH! CET HUMAIN... BÊTE, FRÈRE!{SAUT}TOI RETOURNER TRAVAILLER!(*OPTION*)"
   },
   {
     "id": "ETC.BIN:text:0189",
     "en": "   [FFEB](*SPEAKER*)Orthrus{SAUT}THIS FINE? THEN ME RETURN TO HADES.{ATTENTE}",
-    "fr": "   [FFEB](*SPEAKER*)Orthrus{SAUT}ÇA VA? ALORS MOI RENTRER À HADÈS.{ATTENTE}"
+    "fr": "   [FFEB](*SPEAKER*)Orthros{SAUT}ÇA VA? ALORS MOI RENTRER À HADÈS.{ATTENTE}"
   },
   {
     "id": "ETC.BIN:text:0190",
     "en": "{PAGE}(*SPEAKER*)Orthrus{SAUT}BROTHER, YOU COME TOO.{ATTENTE}",
-    "fr": "{PAGE}(*SPEAKER*)Orthrus{SAUT}FRÈRE, TOI VENIR AUSSI.{ATTENTE}"
+    "fr": "{PAGE}(*SPEAKER*)Orthros{SAUT}FRÈRE, TOI VENIR AUSSI.{ATTENTE}"
   },
   {
     "id": "ETC.BIN:text:0191",
     "en": "{PAGE}(*SPEAKER*)Cerberus{SAUT}NO. ME HAVE RESPONSIBILITY. YOU GO{SAUT}AHEAD.{ATTENTE}",
-    "fr": "{PAGE}(*SPEAKER*)Cerberus{SAUT}NON. MOI AVOIR RESPONSABILITÉ. TOI{SAUT}PARTIR DEVANT.{ATTENTE}"
+    "fr": "{PAGE}(*SPEAKER*)Cerbère{SAUT}NON. MOI AVOIR RESPONSABILITÉ. TOI{SAUT}PARTIR DEVANT.{ATTENTE}"
   },
   {
     "id": "ETC.BIN:text:0192",
     "en": "{PAGE}(*SPEAKER*)Cerberus{SAUT}RED CATTLE WAITING FOR YOU.(*OPTION*)",
-    "fr": "{PAGE}(*SPEAKER*)Cerberus{SAUT}BÉTAIL ROUGE T'ATTEND.(*OPTION*)"
+    "fr": "{PAGE}(*SPEAKER*)Cerbère{SAUT}BÉTAIL ROUGE T'ATTEND.(*OPTION*)"
   },
   {
     "id": "ETC.BIN:text:0193",
@@ -302,60 +302,60 @@
   {
     "id": "ETC.BIN:text:0224",
     "en": "(*SPEAKER*)Succubus{SAUT}Oh, what a coincidence. Sucked on any{SAUT}good souls lately?{ATTENTE}",
-    "fr": "(*SPEAKER*)Succubus{SAUT}Oh, quelle coïncidence. Tu as sucé de{SAUT}belles âmes, ces temps-ci?{ATTENTE}"
+    "fr": "(*SPEAKER*)Succube{SAUT}Oh, quelle coïncidence. Tu as sucé de{SAUT}belles âmes, ces temps-ci?{ATTENTE}"
   },
   {
     "id": "ETC.BIN:text:0225",
     "en": "{PAGE}[FFEC](*SPEAKER*)Succubus{SAUT}It's been a bit dry, actually...{ATTENTE}",
-    "fr": "{PAGE}[FFEC](*SPEAKER*)Succubus{SAUT}C'est plutôt calme, en fait...{ATTENTE}",
+    "fr": "{PAGE}[FFEC](*SPEAKER*)Succube{SAUT}C'est plutôt calme, en fait...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0226",
     "en": "{PAGE}(*SPEAKER*)Succubus{SAUT}I need to lay off the smart Christian{SAUT}types...(*OPTION*)",
-    "fr": "{PAGE}(*SPEAKER*)Succubus{SAUT}Je devrais lâcher les chrétiens{SAUT}trop malins...(*OPTION*)",
+    "fr": "{PAGE}(*SPEAKER*)Succube{SAUT}Je devrais lâcher les chrétiens{SAUT}trop malins...(*OPTION*)",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0227",
     "en": "  (*SPEAKER*)Succubus{SAUT}Hmm, yeah, those are the tough ones.{SAUT}Give up on them and come with us.{ATTENTE}",
-    "fr": "  (*SPEAKER*)Succubus{SAUT}Hmm, oui, ceux-là sont coriaces.{SAUT}Laisse tomber et viens avec nous.{ATTENTE}",
+    "fr": "  (*SPEAKER*)Succube{SAUT}Hmm, oui, ceux-là sont coriaces.{SAUT}Laisse tomber et viens avec nous.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "ETC.BIN:text:0228",
     "en": "{PAGE}[FFEE](*SPEAKER*)Succubus{SAUT}Maybe I'll do that...{ATTENTE}",
-    "fr": "{PAGE}[FFEE](*SPEAKER*)Succubus{SAUT}Pourquoi pas...{ATTENTE}"
+    "fr": "{PAGE}[FFEE](*SPEAKER*)Succube{SAUT}Pourquoi pas...{ATTENTE}"
   },
   {
     "id": "ETC.BIN:text:0229",
     "en": "{PAGE}(*SPEAKER*)Succubus{SAUT}I'm glad we met. Why don't you take my{SAUT}card, humans?(*OPTION*)",
-    "fr": "{PAGE}(*SPEAKER*)Succubus{SAUT}Ravie de la rencontre. Prenez donc ma{SAUT}carte, les humains?(*OPTION*)"
+    "fr": "{PAGE}(*SPEAKER*)Succube{SAUT}Ravie de la rencontre. Prenez donc ma{SAUT}carte, les humains?(*OPTION*)"
   },
   {
     "id": "ETC.BIN:text:0230",
     "en": " (*SPEAKER*)Succubus{SAUT}Oh, what a coincidence. Sucked on any{SAUT}good souls lately?{ATTENTE}",
-    "fr": " (*SPEAKER*)Succubus{SAUT}Oh, quelle coïncidence. Tu as sucé de{SAUT}belles âmes, ces temps-ci?{ATTENTE}"
+    "fr": " (*SPEAKER*)Succube{SAUT}Oh, quelle coïncidence. Tu as sucé de{SAUT}belles âmes, ces temps-ci?{ATTENTE}"
   },
   {
     "id": "ETC.BIN:text:0234",
     "en": "{PAGE}[FFED](*SPEAKER*)Succubus{SAUT}No, I'm not ready to give up yet.{SAUT}I'll try a few more Europeans!(*OPTION*)",
-    "fr": "{PAGE}[FFED](*SPEAKER*)Succubus{SAUT}Non, je n'abandonne pas encore.{SAUT}Je vais tenter quelques Européens!(*OPTION*)"
+    "fr": "{PAGE}[FFED](*SPEAKER*)Succube{SAUT}Non, je n'abandonne pas encore.{SAUT}Je vais tenter quelques Européens!(*OPTION*)"
   },
   {
     "id": "ETC.BIN:text:0235",
     "en": "  [FFEC](*SPEAKER*)Succubus{SAUT}Hmmm...{ATTENTE}",
-    "fr": "  [FFEC](*SPEAKER*)Succubus{SAUT}Hmmm...{ATTENTE}"
+    "fr": "  [FFEC](*SPEAKER*)Succube{SAUT}Hmmm...{ATTENTE}"
   },
   {
     "id": "ETC.BIN:text:0236",
     "en": "{PAGE}(*SPEAKER*)Succubus{SAUT}Well, you've already got my Persona.{SAUT}I should get back to my prey...(*OPTION*)",
-    "fr": "{PAGE}(*SPEAKER*)Succubus{SAUT}Bon, tu as déjà ma Persona.{SAUT}Je retourne à mes proies...(*OPTION*)"
+    "fr": "{PAGE}(*SPEAKER*)Succube{SAUT}Bon, tu as déjà ma Persona.{SAUT}Je retourne à mes proies...(*OPTION*)"
   },
   {
     "id": "ETC.BIN:text:0238",
     "en": "   [FFEB](*SPEAKER*)Succubus{SAUT}Thanks for everything. Bye bye, now.(*OPTION*)",
-    "fr": "   [FFEB](*SPEAKER*)Succubus{SAUT}Merci pour tout. Bye bye.(*OPTION*)"
+    "fr": "   [FFEB](*SPEAKER*)Succube{SAUT}Merci pour tout. Bye bye.(*OPTION*)"
   },
   {
     "id": "ETC.BIN:text:0239",
