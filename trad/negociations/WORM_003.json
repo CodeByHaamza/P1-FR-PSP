@@ -2,501 +2,501 @@
   {
     "id": "WORM.BIN:text:0202",
     "en": "{PAGE}ME LIKE MAGIC TRICK! YOU TAKE OUT{SAUT}THINGS FROM THAT, SO ME TAKE IT![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}MOI AIMER TOUR MAGIE! TOI SORTIR{SAUT}TRUCS DE LÀ, ALORS MOI PRENDRE![FFF1](*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0203",
     "en": "  HAHHHH! ME LISTEN YOU STORY...{SAUT}IT INTERESTING!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  HAHHHH! MOI ÉCOUTER TON CONTE...{SAUT}ÇA INTÉRESSANT!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0204",
     "en": " HAHHHH! YOU LIKE TELLING STORY...{SAUT}WE LOVE STORY.(*RESPONSE*)",
-    "fr": ""
+    "fr": " HAHHHH! TOI AIMER RACONTER...{SAUT}NOUS AIMER CONTES.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0205",
     "en": "   HAHHHH! ME LISTEN YOU STORY...{SAUT}HAHHHH! NOW GIVE SOMETHING.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "   HAHHHH! MOI ÉCOUTER TON CONTE...{SAUT}HAHHHH! ALORS DONNE TRUC.[FFF1](*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0206",
     "en": "GWAOHHHH! ME NOT CARE ABOUT STORY!{SAUT}SHUT UP!(*RESPONSE*)",
-    "fr": ""
+    "fr": "GWAOHHHH! MOI PAS INTÉRÊT CONTE!{SAUT}SILENCE!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0207",
     "en": "GWAOHHHH! ME DRAGON!{SAUT}YOU LEAVE ALONE!(*RESPONSE*)",
-    "fr": ""
+    "fr": "GWAOHHHH! MOI DRAGON!{SAUT}TOI LAISSER MOI!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0208",
     "en": "  GWAOHHHH! YOU LOUD! ME HAVE BAD{SAUT}MOOD! GIVE SOMETHING![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "  GWAOHHHH! TOI BRUYANT! MOI{SAUT}MAUVAISE HUMEUR! DONNE TRUC![FFF1](*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0209",
     "en": " KRRR... SOMETHING WRONG WHEN HUMANS{SAUT}WANT TALK... ME CAN NO TRUST YOU.(*RESPONSE*)",
-    "fr": ""
+    "fr": " KRRR... LOUCHE QUAND HUMAINS{SAUT}VEULENT PARLER... PAS CONFIANCE.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0210",
     "en": "  KRRR... SOMETHING WRONG WHEN HUMANS{SAUT}WANT TALK...{ATTENTE}",
-    "fr": ""
+    "fr": "  KRRR... LOUCHE QUAND HUMAINS{SAUT}VEULENT PARLER...{ATTENTE}"
   },
   {
     "id": "WORM.BIN:text:0211",
     "en": "{PAGE}NO TRUST YOU... GIVE ME SOMETHING,{SAUT}MAYBE ME BELIEVE A LITTLE...[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}PAS CONFIANCE... DONNE TRUC,{SAUT}PEUT-ÊTRE MOI CROIRE UN PEU...[FFF1](*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0212",
     "en": " AWOOOOH! ME HAPPY! YOU STORY{SAUT}INTERESTING!(*RESPONSE*)",
-    "fr": ""
+    "fr": " AWOOOOH! MOI CONTENT! TON CONTE{SAUT}INTÉRESSANT!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0213",
     "en": "  AWOOOOH! ME LIKE HUMANS. HUMANS{SAUT}LIKE STORY. SO ME LIKE STORY!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  AWOOOOH! MOI AIMER HUMAINS. HUMAINS{SAUT}AIMER CONTES. ALORS MOI AUSSI!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0214",
     "en": "  AWOOOOH! ME LIKE STORY. GIVE ME{SAUT}SOMETHING, ME WILL LIKE MORE![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "  AWOOOOH! MOI AIMER CONTES. DONNE{SAUT}TRUC, MOI AIMER ENCORE PLUS![FFF1](*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0215",
     "en": " HAHHHH! ME RELIABLE! YOU HAVE{SAUT}GOOD EYES!(*RESPONSE*)",
-    "fr": ""
+    "fr": " HAHHHH! MOI FIABLE! TOI AVOIR{SAUT}BON OEIL!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0216",
     "en": "   HAHHHH! YOU NEED ME?{SAUT}ME... LOVED...!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   HAHHHH! TOI BESOIN MOI?{SAUT}MOI... AIMÉ...!?(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0217",
     "en": "  HAHHHH! ME STRONG... BUT ME NEED{SAUT}LOT OF ENERGY.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "  HAHHHH! MOI FORT... MAIS BESOIN{SAUT}PLEIN ÉNERGIE.[FFF1](*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0218",
     "en": "   GWAOHHH! ME [FFF0]!{SAUT}HUMAN LEAVE ME ALONE!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   GWAOHHH! MOI [FFF0]!{SAUT}HUMAIN LAISSER MOI!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0219",
     "en": "   GWAOHHHH! ME NO LIKE NORMAL TALK!{SAUT}YOU DO SOMETHING MORE FUN!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   GWAOHHHH! MOI PAS AIMER PARLER{SAUT}NORMAL! FAIS TRUC PLUS MARRANT!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0220",
     "en": "   GWAOHHH! ME [FFF0]!{SAUT}NO DEAL WITH HUMANS!{ATTENTE}",
-    "fr": ""
+    "fr": "   GWAOHHH! MOI [FFF0]!{SAUT}PAS AFFAIRE HUMAINS!{ATTENTE}"
   },
   {
     "id": "WORM.BIN:text:0221",
     "en": "{PAGE}YOU REALLY WANT ME HELP, YOU GIVE{SAUT}SOMETHING![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}TOI VRAIMENT VOULOIR MOI AIDER,{SAUT}DONNE TRUC![FFF1](*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0222",
     "en": " KRRR... ME AFRAID... THIS MIGHT{SAUT}BE TRAP...(*RESPONSE*)",
-    "fr": ""
+    "fr": " KRRR... MOI PEUR... ÇA PEUT-ÊTRE{SAUT}PIÈGE...(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0223",
     "en": " KRRR... SOMETHING WRONG WHEN HUMANS{SAUT}WANT TALK... ME CAN NO TRUST YOU...(*RESPONSE*)",
-    "fr": ""
+    "fr": " KRRR... LOUCHE QUAND HUMAINS{SAUT}VEULENT PARLER... PAS CONFIANCE...(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0224",
     "en": "KRRR... ME NO WANT LOW WAGE...{SAUT}HARD BEING POOR...{ATTENTE}",
-    "fr": ""
+    "fr": "KRRR... PAS VOULOIR PEU PAYÉ...{SAUT}DUR ÊTRE PAUVRE...{ATTENTE}"
   },
   {
     "id": "WORM.BIN:text:0225",
     "en": "{PAGE}ME WANT KNOW HOW MUCH YOU PAY...[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}MOI VOULOIR SAVOIR TON PRIX...[FFF1](*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0226",
     "en": "   AWOOOOH! ME HAPPY! YOU ASK FAVOR!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   AWOOOOH! CONTENT! TOI DEMANDER!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0227",
     "en": "  AWOOOOH! HOW EMBARRASSING...{SAUT}AWOOOOH! AWOOOOOOH!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  AWOOOOH! QUELLE GÊNE...{SAUT}AWOOOOH! AWOOOOOH!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0228",
     "en": "   AWOOOOH! YOU SMART! YOU SEE ME{SAUT}REAL POWER!{ATTENTE}",
-    "fr": ""
+    "fr": "   AWOOOOH! TOI MALIN! TOI VOIR MA{SAUT}VRAIE FORCE!{ATTENTE}"
   },
   {
     "id": "WORM.BIN:text:0229",
     "en": "{PAGE}AWOOOOH! GIVE SOMETHING AND WE{SAUT}BE FRIENDS![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}AWOOOOH! DONNE TRUC ET NOUS{SAUT}ÊTRE AMIS![FFF1](*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0230",
     "en": "HAHHHH! ME NO GET ANGRY.{SAUT}DRAGONS GENEROUS!(*RESPONSE*)",
-    "fr": ""
+    "fr": "HAHHHH! MOI PAS EN COLÈRE.{SAUT}DRAGONS GÉNÉREUX!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0231",
     "en": " HAHHHH! YOU WANT TALK OR NOT?{SAUT}ME CAN NO TELL.(*RESPONSE*)",
-    "fr": ""
+    "fr": " HAHHHH! TOI PARLER OU PAS?{SAUT}MOI PAS SAVOIR.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0232",
     "en": "  HAHHHHH! ME NOT KNOW... YOU GIVE{SAUT}ME SOMETHING.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "  HAHHHHH! MOI PAS SAVOIR... TOI{SAUT}DONNER TRUC.[FFF1](*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0233",
     "en": "GWAOHHHH! YOU UNDERESTIMATE ME!{SAUT}ME ANNOYED! BITE YOU!(*RESPONSE*)",
-    "fr": ""
+    "fr": "GWAOHHHH! TOI SOUS-ESTIMER MOI!{SAUT}MOI ÉNERVÉ! MORDRE TOI!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0234",
     "en": "  GWAOHHHH! ME HAVE BAD MOOD!{SAUT}YOU NOT WORTH TALKING TO!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  GWAOHHHH! MOI MAUVAISE HUMEUR!{SAUT}TOI PAS VALOIR LA PAROLE!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0235",
     "en": "  GWAOHHHH! ME REAL MAD! YOU GIVE{SAUT}SOMETHING![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "  GWAOHHHH! MOI VRAI FOU! TOI{SAUT}DONNE TRUC![FFF1](*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0236",
     "en": "KRRR... ME HAVE BAD MOOD. ME NO{SAUT}LIKE YOU VIBE...(*RESPONSE*)",
-    "fr": ""
+    "fr": "KRRR... MAUVAISE HUMEUR. MOI PAS{SAUT}AIMER TON AIR...(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0237",
     "en": "   KRRR... YOU MAKE ME ANGRY...{ATTENTE}",
-    "fr": ""
+    "fr": "   KRRR... TOI ME FÂCHER...{ATTENTE}"
   },
   {
     "id": "WORM.BIN:text:0238",
     "en": "{PAGE}KRRR... ME NO FEEL GOOD ABOUT{SAUT}THIS...(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}KRRR... MOI PAS BIEN SENTIR{SAUT}ÇA...(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0239",
     "en": "KRRR... YOU BRUTE... ME SCARED...(*RESPONSE*)",
-    "fr": ""
+    "fr": "KRRR... TOI BRUTE... MOI PEUR...(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0240",
     "en": "  AWOOOOH! ME GAIN ENLIGHTENMENT!{SAUT}ME GOING SMILE ALWAYS!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  AWOOOOH! MOI AVOIR L'ÉVEIL!{SAUT}MOI SOURIRE TOUJOURS!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0241",
     "en": " AWOOOH! ME NO REALLY GET IT.{SAUT}BUT KIND OF FUN.(*RESPONSE*)",
-    "fr": ""
+    "fr": " AWOOOH! MOI PAS PIGER.{SAUT}MAIS UN PEU MARRANT.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0242",
     "en": "  AWOOOOH! YOU NOT NEGOTIATE GOOD.{SAUT}ME SHOW YOU HOW!{ATTENTE}",
-    "fr": ""
+    "fr": "  AWOOOOH! TOI MAL NÉGOCIER.{SAUT}MOI MONTRER COMMENT!{ATTENTE}"
   },
   {
     "id": "WORM.BIN:text:0243",
     "en": "{PAGE}AWOOOOH! YOU GIVE ME SOMETHING!{SAUT}PLEASE.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}AWOOOOH! TOI DONNER TRUC MOI!{SAUT}PITIÉ.[FFF1](*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0244",
     "en": "HAHHHH! THAT WAS YOU TRICK?{SAUT}HAHHHH! TRY HARDER. ME WILL LOOK{SAUT}FORWARD TO IT!(*RESPONSE*)",
-    "fr": ""
+    "fr": "HAHHHH! ÇA TON TOUR?{SAUT}HAHHHH! FAIS MIEUX. MOI{SAUT}ATTENDRE ÇA!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0245",
     "en": "HAHHHH! PRETTY COOL TRICK!{ATTENTE}",
-    "fr": ""
+    "fr": "HAHHHH! TOUR ASSEZ CLASSE!{ATTENTE}"
   },
   {
     "id": "WORM.BIN:text:0246",
     "en": "{PAGE}HAHHHH! ME KIND OF LIKE YOU!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}HAHHHH! MOI UN PEU AIMER TOI!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0247",
     "en": "   HAHHHH! ME THINK... TRICK NOT{SAUT}THAT GOOD.{ATTENTE}",
-    "fr": ""
+    "fr": "   HAHHHH! MOI CROIRE... TOUR PAS{SAUT}SI BON.{ATTENTE}"
   },
   {
     "id": "WORM.BIN:text:0248",
     "en": "{PAGE}HAHHHH! ME JUDGE FOR YOU. SO GIVE{SAUT}SOMETHING![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}HAHHHH! MOI JUGER POUR TOI. ALORS{SAUT}DONNE TRUC![FFF1](*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0249",
     "en": "GWAOHHHH! YOU TRICK BAD! ME ANGRY!(*RESPONSE*)",
-    "fr": ""
+    "fr": "GWAOHHHH! TON TOUR NUL! MOI COLÈRE!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0250",
     "en": " GWAOHHHH! ME HAVE BAD MOOD.{SAUT}YOU TRICK SHABBY!(*RESPONSE*)",
-    "fr": ""
+    "fr": " GWAOHHHH! MOI MAUVAISE HUMEUR.{SAUT}TON TOUR MINABLE!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0251",
     "en": "  GWAOHHHH! YOU TRICK AWFUL!{SAUT}YOU BAD AT NEGOTIATE!{ATTENTE}",
-    "fr": ""
+    "fr": "  GWAOHHHH! TON TOUR AFFREUX!{SAUT}TOI MAL NÉGOCIER!{ATTENTE}"
   },
   {
     "id": "WORM.BIN:text:0252",
     "en": "{PAGE}GWAOHHHH! ME ANGRY. ME TAKE{SAUT}SOMETHING![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}GWAOHHHH! MOI COLÈRE. MOI{SAUT}PRENDRE TRUC![FFF1](*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0253",
     "en": "  KRRR... ME TIRED...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  KRRR... MOI FATIGUÉ...(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0254",
     "en": "KRRR... YOU SHADY. ME SCARED OF{SAUT}ENTERTAINERS...(*RESPONSE*)",
-    "fr": ""
+    "fr": "KRRR... TOI LOUCHE. MOI PEUR DES{SAUT}AMUSEURS...(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0255",
     "en": "AWOOOOH! ME LOVE TRICKS!{SAUT}YOU NICE!(*RESPONSE*)",
-    "fr": ""
+    "fr": "AWOOOOH! MOI AIMER TOURS!{SAUT}TOI GENTIL!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0256",
     "en": " AWOOOOH! YOU TRICK GOOD!{SAUT}ME HAD FUN!(*RESPONSE*)",
-    "fr": ""
+    "fr": " AWOOOOH! TON TOUR BON!{SAUT}MOI AMUSÉ!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0257",
     "en": "   AWOOOOH! YOU ENTERTAINER! ME HOST!{ATTENTE}",
-    "fr": ""
+    "fr": "   AWOOOOH! TOI AMUSEUR! MOI HÔTE!{ATTENTE}"
   },
   {
     "id": "WORM.BIN:text:0258",
     "en": "{PAGE}AWOOOOH! PAY OFF HOST![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}AWOOOOH! PAYER L'HÔTE![FFF1](*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0259",
     "en": "HAHHHHH! YOU CONFUSE ME.{SAUT}WHAT SHOULD ME DO...?{ATTENTE}",
-    "fr": ""
+    "fr": "HAHHHHH! TOI TROUBLER MOI.{SAUT}QUOI MOI FAIRE...?{ATTENTE}"
   },
   {
     "id": "WORM.BIN:text:0260",
     "en": "{PAGE}HAHHHH! ME IN A FIX. YOU PRETTY{SAUT}CHARMING...(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}HAHHHH! MOI EMBÊTÉ. TOI ASSEZ{SAUT}CHARMANT...(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0261",
     "en": "HAHHHH! ME MIND CHANGING...{SAUT}HAHHHH! YOU SUSPICIOUS...{SAUT}BUT REAL INTERESTING!(*RESPONSE*)",
-    "fr": ""
+    "fr": "HAHHHH! MOI CHANGER D'AVIS...{SAUT}HAHHHH! TOI LOUCHE...{SAUT}MAIS VRAI INTÉRESSANT!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0262",
     "en": "HAHHHH! YOU GREAT HUMAN, CHANGE{SAUT}ME MIND...{ATTENTE}",
-    "fr": ""
+    "fr": "HAHHHH! TOI GRAND HUMAIN, CHANGER{SAUT}MON AVIS...{ATTENTE}"
   },
   {
     "id": "WORM.BIN:text:0263",
     "en": "{PAGE}HAHHHH! ME INTERESTED.{SAUT}ME WANT SOMETHING.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}HAHHHH! MOI INTÉRESSÉ.{SAUT}MOI VOULOIR TRUC.[FFF1](*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0264",
     "en": " GWAOHHHH! ME NOT EASY DEMON TO GET!{SAUT}YOU TRY SOMEONE ELSE!(*RESPONSE*)",
-    "fr": ""
+    "fr": " GWAOHHHH! MOI PAS DÉMON FACILE!{SAUT}TOI ESSAYER AUTRE!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0265",
     "en": "  GWAOHHHH! ME DRAGON! NO CARE{SAUT}ABOUT HUMANS!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  GWAOHHHH! MOI DRAGON! PAS{SAUT}INTÉRÊT HUMAINS!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0266",
     "en": " GWAOHHHH! YOU TALK TOO FAST.{SAUT}DO THINGS IN ORDER!{ATTENTE}",
-    "fr": ""
+    "fr": " GWAOHHHH! TOI PARLER TROP VITE.{SAUT}FAIS DANS L'ORDRE!{ATTENTE}"
   },
   {
     "id": "WORM.BIN:text:0267",
     "en": "{PAGE}ME HUNGRY... GIVE SOMETHING![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}MOI FAIM... DONNE TRUC![FFF1](*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0268",
     "en": "KRRR... YOU MAKE ME CONFUSED...{ATTENTE}",
-    "fr": ""
+    "fr": "KRRR... TOI TROUBLER MOI...{ATTENTE}"
   },
   {
     "id": "WORM.BIN:text:0269",
     "en": "{PAGE}KRRR... ME NOT KNOW WHAT DO...(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}KRRR... MOI PAS SAVOIR FAIRE...(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0270",
     "en": "KRRR... ME HAPPY YOU INVITE ME,{SAUT}BUT...{ATTENTE}",
-    "fr": ""
+    "fr": "KRRR... MOI CONTENT TOI INVITER,{SAUT}MAIS...{ATTENTE}"
   },
   {
     "id": "WORM.BIN:text:0271",
     "en": "{PAGE}KRRR... YOU HUMAN... ME...(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}KRRR... TOI HUMAIN... MOI...(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0272",
     "en": " KRRR... ME HAVE PRIOR ENGAGEMENT.(*RESPONSE*)",
-    "fr": ""
+    "fr": " KRRR... MOI DÉJÀ PRIS AILLEURS.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0273",
     "en": "  AWOOOOH! YOU INVITE ME!{SAUT}ME SO HAPPY!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  AWOOOOH! TOI INVITER MOI!{SAUT}MOI SI CONTENT!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0274",
     "en": "   AWOOOOH! YOU INVITE ME!{SAUT}THAT GOOD NEWS!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   AWOOOOH! TOI INVITER MOI!{SAUT}BONNE NOUVELLE!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0275",
     "en": "AWOOOOH! ME INTERESTED IN YOU!{SAUT}A+! WOULD NEGOTIATE AGAIN!(*RESPONSE*)",
-    "fr": ""
+    "fr": "AWOOOOH! MOI INTÉRESSÉ PAR TOI!{SAUT}A+! MOI RENÉGOCIER!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0276",
     "en": "  HAHHHH! YOU GOOD ACTOR.{SAUT}ME LIKE!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  HAHHHH! TOI BON ACTEUR.{SAUT}MOI AIMER!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0277",
     "en": "   HAHHHH! YOU GOOD ACTOR. MIGHT BE{SAUT}FAMOUS SOMEDAY! HAHHHH... SHOULD{SAUT}GET SOUVENIR FROM YOU NOW![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "   HAHHHH! TOI BON ACTEUR. PEUT-ÊTRE{SAUT}CÉLÈBRE UN JOUR! HAHHHH... MOI{SAUT}PRENDRE SOUVENIR MAINTENANT![FFF1](*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0278",
     "en": "  GWAOHHHH! YOU TOO POLITE!{SAUT}NOT GOOD STRATEGY!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  GWAOHHHH! TOI TROP POLI!{SAUT}PAS BONNE TACTIQUE!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0279",
     "en": "   GWAOHHHH! WHY YOU COME HERE?{SAUT}YOU WANT BE RIPPED APART!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   GWAOHHHH! POURQUOI TOI VENIR?{SAUT}TOI VOULOIR ÊTRE DÉCHIRÉ!?(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0280",
     "en": "GWAOHHHH! YOU NO TRUST ME!{ATTENTE}",
-    "fr": ""
+    "fr": "GWAOHHHH! TOI PAS ME CROIRE!{ATTENTE}"
   },
   {
     "id": "WORM.BIN:text:0281",
     "en": "{PAGE}ME HAVE BAD MOOD. YOU GIVE SOMETHING![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}MOI MAUVAISE HUMEUR. TOI DONNE TRUC![FFF1](*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0282",
     "en": " KRRR... YOU SAY NICE THING.{SAUT}BUT YOU MEAN IT...?(*RESPONSE*)",
-    "fr": ""
+    "fr": " KRRR... TOI DIRE BONNE CHOSE.{SAUT}MAIS TOI SINCÈRE...?(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0283",
     "en": "KRRR... YOU BUTTER UP TOO MUCH.{SAUT}SUSPICIOUS...(*RESPONSE*)",
-    "fr": ""
+    "fr": "KRRR... TOI FLATTER TROP.{SAUT}LOUCHE...(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0284",
     "en": "  AWOOOOH! [FFF3] HAPPY!{SAUT}YOU GOOD AT FLATTERING!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  AWOOOOH! [FFF3] CONTENT!{SAUT}TOI BON POUR FLATTER!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0285",
     "en": "  AWOOOOH! DRAGON ARE THE BEST!{SAUT}AWOOOOH! AWOOOOH!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  AWOOOOH! DRAGONS LES MEILLEURS!{SAUT}AWOOOOH! AWOOOOH!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0286",
     "en": "AWOOOOH! ME FEEL GOOD!{SAUT}AWOOOOOH! HAVE GOOD MOOD!{ATTENTE}",
-    "fr": ""
+    "fr": "AWOOOOH! MOI BIEN SENTIR!{SAUT}AWOOOOOH! BONNE HUMEUR!{ATTENTE}"
   },
   {
     "id": "WORM.BIN:text:0287",
     "en": "{PAGE}ME AMAZING! YOU GIVE GIFT![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}MOI GÉNIAL! DONNE CADEAU![FFF1](*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:text:0288",
     "en": "  HAHHHH! YOU ALREADY HAVE ME CARD!{ATTENTE}",
-    "fr": ""
+    "fr": "  HAHHHH! TOI AVOIR DÉJÀ MA CARTE!{ATTENTE}"
   },
   {
     "id": "WORM.BIN:text:0289",
     "en": "{PAGE}HAHHHH! ME RIP YOU APART IF{SAUT}THROW AWAY.(*OPTION*)",
-    "fr": ""
+    "fr": "{PAGE}HAHHHH! MOI DÉCHIRER TOI SI{SAUT}TOI JETER.(*OPTION*)"
   },
   {
     "id": "WORM.BIN:text:0290",
     "en": " AWOOOOH! ME GIVE YOU THIS!(*OPTION*)",
-    "fr": ""
+    "fr": " AWOOOOH! MOI DONNER ÇA!(*OPTION*)"
   },
   {
     "id": "WORM.BIN:text:0291",
     "en": " HAHHHH! YOU NOT WANT NOTHING?{SAUT}MODEST HUMAN...(*OPTION*)",
-    "fr": ""
+    "fr": " HAHHHH! TOI VOULOIR RIEN?{SAUT}HUMAIN MODESTE...(*OPTION*)"
   },
   {
     "id": "WORM.BIN:text:0292",
     "en": "  AWOOOOH! KRRR... GWAOHHHH!{SAUT}HAHHHHH!(*OPTION*)",
-    "fr": ""
+    "fr": "  AWOOOOH! KRRR... GWAOHHHH!{SAUT}HAHHHHH!(*OPTION*)"
   },
   {
     "id": "WORM.BIN:text:0293",
     "en": "GWAOHHHH! YOU STILL NO EXPERIENCE!{SAUT}TRAIN MORE, WE TALK AGAIN!(*OPTION*)",
-    "fr": ""
+    "fr": "GWAOHHHH! TOI ENCORE SANS MÉTIER!{SAUT}ENTRAÎNE-TOI, ON REPARLE!(*OPTION*)"
   },
   {
     "id": "WORM.BIN:text:0294",
     "en": "  HAHHHH! ME GIVE YOU THIS ANYWAY!(*OPTION*)",
-    "fr": ""
+    "fr": "  HAHHHH! MOI DONNER ÇA QUAND MÊME!(*OPTION*)"
   },
   {
     "id": "WORM.BIN:text:0295",
     "en": "   HAHHHH! ME SHOULD GO...(*OPTION*)",
-    "fr": ""
+    "fr": "   HAHHHH! MOI PARTIR...(*OPTION*)"
   },
   {
     "id": "WORM.BIN:text:0296",
     "en": "ME LIKE YOU LOTS. ME GIVE YOU{SAUT}THIS TOO!(*OPTION*)",
-    "fr": ""
+    "fr": "MOI AIMER TOI FORT. MOI DONNER{SAUT}ÇA AUSSI!(*OPTION*)"
   },
   {
     "id": "WORM.BIN:text:0297",
     "en": "GWAOHHHH! HURRY UP! ME HUNGRY!(*OPTION*)",
-    "fr": ""
+    "fr": "GWAOHHHH! VITE! MOI FAIM!(*OPTION*)"
   },
   {
     "id": "WORM.BIN:text:0298",
     "en": " AWOOOOH! ME GIVE YOU THE{SAUT}[FFF3] SPELL CARD!{SAUT}{ATTENTE}",
-    "fr": ""
+    "fr": " AWOOOOH! MOI DONNER LA{SAUT}CARTE DE SORT DE [FFF3]!{SAUT}{ATTENTE}"
   },
   {
     "id": "WORM.BIN:text:0299",
     "en": "{PAGE}ME WANT BE STRONG PERSONA!{SAUT}ME COUNTING ON YOU!(*OPTION*)",
-    "fr": ""
+    "fr": "{PAGE}MOI VOULOIR PERSONA FORTE!{SAUT}MOI COMPTER SUR TOI!(*OPTION*)"
   },
   {
     "id": "WORM.BIN:text:0300",
     "en": "HEAD HURTS... HUUUUURTS!{SAUT}ME STOP TALKING AND GO HOME...(*OPTION*)",
-    "fr": ""
+    "fr": "TÊTE MAL... TRÈS MAAAAL!{SAUT}MOI ARRÊTER PARLER ET RENTRER...(*OPTION*)"
   },
   {
     "id": "WORM.BIN:text:0301",
     "en": "GWAOHHHH! YOU BORING! ME QUIT!(*OPTION*)",
-    "fr": ""
+    "fr": "GWAOHHHH! ENNUYEUX! MOI PARS!(*OPTION*)"
   }
 ]
