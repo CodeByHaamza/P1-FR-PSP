@@ -526,7 +526,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2BA07E",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Nemesis[0000]Tower{FERME}",
-    "fr": "Tour[0000]Nemesis{FERME}",
+    "fr": "Tour[0000]Némésis{FERME}",
     "max": 12
   },
   {
@@ -538,19 +538,19 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2BA0F8",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Nemesis[0000]Tower{FERME}",
-    "fr": "Tour[0000]Nemesis{FERME}",
+    "fr": "Tour[0000]Némésis{FERME}",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2BA19E",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Nemesis'[0000]Chamber{FERME}",
-    "fr": "Salle[0000]Nemesis{FERME}",
+    "fr": "Salle[0000]Némésis{FERME}",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2BA1D6",
     "en": "[0000][0000][0000][0000][0000][0000][0000]Nemesis'[0000]Chamber{FERME}",
-    "fr": "Salle[0000]Nemesis{FERME}",
+    "fr": "Salle[0000]Némésis{FERME}",
     "max": 15
   },
   {
