@@ -2,438 +2,438 @@
   {
     "id": "WORM.BIN:resp:0160",
     "en": "Yeah, I wanna see.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Ouais, montre.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "WORM.BIN:resp:0162",
     "en": "You're an idiot.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "T'es un idiot.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0163",
     "en": "That'd help.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Ça aiderait.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0165",
     "en": "Do you have any strength?(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "T'as de la force?(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0169",
     "en": "Story about being strong(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Histoire de force(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0170",
     "en": "Story about being smart(*RESPONSE*)",
-    "fr": ""
+    "fr": "Histoire de ruse(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0171",
     "en": "Story about being pretty(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Histoire de beauté(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0175",
     "en": "I'm experienced at this.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "J'ai de l'expérience.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0176",
     "en": "That's your weakness.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "C'est ton faible.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0177",
     "en": "I have nothing special.(*RESPONSE*)",
-    "fr": ""
+    "fr": "J'ai rien de spécial.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0178",
     "en": "A mysterious story(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Un récit étrange(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0179",
     "en": "An EX-File(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Un EX-File(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0180",
     "en": "An unknown world(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Un monde inconnu(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0182",
     "en": "Because I want to sing.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Parce que j'ai envie.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0186",
     "en": "Oh my God!(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Bon sang!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0189",
     "en": "Did you say something?(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Tu as dit un truc?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "WORM.BIN:resp:0195",
     "en": "I eat vegetables.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Légumes.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0196",
     "en": "I eat rice.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Riz.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0197",
     "en": "I eat meat.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Viande.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0198",
     "en": "I eat once a day.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Une fois par jour.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0199",
     "en": "I eat twice a day.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Deux fois par jour.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0200",
     "en": "I eat three times a day.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Trois fois par jour.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0201",
     "en": "Oh, I'm so glad.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Oh, je suis ravi.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0205",
     "en": "My mouth isn't foul.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Je suis pas vulgaire.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0206",
     "en": "I'm smart!(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Malin, moi!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0207",
     "en": "My calves!(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Mollets!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0208",
     "en": "Are you serious...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu es sérieux...?(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0209",
     "en": "Well, okay...(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Bon, ça va...(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0212",
     "en": "Their face?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Le visage?(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0213",
     "en": "Their strength?(*RESPONSE*)",
-    "fr": ""
+    "fr": "La force?(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0214",
     "en": "Their wealth?(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "La fortune?(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0215",
     "en": "Well, I'll try.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Bon, j'essaie.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0216",
     "en": "But I'll get all muscley.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Mais je vais gonfler.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0217",
     "en": "Totally not.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Pas du tout.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0220",
     "en": "You serious about that?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu es sérieux, là?(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0221",
     "en": "Gimme your card!(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Donne ta carte!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0223",
     "en": "I don't want anything!(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Je veux rien!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0225",
     "en": "Alright, but...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Bon, mais...(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0229",
     "en": "Are you straight...?(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Tu es hétéro...?(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0233",
     "en": "You're a Flight!(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "T'es un Flight!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0234",
     "en": "You're a [FFF0]!(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es un [FFF0]!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0235",
     "en": "You're a Jirae!(*RESPONSE*)",
-    "fr": ""
+    "fr": "T'es un Jirae!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0236",
     "en": "Well, all right!(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Bon, d'accord!(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0239",
     "en": "That's how humans are.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Les humains sont ainsi.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "WORM.BIN:resp:0242",
     "en": "You should eat veggies.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Mange des légumes.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0243",
     "en": "You should turn human.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Deviens humain.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0244",
     "en": "It's too late for you.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Trop tard pour toi.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0248",
     "en": "Their face(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Le visage(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0249",
     "en": "Their head(*RESPONSE*) ",
-    "fr": ""
+    "fr": "La tête(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0250",
     "en": "It's too awful to say.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Trop affreux à dire.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0255",
     "en": "Get mad all you want.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Fâche-toi si tu veux.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0259",
     "en": "I don't hear you.(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Je t'entends pas.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "WORM.BIN:resp:0265",
     "en": "I'm not interested.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ça m'intéresse pas.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0268",
     "en": "You wanna die, I see.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Tu veux crever, hein.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0269",
     "en": "What nonsense...(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "N'importe quoi...(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0271",
     "en": "Idiots should burn...(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Les idiots brûlent...(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0273",
     "en": "You can sleep forever.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Dors pour toujours.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0274",
     "en": "I wanted to yell.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Je voulais crier.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0276",
     "en": "I wanted to kill you.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Je voulais te tuer.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0277",
     "en": "I'm not telling.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Je dis pas.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0278",
     "en": "Keep doing magic(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Continue la magie(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0285",
     "en": "It'll be out again soon.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Elle revient bientôt.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0286",
     "en": "It's behind the earth.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Derrière la Terre.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0287",
     "en": "A high school student.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Un lycéen.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0288",
     "en": "Part of the workforce.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Un travailleur.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0289",
     "en": "A Devil Summoner.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Un Devil Summoner.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0290",
     "en": "Say your name(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Dire ton nom(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "WORM.BIN:resp:0293",
     "en": "I'm bored.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Quel ennui.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "WORM.BIN:resp:0295",
     "en": "It's not open.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Pas ouvert.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0296",
     "en": "Circle(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Rond(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0297",
     "en": "Square(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Carré(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0298",
     "en": "Triangle(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Triangle(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0299",
     "en": "The big one(*RESPONSE*)",
-    "fr": ""
+    "fr": "La grande(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0300",
     "en": "The small one(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "La petite(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0301",
     "en": "Open both(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Les deux(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0302",
     "en": "I'm doing fine.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je vais bien.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0303",
     "en": "I'm not doing so good.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Je vais pas fort.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0304",
     "en": "I'm done for...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je suis fini...(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0305",
     "en": "I knew that.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Je savais.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0306",
     "en": "I didn't know that.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je savais pas.(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0307",
     "en": "It was an accident...(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "C'était un accident...(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0308",
     "en": "Like(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Aimer(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0309",
     "en": "Dislike(*RESPONSE*)",
-    "fr": ""
+    "fr": "Haïr(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0310",
     "en": "Neither(*RESPONSE*)",
-    "fr": ""
+    "fr": "Aucun(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0311",
     "en": "Watermelon(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Pastèque(*RESPONSE*)"
   },
   {
     "id": "WORM.BIN:resp:0312",
     "en": "Strawberry(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Fraise(*RESPONSE*)",
     "_occurrences": 2
   }
 ]
