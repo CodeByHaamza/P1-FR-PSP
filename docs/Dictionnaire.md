@@ -274,8 +274,8 @@ Source : EBOOT **déchiffré**, extraits par `game/tools/_ancien_pipeline/p1_nam
   `names_todo.json` : n'en remplir qu'un seul republierait le nom au public.
   **Fait** pour `Némésis` (7 champs), `Succube` (2) et `Orthros` (1) — sortie publique
   vérifiée identique après coup. `Cerberus` **n'est pas dans la zone des noms** : il
-  n'apparaît qu'en dialogue, donc rien à répercuter pour lui. Les quatre formes sont plus
-  courtes ou de longueur égale à l'anglais : elles tiennent dans leur `max`.
+  n'apparaît qu'en dialogue, donc rien à répercuter pour lui. Les trois formes reportées
+  font 7 glyphes, dont un champ plafonné à 7 : elles tiennent.
 - ⚠️ Contrainte technique : le FR doit **tenir dans la longueur du champ EN** (`max`).
   Noms multi-mots = plusieurs champs (slots fixes) → l'ordre des mots suit l'anglais
   pour l'instant (cf. `game/PERIMETRE.md`, format des records à finir de reverser).
