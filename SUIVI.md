@@ -6,9 +6,9 @@
 Dialogues      ██████████████░░░░░░░░░░   59 %    5 045 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
-Négociations   ████████████████░░░░░░░░   67 %    8 314 / 12 487 textes
+Négociations   █████████████████░░░░░░░   72 %    9 000 / 12 487 textes
 
-Total          ████████████████░░░░░░░░   68 %   16 445 / 24 145 textes
+Total          █████████████████░░░░░░░   71 %   17 131 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -419,13 +419,13 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`TOILET_004.json`](trad/negociations/TOILET_004.json) | 19 | 19 | 100 % | terminé par @Uolil-Raccoon |
 | [`WORM_001.json`](trad/negociations/WORM_001.json) | 100 | 100 | 100 % | terminé · 4 trop large |
 | [`WORM_002.json`](trad/negociations/WORM_002.json) | 100 | 100 | 100 % | terminé · 1 trop large |
-| [`WORM_003.json`](trad/negociations/WORM_003.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#96) |
-| [`WORM_004.json`](trad/negociations/WORM_004.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#96) |
-| [`WORM_005.json`](trad/negociations/WORM_005.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#96) |
-| [`WORM_006.json`](trad/negociations/WORM_006.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#96) |
-| [`WORM_007.json`](trad/negociations/WORM_007.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#96) |
-| [`WORM_008.json`](trad/negociations/WORM_008.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#96) |
-| [`WORM_009.json`](trad/negociations/WORM_009.json) | 86 | 0 | 0 % | en cours par @CodeByHaamza (#96) |
+| [`WORM_003.json`](trad/negociations/WORM_003.json) | 100 | 100 | 100 % | terminé |
+| [`WORM_004.json`](trad/negociations/WORM_004.json) | 100 | 100 | 100 % | terminé |
+| [`WORM_005.json`](trad/negociations/WORM_005.json) | 100 | 100 | 100 % | terminé |
+| [`WORM_006.json`](trad/negociations/WORM_006.json) | 100 | 100 | 100 % | terminé |
+| [`WORM_007.json`](trad/negociations/WORM_007.json) | 100 | 100 | 100 % | terminé |
+| [`WORM_008.json`](trad/negociations/WORM_008.json) | 100 | 100 | 100 % | terminé |
+| [`WORM_009.json`](trad/negociations/WORM_009.json) | 86 | 86 | 100 % | terminé |
 | [`WTENSI_001.json`](trad/negociations/WTENSI_001.json) | 80 | 80 | 100 % | terminé par @ATMC14 |
 | [`YAKUZA_001.json`](trad/negociations/YAKUZA_001.json) | 100 | 100 | 100 % | terminé · 1 trop large |
 | [`YAKUZA_002.json`](trad/negociations/YAKUZA_002.json) | 100 | 100 | 100 % | terminé · 6 trop large |
