@@ -4,91 +4,91 @@
     "locuteur": "Nurse",
     "en": "Don't let Maki get hurt, got it? She's{SAUT}like a local hero here!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Ne laissez pas Maki se blesser, hein?{SAUT}C'est une héroïne locale, ici!{ATTENTE}"
   },
   {
     "id": "E2.BIN:212:0012",
     "locuteur": "Nurse",
     "en": "Oh, you go to the same school as{SAUT}Maki Sonomura.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Oh, vous allez au même lycée que{SAUT}Maki Sonomura.{ATTENTE}"
   },
   {
     "id": "E2.BIN:212:0013",
     "locuteur": "Nurse",
     "en": "Huh? You're friends with her!? Oooh,{SAUT}I'm so jealous!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Hein? Vous êtes ses amis!? Oooh,{SAUT}je suis trop jalouse!{ATTENTE}"
   },
   {
     "id": "E2.BIN:212:0014",
     "locuteur": "Nurse",
     "en": "Hey, could you get me her autograph?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Dites, vous m'auriez un autographe?{ATTENTE}"
   },
   {
     "id": "E2.BIN:212:0015",
     "locuteur": "Maki",
     "en": "I'm no hero or anything... Everyone is{SAUT}just being made to think that...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Je ne suis pas une héroïne... On force{SAUT}juste tout le monde à le croire...{ATTENTE}"
   },
   {
     "id": "E2.BIN:212:0016",
     "locuteur": "Mark",
     "en": "Maki's a local hero, huh? That's awesome!{SAUT}Isn't it?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Maki, une héroïne locale? C'est génial!{SAUT}Non?{ATTENTE}"
   },
   {
     "id": "E2.BIN:212:0017",
     "locuteur": "Nanjo",
     "en": "...This must be rather tedious for Maki{SAUT}now that she knows the truth.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "...Cela doit être pénible pour Maki{SAUT}maintenant qu'elle sait la vérité.{ATTENTE}"
   },
   {
     "id": "E2.BIN:212:0018",
     "locuteur": "Ayase",
     "en": "How come doctors always act so high{SAUT}and mighty?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Pourquoi les médecins se donnent{SAUT}toujours de grands airs?{ATTENTE}"
   },
   {
     "id": "E2.BIN:212:0019",
     "locuteur": "Brown",
     "en": "Forget my injuries, I need brain pills.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Oublie mes plaies, un cachet pour le crâne.{ATTENTE}"
   },
   {
     "id": "E2.BIN:212:0020",
     "locuteur": "Elly",
     "en": "It's tough when people idolize you.{SAUT}It's a lot to live up to.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "C'est dur quand on vous idolâtre.{SAUT}Il y a beaucoup à assumer.{ATTENTE}"
   },
   {
     "id": "E2.BIN:212:0021",
     "locuteur": "Elly",
     "en": "It's difficult being idolized that way...{SAUT}You end up having to put on an act.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "C'est difficile d'être idolâtrée ainsi...{SAUT}On finit par devoir jouer un rôle.{ATTENTE}"
   },
   {
     "id": "E2.BIN:212:0022",
     "locuteur": "Reiji",
     "en": "What's wrong? Hope you're not tired,{SAUT}'cause we got a long ways to go.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Ça va? J'espère que t'es pas fatigué,{SAUT}parce qu'on a de la route.{ATTENTE}"
   },
   {
     "id": "E2.BIN:214:0005",
     "locuteur": "Trish",
     "en": "It'll be 3,000 yen.{SAUT}That's okay, right?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "",
+    "fr": "Ce sera 3 000 yens.{SAUT}Ça vous va, n'est-ce pas?{ATTENTE}",
     "_occurrences": 28
   },
   {
@@ -265,7 +265,7 @@
     "locuteur": "Mark",
     "en": "I feel like we're on a field trip!{SAUT}Is anything about this place different?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "On dirait une sortie scolaire!{SAUT}Quelque chose a changé, ici?{ATTENTE}"
   },
   {
     "id": "E2.BIN:217:0007",
@@ -370,202 +370,202 @@
     "locuteur": "Principal Ooishi",
     "en": "Honestly, that man... The student must{SAUT}have had a reason for starting the fight.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Franchement, cet homme... L'élève devait{SAUT}avoir une raison de déclencher la bagarre.{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0001",
     "locuteur": "Principal Ooishi",
     "en": "Teachers must hear all sides before{SAUT}making a decision...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Un professeur doit entendre tout le monde{SAUT}avant de décider...{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0002",
     "locuteur": "Principal Ooishi",
     "en": "I had the most awful dream.{SAUT}Ugh, my head...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "J'ai fait un rêve affreux.{SAUT}Ugh, ma tête...{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0003",
     "locuteur": "Principal Ooishi",
     "en": "Punishing students isn't the only way{SAUT}to educate them.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Punir les élèves n'est pas la seule{SAUT}façon de les éduquer.{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0004",
     "locuteur": "Vice-Principal Hanya",
     "en": "How dare he give me lip that way!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Comment ose-t-il me répondre ainsi!{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0005",
     "locuteur": "Vice-Principal Hanya",
     "en": "I'm not listening to his excuses!{SAUT}They're only lies, anyway.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Je n'écoute pas ses excuses!{SAUT}Ce ne sont que des mensonges.{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0006",
     "locuteur": "Vice-Principal Hanya",
     "en": "As punishment, he must clean windows,{SAUT}write lines, and polish my shoes!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Pour le punir, il lavera les vitres,{SAUT}copiera des lignes et cirera mes souliers!{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0007",
     "locuteur": "Vice-Principal Hanya",
     "en": "Oh, if only it had been real...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Oh, si seulement ç'avait été vrai...{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0008",
     "locuteur": "Vice-Principal Hanya",
     "en": "Hm? No, it's nothing. Don't interfere{SAUT}with his punishment.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Hm? Non, ce n'est rien. Ne gênez pas{SAUT}sa punition.{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0009",
     "locuteur": "Vice-Principal Hanya",
     "en": "Hey! Don't interfere with his punishment!{SAUT}Unless you want to join him?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Hé! Ne gênez pas sa punition!{SAUT}À moins de vouloir le rejoindre?{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0010",
     "locuteur": "Kiichi",
     "en": "To hell with this! Why am I the only{SAUT}one getting lectured here?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Et merde! Pourquoi c'est moi le seul{SAUT}à me faire sermonner?{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0011",
     "locuteur": "Kiichi",
     "en": "It's just as much the student council{SAUT}president's fault!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "C'est autant la faute du président{SAUT}du conseil des élèves!{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0012",
     "locuteur": "Kiichi",
     "en": "Is yelling at students without listening{SAUT}to them a teacher's job or what!?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Hurler sur les élèves sans les écouter,{SAUT}c'est ça le métier de prof!?{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0013",
     "locuteur": "Kiichi",
     "en": "Don't talk to me, dammit! Why am I the{SAUT}only one who has to write lines!?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Me parle pas, bordel! Pourquoi c'est moi{SAUT}le seul à copier des lignes!?{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0014",
     "locuteur": "Kiichi",
     "en": "I {PAUSE}[1E00]will {PAUSE}[1E00]not {PAUSE}[1E00]do {PAUSE}[1E00]...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Je {PAUSE}[1E00]ne {PAUSE}[1E00]le {PAUSE}[1E00]ferai {PAUSE}[1E00]...{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0015",
     "locuteur": "Kiichi",
     "en": "Don't talk to me, dammit! I'm a little{SAUT}busy here!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Me parle pas, bordel! Je suis un peu{SAUT}occupé, là!{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0016",
     "locuteur": "Kiichi",
     "en": "I {PAUSE}[1E00]promise {PAUSE}[1E00]not {PAUSE}[1E00]to {PAUSE}[1E00]...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Je {PAUSE}[1E00]promets {PAUSE}[1E00]de {PAUSE}[1E00]ne {PAUSE}[1E00]...{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0017",
     "locuteur": "Yukino",
     "en": "I can't stand it. That bald bastard's{SAUT}throwing his weight around again.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "J'en peux plus. Ce chauve ramène encore{SAUT}sa science partout.{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0018",
     "locuteur": "Yukino",
     "en": "That Kiichi's still writing lines?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Ce Kiichi copie encore des lignes?{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0019",
     "locuteur": "Ayase",
     "en": "Kiichi didn't do anything wrong, either.{SAUT}I saw it before the school froze...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Kiichi avait rien fait de mal, non plus.{SAUT}Je l'ai vu avant que le lycée gèle...{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0020",
     "locuteur": "Ayase",
     "en": "He couldn't take any more of that student{SAUT}council president sitting on his ass...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Il en pouvait plus de voir le président{SAUT}du conseil se la couler douce...{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0021",
     "locuteur": "Ayase",
     "en": "So he just gave him, like, a little{SAUT}warning, is all.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Alors il lui a juste mis, genre, un{SAUT}petit avertissement, quoi.{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0022",
     "locuteur": "Ayase",
     "en": "Hey, doesn't that bald head make you{SAUT}wanna, like, punch it?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Dis, ce crâne chauve, ça te donne pas,{SAUT}genre, envie de le cogner?{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0023",
     "locuteur": "Nanjo",
     "en": "Both parties in a quarrel are culpable.{SAUT}They should both have to write lines.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Dans une querelle, les deux sont fautifs.{SAUT}Tous deux devraient copier des lignes.{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0024",
     "locuteur": "Nanjo",
     "en": "Nothing will happen if we remain here.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Rien n'arrivera si nous restons ici.{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0025",
     "locuteur": "Brown",
     "en": "I hate getting attacked with cold logic,{SAUT}but I wish people wouldn't get so angry.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Je hais me faire attaquer à la froide{SAUT}logique, mais que les gens se calment.{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0026",
     "locuteur": "Brown",
     "en": "Let's hurry and go somewhere else.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Dépêchons-nous d'aller ailleurs.{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0027",
     "locuteur": "Elly",
     "en": "A proper adult acting that way is rather{SAUT}unsightly in itself.{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Un adulte censé se conduire ainsi,{SAUT}c'est déjà bien laid en soi.{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0028",
     "locuteur": "Elly",
     "en": "Where could the Night Queen have gone?{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Où la Reine de la Nuit a-t-elle pu aller?{ATTENTE}"
   }
 ]
