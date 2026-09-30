@@ -227,12 +227,12 @@
   {
     "id": "KEMONO.BIN:text:0353",
     "en": "ROAAAAR! YOU NEED EXPERIENCE! PRACTICE{SAUT}AND COME BACK!(*OPTION*)",
-    "fr": "ROAAAAR! TOI MANQUER D'EXPÉRIENCE!{SAUT}ENTRAÎNE-TOI, REVIENS(*OPTION*)"
+    "fr": "ROAAAAR! TOI MANQUER D'EXPÉRIENCE!{SAUT}ENTRAÎNE-TOI, REVIENS!(*OPTION*)"
   },
   {
     "id": "KEMONO.BIN:text:0354",
     "en": "  HMM... EVEN SO, ME GIVE THIS!(*OPTION*)",
-    "fr": "  HMM... MALGRÉ TOUT, MOI DONNER(*OPTION*)"
+    "fr": "  HMM... MALGRÉ TOUT, MOI DONNER!(*OPTION*)"
   },
   {
     "id": "KEMONO.BIN:text:0355",
@@ -282,7 +282,7 @@
   {
     "id": "KEMONO.BIN:text:0364",
     "en": "   ...YOU TOO BIG! ME DISLOCATE JAW...(*OPTION*)",
-    "fr": "   ...TOI TROP GROS! MOI MÂCHOIRE DÉBOÎTÉE(*OPTION*)"
+    "fr": "   ...TOI TROP GROS! MOI MÂCHOIRE DÉBOÎTÉE.(*OPTION*)"
   },
   {
     "id": "KEMONO.BIN:text:0365",
@@ -317,7 +317,7 @@
   {
     "id": "KEMONO.BIN:text:0371",
     "en": "  ... ME GIVE YOU CARD, SO LET ME GO...(*OPTION*)",
-    "fr": "  ... MOI DONNER CARTE, LAISSE MOI PARTIR(*OPTION*)"
+    "fr": "  ... MOI DONNER CARTE, LAISSE MOI PARTIR.(*OPTION*)"
   },
   {
     "id": "KEMONO.BIN:text:0372",
@@ -382,7 +382,7 @@
   {
     "id": "KEMONO.BIN:text:0384",
     "en": "{PAGE}FOOD AND DRINK COST MONEY... YOU DONATE{SAUT}TO CAUSE? ANYTHING GOOD...[FFF1](*RESPONSE*)",
-    "fr": "{PAGE}MANGER ET BOIRE COÛTE ARGENT... TOI{SAUT}DONNER POUR LA CAUSE? TOUT EST BON[FFF1](*RESPONSE*)"
+    "fr": "{PAGE}MANGER ET BOIRE COÛTE ARGENT... TOI{SAUT}DONNER POUR LA CAUSE? TOUT EST BON.[FFF1](*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0385",
