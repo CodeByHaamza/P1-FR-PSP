@@ -39,7 +39,7 @@
     "locuteur": "Yuriko",
     "en": "And you're gonna walk away just like{SAUT}that? I'm gonna cry... ＊sniffle＊...{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": "Et vous comptez le refuser? Je vais{SAUT}pleurer... ＊renifle＊...{ATTENTE}"
+    "fr": "Et vous comptez le refuser? Je vais{SAUT}pleurer... ＊snif＊...{ATTENTE}"
   },
   {
     "id": "E1.BIN:098:0006",
@@ -228,7 +228,7 @@
     "locuteur": "Yukino",
     "en": "＊sigh＊ I hate her frickin' guts.{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "＊souffle＊ Je peux pas la blairer.{ATTENTE}"
+    "fr": "＊soupir＊ Je peux pas la blairer.{ATTENTE}"
   },
   {
     "id": "E1.BIN:098:0033",

@@ -74,7 +74,7 @@
     "locuteur": "Toro",
     "en": "Bluuuuugh! ＊cough＊ ＊gag＊ ＊puke＊{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "Beuuuurk! ＊tousse＊ ＊dégluti＊ ＊vomi＊{ATTENTE}"
+    "fr": "Beuuuurk! ＊tousse＊ ＊dégluti＊ ＊vomit＊{ATTENTE}"
   },
   {
     "id": "E1.BIN:081:0011",
@@ -102,7 +102,7 @@
     "locuteur": "Tsutomu",
     "en": "＊gasp＊ ＊gasp＊ Aaaarrrrrgh!{ATTENTE}",
     "locuteur_fr": "Tsutomu",
-    "fr": "＊souffle＊ ＊souffle＊ Aaaaahhh!{ATTENTE}"
+    "fr": "＊hoquet＊ ＊hoquet＊ Aaaaahhh!{ATTENTE}"
   },
   {
     "id": "E1.BIN:081:0015",
@@ -193,7 +193,7 @@
     "locuteur": "Tsutomu",
     "en": "I... ＊pant＊ can't move... anymore...{ATTENTE}",
     "locuteur_fr": "Tsutomu",
-    "fr": "Je... ＊souffle＊ ne peux... plus bouger...{ATTENTE}"
+    "fr": "Je... ＊halète＊ ne peux... plus bouger...{ATTENTE}"
   },
   {
     "id": "E1.BIN:081:0028",
@@ -291,7 +291,7 @@
     "locuteur": "Toro",
     "en": "＊puke＊ ＊cough＊ ＊hack＊...!{ATTENTE}",
     "locuteur_fr": "Toro",
-    "fr": "＊vomi＊ ＊tousse＊ ＊râle＊...!{ATTENTE}"
+    "fr": "＊vomit＊ ＊tousse＊ ＊râle＊...!{ATTENTE}"
   },
   {
     "id": "E1.BIN:081:0042",
@@ -602,7 +602,7 @@
     "locuteur": "Tsutomu",
     "en": "Where... oh where... is the key...{SAUT}to unchain my heart...? ＊gasp＊ ＊pant＊{ATTENTE}",
     "locuteur_fr": "Tsutomu",
-    "fr": "Où... où est... la clé... pour{SAUT}libérer mon coeur...? ＊souffle＊ ＊râle＊{ATTENTE}"
+    "fr": "Où... où est... la clé... pour{SAUT}libérer mon coeur...? ＊hoquet＊ ＊halète＊{ATTENTE}"
   },
   {
     "id": "E1.BIN:081:0086",
