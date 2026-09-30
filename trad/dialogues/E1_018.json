@@ -88,7 +88,7 @@
     "locuteur": "Michiko",
     "en": "＊gasp＊ You couldn't have...!{ATTENTE}",
     "locuteur_fr": "Michiko",
-    "fr": "Oh... C'est impossible...!{ATTENTE}"
+    "fr": "＊hoquet＊ C'est impossible...!{ATTENTE}"
   },
   {
     "id": "E1.BIN:086:0013",
@@ -298,7 +298,7 @@
     "locuteur": "Michiko",
     "en": "＊shriek＊ Silence! Silence! SILENCE!{ATTENTE}",
     "locuteur_fr": "Michiko",
-    "fr": "Aaah...! Silence! Silence! SILENCE!{ATTENTE} "
+    "fr": "＊hurle＊ Silence! Silence! SILENCE!{ATTENTE}"
   },
   {
     "id": "E1.BIN:086:0043",
@@ -667,7 +667,7 @@
     "locuteur": "Nanjo",
     "en": "＊gasp＊ That letter...! What was that{SAUT}all about? Answer me!{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Ah... Cette lettre...! De quoi{SAUT}parlait-elle? Répondez!{ATTENTE}"
+    "fr": "＊hoquet＊ Cette lettre...! De quoi{SAUT}parlait-elle? Répondez!{ATTENTE}"
   },
   {
     "id": "E1.BIN:086:0097",
