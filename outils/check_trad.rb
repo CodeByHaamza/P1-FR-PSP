@@ -238,6 +238,11 @@ module CheckTrad
     # contrôle terminologique ne voyait rien dans tout le dossier eboot/.
     texte.to_s
          .gsub('[0000]', ' ')
+         # Un terme peut enjamber un saut de ligne : « la Reine des{SAUT}Neiges ».
+         # Sans cette ligne, le controle terminologique ne le reconnaissait pas et
+         # criait sur quatre repliques parfaitement traduites.
+         .gsub(/\{[A-Z]+\}/, ' ')
+         .squeeze(' ')
          .downcase
          .gsub(Regexp.union(ACCENTS_NUS.keys), ACCENTS_NUS)
   end
@@ -516,6 +521,14 @@ module CheckTrad
       end
 
       termes_manquants(e['en'], e['fr'], termes).each do |en, fr|
+        # Sur une entree a `max`, exiger le terme du dictionnaire n'a de sens que
+        # s'il y entre. « Change Personas » tient dans 15 caracteres, « Changer
+        # Personae » en fait 16 : le traducteur n'avait pas le choix, et le
+        # signaler six fois de suite apprend juste a ignorer les avertissements.
+        if e['max']
+          court = rendus(fr).map(&:length).min.to_i
+          next if e['fr'].gsub(JETON, '').length + court + 1 > e['max']
+        end
         avertis << "#{id} [TERMINO] « #{en} » se traduit « #{fr} » (dictionnaire) — " \
                    'volontaire ? sinon aligner'
       end

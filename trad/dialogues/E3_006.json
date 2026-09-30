@@ -556,7 +556,7 @@
     "id": "E3.BIN:071:0000",
     "locuteur": "Agastya Tree",
     "en": "Ah. It seems that you are rather{SAUT}exhausted, young ones.{ATTENTE}",
-    "locuteur_fr": "Arbre Agastya",
+    "locuteur_fr": "Agastya",
     "fr": "Ah. Vous semblez plutôt{SAUT}épuisés, jeunes gens.{ATTENTE}",
     "_occurrences": 3
   },
@@ -564,7 +564,7 @@
     "id": "E3.BIN:071:0001",
     "locuteur": "Agastya Tree",
     "en": "Halting your journey here to rest for{SAUT}the time being may be a wise decision.{ATTENTE}",
-    "locuteur_fr": "Arbre Agastya",
+    "locuteur_fr": "Agastya",
     "fr": "Faire une pause ici pour vous reposer{SAUT}un temps serait peut-être sage.{ATTENTE}",
     "_occurrences": 3
   },
@@ -572,7 +572,7 @@
     "id": "E3.BIN:071:0002",
     "locuteur": "Agastya Tree",
     "en": "But I cannot inscribe your story{SAUT}onto myself.{ATTENTE}",
-    "locuteur_fr": "Arbre Agastya",
+    "locuteur_fr": "Agastya",
     "fr": "Mais je ne peux graver ton histoire{SAUT}sur moi.{ATTENTE}",
     "_occurrences": 3
   },
@@ -580,7 +580,7 @@
     "id": "E3.BIN:071:0003",
     "locuteur": "Agastya Tree",
     "en": "I am only keeping it for your sake until{SAUT}you depart again... Do not forget that...{ATTENTE}",
-    "locuteur_fr": "Arbre Agastya",
+    "locuteur_fr": "Agastya",
     "fr": "Je la garde pour vous jusqu'à votre{SAUT}prochain départ... Ne l'oubliez pas...{ATTENTE}",
     "_occurrences": 3
   },
@@ -588,7 +588,7 @@
     "id": "E3.BIN:071:0004",
     "locuteur": "Agastya Tree",
     "en": "Will you put a temporary halt to{SAUT}your journey?{ATTENTE}",
-    "locuteur_fr": "Arbre Agastya",
+    "locuteur_fr": "Agastya",
     "fr": "Veux-tu suspendre temporairement{SAUT}ton voyage?{ATTENTE}",
     "_occurrences": 3
   },
@@ -596,7 +596,7 @@
     "id": "E3.BIN:071:0005",
     "locuteur": "Agastya Tree",
     "en": "Young ones... I will remember the story{SAUT}of your journey for you.{ATTENTE}",
-    "locuteur_fr": "Arbre Agastya",
+    "locuteur_fr": "Agastya",
     "fr": "Jeunes gens... Je retiendrai l'histoire{SAUT}de votre voyage.{ATTENTE}",
     "_occurrences": 3
   },

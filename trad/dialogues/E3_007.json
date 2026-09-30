@@ -393,7 +393,7 @@
     "id": "E3.BIN:100:0005",
     "locuteur": "Brown",
     "en": "But then again, it's a break from our{SAUT}boring everyday lives! That's kinda cool!{ATTENTE}",
-    "locuteur_fr": "Brow",
+    "locuteur_fr": "Brown",
     "fr": "Mais ça change du quotidien ennuyeux!{SAUT}C'est pas mal!{ATTENTE}"
   },
   {
@@ -414,7 +414,7 @@
     "id": "E3.BIN:101:0001",
     "locuteur": "Yukino",
     "en": "Let's try and check as many treasure{SAUT}boxes as we can, time permitting.{ATTENTE}",
-    "locuteur_fr": "Yuriko",
+    "locuteur_fr": "Yukino",
     "fr": "Essayons d'ouvrir autant de boîtes à{SAUT}trésors que possible dans les temps.{ATTENTE}"
   },
   {
@@ -521,7 +521,7 @@
     "id": "E3.BIN:102:0001",
     "locuteur": "Yukino",
     "en": "There sure are a lot of boxes here.{ATTENTE}",
-    "locuteur_fr": "Yukiko",
+    "locuteur_fr": "Yukino",
     "fr": "Il y a un paquet de boîtes, ici.{ATTENTE}"
   },
   {

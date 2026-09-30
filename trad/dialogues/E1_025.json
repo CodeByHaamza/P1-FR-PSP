@@ -24,7 +24,7 @@
     "id": "E1.BIN:129:0003",
     "locuteur": "Yuriko",
     "en": "..{PAUSE}[1E00]..{PAUSE}[1E00]..{ATTENTE}",
-    "locuteur_fr": "Yurikno",
+    "locuteur_fr": "Yuriko",
     "fr": "..{PAUSE}[1E00]..{PAUSE}[1E00]..{ATTENTE}"
   },
   {
@@ -227,7 +227,7 @@
     "id": "E1.BIN:129:0032",
     "locuteur": "Yuriko",
     "en": "...Thank you. {PAUSE}[1E00]You're... Yuka, right?{ATTENTE}",
-    "locuteur_fr": "Yukino",
+    "locuteur_fr": "Yuriko",
     "fr": "...Merci. {PAUSE}[1E00]Tu es... Ayase, c'est ça?{ATTENTE}"
   },
   {
@@ -367,7 +367,7 @@
     "id": "E1.BIN:129:0052",
     "locuteur": "Yuriko",
     "en": "That's why I fell for the Snow Queen's{SAUT}offer...{ATTENTE}",
-    "locuteur_fr": "Yukino",
+    "locuteur_fr": "Yuriko",
     "fr": "C'est la raison pour laquelle j'ai{SAUT}accepté l'offre de la Reine des Neiges...{ATTENTE}"
   },
   {
