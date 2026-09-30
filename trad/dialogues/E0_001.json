@@ -426,7 +426,7 @@
     "id": "E0.BIN:001:0000",
     "locuteur": "Agastya Tree",
     "en": "Young ones... Your presence is welcome.{ATTENTE}",
-    "locuteur_fr": "Agastya",
+    "locuteur_fr": "Arbre Agastya",
     "fr": "Jeunes gens... Soyez les bienvenus.{ATTENTE}",
     "_occurrences": 569
   },
@@ -434,7 +434,7 @@
     "id": "E0.BIN:001:0001",
     "locuteur": "Agastya Tree",
     "en": "Will you inscribe your story on me?{ATTENTE}",
-    "locuteur_fr": "Agastya",
+    "locuteur_fr": "Arbre Agastya",
     "fr": "Gravez votre histoire en moi?{ATTENTE}",
     "_occurrences": 572
   },
@@ -442,7 +442,7 @@
     "id": "E0.BIN:001:0002",
     "locuteur": "Agastya Tree",
     "en": "Take care on your journey, young ones...{ATTENTE}",
-    "locuteur_fr": "Agastya",
+    "locuteur_fr": "Arbre Agastya",
     "fr": "Prenez soin de vous, jeunes gens...{ATTENTE}",
     "_occurrences": 573
   },
