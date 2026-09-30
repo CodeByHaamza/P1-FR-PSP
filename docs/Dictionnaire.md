@@ -198,7 +198,8 @@
 | potential | potentiel | EBOOT_009.json | ✅ |
 | President Saeki | président Saeki | E0_017.json | ✅ |
 | Principal Ooishi | Proviseure Ooishi | E0_002.json, E0_006.json | ✅ *(c'est une femme : « ever since I was a girl »)* |
-| Vice-Principal Hanya | Proviseur adjoint Hanya | E0_011.json | ✅ |
+| Vice-Principal Hanya | Proviseur adjoint Hanya | E0_011.json | ✅ *(« vice-proviseur » est un calque : en lycée c'est proviseur adjoint. Une autre ligne du dictionnaire portait « Vice-proviseur Hanya » — meme terme, deux formes : celle-ci fait foi)* |
+| Principal Hanya / Vice-Principal Ooishi | Proviseur Hanya / Proviseure adjointe Ooishi | E1_007.json | ✅ *(⚠️ **ce n'est pas une coquille de la VO**. Le bloc `E1.BIN:048` est un reve ou les deux roles sont inversés, et le dialogue le dit : Nanjo « ici, les roles sont inversés », Brown « Hanya est le proviseur et Ooishi l'adjointe!? ». Hors du reve, Ooishi est la proviseure et Hanya son adjoint)* |
 | Principal's Office | Bureau du proviseur | EBOOT_001.json | ✅ |
 | Queen Asura | Reine Asura | EBOOT_017.json | ✅ |
 | races de démons (Genma, Megami, Kishin, Yoma, Fiend, Tyrant…) | conservées en anglais | EBOOT_013.json, EBOOT_015.json | ✅ *(même politique que les noms de démons)* |
@@ -236,7 +237,7 @@
 | totem | totem | EBOOT_009.json | ✅ |
 | Trish | Trish | E0_025.json | ✅ |
 | Tsutomu Kurouri | Tsutomu Kurouri | E0_006.json | ✅ |
-| Vice-Principal Hanya | Vice-proviseur Hanya | E0_006.json | ✅ |
+| Vice-Principal Hanya | Proviseur adjoint Hanya | E0_006.json | ✅ *(forme unique, cf. la ligne du tableau alphabetique)* |
 | world after death | le monde qui succède à la mort | E3_007.json | ✅ *(attention à la construction : succéder **à**. Forme courte quand la boîte est serrée : « l'au-delà »)* |
 | Yamaoka | Yamaoka | E1_020.json | ✅ |
 | Yosuke | Yosuke | E2_018.json | ✅ |
