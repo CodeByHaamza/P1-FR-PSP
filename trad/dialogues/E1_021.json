@@ -11,7 +11,7 @@
     "locuteur": "Cheerful schoolgirl",
     "en": "Hi, everyone!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "Bonjour tout le monde!{ATTENTE}"
+    "fr": "Salut à tous!{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0002",
@@ -130,7 +130,7 @@
     "locuteur": "Nanjo",
     "en": "So... why are you here?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Donc... pourquoi êtes-vous ici?{ATTENTE}"
+    "fr": "Alors... pourquoi ici?{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0019",
@@ -158,28 +158,28 @@
     "locuteur": "Elly",
     "en": "Is it a battle you seek? We'd have no{SAUT}objections to that.{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Est-ce un combat que tu cherches?{SAUT}Nous n'y voyons pas d'objection.{ATTENTE}"
+    "fr": "Est-ce un combat que tu cherches?{SAUT}Cela ne nous gêne pas.{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0023",
     "locuteur": "Yuriko",
     "en": "Awww, don't talk like that, guys!{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": "Ohhh, ne parlez pas comme ça, les gars!{ATTENTE}"
+    "fr": "Ohhh, ne dites pas ça, les gars!{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0024",
     "locuteur": "Yuriko",
     "en": "I'm just here to tell you how to open the{SAUT}door back there.{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": "J'suis juste là pour vous dire comment{SAUT}ouvrir la porte derrière.{ATTENTE}"
+    "fr": "J'suis là pour vous dire comment{SAUT}ouvrir la porte.{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0025",
     "locuteur": "Yuriko",
     "en": "So put your listening hats on!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "Donc ouvrez bien grand vos oreilles!{ATTENTE}"
+    "fr": "Ouvrez grand vos oreilles!{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0026",
@@ -235,7 +235,7 @@
     "locuteur": "Yukino",
     "en": "Damn that Yuriko!{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Bon sang, cette Yuriko!{ATTENTE}"
+    "fr": "Maudite Yuriko!{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0034",
@@ -378,7 +378,7 @@
     "locuteur": "Yuriko",
     "en": "Life is hard, huh?{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": "La vie est difficile, hein?{ATTENTE}",
+    "fr": "La vie est dure, hein?{ATTENTE}",
     "_occurrences": 2
   },
   {

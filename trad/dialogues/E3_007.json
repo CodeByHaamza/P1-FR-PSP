@@ -116,7 +116,7 @@
     "locuteur": "Ayase",
     "en": "It's like, we walk and walk and we never{SAUT}get to the top! I! AM! TIRED!{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "Ça fait des heures qu'on marche et on est{SAUT}toujours pas au sommet! J'EN! PEUX! PLUS!{ATTENTE}"
+    "fr": "On marche, on marche, et toujours pas{SAUT}au sommet! J'EN! PEUX! PLUS!{ATTENTE}"
   },
   {
     "id": "E3.BIN:085:0004",
@@ -149,7 +149,7 @@
     "locuteur": "Yukino",
     "en": "Ugh! I can't stand this claustrophobic{SAUT}feeling this tower gives me!{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Ahh! Je ne supporte pas cette sensation{SAUT}d'enfermement que me donne cette tour!{ATTENTE}"
+    "fr": "Ahh! Cette tour m'étouffe, je peux pas{SAUT}supporter ça!{ATTENTE}"
   },
   {
     "id": "E3.BIN:086:0001",
@@ -393,7 +393,7 @@
     "id": "E3.BIN:100:0005",
     "locuteur": "Brown",
     "en": "But then again, it's a break from our{SAUT}boring everyday lives! That's kinda cool!{ATTENTE}",
-    "locuteur_fr": "Brow",
+    "locuteur_fr": "Brown",
     "fr": "Mais ça change du quotidien ennuyeux!{SAUT}C'est pas mal!{ATTENTE}"
   },
   {
@@ -414,7 +414,7 @@
     "id": "E3.BIN:101:0001",
     "locuteur": "Yukino",
     "en": "Let's try and check as many treasure{SAUT}boxes as we can, time permitting.{ATTENTE}",
-    "locuteur_fr": "Yuriko",
+    "locuteur_fr": "Yukino",
     "fr": "Essayons d'ouvrir autant de boîtes à{SAUT}trésors que possible dans les temps.{ATTENTE}"
   },
   {
@@ -521,7 +521,7 @@
     "id": "E3.BIN:102:0001",
     "locuteur": "Yukino",
     "en": "There sure are a lot of boxes here.{ATTENTE}",
-    "locuteur_fr": "Yukiko",
+    "locuteur_fr": "Yukino",
     "fr": "Il y a un paquet de boîtes, ici.{ATTENTE}"
   },
   {
@@ -620,7 +620,7 @@
     "locuteur": "Yukino",
     "en": "I hope we all make it back alive.{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "J'espère qu'on s'en sortira vivants.{ATTENTE}"
+    "fr": "J'espère qu'on rentrera vivants.{ATTENTE}"
   },
   {
     "id": "E3.BIN:103:0002",
@@ -634,7 +634,7 @@
     "locuteur": "Nanjo",
     "en": "The enemies here are strong.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Les ennemis de ce lieu sont forts.{ATTENTE}"
+    "fr": "Les ennemis sont forts, ici.{ATTENTE}"
   },
   {
     "id": "E3.BIN:103:0004",

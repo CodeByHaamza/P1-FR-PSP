@@ -2,7 +2,7 @@
   {
     "id": "TENSI.BIN:text:0207",
     "en": "{PAGE}I am ever watching you, so do not use{SAUT}my spell card for evil...(*OPTION*)",
-    "fr": "{PAGE}Je vous observe sans cesse : n'usez pas{SAUT}de ma carte pour le mal...(*OPTION*)",
+    "fr": "{PAGE}Je vous observe sans cesse: n'usez pas{SAUT}de ma carte pour le mal...(*OPTION*)",
     "_occurrences": 2
   },
   {
@@ -42,7 +42,7 @@
   {
     "id": "TENSI.BIN:text:0214",
     "en": " Ah, I have an idea. I shall protect you.{SAUT}I will give you my card; please accept it!(*OPTION*)",
-    "fr": " Ah, j'ai une idée. Je vous protégerai.{SAUT}Voici ma carte ; acceptez-la!(*OPTION*)"
+    "fr": " Ah, j'ai une idée. Je vous protégerai.{SAUT}Voici ma carte; acceptez-la!(*OPTION*)"
   },
   {
     "id": "TENSI.BIN:text:0215",
@@ -70,7 +70,7 @@
   {
     "id": "TENSI.BIN:text:0219",
     "en": " I will ask in His stead: For what purpose{SAUT}do you exist?[FFFD][6CFF][F500]  Is that the latest trend in garments?{SAUT}I would be unable to wear it.(*RESPONSE*)",
-    "fr": " Je demande en Son nom : dans quel{SAUT}but existez-vous?[FFFD][6CFF][F500]  Est-ce la dernière mode? Je ne{SAUT}pourrais porter cela.(*RESPONSE*)",
+    "fr": " Je demande en Son nom: dans quel{SAUT}but existez-vous?[FFFD][6CFF][F500]  Est-ce la dernière mode? Je ne{SAUT}pourrais porter cela.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -82,7 +82,7 @@
   {
     "id": "TENSI.BIN:text:0221",
     "en": "  I will warn you in His stead: you shall{SAUT}not obstruct my path![FFFD][6DFF][F500]I will warn you in His stead: an insult{SAUT}to me will not be easily forgiven!(*RESPONSE*)",
-    "fr": "  J'avertis en Son nom : vous ne{SAUT}barrerez pas ma route![FFFD][6DFF][F500]J'avertis en Son nom : une insulte{SAUT}ne sera pas pardonnée aisément!(*RESPONSE*)",
+    "fr": "  J'avertis en Son nom: vous ne{SAUT}barrerez pas ma route![FFFD][6DFF][F500]J'avertis en Son nom: une insulte{SAUT}ne sera pas pardonnée aisément!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -94,7 +94,7 @@
   {
     "id": "TENSI.BIN:text:0223",
     "en": "  I will warn you in His stead: do not{SAUT}come near me![FFFD][6EFF][F500]   I am always watched over by the heavens!{SAUT}There is n-nothing I f-fear...(*RESPONSE*)",
-    "fr": "  J'avertis en Son nom : ne{SAUT}m'approchez pas![FFFD][6EFF][F500]   Les cieux veillent toujours sur moi!{SAUT}Je ne c-crains r-rien...(*RESPONSE*)",
+    "fr": "  J'avertis en Son nom: ne{SAUT}m'approchez pas![FFFD][6EFF][F500]   Les cieux veillent toujours sur moi!{SAUT}Je ne c-crains r-rien...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -164,7 +164,7 @@
   {
     "id": "TENSI.BIN:text:0235",
     "en": "  [FFED]I will warn you in His stead: whatever{SAUT}excuse you make, you will not deceive{SAUT}these eyes![FFFD][74FF][F500][FFEB]I called to you because He wished it.{ATTENTE}",
-    "fr": "  [FFED]J'avertis en Son nom : quelle que{SAUT}soit l'excuse, vous ne tromperez pas{SAUT}ces yeux![FFFD][74FF][F500][FFEB]Je vous ai appelé car Il le voulait.{ATTENTE}",
+    "fr": "  [FFED]J'avertis en Son nom: quelle que{SAUT}soit l'excuse, vous ne tromperez pas{SAUT}ces yeux![FFFD][74FF][F500][FFEB]Je vous ai appelé car Il le voulait.{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -438,7 +438,7 @@
   {
     "id": "TENSI.BIN:text:0282",
     "en": "{PAGE}Listen well: demons cannot be trusted!{SAUT}...Well then, please make an offering...[FFF1](*RESPONSE*)",
-    "fr": "{PAGE}Écoutez bien : on ne peut se fier aux{SAUT}démons! ...Bien, faites une offrande...[FFF1](*RESPONSE*)",
+    "fr": "{PAGE}Écoutez bien: on ne peut se fier aux{SAUT}démons! ...Bien, faites une offrande...[FFF1](*RESPONSE*)",
     "_occurrences": 14
   },
   {

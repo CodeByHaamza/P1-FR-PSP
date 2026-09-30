@@ -335,13 +335,13 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_29195C",
     "en": "                St. Hermelin ???{FERME}",
-    "fr": "                St. Hermelin ???{FERME}",
+    "fr": "                St. Hermelin???{FERME}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29199E",
     "en": "               St. Hermelin ???{FERME}",
-    "fr": "               St. Hermelin ???{FERME}",
+    "fr": "               St. Hermelin???{FERME}",
     "max": 31,
     "_occurrences": 5
   },
@@ -476,7 +476,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_29AE80",
     "en": "Cannot reverse. A character is immobile.{ATTENTE}",
-    "fr": "Annulation impossible : perso bloqué.{ATTENTE}",
+    "fr": "Annulation impossible: perso bloqué.{ATTENTE}",
     "max": 40
   },
   {
@@ -584,13 +584,13 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_29B110",
     "en": "Obtained a mop.{ATTENTE}",
-    "fr": "Obtenu : balai.{ATTENTE}",
+    "fr": "Obtenu: balai.{ATTENTE}",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29B132",
     "en": " Obtained a scalpel.{ATTENTE}",
-    "fr": " Obtenu : scalpel.{ATTENTE}",
+    "fr": " Obtenu: scalpel.{ATTENTE}",
     "max": 20
   },
   {

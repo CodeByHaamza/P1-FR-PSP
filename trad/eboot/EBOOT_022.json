@@ -44,7 +44,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_286D28",
     "en": "                    Frozen. Cannot move;{SAUT}",
-    "fr": "                    Gelé. Immobile ;{SAUT}",
+    "fr": "                    Gelé. Immobile;{SAUT}",
     "max": 40
   },
   {
@@ -56,7 +56,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_286DA4",
     "en": "                      Electrocuted. Cannot{SAUT}",
-    "fr": "                   Électrocuté. Immobile ;{SAUT}",
+    "fr": "                   Électrocuté. Immobile;{SAUT}",
     "max": 42
   },
   {
@@ -146,7 +146,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_28721C",
     "en": "                          Unable to move;{SAUT}",
-    "fr": "                        Immobilisé ; perd{SAUT}",
+    "fr": "                        Immobilisé; perd{SAUT}",
     "max": 41
   },
   {
@@ -182,7 +182,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_287404",
     "en": "                                      Cannot be targeted;{SAUT}",
-    "fr": "                                     Ne peut être ciblé ;{SAUT}",
+    "fr": "                                     Ne peut être ciblé;{SAUT}",
     "max": 57
   },
   {
@@ -476,7 +476,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_28A0EC",
     "en": "It says, \"The god dwelling within people's{SAUT}",
-    "fr": "On lit : \"Le dieu qui réside dans l'âme{SAUT}",
+    "fr": "On lit: \"Le dieu qui réside dans l'âme{SAUT}",
     "max": 42
   },
   {
