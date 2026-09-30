@@ -6,9 +6,9 @@
 Dialogues      ██████████████░░░░░░░░░░   59 %    5 045 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
-Négociations   █████████████████░░░░░░░   72 %    9 000 / 12 487 textes
+Négociations   ███████████████████░░░░░   80 %    9 969 / 12 487 textes
 
-Total          █████████████████░░░░░░░   71 %   17 131 / 24 145 textes
+Total          ██████████████████░░░░░░   75 %   18 100 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -61,6 +61,14 @@ Ces lignes sont plus larges que l'anglaise et approchent de la limite de la boî
 - [`E3_007.json`](trad/dialogues/E3_007.json) — 11 lignes
 - [`EBOOT_015.json`](trad/eboot/EBOOT_015.json) — 1 ligne
 - [`ETC_002.json`](trad/negociations/ETC_002.json) — 1 ligne
+- [`KEMONO_001.json`](trad/negociations/KEMONO_001.json) — 1 ligne
+- [`KEMONO_002.json`](trad/negociations/KEMONO_002.json) — 2 lignes
+- [`KEMONO_003.json`](trad/negociations/KEMONO_003.json) — 4 lignes
+- [`KEMONO_004.json`](trad/negociations/KEMONO_004.json) — 3 lignes
+- [`KEMONO_005.json`](trad/negociations/KEMONO_005.json) — 4 lignes
+- [`KEMONO_006.json`](trad/negociations/KEMONO_006.json) — 4 lignes
+- [`KEMONO_007.json`](trad/negociations/KEMONO_007.json) — 6 lignes
+- [`KEMONO_008.json`](trad/negociations/KEMONO_008.json) — 3 lignes
 - [`KOSIKI_001.json`](trad/negociations/KOSIKI_001.json) — 3 lignes
 - [`KUTISAKE_001.json`](trad/negociations/KUTISAKE_001.json) — 1 ligne
 - [`KUTISAKE_002.json`](trad/negociations/KUTISAKE_002.json) — 3 lignes
@@ -313,16 +321,16 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`HIHO_005.json`](trad/negociations/HIHO_005.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
 | [`HIHO_006.json`](trad/negociations/HIHO_006.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
 | [`HIHO_007.json`](trad/negociations/HIHO_007.json) | 68 | 68 | 100 % | terminé par @ATMC14 |
-| [`KEMONO_001.json`](trad/negociations/KEMONO_001.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#99) |
-| [`KEMONO_002.json`](trad/negociations/KEMONO_002.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#99) |
-| [`KEMONO_003.json`](trad/negociations/KEMONO_003.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#99) |
-| [`KEMONO_004.json`](trad/negociations/KEMONO_004.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#99) |
-| [`KEMONO_005.json`](trad/negociations/KEMONO_005.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#99) |
-| [`KEMONO_006.json`](trad/negociations/KEMONO_006.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#99) |
-| [`KEMONO_007.json`](trad/negociations/KEMONO_007.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#99) |
-| [`KEMONO_008.json`](trad/negociations/KEMONO_008.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#99) |
-| [`KEMONO_009.json`](trad/negociations/KEMONO_009.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#99) |
-| [`KEMONO_010.json`](trad/negociations/KEMONO_010.json) | 69 | 0 | 0 % | en cours par @CodeByHaamza (#99) |
+| [`KEMONO_001.json`](trad/negociations/KEMONO_001.json) | 100 | 100 | 100 % | terminé · 1 trop large |
+| [`KEMONO_002.json`](trad/negociations/KEMONO_002.json) | 100 | 100 | 100 % | terminé · 2 trop large |
+| [`KEMONO_003.json`](trad/negociations/KEMONO_003.json) | 100 | 100 | 100 % | terminé · 4 trop large |
+| [`KEMONO_004.json`](trad/negociations/KEMONO_004.json) | 100 | 100 | 100 % | terminé · 3 trop large |
+| [`KEMONO_005.json`](trad/negociations/KEMONO_005.json) | 100 | 100 | 100 % | terminé · 4 trop large |
+| [`KEMONO_006.json`](trad/negociations/KEMONO_006.json) | 100 | 100 | 100 % | terminé · 4 trop large |
+| [`KEMONO_007.json`](trad/negociations/KEMONO_007.json) | 100 | 100 | 100 % | terminé · 6 trop large |
+| [`KEMONO_008.json`](trad/negociations/KEMONO_008.json) | 100 | 100 | 100 % | terminé · 3 trop large |
+| [`KEMONO_009.json`](trad/negociations/KEMONO_009.json) | 100 | 100 | 100 % | terminé |
+| [`KEMONO_010.json`](trad/negociations/KEMONO_010.json) | 69 | 69 | 100 % | terminé |
 | [`KOKURI_001.json`](trad/negociations/KOKURI_001.json) | 96 | 96 | 100 % | terminé par @ATMC14 |
 | [`KOROU_001.json`](trad/negociations/KOROU_001.json) | 100 | 0 | 0 % | libre |
 | [`KOROU_002.json`](trad/negociations/KOROU_002.json) | 100 | 0 | 0 % | libre |
