@@ -46,42 +46,42 @@
     "locuteur": "Nanjo",
     "en": "Perhaps it's none of my business...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": ""
+    "fr": "Cela ne me regarde peut-être pas...{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0007",
     "locuteur": "Nanjo",
     "en": "But isn't it a bit conceited to claim{SAUT}you're everyone's favorite idol?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": ""
+    "fr": "Mais n'est-il pas vaniteux de se dire{SAUT}l'idole préférée de tous?{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0008",
     "locuteur": "Nanjo",
     "en": "Your arrogance is rather irksome.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": ""
+    "fr": "Votre arrogance est agaçante.{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0009",
     "locuteur": "Brown",
     "en": "Yeaaaaah! Y! {PAUSE}[1E00]U! {PAUSE}[1E00]R! {PAUSE}[1E00]I! {PAUSE}[1E00]K! {PAUSE}[1E00]O!{SAUT}Yurikoooo! {PAUSE}[1E00]＊whistle＊{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": ""
+    "fr": "Ouaaaais! Y! {PAUSE}[1E00]U! {PAUSE}[1E00]R! {PAUSE}[1E00]I! {PAUSE}[1E00]K! {PAUSE}[1E00]O!{SAUT}Yurikoooo! {PAUSE}[1E00]＊siffle＊{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0010",
     "locuteur": "Brown",
     "en": "...Ugh! I got carried away...{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": ""
+    "fr": "...Argh! Je m'emporte...{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0011",
     "locuteur": "Brown",
     "en": "Who the heck are you!?{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": ""
+    "fr": "Mais t'es qui, toi!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0012",
@@ -102,21 +102,21 @@
     "locuteur": "Yuriko",
     "en": "Uh, hello? Who's calling who a weirdo?{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": ""
+    "fr": "Euh, allô? Qui traite qui de bizarre?{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0015",
     "locuteur": "Yuriko",
     "en": "Ohh! Are you jealous 'cause I'm so{SAUT}cutesy-wutesy?{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": ""
+    "fr": "Ohh! T'es jaloux parce que je suis{SAUT}trop chou-chou?{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0016",
     "locuteur": "Yuriko",
     "en": "＊sigh＊... Being too pretty is a sin,{SAUT}isn't it?{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": ""
+    "fr": "＊soupir＊... Trop jolie, c'est{SAUT}un péché, non?{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0017",
@@ -137,21 +137,21 @@
     "locuteur": "Nanjo",
     "en": "We're on a tight schedule here!{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": ""
+    "fr": "Nous sommes pressés!{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0020",
     "locuteur": "Nanjo",
     "en": "Have you come to fight us? If so,{SAUT}we gladly accept the challenge!{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": ""
+    "fr": "Venez-vous nous combattre? Si oui,{SAUT}nous acceptons volontiers!{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0021",
     "locuteur": "Elly",
     "en": "Er... so... why are you here?{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": ""
+    "fr": "Euh... alors... pourquoi ici?{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0022",
@@ -193,21 +193,21 @@
     "locuteur": "Yuriko",
     "en": "You see those two candles? One to the{SAUT}right of the door, one to the left?{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": ""
+    "fr": "Tu vois ces deux bougies? Une à{SAUT}droite de la porte, une à gauche?{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0028",
     "locuteur": "Yuriko",
     "en": "Good! All you have to do is blow one{SAUT}out, and poof! Door's open!{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": ""
+    "fr": "Bien! Souffle-en une, et pouf!{SAUT}La porte s'ouvre!{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0029",
     "locuteur": "Yuriko",
     "en": "Okey-dokey! I hope you try 200% to get{SAUT}to me! Bye-bye!{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": ""
+    "fr": "D'accodac! Fais 200% d'efforts pour{SAUT}venir! Bye-bye!{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0030",
@@ -242,7 +242,7 @@
     "locuteur": "Yukino",
     "en": "She acts like an airhead, but she's{SAUT}a hardcore con artist!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": ""
+    "fr": "Elle joue la cruche, mais c'est{SAUT}une sacrée arnaqueuse!{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0035",
@@ -256,28 +256,28 @@
     "locuteur": "Ayase",
     "en": "What does she think life's all about?{SAUT}Who does she think she is!?{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": ""
+    "fr": "Elle se prend pour qui, sérieux?{SAUT}Elle croit quoi de la vie!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0037",
     "locuteur": "Ayase",
     "en": "Oooooh, she's so aggravating! Right?{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": ""
+    "fr": "Oooooh, elle m'énerve trop! Non?{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0038",
     "locuteur": "Nanjo",
     "en": "Good grief... Our hands are already full{SAUT}with Yuka's incessant yapping.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": ""
+    "fr": "Bonté divine... Nous avons déjà fort{SAUT}à faire avec le babil de Yuka.{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0039",
     "locuteur": "Nanjo",
     "en": "And now we face a tower guardian exactly{SAUT}like her... I've got to get out of here.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": ""
+    "fr": "Et voici une gardienne de tour tout{SAUT}comme elle... Je dois partir d'ici.{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0040",
@@ -298,33 +298,33 @@
     "locuteur": "Elly",
     "en": "It seems as if she enjoys our{SAUT}confrontations...{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": ""
+    "fr": "On dirait qu'elle savoure nos{SAUT}affrontements...{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0043",
     "locuteur": "Elly",
     "en": "And catching us in her traps.{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": ""
+    "fr": "Et de nous piéger.{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0044",
     "locuteur": "Elly",
     "en": "It's as Yukino says... this won't be easy.{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": ""
+    "fr": "Comme dit Yukino... ce sera dur.{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0045",
     "en": "{FERME} > Blow out the candle?{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} > Souffler la bougie?{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0046",
     "locuteur": "Yukino",
     "en": "Huh!? Wh-What's happening...?{PAUSE}[1E00]{SAUT}S-Something's being yanked out of me...{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": ""
+    "fr": "Hein!? Qu-Qu'est-ce qui se passe...?{PAUSE}[1E00]{SAUT}O-On m'arrache quelque chose...{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0047",
@@ -346,7 +346,7 @@
     "locuteur": "Yuriko",
     "en": "Teeheeheeheeheehee!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "",
+    "fr": "Hihihihihihihi!{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -354,7 +354,7 @@
     "locuteur": "Yuriko",
     "en": "Did you really think you could get past{SAUT}here for free? Silly billies!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "",
+    "fr": "Tu croyais vraiment passer ici{SAUT}gratuitement? Petits bêtas!{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -362,7 +362,7 @@
     "locuteur": "Yuriko",
     "en": "Tit for tat's the name of the game!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "",
+    "fr": "Un prêté pour un rendu!{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -386,7 +386,7 @@
     "locuteur": "Yuriko",
     "en": "Well, I'll be taking your other life...{PAUSE}[1E00]{SAUT}Per-{PAUSE}[1E00]so-{PAUSE}[1E00]na!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "",
+    "fr": "Bon, je prends ton autre vie...{PAUSE}[1E00]{SAUT}Per-{PAUSE}[1E00]so-{PAUSE}[1E00]na!{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -394,7 +394,7 @@
     "locuteur": "Yuriko",
     "en": "Thanks! Teeheeheeheehee! See ya!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "",
+    "fr": "Merci! Hihihihihihi! Salut!{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -402,51 +402,51 @@
     "locuteur": "Yukino",
     "en": "Dammit! What's up with that twit!?{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": ""
+    "fr": "Bon sang! Quelle cruche!{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0057",
     "locuteur": "Yukino",
     "en": "What was that all about, anyway? \"I'll be{SAUT}taking your other life\"?{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": ""
+    "fr": "Ça voulait dire quoi, au fait? \"Je{SAUT}prends ton autre vie\"?{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0058",
     "locuteur": "Yukino",
     "en": "What did she mean?{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": ""
+    "fr": "Ça veut dire quoi?{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0059",
     "en": "{FERME}> Blow out the candle?{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}> Souffler la bougie?{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0068",
     "en": "{FERME}   > You decide not to blow out the candle.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}   > Tu décides de ne pas souffler.{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0069",
     "en": "{FERME}  > The candle is unlit.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}  > Bougie éteinte.{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0070",
     "en": "{FERME}> The candle is lit.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}> Bougie allumée.{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0071",
     "en": "{FERME}  > It seems you must extinguish one of{SAUT}the candles to unlock the door.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}  > Il semble qu'il faille éteindre une{SAUT}bougie pour ouvrir la porte.{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0072",
     "en": "{FERME} > The door seems to be unlocked now...{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} > La porte semble ouverte...{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0073",
