@@ -87,7 +87,7 @@
 | Anglais | Proposition FR | Vu dans | Statut |
 |---|---|---|---|
 | affinity | affinité | EBOOT_009.json | ✅ |
-| Agastya Tree (locuteur) | Agastya / Arbre | E4_024.json | ✅ |
+| Agastya Tree (locuteur) | Arbre Agastya | E0_001.json, E1_027.json, E3_006.json, E3_008.json, E2_005.json | ✅ *(l'etiquette complete, sur les 14 repliques. Elle coute 3 468 octets — 3 des entrees sont repetees 1 714 fois a elles seules — mais aucun bloc ne deborde pour autant : verifie avec `budget_blocs.py`. L'anglais ecrit `Agastya Tree` 11 fois et `Atastya Tree` 3 fois (coquille de la VO) : les deux portent la meme etiquette francaise)* |
 | Aki | Aki | E0_020.json | ✅ |
 | Alaya Shrine / Alaya Cavern | Temple Alaya / Grotte Alaya | EBOOT_002.json | ✅ *(« Temple » comme dans P2-FR-IS-PSP)* |
 | Ambrosia | Ambroisie | E1_014.json, E1_020.json, E1_025.json | ✅ *(à reporter dans la liste d'objets de l'EBOOT)* |
