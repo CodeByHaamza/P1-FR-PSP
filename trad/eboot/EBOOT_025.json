@@ -128,31 +128,31 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_29B586",
     "en": " Bad status: Blind{ATTENTE}",
-    "fr": " Mal : Cécité{ATTENTE}",
+    "fr": " Mal: Cécité{ATTENTE}",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29B5AE",
     "en": " Good status: Puppet{ATTENTE}",
-    "fr": " Bon : Pantin{ATTENTE}",
+    "fr": " Bon: Pantin{ATTENTE}",
     "max": 20
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29B5DA",
     "en": " Bad status: Mute{ATTENTE}",
-    "fr": " Mal : Muet{ATTENTE}",
+    "fr": " Mal: Muet{ATTENTE}",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29B600",
     "en": "Bad status: Guilt{ATTENTE}",
-    "fr": "Mal : Faute{ATTENTE}",
+    "fr": "Mal: Faute{ATTENTE}",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29B626",
     "en": " Good status: Cloak{ATTENTE}",
-    "fr": " Bon : Voile{ATTENTE}",
+    "fr": " Bon: Voile{ATTENTE}",
     "max": 19
   },
   {

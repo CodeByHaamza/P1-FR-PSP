@@ -260,7 +260,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2793AA",
     "en": " Instant kill; user dies (1 foe)(*TERMINATOR*)",
-    "fr": "Tue net ; l'utilisateur meurt (1 enn.)(*TERMINATOR*)",
+    "fr": "Tue net; l'utilisateur meurt (1 enn.)(*TERMINATOR*)",
     "max": 32
   },
   {
@@ -272,7 +272,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_279436",
     "en": " Special Phys damage; user dies (area)(*TERMINATOR*)",
-    "fr": "Phys spécial ; l'utilisateur meurt (zone)(*TERMINATOR*)",
+    "fr": "Phys spécial; l'utilisateur meurt (zone)(*TERMINATOR*)",
     "max": 38
   },
   {

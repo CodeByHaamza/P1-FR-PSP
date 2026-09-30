@@ -44,7 +44,7 @@
   {
     "id": "TENSI.BIN:text:0007",
     "en": " As one of His messengers, you must attend{SAUT}to me with respect.[FFFD][05FF][F500]Since you require my intervention,{SAUT}your point is indeed reasonable.(*RESPONSE*)",
-    "fr": " Je suis Son messager : traitez-moi{SAUT}avec respect.[FFFD][05FF][F500]Puisque vous requérez mon aide,{SAUT}votre requête est raisonnable.(*RESPONSE*)",
+    "fr": " Je suis Son messager: traitez-moi{SAUT}avec respect.[FFFD][05FF][F500]Puisque vous requérez mon aide,{SAUT}votre requête est raisonnable.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -68,7 +68,7 @@
   {
     "id": "TENSI.BIN:text:0012",
     "en": "  Though you try to appease angels with{SAUT}such songs, His order will not be{SAUT}swayed!(*RESPONSE*)",
-    "fr": "  Ces chants n'amadouent{SAUT}pas les anges : Son{SAUT}ordre ne fléchira pas!(*RESPONSE*)",
+    "fr": "  Ces chants n'amadouent{SAUT}pas les anges: Son{SAUT}ordre ne fléchira pas!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -297,7 +297,7 @@
   {
     "id": "TENSI.BIN:text:0054",
     "en": " As one of His messengers, you must attend{SAUT}to me with respect.[FFFD][2CFF][F500]You speak as though you make sport of{SAUT}me... You are but a child, so I am{SAUT}sure He will forgive your indiscretion.(*RESPONSE*)",
-    "fr": " Je suis Son messager : traitez-moi{SAUT}avec respect.[FFFD][2CFF][F500]Vous semblez vous moquer de moi... Vous{SAUT}n'êtes qu'un enfant, Il pardonnera{SAUT}cet écart.(*RESPONSE*)"
+    "fr": " Je suis Son messager: traitez-moi{SAUT}avec respect.[FFFD][2CFF][F500]Vous semblez vous moquer de moi... Vous{SAUT}n'êtes qu'un enfant, Il pardonnera{SAUT}cet écart.(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0055",
@@ -349,7 +349,7 @@
   {
     "id": "TENSI.BIN:text:0063",
     "en": " As one of His messengers, you must attend{SAUT}to me with respect.[FFFD][35FF][F500]Is something the matter with my face?{SAUT}I endeavor to construct the proper{SAUT}expressions while in the human world.(*RESPONSE*)",
-    "fr": " Je suis Son messager : traitez-moi{SAUT}avec respect.[FFFD][35FF][F500]Mon visage a un problème? Je m'efforce{SAUT}de composer les bonnes expressions dans{SAUT}le monde humain.(*RESPONSE*)"
+    "fr": " Je suis Son messager: traitez-moi{SAUT}avec respect.[FFFD][35FF][F500]Mon visage a un problème? Je m'efforce{SAUT}de composer les bonnes expressions dans{SAUT}le monde humain.(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0064",
@@ -413,7 +413,7 @@
   {
     "id": "TENSI.BIN:text:0075",
     "en": " How marvelous! Had I not been an angel,{SAUT}I would have succumbed to your charms.[FFFD][3FFF][F500]   Though you try to appease angels with{SAUT}such songs, His order will not be{SAUT}swayed!(*RESPONSE*)",
-    "fr": " Merveilleux! Si je n'étais un ange,{SAUT}j'aurais succombé à vos charmes.[FFFD][3FFF][F500]   Ces chants n'amadouent{SAUT}pas les anges : Son{SAUT}ordre ne fléchira pas!(*RESPONSE*)",
+    "fr": " Merveilleux! Si je n'étais un ange,{SAUT}j'aurais succombé à vos charmes.[FFFD][3FFF][F500]   Ces chants n'amadouent{SAUT}pas les anges: Son{SAUT}ordre ne fléchira pas!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -527,7 +527,7 @@
   {
     "id": "TENSI.BIN:text:0096",
     "en": " As one of His messengers, you must attend{SAUT}to me with respect.[FFFD][53FF][F500]Ever since the redemption of humanity,{SAUT}they have become quite insolent!{SAUT}That must now be corrected!(*RESPONSE*)",
-    "fr": " Je suis Son messager : traitez-moi{SAUT}avec respect.[FFFD][53FF][F500]Depuis leur rédemption, les{SAUT}humains sont devenus insolents!{SAUT}Il faut corriger cela!(*RESPONSE*)"
+    "fr": " Je suis Son messager: traitez-moi{SAUT}avec respect.[FFFD][53FF][F500]Depuis leur rédemption, les{SAUT}humains sont devenus insolents!{SAUT}Il faut corriger cela!(*RESPONSE*)"
   },
   {
     "id": "TENSI.BIN:text:0097",
