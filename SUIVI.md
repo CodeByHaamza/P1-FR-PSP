@@ -42,6 +42,7 @@ Ces lignes sont plus larges que l'anglaise et approchent de la limite de la boî
 - [`E1_009.json`](trad/dialogues/E1_009.json) — 2 lignes
 - [`E1_013.json`](trad/dialogues/E1_013.json) — 3 lignes
 - [`E1_016.json`](trad/dialogues/E1_016.json) — 9 lignes
+- [`E1_017.json`](trad/dialogues/E1_017.json) — 1 ligne
 - [`E1_018.json`](trad/dialogues/E1_018.json) — 11 lignes
 - [`E1_019.json`](trad/dialogues/E1_019.json) — 2 lignes
 - [`E1_022.json`](trad/dialogues/E1_022.json) — 9 lignes
@@ -85,7 +86,7 @@ Ces lignes sont plus larges que l'anglaise et approchent de la limite de la boî
 - [`SINSI_004.json`](trad/negociations/SINSI_004.json) — 1 ligne
 - [`SINSI_005.json`](trad/negociations/SINSI_005.json) — 1 ligne
 - [`SYOUJO_001.json`](trad/negociations/SYOUJO_001.json) — 1 ligne
-- [`SYOUJO_002.json`](trad/negociations/SYOUJO_002.json) — 2 lignes
+- [`SYOUJO_002.json`](trad/negociations/SYOUJO_002.json) — 1 ligne
 - [`SYOUJO_003.json`](trad/negociations/SYOUJO_003.json) — 1 ligne
 - [`SYOUJO_004.json`](trad/negociations/SYOUJO_004.json) — 1 ligne
 - [`SYOUJO_005.json`](trad/negociations/SYOUJO_005.json) — 3 lignes
@@ -201,7 +202,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E1_014.json`](trad/dialogues/E1_014.json) | 43 | 43 | 100 % | terminé |
 | [`E1_015.json`](trad/dialogues/E1_015.json) | 65 | 1 | 2 % | commencé |
 | [`E1_016.json`](trad/dialogues/E1_016.json) | 100 | 100 | 100 % | terminé par @Uolil-Raccoon · 9 trop large |
-| [`E1_017.json`](trad/dialogues/E1_017.json) | 38 | 38 | 100 % | terminé |
+| [`E1_017.json`](trad/dialogues/E1_017.json) | 38 | 38 | 100 % | terminé · 1 trop large |
 | [`E1_018.json`](trad/dialogues/E1_018.json) | 100 | 100 | 100 % | terminé par @Uolil-Raccoon · 11 trop large |
 | [`E1_019.json`](trad/dialogues/E1_019.json) | 46 | 46 | 100 % | terminé · 2 trop large |
 | [`E1_020.json`](trad/dialogues/E1_020.json) | 67 | 3 | 4 % | commencé |
