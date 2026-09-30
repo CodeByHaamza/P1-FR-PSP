@@ -263,7 +263,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2A4D90",
     "en": "When finished, press the [003E] button.",
-    "fr": "Terminé : appuyez sur [003E].",
+    "fr": "Terminé: appuyez sur [003E].",
     "max": 33
   },
   {
@@ -395,7 +395,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2A551A",
     "en": "Daaaamn! [FFFC]So this is an (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*) , huh?[FFFC]{SAUT}",
-    "fr": "Ouaaah! [FFFC]Alors c'est ça, un (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*) ?[FFFC]{SAUT}",
+    "fr": "Ouaaah! [FFFC]Alors c'est ça, un (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*)?[FFFC]{SAUT}",
     "max": 36
   },
   {
@@ -413,7 +413,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2A55E0",
     "en": "Isn't this an (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*) {SAUT}",
-    "fr": "C'est pas un (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*) ?{SAUT}",
+    "fr": "C'est pas un (*TEXTBOX_PARAM*)[0500]Avatar(*TEXTBOX_PARAM*)?{SAUT}",
     "max": 21
   },
   {
@@ -425,7 +425,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5678",
     "en": "Avatar(*TEXTBOX_PARAM*) !{FERME}",
-    "fr": "Avatar(*TEXTBOX_PARAM*) !{FERME}",
+    "fr": "Avatar(*TEXTBOX_PARAM*)!{FERME}",
     "max": 8
   },
   {
@@ -497,7 +497,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2A58EE",
     "en": " Obtained [FFF4].{FERME}",
-    "fr": " Obtenu : [FFF4].{FERME}",
+    "fr": " Obtenu: [FFF4].{FERME}",
     "max": 11
   },
   {
@@ -600,7 +600,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2A5C8A",
     "en": " Obtained the [FFF3]{SAUT}",
-    "fr": " Obtenu : [FFF3],{SAUT}",
+    "fr": " Obtenu: [FFF3],{SAUT}",
     "max": 14
   }
 ]

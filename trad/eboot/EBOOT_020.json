@@ -182,7 +182,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_27AC00",
     "en": "Instant Death kill (1 foe)(*TERMINATOR*)",
-    "fr": "Mort : tue net (1 enn.)(*TERMINATOR*)",
+    "fr": "Mort: tue net (1 enn.)(*TERMINATOR*)",
     "max": 26
   },
   {
@@ -518,94 +518,94 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_27BAD0",
     "en": "                                                                                                          Repel: 50% Fire{SAUT}",
-    "fr": "                                                                                                        Renvoie : 50% Feu{SAUT}",
+    "fr": "                                                                                                        Renvoie: 50% Feu{SAUT}",
     "max": 121
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27BBC4",
     "en": "Weak: Electric, Nuclear, Gravity, Blast{FERME}",
-    "fr": "Faible : Élec, Atome, Gravité, Éclat{FERME}",
+    "fr": "Faible: Élec, Atome, Gravité, Éclat{FERME}",
     "max": 39,
     "_occurrences": 4
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27BC14",
     "en": "                                                                        Repel: 50% Ice{SAUT}",
-    "fr": "                                                                     Renvoie : 50% Gel{SAUT}",
+    "fr": "                                                                     Renvoie: 50% Gel{SAUT}",
     "max": 86
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27BD12",
     "en": "                                                                         Repel: 50% Wind{SAUT}",
-    "fr": "                                                                      Renvoie : 50% Vent{SAUT}",
+    "fr": "                                                                      Renvoie: 50% Vent{SAUT}",
     "max": 88
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27BE14",
     "en": "                                                                        Repel: 50% Earth{SAUT}",
-    "fr": "                                                                     Renvoie : 50% Terre{SAUT}",
+    "fr": "                                                                     Renvoie: 50% Terre{SAUT}",
     "max": 88
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27BF16",
     "en": "                                                                       Absorb: 100% Electric{SAUT}",
-    "fr": "                                                                       Absorbe : 100% Élec{SAUT}",
+    "fr": "                                                                       Absorbe: 100% Élec{SAUT}",
     "max": 92
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27BFD0",
     "en": "Weak: Nuclear, Blast, Gravity{FERME}",
-    "fr": "Faible : Atome, Éclat, Gravité{FERME}",
+    "fr": "Faible: Atome, Éclat, Gravité{FERME}",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C00C",
     "en": "                                                                            Absorb: 100% Nuclear{SAUT}",
-    "fr": "                                                                            Absorbe : 100% Atome{SAUT}",
+    "fr": "                                                                            Absorbe: 100% Atome{SAUT}",
     "max": 96
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C0CE",
     "en": "Weak: Electric, Blast, Gravity{FERME}",
-    "fr": "Faible : Élec, Éclat, Gravité{FERME}",
+    "fr": "Faible: Élec, Éclat, Gravité{FERME}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C10C",
     "en": "                                                                            Absorb: 100% Blast{SAUT}",
-    "fr": "                                                                          Absorbe : 100% Éclat{SAUT}",
+    "fr": "                                                                          Absorbe: 100% Éclat{SAUT}",
     "max": 94
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C1CA",
     "en": "Weak: Electric, Nuclear, Gravity{FERME}",
-    "fr": "Faible : Élec, Atome, Gravité{FERME}",
+    "fr": "Faible: Élec, Atome, Gravité{FERME}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C20C",
     "en": "                                                                            Strong: Element, Force{SAUT}",
-    "fr": "                                                                            Fort : Éléments, Force{SAUT}",
+    "fr": "                                                                            Fort: Éléments, Force{SAUT}",
     "max": 98
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C2D2",
     "en": "Weak: Physical{FERME}",
-    "fr": "Faible : Physique{FERME}",
+    "fr": "Faible: Physique{FERME}",
     "max": 14,
     "_occurrences": 7
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C2F0",
     "en": "                                                                                          Repel: 50% Physical{SAUT}",
-    "fr": "                                                                                       Renvoie : 50% Physique{SAUT}",
+    "fr": "                                                                                       Renvoie: 50% Physique{SAUT}",
     "max": 109,
     "_occurrences": 3
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C3CC",
     "en": "Weak: Element, Force{FERME}",
-    "fr": "Faible : Élément, Force{FERME}",
+    "fr": "Faible: Élément, Force{FERME}",
     "max": 20,
     "_occurrences": 9
   }
