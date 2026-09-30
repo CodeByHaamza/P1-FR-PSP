@@ -2,504 +2,504 @@
   {
     "id": "KEMONO.BIN:text:0408",
     "en": " RAAAAAAAR! ME EAT YOU WHOLE! MAXIMUM{SAUT}MAD!(*OPTION*)",
-    "fr": ""
+    "fr": " RAAAAAAAR! MOI MANGER TOI CRU! FOU{SAUT}À FOND!(*OPTION*)"
   },
   {
     "id": "KEMONO.BIN:text:0409",
     "en": "  ＊whimper＊ ME SCARED... WORLD IS{SAUT}ENDING...(*OPTION*)",
-    "fr": ""
+    "fr": "  ＊gémit＊ MOI PEUR... MONDE QUI{SAUT}FINIT...(*OPTION*)"
   },
   {
     "id": "KEMONO.BIN:text:0410",
     "en": "  AWOOOO! ME REAL FUN! ME REALLY REALLY{SAUT}FUN!(*OPTION*)",
-    "fr": ""
+    "fr": "  AWOOOO! MOI VRAI MARRANT! MOI VRAIMENT{SAUT}MARRANT!(*OPTION*)"
   },
   {
     "id": "KEMONO.BIN:text:0411",
     "en": " YOU INTERESTING! BUT NEGOTIATION...{SAUT}NOT SO GOOD. SORT OF PAIN. YOU JUST{SAUT}SAY BUSINESS!(*OPTION*)",
-    "fr": ""
+    "fr": " TOI INTÉRESSANT! MAIS NÉGOCIATION...{SAUT}PAS SI BONNE. PLUTÔT PÉNIBLE. DIS{SAUT}JUSTE L'AFFAIRE!(*OPTION*)"
   },
   {
     "id": "KEMONO.BIN:text:0412",
     "en": "  YOU INTERESTING! BUT ME WORRIED...{ATTENTE}",
-    "fr": ""
+    "fr": "  TOI INTÉRESSANT! MAIS MOI INQUIET...{ATTENTE}"
   },
   {
     "id": "KEMONO.BIN:text:0413",
     "en": "{PAGE}ME ABLE TO BE YOUR FRIEND...? ANYWAY,{SAUT}ME JUST ASK BUSINESS.(*OPTION*)",
-    "fr": ""
+    "fr": "{PAGE}MOI POUVOIR ÊTRE TON AMI...? BREF,{SAUT}MOI DEMANDER L'AFFAIRE.(*OPTION*)"
   },
   {
     "id": "KEMONO.BIN:text:0414",
     "en": "YOU INTERESTING! ME REALLY FUN!{SAUT}WE BEST FRIENDS!{ATTENTE}",
-    "fr": ""
+    "fr": "TOI INTÉRESSANT! MOI VRAI MARRANT!{SAUT}NOUS GRANDS AMIS!{ATTENTE}"
   },
   {
     "id": "KEMONO.BIN:text:0415",
     "en": "{PAGE}ME SHOW PROOF! WHAT YOU WANT, BEST{SAUT}FRIEND?(*OPTION*)",
-    "fr": ""
+    "fr": "{PAGE}MOI MONTRER PREUVE! TOI VOULOIR QUOI,{SAUT}GRAND AMI?(*OPTION*)"
   },
   {
     "id": "KEMONO.BIN:text:0416",
     "en": "   ME GRRR... YOUR NEGOTIATE MAKE ME CRAZY!(*OPTION*)",
-    "fr": ""
+    "fr": "   MOI GRRR... TA NÉGOCE ME REND FOU!(*OPTION*)"
   },
   {
     "id": "KEMONO.BIN:text:0417",
     "en": "   YOUR NEGOTIATIONS NO FUN! THEY STUPID!(*OPTION*)",
-    "fr": ""
+    "fr": "   TES NÉGOCES PAS DRÔLES! ELLES BÊTES!(*OPTION*)"
   },
   {
     "id": "KEMONO.BIN:text:0418",
     "en": " YOU REAL COOL, HUMAN. INCREDIBLE! ME{SAUT}LISTEN TO YOU!(*OPTION*)",
-    "fr": ""
+    "fr": " TOI VRAI COOL, HUMAIN. INCROYABLE! MOI{SAUT}T'ÉCOUTER!(*OPTION*)"
   },
   {
     "id": "KEMONO.BIN:text:0419",
     "en": "HMM... ME WANT MONEY! (*VALUE*)!(*OPTION*)",
-    "fr": ""
+    "fr": "HMM... MOI VOULOIR ARGENT (*VALUE*)!(*OPTION*)"
   },
   {
     "id": "KEMONO.BIN:text:0420",
     "en": "   AWOOOO! MONEY, MONEY, MONEY! AWOOO!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   AWOOOO! ARGENT, ARGENT! AWOOO!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0421",
     "en": "＊whimper＊ ME DISAPPOINTED...(*RESPONSE*)",
-    "fr": "",
+    "fr": "＊gémit＊ MOI DÉÇU...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KEMONO.BIN:text:0422",
     "en": "   ROAAAAR! YOU NO HAVE MONEY! NO MONEY,{SAUT}NO GOOD!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   ROAAAAR! TOI PAS ARGENT! PAS ARGENT,{SAUT}PAS BON!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0423",
     "en": " ROAAAAAR! YOU REALLY HERE TO NEGOTIATE!?(*RESPONSE*)",
-    "fr": ""
+    "fr": " ROAAAAAR! TOI VRAIMENT LÀ POUR NÉGOCIER!?(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0424",
     "en": "   ＊whimper＊ YOU CHEAP. ME NO CARE ABOUT{SAUT}CHEAP BASTARDS...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   ＊gémit＊ TOI RADIN. MOI PAS SOUCI DES{SAUT}SALES RADINS...(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0425",
     "en": "HMM... ME WANT LIFE STONE! ONE IS FINE!(*OPTION*)",
-    "fr": ""
+    "fr": "HMM... MOI VOULOIR PIERRE DE VIE! UNE VA!(*OPTION*)"
   },
   {
     "id": "KEMONO.BIN:text:0426",
     "en": "AWOOO! LIFE STONE! LIFE STONE! AWOOO!(*RESPONSE*)",
-    "fr": ""
+    "fr": "AWOOO! PIERRE DE VIE! PIERRE! AWOOO!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0427",
     "en": "  ROAAAAR! YOU NO HAVE LIFE STONE! NO{SAUT}STONE, NO GOOD!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  ROAAAAR! TOI PAS PIERRE DE VIE! PAS{SAUT}PIERRE, PAS BON!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0429",
     "en": "   ME LIKE LIFE STONE! YOU MEAN!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   MOI AIMER PIERRE VIE! TOI VACHE!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0430",
     "en": "  ＊whimper＊ YOU CHEAP. ME NO CARE ABOUT{SAUT}CHEAP BASTARDS...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  ＊gémit＊ TOI RADIN. MOI PAS SOUCI DES{SAUT}SALES RADINS...(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0431",
     "en": "HMM... ME WANT GEM... [FFF4]!(*OPTION*)",
-    "fr": ""
+    "fr": "HMM... MOI VOULOIR GEMME: [FFF4]!(*OPTION*)"
   },
   {
     "id": "KEMONO.BIN:text:0432",
     "en": "   AWOOOO! [FFF4]! AWOOO!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   AWOOOO! [FFF4]! AWOOO!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0433",
     "en": "  ＊whimper＊ GEM... ＊cough＊(*RESPONSE*)",
-    "fr": ""
+    "fr": "  ＊gémit＊ GEMME... ＊tousse＊(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0434",
     "en": "   ROAAAR! ME WANT GEM! ME HATE YOU!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   ROAAAR! MOI VOULOIR GEMME! MOI HAÏR!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0435",
     "en": "  HMM... YOU UNDERSTAND VALUE OF GEM...{SAUT}HMMMMM...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  HMM... TOI PIGER VALEUR DE LA GEMME...{SAUT}HMMMMM...(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0436",
     "en": "HMM... ME WANT SOME LIFE.(*OPTION*)",
-    "fr": ""
+    "fr": "HMM... MOI VOULOIR UN PEU DE VIE.(*OPTION*)"
   },
   {
     "id": "KEMONO.BIN:text:0437",
     "en": "  AWOOO! YOU LOOK TASTY! ME DOWN IT!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  AWOOO! TOI AIR BON! MOI TE GOBER!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0438",
     "en": " ROAAAAR! YOU SHOW OFF LIFE! NO FAIR!{ATTENTE}",
-    "fr": ""
+    "fr": " ROAAAAR! TOI ÉTALER TA VIE! PAS JUSTE!{ATTENTE}"
   },
   {
     "id": "KEMONO.BIN:text:0439",
     "en": "{PAGE}ROAAAAR! ME TAKE BY FORCE!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}ROAAAAR! MOI PRENDRE DE FORCE!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0440",
     "en": "   ME WANT LIFE... BUT NOT YOURS... ME{SAUT}DISAPPOINTED...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   MOI VOULOIR VIE... MAIS PAS LA TIENNE...{SAUT}MOI DÉÇU...(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0441",
     "en": "YOU GET THINGS... ME NO BITE YOU.(*RESPONSE*)",
-    "fr": ""
+    "fr": "TOI PRENDRE TRUCS... MOI PAS MORDRE.(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0442",
     "en": "  YOU USEFUL! LIKE TYPE O USEFUL!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  TOI UTILE! UTILE COMME GROUPE O!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0443",
     "en": "YOU STUPID? HUMAN NO [FFF0]! ME GO HOME!(*RESPONSE*)",
-    "fr": ""
+    "fr": "TOI BÊTE? HUMAIN PAS [FFF0]! MOI RENTRER!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0444",
     "en": "NO... ME WANT TO PULL PRANKS.(*RESPONSE*)",
-    "fr": ""
+    "fr": "NON... MOI VOULOIR FAIRE BLAGUES.(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0445",
     "en": "  YOU KNOW ME POWER! ME HAPPY!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  TOI PIGER MON POUVOIR! MOI RAVI!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0446",
     "en": "   ＊whimper＊ THEN WHY YOU USE{SAUT}NEGOTIATION...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   ＊gémit＊ ALORS POURQUOI TOI{SAUT}NÉGOCIER...?(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0447",
     "en": " THEN ME WANT TO CHALLENGE!(*RESPONSE*)",
-    "fr": ""
+    "fr": " ALORS MOI VOULOIR DÉFIER!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0448",
     "en": " ME LIKE STRONG GUYS! ME GLAD TO{SAUT}NEGOTIATE!(*RESPONSE*)",
-    "fr": ""
+    "fr": " MOI AIMER LES FORTS! MOI RAVI DE{SAUT}NÉGOCIER!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0449",
     "en": " ME NO INTERESTED IN AVERAGE GUYS.(*RESPONSE*)",
-    "fr": ""
+    "fr": " MOI PAS INTÉRÊT POUR LES MOYENS.(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0450",
     "en": "  YOU WEAK! YET YOU TAUNT! THIS ANGER ME!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  TOI FAIBLE! ET TOI NARGUER! ÇA ME FÂCHE!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0451",
     "en": "ME TIRED... ME JUST WANT SLEEP...(*RESPONSE*)",
-    "fr": ""
+    "fr": "MOI FATIGUÉ... MOI JUSTE DORMIR...(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0452",
     "en": "  ROAAAR! THEN YOU ATTACK ME! YOU COWARD!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  ROAAAR! ALORS TOI M'ATTAQUER! TOI LÂCHE!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0453",
     "en": "ME SLEEP IN A LOT... YOU COME WAKE ME{SAUT}WHEN YOU NEED HELP!(*RESPONSE*)",
-    "fr": ""
+    "fr": "MOI DORMIR BEAUCOUP... VIENS ME RÉVEILLER{SAUT}SI BESOIN D'AIDE!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0454",
     "en": "  AWOOO! YOU GOOD GUY! ME LIKE YOU!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  AWOOO! TOI BON TYPE! MOI AIMER TOI!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0455",
     "en": "  ＊whimper＊ WHAT YOU TEACH ME? THIS NOT{SAUT}SOUND PLEASANT...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  ＊gémit＊ TOI M'APPRENDRE QUOI? ÇA PAS{SAUT}AIR AGRÉABLE...(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0456",
     "en": "ROAAAAR! ME [FFF0]! YOU NO FORCE ME!(*RESPONSE*)",
-    "fr": ""
+    "fr": "ROAAAAR! MOI [FFF0]! TOI PAS ME FORCER!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0457",
     "en": "THEN YOU USE OTHER NEGOTIATION{SAUT}TECHNIQUES!(*RESPONSE*)",
-    "fr": ""
+    "fr": "ALORS TOI USER AUTRES TECHNIQUES DE{SAUT}NÉGOCE!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0458",
     "en": " ME NOT KNOW NEGOTIATOR. YOU STUPID!(*RESPONSE*)",
-    "fr": ""
+    "fr": " MOI PAS CONNAÎTRE NÉGOCIATEUR. TOI NUL!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0459",
     "en": "HMM... YOU SAY GOOD THINGS. DIFFERENCE{SAUT}IN RACE NOT MATTER! WE ALL BROTHERS!(*RESPONSE*)",
-    "fr": ""
+    "fr": "HMM... TOI DIRE BONNES CHOSES. DIFFÉRENCE{SAUT}DE RACE PAS IMPORTER! TOUS FRÈRES!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0460",
     "en": "YOU EARNEST. ME THINK THAT GOOD.{ATTENTE}",
-    "fr": ""
+    "fr": "TOI SINCÈRE. MOI CROIRE ÇA BON.{ATTENTE}"
   },
   {
     "id": "KEMONO.BIN:text:0461",
     "en": "{PAGE}HMM... ME TRUST YOU.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}HMM... MOI CROIRE TOI.(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0462",
     "en": " ...ME SHOULDN'T HAVE ASKED...(*RESPONSE*)",
-    "fr": ""
+    "fr": " ...MOI AURAIS PAS DÛ DEMANDER...(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0463",
     "en": "  HUMANS REALLY ARE SELFISH! YOU NO GOOD!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  HUMAINS VRAIMENT ÉGOÏSTES! TOI PAS BON!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0464",
     "en": "THAT HOW YOU SHOULD BE.(*RESPONSE*)",
-    "fr": ""
+    "fr": "ÇA COMME TOI DEVRAIS ÊTRE.(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0465",
     "en": "ME HEAD HURT... YOU MEAN...(*RESPONSE*)",
-    "fr": ""
+    "fr": "MOI TÊTE MAL... TOI MÉCHANT...(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0466",
     "en": "YOU NO GOOD WITH ANY SONG! ME HEAD{SAUT}HURT!(*RESPONSE*)",
-    "fr": ""
+    "fr": "TOI NUL AVEC TOUT CHANT! MOI TÊTE{SAUT}MAL!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0467",
     "en": "   THAT SONG... NO. ME NOT JUDGE. ME HAVE{SAUT}BAD FEELING.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   CE CHANT... NON. MOI PAS JUGER. MOI{SAUT}MAUVAIS PRESSENTI.(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0468",
     "en": "THAT NOT RIGHT! SONG OF [FFF0]! NOT THAT!{ATTENTE}",
-    "fr": ""
+    "fr": "ÇA PAS BON! CHANT DE [FFF0]! PAS ÇA!{ATTENTE}"
   },
   {
     "id": "KEMONO.BIN:text:0469",
     "en": "{PAGE}YOU LIAR! ME UPSET!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}TOI MENTEUR! MOI FÂCHÉ!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0470",
     "en": "  YOU GOOD SINGER! ME DANCE ALONG!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  TOI BON CHANTEUR! MOI DANSER AVEC!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0471",
     "en": "   RED... YOU HEAD OKAY?{SAUT}＊whimper＊ ME KEEP DISTANCE...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   ROUGE... TA TÊTE ÇA VA?{SAUT}＊gémit＊ MOI GARDER DISTANCE...(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0472",
     "en": "YOU SAME AS ME... SAME... BORING...(*RESPONSE*)",
-    "fr": ""
+    "fr": "TOI PAREIL QUE MOI... PAREIL... ENNUI.(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0473",
     "en": "GREEN, GOOD! AWOOOO! ME WANT TO RUN{SAUT}IN FIELD!(*RESPONSE*)",
-    "fr": ""
+    "fr": "VERT, BON! AWOOOO! MOI VOULOIR COURIR{SAUT}AU PRÉ!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0474",
     "en": "  ROAAAAAR! NO!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  ROAAAAAR! NON!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0475",
     "en": "  HUMANS, GREEDY. NOT CHANGED FROM OLD{SAUT}TIMES...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  HUMAINS, CUPIDES. PAS CHANGÉ DEPUIS LE{SAUT}TEMPS...(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0476",
     "en": "  REALLY? HAVE NO REASON? ME WONDER ABOUT{SAUT}THAT...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  VRAIMENT? AUCUNE RAISON? MOI SONGER À{SAUT}ÇA...(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0477",
     "en": "YOU HONEST! ME LIKE HONEST!(*RESPONSE*)",
-    "fr": ""
+    "fr": "TOI FRANC! MOI AIMER FRANC!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0478",
     "en": "THEN WHAT POINT IN NEGOTIATING?{SAUT}YOU FUNNY...(*RESPONSE*)",
-    "fr": ""
+    "fr": "ALORS À QUOI BON NÉGOCIER?{SAUT}TOI DRÔLE...(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0479",
     "en": "   YOU IRRESOLUTE! DECIDE WHY YOU{SAUT}NEGOTIATE WITH ME!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   TOI INDÉCIS! DÉCIDE POURQUOI TOI{SAUT}NÉGOCIER AVEC MOI!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0480",
     "en": "  ME EAT YOU WHOLE. WHY YOU HAPPY?{SAUT}＊whimper＊ YOU HAVE ROCK SKIN...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  MOI MANGER TOI CRU. POURQUOI CONTENT?{SAUT}＊gémit＊ TOI PEAU DE PIERRE...?(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0481",
     "en": "  EVEN IF YOU CRY, ME EAT YOU WHOLE.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  MÊME SI TOI PLEURER, MOI TE MANGER.(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0482",
     "en": " EVEN IF YOU NO LIKE, ME EAT YOU WHOLE.(*RESPONSE*)",
-    "fr": ""
+    "fr": " MÊME SI TOI REFUSER, MOI TE MANGER CRU.(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0483",
     "en": " ME LIKE SUSHI! WE GET ALONG!(*RESPONSE*)",
-    "fr": ""
+    "fr": " MOI AIMER SUSHI! NOUS BIEN VA!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0484",
     "en": "   ME LIKE HAMBURGER! WE GET ALONG!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   MOI AIMER HAMBURGER! NOUS BIEN VA!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0485",
     "en": "   ME LIKE FRIED RICE! WE GET ALONG!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   MOI AIMER RIZ FRIT! NOUS BIEN ALLER!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0486",
     "en": "  ME HAPPY! YOU CUTE HUMAN!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  MOI RAVI! TOI HUMAIN JOLI!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KEMONO.BIN:text:0487",
     "en": "  ME HAPPY, BUT YOU OVERREACT... THAT{SAUT}WORRY ME...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  MOI CONTENT, MAIS TOI EXAGÉRER... ÇA{SAUT}M'INQUIÈTE...(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0488",
     "en": "ME NOT REALLY LIKE YOU. DISAPPOINTED.(*RESPONSE*)",
-    "fr": ""
+    "fr": "MOI PAS TROP AIMER TOI. MOI DÉÇU.(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0489",
     "en": "  ME NOT KNOW CLASS... BUT CLASS SOUND{SAUT}TASTY...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  MOI PAS CONNAÎTRE CLASSE... MAIS ÇA{SAUT}AIR BON...(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0490",
     "en": "  ME [FFF0]... ME NO CAN GO TO{SAUT}SCHOOL...{ATTENTE}",
-    "fr": ""
+    "fr": "  MOI [FFF0]... MOI PAS D'ÉCOLE{SAUT}POSSIBLE...{ATTENTE}"
   },
   {
     "id": "KEMONO.BIN:text:0491",
     "en": "{PAGE}YOU HUMANS. YOU CAN GO TO SCHOOL.{SAUT}ME JEALOUS...(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}VOUS HUMAINS, VOUS ALLEZ{SAUT}À L'ÉCOLE. MOI JALOUX...(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0492",
     "en": " YOU CHEAP BASTARD! ME UPSET!(*RESPONSE*)",
-    "fr": ""
+    "fr": " SALE RADIN! MOI FÂCHÉ!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0493",
     "en": "   THEN ME FINALLY EAT YOU WHOLE!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   ALORS MOI TE MANGER CRU ENFIN!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0494",
     "en": " YOU LOOK DOWN ON ME MORE! ME PISSED!(*RESPONSE*)",
-    "fr": ""
+    "fr": " TOI ME MÉPRISER ENCORE! MOI ÉNERVÉ!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0495",
     "en": "   ME LIE ABOUT EATING YOU WHOLE!{SAUT}ME GOT BACK AT YOU! WE EVEN NOW!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   MOI MENTI POUR TE MANGER CRU!{SAUT}MOI RENDU LA MONNAIE! QUITTES!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0496",
     "en": "ME LIKE FIGHT! [FFF0] BLOOD BURNING!{SAUT}ME FIGHT YOU!(*RESPONSE*)",
-    "fr": ""
+    "fr": "MOI AIMER BATTRE! SANG [FFF0] BRÛLE!{SAUT}MOI BATTRE TOI!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0497",
     "en": "  HMM... THAT GOOD STORY. ME WON'T FORGET!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  HMM... BON CONTE. MOI PAS OUBLIER!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0498",
     "en": "   HARE STUPID! ME ALWAYS FULL FORCE TOO,{SAUT}LIKE TORTOISE. DON'T UNDERESTIMATE!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   LIÈVRE BÊTE! MOI TOUJOURS À FOND AUSSI,{SAUT}COMME TORTUE. PAS SOUS-ESTIMER!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0499",
     "en": " THEN... ME NO EAT.(*RESPONSE*)",
-    "fr": "",
+    "fr": " ALORS... MOI PAS BOUFFER.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KEMONO.BIN:text:0500",
     "en": " YOU TIMID NOW, IT ONLY GET HARDER LATER.{SAUT}HMM... WHAT ME TO DO?(*RESPONSE*)",
-    "fr": ""
+    "fr": " TOI TIMIDE LÀ, PLUS DUR APRÈS.{SAUT}HMM... MOI FAIRE QUOI?(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0501",
     "en": " ...BUT ME NOT KNOW HOW YOU TASTE...{SAUT}ME STOP EATING YOU...(*RESPONSE*)",
-    "fr": ""
+    "fr": " ...MAIS MOI PAS SAVOIR TON GOÛT...{SAUT}MOI ARRÊTER DE MANGER...(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0502",
     "en": "  YOU PLAN TO EAT ME? YOU MUST HAVE GREAT{SAUT}BIG HUNGER!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  TOI VOULOIR MANGER MOI? TOI DOIS AVOIR{SAUT}GROSSE FAIM!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0503",
     "en": "THAT TOO MUCH! THINK OF CALORIES!(*RESPONSE*)",
-    "fr": ""
+    "fr": "ÇA TROP! PENSE AUX CALORIES!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0504",
     "en": "  NO GOOD TO EAT! SKINNY HUMAN NOT TASTE{SAUT}GOOD, LIKE EATING TOOTHPICK...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  PAS BON À MANGER! HUMAIN MAIGRE PAS{SAUT}BON, COMME UN CURE-DENT...(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0505",
     "en": "  YOU STUPID... ME DISAPPOINTED.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  TOI BÊTE... MOI DÉÇU.(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0506",
     "en": " YOU SUSPICIOUS... ME NO WANT ANYTHING{SAUT}FUNNY...(*RESPONSE*)",
-    "fr": ""
+    "fr": " TOI LOUCHE... MOI PAS VOULOIR DE TRUC{SAUT}BIZARRE...(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0507",
     "en": " AWOOOO! ME DO INCREDIBLE THING!{SAUT}ME LOOKING FORWARD!(*RESPONSE*)",
-    "fr": ""
+    "fr": " AWOOOO! MOI FAIRE TRUC INCROYABLE!{SAUT}MOI IMPATIENT!(*RESPONSE*)"
   },
   {
     "id": "KEMONO.BIN:text:0508",
     "en": "ROAAAAR! ME ACCEPT FIGHT YOU PICK!(*RESPONSE*)",
-    "fr": ""
+    "fr": "ROAAAAR! MOI ACCEPTER TON DÉFI!(*RESPONSE*)"
   }
 ]
