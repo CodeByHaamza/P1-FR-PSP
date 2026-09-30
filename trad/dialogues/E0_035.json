@@ -323,14 +323,14 @@
     "locuteur": "Maki",
     "en": "I didn't think the compact let you do{SAUT}that much...{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": ""
+    "fr": "Je ne savais pas que le poudrier{SAUT}pouvait autant...{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0050",
     "locuteur": "Mark",
     "en": "Don't worry, Reiji. We'll come back{SAUT}for you.{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": ""
+    "fr": "T'inquiète, Reiji. On revient{SAUT}te chercher.{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0051",
@@ -351,42 +351,42 @@
     "locuteur": "Mark",
     "en": "Heh! That was nothin'. No way I'm{SAUT}goin' down before you do.{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": ""
+    "fr": "Hé! C'était rien. Pas question{SAUT}que je tombe avant toi.{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0054",
     "locuteur": "Reiji",
     "en": "You got one hell of a mouth...{SAUT}Better not forget those words.{ATTENTE}",
     "locuteur_fr": "Reiji",
-    "fr": ""
+    "fr": "Tu as une sacrée grande gueule...{SAUT}N'oublie pas ces mots.{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0055",
     "locuteur": "Mark",
     "en": "You know it.{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": ""
+    "fr": "Tu me connais.{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0056",
     "locuteur": "Mark",
     "en": "Looks like Reiji's finally starting to{SAUT}come out of his shell.{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": ""
+    "fr": "On dirait que Reiji sort enfin{SAUT}de sa coquille.{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0057",
     "locuteur": "Elly",
     "en": "We shouldn't be so quick to complain.{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": ""
+    "fr": "Ne nous plaignons pas si vite.{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0058",
     "locuteur": "Brown",
     "en": "We can't always be running off with our{SAUT}tails between our legs.{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": ""
+    "fr": "On ne peut pas toujours fuir la{SAUT}queue entre les jambes.{ATTENTE}"
   },
   {
     "id": "E0.BIN:135:0059",
@@ -400,6 +400,6 @@
     "locuteur": "Ayase",
     "en": "If we don't do anything, like, my future{SAUT}boyfriend's gonna die too, huh?{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": ""
+    "fr": "Si on fait rien, genre, mon futur{SAUT}copain va mourir aussi, non?{ATTENTE}"
   }
 ]
