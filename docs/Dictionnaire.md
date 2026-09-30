@@ -247,6 +247,38 @@
 
 ---
 
+## ＊marqueurs d'action＊
+
+Le jeu note certaines actions entre `＊` pleine largeur : `＊sigh＊`, `＊gasp＊`.
+Ce sont des **mots**, pas des codes : ils se traduisent. Mais un même mot anglais
+doit toujours donner le même mot français, sinon le joueur croit à deux gestes
+différents. Une forme par marqueur, sans exception :
+
+| anglais | français | anglais | français |
+|---|---|---|---|
+| ＊ahem＊ | ＊hum＊ | ＊shiver＊ / ＊shudder＊ | ＊frisson＊ |
+| ＊bleep＊ | ＊biiip＊ | ＊sigh＊ | ＊soupir＊ |
+| ＊blub＊ / ＊glub＊ | ＊glub＊ | ＊smirk＊ / ＊snort＊ | ＊ricane＊ |
+| ＊blush＊ | ＊rougit＊ | ＊sniffle＊ | ＊snif＊ |
+| ＊cough＊ | ＊tousse＊ | ＊sob＊ | ＊sanglot＊ |
+| ＊crackle＊ | ＊grésille＊ | ＊splat＊ | ＊splat＊ |
+| ＊gasp＊ | ＊hoquet＊ | ＊squeal＊ | ＊cri＊ |
+| ＊giggle＊ | ＊pouffe＊ | ＊ulp＊ / ＊gulp＊ / ＊glug＊ | ＊gloup＊ |
+| ＊hic＊ | ＊hic＊ | ＊urrrrp＊ | ＊rrrot＊ |
+| ＊pant＊ / ＊huff＊ | ＊halète＊ | ＊whimper＊ / ＊whine＊ | ＊gémit＊ |
+| ＊puke＊ / ＊gag＊ | ＊vomit＊ | ＊whistle＊ | ＊sifflement＊ |
+| ＊ring＊ | ＊dring＊ | ＊yawn＊ | ＊bâille＊ |
+|  |  | ＊yip＊ | ＊ouaf＊ |
+
+**Une seule exception, et elle est voulue : `＊sniff＊` a deux sens en jeu.**
+Quand le personnage pleure, c'est `＊snif＊` ; quand il flaire (« I can smell
+lies »), c'est `＊renifle＊`. Le contexte tranche.
+
+⚠️ Les `＊` allongés suivent l'anglais : `＊siiigh＊` → `＊souuupir＊`.
+
+⚠️ `＊I＊` n'est pas une action mais une **emphase** sur le mot : il faut
+souligner le mot français correspondant, pas recopier le mot anglais.
+
 ## 🏷️ Noms de l'EBOOT (objets / armes / armures / sorts / démons / Personae)
 
 Source : EBOOT **déchiffré**, extraits par `game/tools/_ancien_pipeline/p1_names.py` (ancien pipeline) → `game/scripts/names/names_eboot.json`
