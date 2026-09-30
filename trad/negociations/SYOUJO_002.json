@@ -250,12 +250,12 @@
   {
     "id": "SYOUJO.BIN:text:0150",
     "en": "  What's wrong with you? Stop making fun{SAUT}of me... ＊sniff＊(*RESPONSE*)",
-    "fr": "  Qu'est-ce qui va pas chez toi? Arrête{SAUT}de te moquer... ＊renifle＊(*RESPONSE*)"
+    "fr": "  Qu'est-ce qui va pas chez toi? Arrête{SAUT}de te moquer... ＊snif＊(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0151",
     "en": "I'm just a cute girl...＊sniff＊ ＊sniff＊(*RESPONSE*)",
-    "fr": "Je suis qu'une gentille fille...＊renifle＊(*RESPONSE*)"
+    "fr": "Je suis juste mignonne...＊snif＊ ＊snif＊(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0152",
