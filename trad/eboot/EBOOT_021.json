@@ -2,475 +2,475 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_27C3F6",
     "en": "                                                                                       Absorb: 100% Physical{SAUT}",
-    "fr": "                                                                                     Absorbe : 100% Physique{SAUT}",
+    "fr": "                                                                                     Absorbe: 100% Physique{SAUT}",
     "max": 108,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C4FA",
     "en": "                                                                                     Null: Wind{SAUT}",
-    "fr": "                                                                                  Annule : Vent{SAUT}",
+    "fr": "                                                                                  Annule: Vent{SAUT}",
     "max": 95
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C5BA",
     "en": "Weak: Gun{FERME}",
-    "fr": "Faible : Tir{FERME}",
+    "fr": "Faible: Tir{FERME}",
     "max": 9,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C5CE",
     "en": "                                                                                                           Absorb: 100% Earth{SAUT}",
-    "fr": "                                                                                                         Absorbe : 100% Terre{SAUT}",
+    "fr": "                                                                                                         Absorbe: 100% Terre{SAUT}",
     "max": 125
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C6CA",
     "en": "Weak: Wind, Blast{FERME}",
-    "fr": "Faible : Vent, Éclat{FERME}",
+    "fr": "Faible: Vent, Éclat{FERME}",
     "max": 17
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C6EE",
     "en": "                                                                                           Strong: Element{SAUT}",
-    "fr": "                                                                                           Fort : Éléments{SAUT}",
+    "fr": "                                                                                           Fort: Éléments{SAUT}",
     "max": 106
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C7C4",
     "en": "Weak: Force{FERME}",
-    "fr": "Faible : Force{FERME}",
+    "fr": "Faible: Force{FERME}",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C7DC",
     "en": "                                                                                                    Repel: 50% Electric{SAUT}",
-    "fr": "                                                                                                    Renvoie : 50% Élec{SAUT}",
+    "fr": "                                                                                                    Renvoie: 50% Élec{SAUT}",
     "max": 119
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C8CC",
     "en": "Weak: Fire, Ice, Wind, Earth{FERME}",
-    "fr": "Faible : Feu, Gel, Vent, Terre{FERME}",
+    "fr": "Faible: Feu, Gel, Vent, Terre{FERME}",
     "max": 28,
     "_occurrences": 7
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27C906",
     "en": "                                                                               Repel: 50% Nuclear{SAUT}",
-    "fr": "                                                                              Renvoie : 50% Atome{SAUT}",
+    "fr": "                                                                              Renvoie: 50% Atome{SAUT}",
     "max": 97
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27CA04",
     "en": "                                                                                Repel: 50% Blast{SAUT}",
-    "fr": "                                                                             Renvoie : 50% Éclat{SAUT}",
+    "fr": "                                                                             Renvoie: 50% Éclat{SAUT}",
     "max": 96
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27CB00",
     "en": "                                                                                  Repel: 50% Gravity{SAUT}",
-    "fr": "                                                                               Renvoie : 50% Gravité{SAUT}",
+    "fr": "                                                                               Renvoie: 50% Gravité{SAUT}",
     "max": 100
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27CC04",
     "en": "                                                                                Absorb: 100% Fire{SAUT}",
-    "fr": "                                                                               Absorbe : 100% Feu{SAUT}",
+    "fr": "                                                                               Absorbe: 100% Feu{SAUT}",
     "max": 97
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27CCC8",
     "en": "Weak: Ice, Wind, Earth{FERME}",
-    "fr": "Faible : Gel, Vent, Terre{FERME}",
+    "fr": "Faible: Gel, Vent, Terre{FERME}",
     "max": 22
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27CCF6",
     "en": "                                                                                       Absorb: 100% Ice{SAUT}",
-    "fr": "                                                                                     Absorbe : 100% Gel{SAUT}",
+    "fr": "                                                                                     Absorbe: 100% Gel{SAUT}",
     "max": 103
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27CDC6",
     "en": "Weak: Fire, Wind, Earth{FERME}",
-    "fr": "Faible : Feu, Vent, Terre{FERME}",
+    "fr": "Faible: Feu, Vent, Terre{FERME}",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27CDF6",
     "en": "                                                                                       Absorb: 100% Wind{SAUT}",
-    "fr": "                                                                                     Absorbe : 100% Vent{SAUT}",
+    "fr": "                                                                                     Absorbe: 100% Vent{SAUT}",
     "max": 104
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27CEC8",
     "en": "Weak: Fire, Ice, Earth{FERME}",
-    "fr": "Faible : Feu, Gel, Terre{FERME}",
+    "fr": "Faible: Feu, Gel, Terre{FERME}",
     "max": 22
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27CEF6",
     "en": "                                                                                       Absorb: 100% Earth{SAUT}",
-    "fr": "                                                                                     Absorbe : 100% Terre{SAUT}",
+    "fr": "                                                                                     Absorbe: 100% Terre{SAUT}",
     "max": 105
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27CFCA",
     "en": "Weak: Fire, Ice, Wind{FERME}",
-    "fr": "Faible : Feu, Gel, Vent{FERME}",
+    "fr": "Faible: Feu, Gel, Vent{FERME}",
     "max": 21
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27CFF6",
     "en": "                                                                                       Strong: Element, Force{SAUT}",
-    "fr": "                                                                                       Fort : Éléments, Force{SAUT}",
+    "fr": "                                                                                       Fort: Éléments, Force{SAUT}",
     "max": 109
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27D2FA",
     "en": "                                                                                     Strong: Physical{SAUT}",
-    "fr": "                                                                                     Fort : Physique{SAUT}",
+    "fr": "                                                                                     Fort: Physique{SAUT}",
     "max": 101
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27D3F0",
     "en": "                                                                                          Null: Weapons, Force{SAUT}",
-    "fr": "                                                                                         Annule : Armes, Force{SAUT}",
+    "fr": "                                                                                         Annule: Armes, Force{SAUT}",
     "max": 110
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27D4E2",
     "en": "                                                                                                 Strong: Nuclear, Blast, Gravity, Electric{SAUT}",
-    "fr": "                                                                                                 Fort : Atome, Éclat, Gravité, Élec{SAUT}",
+    "fr": "                                                                                                 Fort: Atome, Éclat, Gravité, Élec{SAUT}",
     "max": 138
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27D632",
     "en": "                                                         Null: Gun{SAUT}",
-    "fr": "                                                      Annule : Tir{SAUT}",
+    "fr": "                                                      Annule: Tir{SAUT}",
     "max": 66
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27D6E2",
     "en": "                                                                                                 Weak: Element, Force{FERME}",
-    "fr": "                                                                                             Faible : Éléments, Force{FERME}",
+    "fr": "                                                                                             Faible: Éléments, Force{FERME}",
     "max": 117
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27D7CE",
     "en": "                                                                                                           Strong: Nuclear, Blast, Gravity, Electric{SAUT}",
-    "fr": "                                                                                                           Fort : Atome, Éclat, Gravité, Élec{SAUT}",
+    "fr": "                                                                                                           Fort: Atome, Éclat, Gravité, Élec{SAUT}",
     "max": 148
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27D932",
     "en": "                                                         Null: Sword, Spear, Arrow{SAUT}",
-    "fr": "                                                      Annule : Épée, Lance, Flèche{SAUT}",
+    "fr": "                                                      Annule: Épée, Lance, Flèche{SAUT}",
     "max": 82
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27DA12",
     "en": "                                                                         Strong: Magic{SAUT}",
-    "fr": "                                                                         Fort : Magie{SAUT}",
+    "fr": "                                                                         Fort: Magie{SAUT}",
     "max": 86
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27DADE",
     "en": "                                                                                                   Absorb: 100% Fire, Death{SAUT}",
-    "fr": "                                                                                                   Absorbe : 100% Feu, Mort{SAUT}",
+    "fr": "                                                                                                   Absorbe: 100% Feu, Mort{SAUT}",
     "max": 123
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27DBD6",
     "en": "Weak: Ice{FERME}",
-    "fr": "Faible : Gel{FERME}",
+    "fr": "Faible: Gel{FERME}",
     "max": 9
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27DBEA",
     "en": "                                                                                             Repel: 50% Physical{SAUT}",
-    "fr": "                                                                                          Renvoie : 50% Physique{SAUT}",
+    "fr": "                                                                                          Renvoie: 50% Physique{SAUT}",
     "max": 112
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27DCF6",
     "en": "                                                                                       Absorb: 100% Phys, Death{SAUT}",
-    "fr": "                                                                                      Absorbe : 100% Phys, Mort{SAUT}",
+    "fr": "                                                                                      Absorbe: 100% Phys, Mort{SAUT}",
     "max": 111
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27DE00",
     "en": "                                                                                  Repel: 50% Element, Force{SAUT}",
-    "fr": "                                                                              Renvoie : 50% Éléments, Force{SAUT}",
+    "fr": "                                                                              Renvoie: 50% Éléments, Force{SAUT}",
     "max": 107
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27DED8",
     "en": "Weak: Rush, Expel, Miracle{FERME}",
-    "fr": "Faible : Ruée, Expel, Miracle{FERME}",
+    "fr": "Faible: Ruée, Expel, Miracle{FERME}",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27DF0E",
     "en": "                                                                           Null: All magic besides Expel, Death{SAUT}",
-    "fr": "                                                                           Annule : Magie sauf Expel, Mort{SAUT}",
+    "fr": "                                                                           Annule: Magie sauf Expel, Mort{SAUT}",
     "max": 111
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27E00C",
     "en": "                                                                            Absorb: 100% Element, Force{SAUT}",
-    "fr": "                                                                         Absorbe : 100% Éléments, Force{SAUT}",
+    "fr": "                                                                         Absorbe: 100% Éléments, Force{SAUT}",
     "max": 103
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27E0FA",
     "en": "                                                                                     Null: Tech, Rush{SAUT}",
-    "fr": "                                                                                  Annule : Tech, Ruée{SAUT}",
+    "fr": "                                                                                  Annule: Tech, Ruée{SAUT}",
     "max": 101
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27E1C6",
     "en": "Weak: Whip, Gun{FERME}",
-    "fr": "Faible : Fouet, Tir{FERME}",
+    "fr": "Faible: Fouet, Tir{FERME}",
     "max": 15,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27E1E6",
     "en": "                                                                                               Repel: 200% Gun{SAUT}",
-    "fr": "                                                                                            Renvoie : 200% Tir{SAUT}",
+    "fr": "                                                                                            Renvoie: 200% Tir{SAUT}",
     "max": 110
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27E2C4",
     "en": "Resist: Magic{FERME}",
-    "fr": "Résiste : Magie{FERME}",
+    "fr": "Résiste: Magie{FERME}",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27E2E0",
     "en": "                                                                                                  Null: Gun, Tech, Rush{SAUT}",
-    "fr": "                                                                                               Annule : Tir, Tech, Ruée{SAUT}",
+    "fr": "                                                                                               Annule: Tir, Tech, Ruée{SAUT}",
     "max": 119
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27E3D0",
     "en": "Weak: Sword, Fire, Expel{FERME}",
-    "fr": "Faible : Épée, Feu, Expel{FERME}",
+    "fr": "Faible: Épée, Feu, Expel{FERME}",
     "max": 24
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27E402",
     "en": "                                                                                 Null: Physical{SAUT}",
-    "fr": "                                                                              Annule : Physique{SAUT}",
+    "fr": "                                                                              Annule: Physique{SAUT}",
     "max": 95
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27E4C2",
     "en": "Weak: Expel{FERME}",
-    "fr": "Faible : Expel{FERME}",
+    "fr": "Faible: Expel{FERME}",
     "max": 11
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27E4DA",
     "en": "                                                                                                     Strong: Physical, Magic{SAUT}",
-    "fr": "                                                                                                     Fort : Physique, Magie{SAUT}",
+    "fr": "                                                                                                     Fort: Physique, Magie{SAUT}",
     "max": 124
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27E5D4",
     "en": "Weak: Spear, Expel{FERME}",
-    "fr": "Faible : Lance, Expel{FERME}",
+    "fr": "Faible: Lance, Expel{FERME}",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27E5FA",
     "en": "                                                                                     Null: Fire, Ice, Wind, Earth{SAUT}",
-    "fr": "                                                                                   Annule : Feu, Gel, Vent, Terre{SAUT}",
+    "fr": "                                                                                   Annule: Feu, Gel, Vent, Terre{SAUT}",
     "max": 113
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27E6DE",
     "en": "Weak: Axe, Expel, Miracle{FERME}",
-    "fr": "Faible : Hache, Expel, Miracle{FERME}",
+    "fr": "Faible: Hache, Expel, Miracle{FERME}",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27E712",
     "en": "                                                                         Strong: Physical{SAUT}",
-    "fr": "                                                                         Fort : Physique{SAUT}",
+    "fr": "                                                                         Fort: Physique{SAUT}",
     "max": 89
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27E7C6",
     "en": "Weak: Thrown, Expel, Miracle{FERME}",
-    "fr": "Faible : Jet, Expel, Miracle{FERME}",
+    "fr": "Faible: Jet, Expel, Miracle{FERME}",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27E800",
     "en": "                                                                                  Resist: Element, Force{SAUT}",
-    "fr": "                                                                               Résiste : Éléments, Force{SAUT}",
+    "fr": "                                                                               Résiste: Éléments, Force{SAUT}",
     "max": 104
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27E8D2",
     "en": "Weak: Death, Curse{FERME}",
-    "fr": "Faible : Mort, Curse{FERME}",
+    "fr": "Faible: Mort, Curse{FERME}",
     "max": 18
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27E8F8",
     "en": "                                                                                      Absorb: 100% Fire, Expel{SAUT}",
-    "fr": "                                                                                     Absorbe : 100% Feu, Expel{SAUT}",
+    "fr": "                                                                                     Absorbe: 100% Feu, Expel{SAUT}",
     "max": 110
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27E9D6",
     "en": "Vulnerable: Ice{FERME}",
-    "fr": "Faible : Gel{FERME}",
+    "fr": "Faible: Gel{FERME}",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27E9F6",
     "en": "                                                                                       Absorb: 100% Ice, Expel{SAUT}",
-    "fr": "                                                                                     Absorbe : 100% Gel, Expel{SAUT}",
+    "fr": "                                                                                     Absorbe: 100% Gel, Expel{SAUT}",
     "max": 110
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27EAD4",
     "en": "Vulnerable: Fire{FERME}",
-    "fr": "Faible : Feu{FERME}",
+    "fr": "Faible: Feu{FERME}",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27EAF6",
     "en": "                                                                                       Absorb: 100% Earth, Expel{SAUT}",
-    "fr": "                                                                                     Absorbe : 100% Terre, Expel{SAUT}",
+    "fr": "                                                                                     Absorbe: 100% Terre, Expel{SAUT}",
     "max": 112
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27EBD8",
     "en": "Vulnerable: Wind{FERME}",
-    "fr": "Faible : Vent{FERME}",
+    "fr": "Faible: Vent{FERME}",
     "max": 16
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27EBFA",
     "en": "                                                                                     Absorb: 100% Electric, Expel{SAUT}",
-    "fr": "                                                                                     Absorbe : 100% Élec, Expel{SAUT}",
+    "fr": "                                                                                     Absorbe: 100% Élec, Expel{SAUT}",
     "max": 113
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27ECDE",
     "en": "Vulnerable: Nuclear{FERME}",
-    "fr": "Faible : Atome{FERME}",
+    "fr": "Faible: Atome{FERME}",
     "max": 19
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27ED06",
     "en": "                                                                               Strong: Element, Force{SAUT}",
-    "fr": "                                                                               Fort : Éléments, Force{SAUT}",
+    "fr": "                                                                               Fort: Éléments, Force{SAUT}",
     "max": 101
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27EECC",
     "en": "Weak: Magic{FERME}",
-    "fr": "Faible : Magie{FERME}",
+    "fr": "Faible: Magie{FERME}",
     "max": 11,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27EEE4",
     "en": "                                                                                                Repel: 100% Physical{SAUT}",
-    "fr": "                                                                                             Renvoie : 100% Physique{SAUT}",
+    "fr": "                                                                                             Renvoie: 100% Physique{SAUT}",
     "max": 116
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27EFE6",
     "en": "                                                                                               Repel: 50% Element, Force{SAUT}",
-    "fr": "                                                                                           Renvoie : 50% Éléments, Force{SAUT}",
+    "fr": "                                                                                           Renvoie: 50% Éléments, Force{SAUT}",
     "max": 120
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27F0D8",
     "en": "Weak: Spear, Death, Curse{FERME}",
-    "fr": "Faible : Lance, Mort, Curse{FERME}",
+    "fr": "Faible: Lance, Mort, Curse{FERME}",
     "max": 25,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27F10C",
     "en": "                                                                            Null: Element, Force{SAUT}",
-    "fr": "                                                                        Annule : Éléments, Force{SAUT}",
+    "fr": "                                                                        Annule: Éléments, Force{SAUT}",
     "max": 96
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27F1EC",
     "en": "                                                                                            Strong: Physical{SAUT}",
-    "fr": "                                                                                            Fort : Physique{SAUT}",
+    "fr": "                                                                                            Fort: Physique{SAUT}",
     "max": 108
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27F2F0",
     "en": "                                                                                          Null: Tech, Rush{SAUT}",
-    "fr": "                                                                                       Annule : Tech, Ruée{SAUT}",
+    "fr": "                                                                                       Annule: Tech, Ruée{SAUT}",
     "max": 106
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27F3E6",
     "en": "                                                                                               Resist: Element, Force{SAUT}",
-    "fr": "                                                                                            Résiste : Éléments, Force{SAUT}",
+    "fr": "                                                                                            Résiste: Éléments, Force{SAUT}",
     "max": 117
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27F4D2",
     "en": "Weak: Axe, Death, Curse{FERME}",
-    "fr": "Faible : Hache, Mort, Curse{FERME}",
+    "fr": "Faible: Hache, Mort, Curse{FERME}",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27F502",
     "en": "                                                                                 Resist: Element, Force{SAUT}",
-    "fr": "                                                                              Résiste : Éléments, Force{SAUT}",
+    "fr": "                                                                              Résiste: Éléments, Force{SAUT}",
     "max": 103
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27F5D2",
     "en": "Weak: Axe, Arrow, Fist{FERME}",
-    "fr": "Faible : Hache, Flèche, Poing{FERME}",
+    "fr": "Faible: Hache, Flèche, Poing{FERME}",
     "max": 22
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27F600",
     "en": "                                                                                  Resist: Gun{SAUT}",
-    "fr": "                                                                                Résiste : Tir{SAUT}",
+    "fr": "                                                                                Résiste: Tir{SAUT}",
     "max": 93
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27F6BC",
     "en": "Weak: Thrown, Death, Curse{FERME}",
-    "fr": "Faible : Jet, Mort, Curse{FERME}",
+    "fr": "Faible: Jet, Mort, Curse{FERME}",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27F6F2",
     "en": "                                                                                         Repel: 50% Element, Force{SAUT}",
-    "fr": "                                                                                     Renvoie : 50% Éléments, Force{SAUT}",
+    "fr": "                                                                                     Renvoie: 50% Éléments, Force{SAUT}",
     "max": 114
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27F80C",
     "en": "                                                                            Strong: All attacks{FERME}",
-    "fr": "                                                                            Fort : Tout{FERME}",
+    "fr": "                                                                            Fort: Tout{FERME}",
     "max": 95
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2819B4",
     "en": "                                                                                                                        Strong: Everything{FERME}",
-    "fr": "                                                                                                                        Fort : Tout{FERME}",
+    "fr": "                                                                                                                        Fort: Tout{FERME}",
     "max": 138
   },
   {

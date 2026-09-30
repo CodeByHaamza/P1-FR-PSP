@@ -45,7 +45,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_264360",
     "en": "access indicator will blink during{SAUT}",
-    "fr": "clignote pendant la sauvegarde : ne{SAUT}",
+    "fr": "clignote pendant la sauvegarde: ne{SAUT}",
     "max": 34
   },
   {
@@ -427,7 +427,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_277EA0",
     "en": "Instant Curse kill (1 foe)(*TERMINATOR*)",
-    "fr": "Curse : tue net (1 enn.)(*TERMINATOR*)",
+    "fr": "Curse: tue net (1 enn.)(*TERMINATOR*)",
     "max": 26
   },
   {
