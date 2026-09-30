@@ -41,7 +41,7 @@ Ces lignes sont plus larges que l'anglaise et approchent de la limite de la boî
 - [`E1_008.json`](trad/dialogues/E1_008.json) — 1 ligne
 - [`E1_009.json`](trad/dialogues/E1_009.json) — 2 lignes
 - [`E1_013.json`](trad/dialogues/E1_013.json) — 3 lignes
-- [`E1_016.json`](trad/dialogues/E1_016.json) — 10 lignes
+- [`E1_016.json`](trad/dialogues/E1_016.json) — 9 lignes
 - [`E1_018.json`](trad/dialogues/E1_018.json) — 11 lignes
 - [`E1_019.json`](trad/dialogues/E1_019.json) — 2 lignes
 - [`E1_022.json`](trad/dialogues/E1_022.json) — 9 lignes
@@ -165,7 +165,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_026.json`](trad/dialogues/E0_026.json) | 77 | 77 | 100 % | terminé |
 | [`E0_027.json`](trad/dialogues/E0_027.json) | 40 | 40 | 100 % | terminé |
 | [`E0_028.json`](trad/dialogues/E0_028.json) | 78 | 78 | 100 % | terminé par @vikmorp · 3 trop large |
-| [`E0_029.json`](trad/dialogues/E0_029.json) | 55 | 5 | 9 % | en cours par @CodeByHaamza (#102) |
+| [`E0_029.json`](trad/dialogues/E0_029.json) | 55 | 5 | 9 % | commencé |
 | [`E0_030.json`](trad/dialogues/E0_030.json) | 100 | 100 | 100 % | terminé |
 | [`E0_031.json`](trad/dialogues/E0_031.json) | 74 | 6 | 8 % | commencé |
 | [`E0_032.json`](trad/dialogues/E0_032.json) | 100 | 11 | 11 % | commencé |
@@ -182,16 +182,16 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_043.json`](trad/dialogues/E0_043.json) | 100 | 43 | 43 % | commencé par @Colonel-Maskou · 1 trop large |
 | [`E0_044.json`](trad/dialogues/E0_044.json) | 100 | 100 | 100 % | terminé · 2 trop large |
 | [`E0_045.json`](trad/dialogues/E0_045.json) | 100 | 30 | 30 % | commencé |
-| [`E0_046.json`](trad/dialogues/E0_046.json) | 92 | 12 | 13 % | en cours par @CodeByHaamza (#102) |
+| [`E0_046.json`](trad/dialogues/E0_046.json) | 92 | 12 | 13 % | commencé |
 | [`E0_047.json`](trad/dialogues/E0_047.json) | 69 | 2 | 3 % | commencé |
 | [`E0_048.json`](trad/dialogues/E0_048.json) | 50 | 50 | 100 % | terminé par @Gyotre, @ATMC14 |
-| [`E1_001.json`](trad/dialogues/E1_001.json) | 80 | 77 | 96 % | en cours par @CodeByHaamza (#102) · 3 trop large |
+| [`E1_001.json`](trad/dialogues/E1_001.json) | 80 | 77 | 96 % | commencé · 3 trop large |
 | [`E1_002.json`](trad/dialogues/E1_002.json) | 100 | 99 | 99 % | commencé · 1 trop large |
 | [`E1_003.json`](trad/dialogues/E1_003.json) | 94 | 94 | 100 % | terminé |
 | [`E1_004.json`](trad/dialogues/E1_004.json) | 87 | 4 | 5 % | commencé |
 | [`E1_005.json`](trad/dialogues/E1_005.json) | 81 | 1 | 1 % | commencé |
 | [`E1_006.json`](trad/dialogues/E1_006.json) | 77 | 37 | 48 % | commencé |
-| [`E1_007.json`](trad/dialogues/E1_007.json) | 97 | 1 | 1 % | en cours par @CodeByHaamza (#102) |
+| [`E1_007.json`](trad/dialogues/E1_007.json) | 97 | 1 | 1 % | commencé |
 | [`E1_008.json`](trad/dialogues/E1_008.json) | 74 | 19 | 26 % | commencé par @vikmorp · 1 trop large |
 | [`E1_009.json`](trad/dialogues/E1_009.json) | 75 | 27 | 36 % | commencé · 2 trop large |
 | [`E1_010.json`](trad/dialogues/E1_010.json) | 63 | 63 | 100 % | terminé |
@@ -200,7 +200,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E1_013.json`](trad/dialogues/E1_013.json) | 60 | 60 | 100 % | terminé par @Uolil-Raccoon · 3 trop large |
 | [`E1_014.json`](trad/dialogues/E1_014.json) | 43 | 43 | 100 % | terminé |
 | [`E1_015.json`](trad/dialogues/E1_015.json) | 65 | 1 | 2 % | commencé |
-| [`E1_016.json`](trad/dialogues/E1_016.json) | 100 | 100 | 100 % | terminé par @Uolil-Raccoon · 10 trop large |
+| [`E1_016.json`](trad/dialogues/E1_016.json) | 100 | 100 | 100 % | terminé par @Uolil-Raccoon · 9 trop large |
 | [`E1_017.json`](trad/dialogues/E1_017.json) | 38 | 38 | 100 % | terminé |
 | [`E1_018.json`](trad/dialogues/E1_018.json) | 100 | 100 | 100 % | terminé par @Uolil-Raccoon · 11 trop large |
 | [`E1_019.json`](trad/dialogues/E1_019.json) | 46 | 46 | 100 % | terminé · 2 trop large |
@@ -213,7 +213,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E1_026.json`](trad/dialogues/E1_026.json) | 97 | 97 | 100 % | terminé · 5 trop large |
 | [`E1_027.json`](trad/dialogues/E1_027.json) | 89 | 8 | 9 % | commencé |
 | [`E1_028.json`](trad/dialogues/E1_028.json) | 79 | 79 | 100 % | terminé · 2 trop large |
-| [`E1_029.json`](trad/dialogues/E1_029.json) | 99 | 23 | 23 % | en cours par @CodeByHaamza (#102) |
+| [`E1_029.json`](trad/dialogues/E1_029.json) | 99 | 23 | 23 % | commencé |
 | [`E1_030.json`](trad/dialogues/E1_030.json) | 96 | 96 | 100 % | terminé · 2 trop large |
 | [`E1_031.json`](trad/dialogues/E1_031.json) | 97 | 28 | 29 % | commencé · 1 trop large |
 | [`E2_001.json`](trad/dialogues/E2_001.json) | 95 | 29 | 31 % | commencé · 2 trop large |
@@ -224,7 +224,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E2_006.json`](trad/dialogues/E2_006.json) | 92 | 32 | 35 % | commencé |
 | [`E2_007.json`](trad/dialogues/E2_007.json) | 99 | 7 | 7 % | commencé |
 | [`E2_008.json`](trad/dialogues/E2_008.json) | 99 | 39 | 39 % | commencé · 2 trop large |
-| [`E2_009.json`](trad/dialogues/E2_009.json) | 97 | 36 | 37 % | en cours par @CodeByHaamza (#102) · 1 trop large |
+| [`E2_009.json`](trad/dialogues/E2_009.json) | 97 | 36 | 37 % | commencé · 1 trop large |
 | [`E2_010.json`](trad/dialogues/E2_010.json) | 97 | 0 | 0 % | en cours par @Uolil-Raccoon (#87) |
 | [`E2_011.json`](trad/dialogues/E2_011.json) | 90 | 0 | 0 % | libre |
 | [`E2_012.json`](trad/dialogues/E2_012.json) | 91 | 4 | 4 % | commencé |
