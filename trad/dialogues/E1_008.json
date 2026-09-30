@@ -4,7 +4,7 @@
     "locuteur": "Yukino",
     "en": "This is... the fencing club room.{SAUT}Which means...{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "C'est... la salle du club d'escrime.{SAUT}Ça veut dire que...{ATTENTE}"
+    "fr": "C'est... la salle d'escrime.{SAUT}Ce qui veut dire...{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0001",
@@ -67,14 +67,14 @@
     "locuteur": "Ayase",
     "en": "Omigawd! I knew it!{ATTENTE}",
     "locuteur_fr": "",
-    "fr": "Oh mon Dieu! Je le savais!{ATTENTE}"
+    "fr": "La vache! Je le savais!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0010",
     "locuteur": "Tadashi",
     "en": "Honey... look into my eyes...!{ATTENTE}",
     "locuteur_fr": "Tadashi",
-    "fr": "Chérie... regarde-moi dans les yeux...!{ATTENTE}"
+    "fr": "Chérie... regarde-moi bien...!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0011",
@@ -214,7 +214,7 @@
     "locuteur": "Tadashi",
     "en": "You're really rude, you know that?{ATTENTE}",
     "locuteur_fr": "Tadashi",
-    "fr": "Vous êtes vraiment malpolis, vous savez?{ATTENTE}"
+    "fr": "Vous êtes vraiment malpolis, non?{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0031",
@@ -226,7 +226,7 @@
     "locuteur": "Tamaki",
     "en": "Stop getting in our way! If you ruin{SAUT}this moment...!{ATTENTE}",
     "locuteur_fr": "Tamaki",
-    "fr": "Arrêtez de vous mettre en travers!{SAUT}Si vous gâchez ce moment...!{ATTENTE}"
+    "fr": "Ne vous mettez pas en travers!{SAUT}Si vous gâchez ça...!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0033",

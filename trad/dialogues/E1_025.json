@@ -130,7 +130,7 @@
     "locuteur": "Nanjo",
     "en": "Go ahead, pull the other one.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "C'est le comble! Vous en avez d'autres?{ATTENTE}"
+    "fr": "Vous en avez d'autres?{ATTENTE}"
   },
   {
     "id": "E1.BIN:129:0019",
@@ -221,7 +221,7 @@
     "locuteur": "Ayase",
     "en": "I don't think she's all that bad. {PAUSE}[1E00]I...{SAUT}I can't explain it, but...{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "Je ne pense pas qu'elle soit méchante. {PAUSE}[1E00]Je...{SAUT}Je ne saurais pas l'expliquer, mais...{ATTENTE}"
+    "fr": "Je ne la crois pas méchante. {PAUSE}[1E00]Je...{SAUT}Je ne sais pas l'expliquer, mais...{ATTENTE}"
   },
   {
     "id": "E1.BIN:129:0032",
@@ -256,7 +256,7 @@
     "locuteur": "Yuriko",
     "en": "I had a lot of friends and a lot of guys{SAUT}who said they liked me.{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": "J'avais pleins d'amis, dont beaucoup de{SAUT}garçons qui en pinçaient pour moi.{ATTENTE}"
+    "fr": "J'avais plein d'amis, et des garçons{SAUT}qui en pinçaient pour moi.{ATTENTE}"
   },
   {
     "id": "E1.BIN:129:0037",
@@ -361,14 +361,14 @@
     "locuteur": "Yuriko",
     "en": "I was stupid for not wanting to die or{SAUT}grow old! Every human has to!{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": "J'ai été bête de rejeter la mort ou la{SAUT}vieillesse! Tout le monde passe par là!{ATTENTE}"
+    "fr": "J'ai été bête de refuser la mort et la{SAUT}vieillesse! Tout le monde y passe!{ATTENTE}"
   },
   {
     "id": "E1.BIN:129:0052",
     "locuteur": "Yuriko",
     "en": "That's why I fell for the Snow Queen's{SAUT}offer...{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": "C'est la raison pour laquelle j'ai{SAUT}accepté l'offre de la Reine des Neiges...{ATTENTE}"
+    "fr": "J'ai cédé à l'offre de la{SAUT}Reine des Neiges...{ATTENTE}"
   },
   {
     "id": "E1.BIN:129:0053",
@@ -480,7 +480,7 @@
     "locuteur": "Elly",
     "en": "The utter loneliness and bottomless grief{SAUT}you felt...{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "La solitude absolue et la désolation sans{SAUT}fond que tu ressentais...{ATTENTE}"
+    "fr": "La solitude absolue, le chagrin sans{SAUT}fond que tu ressentais...{ATTENTE}"
   },
   {
     "id": "E1.BIN:129:0069",
@@ -522,7 +522,7 @@
     "locuteur": "Yuriko",
     "en": "I can't thank you enough.{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": "Je ne vous remercierai jamais aasez.{ATTENTE}"
+    "fr": "Merci infiniment.{ATTENTE}"
   },
   {
     "id": "E1.BIN:129:0075",
@@ -543,7 +543,7 @@
     "locuteur": "Yuriko",
     "en": "I... {PAUSE}[1E00]I have to go {PAUSE}[1E00]now...{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": "Je... {PAUSE}[1E00]Je dois m'en aller {PAUSE}[1E00]maintenant...{ATTENTE}"
+    "fr": "Je... {PAUSE}[1E00]Je dois {PAUSE}[1E00]y aller...{ATTENTE}"
   },
   {
     "id": "E1.BIN:129:0078",
@@ -567,7 +567,7 @@
     "locuteur": "Yukino",
     "en": "Damn you, Snow Queen...{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Soit maudite, Reine des Neiges...{ATTENTE}"
+    "fr": "Sois maudite, Reine des Neiges...{ATTENTE}"
   },
   {
     "id": "E1.BIN:129:0084",
@@ -581,14 +581,14 @@
     "locuteur": "Yukino",
     "en": "Yuriko... We're doing this for you{SAUT}now, too!{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Yuriko... Maintenat, nous nous{SAUT}battrons pour toi aussi!{ATTENTE}"
+    "fr": "Yuriko... Nous nous battrons{SAUT}pour toi aussi!{ATTENTE}"
   },
   {
     "id": "E1.BIN:129:0086",
     "locuteur": "Yukino",
     "en": "So don't worry... rest well...{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Alors ne t'inquiète pas... repose toi...{ATTENTE}"
+    "fr": "Ne t'inquiète pas... repose-toi...{ATTENTE}"
   },
   {
     "id": "E1.BIN:129:0087",

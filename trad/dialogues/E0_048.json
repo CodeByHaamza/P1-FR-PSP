@@ -81,14 +81,14 @@
     "locuteur": "Mark",
     "en": "Look, there's no way I'm going!{SAUT}Forget it!{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Écoute, pas question que j'y aille!{SAUT}Laisse tomber!{ATTENTE}"
+    "fr": "Pas question que j'y aille!{SAUT}Laisse tomber!{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0012",
     "locuteur": "Maki",
     "en": "Sorry to keep you waiting! Huh...?{SAUT}What's wrong, guys?{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "Désolée de l'attente! Hein...?{SAUT}Qu'est-ce qui va pas, les amis?{ATTENTE}",
+    "fr": "Désolée de l'attente! Hein...?{SAUT}Ça va pas, les amis?{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -103,7 +103,7 @@
     "locuteur": "Nanjo",
     "en": "It seems Masao's cancelling today's{SAUT}plans. Such a pity...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Il paraît que Masao annule tout{SAUT}pour aujourd'hui. Quel dommage...{ATTENTE}"
+    "fr": "Il paraît que Masao annule tout.{SAUT}Quel dommage...{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0015",
@@ -195,7 +195,7 @@
     "locuteur": "Mark",
     "en": "Hey, looks like Mr. Smellypants{SAUT}is here.{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Tiens, voilà Monsieur Pue-du-slip{SAUT}qui débarque.{ATTENTE}"
+    "fr": "Tiens, Monsieur Pue-du-slip{SAUT}débarque.{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0030",
@@ -216,28 +216,28 @@
     "locuteur": "Mark",
     "en": "What the--Who told you that, you{SAUT}bastard!?{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Mais qu'est-ce que--Qui t'a dit ça,{SAUT}espèce de salaud!?{ATTENTE}"
+    "fr": "Mais--Qui t'a dit ça,{SAUT}espèce de salaud!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0033",
     "locuteur": "Brown",
     "en": "Mwahaha... Your mom gave me every last{SAUT}detail!{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "Mwahaha... Ta mère m'a tout raconté{SAUT}dans les moindres détails!{ATTENTE}"
+    "fr": "Mwahaha... Ta mère m'a tout raconté{SAUT}en détail!{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0034",
     "locuteur": "Brown",
     "en": "My, my, how shameful for a sixth-{SAUT}grader...{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "Oh là là, quelle honte pour un{SAUT}élève de sixième...{ATTENTE}"
+    "fr": "Oh là là, quelle honte pour un{SAUT}sixième...{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0035",
     "locuteur": "Mark",
     "en": "That stupid cow!{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Cette pipelette, sérieux!{ATTENTE}"
+    "fr": "Quelle pipelette!{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0036",
@@ -342,7 +342,7 @@
     "locuteur": "Brown",
     "en": "Man, you're bringing that up now?{SAUT}Cruel as ever, huh...?{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "Ah, tu remets ça sur le tapis{SAUT}maintenant? Cruel comme toujours...{ATTENTE}"
+    "fr": "Ah, tu remets ça maintenant?{SAUT}Cruel comme toujours...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:217:0055",

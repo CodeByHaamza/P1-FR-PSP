@@ -109,7 +109,7 @@
     "locuteur": "Mark",
     "en": "Is that Aki!? Chisato, listen, she's{SAUT}no angel!{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Elle parle d'Aki!? Chisato, écoute,{SAUT}elle... c'est pas un ange!{ATTENTE}"
+    "fr": "C'est Aki!? Chisato, écoute,{SAUT}c'est pas un ange!{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0016",
@@ -123,7 +123,7 @@
     "locuteur": "Harem Queen",
     "en": "That's what I thought at first.{SAUT}But that's not how it went.{ATTENTE}",
     "locuteur_fr": "Reine Harem",
-    "fr": "C'est ce que je pensais au début.{SAUT}Mais ça s'est pas passé comme ça.{ATTENTE}"
+    "fr": "Au début, je croyais ça.{SAUT}Mais ça s'est pas passé ainsi.{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0018",
@@ -187,14 +187,14 @@
     "locuteur": "Maki",
     "en": "What did you just say?{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "Qu'est-ce que tu viens de dire?{ATTENTE}"
+    "fr": "Tu as dit quoi?{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0027",
     "locuteur": "Harem Queen",
     "en": "I don't like Yosuke. In fact,{SAUT}I never did.{ATTENTE}",
     "locuteur_fr": "Reine Harem",
-    "fr": "Je n'aime pas Yosuke. En fait,{SAUT}Je l'ai jamais aimé.{ATTENTE}"
+    "fr": "J'aime pas Yosuke. En fait,{SAUT}je l'ai jamais aimé.{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0028",
@@ -215,7 +215,7 @@
     "locuteur": "Harem Queen",
     "en": "I started dating Yosuke because I knew{SAUT}you liked him!{ATTENTE}",
     "locuteur_fr": "Reine Harem",
-    "fr": "Je suis sortie avec Yosuke parce que je{SAUT}savais que tu l'aimais!{ATTENTE}"
+    "fr": "Je suis sortie avec Yosuke parce que{SAUT}tu l'aimais!{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0031",
@@ -264,7 +264,7 @@
     "locuteur": "Harem Queen",
     "en": "My art was better than yours, and you{SAUT}got all the attention!{ATTENTE}",
     "locuteur_fr": "Reine Harem",
-    "fr": "Mon art était meilleur que le tien,{SAUT}et toi tu recevais toute l'attention!{ATTENTE}"
+    "fr": "Mon art valait mieux que le tien,{SAUT}et c'est toi qu'on remarquait!{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0038",
@@ -334,28 +334,28 @@
     "locuteur": "Harem Queen",
     "en": "I said SHUT UP! {PAUSE}[2000](*APELLIDO_HEROE*)...{SAUT}Isn't my painting wonderful?{ATTENTE}",
     "locuteur_fr": "Reine Harem",
-    "fr": "J'ai dit de la FERMER! {PAUSE}[2000](*APELLIDO_HEROE*)...{SAUT}Ma peinture n'est-elle pas magnifique?{ATTENTE}"
+    "fr": "LA FERME! {PAUSE}[2000](*APELLIDO_HEROE*)...{SAUT}Elle n'est pas belle, ma peinture?{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0048",
     "locuteur": "Harem Queen",
     "en": "Everyone says so. They all say it's{SAUT}much better than Maki's trash!{ATTENTE}",
     "locuteur_fr": "Reine Harem",
-    "fr": "Tout le monde le dit. Ils disent tous{SAUT}que c'est mieux que les croûtes de Maki!{ATTENTE}"
+    "fr": "Tout le monde le dit. Bien mieux{SAUT}que les croûtes de Maki!{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0049",
     "locuteur": "Maki",
     "en": "Chisato... you hated me that much?{SAUT}I never knew...{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "Chisato... tu me détestais tant que ça?{SAUT}Je ne l'avais jamais su...{ATTENTE}"
+    "fr": "Chisato... tu me détestais à ce point?{SAUT}Je ne savais pas...{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0050",
     "locuteur": "Mark",
     "en": "Now I get why your paintings are{SAUT}so crappy!{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Maintenant, je sais pourquoi tes{SAUT}tableaux sont si nuls!{ATTENTE}"
+    "fr": "Je comprends pourquoi tes tableaux{SAUT}sont si nuls!{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0051",
@@ -369,14 +369,14 @@
     "locuteur": "Mark",
     "en": "Quit fooling yourself into thinking{SAUT}you're an artist!{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Arrête de te voiler la face en pensant{SAUT}que t'es une artiste!{ATTENTE}"
+    "fr": "Arrête de croire{SAUT}que t'es une artiste!{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0053",
     "locuteur": "Harem Queen",
     "en": "...{PAUSE}[1500]What... {PAUSE}[1500]did you say...?{ATTENTE}",
     "locuteur_fr": "Reine Harem",
-    "fr": "...{PAUSE}[1500]Qu'est-ce que...{PAUSE}[1500]tu viens de dire...?{ATTENTE}"
+    "fr": "...{PAUSE}[1500]Quoi... {PAUSE}[1500]tu as dit quoi...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0054",
@@ -404,7 +404,7 @@
     "locuteur": "Nanjo",
     "en": "You're deluding yourself if you think{SAUT}their praise means anything.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Vous vous mentez à vous-même si vous{SAUT}pensez que leurs éloges sont sincères.{ATTENTE}"
+    "fr": "Vous vous mentez si vous pensez que{SAUT}leurs éloges sont sincères.{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0058",
@@ -439,7 +439,7 @@
     "locuteur": "Mark",
     "en": "I'll say this as many times as it takes,{SAUT}so listen up!{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Je le dirai autant de fois qu'il le{SAUT}faudra, alors écoute bien!{ATTENTE}"
+    "fr": "Je le répéterai autant qu'il faudra,{SAUT}alors écoute!{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0063",
@@ -460,14 +460,14 @@
     "locuteur": "Harem Queen",
     "en": "If you can't grasp my artwork, you're{SAUT}the ones who are wrong!{ATTENTE}",
     "locuteur_fr": "Reine Harem",
-    "fr": "Si vous ne pouvez pas comprendre mon art,{SAUT}vous êtes ceux qui sont en tort!{ATTENTE}"
+    "fr": "Si vous ne comprenez pas mon art,{SAUT}c'est vous qui avez tort!{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0066",
     "locuteur": "Harem Queen",
     "en": "Mirror, mirror, clean and bright.{SAUT}Get these fools out of my sight!{ATTENTE}",
     "locuteur_fr": "Reine Harem",
-    "fr": "Miroir, miroir, propre et lumineux.{SAUT}Que ces idiots soient hors de ma vue!{ATTENTE}"
+    "fr": "Miroir, miroir, clair et brillant.{SAUT}Chasse ces idiots de ma vue!{ATTENTE}"
   },
   {
     "id": "E0.BIN:098:0067",
@@ -481,7 +481,7 @@
     "locuteur": "Master",
     "en": "Oh, my... that was fast.{ATTENTE}",
     "locuteur_fr": "Patron",
-    "fr": "Oh, eh bien... ce fut expéditif.{ATTENTE}"
+    "fr": "Oh là... ce fut rapide.{ATTENTE}"
   },
   {
     "id": "E0.BIN:099:0001",
@@ -537,7 +537,7 @@
     "locuteur": "Ayase",
     "en": "Let's go see her one more time. Maybe{SAUT}she's having regrets by now...?{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "Allons la revoir une nouvelle fois. Elle a{SAUT}sans doute des regrets maintenant...?{ATTENTE}"
+    "fr": "On retourne la voir? Elle doit avoir{SAUT}des regrets, maintenant...{ATTENTE}"
   },
   {
     "id": "E0.BIN:099:0009",

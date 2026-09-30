@@ -18,7 +18,7 @@
     "locuteur": "Mark",
     "en": "I get it... The compact brought{SAUT}us here...{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Je pige... C'est le poudrier qui{SAUT}nous a amenés ici...{ATTENTE}"
+    "fr": "Je pige... Le poudrier nous a{SAUT}amenés ici...{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0003",
@@ -32,7 +32,7 @@
     "locuteur": "Reiji",
     "en": "Looks like it worked...{ATTENTE}",
     "locuteur_fr": "Reiji",
-    "fr": "On dirait que ça a marché...{ATTENTE}"
+    "fr": "Ça a marché, on dirait...{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0005",
@@ -46,7 +46,7 @@
     "locuteur": "Elly",
     "en": "Bingo! This is child-Maki's forest!{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Bingo! C'est la forêt de la petite Maki!{ATTENTE}"
+    "fr": "Bingo! La forêt de la petite Maki!{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0007",
@@ -67,14 +67,14 @@
     "locuteur": "Setsuko Sonomura",
     "en": "Why have you all come back!?{SAUT}What about Kandori!?{ATTENTE}",
     "locuteur_fr": "Setsuko Sonomura",
-    "fr": "Pourquoi êtes-vous tous revenus!?{SAUT}Qu'en est-il de Kandori!?{ATTENTE}"
+    "fr": "Pourquoi êtes-vous revenus!?{SAUT}Et Kandori!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0010",
     "locuteur": "Mark",
     "en": "Same to you, lady! Why're YOU here?{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Pareil, Madame! Pourquoi VOUS êtes ici?{ATTENTE}"
+    "fr": "Pareil, Madame! Pourquoi VOUS ici?{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0011",
