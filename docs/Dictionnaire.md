@@ -263,18 +263,30 @@ différents. Une forme par marqueur, sans exception :
 | ＊cough＊ | ＊tousse＊ | ＊sob＊ | ＊sanglot＊ |
 | ＊crackle＊ | ＊grésille＊ | ＊splat＊ | ＊splat＊ |
 | ＊gasp＊ | ＊hoquet＊ | ＊squeal＊ | ＊cri＊ |
-| ＊giggle＊ | ＊pouffe＊ | ＊ulp＊ / ＊gulp＊ / ＊glug＊ | ＊gloup＊ |
+| ＊giggle＊ | ＊pouffe＊ |  |  |
 | ＊hic＊ | ＊hic＊ | ＊urrrrp＊ | ＊rrrot＊ |
+| ＊gulp＊ / ＊glug＊ / ＊ulp＊ | ＊gloup＊ / ＊glou＊ / ＊oulp＊ | ＊shriek＊ | ＊hurle＊ |
 | ＊pant＊ / ＊huff＊ | ＊halète＊ | ＊whimper＊ / ＊whine＊ | ＊gémit＊ |
 | ＊puke＊ / ＊gag＊ | ＊vomit＊ | ＊whistle＊ | ＊sifflement＊ |
 | ＊ring＊ | ＊dring＊ | ＊yawn＊ | ＊bâille＊ |
 |  |  | ＊yip＊ | ＊ouaf＊ |
 
 **Une seule exception, et elle est voulue : `＊sniff＊` a deux sens en jeu.**
+Sur les 18 lignes qui le portent, le flair n'en concerne que deux : « I can
+smell lies » (la replique de HIHO, dupliquee 8 fois) et « I can smell demons »
+(SYOUJO). Partout ailleurs le personnage pleure.
 Quand le personnage pleure, c'est `＊snif＊` ; quand il flaire (« I can smell
 lies »), c'est `＊renifle＊`. Le contexte tranche.
 
+⚠️ **Le nombre de marqueurs doit suivre l'anglais.** Sept lignes en avaient
+perdu ou ajoute un : `＊gasp＊ You couldn't have...!` etait devenu
+« Oh... C'est impossible...! », geste efface.
+
 ⚠️ Les `＊` allongés suivent l'anglais : `＊siiigh＊` → `＊souuupir＊`.
+
+⚠️ Une seule ligne a deux marqueurs français pour un seul anglais, et c'est
+voulu : `HIHO.BIN:text:0609` porte `＊huff ＊huff＊` dans la VO, où il manque
+un `＊`. Le français écrit les deux.
 
 ⚠️ `＊I＊` n'est pas une action mais une **emphase** sur le mot : il faut
 souligner le mot français correspondant, pas recopier le mot anglais.
