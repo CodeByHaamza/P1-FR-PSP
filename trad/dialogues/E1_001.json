@@ -292,7 +292,7 @@
     "locuteur": "Snow Queen",
     "en": "The stillness of despair--the Eternal{SAUT}Night--is sure to descend.{ATTENTE}",
     "locuteur_fr": "Reine des Neiges",
-    "fr": "Le calme du désespoir--la nuit{SAUT}Eternelle--finira par tomber.{ATTENTE}"
+    "fr": "Le calme du désespoir--la Nuit{SAUT}Éternelle--finira par tomber.{ATTENTE}"
   },
   {
     "id": "E1.BIN:001:0042",
@@ -362,7 +362,7 @@
     "locuteur": "Snow Queen",
     "en": "Welcome the Eternal Night, or take the{SAUT}mask off Saeko.{ATTENTE}",
     "locuteur_fr": "Reine des Neiges",
-    "fr": "Subir la nuit éternelle, ou ôter le{SAUT}masque de Saeko.{ATTENTE}"
+    "fr": "Subir la Nuit Éternelle, ou ôter le{SAUT}masque de Saeko.{ATTENTE}"
   },
   {
     "id": "E1.BIN:001:0052",
@@ -411,7 +411,7 @@
     "locuteur": "Snow Queen's voice",
     "en": "I have a few rituals to perform, so there{SAUT}is still time before the Eternal Night.{ATTENTE}",
     "locuteur_fr": "Voix de la Reine",
-    "fr": "J'ai quelques rituels à accomplir, donc{SAUT}il reste du temps avant la nuit éternelle.{ATTENTE}"
+    "fr": "J'ai quelques rituels à faire, il reste{SAUT}du temps avant la Nuit Éternelle.{ATTENTE}"
   },
   {
     "id": "E1.BIN:001:0059",
@@ -453,7 +453,7 @@
     "locuteur": "Snow Queen's voice",
     "en": "I must leave this mask now and prepare{SAUT}to call down the Eternal Night.{ATTENTE}",
     "locuteur_fr": "Voix de la Reine",
-    "fr": "Je dois quitter ce masque et me préparer{SAUT}à invoquer la nuit éternelle.{ATTENTE}"
+    "fr": "Je dois quitter ce masque et me préparer{SAUT}à invoquer la Nuit Éternelle.{ATTENTE}"
   },
   {
     "id": "E1.BIN:001:0065",

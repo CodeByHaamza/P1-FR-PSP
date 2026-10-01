@@ -88,7 +88,7 @@
     "locuteur": "Mark",
     "en": "Maki's painting is a million damn{SAUT}times better than yours!{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Le tableau de Maki est un million de{SAUT}fois meilleur que le tien, bon sang!{ATTENTE}"
+    "fr": "Le tableau de Maki vaut un million de{SAUT}fois le tien, bon sang!{ATTENTE}"
   },
   {
     "id": "E0.BIN:100:0013",
@@ -165,7 +165,7 @@
     "locuteur": "Harem Queen",
     "en": "Dammit! Even more moles!{ATTENTE}",
     "locuteur_fr": "Reine Harem",
-    "fr": "Bon sang! Encore des grains de beauté!{ATTENTE}"
+    "fr": "Bon sang! Encore des grains!{ATTENTE}"
   },
   {
     "id": "E0.BIN:100:0025",
@@ -231,7 +231,7 @@
     "locuteur": "Nanjo",
     "en": "Fortunately, we weren't turned all{SAUT}the way...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Heureusement, nous n'avons pas été{SAUT}pétrifiés entièrement...{ATTENTE}"
+    "fr": "Heureusement, ce n'est{SAUT}que partiel...{ATTENTE}"
   },
   {
     "id": "E0.BIN:100:0034",

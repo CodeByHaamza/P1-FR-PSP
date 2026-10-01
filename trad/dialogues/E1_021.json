@@ -10,28 +10,28 @@
     "id": "E1.BIN:096:0001",
     "locuteur": "Cheerful schoolgirl",
     "en": "Hi, everyone!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Élève enjouée",
     "fr": "Salut à tous!{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0002",
     "locuteur": "Cheerful schoolgirl",
     "en": "Welcome to good old Thanatos Tower!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Élève enjouée",
     "fr": "Bienvenue dans la vieille Tour Thanatos!{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0003",
     "locuteur": "Cheerful schoolgirl",
     "en": "How're you all doing today?{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Élève enjouée",
     "fr": "Comment vous allez aujourd'hui?{ATTENTE}"
   },
   {
     "id": "E1.BIN:096:0004",
     "locuteur": "Cheerful schoolgirl",
     "en": "I'm your host, everyone's favorite idol,{SAUT}Yuriko Yamamoto!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Élève enjouée",
     "fr": "Je suis votre hôtesse, l'idole chérie{SAUT}de tous, Yuriko Yamamoto!{ATTENTE}"
   },
   {
@@ -122,7 +122,7 @@
     "id": "E1.BIN:096:0017",
     "locuteur": "Yuriko",
     "en": "Sorry 'bout that! Ahahaha!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Yuriko",
     "fr": "Désolée pour ça! Ahahaha!{ATTENTE}"
   },
   {
@@ -178,7 +178,7 @@
     "id": "E1.BIN:096:0025",
     "locuteur": "Yuriko",
     "en": "So put your listening hats on!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Yuriko",
     "fr": "Ouvrez grand vos oreilles!{ATTENTE}"
   },
   {
@@ -241,7 +241,7 @@
     "id": "E1.BIN:096:0034",
     "locuteur": "Yukino",
     "en": "She acts like an airhead, but she's{SAUT}a hardcore con artist!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Yukino",
     "fr": "Elle joue la cruche, mais c'est{SAUT}une sacrée arnaqueuse!{ATTENTE}"
   },
   {
@@ -337,7 +337,7 @@
     "id": "E1.BIN:096:0048",
     "locuteur": "Yuriko",
     "en": "Teeheehee! Gotcha!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Yuriko",
     "fr": "Hihihi! Bien eu!{ATTENTE}",
     "_occurrences": 2
   },
@@ -345,7 +345,7 @@
     "id": "E1.BIN:096:0049",
     "locuteur": "Yuriko",
     "en": "Teeheeheeheeheehee!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Yuriko",
     "fr": "Hihihihihihihi!{ATTENTE}",
     "_occurrences": 2
   },
@@ -353,7 +353,7 @@
     "id": "E1.BIN:096:0050",
     "locuteur": "Yuriko",
     "en": "Did you really think you could get past{SAUT}here for free? Silly billies!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Yuriko",
     "fr": "Tu croyais vraiment passer ici{SAUT}gratuitement? Petits bêtas!{ATTENTE}",
     "_occurrences": 2
   },
@@ -361,7 +361,7 @@
     "id": "E1.BIN:096:0051",
     "locuteur": "Yuriko",
     "en": "Tit for tat's the name of the game!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Yuriko",
     "fr": "Un prêté pour un rendu!{ATTENTE}",
     "_occurrences": 2
   },
@@ -385,7 +385,7 @@
     "id": "E1.BIN:096:0054",
     "locuteur": "Yuriko",
     "en": "Well, I'll be taking your other life...{PAUSE}[1E00]{SAUT}Per-{PAUSE}[1E00]so-{PAUSE}[1E00]na!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Yuriko",
     "fr": "Bon, je prends ton autre vie...{PAUSE}[1E00]{SAUT}Per-{PAUSE}[1E00]so-{PAUSE}[1E00]na!{ATTENTE}",
     "_occurrences": 2
   },
@@ -393,7 +393,7 @@
     "id": "E1.BIN:096:0055",
     "locuteur": "Yuriko",
     "en": "Thanks! Teeheeheeheehee! See ya!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Yuriko",
     "fr": "Merci! Hihihihihihi! Salut!{ATTENTE}",
     "_occurrences": 2
   },

@@ -305,7 +305,7 @@
     "locuteur": "Elly",
     "en": "Each time we make progress, she torments{SAUT}us just enough so as not to kill anyone.{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Dès qu'on progresse, elle nous fait{SAUT}souffir juste assez pour ne pas nous tuer.{ATTENTE}"
+    "fr": "Dès qu'on progresse, elle nous fait{SAUT}souffrir juste assez pour ne pas tuer.{ATTENTE}"
   },
   {
     "id": "E1.BIN:098:0044",
@@ -466,7 +466,7 @@
     "locuteur": "Yuriko",
     "en": "Now, behold... the Eternal Night.{ATTENTE}",
     "locuteur_fr": "Yuriko",
-    "fr": "Comtemplez... la Nuit Éternelle.{ATTENTE}"
+    "fr": "Contemplez... la Nuit Éternelle.{ATTENTE}"
   },
   {
     "id": "E1.BIN:098:0070",

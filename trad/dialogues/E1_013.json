@@ -186,14 +186,14 @@
     "locuteur": "Kumi",
     "en": "Hehe... Sir Hypnos... Sir Hypnos...!{ATTENTE}",
     "locuteur_fr": "Kumi",
-    "fr": "Héhé... Hypnos... Hypnos...!{ATTENTE}"
+    "fr": "Héhé... Sire Hypnos... Sire Hypnos...!{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0027",
     "locuteur": "Kumi",
     "en": "Sir Hypnos, my Prince! Please crush them!{ATTENTE}",
     "locuteur_fr": "Kumi",
-    "fr": "Hypnos, mon Prince! De grâce, détruis-les!{ATTENTE}"
+    "fr": "Sire Hypnos, mon Prince! Détruis-les!{ATTENTE}"
   },
   {
     "id": "E1.BIN:073:0028",
@@ -354,7 +354,7 @@
     "locuteur": "Kumi",
     "en": "Sir Hypnos!{ATTENTE}",
     "locuteur_fr": "Kumi",
-    "fr": "Hypnos!{ATTENTE}",
+    "fr": "Sire Hypnos!{ATTENTE}",
     "_occurrences": 2
   },
   {
