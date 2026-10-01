@@ -2,505 +2,505 @@
   {
     "id": "KOUMAN.BIN:text:0608",
     "en": "Hmm... Where did your spirit go?{SAUT}You're boring me now.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hmm... Où est passé ton cran?{SAUT}Tu m'ennuies à présent.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0609",
     "en": " Hmm... If you apologize, I'll forgive{SAUT}you this one time. Be careful not to let{SAUT}it happen again.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hmm... Si tu t'excuses, je pardonne{SAUT}pour cette fois. Prends garde à ce que{SAUT}cela ne se reproduise.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0610",
     "en": "It's too late!(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est trop tard!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0611",
     "en": " Urgh... Such resistance... I can tell{SAUT}you are scheming something...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Urgh... Quelle résistance... Je sens{SAUT}que tu prépares quelque chose...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0612",
     "en": "Huahaha, if you fear death, you don't{SAUT}stand a chance against me.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Huahaha, si tu crains la mort, tu n'as{SAUT}aucune chance contre moi.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0613",
     "en": "   There is meaning in life and death,{SAUT}you say...? I'd like to discuss this{SAUT}further with you...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Il y a un sens à la vie et à la mort,{SAUT}dis-tu...? J'aimerais en discuter{SAUT}davantage avec toi...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0614",
     "en": "   Your lies are rotten, you inferior{SAUT}wretch! You should all perish!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Tes mensonges sont pourris, vil{SAUT}misérable! Vous devriez tous périr!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0615",
     "en": "  Huaha! It's admirable to see you have{SAUT}your manners about you.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Huaha! Il est admirable de te voir{SAUT}garder tes manières.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0616",
     "en": "  You need no encouragement!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Tu n'as pas besoin d'encouragement!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0617",
     "en": " Muahahaha! What an enjoyable manner of{SAUT}speech! Not bad at all!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Muahahaha! Quelle plaisante façon de{SAUT}parler! Pas mal du tout!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0618",
     "en": " Enough! Your persistance is too much{SAUT}for even me!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Assez! Ton insistance est trop même{SAUT}pour moi!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0619",
     "en": "  Hmmm... That's it? You are such a{SAUT}boorish woman...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hmmm... C'est tout? Tu es une femme{SAUT}bien fruste...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0620",
     "en": " Ha! Spineless fool! I despise women who{SAUT}falsify their expressions!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Ha! Sotte sans courage! Je méprise les{SAUT}femmes qui faussent leurs mines!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0621",
     "en": " Apologizing already? How stale...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tu t'excuses déjà? Quelle fadeur...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0622",
     "en": "  Urgh... This girl is crazy...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Urgh... Cette fille est folle...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0623",
     "en": "  Being mocked by a girl inferior to me,{SAUT}I have disgraced the [FFF0].{SAUT}I must remove this blemish.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Raillé par une fille qui m'est{SAUT}inférieure, j'ai déshonoré les [FFF0].{SAUT}Je dois ôter cette tache.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0624",
     "en": " Ha! I don't care who you are or how{SAUT}high you hold your nose! I'll rip it{SAUT}off of you!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Ha! Peu m'importe qui tu es ou combien{SAUT}haut tu portes le nez! Je te{SAUT}l'arracherai!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0625",
     "en": "   ...This woman...(*RESPONSE*)",
-    "fr": "",
+    "fr": "   ...Cette femme...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOUMAN.BIN:text:0627",
     "en": "   Hmm... So you can express your emotions.{SAUT}The primates have evolved.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hmm... Tu sais donc exprimer tes émotions.{SAUT}Les primates ont évolué.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0628",
     "en": "Silence! I'll prevent you from{SAUT}screaming!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Silence! Je t'empêcherai de{SAUT}crier!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0629",
     "en": "  Fool... That is the life ahead of you.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Sot... Voilà la vie qui t'attend.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0630",
     "en": " It's too late!(*RESPONSE*)",
-    "fr": ""
+    "fr": " C'est trop tard!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0631",
     "en": " You dare to treat me with such{SAUT}contempt!? Only death awaits you!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tu oses me traiter avec un tel{SAUT}mépris!? Seule la mort t'attend!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0632",
     "en": "   So there is strength within the inferior{SAUT}race. Humans may not be completely{SAUT}worthless after all.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Il y a donc de la force dans la race{SAUT}inférieure. Les humains ne sont{SAUT}peut-être pas si vains après tout.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0633",
     "en": "   ......(*RESPONSE*)",
-    "fr": ""
+    "fr": "   ......(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0634",
     "en": " Huaha... Muahahahahahaha!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Huaha... Muahahahahahaha!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0635",
     "en": "  I am asking a question! Answer it{SAUT}immediately!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Je pose une question! Réponds{SAUT}sur-le-champ!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0636",
     "en": " Huaha, don't be angry. It's a joke.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Huaha, ne te fâche pas. C'est une blague.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0637",
     "en": "You'll take me? ME, [FFF3]?{SAUT}Are you truly so foolish?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu me prendras? MOI, [FFF3]?{SAUT}Es-tu vraiment si sot?(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0638",
     "en": "   I won't deal with you. Don't take it{SAUT}so seriously.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Je ne traiterai pas avec toi. Ne le{SAUT}prends pas au sérieux.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0639",
     "en": " It's too late for regrets! The gates of{SAUT}hell welcome all!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Trop tard pour les regrets! Les portes{SAUT}de l'enfer accueillent tous!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0640",
     "en": "  Your words are futile. Utterly useless.{SAUT}But don't worry. I'll kill you.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Tes mots sont futiles. Totalement vains.{SAUT}Mais rassure-toi. Je vais te tuer.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0641",
     "en": "Hmm... That spirit of yours is worthy{SAUT}of praise. I take back what I said.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hmm... Ton cran est digne de louanges.{SAUT}Je reprends ce que j'ai dit.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0643",
     "en": " To lose to an inferior boy's cheap tricks,{SAUT}I have disgraced the [FFF0].{SAUT}I must remove the stain!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Perdre aux tours bon marché d'un garçon{SAUT}vil, j'ai déshonoré les [FFF0].{SAUT}Je dois ôter cette souillure!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0644",
     "en": "I see... So you won't reveal your hand.{SAUT}You're a smart one.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je vois... Tu ne montres pas ton jeu.{SAUT}Tu es malin.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0645",
     "en": "This can't be! It's rather awkward{SAUT}telling this to someone who's going to{SAUT}die, but I'll prove it!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Impossible! Il est gênant de dire cela{SAUT}à quelqu'un qui va mourir, mais{SAUT}je vais le prouver!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0646",
     "en": "  Impossible... You lack the power.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Impossible... Tu manques de force.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0647",
     "en": "  Muahahaha! I won't die, you say!?{SAUT}Not bad!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Muahahaha! Tu ne mourras pas, dis-tu!?{SAUT}Pas mal!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0648",
     "en": " Insolent fool! I am not to be mimicked{SAUT}by inferior creatures!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Sot insolent! Je ne me laisse pas imiter{SAUT}par des créatures viles!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0649",
     "en": "  Urgh... What are you scheming?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Urgh... Que machines-tu?(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0650",
     "en": " Then before you cast that spell, I'll{SAUT}simply kill you... Your big mouth was{SAUT}your end!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Alors avant que tu lances ce sort, je{SAUT}te tuerai simplement... Ta grande{SAUT}bouche t'a perdu!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0651",
     "en": "  If you want my power, then speak words,{SAUT}inferior being.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Si tu veux ma force, alors parle,{SAUT}être inférieur.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0652",
     "en": "You're telling me to leave...? Even as{SAUT}a joke, it isn't funny!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu me dis de partir...? Même en{SAUT}blague, ce n'est pas drôle!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0653",
     "en": " Excuse me! It was a silly question.{SAUT}After all, an inferior being like you{SAUT}could never take meaningful action.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Pardonne-moi! C'était une sotte question.{SAUT}Après tout, un être vil comme toi ne{SAUT}saurait agir avec sens.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0654",
     "en": "  Hmm... Then continue to strive for{SAUT}perfection.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hmm... Alors continue de viser la{SAUT}perfection.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0655",
     "en": " Arrogance is unbecoming of you, inferior{SAUT}wretch! You're 10,000 years too young{SAUT}to truly negotiate with me!(*RESPONSE*)",
-    "fr": ""
+    "fr": " L'arrogance ne te sied pas, vil{SAUT}misérable! Il te manque 10 000 ans{SAUT}pour vraiment négocier avec moi!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0656",
     "en": " Such unfaltering will... I see all the{SAUT}more potential for you as my{SAUT}subordinate!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Une volonté si ferme... Je vois d'autant{SAUT}plus de potentiel en toi comme{SAUT}subordonné!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0657",
     "en": "   Hmmm... You say I can't do it?{SAUT}How interesting.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hmmm... Tu dis que je ne peux pas?{SAUT}Comme c'est curieux.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0658",
     "en": "Ha! You ask for money! I could make it{SAUT}free if I wanted to!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ha! Tu demandes de l'argent! Je pourrais{SAUT}le rendre gratuit si je voulais!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0659",
     "en": "Urgh... Is that so?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Urgh... Ah bon?(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0660",
     "en": "Hmm... That's it? I was a fool for{SAUT}hoping.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hmm... C'est tout? J'étais sot{SAUT}d'espérer.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0661",
     "en": " Huahaha, you are unwilling to comply?{SAUT}I suppose you should hold onto your{SAUT}aces while you can...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Huahaha, tu refuses d'obtempérer?{SAUT}J'imagine qu'il faut garder ses atouts{SAUT}tant qu'on peut...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0662",
     "en": "Ha! Conceited, inferior being! I'll snap{SAUT}your head instead!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ha! Vaniteux être inférieur! Je briserai{SAUT}ta tête à la place!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0663",
     "en": "Hmmm... An honest human.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hmmm... Un humain honnête.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0664",
     "en": "   Huaha, so such spirited humans exist{SAUT}within the inferior race. Not bad...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Huaha, il existe donc des humains si{SAUT}fougueux dans la race vile. Pas mal...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0665",
     "en": "  I'm not asking about your circumstances!{SAUT}Know your place, fool!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Je ne demande pas ta situation!{SAUT}Reste à ta place, sot!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0666",
     "en": "I suppose it IS disgraceful to attack{SAUT}such helpless inferiors...(*RESPONSE*)",
-    "fr": ""
+    "fr": "J'imagine qu'il EST honteux d'attaquer{SAUT}des inférieurs si démunis...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0667",
     "en": "   Urgh... Are you so confident in your{SAUT}skills?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Urgh... Es-tu si confiant en tes{SAUT}talents?(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0668",
     "en": "   I warned you personally, fool! Pray{SAUT}you are born smarter in the next life!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Je t'ai averti en personne, sot! Prie{SAUT}pour naître plus malin la prochaine fois!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0669",
     "en": " I-It's not a lie! What are you saying,{SAUT}inferior one...?(*RESPONSE*)",
-    "fr": ""
+    "fr": " C-Ce n'est pas un mensonge! Que dis-tu,{SAUT}être inférieur...?(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0670",
     "en": "You think so!? Well, it's quite natural.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu crois!? Bon, c'est bien naturel.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0671",
     "en": "   You want to fight...? Then... if I die,{SAUT}I'm taking you with me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Tu veux te battre...? Alors... si je{SAUT}meurs, je t'emmène avec moi!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0672",
     "en": "Hmmm... A common answer. I expected too{SAUT}much of you...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hmmm... Une réponse banale. J'attendais{SAUT}trop de toi...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0673",
     "en": " Ha! So you bite the hand that feeds{SAUT}you! I can't trust you!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Ha! Tu mords la main qui te{SAUT}nourrit! Je ne puis te croire!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0674",
     "en": "Huahaha, you're asking me if I want to{SAUT}die...? Too funny, human.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Huahaha, tu me demandes si je veux{SAUT}mourir...? Trop drôle, humain.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0675",
     "en": "   Hmmm... Suspicious.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hmmm... Suspect.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0676",
     "en": "Hmmm... Suspicious.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hmmm... Suspect.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0677",
     "en": "You had no reason to hesitate!{SAUT}You are truly a fool!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu n'avais nulle raison d'hésiter!{SAUT}Tu es vraiment un sot!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0678",
     "en": "   ...I didn't expect a composed answer...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   ...Je n'attendais pas de réponse posée...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0679",
     "en": "Muahahaha! I was mistaken! You have no{SAUT}battle aura!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Muahahaha! Je me trompais! Tu n'as nulle{SAUT}aura de combat!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0680",
     "en": "Ha! The [FFF0] are nothing to you?{SAUT}Quite brash for an inferior being!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ha! Les [FFF0] ne sont rien pour toi?{SAUT}Fort effronté pour un être inférieur!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0681",
     "en": "   Hmm... I guess it can't be helped.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hmm... J'imagine qu'on n'y peut rien.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0682",
     "en": " I'm the inferior being? I take back my{SAUT}words! It was my mistake!(*RESPONSE*)",
-    "fr": ""
+    "fr": " C'est moi l'être inférieur? Je reprends{SAUT}mes mots! C'était mon erreur!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0683",
     "en": "   Hmmm... You have enough spirit.{SAUT}You interest me, human...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hmmm... Tu as assez de cran.{SAUT}Tu m'intéresses, humain...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0684",
     "en": "  Ugh... How imprudent...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Ugh... Quelle imprudence...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0685",
     "en": "What are you saying!? The survival of{SAUT}the fittest is older than the philosophy{SAUT}itself! I'll correct your mistake!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Que dis-tu!? La survie du plus fort est{SAUT}plus vieille que la philosophie{SAUT}elle-même! Je corrigerai ton erreur!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0686",
     "en": "  Hmph... The opinions of inferior beings{SAUT}do not interest me.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hmph... Les avis des êtres inférieurs{SAUT}ne m'intéressent pas.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0687",
     "en": "As long as you understand now.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Du moment que tu comprends à présent.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0688",
     "en": " Inferior beings are just that...{SAUT}inferior! You are born into despair,{SAUT}and you leave this world the same way!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Les êtres inférieurs sont justement{SAUT}cela... inférieurs! Tu nais dans le{SAUT}désespoir, et tu quittes le monde ainsi!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0689",
     "en": "   Ha! I'll teach you the true meaning{SAUT}of unhappiness!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Ha! Je t'enseignerai le vrai sens{SAUT}du malheur!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0690",
     "en": "...Yes, you seem too human to be{SAUT}a demon...(*RESPONSE*)",
-    "fr": ""
+    "fr": "...Oui, tu sembles trop humain pour{SAUT}être un démon...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0691",
     "en": "Hmmm... If you are so inferior, I see{SAUT}no reason to remember you.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hmmm... Si tu es si inférieur, je ne{SAUT}vois pas pourquoi me souvenir de toi.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0692",
     "en": "   Muahahaha! You're no demon! I have{SAUT}nothing left to fear!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Muahahaha! Tu n'es pas un démon! Je{SAUT}n'ai plus rien à craindre!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOUMAN.BIN:resp:0001",
     "en": "No, no.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Non, non.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:resp:0002",
     "en": "Hurry and tell me.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Dis-le-moi vite.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:resp:0003",
     "en": "Close.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Proche.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:resp:0004",
     "en": "Way off.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Loin.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:resp:0005",
     "en": "Delicious.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Délicieux.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:resp:0008",
     "en": "Taunt(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Narguer(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:resp:0009",
     "en": "Persuade anyway(*RESPONSE*)",
-    "fr": ""
+    "fr": "Persuader quand même(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:resp:0010",
     "en": "Beg for forgiveness(*RESPONSE*)",
-    "fr": ""
+    "fr": "Demander pardon(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:resp:0011",
     "en": "Threaten(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Menacer(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "KOUMAN.BIN:resp:0012",
     "en": "About a life stone.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Sur la pierre de vie.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOUMAN.BIN:resp:0013",
     "en": "About a ruby.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Sur le rubis.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:resp:0021",
     "en": "High.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Haut.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:resp:0022",
     "en": "Mid.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Moyen.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:resp:0023",
     "en": "Low.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Bas.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:resp:0024",
     "en": "Leave(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Partir(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:resp:0028",
     "en": "Depends on you.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ça dépend de toi.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:resp:0036",
     "en": "Sing anyway(*RESPONSE*)",
-    "fr": ""
+    "fr": "Chanter quand même(*RESPONSE*)"
   }
 ]
