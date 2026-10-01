@@ -517,7 +517,7 @@
     "locuteur": "Ayase",
     "en": "So he just gave him, like, a little{SAUT}warning, is all.{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "Alors il lui a juste mis, genre, un{SAUT}petit avertissement, quoi.{ATTENTE}"
+    "fr": "Alors il lui a juste mis, genre, un{SAUT}avertissement, quoi.{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0022",
@@ -531,7 +531,7 @@
     "locuteur": "Nanjo",
     "en": "Both parties in a quarrel are culpable.{SAUT}They should both have to write lines.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Dans une querelle, les deux sont fautifs.{SAUT}Tous deux devraient copier des lignes.{ATTENTE}"
+    "fr": "Dans une querelle, les deux sont fautifs.{SAUT}Tous deux copieront des lignes.{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0024",

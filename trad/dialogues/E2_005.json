@@ -499,7 +499,7 @@
     "locuteur": "Nurse",
     "en": "You visited her last week too didn't you?{SAUT}And the week before...{ATTENTE}",
     "locuteur_fr": "Infirmière",
-    "fr": "Tu es venu la semaine dernière aussi, non?{SAUT}Et celle d'avant...{ATTENTE}"
+    "fr": "Tu es venu la semaine dernière aussi?{SAUT}Et celle d'avant...{ATTENTE}"
   },
   {
     "id": "E2.BIN:066:0003",

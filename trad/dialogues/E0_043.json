@@ -313,7 +313,7 @@
     "locuteur": "Maki",
     "en": "I'm the ideal Maki Sonomura. It's not{SAUT}like me to be so down.{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "Je suis la Maki Sonomura idéale. Ça ne{SAUT}me ressemble pas d'être si abattue.{ATTENTE}"
+    "fr": "Je suis la Maki idéale. Ça ne me{SAUT}ressemble pas d'être si abattue.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0046",
@@ -397,7 +397,7 @@
     "locuteur": "Setsuko Sonomura",
     "en": "Why? Why can't I go too!?{ATTENTE}",
     "locuteur_fr": "Setsuko Sonomura",
-    "fr": "Pourquoi? Pourquoi pas moi aussi!?{ATTENTE}"
+    "fr": "Pourquoi? Pourquoi pas moi!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0058",
@@ -418,7 +418,7 @@
     "locuteur": "Maki",
     "en": "Hey, me? Look after Mom, okay?{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "Hé, moi? Occupe-toi de maman, d'accord?{ATTENTE}"
+    "fr": "Hé, moi? Occupe-toi de maman, hein?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0061",
