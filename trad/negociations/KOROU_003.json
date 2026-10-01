@@ -2,501 +2,501 @@
   {
     "id": "KOROU.BIN:text:0204",
     "en": " I'm tired... Mind if I skidaddle?(*OPTION*)",
-    "fr": ""
+    "fr": " Je suis fatigué... Je peux filer?(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0205",
     "en": "  My back may not be in the best shape,{SAUT}but I'm still active.{ATTENTE}",
-    "fr": ""
+    "fr": "  Mon dos est pas au mieux, mais je suis{SAUT}encore actif.{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0206",
     "en": "{PAGE}My spell card's kinda old, but you{SAUT}better not put it in storage.(*OPTION*)",
-    "fr": ""
+    "fr": "{PAGE}Ma carte de sort est un peu vieille,{SAUT}mais range-la pas au grenier.(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0207",
     "en": "  Urgh... I'm gettin' pains... I better{SAUT}get home. G-G-Goodbye...(*OPTION*)",
-    "fr": ""
+    "fr": "  Urgh... J'ai des douleurs... Je rentre{SAUT}chez moi. A-A-Au revoir...(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0208",
     "en": " Aw, knock it off! Humans are much more{SAUT}boring than I coulda thought! I'm{SAUT}hittin' the road!(*OPTION*)",
-    "fr": ""
+    "fr": " Oh, arrête! Les humains sont bien plus{SAUT}ennuyeux que je croyais! Je prends{SAUT}la route!(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0209",
     "en": " Aw, knock it off! Humans are much more{SAUT}boring than I coulda thought!{ATTENTE}",
-    "fr": ""
+    "fr": " Oh, arrête! Les humains sont bien plus{SAUT}ennuyeux que je croyais!{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0210",
     "en": "{PAGE}If I give ya this, I can go, right!?(*OPTION*)",
-    "fr": ""
+    "fr": "{PAGE}Si je te donne ça, je peux partir, non!?(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0211",
     "en": " Hrrnng... I'm feelin' dizzy... You're{SAUT}a real whippersnapper, raisin' my blood{SAUT}pressure like that!(*OPTION*)",
-    "fr": ""
+    "fr": " Hrrnng... J'ai la tête qui tourne...{SAUT}Tu es un sacré galopin, à me faire{SAUT}monter la tension comme ça!(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0212",
     "en": "  But, I guess it's okay. Even meetings{SAUT}by chance are meetings of fate.{SAUT}...Take my card.(*OPTION*)",
-    "fr": ""
+    "fr": "  Mais bon, ça va. Même les rencontres{SAUT}de hasard sont des rencontres du{SAUT}destin. ...Prends ma carte.(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0213",
     "en": " You may be able to forge a new{SAUT}path...(*OPTION*)",
-    "fr": ""
+    "fr": " Tu arriveras peut-être à tracer une{SAUT}voie nouvelle...(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0214",
     "en": " So, take my spell card.(*OPTION*)",
-    "fr": ""
+    "fr": " Alors prends ma carte de sort.(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0215",
     "en": "...I don't want to hafta fight you.(*OPTION*)",
-    "fr": ""
+    "fr": "...Je veux pas me battre contre toi.(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0216",
     "en": "It ain't an easy world to get by in for{SAUT}you humans. I'm worried about ya, so{SAUT}take this with you...(*OPTION*)",
-    "fr": ""
+    "fr": "C'est pas un monde facile pour vous les{SAUT}humains. Je m'inquiète pour toi, alors{SAUT}emporte ça avec toi...(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0217",
     "en": " Argh! M-My back...! I'm done for...(*OPTION*)",
-    "fr": ""
+    "fr": " Argh! M-Mon dos...! Je suis fichu...(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0218",
     "en": "I ain't gonna defy ya. I'll give ya{SAUT}my spell card if ya just lemme go...(*OPTION*)",
-    "fr": ""
+    "fr": "Je te défierai pas. Je te donne ma carte{SAUT}de sort si tu me laisses partir...(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0219",
     "en": "   Ho, ho! Quite a surprise to find humans{SAUT}in a place like this.{ATTENTE}",
-    "fr": ""
+    "fr": "   Ho, ho! Quelle surprise de trouver des{SAUT}humains dans un endroit comme ça.{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0220",
     "en": "{PAGE}But what are ya doin' here without the{SAUT}moonlight as your guide?[FFFD][73FF][F500]   If this shows up, it's a bug.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Mais qu'est-ce que tu fais ici sans le{SAUT}clair de lune pour te guider?[FFFD][73FF][F500]   Si ça s'affiche, c'est un bug.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0221",
     "en": "  Ho ho ho, didn't expect to find anyone{SAUT}out walkin' with me here...{ATTENTE}",
-    "fr": ""
+    "fr": "  Ho ho ho, je m'attendais pas à trouver{SAUT}quelqu'un en promenade avec moi ici...{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0222",
     "en": "{PAGE}It's lonely without a moon, ain't it?{SAUT}I'll keep ya company, but how 'bout{SAUT}somethin' to make it worth my while?[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}C'est solitaire sans lune, hein?{SAUT}Je te tiens compagnie, mais que{SAUT}dirais-tu d'un petit quelque chose?[FFF1](*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0223",
     "en": "Hey! This path is private! Ya'll are{SAUT}trespassing if ya ain't got permission!{ATTENTE}",
-    "fr": ""
+    "fr": "Hé! Ce chemin est privé! Vous êtes des{SAUT}intrus si vous avez pas la permission!{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0224",
     "en": "{PAGE}Hm... And yer human, too! Ugh, this is{SAUT}deplorable![FFFD][74FF][F500] Hey! This is my walkin' path! I don't{SAUT}need no humans trashin' it!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Hm... Et tu es humain, en plus! Ugh,{SAUT}c'est déplorable![FFFD][74FF][F500] Hé! C'est mon chemin de promenade! Pas{SAUT}besoin d'humains pour le salir!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0225",
     "en": "  Hey! This is my strollin' path! You{SAUT}need my permission to be here!{ATTENTE}",
-    "fr": ""
+    "fr": "  Hé! C'est mon chemin de promenade! Il{SAUT}te faut ma permission pour être ici!{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0226",
     "en": "{PAGE}Ya wanna pass, then pay the toll![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Tu veux passer? Alors paie le péage![FFF1](*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0227",
     "en": " Without the moon... us old folks can't{SAUT}see the ground so well. Makes it hard{SAUT}to take evening strolls...{ATTENTE}",
-    "fr": ""
+    "fr": " Sans la lune... nous les vieux, on voit{SAUT}mal le sol. Ça rend les promenades du{SAUT}soir difficiles...{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0228",
     "en": "{PAGE}...Why does the moon disappear?[FFFD][75FF][F500] If this shows up, it's a bug.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}...Pourquoi la lune disparaît?[FFFD][75FF][F500] Si ça s'affiche, c'est un bug.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0229",
     "en": "  I ain't anybody suspicious... just{SAUT}an old geezer... Please don't hurt me...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Je suis pas quelqu'un de suspect...{SAUT}juste un vieux... Me fais pas de mal...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0230",
     "en": "It's best to watch the moon with some{SAUT}snacks in hand! Just when I figured that{SAUT}out, you showed up!{ATTENTE}",
-    "fr": ""
+    "fr": "Mieux vaut regarder la lune avec un{SAUT}grignotage en main! Juste quand j'y{SAUT}pensais, tu es arrivé!{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0231",
     "en": "{PAGE}You must be heaven sent... so you've{SAUT}got some for me, right?[FFFD][76FF][F500] Well, wouldya look at that! The moon's{SAUT}lookin' mighty fine tonight!{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Tu dois être envoyé du ciel... alors tu{SAUT}en as pour moi, non?[FFFD][76FF][F500] Eh bien, regarde-moi ça! La lune est{SAUT}bien belle ce soir!{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0232",
     "en": "{PAGE}It's such an inspiration. Feels good{SAUT}to be alive at times like these.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}C'est une telle inspiration. Ça fait{SAUT}du bien d'être en vie, ces moments-là.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0233",
     "en": " Ho, ho! An unsuspecting human's been{SAUT}caught in my net!{ATTENTE}",
-    "fr": ""
+    "fr": " Ho, ho! Un humain sans méfiance s'est{SAUT}pris dans mon filet!{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0234",
     "en": "{PAGE}Welcome to the darkness of the{SAUT}netherworld! If ya want out, give me{SAUT}somethin'![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Bienvenue dans les ténèbres des{SAUT}enfers! Si tu veux sortir, donne-moi{SAUT}un truc![FFF1](*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0235",
     "en": "[FFED]Eh? A human? Please, no boring stories!{SAUT}Hm...{ATTENTE}",
-    "fr": ""
+    "fr": "[FFED]Eh? Un humain? Pas d'histoires ennuyeuses!{SAUT}Hm...{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0236",
     "en": "{PAGE}But if ya manage to impress me, maybe{SAUT}you'll get my card.[FFFD][77FF][F500][FFEE]This is peculiar... It ain't like me to{SAUT}talk to humans, but...(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Mais si tu arrives à m'impressionner, tu{SAUT}auras peut-être ma carte.[FFFD][77FF][F500][FFEE]C'est singulier... C'est pas mon genre{SAUT}de parler aux humains, mais...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0237",
     "en": "[FFED]What? I thought I'd found company, but{SAUT}it was just some wayward humans!{ATTENTE}",
-    "fr": ""
+    "fr": "[FFED]Quoi? Je croyais trouver de la compagnie,{SAUT}et c'était des humains égarés!{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0238",
     "en": "{PAGE}I'll negotiate with ya, but ya better{SAUT}make it worth my while with sometin'![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Je négocierai avec toi, mais rends ça{SAUT}intéressant avec un petit truc![FFF1](*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0239",
     "en": " [FFEE]I'm reachin' out to ya because I've got{SAUT}a question... Gimme yer best answer.{ATTENTE}",
-    "fr": ""
+    "fr": " [FFEE]Je te fais signe parce que j'ai une{SAUT}question... Donne ta meilleure réponse.{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0240",
     "en": "{PAGE}What do you think of moonless nights{SAUT}like tonight, human?[FFFD][78FF][F500] If this shows up, it's a bug.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Que penses-tu des nuits sans lune{SAUT}comme ce soir, humain?[FFFD][78FF][F500] Si ça s'affiche, c'est un bug.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0241",
     "en": "  [FFEC]Why are ya meanderin' around in my{SAUT}territory? I don't get it.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  [FFEC]Pourquoi tu erres sur mon{SAUT}territoire? Je comprends pas.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0242",
     "en": " [FFEB]Oooh! You here to keep me company?{SAUT}Perfect!{ATTENTE}",
-    "fr": ""
+    "fr": " [FFEB]Oooh! Tu es là pour me tenir compagnie?{SAUT}Parfait!{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0243",
     "en": "{PAGE}Luck is with me today! Why don't ya{SAUT}tell me a story? Make it interesting![FFFD][79FF][F500]  [FFEE]Ooh! Ooh! You mind keepin' me company{SAUT}for a bit? Sorry to trouble you.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}La chance est avec moi! Raconte-moi{SAUT}une histoire, rends-la intéressante![FFFD][79FF][F500]  [FFEE]Ooh! Ooh! Ça te dérange de me tenir{SAUT}compagnie un moment? Désolé du dérangement.{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0244",
     "en": "{PAGE}I don't have much to offer at my age,{SAUT}but I'll negotiate with ya on faith.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}J'ai pas grand-chose à offrir à mon âge,{SAUT}mais je négocierai de bonne foi.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0245",
     "en": "[FFEE]Heh, you've got a nice face for a human.{ATTENTE}",
-    "fr": ""
+    "fr": "[FFEE]Hé, tu as un beau visage pour un humain.{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0246",
     "en": "{PAGE}Maybe you'll be a saint someday! Hohoho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Tu seras un saint un jour! Hohoho!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0247",
     "en": "[FFED]Hey! Ain't ya got manners!? The first{SAUT}greeting comes from the younger or the{SAUT}inferior!{ATTENTE}",
-    "fr": ""
+    "fr": "[FFED]Hé! T'as aucune manière!? C'est au plus{SAUT}jeune ou au plus humble de saluer{SAUT}le premier!{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0248",
     "en": "{PAGE}Wh-Whatchya starin' at? Cat got yer{SAUT}tongue?[FFFD][7AFF][F500] If this shows up, it's a bug.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Qu-Qu'est-ce que tu fixes? Tu as perdu{SAUT}ta langue?[FFFD][7AFF][F500] Si ça s'affiche, c'est un bug.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0249",
     "en": "  [FFED]...! So it WAS a human! So that's why{SAUT}I felt queasy! Now I'm havin' mixed{SAUT}emotions, no thanks to you!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  [FFED]...! C'était donc BIEN un humain! Voilà{SAUT}pourquoi j'avais la nausée! Me voilà{SAUT}partagé, et c'est ta faute!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0250",
     "en": " [FFEB]Hee hee! Another victim ensnared by the{SAUT}moon's charms!{ATTENTE}",
-    "fr": ""
+    "fr": " [FFEB]Hi hi! Une autre victime prise dans les{SAUT}charmes de la lune!{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0251",
     "en": "{PAGE}You're already fish in a bucket. If{SAUT}you've got last words, I'll hear 'em.[FFFD][7BFF][F500]   [FFEB]Take a gander at the moon! It's such{SAUT}a beautiful night!{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Tu es déjà un poisson dans le seau. Si{SAUT}tu as des derniers mots, j'écoute.[FFFD][7BFF][F500]   [FFEB]Jette un oeil à la lune! Quelle{SAUT}belle nuit!{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0252",
     "en": "{PAGE}It really makes the spirit flow over,{SAUT}even in an old fogey like me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Ça fait vraiment déborder l'esprit,{SAUT}même chez un vieux croûton comme moi!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0253",
     "en": "  [FFEB]Hee hee! Another victim ensnared by the{SAUT}moon's charms!{ATTENTE}",
-    "fr": ""
+    "fr": "  [FFEB]Hi hi! Une autre victime prise dans les{SAUT}charmes de la lune!{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0254",
     "en": "{PAGE}I'm feelin' generous tonight. I'll take{SAUT}somethin' other than yer life.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Je me sens généreux ce soir. Je prendrai{SAUT}autre chose que ta vie.[FFF1](*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0255",
     "en": "   [FFEC]...Eh? I thought you were an old{SAUT}acquaintance. ...Who goes there?[FFFD][7CFF][F500]   If this shows up, it's a bug.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   [FFEC]...Eh? Je te prenais pour une vieille{SAUT}connaissance. ...Qui va là?[FFFD][7CFF][F500]   Si ça s'affiche, c'est un bug.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0256",
     "en": "  [FFEB]...Eh? I thought you were an old{SAUT}acquaintance. Seems I'm mistaken.{ATTENTE}",
-    "fr": ""
+    "fr": "  [FFEB]...Eh? Je te prenais pour une vieille{SAUT}connaissance. Je me suis trompé.{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0257",
     "en": "{PAGE}I don't know you from Adam... Hohoho...(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Je te connais pas du tout... Hohoho...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0258",
     "en": "   Ooh! A life of servitude is a life{SAUT}well lived. You got any wishes?(*OPTION*)",
-    "fr": ""
+    "fr": "   Ooh! Une vie de service est une vie{SAUT}bien vécue. Tu as des souhaits?(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0259",
     "en": " Argh! I'm blowin' my top! You ready to{SAUT}put up your dukes!?(*OPTION*)",
-    "fr": ""
+    "fr": " Argh! Je sors de mes gonds! Tu es prêt{SAUT}à lever les poings!?(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0260",
     "en": " Yeargh! It's a demon! Ya know what they{SAUT}say, he who runs fights another day!(*OPTION*)",
-    "fr": ""
+    "fr": " Yeargh! Un démon! Tu connais le dicton,{SAUT}qui fuit se bat un autre jour!(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0261",
     "en": "   Hohoho! Not every day ya laugh this{SAUT}much!(*OPTION*)",
-    "fr": ""
+    "fr": "   Hohoho! On rit pas autant tous les{SAUT}jours!(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0262",
     "en": "  Still! This is a pain! Let's pick up{SAUT}the pace on this negotiation!{ATTENTE}",
-    "fr": ""
+    "fr": "  Quand même! C'est pénible! Accélérons{SAUT}un peu cette négociation!{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0263",
     "en": "{PAGE}Come on, don't just stand there all{SAUT}slack-jawed! Hurry up and state yer{SAUT}business!(*OPTION*)",
-    "fr": ""
+    "fr": "{PAGE}Allons, reste pas planté là bouche{SAUT}bée! Dépêche-toi de dire ce que{SAUT}tu veux!(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0264",
     "en": "  Still! Why you usin' techniques like{SAUT}that on me...?{ATTENTE}",
-    "fr": ""
+    "fr": "  Quand même! Pourquoi tu uses de ces{SAUT}techniques sur moi...?{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0265",
     "en": "{PAGE}No matter how old I get, I don't{SAUT}understand humans any better. Whaddaya{SAUT}want from me?(*OPTION*)",
-    "fr": ""
+    "fr": "{PAGE}Même vieux, je comprends pas mieux les{SAUT}humains. Qu'est-ce que tu me{SAUT}veux?(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0266",
     "en": " Ho, ho! That was hospitality at its{SAUT}finest! You're as sincere as they come!{ATTENTE}",
-    "fr": ""
+    "fr": " Ho, ho! Voilà de l'hospitalité à son{SAUT}meilleur! Tu es sincère comme tout!{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0267",
     "en": "{PAGE}Alright, to show my gratitude, I'll{SAUT}return the favor!(*OPTION*)",
-    "fr": ""
+    "fr": "{PAGE}Bien, pour montrer ma gratitude, je{SAUT}te rends la faveur!(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0268",
     "en": " What the...!? Why's an old-timer like{SAUT}me gotta go through with this!?(*OPTION*)",
-    "fr": ""
+    "fr": " Quoi donc...!? Pourquoi un ancien comme{SAUT}moi doit passer par là!?(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0269",
     "en": "  Your negotiation style's a bit immature!{SAUT}Try it again later.(*OPTION*)",
-    "fr": ""
+    "fr": "  Ton style de négociation est immature!{SAUT}Réessaie plus tard.(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0270",
     "en": "   Hmmm... Maybe if I went with you, I'd{SAUT}have a peaceful life. Perhaps it's time{SAUT}to give over...(*OPTION*)",
-    "fr": ""
+    "fr": "   Hmmm... Si je partais avec toi, j'aurais{SAUT}peut-être une vie paisible. Il est{SAUT}peut-être temps de céder...(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0271",
     "en": "  Well... Hmm... What should I ask for...?{ATTENTE}",
-    "fr": ""
+    "fr": "  Bon... Hmm... Qu'est-ce que je demande...?{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0272",
     "en": "{PAGE}I guess I'll take my share of the money.{SAUT}￥(*VALUE*).(*OPTION*)",
-    "fr": ""
+    "fr": "{PAGE}Je prendrai ma part d'argent.{SAUT}￥(*VALUE*).(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0273",
     "en": " Ho, ho! You make it seem like money{SAUT}really does grow on trees!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Ho, ho! On croirait que l'argent pousse{SAUT}vraiment dans les arbres!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0274",
     "en": " Empty pockets, eh?! You're hopeless...{SAUT}But I guess ya can't give what ya{SAUT}ain't got...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Les poches vides, hein?! Tu es sans{SAUT}espoir... Mais on peut pas donner ce{SAUT}qu'on a pas...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0275",
     "en": "  Hey! You're comin' up short! Lyin' never{SAUT}pays!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hé! Il en manque! Mentir ne paie{SAUT}jamais!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0276",
     "en": " What a waste... Yer supposed to be{SAUT}savin' money at your age, ain't ya?(*RESPONSE*)",
-    "fr": ""
+    "fr": " Quel gaspillage... Tu es censé faire des{SAUT}économies à ton âge, non?(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0277",
     "en": " Nobody likes emptyin' their wallet...{SAUT}But ya still gotta do it!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Personne n'aime vider sa bourse...{SAUT}Mais il faut bien le faire!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0278",
     "en": "Let's see... I think I'll take a{SAUT}delicious life stone. One oughta do.(*OPTION*)",
-    "fr": ""
+    "fr": "Voyons... Je prendrai une bonne pierre{SAUT}de vie. Une devrait suffire.(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0279",
     "en": "  Ho ho! You're well-behaved for your age.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Ho ho! Tu es bien sage pour ton âge.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0280",
     "en": "   You ain't got the goods!? Anyone who'd{SAUT}negotiate without life stones is a real{SAUT}terror...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Tu as pas la marchandise!? Qui{SAUT}négocierait sans pierres de vie est une{SAUT}vraie terreur...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0281",
     "en": "   Hey! You're comin' up short! Lyin' never{SAUT}pays!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hé! Il en manque! Mentir ne paie{SAUT}jamais!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0282",
     "en": " You don't get it, do ya? There ain't no{SAUT}door a life stone can't open. Ya best{SAUT}keep that in mind.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tu comprends pas, hein? Il n'y a pas de{SAUT}porte qu'une pierre de vie n'ouvre pas.{SAUT}Garde ça en tête.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0283",
     "en": "   Nobody likes emptyin' their wallet...{SAUT}But ya still gotta do it!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Personne n'aime vider sa bourse...{SAUT}Mais il faut bien le faire!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0284",
     "en": "I ain't no profiteer, but I'd like a{SAUT}[FFF4] very much.(*OPTION*)",
-    "fr": ""
+    "fr": "Je suis pas un profiteur, mais j'aimerais{SAUT}beaucoup un [FFF4].(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0285",
     "en": "  You'll give it to me? I guess anything's{SAUT}worth a shot. Hohoho.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Tu me le donnes? J'imagine que tout{SAUT}mérite d'être tenté. Hohoho.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0286",
     "en": " It was my mistake.(*RESPONSE*)",
-    "fr": ""
+    "fr": " C'était mon erreur.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0287",
     "en": " Ho ho ho! I was just tryin' to be a bit{SAUT}ambitious. Don't pay this old man no{SAUT}heed.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Ho ho ho! J'essayais juste d'être un peu{SAUT}ambitieux. Fais pas attention à ce{SAUT}vieux.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0288",
     "en": " Argh! What a waste! You tryin' to make{SAUT}a mockery of livin' within your means!?(*RESPONSE*)",
-    "fr": ""
+    "fr": " Argh! Quel gaspillage! Tu te moques de{SAUT}vivre selon tes moyens!?(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0289",
     "en": " Lemme see... I'll take food over flowers{SAUT}any day. Gimme some life.(*OPTION*)",
-    "fr": ""
+    "fr": " Voyons... Je prends la nourriture avant{SAUT}les fleurs. Donne-moi de la vie.(*OPTION*)"
   },
   {
     "id": "KOROU.BIN:text:0290",
     "en": " Ho ho! How delicious! I better not{SAUT}over-eat. Gives me indigestion!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Ho ho! Quel délice! Je dois pas trop{SAUT}manger. Ça me donne des aigreurs!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0291",
     "en": " Eh? You feelin' alright? You gotta take{SAUT}better care of yourself.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Eh? Tu te sens bien? Tu dois prendre{SAUT}mieux soin de toi.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0292",
     "en": "   Argh! Ya won't let me take any!? You{SAUT}shouldn't be so finicky!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Argh! Tu me laisses rien prendre!? Tu{SAUT}devrais pas être si difficile!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0293",
     "en": "  Really!? Well, I understand the need to{SAUT}be modest!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Vraiment!? Bon, je comprends le besoin{SAUT}d'être modeste!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0294",
     "en": " What's that!? Ya say there're things{SAUT}even I can't accomplish? Intriguing!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Quoi donc!? Tu dis qu'il y a des choses{SAUT}que même moi je peux pas? Intrigant!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0295",
     "en": "  I'm old. I shouldn't strain myself...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Je suis vieux. Je devrais pas me forcer...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0296",
     "en": "  That's right! Gimme the details, and{SAUT}I'll give ya my ear.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  C'est ça! Donne-moi les détails, et{SAUT}je te prête l'oreille.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0297",
     "en": "  Hohoho, you've got some fine pickins.{SAUT}Maybe it's worth complyin' with you...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hohoho, tu as de belles trouvailles.{SAUT}Ça vaut peut-être le coup de céder...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0298",
     "en": "   Hey! Ain't no worse negotiation tactic{SAUT}than bribery!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hé! Il n'y a pas de pire tactique de{SAUT}négociation que la corruption!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0299",
     "en": "   What ya gettin' all excited about!?{SAUT}I never said I'd give ya my spell card!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Pourquoi tu t'emballes comme ça!?{SAUT}J'ai jamais dit que je donnais ma carte!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0300",
     "en": "Heh, I'm glad yer honest.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hé, je suis content que tu sois honnête.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0301",
     "en": "  Eh? You don't need it? Well yer no{SAUT}fun...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Eh? Tu en as pas besoin? Tu es{SAUT}pas drôle...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0302",
     "en": "  Argh! You don't get it! That won't{SAUT}effect me in the slightest!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Argh! Tu comprends pas! Ça ne{SAUT}m'atteindra pas le moins du monde!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0303",
     "en": " Ah, you haven't taken the first step{SAUT}toward spirituality. Not that I blame ya{SAUT}at your age.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Ah, tu as pas fait le premier pas vers{SAUT}la spiritualité. Je t'en blâme pas{SAUT}à ton âge.(*RESPONSE*)"
   }
 ]

@@ -2,504 +2,504 @@
   {
     "id": "KOROU.BIN:text:0304",
     "en": " Wh-Whatchya plannin' on rippin'!?{SAUT}I don't understand you scary humans at{SAUT}all...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Qu-Qu'est-ce que tu comptes arracher!?{SAUT}Je comprends rien à vous, humains{SAUT}effrayants...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0305",
     "en": "＊nod＊ You're a good, earnest lad.(*RESPONSE*)",
-    "fr": ""
+    "fr": "＊hoche＊ Tu es un bon garçon sincère.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0306",
     "en": "  Argh! Fine then!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Argh! Très bien alors!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOROU.BIN:text:0307",
     "en": "   Eh? I'm losin' interest here.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Eh? Je perds mon intérêt, là.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0308",
     "en": "  If I'm just a number for yer body count,{SAUT}I ain't goin' down without a fight!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Si je suis juste un numéro dans ton{SAUT}tableau, je tomberai pas sans me battre!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0309",
     "en": "   Ugh... What do you think you're doin'?{SAUT}You're scarin' the daylights outta me...(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Ugh... Qu'est-ce que tu crois faire?{SAUT}Tu me fiches une peur bleue...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOROU.BIN:text:0310",
     "en": "Oh, that was a joke? Ya got me! You{SAUT}looked so real. Hohoho.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Oh, c'était une blague? Tu m'as eu! Tu{SAUT}avais l'air si vrai. Hohoho.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOROU.BIN:text:0311",
     "en": "I thought I was retired, but duty calls{SAUT}me yet again...＊sigh＊(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je me croyais à la retraite, mais le{SAUT}devoir m'appelle encore...＊soupir＊(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0312",
     "en": "  You plannin' on cookin' me? Demons ain't{SAUT}so edible. So what're you planning...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Tu comptes me cuisiner? Les démons sont{SAUT}pas si comestibles. Tu prévois quoi...?(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0313",
     "en": "Ho, ho! You want to hear the ramblings{SAUT}of an old man? Sure! I'll indulge ya.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ho, ho! Tu veux entendre les radotages{SAUT}d'un vieux? Bien sûr! Je t'en régale.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0314",
     "en": "   Oh... You knew... Well roll me in corn{SAUT}flour and call me dinner. I got upset{SAUT}over nothin'.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Oh... Tu savais... Eh bien, j'en reviens{SAUT}pas. Je me suis fâché pour{SAUT}rien.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0315",
     "en": " What!? I ain't protected by the law!?(*RESPONSE*)",
-    "fr": ""
+    "fr": " Quoi!? Je suis pas protégé par la loi!?(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0316",
     "en": "  Argh! Discrimination is evil!{SAUT}Especially like that!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Argh! La discrimination est un mal!{SAUT}Surtout celle-là!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0317",
     "en": "Ho, ho! Sounds like I read into it too{SAUT}much. My apologies.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ho, ho! On dirait que j'ai trop{SAUT}interprété. Je m'en excuse.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0318",
     "en": " Is that so? It's fine then.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Ah bon? Alors ça va.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0319",
     "en": "Don't ask questions of a closed mouth...{SAUT}The world's full of scary things...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pose pas de questions à une bouche{SAUT}close... Le monde est plein d'horreurs...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0320",
     "en": "   ＊sigh＊ I ain't dealin' with a child{SAUT}that can't understand me.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   ＊soupir＊ Je traite pas avec un enfant{SAUT}qui peut pas me comprendre.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0321",
     "en": "  You could be singin' a cappella for all{SAUT}I care. It don't change your rhythm!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Tu pourrais chanter a cappella, ça me{SAUT}ferait rien. Ton rythme reste le même!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0322",
     "en": "   Hrm... That one wasn't too bad. Kinda{SAUT}soothing.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hrm... Celle-là était pas si mal. Plutôt{SAUT}apaisante.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0323",
     "en": "On top of that, you've got a short fuse.{SAUT}...I can't handle all this malarky.(*RESPONSE*)",
-    "fr": ""
+    "fr": "En plus, tu es soupe au lait.{SAUT}...Je supporte pas ces sornettes.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0324",
     "en": "   So ya did lose your marbles... Poor{SAUT}thing...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Alors tu as bien perdu la tête... Pauvre{SAUT}chose...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0325",
     "en": "   Hey! Smile all you want, but it's{SAUT}insincere. And your horrible voice is{SAUT}still horrible!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hé! Souris tant que tu veux, c'est pas{SAUT}sincère. Et ton horrible voix est{SAUT}toujours horrible!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0326",
     "en": "Hoho! That's good, that's good.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hoho! C'est bien, c'est bien.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0327",
     "en": "Hmph! It's rough dealin' with simpletons{SAUT}who get fixated on one thing!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hmph! C'est rude de traiter avec des{SAUT}simplets qui se fixent sur une chose!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0328",
     "en": " Eh? You're done already? That's a shame.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Eh? Tu as déjà fini? C'est dommage.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0329",
     "en": "   Hmph... Such obvious brown-nosin'...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hmph... Quelle flatterie évidente...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0330",
     "en": "   I'm sorry to say it, but I think I'm{SAUT}too old to help you.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Je suis navré de le dire, mais je crois{SAUT}être trop vieux pour t'aider.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0331",
     "en": "  Hohoho, so you let the wind carry you{SAUT}where it will, eh? That's interesting.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hohoho, alors tu te laisses porter par{SAUT}le vent? C'est intéressant.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0332",
     "en": "   So now that ya know, you should back{SAUT}out while ya can.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Alors maintenant que tu sais, tu{SAUT}devrais reculer tant que tu peux.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0333",
     "en": " Hmm...? You speak your mind, don't ya?{ATTENTE}",
-    "fr": ""
+    "fr": " Hmm...? Tu dis ce que tu penses, hein?{ATTENTE}"
   },
   {
     "id": "KOROU.BIN:text:0334",
     "en": "{PAGE}But still, you're here to negotiate{SAUT}with me, aren't ya? Bet I'm right.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Mais tu es quand même là pour négocier{SAUT}avec moi, non? Je parie que j'ai raison.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0335",
     "en": " Argh! What an unruly whippersnapper!{SAUT}Time to bring out the wooden spoon!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Argh! Quel galopin indiscipliné!{SAUT}Il est temps de sortir la cuillère!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0336",
     "en": "   Ho, ho! Missy, you know just how to{SAUT}flatter a demon!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Ho, ho! Fillette, tu sais comment{SAUT}flatter un démon!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0337",
     "en": "   What...? That's all I am...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Quoi...? C'est tout ce que je suis...?(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0338",
     "en": "   Hey! If I'm less than straw, then who{SAUT}are you to come beggin' for favors!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hé! Si je vaux moins que de la paille,{SAUT}qui es-tu pour venir quémander!?(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0339",
     "en": " Are you a fool!? I was talkin' about{SAUT}the rarest kind of beauty!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tu es sot!? Je parlais de la plus rare{SAUT}des beautés!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0340",
     "en": "Hohoho. It's a good thing you're cute,{SAUT}'cause you're downright dumb.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hohoho. Heureusement que tu es mignonne,{SAUT}parce que tu es carrément sotte.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0341",
     "en": "   Ho, ho! Figuring out the meaning of my{SAUT}words takes skill.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Ho, ho! Saisir le sens de mes paroles{SAUT}demande du talent.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0342",
     "en": "  What!? So what if it was sarcasm, no{SAUT}need to get all blustered over it!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Quoi!? Et alors si c'était du sarcasme,{SAUT}pas la peine de s'emporter!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0343",
     "en": "Oh... That all? Well roll me in corn{SAUT}flour and call me dinner. I got upset{SAUT}over nothin'.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh... C'est tout? Eh bien, j'en reviens{SAUT}pas. Je me suis fâché pour{SAUT}rien.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0344",
     "en": "   Hm, you won't do nothin'?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hm, tu ne feras rien?(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0345",
     "en": "  I can't trust you just like that. You{SAUT}must be up to somethin'...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Je peux pas te croire comme ça. Tu{SAUT}dois préparer quelque chose...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0346",
     "en": "   Wh-What are you plannin' to eat? You{SAUT}wouldn't feast on my soul, would ya...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Qu-Qu'est-ce que tu comptes manger? Tu{SAUT}dévorerais pas mon âme, si...?(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0347",
     "en": "   Hohoho! I'm happy to hear that.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hohoho! Ça me fait plaisir à entendre.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0348",
     "en": "Argh! It's a matter of fact! Stop{SAUT}your jibberjabberin'!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Argh! C'est un fait! Arrête ton{SAUT}baratin!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0349",
     "en": "Ho, ho! We're like peas in a pod.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ho, ho! On est faits du même bois.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0350",
     "en": "  Oh, you're busy? So much for takin'{SAUT}you some place nice...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Oh, tu es occupé? Tant pis pour{SAUT}t'emmener dans un bel endroit...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0351",
     "en": " You're so busy that you're beggin' me...{SAUT}The human world must be tough...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tu es si occupé que tu me supplies...{SAUT}Le monde humain doit être rude...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0352",
     "en": "  You got nerves of steel or somethin'?{SAUT}Modern women give me the willies...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Tu as des nerfs d'acier ou quoi?{SAUT}Les femmes modernes me font frémir...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0353",
     "en": "  ...Then it's okay.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  ...Alors ça va.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0354",
     "en": " Argh! What a rude young lady! I've had{SAUT}it up to here!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Argh! Quelle jeune impolie! J'en ai{SAUT}par-dessus la tête!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0355",
     "en": "  Hohoho! I'll take anything I can get.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hohoho! Je prends tout ce que je peux.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0356",
     "en": "  Argh! It's got a different meaning!{SAUT}Back to the books with you!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Argh! Ça a un autre sens!{SAUT}Retourne à tes livres!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0357",
     "en": "That's right... But with a demeanor{SAUT}like that... This is pretty fishy...(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est vrai... Mais avec une attitude{SAUT}pareille... C'est bien louche...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0358",
     "en": "   That ain't quite right.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   C'est pas tout à fait ça.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0359",
     "en": "Ho, ho! You lost your memory? Well,{SAUT}start lookin' for it.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ho, ho! Tu as perdu la mémoire? Bon,{SAUT}mets-toi à la chercher.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0360",
     "en": "  Hey! Why'd you stop!? Couldn't keep up{SAUT}with your lies!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hé! Pourquoi tu t'arrêtes!? Tu arrivais{SAUT}plus à suivre tes mensonges!?(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0361",
     "en": "Hmm... It IS up to me. I apologize.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hmm... Ça DÉPEND de moi. Je m'excuse.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0362",
     "en": "That was rude to the deer? Well, then{SAUT}I apologize to 'em.(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'était impoli envers les cerfs? Bon,{SAUT}alors je m'excuse auprès d'eux.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0363",
     "en": "  Hohohoho, that's right.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hohohoho, c'est exact.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0364",
     "en": "You're a little too obedient. I think{SAUT}this is goin' a little too well...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu es un peu trop obéissant. Je trouve{SAUT}que ça se passe un peu trop bien...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0365",
     "en": "   Oh, so that WAS a lie. In the end, I'm{SAUT}just an old fogey...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Oh, c'était donc BIEN un mensonge. Au{SAUT}bout du compte, je suis qu'un croûton...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0366",
     "en": "Yer right.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu as raison.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0367",
     "en": " ...That ain't good...(*RESPONSE*)",
-    "fr": ""
+    "fr": " ...C'est pas bon...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0368",
     "en": "  Argh! Sure, you're fine with it, but{SAUT}I'm the one who's done for!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Argh! Bien sûr, ça te va, mais c'est{SAUT}moi qui suis fichu!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0369",
     "en": "   Oh, you ain't half bad after all.{SAUT}Obedient kids are the best kind.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Oh, tu es pas si mal après tout.{SAUT}Les enfants obéissants sont les meilleurs.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0370",
     "en": " I don't care much for kids who ignore{SAUT}the teachings of their elders.(*RESPONSE*)",
-    "fr": ""
+    "fr": " J'aime pas trop les gamins qui ignorent{SAUT}les leçons de leurs aînés.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0371",
     "en": "   You don't get it! I ain't gonna bother{SAUT}with kids who treat the words of the{SAUT}elderly like trash!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Tu comprends pas! Je m'embête pas avec{SAUT}les gamins qui traitent les mots des{SAUT}vieux comme des ordures!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0372",
     "en": "...Er, I wasn't expectin' a straight{SAUT}answer...(*RESPONSE*)",
-    "fr": ""
+    "fr": "...Euh, je m'attendais pas à une réponse{SAUT}aussi directe...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0373",
     "en": " ...You're fine with men!? Well, in my{SAUT}day, that wouldn't fly...(*RESPONSE*)",
-    "fr": ""
+    "fr": " ...Les hommes te vont!? Bon, de mon{SAUT}temps, ça passait pas...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0374",
     "en": "Exactly! I agree!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Exactement! Je suis d'accord!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0375",
     "en": "  Ho, ho! That joke's a classic. You're{SAUT}quite the entertainer!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Ho, ho! Cette blague est un classique.{SAUT}Tu es un sacré amuseur!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0376",
     "en": "   You ain't makin' sense! Who're you{SAUT}callin' Mrs. Kawasaki!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Tu dis n'importe quoi! Qui tu appelles{SAUT}madame Kawasaki!?(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0377",
     "en": " Not sure I get that joke... I think{SAUT}you told it wrong...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Pas sûr de comprendre cette blague...{SAUT}Je crois que tu l'as mal racontée...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0378",
     "en": "   Wha...? What's that?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Quoi...? C'est quoi, ça?(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0379",
     "en": "   What're you sayin'!? If that's really{SAUT}what ya want, I'll turn ya red!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Qu'est-ce que tu dis!? Si c'est{SAUT}vraiment ce que tu veux, je te rougis!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0380",
     "en": "  Unfortunately, it doesn't turn green{SAUT}very easily...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Malheureusement, ça ne verdit pas{SAUT}très facilement...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0381",
     "en": "Don't... hoho! Say... That...! Hoho!{SAUT}Stop... hoho! Me... Hohohoho!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Dis... hoho! Pas... Ça...! Hoho!{SAUT}Arrête... hoho! Moi... Hohohoho!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0382",
     "en": " Urgh! Rah! My laughing stopped!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Urgh! Rah! Mon rire s'est arrêté!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0383",
     "en": "I'm in pain and you're joking around!?{SAUT}You inconsiderate good-for-nothin'!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je souffre et tu plaisantes!?{SAUT}Espèce de bon à rien sans égard!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0384",
     "en": " Ack! I can't do anything shameful from{SAUT}now on!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Ack! Je peux plus rien faire de{SAUT}honteux désormais!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0385",
     "en": " ...That so? Fine by me, as long as we{SAUT}aren't talking about my weakness...(*RESPONSE*)",
-    "fr": ""
+    "fr": " ...Ah bon? Ça me va, du moment qu'on{SAUT}parle pas de mon point faible...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0386",
     "en": "  ...Don't say tragic things like that...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  ...Dis pas des choses tragiques comme ça...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0387",
     "en": "No! That's not good! I'll fix ya right{SAUT}up!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Non! C'est pas bon! Je vais te remettre{SAUT}d'aplomb!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0388",
     "en": " True, but I still prefer a hot bath.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Vrai, mais je préfère encore un bain chaud.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0389",
     "en": "   No, you are. You need to be more aware{SAUT}of things!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Non, c'est toi. Tu dois être plus{SAUT}conscient des choses!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0390",
     "en": "  Ho, ho! You know how to play the relaxed{SAUT}card!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Ho, ho! Tu sais jouer la carte de la{SAUT}décontraction!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0391",
     "en": " Hey! You can't have that kinda attitude{SAUT}if you're gonna carry the weight of{SAUT}the world someday!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hé! Tu peux pas avoir ce genre de ton{SAUT}si tu dois porter le poids du monde{SAUT}un jour!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0392",
     "en": " ...Why ya gotta be so violent toward{SAUT}an old man...?(*RESPONSE*)",
-    "fr": ""
+    "fr": " ...Pourquoi tu es si violent envers{SAUT}un vieux...?(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0393",
     "en": "Urgh... Blast, I'm all shook up. You{SAUT}got me there.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Urgh... Fichtre, je suis tout secoué.{SAUT}Tu m'as eu là.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0394",
     "en": " Argh! Give it your best shot!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Argh! Donne tout ce que tu as!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0395",
     "en": "  ...Don't say that. Pull 'em...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  ...Dis pas ça. Arrache-les...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0396",
     "en": " You really want the hair on my ass!?{SAUT}Whatchya gonna do, sniff 'em...?(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tu veux vraiment les poils de mon{SAUT}derrière!? Tu vas les renifler...?(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0397",
     "en": "  You'll pull 'em out over my dead body!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Tu les arracheras sur mon cadavre!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0398",
     "en": " No, no. Livers are better as sashimi.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Non, non. Le foie est meilleur en sashimi.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0399",
     "en": "  If you cool off any more than this, I'll{SAUT}lose what little vigor I've got...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Si tu refroidis plus que ça, je perdrai{SAUT}le peu de vigueur qu'il me reste...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0400",
     "en": "Why'd you rub!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pourquoi tu as frotté!?(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0401",
     "en": "Oh, well if you ain't got any, then{SAUT}I don't need it.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oh, bon, si tu en as pas, alors{SAUT}j'en ai pas besoin.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0402",
     "en": "   Argh! What's with that attitude!? The{SAUT}customer is always right!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Argh! C'est quoi ce ton!? Le client{SAUT}a toujours raison!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:text:0403",
     "en": "Who's... that...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "C'est... qui...?(*RESPONSE*)"
   }
 ]
