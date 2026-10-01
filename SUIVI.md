@@ -3,12 +3,13 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Dialogues      ████████████████░░░░░░░░   67 %    5 742 / 8 572 textes
-EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
+Dialogues      ████████████████░░░░░░░░   67 %    5 742 / 8 572 textes
+EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
-Négociations   ███████████████████████░   96 %   11 931 / 12 487 textes
+Négociations   ████████████████████████   99 %   12 331 / 12 487 textes
+Noms           ████████████████████████  100 %      439 / 439 textes
 
-Total          █████████████████████░░░   86 %   20 759 / 24 145 textes
+Total          █████████████████████░░░   88 %   21 598 / 24 584 textes
 ```
 
 ## Poids à surveiller
@@ -16,6 +17,7 @@ Total          █████████████████████�
 Ces entrées alourdissent leur fichier. Un bloc qui franchit sa frontière fait rester **tout le fichier en anglais** dans le jeu, sans erreur au build : c'est le plus sournois des avertissements.
 
 - [`E0_024.json`](trad/dialogues/E0_024.json) — 3 entrées
+- [`BASKET_006.json`](trad/negociations/BASKET_006.json) — 1 entrée
 - [`KOROU_002.json`](trad/negociations/KOROU_002.json) — 1 entrée
 - [`KOUMAN_001.json`](trad/negociations/KOUMAN_001.json) — 2 entrées
 - [`SINSI_003.json`](trad/negociations/SINSI_003.json) — 2 entrées
@@ -315,10 +317,10 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`ALIEN_002.json`](trad/negociations/ALIEN_002.json) | 5 | 5 | 100 % | terminé |
 | [`BASKET_001.json`](trad/negociations/BASKET_001.json) | 100 | 100 | 100 % | terminé |
 | [`BASKET_002.json`](trad/negociations/BASKET_002.json) | 100 | 100 | 100 % | terminé |
-| [`BASKET_003.json`](trad/negociations/BASKET_003.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#110) |
-| [`BASKET_004.json`](trad/negociations/BASKET_004.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#110) |
-| [`BASKET_005.json`](trad/negociations/BASKET_005.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#110) |
-| [`BASKET_006.json`](trad/negociations/BASKET_006.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#110) |
+| [`BASKET_003.json`](trad/negociations/BASKET_003.json) | 100 | 100 | 100 % | terminé |
+| [`BASKET_004.json`](trad/negociations/BASKET_004.json) | 100 | 100 | 100 % | terminé |
+| [`BASKET_005.json`](trad/negociations/BASKET_005.json) | 100 | 100 | 100 % | terminé |
+| [`BASKET_006.json`](trad/negociations/BASKET_006.json) | 100 | 100 | 100 % | terminé · 1 à alléger |
 | [`BASKET_007.json`](trad/negociations/BASKET_007.json) | 100 | 0 | 0 % | libre |
 | [`BASKET_008.json`](trad/negociations/BASKET_008.json) | 56 | 0 | 0 % | libre |
 | [`DOPPEL_001.json`](trad/negociations/DOPPEL_001.json) | 100 | 100 | 100 % | terminé |
@@ -450,4 +452,18 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`ZOMBIKO_002.json`](trad/negociations/ZOMBIKO_002.json) | 90 | 90 | 100 % | terminé par @ATMC14 |
 | [`ZOMB_MAN_001.json`](trad/negociations/ZOMB_MAN_001.json) | 100 | 100 | 100 % | terminé · 4 trop large |
 | [`ZOMB_MAN_002.json`](trad/negociations/ZOMB_MAN_002.json) | 82 | 82 | 100 % | terminé par @vikmorp |
+
+## Noms
+
+Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en « en cours » dans la minute.
+
+| Fichier | Textes | Traduits | % | État |
+|---|---:|---:|---:|---|
+| [`ARMES_001.json`](trad/noms/ARMES_001.json) | 100 | 100 | 100 % | terminé |
+| [`ARMES_002.json`](trad/noms/ARMES_002.json) | 2 | 2 | 100 % | terminé |
+| [`ARMURES_001.json`](trad/noms/ARMURES_001.json) | 65 | 65 | 100 % | terminé |
+| [`OBJETS_001.json`](trad/noms/OBJETS_001.json) | 100 | 100 | 100 % | terminé |
+| [`OBJETS_002.json`](trad/noms/OBJETS_002.json) | 54 | 54 | 100 % | terminé |
+| [`SORTS_001.json`](trad/noms/SORTS_001.json) | 100 | 100 | 100 % | terminé |
+| [`SORTS_002.json`](trad/noms/SORTS_002.json) | 18 | 18 | 100 % | terminé |
 
