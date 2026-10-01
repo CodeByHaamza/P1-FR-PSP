@@ -37,28 +37,28 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26A580",
     "en": "Dis-Stone(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Anti-pierre(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_26A5C0",
     "en": "Dis-Para(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Anti-paralysie(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_26A600",
     "en": "Dis-Poison(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Anti-poison(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_26A640",
     "en": "Dis-Sick(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Anti-maladie(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
@@ -128,7 +128,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26A8C0",
     "en": "St Incense(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Encens St(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
@@ -142,7 +142,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26A940",
     "en": "Dx Incense(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Encens Dx(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
@@ -163,14 +163,14 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26AA00",
     "en": "HP Incense(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Encens HP(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_26AA40",
     "en": "SP Incense(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Encens SP(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
@@ -695,7 +695,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26BDC0",
     "en": "AppIe Pie(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Tarte aux pornmes(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   }

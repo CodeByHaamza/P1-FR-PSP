@@ -2,7 +2,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26F3C0",
     "en": "QQ Helmet(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Casque QQ(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
@@ -24,7 +24,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26F476",
     "en": "Fever Crown(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Couronne fiévreuse(*TERMINATOR*)",
     "_tete": " [0903] [E200][20A0]",
     "max": 19,
     "_fixe": true
@@ -46,7 +46,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26F576",
     "en": "Witch's Hat(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Chapeau de sorcière(*TERMINATOR*)",
     "_tete": " [4304] [6400][20A0]",
     "max": 19,
     "_fixe": true
@@ -54,7 +54,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26F5B6",
     "en": "Dragon Helm(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Casque dragon(*TERMINATOR*)",
     "_tete": " [4404] [8100][20A0]",
     "max": 19,
     "_fixe": true
@@ -62,7 +62,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26F5F6",
     "en": "Daybreak Helmet(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Casque de l'aube(*TERMINATOR*)",
     "_tete": " [A00F] [E200][20A0]",
     "max": 19,
     "_fixe": true
@@ -70,7 +70,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26F636",
     "en": "Egili's Helmet(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Casque d'Egili(*TERMINATOR*)",
     "_tete": " [2413] [1D01][20A0]",
     "max": 19,
     "_fixe": true
@@ -85,7 +85,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26F6B6",
     "en": "Jagd Helm(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Casque Jagd(*TERMINATOR*)",
     "_tete": " [4C1D] [1D01][20A0]",
     "max": 19,
     "_fixe": true
@@ -93,7 +93,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26F6F6",
     "en": "Sturm Helm(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Casque Sturm(*TERMINATOR*)",
     "_tete": " [E02E] [E200][20A0]",
     "max": 19,
     "_fixe": true
@@ -108,7 +108,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26F776",
     "en": "Spiegel Mask(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Masque Spiegel(*TERMINATOR*)",
     "_tete": " [50C3] [0100][20A0]",
     "max": 19,
     "_fixe": true
@@ -130,7 +130,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26F836",
     "en": "Stealth Suit(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Tenue furtive(*TERMINATOR*)",
     "_tete": " [0903] [1D01][28A0]",
     "max": 19,
     "_fixe": true
@@ -138,7 +138,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26F876",
     "en": "Seventh Coat(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Septième manteau(*TERMINATOR*)",
     "_tete": " [0903] [E200][28A0]",
     "max": 19,
     "_fixe": true
@@ -146,14 +146,14 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26F8C0",
     "en": "TAC-V2(*TERMINATOR*)",
-    "fr": "",
+    "fr": "TAC-V2(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_26F8F6",
     "en": "Golden Armor(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Armure dorée(*TERMINATOR*)",
     "_tete": " [6419] [E200][28A0]",
     "max": 19,
     "_fixe": true
@@ -168,7 +168,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26F976",
     "en": "Spinney Suit(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Tenue épineuse(*TERMINATOR*)",
     "_tete": " [4504] [5000][28A0]",
     "max": 19,
     "_fixe": true
@@ -176,7 +176,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26F9B6",
     "en": "Angel Wing(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Aile d'ange(*TERMINATOR*)",
     "_tete": " [4604] [2400][28A0]",
     "max": 19,
     "_fixe": true
@@ -184,7 +184,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26F9F6",
     "en": "Daybreak Armor(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Armure de l'aube(*TERMINATOR*)",
     "_tete": " [9821] [E200][28A0]",
     "max": 19,
     "_fixe": true
@@ -199,7 +199,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26FAB6",
     "en": "Jagd Armor(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Armure Jagd(*TERMINATOR*)",
     "_tete": " [983A] [1D01][28A0]",
     "max": 19,
     "_fixe": true
@@ -207,7 +207,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26FAF6",
     "en": "Sturm Armor(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Armure Sturm(*TERMINATOR*)",
     "_tete": " [C05D] [E200][28A0]",
     "max": 19,
     "_fixe": true
@@ -222,7 +222,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26FB76",
     "en": "Spiegel Mail(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Cotte Spiegel(*TERMINATOR*)",
     "_tete": " [50C3] [0100][28A0]",
     "max": 19,
     "_fixe": true
@@ -244,7 +244,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26FC36",
     "en": "Dark Guard(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Garde sombre(*TERMINATOR*)",
     "_tete": " [0903] [1D01][30A0]",
     "max": 19,
     "_fixe": true
@@ -252,7 +252,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26FC76",
     "en": "Platinum Queen(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Reine de platine(*TERMINATOR*)",
     "_tete": " [0903] [E200][30A0]",
     "max": 19,
     "_fixe": true
@@ -267,7 +267,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26FCF6",
     "en": "Hamagari Gauntlet(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Gantelet Hamagari(*TERMINATOR*)",
     "_tete": " [FC08] [E200][30A0]",
     "max": 19,
     "_fixe": true
@@ -282,7 +282,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26FD76",
     "en": "Shishiou Gauntlet(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Gantelet Shishiou(*TERMINATOR*)",
     "_tete": " [4704] [8A00][30A0]",
     "max": 19,
     "_fixe": true
@@ -290,7 +290,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26FDB6",
     "en": "Demon Gauntlet(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Gantelet démon(*TERMINATOR*)",
     "_tete": " [4804] [8800][30A0]",
     "max": 19,
     "_fixe": true
@@ -298,7 +298,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26FDF6",
     "en": "Daybreak Gauntlet(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Gantelet de l'aube(*TERMINATOR*)",
     "_tete": " [740E] [E200][30A0]",
     "max": 19,
     "_fixe": true
@@ -306,7 +306,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26FE36",
     "en": "Raime Gauntlet(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Gantelet Raime(*TERMINATOR*)",
     "_tete": " [9411] [1D01][30A0]",
     "max": 19,
     "_fixe": true
@@ -321,7 +321,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26FEB6",
     "en": "Jagd Guard(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Garde Jagd(*TERMINATOR*)",
     "_tete": " [581B] [1D01][30A0]",
     "max": 19,
     "_fixe": true
@@ -329,7 +329,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26FEF6",
     "en": "Sturm Guard(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Garde Sturm(*TERMINATOR*)",
     "_tete": " [1027] [E200][30A0]",
     "max": 19,
     "_fixe": true
@@ -344,7 +344,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26FF76",
     "en": "Spiegel Shield(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Bouclier Spiegel(*TERMINATOR*)",
     "_tete": " [50C3] [0100][30A0]",
     "max": 19,
     "_fixe": true
@@ -366,7 +366,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_270036",
     "en": "Black Shoes(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Souliers noirs(*TERMINATOR*)",
     "_tete": " [0903] [1D01][38A0]",
     "max": 19,
     "_fixe": true
@@ -381,7 +381,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2700F6",
     "en": "Bell Greaves(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Jambières à grelots(*TERMINATOR*)",
     "_tete": " [3408] [E200][38A0]",
     "max": 19,
     "_fixe": true
@@ -396,7 +396,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_270176",
     "en": "Slime Shoes(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Souliers gluants(*TERMINATOR*)",
     "_tete": " [4904] a[38A0]",
     "max": 19,
     "_fixe": true
@@ -404,7 +404,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2701B6",
     "en": "Ghost Geta(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Geta fantôme(*TERMINATOR*)",
     "_tete": " [4A04] [0600][38A0]",
     "max": 19,
     "_fixe": true
@@ -412,7 +412,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2701F6",
     "en": "Daybreak Greaves(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Jambières de l'aube(*TERMINATOR*)",
     "_tete": " [AC0D] [E200][38A0]",
     "max": 19,
     "_fixe": true
@@ -420,7 +420,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_270236",
     "en": "Vidar's Shoes(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Souliers de Vidar(*TERMINATOR*)",
     "_tete": " [6810] [1D01][38A0]",
     "max": 19,
     "_fixe": true
@@ -435,7 +435,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2702B6",
     "en": "Jagd Leg(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Jambière Jagd(*TERMINATOR*)",
     "_tete": " [7017] [1D01][38A0]",
     "max": 19,
     "_fixe": true
@@ -443,7 +443,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2702F6",
     "en": "Sturm Leg(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Jambière Sturm(*TERMINATOR*)",
     "_tete": " [2823] [E200][38A0]",
     "max": 19,
     "_fixe": true
@@ -458,7 +458,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_270376",
     "en": "Spiegel Beine(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Jambières Spiegel(*TERMINATOR*)",
     "_tete": " [50C3] [0100][38A0]",
     "max": 19,
     "_fixe": true

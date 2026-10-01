@@ -17,7 +17,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26CD34",
     "en": "Athame Knife(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Couteau athamé(*TERMINATOR*)",
     "_tete": "p [6009] [2100][08A0]",
     "max": 19,
     "_fixe": true
@@ -25,7 +25,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26CD68",
     "en": "Mail Breaker(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Brise-mailles(*TERMINATOR*)",
     "_tete": "  [120F][0200]a[0070]p [B80B] [2100][08A0]",
     "max": 19,
     "_fixe": true
@@ -41,7 +41,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26CDF6",
     "en": "Fuuma's Wakizashi(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Wakizashi Fuuma(*TERMINATOR*)",
     "_tete": " [6419] [2100][08A0]",
     "max": 19,
     "_fixe": true
@@ -49,7 +49,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26CE6A",
     "en": "Phurba Dagger(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Dague phurba(*TERMINATOR*)",
     "_tete": " [3427][0200]a[0070][0610] [8025] [2100][08A0]",
     "max": 19,
     "_fixe": true
@@ -57,7 +57,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26CEB6",
     "en": "Lone Sword(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Épée solitaire(*TERMINATOR*)",
     "_tete": " [C832] [2100][08A0]",
     "max": 19,
     "_fixe": true
@@ -65,7 +65,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26CEF0",
     "en": "Futsu-no-Mitama(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Futsu-no-Mitama(*TERMINATOR*)",
     "_tete": "a[0070][0A10] [5046] [2100][08A0]",
     "max": 19,
     "_fixe": true
@@ -73,7 +73,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26CF30",
     "en": "Kusanagi's Sword(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Épée de Kusanagi(*TERMINATOR*)",
     "_tete": "c[0270][0C10] [3075] [2100][08A0]",
     "max": 19,
     "_fixe": true
@@ -81,7 +81,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26CF76",
     "en": "Spiegel Blade(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Lame Spiegel(*TERMINATOR*)",
     "_tete": " [50C3] [0100][08A0]",
     "max": 19,
     "_fixe": true
@@ -89,7 +89,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26D034",
     "en": "Plasma Sword(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Épée plasma(*TERMINATOR*)",
     "_tete": "q [800C] [0800][08A0]",
     "max": 19,
     "_fixe": true
@@ -97,7 +97,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26D074",
     "en": "Sonic Blade(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Lame sonique(*TERMINATOR*)",
     "_tete": "q [C012] [0800][08A0]",
     "max": 19,
     "_fixe": true
@@ -105,7 +105,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26D0B6",
     "en": "Sol Blade(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Lame solaire(*TERMINATOR*)",
     "_tete": " [7017] [0800][08A0]",
     "max": 19,
     "_fixe": true
@@ -113,7 +113,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26D276",
     "en": "Ameno-Murakumo(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Ameno-Murakumo(*TERMINATOR*)",
     "_tete": " [A08C] [0800][08A0]",
     "max": 19,
     "_fixe": true
@@ -121,7 +121,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26D2B6",
     "en": "Apache Lance(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Lance apache(*TERMINATOR*)",
     "_tete": " [EE02] [0400][08A0]",
     "max": 19,
     "_fixe": true
@@ -129,7 +129,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26D3B6",
     "en": "Dubthach Lance(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Lance de Dubthach(*TERMINATOR*)",
     "_tete": " [5014] [0400][08A0]",
     "max": 19,
     "_fixe": true
@@ -137,7 +137,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26D4F6",
     "en": "Kouma Staff(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Bâton Kouma(*TERMINATOR*)",
     "_tete": " [7440] [0400][08A0]",
     "max": 19,
     "_fixe": true
@@ -145,7 +145,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26D576",
     "en": "Ameno-Nuboko(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Ameno-Nuboko(*TERMINATOR*)",
     "_tete": " [3075] [0400][08A0]",
     "max": 19,
     "_fixe": true
@@ -153,7 +153,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26D5B6",
     "en": "Two-Handed Axe(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Hache à deux mains(*TERMINATOR*)",
     "_tete": " [1405] [1000][08A0]",
     "max": 19,
     "_fixe": true
@@ -161,7 +161,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26D5F4",
     "en": "Guillotine Axe(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Hache guillotine(*TERMINATOR*)",
     "_tete": "s [1C0C] [1000][08A0]",
     "max": 19,
     "_fixe": true
@@ -169,7 +169,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26D674",
     "en": "Head Basher(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Brise-crâne(*TERMINATOR*)",
     "_tete": "s [7017] [1000][08A0]",
     "max": 19,
     "_fixe": true
@@ -177,7 +177,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26D6B6",
     "en": "Raiga Axe(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Hache Raiga(*TERMINATOR*)",
     "_tete": " [841C] [1000][08A0]",
     "max": 19,
     "_fixe": true
@@ -185,7 +185,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26D836",
     "en": "Mandau Spoon(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Cuillère mandau(*TERMINATOR*)",
     "_tete": " [4871] [1000][08A0]",
     "max": 19,
     "_fixe": true
@@ -193,7 +193,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26D8B6",
     "en": "Gymnast's Rope(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Corde de gymnaste(*TERMINATOR*)",
     "_tete": " [2C01] [4000][08A0]",
     "max": 19,
     "_fixe": true
@@ -201,7 +201,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26D8F4",
     "en": "Scorpion Whip(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Fouet scorpion(*TERMINATOR*)",
     "_tete": "t [E803] [4000][08A0]",
     "max": 19,
     "_fixe": true
@@ -209,7 +209,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26D974",
     "en": "Strike Tail(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Queue cinglante(*TERMINATOR*)",
     "_tete": "t [8C0A] [4000][08A0]",
     "max": 19,
     "_fixe": true
@@ -217,7 +217,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26D9B6",
     "en": "Queen's Whip(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Fouet de la reine(*TERMINATOR*)",
     "_tete": " [C012] [4000][08A0]",
     "max": 19,
     "_fixe": true
@@ -225,7 +225,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26D9F6",
     "en": "Blizzard Storm(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Tempête de blizzard(*TERMINATOR*)",
     "_tete": " [0019] [4000][08A0]",
     "max": 19,
     "_fixe": true
@@ -233,7 +233,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26DA76",
     "en": "Heiji's Rope(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Corde de Heiji(*TERMINATOR*)",
     "_tete": " [AC26] [4000][08A0]",
     "max": 19,
     "_fixe": true
@@ -241,7 +241,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26DB36",
     "en": "Silver Medusa(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Méduse d'argent(*TERMINATOR*)",
     "_tete": " [204E] [4000][08A0]",
     "max": 19,
     "_fixe": true
@@ -249,7 +249,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26DB76",
     "en": "Jingle Whip(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Fouet à grelots(*TERMINATOR*)",
     "_tete": " [305C] [4000][08A0]",
     "max": 19,
     "_fixe": true
@@ -257,7 +257,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26DBB6",
     "en": "Crane Razor(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Rasoir de grue(*TERMINATOR*)",
     "_tete": " [9001] [8000][08A0]",
     "max": 19,
     "_fixe": true
@@ -265,7 +265,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26DBF4",
     "en": "Shadow Needle(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Aiguille d'ombre(*TERMINATOR*)",
     "_tete": "u [8403] [8000][08A0]",
     "max": 19,
     "_fixe": true
@@ -273,7 +273,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26DC34",
     "en": "Majou-Sen(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Majou-Sen(*TERMINATOR*)",
     "_tete": "u [B004] [8000][08A0]",
     "max": 19,
     "_fixe": true
@@ -281,7 +281,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26DCB6",
     "en": "Spike Somai(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Somai à pointes(*TERMINATOR*)",
     "_tete": " [1C0C] [8000][08A0]",
     "max": 19,
     "_fixe": true
@@ -289,7 +289,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26DCF6",
     "en": "Twin Bird(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Oiseau jumeau(*TERMINATOR*)",
     "_tete": " [B414] [8000][08A0]",
     "max": 19,
     "_fixe": true
@@ -297,7 +297,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26DDB6",
     "en": "Wu Huo Shen Yan Shan,",
-    "fr": "",
+    "fr": "Wu Huo Shen Yan Shan",
     "_tete": " [8025] [8000][08A0]",
     "max": 20,
     "_fixe": true
@@ -305,7 +305,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26DDF6",
     "en": "Justice Coin(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Pièce de justice(*TERMINATOR*)",
     "_tete": " [0032] [8000][08A0]",
     "max": 19,
     "_fixe": true
@@ -313,7 +313,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26DE76",
     "en": "Infinity(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Infini(*TERMINATOR*)",
     "_tete": " [F055] [8000][08A0]",
     "max": 19,
     "_fixe": true
@@ -321,7 +321,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26DEB6",
     "en": "Archery Set(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Arc d'entraînement(*TERMINATOR*)",
     "_tete": " [E803] [0200][08A0]",
     "max": 19,
     "_fixe": true
@@ -329,7 +329,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26DEF4",
     "en": "Delta Storm(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Tempête Delta(*TERMINATOR*)",
     "_tete": "v [3408] [0200][08A0]",
     "max": 19,
     "_fixe": true
@@ -337,7 +337,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26DF34",
     "en": "Kokuteki Bow(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Arc Kokuteki(*TERMINATOR*)",
     "_tete": "v [280A] [0200][08A0]",
     "max": 19,
     "_fixe": true
@@ -345,7 +345,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26DFB6",
     "en": "Stargazer(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Guette-étoiles(*TERMINATOR*)",
     "_tete": " [5014] [0200][08A0]",
     "max": 19,
     "_fixe": true
@@ -353,7 +353,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E0B6",
     "en": "Kagirohi-maru(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Kagirohi-maru(*TERMINATOR*)",
     "_tete": " [E02E] [0200][08A0]",
     "max": 19,
     "_fixe": true
@@ -361,7 +361,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E0F6",
     "en": "Harald's Bow(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Arc de Harald(*TERMINATOR*)",
     "_tete": " [983A] [0200][08A0]",
     "max": 19,
     "_fixe": true
@@ -369,7 +369,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E136",
     "en": "Death Cross(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Croix de mort(*TERMINATOR*)",
     "_tete": " [C05D] [0200][08A0]",
     "max": 19,
     "_fixe": true
@@ -377,7 +377,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E176",
     "en": "Holy Comet(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Comète sacrée(*TERMINATOR*)",
     "_tete": " [606D] [0200][08A0]",
     "max": 19,
     "_fixe": true
@@ -385,7 +385,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E1B6",
     "en": "Boxing Glove(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Gant de boxe(*TERMINATOR*)",
     "_tete": " [B004] [0001][08A0]",
     "max": 19,
     "_fixe": true
@@ -401,7 +401,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E268",
     "en": "Megaton Glove(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Gant mégatonne(*TERMINATOR*)",
     "_tete": "  [3212][0907]a[0070]w [5014] [0001][08A0]",
     "max": 19,
     "_fixe": true
@@ -409,7 +409,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E2B6",
     "en": "Eleking Glove(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Gant Eleking(*TERMINATOR*)",
     "_tete": " [F41A] [0001][08A0]",
     "max": 19,
     "_fixe": true
@@ -417,7 +417,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E2EA",
     "en": "Adamantium Claw(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Griffe adamantium(*TERMINATOR*)",
     "_tete": " [211E][0907]a[0570][0517] [401F] [0001][08A0]",
     "max": 19,
     "_fixe": true
@@ -425,7 +425,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E376",
     "en": "Damascus Hand(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Main de Damas(*TERMINATOR*)",
     "_tete": " [F82A] [0001][08A0]",
     "max": 19,
     "_fixe": true
@@ -433,7 +433,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E3B6",
     "en": "Stroke of Darkness(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Frappe des ténèbres(*TERMINATOR*)",
     "_tete": " [A438] [0001][08A0]",
     "max": 19,
     "_fixe": true
@@ -441,7 +441,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E3F6",
     "en": "Knuckle Barong(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Poing Barong(*TERMINATOR*)",
     "_tete": " [204E] [0001][08A0]",
     "max": 19,
     "_fixe": true
@@ -449,7 +449,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E4F2",
     "en": "Glock 26(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Glock 26(*TERMINATOR*)",
     "_tete": "A[0018] [740E] [4200][10A0]",
     "max": 19,
     "_fixe": true
@@ -457,7 +457,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E532",
     "en": "M380 Revolver(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Revolver M380(*TERMINATOR*)",
     "_tete": "A[0018] [1815] [4200][10A0]",
     "max": 19,
     "_fixe": true
@@ -465,7 +465,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E572",
     "en": "HK VP70Z(*TERMINATOR*)",
-    "fr": "",
+    "fr": "HK VP70Z(*TERMINATOR*)",
     "_tete": "A[0018] [901A] [4200][10A0]",
     "max": 19,
     "_fixe": true
@@ -473,7 +473,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E5B2",
     "en": "Gray Ghost(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Spectre gris(*TERMINATOR*)",
     "_tete": "A[0018] [B01D] [4200][10A0]",
     "max": 19,
     "_fixe": true
@@ -481,7 +481,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E5E8",
     "en": "Strike Gun(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Pistolet Strike(*TERMINATOR*)",
     "_tete": "  [122A][0A08]bA[0018] [3421] [4200][10A0]",
     "max": 19,
     "_fixe": true
@@ -489,7 +489,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E672",
     "en": "Dollar Shot(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Coup du dollar(*TERMINATOR*)",
     "_tete": "A[0018] [0429] [4200][10A0]",
     "max": 19,
     "_fixe": true
@@ -497,7 +497,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E732",
     "en": "Reaper Colt(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Colt faucheur(*TERMINATOR*)",
     "_tete": "A[0018] [803E] [4200][10A0]",
     "max": 19,
     "_fixe": true
@@ -505,7 +505,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E832",
     "en": "Steyr TMP(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Steyr TMP(*TERMINATOR*)",
     "_tete": "A[0019] [3C0F] [0500][10A0]",
     "max": 19,
     "_fixe": true
@@ -513,7 +513,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E872",
     "en": "HK MP5K(*TERMINATOR*)",
-    "fr": "",
+    "fr": "HK MP5K(*TERMINATOR*)",
     "_tete": "A[0019] [8813] [0500][10A0]",
     "max": 19,
     "_fixe": true
@@ -521,7 +521,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E8F2",
     "en": "Phantom Killer(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Tueur fantôme(*TERMINATOR*)",
     "_tete": "A[0019] [E81C] [0500][10A0]",
     "max": 19,
     "_fixe": true
@@ -529,7 +529,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E932",
     "en": "M134 Vulcan(*TERMINATOR*)",
-    "fr": "",
+    "fr": "M134 Vulcan(*TERMINATOR*)",
     "_tete": "A[0019] [FC21] [0500][10A0]",
     "max": 19,
     "_fixe": true
@@ -537,7 +537,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E972",
     "en": "Avenger(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Vengeur(*TERMINATOR*)",
     "_tete": "A[0019] [AC26] [0500][10A0]",
     "max": 19,
     "_fixe": true
@@ -545,7 +545,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E9F2",
     "en": "Crazy Chain(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Chaîne folle(*TERMINATOR*)",
     "_tete": "A[0019] [B036] [0500][10A0]",
     "max": 19,
     "_fixe": true
@@ -553,7 +553,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26EA32",
     "en": "Hell Rain(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Pluie infernale(*TERMINATOR*)",
     "_tete": "A[0019] [6842] [0500][10A0]",
     "max": 19,
     "_fixe": true
@@ -561,7 +561,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26EAF2",
     "en": "Mossberg M500(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Mossberg M500(*TERMINATOR*)",
     "_tete": "A[001A] [6810] [9000][10A0]",
     "max": 19,
     "_fixe": true
@@ -569,7 +569,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26EB32",
     "en": "SPAS-12(*TERMINATOR*)",
-    "fr": "",
+    "fr": "SPAS-12(*TERMINATOR*)",
     "_tete": "A[001A] [D417] [9000][10A0]",
     "max": 19,
     "_fixe": true
@@ -577,7 +577,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26EB72",
     "en": "Franchi PA3(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Franchi PA3(*TERMINATOR*)",
     "_tete": "A[001A] [781E] [9000][10A0]",
     "max": 19,
     "_fixe": true
@@ -585,7 +585,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26EBB2",
     "en": "SPAS-15(*TERMINATOR*)",
-    "fr": "",
+    "fr": "SPAS-15(*TERMINATOR*)",
     "_tete": "A[001A] [F023] [9000][10A0]",
     "max": 19,
     "_fixe": true
@@ -593,7 +593,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26EBF2",
     "en": "MADMAX(*TERMINATOR*)",
-    "fr": "",
+    "fr": "MADMAX(*TERMINATOR*)",
     "_tete": "A[001A] [1027] [9000][10A0]",
     "max": 19,
     "_fixe": true
@@ -601,7 +601,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26EC72",
     "en": "Manhunter(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Chasseur d'hommes(*TERMINATOR*)",
     "_tete": "A[001A] [1847] [9000][10A0]",
     "max": 19,
     "_fixe": true
@@ -609,7 +609,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26ECF2",
     "en": "Bi-Buster(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Bi-Buster(*TERMINATOR*)",
     "_tete": "A[001A] [A861] [9000][10A0]",
     "max": 19,
     "_fixe": true
@@ -617,7 +617,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26ED32",
     "en": "Koppa-Mijinhou(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Koppa-Mijinhou(*TERMINATOR*)",
     "_tete": "A[001A] [E0AB] [9000][10A0]",
     "max": 19,
     "_fixe": true
@@ -625,7 +625,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26ED72",
     "en": "Megido Fire(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Feu Megido(*TERMINATOR*)",
     "_tete": "A[001A] [30F2] [9000][10A0]",
     "max": 19,
     "_fixe": true
@@ -633,7 +633,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26EDB2",
     "en": "M16A2(*TERMINATOR*)",
-    "fr": "",
+    "fr": "M16A2(*TERMINATOR*)",
     "_tete": "A[001A] [6009] [2801][10A0]",
     "max": 19,
     "_fixe": true
@@ -641,7 +641,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26EDF2",
     "en": "AK-47(*TERMINATOR*)",
-    "fr": "",
+    "fr": "AK-47(*TERMINATOR*)",
     "_tete": "A[001B] [100E] [2801][10A0]",
     "max": 19,
     "_fixe": true
@@ -649,7 +649,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26EE32",
     "en": "SIG-SG550(*TERMINATOR*)",
-    "fr": "",
+    "fr": "SIG-SG550(*TERMINATOR*)",
     "_tete": "A[001B] [4416] [2801][10A0]",
     "max": 19,
     "_fixe": true
@@ -657,7 +657,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26EEB2",
     "en": "Steyr AUG A1(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Steyr AUG A1(*TERMINATOR*)",
     "_tete": "A[001B] [4C1D] [2801][10A0]",
     "max": 19,
     "_fixe": true
@@ -665,7 +665,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26EEF2",
     "en": "FA-MAS Carbine(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Carabine FA-MAS(*TERMINATOR*)",
     "_tete": "A[001B] [2823] [2801][10A0]",
     "max": 19,
     "_fixe": true
@@ -673,7 +673,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26EF32",
     "en": "HK G11(*TERMINATOR*)",
-    "fr": "",
+    "fr": "HK G11(*TERMINATOR*)",
     "_tete": "A[001B] [EC2C] [2801][10A0]",
     "max": 19,
     "_fixe": true
@@ -681,7 +681,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26EF72",
     "en": "Gepard M2(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Gepard M2(*TERMINATOR*)",
     "_tete": "A[001B] [4038] [2801][10A0]",
     "max": 19,
     "_fixe": true
@@ -689,7 +689,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26EFB2",
     "en": "M41A Pulse Gun(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Fusil M41A(*TERMINATOR*)",
     "_tete": "A[001B] [5046] [2801][10A0]",
     "max": 19,
     "_fixe": true
@@ -697,7 +697,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26EFF2",
     "en": "Mars 133(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Mars 133(*TERMINATOR*)",
     "_tete": "A[001B] [D859] [2801][10A0]",
     "max": 19,
     "_fixe": true
@@ -705,7 +705,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26F032",
     "en": "Double Death(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Double mort(*TERMINATOR*)",
     "_tete": "A[001B] [3075] [2801][10A0]",
     "max": 19,
     "_fixe": true
@@ -713,7 +713,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26F072",
     "en": "Heaven's Gate(*TERMINATOR*)",
-    "fr": "",
+    "fr": "Porte du paradis(*TERMINATOR*)",
     "_tete": "A[001B] [68BF] [2801][10A0]",
     "max": 19,
     "_fixe": true
@@ -721,7 +721,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26F0C0",
     "en": "9mm Parabellum(*TERMINATOR*)",
-    "fr": "",
+    "fr": "9mm Parabellum(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },

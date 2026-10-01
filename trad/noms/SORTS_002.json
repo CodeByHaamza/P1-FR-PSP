@@ -9,7 +9,7 @@
   {
     "id": "EBOOT.BIN:SKILL:OFF_26A038",
     "en": "Self-Destruct",
-    "fr": "",
+    "fr": "Autodestruction",
     "max": 19,
     "_fixe": true
   },
