@@ -2,503 +2,503 @@
   {
     "id": "KOUMAN.BIN:text:0000",
     "en": "Hmm... Your opinion is foolish, but{SAUT}amusing nonetheless. Consider yourself{SAUT}lucky.{ATTENTE}",
-    "fr": ""
+    "fr": "Hmm... Ton avis est sot, mais amusant{SAUT}malgré tout. Estime-toi{SAUT}chanceux.{ATTENTE}"
   },
   {
     "id": "KOUMAN.BIN:text:0001",
     "en": "{PAGE}What? You think I would give my spell{SAUT}card to the likes of you?[FFFD]É[F500]   Hmm... You are an interesting human to{SAUT}so boldly attempt to sway me to your{SAUT}side! Do you not value your life?[FFFD]α[F500]Ha! Do you truly think I could obey{SAUT}beings as weak and foolish as humans!?[FFFD][02FF][F500]   Silence! Your words are meaningless![FFFD][03FF][F500] Muahaha! You say such asinine things.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Quoi? Tu crois que je donnerais ma{SAUT}carte de sort à ton espèce?[FFFD]É[F500]   Hmm... Tu es un humain curieux pour{SAUT}tenter si hardiment de me rallier à ta{SAUT}cause! Ta vie n'a donc aucun prix?[FFFD]α[F500]Ha! Crois-tu vraiment que je pourrais{SAUT}obéir à des êtres si faibles et sots!?[FFFD][02FF][F500]   Silence! Tes mots n'ont aucun sens![FFFD][03FF][F500] Muahaha! Tu dis de telles âneries.{ATTENTE}"
   },
   {
     "id": "KOUMAN.BIN:text:0002",
     "en": "{PAGE}I ask of you: what value do you place{SAUT}on my spell card?[FFFD][04FF][F500]   As I expected! The weaker the being, the{SAUT}more desperate they are for my help!{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Je te le demande : quelle valeur{SAUT}accordes-tu à ma carte de sort?[FFFD][04FF][F500]   Comme prévu! Plus l'être est faible, plus{SAUT}il réclame mon aide avec désespoir!{ATTENTE}"
   },
   {
     "id": "KOUMAN.BIN:text:0003",
     "en": "{PAGE}I, [FFF3], walk amongst you{SAUT}as a god, wouldn't you agree?[FFFD][05FF][F500]  Muahaha! No feeling is greater than{SAUT}watching the weak put on such a display!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Moi, [FFF3], je marche parmi vous{SAUT}comme un dieu, n'est-ce pas?[FFFD][05FF][F500]  Muahaha! Aucun sentiment ne vaut de{SAUT}voir les faibles faire un tel numéro!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0004",
     "en": "   Your insolent attitude does little more{SAUT}than prove your inferiority...{ATTENTE}",
-    "fr": "",
+    "fr": "   Ton attitude insolente ne fait guère{SAUT}que prouver ton infériorité...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "KOUMAN.BIN:text:0005",
     "en": "{PAGE}Shall I show you the extent of my power?[FFFD][06FF][F500] How foolish for a being as low as you to{SAUT}mock me in such a way!{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Dois-je te montrer l'étendue de ma force?[FFFD][06FF][F500] Quelle sottise, pour un être aussi bas,{SAUT}de me railler ainsi!{ATTENTE}"
   },
   {
     "id": "KOUMAN.BIN:text:0006",
     "en": "{PAGE}How low do you place the rank of the{SAUT}[FFF0]?[FFFD][07FF][F500] I wouldn't bother to concern myself with{SAUT}a being of your inferior power!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}À quel rang places-tu donc les{SAUT}[FFF0]?[FFFD][07FF][F500] Je ne m'abaisserais pas à me soucier{SAUT}d'un être à la force si inférieure!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0007",
     "en": "   Urgh... Who are you...? Are you not{SAUT}afraid of me...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Urgh... Qui es-tu...? N'as-tu donc pas{SAUT}peur de moi...?(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0008",
     "en": "   Stop. I have no intention of fighting{SAUT}you...{ATTENTE}",
-    "fr": ""
+    "fr": "   Arrête. Je n'ai nulle intention de me{SAUT}battre contre toi...{ATTENTE}"
   },
   {
     "id": "KOUMAN.BIN:text:0009",
     "en": "{PAGE}Now begone, or I cannot guarantee your{SAUT}survival...[FFFD][08FF][F500] Hmm... So even those who lack insight{SAUT}can see my grandeur.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Pars maintenant, ou je ne garantis pas{SAUT}ta survie...[FFFD][08FF][F500] Hmm... Même ceux qui manquent de{SAUT}clairvoyance voient ma grandeur.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0010",
     "en": " I see... You want my power? I assume{SAUT}there is something in it for me, yes?[FFFD][09FF][F500]   Fool! I don't bother dealing with{SAUT}halfwits such as you!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Je vois... Tu veux ma force? J'imagine{SAUT}qu'il y a quelque chose pour moi, oui?[FFFD][09FF][F500]   Sot! Je ne traite pas avec des{SAUT}demi-portions comme toi!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0011",
     "en": "How ridiculous! You thought I would{SAUT}accept an invitation such as that!?{ATTENTE}",
-    "fr": "",
+    "fr": "Quel ridicule! Tu croyais que{SAUT}j'accepterais une telle invitation!?{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "KOUMAN.BIN:text:0012",
     "en": "{PAGE}If you hope to pacify my rage, your{SAUT}apology had better be sincere![FFFD][0AFF][F500]  Who are you...? You must not be of{SAUT}sound mind to invite me so...(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Si tu espères apaiser ma fureur, que{SAUT}tes excuses soient sincères![FFFD][0AFF][F500]  Qui es-tu...? Tu n'as pas tout ton bon{SAUT}sens pour m'inviter ainsi...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0013",
     "en": "   I believe only in myself. That being{SAUT}said, do you still have business with{SAUT}me?[FFFD][0BFF][F500]   Stop it! Stop it, I say! My ears will{SAUT}burst if you continue!{ATTENTE}",
-    "fr": ""
+    "fr": "   Je ne crois qu'en moi. Cela dit,{SAUT}as-tu encore affaire{SAUT}à moi?[FFFD][0BFF][F500] Arrête! Mes oreilles vont{SAUT}éclater si tu continues!{ATTENTE}"
   },
   {
     "id": "KOUMAN.BIN:text:0014",
     "en": "{PAGE}Your kind says God gave you the gift{SAUT}of song, but I say it's a curse!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Ton espèce dit que Dieu vous a donné le{SAUT}chant, moi je dis que c'est un fléau!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0015",
     "en": "Stop it! I denounce your voice! You can{SAUT}be silent now![FFFD][0CFF][F500]   Ugh... It's hard to believe... a being{SAUT}such as you could emit ultrasonic{SAUT}soundwaves...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Arrête! Je dénonce ta voix! Tu peux te{SAUT}taire à présent![FFFD][0CFF][F500]   Ugh... J'ai peine à le croire... qu'un{SAUT}être comme toi puisse émettre des{SAUT}ultrasons...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0016",
     "en": " You... You have a likable voice.{SAUT}How did you come across it?[FFFD][0DFF][F500] Muahaha! You are truly the inferior{SAUT}race. Are those twisted warblings the{SAUT}only sounds you can emit?[FFFD][0EFF][F500]  Hm, not bad. Do you know any others?[FFFD][0FFF][F500] Hmm... A sheep has wandered too far{SAUT}from the flock... Girl, what do you{SAUT}take me for?[FFFD][10FF][F500] Hmm... You desire my power?{ATTENTE}",
-    "fr": ""
+    "fr": " Tu... Tu as une voix plaisante.{SAUT}Comment l'as-tu obtenue?[FFFD][0DFF][F500] Muahaha! Tu es vraiment la race{SAUT}inférieure. Ces gazouillis tordus sont{SAUT}les seuls sons que tu émets?[FFFD][0EFF][F500]  Hm, pas mal. Tu en connais d'autres?[FFFD][0FFF][F500] Hmm... Une brebis s'est trop éloignée{SAUT}du troupeau... Fille, pour qui{SAUT}me prends-tu?[FFFD][10FF][F500] Hmm... Tu désires ma force?{ATTENTE}"
   },
   {
     "id": "KOUMAN.BIN:text:0017",
     "en": "{PAGE}What do small beings like you even need{SAUT}such grandiose power for?[FFFD][11FF][F500]   You are a foolish girl who cannot tell{SAUT}the difference between us! Do not rouse{SAUT}my fury!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}À quoi des êtres si petits ont-ils{SAUT}besoin d'une force si grandiose?[FFFD][11FF][F500]   Tu es une sotte qui ne voit pas la{SAUT}différence entre nous! N'éveille pas{SAUT}ma fureur!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0018",
     "en": "Impudent girl! You cannot simply rely{SAUT}on my power! Do you understand?[FFFD][12FF][F500]Huaha... It isn't such a bad feeling to{SAUT}be relied on by a sweet, helpless girl!{ATTENTE}",
-    "fr": ""
+    "fr": "Fille impudente! Tu ne peux pas{SAUT}simplement compter sur ma force! Compris?[FFFD][12FF][F500]Huaha... Pas désagréable qu'une douce{SAUT}fille compte sur moi!{ATTENTE}"
   },
   {
     "id": "KOUMAN.BIN:text:0019",
     "en": "{PAGE}What do you wish of me?[FFFD][13FF][F500] Muahaha! I revel in being relied on by{SAUT}such a sweet, helpless girl!{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}Que souhaites-tu de moi?[FFFD][13FF][F500] Muahaha! Je me délecte qu'une si douce{SAUT}et fragile fille compte sur moi!{ATTENTE}"
   },
   {
     "id": "KOUMAN.BIN:text:0020",
     "en": "{PAGE}Do you desire my power?[FFFD][14FF][F500] Ha! Using your wiles to reign me in?{SAUT}How shameful! Only a foolish woman would{SAUT}resort to such tactics!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Tu désires ma force?[FFFD][14FF][F500] Ha! Tu uses de tes charmes pour me{SAUT}brider? Quelle honte! Seule une sotte{SAUT}userait d'une telle tactique!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0021",
     "en": "  Ha! If you mean those words, I shall{SAUT}have you as my slave![FFFD][15FF][F500]   Urgh... What does a lowly human want of{SAUT}me? This had better not be one of your{SAUT}ill-conceived traps...[FFFD][16FF][F500]Urgh... Your words are eerie...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Ha! Si tu dis vrai, je te prendrai{SAUT}pour esclave![FFFD][15FF][F500]   Urgh... Que me veut un vil humain?{SAUT}J'espère que ce n'est pas un de tes{SAUT}pièges mal conçus...[FFFD][16FF][F500]Urgh... Tes mots sont inquiétants...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0022",
     "en": "Muaha! So even amongst the incompetent{SAUT}and ignorant humans, there are those{SAUT}with wisdom.{ATTENTE}",
-    "fr": ""
+    "fr": "Muaha! Ainsi, même chez les humains{SAUT}incompétents et ignorants, il en est{SAUT}de sages.{ATTENTE}"
   },
   {
     "id": "KOUMAN.BIN:text:0023",
     "en": "{PAGE}So, tell me... What aspect of mine{SAUT}attracted you to me?[FFFD][17FF][F500]It's fine. I will live up to your{SAUT}expectations. Tell me your desires.[FFFD][18FF][F500]Hmm... Your words are eccentric.{SAUT}Humans may have some merit after all.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Alors dis-moi... Quel aspect de moi{SAUT}t'a attiré vers moi?[FFFD][17FF][F500]C'est bien. Je serai à la hauteur de tes{SAUT}attentes. Dis-moi tes désirs.[FFFD][18FF][F500]Hmm... Tes mots sont excentriques.{SAUT}Les humains ont peut-être du mérite.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0024",
     "en": " You speak lies without the slightest{SAUT}hesitation. Do you mean to mock society?[FFFD][19FF][F500]I am not so blind as to be deceived!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tu mens sans la moindre hésitation.{SAUT}Veux-tu te moquer de la société?[FFFD][19FF][F500]Je ne suis pas si aveugle qu'on me dupe!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0025",
     "en": "   Rubbish! If you must gossip, do so with{SAUT}a female demon!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Sottises! Si tu dois cancaner, fais-le{SAUT}avec un démon femelle!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0026",
     "en": "Muahaha! A conversation that lacked any{SAUT}real value, human girl, but I did enjoy{SAUT}it.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Muahaha! Une conversation sans la{SAUT}moindre valeur, fille humaine, mais j'y{SAUT}ai pris plaisir.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0027",
     "en": "Huaha... Could you lie like that on{SAUT}judgement day?[FFFD][1AFF][F500]   Huaha... An honest reaction. Fear not,{SAUT}I won't harm you.[FFFD][1BFF][F500] I know it is difficult to be unafraid{SAUT}of me, but...{ATTENTE}",
-    "fr": ""
+    "fr": "Huaha... Pourrais-tu mentir ainsi au{SAUT}jour du jugement?[FFFD][1AFF][F500]   Huaha... Une réaction honnête. Ne crains{SAUT}rien, je ne te ferai pas de mal.[FFFD][1BFF][F500] Je sais qu'il est difficile de ne pas{SAUT}me craindre, mais...{ATTENTE}"
   },
   {
     "id": "KOUMAN.BIN:text:0028",
     "en": "{PAGE}I am mortified to be dreaded like this.[FFFD][1CFF][F500] Ha! Be silent! If you fear me, begone!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Être redouté ainsi me mortifie.[FFFD][1CFF][F500] Ha! Silence! Si tu me crains, va-t'en!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0029",
     "en": " Ha! The weak are only waiting to die.{SAUT}Are you going to sit there and cry until{SAUT}you comprehend this!?(*RESPONSE*)",
-    "fr": ""
+    "fr": " Ha! Les faibles n'attendent que la mort.{SAUT}Vas-tu rester assis là à pleurer jusqu'à{SAUT}le comprendre!?(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0030",
     "en": "   The look of terror on the faces of the{SAUT}weak and the horrified screams of those{SAUT}about to die bring me bliss!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   L'air terrifié des faibles et les cris{SAUT}d'horreur de ceux qui vont mourir me{SAUT}comblent de félicité!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0031",
     "en": "Muahahaha! Show me the weight of life.[FFFD][1DFF][F500]   Hmm... To show such interest in me...{SAUT}Are you... female?[FFFD][1EFF][F500] Pitiful being... With my beauty, social{SAUT}rank, and notoriety, I am in demand{SAUT}wherever I go.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Muahahaha! Montre-moi le poids de la vie.[FFFD][1DFF][F500]   Hmm... Me porter un tel intérêt...{SAUT}Serais-tu... une femme?[FFFD][1EFF][F500] Être pitoyable... Avec ma beauté, mon{SAUT}rang et ma renommée, on me réclame{SAUT}partout où je vais.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0032",
     "en": " Are you such an impertinent fool that{SAUT}you've forgotten how to ask for things{SAUT}properly!? Who do you think you are!?{ATTENTE}",
-    "fr": ""
+    "fr": " Es-tu assez impertinent pour avoir{SAUT}oublié comment demander les choses{SAUT}convenablement!? Pour qui te prends-tu!?{ATTENTE}"
   },
   {
     "id": "KOUMAN.BIN:text:0033",
     "en": "{PAGE}You disgust me! Take back your words![FFFD][1FFF][F500]Insolent wretch! Men do not interest me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Tu me dégoûtes! Reprends tes mots![FFFD][1FFF][F500]Misérable! Les hommes m'intéressent pas!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0034",
     "en": "   I know humans use so very little of{SAUT}their brains, but do try to think for{SAUT}a moment: I'm a man...[FFFD][20FF][F500] Human boy... Now would be a good time{SAUT}to turn back...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Je sais que les humains usent bien peu{SAUT}de leur cervelle, mais tente de penser{SAUT}un instant : je suis un homme...[FFFD][20FF][F500] Garçon humain... Ce serait le bon moment{SAUT}pour faire demi-tour...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0035",
     "en": "  Muahaha! You expected that technique{SAUT}to spark my interest?{ATTENTE}",
-    "fr": ""
+    "fr": "  Muahaha! Tu croyais que cette technique{SAUT}éveillerait mon intérêt?{ATTENTE}"
   },
   {
     "id": "KOUMAN.BIN:text:0036",
     "en": "{PAGE}I believe a monkey could have thought{SAUT}that one up.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Je crois qu'un singe aurait pu{SAUT}trouver celle-là.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0037",
     "en": " Muahaha! You jest in desperation!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Muahaha! Tu plaisantes par désespoir!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0038",
     "en": "  Ha... Don't strain yourself. I can{SAUT}already see the punchline, and I'd hate{SAUT}for you to exert your minisucle brain.[FFFD][21FF][F500]As a high-ranking demon, I don't often{SAUT}understand the hobbies of my inferiors.{SAUT}What do you find fun about that...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Ha... Ne te fatigue pas. Je vois déjà{SAUT}la chute, et je détesterais que tu{SAUT}épuises ton minuscule cerveau.[FFFD][21FF][F500]En tant que démon de haut rang, je{SAUT}comprends peu les passe-temps de mes{SAUT}inférieurs. Qu'y trouves-tu d'amusant...?(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0039",
     "en": " That was utterly senseless! I believe{SAUT}you've cost me a few brain cells!(*RESPONSE*)",
-    "fr": ""
+    "fr": " C'était d'une bêtise absolue! Je crois{SAUT}que tu m'as coûté quelques neurones!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0040",
     "en": "If those are your last words, then{SAUT}I will do you the favor of laughing!{SAUT}Muahaha! Now give me your head![FFFD][22FF][F500]  Urgh... What logic... You are not an{SAUT}ordinary human...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Si ce sont tes derniers mots, je te{SAUT}ferai la faveur d'en rire!{SAUT}Muahaha! Donne-moi ta tête![FFFD][22FF][F500]  Urgh... Quelle logique... Tu n'es pas un{SAUT}humain ordinaire...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0041",
     "en": " I wondered what you would do... But I am{SAUT}no less confused by you humans...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Je me demandais ce que tu ferais... Mais{SAUT}vous les humains me laissez perplexe...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0042",
     "en": " Muahaha! I have not heard such a vulgar{SAUT}joke in an eon!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Muahaha! Je n'avais pas entendu blague{SAUT}si vulgaire depuis un éon!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0043",
     "en": "Hmm... What else can you do? Carry on.[FFFD][23FF][F500]   A certain type of rumor, you say?{SAUT}What do people say of my greatness these{SAUT}days?[FFFD][24FF][F500] Hm, melting ice... No doubt a ploy to{SAUT}gain my favor, but I shall allow it.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hmm... Que sais-tu faire d'autre? Continue.[FFFD][23FF][F500]   Une certaine rumeur, dis-tu?{SAUT}Que dit-on de ma grandeur ces{SAUT}temps-ci?[FFFD][24FF][F500] Hm, la glace fond... Ruse pour{SAUT}gagner ma faveur, mais je permets.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0044",
     "en": " What are you trying to say!? I have no{SAUT}time for inane chatter!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Qu'essaies-tu de dire!? Je n'ai pas de{SAUT}temps pour un bavardage insipide!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0045",
     "en": " How can you speak such carefree words{SAUT}in these turbulent times!? If you've{SAUT}time to talk, you've time to fight![FFFD][25FF][F500]   My greatness has its downside. I am{SAUT}surrounded by yes men...{ATTENTE}",
-    "fr": ""
+    "fr": " Comment peux-tu dire des mots si légers{SAUT}en ces temps troublés!? Si tu as le{SAUT}temps de parler, tu as celui de te battre![FFFD][25FF][F500]   Ma grandeur a son revers. Je suis{SAUT}entouré de flatteurs...{ATTENTE}"
   },
   {
     "id": "KOUMAN.BIN:text:0046",
     "en": "{PAGE}It's enjoyable to chat idly with lower{SAUT}beings like you. Amuse me further.[FFFD][26FF][F500]  The idle banter of inferior beings is{SAUT}a nice escape. I don't have time to think.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Il est plaisant de bavarder oisivement{SAUT}avec des êtres inférieurs. Amuse-moi.[FFFD][26FF][F500]  Le babil des inférieurs est une belle{SAUT}évasion. Je n'ai pas le temps de penser.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0047",
     "en": "   You thought that would startle me? If{SAUT}so, you are more foolish than Atlas.{SAUT}You need to change your perception.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Tu croyais me surprendre? Alors tu es{SAUT}plus sot qu'Atlas. Tu dois changer{SAUT}ta perception.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0048",
     "en": " How childish. Even if you were to{SAUT}startle me, how would that benefit you?[FFFD][27FF][F500]How absurd! Did you truly think to{SAUT}startle me? Did you expect me to wince{SAUT}at your eccentric behavior!?[FFFD][28FF][F500]   Silence! Nothing that an inferior being{SAUT}could do to me will work!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Quel enfantillage. Même si tu me{SAUT}surprenais, en quoi cela te servirait-il?[FFFD][27FF][F500]Quelle absurdité! Croyais-tu vraiment me{SAUT}surprendre? T'attendais-tu à me voir{SAUT}tressaillir devant tes excentricités!?[FFFD][28FF][F500]   Silence! Rien de ce qu'un être inférieur{SAUT}peut me faire ne marchera!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0049",
     "en": "  Did you do that, knowing I am{SAUT}[FFF3]? If so...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  As-tu fait cela en sachant que je suis{SAUT}[FFF3]? Si oui...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0050",
     "en": "  ...Have you gone mad, human?[FFFD][29FF][F500] Ha... Do you think I have any use for{SAUT}such a philistine thing?[FFFD][2AFF][F500]   Ha... Aimlessly creating things and then{SAUT}senselessly consuming them... I'd expect{SAUT}no less from you inferior beings.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  ...As-tu perdu la raison, humain?[FFFD][29FF][F500] Ha... Crois-tu que j'aie l'usage d'une{SAUT}chose aussi vulgaire?[FFFD][2AFF][F500]   Ha... Créer des choses sans but puis les{SAUT}consommer sans raison... Je n'attendais{SAUT}pas moins de vous, êtres inférieurs.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0051",
     "en": "You weak, pathetic fool! You dare to{SAUT}attempt bribery before the very mirror{SAUT}of nobility!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Faible et pathétique sot! Tu oses{SAUT}tenter la corruption devant le miroir{SAUT}même de la noblesse!?(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0052",
     "en": "  Everything is unnecessary! Instead,{SAUT}I shall ask for your head. Name your{SAUT}price.[FFFD][2BFF][F500]  Ha... Do you think I have any use for{SAUT}such a philistine thing!?{ATTENTE}",
-    "fr": ""
+    "fr": "  Tout est superflu! À la place,{SAUT}je demanderai ta tête. Fixe ton{SAUT}prix.[FFFD][2BFF][F500]  Ha... Crois-tu que j'aie l'usage d'une{SAUT}chose aussi vulgaire!?{ATTENTE}"
   },
   {
     "id": "KOUMAN.BIN:text:0053",
     "en": "{PAGE}But... being that you show respect{SAUT}toward your betters, I will spare your{SAUT}life.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Mais... puisque tu montres du respect{SAUT}envers tes supérieurs, j'épargnerai{SAUT}ta vie.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0054",
     "en": "   Hmm... a gift, you say? What else do{SAUT}you have? Something that would suit a{SAUT}higher being such as myself?[FFFD][2CFF][F500]  It is important to have your own{SAUT}opinions. That is admirable.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hmm... un présent, dis-tu? Qu'as-tu{SAUT}d'autre? Quelque chose digne d'un être{SAUT}supérieur comme moi?[FFFD][2CFF][F500]  Il est important d'avoir ses propres{SAUT}opinions. C'est admirable.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0055",
     "en": "  That is your principle? Then answer me{SAUT}this! Are you contented with killing{SAUT}demons?[FFFD][2DFF][F500]  A fool's expression of foolishness!{SAUT}Place a priority on thinking before you{SAUT}open your mouth![FFFD][2EFF][F500] Don't make me laugh! You would be lucky{SAUT}to hold a dead man's attention with{SAUT}such childish preaching!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  C'est là ton principe? Alors réponds à{SAUT}ceci! Te contentes-tu de tuer des{SAUT}démons?[FFFD][2DFF][F500]  L'expression de la sottise par un sot!{SAUT}Donne la priorité à la pensée avant{SAUT}d'ouvrir la bouche![FFFD][2EFF][F500] Ne me fais pas rire! Tu aurais de la{SAUT}chance de retenir l'attention d'un mort{SAUT}avec un prêche si puéril!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0056",
     "en": "   You have a strong desire to appease{SAUT}yourself. Huaha, humans as vigorous as{SAUT}you are rare.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Tu as un fort désir de te satisfaire.{SAUT}Huaha, les humains aussi vigoureux que{SAUT}toi sont rares.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0057",
     "en": "   Muahahaha! You say such interesting{SAUT}things. Perhaps you could be groomed{SAUT}into my successor.[FFFD][2FFF][F500]  Huahaha! What a vigorous little human!{SAUT}You'd make an excellent pet.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Muahahaha! Tu dis des choses si{SAUT}curieuses. Peut-être pourrais-tu être{SAUT}formé comme mon successeur.[FFFD][2FFF][F500]  Huahaha! Quel petit humain vigoureux!{SAUT}Tu ferais un excellent animal.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0058",
     "en": "Hm... Do you inferior beings have no{SAUT}sense of fear? What emotions do I stir{SAUT}in you?[FFFD][30FF][F500]  Child! I am the wrong demon for this{SAUT}display of arrogance! Now is your only{SAUT}chance to apologize.[FFFD][31FF][F500] What are you weaklings saying!? I hope{SAUT}you die from hitting your head on the{SAUT}corner of tofu!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hm... Vous les êtres inférieurs n'avez{SAUT}aucun sens de la peur? Quelles émotions{SAUT}éveille-je en toi?[FFFD][30FF][F500]  Enfant! Je suis le mauvais démon pour{SAUT}cette arrogance! C'est ta seule chance{SAUT}de t'excuser.[FFFD][31FF][F500] Que dites-vous, faibles!? J'espère que{SAUT}tu mourras en te cognant la tête au{SAUT}coin d'un tofu!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0059",
     "en": "   Urgh... What is this pressure I feel?{SAUT}Who are you? State your name.[FFFD][32FF][F500]  To say such things to me... You are{SAUT}either a fool, or...(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Urgh... Quelle est cette pression que{SAUT}je sens? Qui es-tu? Dis ton nom.[FFFD][32FF][F500]  Me dire de telles choses... Tu es{SAUT}soit un sot, soit...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0060",
     "en": "   Hmm... Then I will make you my slave.[FFFD][33FF][F500]Huaha... Sarcasm does not beget the{SAUT}truth. I am worlds apart from your kind.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hmm... Alors je ferai de toi mon esclave.[FFFD][33FF][F500]Huaha... Le sarcasme n'engendre pas la{SAUT}vérité. Un monde nous sépare.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0061",
     "en": "   Human, if you are mocking me... death{SAUT}will come faster than you think![FFFD][34FF][F500]   Fool! Do you think me unable to see{SAUT}through your lies!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Humain, si tu te moques de moi... la{SAUT}mort viendra plus vite que tu crois![FFFD][34FF][F500]   Sot! Me crois-tu incapable de percer{SAUT}tes mensonges!?(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0062",
     "en": "Muahahaha! And what if I were to deny{SAUT}these pleas for mercy?[FFFD][35FF][F500] Of course. You may continue these acts{SAUT}of submission.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Muahahaha! Et si je refusais ces{SAUT}supplications de clémence?[FFFD][35FF][F500] Bien sûr. Tu peux poursuivre ces actes{SAUT}de soumission.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0063",
     "en": "  What an unsightly gyration. I will{SAUT}coach you; tell me where you'd like to{SAUT}improve.[FFFD][36FF][F500]   You were hoping to get my attention with{SAUT}those bumbling steps? How foolish...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Quelle gesticulation disgracieuse. Je{SAUT}te guiderai; dis-moi où tu souhaites{SAUT}progresser.[FFFD][36FF][F500]   Tu espérais attirer mon attention avec{SAUT}ces pas maladroits? Quelle sottise...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0064",
     "en": "  Urgh! I can't stand to witness this any{SAUT}longer! Stop, or I shall rip your legs{SAUT}from underneath you![FFFD][37FF][F500]  To put it simply, you annoy me!{SAUT}Be gone from my sight!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Urgh! Je ne peux plus assister à cela!{SAUT}Arrête, ou je t'arrache les jambes{SAUT}sous le corps![FFFD][37FF][F500]  Pour le dire simplement, tu m'agaces!{SAUT}Disparais de ma vue!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0065",
     "en": " You are clumsy, but I enjoyed it despite{SAUT}your shortcomings. What kind of reward{SAUT}are you seeking?[FFFD][38FF][F500] Muahaha! I didn't know you could train{SAUT}a monkey to dance like that!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tu es maladroit, mais j'ai apprécié{SAUT}malgré tes manques. Quelle récompense{SAUT}cherches-tu?[FFFD][38FF][F500] Muahaha! J'ignorais qu'on pouvait{SAUT}dresser un singe à danser ainsi!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0066",
     "en": "Muahaha! No feeling is greater than{SAUT}watching the weak put on such a display!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Muahaha! Aucun sentiment ne vaut de voir{SAUT}les faibles faire un tel numéro!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0068",
     "en": "{PAGE}Shall I show you the extent of my power?[FFFD][39FF][F500] I wouldn't bother to concern myself with{SAUT}a being of your inferior power!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Dois-je te montrer l'étendue de ma force?[FFFD][39FF][F500] Je ne m'abaisserais pas à me soucier{SAUT}d'un être à la force si inférieure!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0069",
     "en": "   How foolish for a being as low as you to{SAUT}mock me in such a way!{ATTENTE}",
-    "fr": ""
+    "fr": "   Quelle sottise, pour un être aussi bas,{SAUT}de me railler ainsi!{ATTENTE}"
   },
   {
     "id": "KOUMAN.BIN:text:0070",
     "en": "{PAGE}You! Just how highly do you think you{SAUT}rank on the social ladder?[FFFD][3AFF][F500]Urgh... Who are you...? Are you not{SAUT}afraid of me...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Toi! À quel rang te crois-tu donc{SAUT}sur l'échelle sociale?[FFFD][3AFF][F500]Urgh... Qui es-tu...? N'as-tu donc pas{SAUT}peur de moi...?(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0071",
     "en": "   Stop. I have no intention of fighting{SAUT}you...[FFFD][3BFF][F500] Hmm... You show promise. The malice{SAUT}in your glare is as powerful as mine.{ATTENTE}",
-    "fr": ""
+    "fr": "   Arrête. Je n'ai nulle intention de me{SAUT}battre...[FFFD][3BFF][F500] Hmm... Tu promets. Ta malice{SAUT}égale la mienne.{ATTENTE}"
   },
   {
     "id": "KOUMAN.BIN:text:0072",
     "en": "{PAGE}That being so, I ask of you! How does{SAUT}this ruined world look in your eyes?[FFFD][3CFF][F500]It troubles me to be stared at in such{SAUT}a way by a man... You are strange...(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Cela étant, je te le demande! Comment{SAUT}ce monde ruiné apparaît-il à tes yeux?[FFFD][3CFF][F500]Il me gêne d'être fixé ainsi par un{SAUT}homme... Tu es étrange...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0073",
     "en": "Insolent cur! I can't negotiate with{SAUT}barbarians!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Insolent cuistre! Je ne négocie pas{SAUT}avec les barbares!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0074",
     "en": "   Avert your eyes, idiot! Your tainted{SAUT}stare is defiling me![FFFD][3DFF][F500]   Huaha, it is only natural to be{SAUT}fascinated by me. You have my permission{SAUT}to look.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Détourne les yeux, idiot! Ton regard{SAUT}souillé me profane![FFFD][3DFF][F500]   Huaha, il est naturel d'être fasciné{SAUT}par moi. Je t'accorde la permission{SAUT}de regarder.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0075",
     "en": "  Truly, I am an attractive [FFF0].{SAUT}Specifically, what has drawn you to me?[FFFD][3EFF][F500] Hmm... Your words are strange, but{SAUT}I find that interesting...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  En vérité, je suis un [FFF0] attirant.{SAUT}Qu'est-ce qui t'attire en moi, au juste?[FFFD][3EFF][F500] Hmm... Tes mots sont étranges, mais{SAUT}je trouve cela curieux...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0076",
     "en": "  You speak lies without the slightest{SAUT}hesitation... You wouldn't happen to be{SAUT}mocking me, would you?[FFFD][3FFF][F500]  Those who defy me shall burn in the{SAUT}fires of hell. Are you ready to be{SAUT}judged?[FFFD][40FF][F500]   Rubbish! If you must gossip, do so with{SAUT}a female demon!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Tu mens sans la moindre hésitation...{SAUT}Tu ne serais pas en train de te moquer{SAUT}de moi, par hasard?[FFFD][3FFF][F500]  Ceux qui me défient brûleront dans les{SAUT}feux de l'enfer. Es-tu prêt à être{SAUT}jugé?[FFFD][40FF][F500]   Sottises! Si tu dois cancaner, fais-le{SAUT}avec un démon femelle!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0077",
     "en": "Muahaha! A conversation that lacked any{SAUT}real value, human boy, but I did enjoy{SAUT}it.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Muahaha! Une conversation sans la{SAUT}moindre valeur, garçon humain, mais j'y{SAUT}ai pris plaisir.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0078",
     "en": " Huaha... Could you lie like that on{SAUT}judgement day?[FFFD][41FF][F500]   Don't speak so clumsily! It is not my{SAUT}wish to hurt such beauty!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Huaha... Pourrais-tu mentir ainsi au{SAUT}jour du jugement?[FFFD][41FF][F500]   Ne parle pas si maladroitement! Je ne{SAUT}souhaite pas blesser tant de beauté!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0079",
     "en": "Did you hope to make me flinch? It seems{SAUT}beauty and wisdom exist only in female{SAUT}demons.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Espérais-tu me faire tressaillir? Il{SAUT}semble que beauté et sagesse n'existent{SAUT}que chez les démons femelles.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0080",
     "en": "Urgh... H-Hmm... Things like that are{SAUT}but fantasy... They don't happen...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Urgh... H-Hmm... De telles choses ne{SAUT}sont que fantaisie... Ça n'arrive pas...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0081",
     "en": "  Hmm... That is interesting. Do you{SAUT}believe such tales to be true?[FFFD][42FF][F500]Muahaha! Women are such absurd beings{SAUT}to put stock in such fiction!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hmm... Voilà qui est curieux. Crois-tu{SAUT}ces contes véridiques?[FFFD][42FF][F500]Muahaha! Les femmes sont des êtres{SAUT}absurdes de croire à telles fictions!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0082",
     "en": "Huaha... So what? You bore me; change{SAUT}the subject.[FFFD][43FF][F500]   Hmm... Your voice is quite beautiful.{SAUT}I would like to be your partner.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Huaha... Et alors? Tu m'ennuies; change{SAUT}de sujet.[FFFD][43FF][F500]   Hmm... Ta voix est fort belle.{SAUT}J'aimerais être ton partenaire.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0083",
     "en": " Hmm... I like your song. Did you write{SAUT}it yourself?[FFFD][44FF][F500]  You can stop that now! Your voice is not{SAUT}something to be endured for this long!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hmm... J'aime ton chant. L'as-tu écrit{SAUT}toi-même?[FFFD][44FF][F500]  Tu peux arrêter! Ta voix n'est pas{SAUT}une chose à endurer si longtemps!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0084",
     "en": "Desist! This does not suit my noble{SAUT}tastes. Sing something that does.[FFFD][45FF][F500]Muahahaha! Your voice is splendid!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Cesse! Cela ne sied pas à mes goûts{SAUT}nobles. Chante autre chose.[FFFD][45FF][F500]Muahahaha! Ta voix est splendide!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0085",
     "en": " Huahaha, how fitting of you to dedicate{SAUT}a song to me. What are your wishes?[FFFD][46FF][F500]  Hmm... So this the \"motherly love\" they{SAUT}say humans have...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Huahaha, il te sied de me dédier un{SAUT}chant. Quels sont tes souhaits?[FFFD][46FF][F500]  Hmm... Voilà donc l'amour maternel{SAUT}dont parlent les humains...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0086",
     "en": " Hmm... You treat me as a child? How many{SAUT}eons have passed since you were brought{SAUT}into this world?[FFFD][47FF][F500]Know your place, girl! Never have I been{SAUT}so insulted!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hmm... Tu me traites en enfant? Combien{SAUT}d'éons ont passé depuis ta venue{SAUT}en ce monde?[FFFD][47FF][F500]Reste à ta place, fille! Jamais je n'ai{SAUT}été si insulté!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0087",
     "en": "  Do you know what you're saying, little{SAUT}girl!? I am patient, but I will not{SAUT}tolerate being treated as a child![FFFD][48FF][F500]Huaha, you are like an angel, naive and{SAUT}beautiful. Would you like my company?[FFFD][49FF][F500]It's mysteriously soothing... No...{SAUT}It can't... It can't be...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Sais-tu ce que tu dis, petite{SAUT}fille!? Je suis patient, mais je ne{SAUT}tolérerai pas qu'on me traite en enfant![FFFD][48FF][F500]Huaha, tu es comme un ange, naïve et{SAUT}belle. Veux-tu ma compagnie?[FFFD][49FF][F500]C'est mystérieusement apaisant... Non...{SAUT}Ça ne peut... Ça ne peut pas...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0088",
     "en": " Hmm... So even those who lack insight{SAUT}can see my grandeur.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hmm... Même ceux qui manquent de{SAUT}clairvoyance voient ma grandeur.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0089",
     "en": " Hmm... So you desire my power. My asking{SAUT}price is your life. Is this acceptable?[FFFD][4AFF][F500] How ridiculous! Do not think I will be{SAUT}moved by mere words!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hmm... Tu désires donc ma force. Mon{SAUT}prix est ta vie. Cela te convient-il?[FFFD][4AFF][F500] Quel ridicule! Ne crois pas que de{SAUT}simples mots m'ébranlent!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0091",
     "en": "{PAGE}If you hope to pacify my rage, your{SAUT}apology had better be sincere![FFFD][4BFF][F500]  Muahaha! It is only natural that the{SAUT}weak turn to me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Si tu espères apaiser ma fureur, que{SAUT}tes excuses soient sincères![FFFD][4BFF][F500]  Muahaha! Il est naturel que les faibles{SAUT}se tournent vers moi!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0092",
     "en": "  Huaha, you say amusing things, woman.{SAUT}Invitations should be initiated by men.{ATTENTE}",
-    "fr": ""
+    "fr": "  Huaha, tu dis des choses amusantes,{SAUT}femme. L'invitation vient de l'homme.{ATTENTE}"
   },
   {
     "id": "KOUMAN.BIN:text:0093",
     "en": "{PAGE}Why don't you become my mistress?{SAUT}It would be for your own good.[FFFD][4CFF][F500]  Hmm... Mocking me, I see. You must be{SAUT}brimming with confidence...[FFFD][4DFF][F500]I see. So it is true that inferior{SAUT}creatures become confused when they{SAUT}encounter beings of incomparable power.(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Pourquoi ne pas devenir ma maîtresse?{SAUT}Ce serait pour ton propre bien.[FFFD][4CFF][F500]  Hmm... Tu te moques de moi, je vois. Tu{SAUT}dois déborder de confiance...[FFFD][4DFF][F500]Je vois. Il est donc vrai que les{SAUT}créatures inférieures se troublent face{SAUT}à des êtres d'une force incomparable.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0094",
     "en": " Conceited women live short lives!{SAUT}Shall I prove this truth to you?[FFFD][4EFF][F500]   How laughable! Huaha, to think that I{SAUT}would be taken by a woman's taunting!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Les femmes vaniteuses vivent peu!{SAUT}Dois-je t'en prouver la vérité?[FFFD][4EFF][F500]   Quel risible! Huaha, penser que je{SAUT}céderais aux railleries d'une femme!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0095",
     "en": "Do you understand what you're saying?{SAUT}If you do, yet you say it anyway...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Comprends-tu ce que tu dis?{SAUT}Si oui, et que tu le dis quand même...(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0096",
     "en": "  Ugh... Do you comprehend who stands{SAUT}before you?[FFFD][4FFF][F500]  A little girl's charm is as valuable{SAUT}as a chipped life stone. Now, what{SAUT}should I do...?[FFFD][50FF][F500]  Hmmm... But a human girl... Well, maybe{SAUT}every so often.(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Ugh... Comprends-tu qui se tient{SAUT}devant toi?[FFFD][4FFF][F500]  Le charme d'une petite fille vaut{SAUT}une pierre de vie ébréchée. Alors, que{SAUT}devrais-je faire...?[FFFD][50FF][F500]  Hmmm... Mais une fille humaine... Bon,{SAUT}peut-être de temps à autre.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0097",
     "en": "Ha! It is the apex of stupidity to{SAUT}think I would fall for seduction!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ha! C'est le comble de la bêtise de{SAUT}croire que je céderais à la séduction!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0098",
     "en": "   Fool! I can see through your trickery![FFFD][51FF][F500]   You wish for my affection that much?{SAUT}Ah, you've fallen in love with me...?[FFFD][52FF][F500]   It is natural that women are attracted{SAUT}to me. I am used to it.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Sot! Je perce tes ruses![FFFD][51FF][F500]   Tu désires tant mon affection?{SAUT}Ah, tu es tombée amoureuse de moi...?[FFFD][52FF][F500]   Il est naturel que les femmes soient{SAUT}attirées par moi. J'y suis habitué.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0099",
     "en": " Women shed tears only before men that{SAUT}they trust. Speak your mind, child.[FFFD][53FF][F500]What's the matter, human girl?{SAUT}Tears alone won't change anything.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Les femmes ne versent de larmes que{SAUT}devant les hommes de confiance. Parle.[FFFD][53FF][F500]Qu'y a-t-il, fille humaine?{SAUT}Les larmes seules ne changent rien.(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0100",
     "en": "  You inferior beings can't supress your{SAUT}own emotions! Be silent, or be gone!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Vous les êtres inférieurs ne savez pas{SAUT}contenir vos émotions! Silence, ou pars!(*RESPONSE*)"
   },
   {
     "id": "KOUMAN.BIN:text:0101",
     "en": "Tears should be reserved for times of{SAUT}sorrow! I see no truth to your story![FFFD][54FF][F500]  Urgh... The tears of a woman... They are{SAUT}a trap more often than not...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Les larmes sont pour les temps de{SAUT}chagrin! Je ne vois nulle vérité dans ton récit![FFFD][54FF][F500]  Urgh... Les larmes d'une femme... Elles{SAUT}sont un piège le plus souvent...(*RESPONSE*)"
   }
 ]
