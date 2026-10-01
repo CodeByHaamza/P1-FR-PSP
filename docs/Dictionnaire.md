@@ -341,9 +341,28 @@ Source : EBOOT **déchiffré**, extraits par `game/tools/_ancien_pipeline/p1_nam
   vérifiée identique après coup. `Cerberus` **n'est pas dans la zone des noms** : il
   n'apparaît qu'en dialogue, donc rien à répercuter pour lui. Les trois formes reportées
   font 7 glyphes, dont un champ plafonné à 7 : elles tiennent.
-- ⚠️ Contrainte technique : le FR doit **tenir dans la longueur du champ EN** (`max`).
-  Noms multi-mots = plusieurs champs (slots fixes) → l'ordre des mots suit l'anglais
-  pour l'instant (cf. `game/PERIMETRE.md`, format des records à finir de reverser).
-- Pour **garder** un nom : laisser `fr` vide. Pour **traduire** : remplir `fr` (accents
-  compris — ils sont supportés depuis le chantier « police » — dans la limite de `max`
-  caractères).
+
+### Depuis le 01/10/2026 : les noms traduisibles sont une zone ouverte
+
+Les 439 noms que la politique ci-dessus autorise à traduire — sorts descriptifs,
+objets, armes, armures — vivent désormais dans **`trad/noms/`**, comme n'importe
+quel fichier de dialogue : `SORTS_001`, `OBJETS_001`, `ARMES_001`, `ARMURES_001`.
+Les **190 autres** (sorts signature, modèles d'armes réels, noms propres japonais)
+et les **384 noms de démons, de Personas et de personnages** ne sortent pas du
+dépôt privé : `game/tools/noms_zone.py` fait ce tri, et c'est lui qu'il faut
+corriger si un nom se retrouve du mauvais côté.
+
+- ⚠️ Contrainte technique, **corrigée le 01/10/2026** : on croyait que le FR devait
+  tenir dans la longueur de l'anglais. C'est le **slot** qui compte, et il est bien
+  plus large : `game/tools/capacite_noms.rb` le mesure, et il accepte en général
+  **19 à 25 glyphes** là où l'anglais en occupe 11. « Rapier » (6) dispose de 19.
+  Le champ `max` de la zone porte cette mesure, pas la longueur anglaise.
+- Les noms multi-mots ne sont **plus plusieurs champs** : le moteur p1es rend tout
+  le buffer d'un coup, donc l'ordre des mots et les prépositions suivent le français
+  (« Carte de sécurité », et non « Carte Sécurité »).
+- Dépasser `max` ici est une **erreur**, pas un avertissement (`[SLOT]`) : ces tables
+  sont lues par calcul d'indice, il n'y a pas de pointeur à rediriger vers un code
+  cave, et le build refuse. Les accents, en revanche, passent.
+- Pour **garder** un nom en anglais dans la zone : laisser `fr` vide. Le compteur le
+  verra comme non traduit — si c'est une décision et pas un oubli, dis-le dans ta
+  proposition pour qu'il rejoigne la liste du tri.

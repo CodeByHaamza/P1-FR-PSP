@@ -2,517 +2,517 @@
   {
     "id": "BASKET.BIN:text:0306",
     "en": "  Encore! Encore! Sing another one!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Encore! Encore! Chantes-en une autre!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0307",
     "en": "  If I made you my slave, I could hear{SAUT}that song anytime...! I'm a genius!{ATTENTE}",
-    "fr": "",
+    "fr": "  Comme esclave, tu chanterais ça quand{SAUT}je veux...! Je suis un génie!{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "BASKET.BIN:text:0308",
     "en": "{PAGE}But I'm a nice guy, so I'll take{SAUT}somethin' else instead.[FFF1](*RESPONSE*)",
-    "fr": "",
+    "fr": "{PAGE}Mais je suis sympa, alors je vais{SAUT}prendre autre chose.[FFF1](*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "BASKET.BIN:text:0309",
     "en": "Hold on, man... If I keep listening,{SAUT}I'll be like a charmed snake...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Attends, mec... Si j'écoute encore,{SAUT}je serai comme un serpent charmé...(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0310",
     "en": "   What!? I... I! I'm chasing the dream!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Quoi!? Je... Moi! Je poursuis mon rêve!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0311",
     "en": "  Huh!? Really!? Wow, I'm all fired up!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hein!? Vraiment!? Je suis à bloc!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0312",
     "en": "  Well, there you have it.(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Bon, voilà, tu as ta réponse.(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "BASKET.BIN:text:0318",
     "en": "  Huh? That's not it? Sorry, I get all{SAUT}hyped up before a game. But my fans{SAUT}are welcome anytime!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hein? C'est pas ça? Désolé, je suis{SAUT}surexcité avant un match. Mais mes{SAUT}fans sont bienvenus!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0319",
     "en": "  Hehehe... So you're okay with anything{SAUT}I do to you, right!? Hehehehe...(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Héhéhé... Donc je peux te faire tout{SAUT}ce que je veux, hein!? Héhéhéhé...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "BASKET.BIN:text:0320",
     "en": "Man, no fair! I hate things like this!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Mec, c'est pas juste! Je déteste ça!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "BASKET.BIN:text:0321",
     "en": " Ya wanna get knocked out? I still got{SAUT}five fouls to spare!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tu veux te faire sortir? Il me reste{SAUT}cinq fautes à donner!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0322",
     "en": " Ah, so I'm a genius after all, eh?{SAUT}Then gimme somethin'![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": " Ah, je suis un génie après tout, hein?{SAUT}Alors donne-moi un truc![FFF1](*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0323",
     "en": "  Huh? That so? Heck, maybe I'm not that{SAUT}bad eh!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hein? Ah bon? Après tout, je suis{SAUT}peut-être pas si nul!?(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0324",
     "en": "Don't be frontin' like you actually{SAUT}know! You've never seen me dunk!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Fais pas comme si tu savais! Tu m'as{SAUT}jamais vu dunker!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0325",
     "en": "   Yeah, even humans don't bother dealing{SAUT}with weaklings!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Ouais, même les humains s'embêtent pas{SAUT}avec les faibles!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0326",
     "en": " Hey, hey, hey! You don't know b-ball, do{SAUT}you? Come watch me play some time!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hé, hé, hé! Tu connais rien au basket,{SAUT}hein? Viens me voir jouer un jour!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0327",
     "en": "You still frontin' with lies!?{SAUT}That's not good, man!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu continues à me mentir!?{SAUT}C'est pas bien, mec!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0328",
     "en": "   An honest heart is the key to gettin'{SAUT}better! Take my advice, and you'll have{SAUT}it made in the shade!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Un coeur honnête, c'est la clé pour{SAUT}progresser! Suis mon conseil et tu{SAUT}auras la vie belle!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "BASKET.BIN:text:0329",
     "en": "I get it, I get it. You can continue{SAUT}this conversation in hell.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Compris, compris. Tu finiras cette{SAUT}conversation en enfer.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "BASKET.BIN:text:0330",
     "en": "You're an honest one, huh? It might be{SAUT}fun to watch honesty turn around and{SAUT}bite ya...(*RESPONSE*)",
-    "fr": "",
+    "fr": "Tu es honnête, hein? Ça pourrait être{SAUT}drôle de voir l'honnêteté se retourner{SAUT}et te mordre...(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "BASKET.BIN:text:0331",
     "en": " Then stick out your tongue! I'll yank{SAUT}it out gently!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Alors sors ta langue! Je vais te{SAUT}l'arracher en douceur!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "BASKET.BIN:text:0332",
     "en": "   Argh! You need a sports buddy. Y'know,{SAUT}someone like me!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Argh! Il te faut un pote de sport.{SAUT}Genre, quelqu'un comme moi!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "BASKET.BIN:text:0333",
     "en": "Hahaha! I've seen a lotta guys like{SAUT}that! But I'll keep my mouth shut.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Hahaha! J'en ai vu plein des comme{SAUT}ça! Mais je vais rien dire.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "BASKET.BIN:text:0334",
     "en": " I'm super pissed! I'm exploding with{SAUT}the urge to kill you!(*RESPONSE*)",
-    "fr": "",
+    "fr": " Je suis hyper énervé! J'explose{SAUT}d'envie de te tuer!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "BASKET.BIN:text:0335",
     "en": " Heh! You're on! I'll crush you!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Héh! C'est parti! Je t'écrase!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0336",
     "en": "Y'know, with girls... It makes me feel{SAUT}kinda guilty, so I don't really like{SAUT}to...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu sais, avec les filles... Ça me met{SAUT}mal à l'aise, alors j'aime pas{SAUT}trop...(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0337",
     "en": "  Don't worry about it. Just gimme{SAUT}somethin' and it'll be all good.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "  T'inquiète. Donne-moi juste un truc{SAUT}et tout ira bien.[FFF1](*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0338",
     "en": " Huh? That's not it? Sorry, I get all{SAUT}hyped up before a game. But my fans{SAUT}are welcome anytime!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hein? C'est pas ça? Désolé, je suis{SAUT}surexcité avant un match. Mais mes{SAUT}fans sont bienvenus!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0341",
     "en": " What!? You don't think the ferocious demon{SAUT}side is all there is to me, do you!?(*RESPONSE*)",
-    "fr": ""
+    "fr": " Quoi!? Tu crois pas que le démon{SAUT}féroce c'est tout ce que je suis, si!?(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0342",
     "en": "Yeah, even humans don't bother dealing{SAUT}with weaklings!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ouais, même les humains s'embêtent pas{SAUT}avec les faibles!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0343",
     "en": " You're right. It'd be a problem if{SAUT}someone died every time I made a shot...{ATTENTE}",
-    "fr": ""
+    "fr": " Tu as raison. Ce serait gênant si{SAUT}quelqu'un mourait à chaque panier...{ATTENTE}"
   },
   {
     "id": "BASKET.BIN:text:0344",
     "en": "{PAGE}Hey, I learned something new today!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Hé, j'ai appris un truc aujourd'hui!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0345",
     "en": "   It's not okay! What're you thinking!?{SAUT}I'm really gonna crush you!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   C'est pas bon! Tu penses à quoi!?{SAUT}Je vais vraiment t'écraser!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0346",
     "en": "  I-Is it really okay to crush you...?{SAUT}No... Maybe I don't want to...(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Je-Je peux vraiment t'écraser...?{SAUT}Non... J'en ai peut-être pas envie...(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0347",
     "en": "Whaddaya mean, \"What?\" I mean, I'm not{SAUT}gonna just say whatever! It's not like{SAUT}I'm doing... Oh, whatever...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Comment ça, \"quoi\"? Je dis pas{SAUT}n'importe quoi! C'est pas comme si{SAUT}je... Oh, laisse tomber...(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0348",
     "en": " Hey, stop! It was a lie! A technical{SAUT}foul! Don't come near meee!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hé, arrête! C'était un mensonge! Faute{SAUT}technique! M'approche paaas!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0349",
     "en": "   What the hell!? Don't scare me like{SAUT}that! It pisses me off!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   C'est quoi ce bordel!? Me fais pas{SAUT}peur comme ça! Ça m'énerve!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0350",
     "en": "Don't startle me like that... It really{SAUT}scared me.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Me surprends pas comme ça... J'ai{SAUT}vraiment eu peur.(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0351",
     "en": " No, thank you for being born for the{SAUT}sole purpose of meeting me!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Non, merci à toi d'être né dans le{SAUT}seul but de me rencontrer!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0352",
     "en": "   What the heck!? Say what you mean!{SAUT}Man, just forget it!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   C'est quoi ça!? Dis ce que tu penses!{SAUT}Mec, laisse tomber!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0353",
     "en": "If you put your mind to it, you'll be{SAUT}ready for anything! So... ready to{SAUT}experience another world?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Si tu t'y mets, tu seras prêt à tout!{SAUT}Alors... prêt à découvrir{SAUT}un autre monde?(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0354",
     "en": " Hey, you're eating better than I am!{SAUT}I'll pull it outta yer stomach!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hé, tu manges mieux que moi!{SAUT}Je vais te le sortir du ventre!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0355",
     "en": "   Huh? Don't cry ,man. Geez. Alright,{SAUT}already, I'll finish you off.[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "   Hein? Pleure pas, mec. Bon. D'accord,{SAUT}je vais t'achever.[FFF1](*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0356",
     "en": " In comedy, ya can't tell a crappy joke{SAUT}and then expect an apology to cover it!(*RESPONSE*)",
-    "fr": ""
+    "fr": " En comédie, tu peux pas sortir une{SAUT}blague nulle et t'excuser après!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0357",
     "en": " Hmm... Seems you've got some pride.{SAUT}I can dig that.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hmm... Tu as de la fierté, on dirait.{SAUT}J'aime bien ça.(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0358",
     "en": "Don't even think about pullin' the wool{SAUT}over my eyes! I-I... I... I won't be{SAUT}fooled...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Pense même pas à m'embobiner! Je-Je...{SAUT}Je... Je me ferai pas{SAUT}avoir...(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0359",
     "en": " ...Which means, oh crap!(*RESPONSE*)",
-    "fr": ""
+    "fr": " ...Donc, oh merde!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0360",
     "en": "   S-See!? I know everything, man!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   T-Tu vois!? Je sais tout, mec!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0361",
     "en": "We're buddies, right? We should go steal{SAUT}somethin' together!{ATTENTE}",
-    "fr": ""
+    "fr": "On est potes, non? On devrait aller{SAUT}voler un truc ensemble!{ATTENTE}"
   },
   {
     "id": "BASKET.BIN:text:0362",
     "en": "{PAGE}But before we do that, buddies steal{SAUT}from each other all the time![FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Mais avant ça, entre potes on se{SAUT}vole tout le temps![FFF1](*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0363",
     "en": "  We're buddies already! When I get to the{SAUT}pros, you better root for me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  On est déjà potes! Quand je passe{SAUT}chez les pros, encourage-moi!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0364",
     "en": " Tch! Who'd want a punk like you, anyway?(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tch! Qui voudrait d'un minus comme toi?(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0365",
     "en": "   If you're gonna do that, you may as well{SAUT}be my dinner! You're wastin' food!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Si tu fais ça, autant être mon dîner!{SAUT}Tu gaspilles de la nourriture!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0366",
     "en": "You happy-go-lucky punks don't need to{SAUT}bother!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Vous les insouciants, vous embêtez{SAUT}même pas!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0367",
     "en": " Hahaha! I must sound pretty full of{SAUT}myself, huh? Well, I AM incredible!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hahaha! J'ai l'air de me la raconter,{SAUT}hein? Mais je SUIS incroyable!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0368",
     "en": "Hahaha! I must sound pretty full of{SAUT}myself, huh? Well, I AM incredible!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hahaha! J'ai l'air de me la raconter,{SAUT}hein? Mais je SUIS incroyable!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0369",
     "en": "Well... Y'know, overcoming one's self{SAUT}is pretty deep!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Bon... Tu sais, se dépasser soi-même,{SAUT}c'est profond!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0370",
     "en": "  You must be thrilled to converse with{SAUT}an all-star baller, huh!? Hahaha!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Tu dois être ravi de parler à un{SAUT}basketteur all-star, hein!? Hahaha!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0371",
     "en": "＊sigh＊ I'm opening up my heart to you{SAUT}here, gimme a break...(*RESPONSE*)",
-    "fr": ""
+    "fr": "＊soupir＊ Je t'ouvre mon coeur, là,{SAUT}lâche-moi un peu...(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0372",
     "en": "   ＊sigh＊ I'm opening up my heart to you{SAUT}here... That's no way to treat me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   ＊soupir＊ Je t'ouvre mon coeur, là...{SAUT}C'est pas une façon de me traiter!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0373",
     "en": "   If that was a joke, I'm supposed to be{SAUT}laughing, right? Haaaaaahaha! Hm...{SAUT}More? HAHAHAHA!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Si c'était une blague, je dois rire,{SAUT}non? Haaaaahaha! Hm...{SAUT}Encore? HAHAHAHA!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0374",
     "en": " Oh, a gag of some sort? Huh...{SAUT}Is that so...?(*RESPONSE*)",
-    "fr": ""
+    "fr": " Oh, une sorte de gag? Hein...{SAUT}Ah bon...?(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0375",
     "en": "  Whaddaya mean \"nothing\"!? I'm gonna pick{SAUT}a fight this time!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Comment ça \"rien\"!? Cette fois je{SAUT}cherche la bagarre!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0376",
     "en": "What a stupid attitude! I won't forgive{SAUT}ya for tryin' to scare me like that! Geez!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Quelle attitude stupide! Je te pardonne{SAUT}pas de m'avoir fait peur comme ça!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0377",
     "en": " Gyahahaha! You really are crazy!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Gyahahaha! Tu es vraiment taré!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0378",
     "en": "   You're crazy...so I'll be crazy too!{SAUT}Bleyeahhagghha! Psssfhht! UGA UGAHH!(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Tu es taré...alors je le serai aussi!{SAUT}Bleyaahhagghha! Psssfhht! OUGA OUGAH!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0379",
     "en": "  What...? Why're you laughing!? Argh!{SAUT}C'mon, tell me, tell meeee!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Quoi...? Pourquoi tu ris!? Argh!{SAUT}Allez, dis-moi, dis-moiii!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0380",
     "en": "   You wanna throw down? Let's get it on!{SAUT}Kill me if you can! Er... Wait...{SAUT}Maybe that's not such a good idea...?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Tu veux te battre? C'est parti!{SAUT}Tue-moi si tu peux! Euh... Attends...{SAUT}C'est pas une si bonne idée...?(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0381",
     "en": " I get it now! You're the reason the{SAUT}team's in shambles! Disagreeable guys{SAUT}like you are useless!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Je comprends! C'est toi la raison du{SAUT}naufrage de l'équipe! Les types{SAUT}comme toi servent à rien!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0382",
     "en": "Oooh, you're a stand-up guy! That makes{SAUT}me happy.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Oooh, tu es un type bien! Ça me fait{SAUT}plaisir.(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0383",
     "en": "  So, hand it over! Now! Just give it to{SAUT}me, dammit!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Alors, file-le! Maintenant! Donne-le{SAUT}moi, bon sang!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0384",
     "en": " What!? You tryin' to pawn this off on{SAUT}me!? You shouldn't be doin' business{SAUT}with demons!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Quoi!? Tu essaies de me refourguer{SAUT}ça!? Tu devrais pas faire affaire{SAUT}avec les démons!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0385",
     "en": "Hey, you've got it! My shoes wear out{SAUT}fast, so this'll help me out.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hé, tu l'as! Mes chaussures s'usent{SAUT}vite, ça va bien m'aider.(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0386",
     "en": "So you were holding back!? That pisses{SAUT}me off! Don't you dare look down on me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu te retenais!? Ça m'énerve!{SAUT}T'avise pas de me mépriser!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0387",
     "en": " Well, then I'm not interested.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Bon, alors ça m'intéresse pas.(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0388",
     "en": " First off, bring me a soul. We'll split{SAUT}it 70-30!{ATTENTE}",
-    "fr": ""
+    "fr": " D'abord, apporte-moi une âme. On la{SAUT}partage 70-30!{ATTENTE}"
   },
   {
     "id": "BASKET.BIN:text:0389",
     "en": "{PAGE}Ha! Not like you humans could do that!{SAUT}You wouldn't last a day in my entourage!(*RESPONSE*)",
-    "fr": ""
+    "fr": "{PAGE}Ha! Comme si vous les humains pouviez!{SAUT}Tu tiendrais pas un jour avec moi!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0390",
     "en": " You're a dude... Not that I'm{SAUT}discriminatin', but I'll pass...(*RESPONSE*)",
-    "fr": ""
+    "fr": " Tu es un mec... Je discrimine pas,{SAUT}mais je passe mon tour...(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0391",
     "en": " Hahaha! C'mon man, quit clownin' me!{SAUT}Be honest for once!(*RESPONSE*)",
-    "fr": ""
+    "fr": " Hahaha! Allez mec, arrête de te moquer!{SAUT}Sois honnête pour une fois!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0392",
     "en": "   You got guts to ignore my question!{SAUT}When'd you become such a big shot, huh?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Tu as du culot d'ignorer ma question!{SAUT}Depuis quand tu fais le caïd, hein?(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0393",
     "en": "Is that so? So you failed a year!?{SAUT}Hahaha, sorry to hear that!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ah bon? Tu as redoublé!?{SAUT}Hahaha, désolé pour toi!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0394",
     "en": " Well, there ya have it.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Bon, voilà, c'est dit.(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0395",
     "en": "You'll see whether or not that's{SAUT}possible when ya eat my dunk!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu verras si c'est possible quand tu{SAUT}auras mangé mon dunk!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0398",
     "en": "Oh well. Guess I'll do some baby-sitting!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Bon, tant pis. Je joue les nounous!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0399",
     "en": "  Oh well! This is why I hate kids!(*RESPONSE*)",
-    "fr": "",
+    "fr": "  Bon tant pis! Je déteste les gamins!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "BASKET.BIN:text:0403",
     "en": " Oh, I get it... You're sayin' you wanna{SAUT}give me somethin'! Sorry, I was{SAUT}confused. So let's see here...[FFF1](*RESPONSE*)",
-    "fr": ""
+    "fr": " Ah, je vois... Tu veux me donner un{SAUT}truc! Désolé, j'avais mal compris.{SAUT}Alors voyons voir...[FFF1](*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0405",
     "en": "   I'm about to throw a tomahawk jam down{SAUT}on your dome!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Je vais te planter un tomahawk dunk{SAUT}sur le crâne!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "BASKET.BIN:text:0406",
     "en": "   Ooh, you understand me!? You're not{SAUT}such a bad guy!(*RESPONSE*)",
-    "fr": "",
+    "fr": "   Ooh, tu me comprends!? Tu es pas si{SAUT}mauvais que ça!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "BASKET.BIN:text:0407",
     "en": "Whaddaya mean, \"stupid\"!? No pain, no{SAUT}gain! You just don't get it!(*RESPONSE*)",
-    "fr": "",
+    "fr": "Comment ça, \"stupide\"!? On a rien sans{SAUT}rien! Tu comprends rien!(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "BASKET.BIN:text:0408",
     "en": " N-No way... There's actually someone who{SAUT}doesn't get stunned by my power play?(*RESPONSE*)",
-    "fr": ""
+    "fr": " Pa-Pas possible... Quelqu'un reste{SAUT}debout face à mon jeu de force?(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0409",
     "en": " Haha... I like your attitude.{SAUT}It's interesting.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Haha... J'aime ton attitude.{SAUT}C'est intéressant.(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0410",
     "en": "Hahaha! Didn't need to ask, huh!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "Hahaha! Pas besoin de demander, hein!?(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0411",
     "en": "  Hahaha! Alright, leave it to me!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hahaha! Bon, compte sur moi!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0412",
     "en": "   Is that so? That's how you're gonna{SAUT}roll, eh!? You're ready to do this,{SAUT}aren't ya!?(*RESPONSE*)",
-    "fr": ""
+    "fr": "   Ah bon? C'est comme ça que tu vois{SAUT}les choses!? Tu es prêt à y aller,{SAUT}hein!?(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0413",
     "en": "I don't got time to deal with fools who{SAUT}can't understand my appeal!(*RESPONSE*)",
-    "fr": ""
+    "fr": "J'ai pas le temps pour les idiots qui{SAUT}comprennent pas mon charme!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0414",
     "en": "I like your confidence!(*RESPONSE*)",
-    "fr": ""
+    "fr": "J'aime ton assurance!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0415",
     "en": "Ha, don't belittle me! I'm a times{SAUT}tables master!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ha, me rabaisse pas! Je maîtrise les{SAUT}tables de multiplication!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0416",
     "en": "  Hahaha! Glad ya noticed!(*RESPONSE*)",
-    "fr": ""
+    "fr": "  Hahaha! Content que tu remarques!(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0417",
     "en": "   How nice. I'm surprised you're such a{SAUT}gentleman with a face like that.(*RESPONSE*)",
-    "fr": ""
+    "fr": "   C'est gentil. Étonnant d'être si{SAUT}galant avec une tête comme ça.(*RESPONSE*)"
   },
   {
     "id": "BASKET.BIN:text:0418",
     "en": " Then forget it.(*RESPONSE*)",
-    "fr": ""
+    "fr": " Alors oublie.(*RESPONSE*)"
   }
 ]

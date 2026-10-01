@@ -1,0 +1,16 @@
+[
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F340",
+    "en": "Dead Ends(*TERMINATOR*)",
+    "fr": "Impasses(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F380",
+    "en": "Angel Whispers(*TERMINATOR*)",
+    "fr": "Murmures d'ange(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  }
+]

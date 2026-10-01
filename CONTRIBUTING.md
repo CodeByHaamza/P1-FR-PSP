@@ -23,7 +23,7 @@ même chose.
 
 ---
 
-## Les quatre dossiers
+## Les cinq dossiers
 
 | Dossier | Contenu | Bon pour |
 |---|---|---|
@@ -31,6 +31,7 @@ même chose.
 | [`trad/negociations/`](trad/negociations/) | ce que les démons disent quand on leur parle en combat, un dossier par personnalité (`SLIME_`, `YAKUZA_`, `TENSI_`…) | qui aime les voix bien typées : chaque démon a son ton, du voyou au petit ange |
 | [`trad/eboot/`](trad/eboot/) | menus, écrans, noms de lieux, tutoriels, interface de combat et actions de négociation | **terminé** — une relecture est toujours bienvenue |
 | [`trad/donjons/`](trad/donjons/) | messages de couloir, portes fermées | **terminé** |
+| [`trad/noms/`](trad/noms/) | les noms d'objets, d'armes, d'armures et de sorts descriptifs | qui veut commencer petit : un nom par ligne, aucune mise en scène, et la place disponible écrite en face |
 
 Dans les négociations, les lignes `…:text:…` sont ce que dit le démon, les
 lignes `…:resp:…` les réponses courtes que le joueur peut choisir. Le code
@@ -47,6 +48,18 @@ chaîne trop longue vers un espace libre, et ça marche : « Charger une partie 
 Le robot te le signale en jaune, sans bloquer. **N'écorche pas le français pour
 tenir dans le budget** : certains `max` sont intenables — `No` fait deux
 caractères, « Non » en fait trois.
+
+Dans `trad/noms/`, ce même champ `max` veut dire autre chose : **c'est la place
+réelle**, mesurée dans le jeu, et là il faut tenir. Un nom occupe une case de
+taille fixe que le jeu trouve en comptant ; rien à rediriger, donc rien à
+déborder, et le robot refuse en rouge (`[SLOT]`). Bonne nouvelle : cette place
+est large. « Rapier » fait 6 caractères pour 19 disponibles, de quoi écrire
+« Rapière » sans se contorsionner. Les accents passent.
+
+Certaines entrées de `trad/noms/` portent un champ `_tete` avec des codes
+bizarres : ce sont les statistiques de l'objet, collées devant son nom dans
+l'exécutable. Elles sont remises automatiquement, **n'y touche pas** — c'est
+justement pour que tu n'aies pas à les voir qu'elles sont rangées là.
 
 ---
 
@@ -202,16 +215,19 @@ Il te dit exactement quoi corriger :
 | `[ENCODAGE]` | un caractère n'existe pas dans le jeu (souvent un guillemet exotique collé depuis un traitement de texte) |
 | `[GLYPHE]` | le caractère existe mais ne se dessine pas : il apparaîtrait blanc |
 | `[CANARI]` | l'anglais d'origine a été modifié par accident — restaure `en` et `locuteur` |
+| `[ESPACE]` | tu as écrit `[0000]` entre des mots alors que l'anglais a des espaces — ce code coupe la chaîne, mets des espaces |
+| `[DONJON]` | une ligne de `trad/donjons/` plus longue que l'anglais — le jeu resterait bloqué sur un chargement, raccourcis |
+| `[PLACE]` | les fichiers d'un même démon (`SLIME_001`, `SLIME_002`…) font ensemble plus long que l'anglais — le jeu se figerait en parlant à ce démon, raccourcis |
+| `[SLOT]` | un nom de `trad/noms/` dépasse la case que le jeu lui réserve — là, il faut vraiment raccourcir |
 
 Ce n'est pas un jugement sur ta traduction. **On ne relit que le français**,
 jamais la technique : le robot s'en charge.
 
-Il existe un dernier message, en **jaune** celui-là, qui ne bloque rien :
+Il existe deux messages en **jaune**, qui ne bloquent rien :
 
+| Message | Ce qu'il veut dire |
+|---|---|
 | `[TERMINO]` | un terme du [dictionnaire](docs/Dictionnaire.md) apparaît dans l'anglais mais pas sa traduction dans le français |
-| `[PLACE]` | les fichiers d'un même démon (`SLIME_001`, `SLIME_002`…) font ensemble plus long que l'anglais — le jeu se figerait en parlant à ce démon, raccourcis |
-| `[ESPACE]` | tu as écrit `[0000]` entre des mots alors que l'anglais a des espaces — ce code coupe la chaîne, mets des espaces |
-| `[DONJON]` | une ligne de `trad/donjons/` plus longue que l'anglais — le jeu resterait bloqué sur un chargement, raccourcis |
 | `[BUDGET]` | une ligne de `trad/eboot/` dépasse son `max` — ça marche, c'est juste plus fragile |
 
 C'est une question, pas un reproche. Souvent tu as raison — le français

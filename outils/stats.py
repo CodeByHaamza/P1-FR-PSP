@@ -39,6 +39,11 @@ SECTIONS = [
     ("EBOOT", "trad/eboot", 5771),
     ("Donjons", "trad/donjons", 204),
     ("Négociations", "trad/negociations", 17408),
+    # Les noms : 629 slots dans les quatre tables de l'EBOOT, dont 439 ouverts.
+    # Les 190 autres sont les sorts signature de la serie (Agi, Bufu...), les
+    # modeles d'armes reels et les noms propres japonais, laisses en anglais
+    # par la politique du dictionnaire.
+    ("Noms", "trad/noms", 629),
 ]
 
 
@@ -163,8 +168,7 @@ def rapport_markdown(sante, depot, plafond=250):
     total = sum(len(e["soucis"]) for _, e in fautifs)
 
     lignes = [
-        f"**{total} erreur{'s' if total > 1 else ''}** dans "
-        f"{len(fautifs)} fichier{'s' if len(fautifs) > 1 else ''}.",
+        f"**{total} erreur{'s' if total > 1 else ''}** dans {len(fautifs)} fichier{'s' if len(fautifs) > 1 else ''}.",
         "",
         "Cette issue est **tenue à jour automatiquement** : elle se réécrit à "
         "chaque contribution et se ferme toute seule quand il ne reste rien. "
@@ -358,13 +362,13 @@ def ecrire_badge(chemin: Path, label: str, fait: int, tout: int):
 # serait faux a la fusion suivante, et un alt faux vaut moins que pas d'alt.
 DEBUT_BADGES = "<!-- badges:debut -->"
 FIN_BADGES = "<!-- badges:fin -->"
-URL_BADGE = ("https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/"
-             "CodeByHaamza/P1-FR-PSP/main/.github/{fichier}.json")
-
-
-def milliers(n):
-    """Separateur d'un espace, comme les chiffres de SUIVI.md."""
-    return f"{n:,}".replace(",", " ")
+# Le compte est ecrit en clair : ce fichier n'est pas substitue a la
+# publication (seuls les .md et .yml le sont), et shields.io a besoin de l'URL
+# reelle. Un « OWNER » ici rend tous les badges du README introuvables.
+URL_BADGE = (
+    "https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/"
+    "CodeByHaamza/P1-FR-PSP/main/.github/{fichier}.json"
+)
 
 
 def ligne_badge(alt, fichier, lien="SUIVI.md"):
@@ -378,12 +382,13 @@ def ecrire_badges_readme(racine: Path, sections, fait: int, tout: int):
     if DEBUT_BADGES not in texte or FIN_BADGES not in texte:
         print(f"  {chemin.name} : marqueurs de badges absents, bloc laisse tel quel")
         return
-    pct = lambda f, t: round(100 * f / t) if t else 0
+
+    def pct(f, t):
+        return round(100 * f / t) if t else 0
 
     lignes = [
         ligne_badge(f"avancement total : {pct(fait, tout)} % des textes traduits", "badge"),
-        "![licence : CC BY-NC-SA 4.0]"
-        "(https://img.shields.io/badge/licence-CC%20BY--NC--SA%204.0-lightgrey)",
+        "![licence : CC BY-NC-SA 4.0](https://img.shields.io/badge/licence-CC%20BY--NC--SA%204.0-lightgrey)",
         "[![Discord : Grimoire du Coeur]"
         "(https://img.shields.io/badge/discord-Grimoire%20du%20C%C5%93ur-5865F2"
         "?logo=discord&logoColor=white)](https://discord.gg/s6CRadvPa3)",
@@ -391,10 +396,12 @@ def ecrire_badges_readme(racine: Path, sections, fait: int, tout: int):
     ]
     for nom, sous_dossier, _par_fichier, total, traduits in sections:
         etiquette = nom.lower()
-        lignes.append(ligne_badge(
-            f"{etiquette} : {pct(traduits, total)} % traduits "
-            f"({milliers(traduits)} sur {milliers(total)} textes)",
-            f"badge_{Path(sous_dossier).name}"))
+        lignes.append(
+            ligne_badge(
+                f"{etiquette} : {pct(traduits, total)} % traduits ({milliers(traduits)} sur {milliers(total)} textes)",
+                f"badge_{Path(sous_dossier).name}",
+            )
+        )
 
     avant, _, reste = texte.partition(DEBUT_BADGES)
     _, _, apres = reste.partition(FIN_BADGES)
@@ -427,7 +434,7 @@ def rendre(sections, reservations, sante, auteurs=None):
             continue
         pct = round(100 * traduits / total) if total else 0
         lignes.append(
-            f"{nom:<14} {barre(traduits, total)}  {pct:>3} %   " f"{milliers(traduits):>6} / {milliers(total)} textes"
+            f"{nom:<14} {barre(traduits, total)}  {pct:>3} %   {milliers(traduits):>6} / {milliers(total)} textes"
         )
 
     # Le total du projet, toutes zones confondues, zones fermees comprises :
@@ -487,9 +494,10 @@ def rendre(sections, reservations, sante, auteurs=None):
         ]
         for fichier, n, f in par_fichier:
             pct = round(100 * f / n) if n else 0
+            sante_fichier = sante.get(f"{sous_dossier}/{fichier}")
             lignes.append(
                 f"| [`{fichier}`]({sous_dossier}/{fichier}) | {n} | {f} | {pct} % | "
-                f"{etat(n, f, reservations.get(fichier), sante.get(f'{sous_dossier}/{fichier}'), auteurs.get(fichier))} |"
+                f"{etat(n, f, reservations.get(fichier), sante_fichier, auteurs.get(fichier))} |"
             )
         lignes.append("")
 

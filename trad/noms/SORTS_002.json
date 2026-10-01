@@ -1,0 +1,128 @@
+[
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_26A008",
+    "en": "Last Resort",
+    "fr": "Dernier recours",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_26A038",
+    "en": "Self-Destruct",
+    "fr": "Autodestruction",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_26A068",
+    "en": "Clone",
+    "fr": "Clone",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_26A098",
+    "en": "Dissolvent",
+    "fr": "Dissolvant",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_26A0C8",
+    "en": "Illusion",
+    "fr": "Illusion",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_26A0F8",
+    "en": "Scatter",
+    "fr": "Dispersion",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_26A128",
+    "en": "Paralyze Puncture",
+    "fr": "Piqûre paralysante",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_26A158",
+    "en": "Dark Mirror",
+    "fr": "Miroir sombre",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_26A188",
+    "en": "Fire Arrow",
+    "fr": "Flèche de feu",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_26A1B8",
+    "en": "Dark Slumber",
+    "fr": "Sommeil sombre",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_26A218",
+    "en": "Absolute Zero",
+    "fr": "Zéro absolu",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_26A248",
+    "en": "Devil's Wall",
+    "fr": "Mur du diable",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_26A278",
+    "en": "Crawling Chaos",
+    "fr": "Chaos rampant",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_26A2A8",
+    "en": "Symphony of Lament",
+    "fr": "Symphonie du deuil",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_26A2D8",
+    "en": "All Guard",
+    "fr": "Garde totale",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_26A308",
+    "en": "Butterfly Storm",
+    "fr": "Nuée de papillons",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_26A338",
+    "en": "Bloody Rose",
+    "fr": "Rose sanglante",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_26A368",
+    "en": "Derangement Voice",
+    "fr": "Voix dérangeante",
+    "max": 19,
+    "_fixe": true
+  }
+]
