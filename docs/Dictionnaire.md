@@ -27,6 +27,7 @@
 | SEBEC | SEBEC | ✅ *(nom propre conservé)* |
 | Shadow / Shadows | Ombre / Ombres | ✅ |
 | Snow Queen | Reine des Neiges | ✅ |
+| the blue room | la chambre bleue | E2_008.json | ✅ *(description de la Chambre de Velours vue de l'extérieur — « A blue room and a blue piano » ; en minuscules, ce n'est pas le nom du lieu)* |
 | Snow Queen Quest | Quête de la Reine des Neiges | ✅ |
 | Velvet Room | Chambre de Velours / Velours | ✅ *(forme abrégée sur les étiquettes de carte : 18 caractères pour un budget de 10)* |
 
@@ -56,6 +57,7 @@
 | Masao "Mark" Inaba | Masao Inaba | ✅ *(garder le surnom « Mark » ?)* |
 | Nyarlathotep | Nyarlathotep | ✅ *(nom conservé)* |
 | Pandora | Pandore | ✅ *(le boss final ; nom mythologique francisé — cf. « boîte de Pandore », cohérent avec Philémon)* |
+| Para Stone | Pierre Para | E2_014.json | ✅ *(sur le modèle des « Pierre Mabufu » / « Pierre Vie » de l'EBOOT)* |
 | Philemon | Philémon | ✅ *(accent, cohérent avec P2)* |
 | Protagonist (héros) | (nom choisi par le joueur — placeholder) | ✅ |
 | Reiji Kido | Reiji Kido | ✅ |
@@ -130,9 +132,9 @@
 | essence(s) | essence(s) | E0_025.json | ✅ |
 | Estoma / Traesto | gardes (sorts signature : fuite/teleport) | names_eboot.json | ✅ |
 | états de combat | Joie / Affolé / Charmé / Gelé / Choc / Lié / Dort / Muet / Cécité / Poisse / Effroi / Faute / Poison / Paralysé / Pierre / Mal / KO | EBOOT_013.json | ✅ |
-| Eternal Night | Nuit Éternelle | E1_023.json, DNG_002.json, EBOOT_017.json | ✅ |
+| Eternal Night | Nuit Éternelle | E1_023.json, DNG_002.json, EBOOT_017.json | ✅ *(⚠️ **la majuscule et l'accent comptent** : c'est le nom de l'évènement. Sept lignes portaient « nuit éternelle », « nuit Eternelle » ou « Nuit Eternelle » — unifiées le 01/10/2026)* |
 | Expel / Curse / Bless | conservés | EBOOT_013.json | ✅ *(éléments signature, cf. « Miroir Expel »)* |
-| Expel Mirror | Miroir Expel | EBOOT_016.json | ✅ *(sort signature gardé)* |
+| Expel Mirror | Miroir Expel | EBOOT_016.json | ✅ *(sort signature gardé. ⚠️ E2_017 disait « miroir d'Expulsion » sur trois lignes et « Miroir Expel » sur deux autres, dans le même fichier — unifié le 01/10/2026)* |
 | Extra Game | partie bonus | EBOOT_007.json | ✅ |
 | Fever Crown / Core Shield | Couronne / Bouclier | EBOOT_011.json | ✅ *(le qualificatif ne tient pas dans 10)* |
 | Fire / Death (sous-types) | Feu / Mort | EBOOT_007.json | ✅ |
@@ -155,6 +157,7 @@
 | HP / SP | HP / SP | EBOOT_016.json | ✅ *(convention de la série en français, et déjà en jeu dans les fichiers traduits)* |
 | HP / SP Incense | Encens HP / Encens SP | EBOOT_011.json | ✅ |
 | Hypnos | Hypnos | E1_008.json | ✅ |
+| Sir Hypnos | Sire Hypnos | E1_010.json | ✅ *(Kumi ne l'appelle jamais autrement, c'est tout son rapport au personnage. Le titre tombait dans E1_013 et perdait sa majuscule dans E1_010)* |
 | Hypnos / Nemesis / Thanatos Chamber | Salle Hypnos / Némésis / Thanatos | EBOOT_001.json | ✅ |
 | Hypnos / Nemesis / Thanatos Tower | Tour Hypnos / Némésis / Thanatos | E1_014.json, EBOOT_017.json, EBOOT_023.json | ✅ *(majuscule à « Tour » : c'est le nom du lieu. Pas de « Tour de X », proposé sur le Discord : le slot du nom de lieu dans EBOOT_001 fait 11 à 13 caractères, « Tour de Thanatos » en fait 16 — il faudrait le code cave sur les trois libellés les plus visibles du jeu)* |
 | Ice Castle | Château de Glace / Glace | E1_023.json, EBOOT_002.json | ✅ *(forme abrégée sur les étiquettes)* |
@@ -177,6 +180,7 @@
 | Masao / Kei | Masao / Kei | E0_006.json | ✅ |
 | Medicine | Remède | EBOOT_011.json | ✅ |
 | Metal Card | Carte Métal / Métal | EBOOT_011.json | ✅ *(forme courte sur les lots du casino, où le budget est de 10)* |
+| N yen | N yens, séparateur par espace : « 2 000 yens » | E2_008.json, E2_017.json | ✅ *(forme déjà en jeu dans E2_017 ; les autres montants de Trish suivent)* |
 | Michiko (Reine de la tour Hypnos) | Michiko | E1_017.json | ✅ *(nom conservé)* |
 | Mikage-cho 1st Ward | Mikage-cho quartier 1 | EBOOT_014.json | ✅ |
 | Mirror Shard | Fragment de Miroir | E1_014.json, E1_017.json, DNG_002.json | ✅ *(cohérent avec « megalith shard » → « fragment de mégalithe », E0_002)* |
@@ -214,6 +218,7 @@
 | security card | carte de sécurité | E0_016.json | ✅ |
 | Set (lot du casino) | Lot | EBOOT_011.json | ✅ |
 | Setsuko Sonomura | Setsuko Sonomura | E0_005.json | ✅ |
+| Hiremon Stone | Pierre Hiremon | E2_008.json | ✅ *(le mégalithe du lycée, exhumé en 1963 ; « Hiremon » est l'abrégé de St. Hermelin, conservé)* |
 | skill (commande de combat) | don | EBOOT_013.json, EBOOT_015.json | ✅ *(distinct de `power` → pouvoir et de `spell` → sort, qui se disputaient le mot)* |
 | skill (d'un Persona) | pouvoir | EBOOT_008.json, EBOOT_010.json | ✅ *(« compétence » ne tient pas dans les budgets)* |
 | skill inheritance | héritage des pouvoirs | EBOOT_008.json | ✅ |
@@ -223,6 +228,14 @@
 | Stern-faced man (locuteur) | Homme sévère | E0_017.json | ✅ *(cohérent avec « Voix sévère », DNG_001)* |
 | Stone (objet conso, ex: Agidyne Stone) | Pierre (mot ajoute apres le sort garde) | names_eboot.json | ✅ |
 | Student Council Room | Conseil des élèves | EBOOT_001.json | ✅ |
+| Robed man | Homme en toge | E1_009.json | ✅ *(Hypnos avant qu'il se nomme ; suit la forme des autres locuteurs descriptifs, « Homme en noir », « Vieil homme en livrée »)* |
+| Policeman's spirit | Esprit du policier | E2_006.json | ✅ *(cf. « Esprit d'élève »)* |
+| Nurse Natsumi's boyfriend | Copain de Natsumi | E1_008.json | ✅ |
+| Rumor-loving student | Amateur de ragots | E2_008.json | ✅ |
+| SEBEC employee / Angry SEBEC employee | Employé SEBEC / Employé furieux | E2_008.json | ✅ |
+| Cheerful schoolgirl | Élève enjouée | E1_021.json | ✅ |
+| Kaneda / Katsue / Kiichi | Kaneda / Katsue / Kiichi | E2_006.json, E2_017.json | ✅ *(patronymes conservés)* |
+| Night Queen's voice | Voix de la Reine de la Nuit | E1_030.json | ✅ *(⚠️ portait « Voix de la Reine », **comme la Reine des Neiges** : deux personnages sous un seul nom, alors que la Reine des Neiges annonce elle-même qu'elle part l'invoquer. Corrigé le 01/10/2026)* |
 | Succubus (Persona) | Succube | ETC_002.json | ✅ *(nom commun français ; « Succubus » est le latin)* |
 | Suspicious-looking man (locuteur) | Homme suspect | E0_017.json | ✅ *(cohérent avec « Voix suspecte », DNG_001)* |
 | Tablet (objet conso, ex: Evil Fire Tablet) | Plaque (+ Maudit/e si "Evil") | names_eboot.json | ✅ |
@@ -268,6 +281,7 @@ différents. Une forme par marqueur, sans exception :
 | ＊gulp＊ / ＊glug＊ / ＊ulp＊ | ＊gloup＊ / ＊glou＊ / ＊oulp＊ | ＊shriek＊ | ＊hurle＊ |
 | ＊pant＊ / ＊huff＊ | ＊halète＊ | ＊whimper＊ / ＊whine＊ | ＊gémit＊ |
 | ＊puke＊ / ＊gag＊ | ＊vomit＊ | ＊whistle＊ | ＊sifflement＊ |
+| ＊hack＊ | ＊râle＊ | ＊dreamy sigh＊ | ＊soupir rêveur＊ |
 | ＊ring＊ | ＊dring＊ | ＊yawn＊ | ＊bâille＊ |
 |  |  | ＊yip＊ | ＊ouaf＊ |
 
@@ -283,6 +297,12 @@ perdu ou ajoute un : `＊gasp＊ You couldn't have...!` etait devenu
 « Oh... C'est impossible...! », geste efface.
 
 ⚠️ Les `＊` allongés suivent l'anglais : `＊siiigh＊` → `＊souuupir＊`.
+
+⚠️ **Une seule ligne porte trois gestes anglais différents d'affilée** :
+`E1.BIN:081:0010` a `＊cough＊ ＊gag＊ ＊puke＊`. Comme le tableau fait tomber
+`＊gag＊` et `＊puke＊` sur le même `＊vomit＊`, le français y écrit
+`＊tousse＊ ＊suffoque＊ ＊vomit＊` : trois gestes pour trois gestes, sans répéter
+`＊vomit＊`. C'est la seule exception, et elle s'arrête à cette ligne.
 
 ⚠️ Une seule ligne a deux marqueurs français pour un seul anglais, et c'est
 voulu : `HIHO.BIN:text:0609` porte `＊huff ＊huff＊` dans la VO, où il manque
