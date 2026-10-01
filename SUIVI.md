@@ -315,10 +315,10 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`ALIEN_002.json`](trad/negociations/ALIEN_002.json) | 5 | 5 | 100 % | terminé |
 | [`BASKET_001.json`](trad/negociations/BASKET_001.json) | 100 | 100 | 100 % | terminé |
 | [`BASKET_002.json`](trad/negociations/BASKET_002.json) | 100 | 100 | 100 % | terminé |
-| [`BASKET_003.json`](trad/negociations/BASKET_003.json) | 100 | 0 | 0 % | libre |
-| [`BASKET_004.json`](trad/negociations/BASKET_004.json) | 100 | 0 | 0 % | libre |
-| [`BASKET_005.json`](trad/negociations/BASKET_005.json) | 100 | 0 | 0 % | libre |
-| [`BASKET_006.json`](trad/negociations/BASKET_006.json) | 100 | 0 | 0 % | libre |
+| [`BASKET_003.json`](trad/negociations/BASKET_003.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#110) |
+| [`BASKET_004.json`](trad/negociations/BASKET_004.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#110) |
+| [`BASKET_005.json`](trad/negociations/BASKET_005.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#110) |
+| [`BASKET_006.json`](trad/negociations/BASKET_006.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#110) |
 | [`BASKET_007.json`](trad/negociations/BASKET_007.json) | 100 | 0 | 0 % | libre |
 | [`BASKET_008.json`](trad/negociations/BASKET_008.json) | 56 | 0 | 0 % | libre |
 | [`DOPPEL_001.json`](trad/negociations/DOPPEL_001.json) | 100 | 100 | 100 % | terminé |
