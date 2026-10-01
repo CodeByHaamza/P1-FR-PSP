@@ -2,367 +2,367 @@
   {
     "id": "KOROU.BIN:resp:0229",
     "en": "Too old fashioned.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Trop vieux jeu.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0231",
     "en": "It's not love?(*RESPONSE*) ",
-    "fr": ""
+    "fr": "C'est pas l'amour?(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0232",
     "en": "You're in love.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Tu es amoureux.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0234",
     "en": "I hate pie.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Je hais la tarte.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOROU.BIN:resp:0237",
     "en": "What, no!(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Quoi, non!(*RESPONSE*)",
     "_occurrences": 5
   },
   {
     "id": "KOROU.BIN:resp:0239",
     "en": "There's bagels!(*RESPONSE*)",
-    "fr": ""
+    "fr": "Il y a les bagels!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0240",
     "en": "There's ochazuke!(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Il y a l'ochazuke!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0241",
     "en": "Use a microwave.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Prends un four.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0242",
     "en": "Because I'm cute?(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Parce que mignon?(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0243",
     "en": "Because I'm small?(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Parce que petit?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOROU.BIN:resp:0245",
     "en": "Hey, you wanna die?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Dis, tu veux mourir?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOROU.BIN:resp:0248",
     "en": "You shouldn't exist.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Tu devrais pas être là.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOROU.BIN:resp:0251",
     "en": "Bully more(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Brimer plus(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "KOROU.BIN:resp:0252",
     "en": "Take the bullying(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Encaisser la brimade(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "KOROU.BIN:resp:0257",
     "en": "There is...(*RESPONSE*)",
-    "fr": ""
+    "fr": "Il y a...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0258",
     "en": "I won't marry.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Je me marierai pas.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0260",
     "en": "...I'm fine.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "...Ça me va.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0261",
     "en": "I'll do that.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Je ferai ça.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0262",
     "en": "I can't ignore it.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Je peux pas ignorer.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0265",
     "en": "Now, where to go?(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Bon, on va où?(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0266",
     "en": "You don't like sake?(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Tu aimes pas le saké?(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0267",
     "en": "Pickles aren't good?(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Les cornichons, non?(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0268",
     "en": "You don't like stew?(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Tu aimes pas le ragoût?(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0269",
     "en": "...Cut it out.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "...Arrête ça.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0273",
     "en": "The weather is...(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Le temps est...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0277",
     "en": "Kitchen refuse?(*RESPONSE*)",
-    "fr": "",
+    "fr": "Déchets de cuisine?(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOROU.BIN:resp:0279",
     "en": "Garbage?(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Des ordures?(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0280",
     "en": "Me.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Moi.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0281",
     "en": "Taunt me and die.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Nargue-moi et meurs.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0282",
     "en": "Keep talking.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Continue de parler.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0283",
     "en": "Can't hear ya.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "J'entends rien.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOROU.BIN:resp:0284",
     "en": "Just like a rat.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Comme un rat.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOROU.BIN:resp:0287",
     "en": "I'll reuse it.(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Je le réutilise.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOROU.BIN:resp:0289",
     "en": "Lone wolf kick(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Coup du loup(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0290",
     "en": "Lone wolf punch(*RESPONSE*)",
-    "fr": ""
+    "fr": "Poing du loup(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0291",
     "en": "Lone wolf suplex(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Suplex du loup(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0292",
     "en": "More threats(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Plus de menaces(*RESPONSE*)",
     "_occurrences": 3
   },
   {
     "id": "KOROU.BIN:resp:0293",
     "en": "Don't apologize(*RESPONSE*)",
-    "fr": "",
+    "fr": "Pas d'excuses(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOROU.BIN:resp:0295",
     "en": "You're evil.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Tu es mauvais.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0296",
     "en": "It's irrelevant.(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "C'est hors sujet.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOROU.BIN:resp:0300",
     "en": "Listen to me yell!(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Écoute-moi crier!(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0302",
     "en": "Nope.(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Non.(*RESPONSE*)",
     "_occurrences": 5
   },
   {
     "id": "KOROU.BIN:resp:0304",
     "en": "Think about it.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Réfléchis-y.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOROU.BIN:resp:0306",
     "en": "It's meaningless.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Ça n'a aucun sens.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0307",
     "en": "Don't tell(*RESPONSE*) ",
-    "fr": "",
+    "fr": "Pas le dire(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOROU.BIN:resp:0310",
     "en": "Yell(*RESPONSE*)   ",
-    "fr": "",
+    "fr": "Crier(*RESPONSE*)",
     "_occurrences": 5
   },
   {
     "id": "KOROU.BIN:resp:0314",
     "en": "If I have time.(*RESPONSE*)",
-    "fr": "",
+    "fr": "Si j'ai le temps.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOROU.BIN:resp:0316",
     "en": "Talk with demons.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Parler aux démons.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0317",
     "en": "Demon hunting.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Chasse aux démons.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0318",
     "en": "A stroll.(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Une balade.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOROU.BIN:resp:0319",
     "en": "Stay calm(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Rester calme(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0321",
     "en": "Ignore and continue(*RESPONSE*)",
-    "fr": ""
+    "fr": "Ignorer et continuer(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0322",
     "en": "You're just shy.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Tu es juste timide.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0323",
     "en": "It's being eaten.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "On le mange.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0324",
     "en": "Due to the sun...(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "À cause du soleil...(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0325",
     "en": "Dried squid(*RESPONSE*)",
-    "fr": ""
+    "fr": "Calmar séché(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0326",
     "en": "Rice crackers(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Biscuits de riz(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0327",
     "en": "Bekkouame(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Bekkouame(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0328",
     "en": "Be humble(*RESPONSE*)  ",
-    "fr": "",
+    "fr": "Être humble(*RESPONSE*)",
     "_occurrences": 2
   },
   {
     "id": "KOROU.BIN:resp:0331",
     "en": "I'm lonely.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Je suis seul.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0332",
     "en": "I feel good.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Je me sens bien.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0333",
     "en": "This is strange.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "C'est étrange.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0334",
     "en": "The latest games.(*RESPONSE*)  ",
-    "fr": ""
+    "fr": "Les jeux récents.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0335",
     "en": "Just a college girl.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Juste une étudiante.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0337",
     "en": "Refute(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Réfuter(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0340",
     "en": "Give me a card.(*RESPONSE*)",
-    "fr": ""
+    "fr": "Donne une carte.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0341",
     "en": "Give me something.(*RESPONSE*) ",
-    "fr": ""
+    "fr": "Donne-moi un truc.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0342",
     "en": "Let's negotiate.(*RESPONSE*)   ",
-    "fr": ""
+    "fr": "Négocions.(*RESPONSE*)"
   },
   {
     "id": "KOROU.BIN:resp:0343",
     "en": "[FFFA].(*RESPONSE*) ",
-    "fr": ""
+    "fr": "[FFFA].(*RESPONSE*)"
   }
 ]
