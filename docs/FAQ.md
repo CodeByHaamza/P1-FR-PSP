@@ -43,6 +43,15 @@ ordre. Le plus fréquent : un `{SAUT}` oublié en reformulant.
 Une ligne dépasse la boîte de dialogue. Coupe-la avec un `{SAUT}` ou raccourcis.
 La mesure porte sur le texte **entre deux codes**, pas sur la réplique entière.
 
+**`[SLOT] 23 caractères pour un slot de 19`** *(zone `noms` seulement)*
+Les noms d'objets, d'armes et de sorts ne vivent pas dans un fichier de texte :
+chacun occupe une case de taille fixe dans l'exécutable, et le jeu la trouve en
+comptant, pas en suivant un pointeur. Il n'y a donc nulle part où déborder, et
+la construction du correctif refuserait. Le nombre après « slot de » est la
+place réellement mesurée dans le jeu — souvent plus large que l'anglais :
+« Rapier » fait 6 caractères pour 19 disponibles. Raccourcis, et préfère une
+tournure courte à une abréviation inventée.
+
 **`[ENCODAGE] X absent(s) de la table`**
 Un caractère n'existe pas dans le jeu. Neuf fois sur dix, c'est un guillemet ou
 une apostrophe recopiés depuis Word ou un site web. Retape-les.

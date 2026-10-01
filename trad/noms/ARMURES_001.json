@@ -1,0 +1,494 @@
+[
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F3C0",
+    "en": "QQ Helmet(*TERMINATOR*)",
+    "fr": "Casque QQ(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F400",
+    "en": "Headgear(*TERMINATOR*)",
+    "fr": "Coiffe(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F436",
+    "en": "Shadow Mask(*TERMINATOR*)",
+    "fr": "Masque d'ombre(*TERMINATOR*)",
+    "_tete": " [0903] [1D01][20A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F476",
+    "en": "Fever Crown(*TERMINATOR*)",
+    "fr": "Couronne fiévreuse(*TERMINATOR*)",
+    "_tete": " [0903] [E200][20A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F4C0",
+    "en": "Iron Pumpkin(*TERMINATOR*)",
+    "fr": "Citrouille de fer(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F540",
+    "en": "Parade Helm(*TERMINATOR*)",
+    "fr": "Casque de parade(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F576",
+    "en": "Witch's Hat(*TERMINATOR*)",
+    "fr": "Chapeau de sorcière(*TERMINATOR*)",
+    "_tete": " [4304] [6400][20A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F5B6",
+    "en": "Dragon Helm(*TERMINATOR*)",
+    "fr": "Casque dragon(*TERMINATOR*)",
+    "_tete": " [4404] [8100][20A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F5F6",
+    "en": "Daybreak Helmet(*TERMINATOR*)",
+    "fr": "Casque de l'aube(*TERMINATOR*)",
+    "_tete": " [A00F] [E200][20A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F636",
+    "en": "Egili's Helmet(*TERMINATOR*)",
+    "fr": "Casque d'Egili(*TERMINATOR*)",
+    "_tete": " [2413] [1D01][20A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F680",
+    "en": "Suzaku Helmet(*TERMINATOR*)",
+    "fr": "Casque Suzaku(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F6B6",
+    "en": "Jagd Helm(*TERMINATOR*)",
+    "fr": "Casque Jagd(*TERMINATOR*)",
+    "_tete": " [4C1D] [1D01][20A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F6F6",
+    "en": "Sturm Helm(*TERMINATOR*)",
+    "fr": "Casque Sturm(*TERMINATOR*)",
+    "_tete": " [E02E] [E200][20A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F740",
+    "en": "Caesar Helm(*TERMINATOR*)",
+    "fr": "Casque César(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F776",
+    "en": "Spiegel Mask(*TERMINATOR*)",
+    "fr": "Masque Spiegel(*TERMINATOR*)",
+    "_tete": " [50C3] [0100][20A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F7C0",
+    "en": "School Uniform(*TERMINATOR*)",
+    "fr": "Uniforme scolaire(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F800",
+    "en": "Spectra Vest(*TERMINATOR*)",
+    "fr": "Veste Spectra(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F836",
+    "en": "Stealth Suit(*TERMINATOR*)",
+    "fr": "Tenue furtive(*TERMINATOR*)",
+    "_tete": " [0903] [1D01][28A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F876",
+    "en": "Seventh Coat(*TERMINATOR*)",
+    "fr": "Septième manteau(*TERMINATOR*)",
+    "_tete": " [0903] [E200][28A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F8C0",
+    "en": "TAC-V2(*TERMINATOR*)",
+    "fr": "TAC-V2(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F8F6",
+    "en": "Golden Armor(*TERMINATOR*)",
+    "fr": "Armure dorée(*TERMINATOR*)",
+    "_tete": " [6419] [E200][28A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F940",
+    "en": "Parade Armor(*TERMINATOR*)",
+    "fr": "Armure de parade(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F976",
+    "en": "Spinney Suit(*TERMINATOR*)",
+    "fr": "Tenue épineuse(*TERMINATOR*)",
+    "_tete": " [4504] [5000][28A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F9B6",
+    "en": "Angel Wing(*TERMINATOR*)",
+    "fr": "Aile d'ange(*TERMINATOR*)",
+    "_tete": " [4604] [2400][28A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26F9F6",
+    "en": "Daybreak Armor(*TERMINATOR*)",
+    "fr": "Armure de l'aube(*TERMINATOR*)",
+    "_tete": " [9821] [E200][28A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26FA80",
+    "en": "Genbu Armor(*TERMINATOR*)",
+    "fr": "Armure Genbu(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26FAB6",
+    "en": "Jagd Armor(*TERMINATOR*)",
+    "fr": "Armure Jagd(*TERMINATOR*)",
+    "_tete": " [983A] [1D01][28A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26FAF6",
+    "en": "Sturm Armor(*TERMINATOR*)",
+    "fr": "Armure Sturm(*TERMINATOR*)",
+    "_tete": " [C05D] [E200][28A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26FB40",
+    "en": "Caesar Armor(*TERMINATOR*)",
+    "fr": "Armure César(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26FB76",
+    "en": "Spiegel Mail(*TERMINATOR*)",
+    "fr": "Cotte Spiegel(*TERMINATOR*)",
+    "_tete": " [50C3] [0100][28A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26FBC0",
+    "en": "Arm Guard(*TERMINATOR*)",
+    "fr": "Garde-bras(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26FC00",
+    "en": "Titanium Guard(*TERMINATOR*)",
+    "fr": "Garde titane(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26FC36",
+    "en": "Dark Guard(*TERMINATOR*)",
+    "fr": "Garde sombre(*TERMINATOR*)",
+    "_tete": " [0903] [1D01][30A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26FC76",
+    "en": "Platinum Queen(*TERMINATOR*)",
+    "fr": "Reine de platine(*TERMINATOR*)",
+    "_tete": " [0903] [E200][30A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26FCC0",
+    "en": "Jamming Guard(*TERMINATOR*)",
+    "fr": "Garde brouillage(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26FCF6",
+    "en": "Hamagari Gauntlet(*TERMINATOR*)",
+    "fr": "Gantelet Hamagari(*TERMINATOR*)",
+    "_tete": " [FC08] [E200][30A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26FD40",
+    "en": "Parade Guard(*TERMINATOR*)",
+    "fr": "Garde de parade(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26FD76",
+    "en": "Shishiou Gauntlet(*TERMINATOR*)",
+    "fr": "Gantelet Shishiou(*TERMINATOR*)",
+    "_tete": " [4704] [8A00][30A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26FDB6",
+    "en": "Demon Gauntlet(*TERMINATOR*)",
+    "fr": "Gantelet démon(*TERMINATOR*)",
+    "_tete": " [4804] [8800][30A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26FDF6",
+    "en": "Daybreak Gauntlet(*TERMINATOR*)",
+    "fr": "Gantelet de l'aube(*TERMINATOR*)",
+    "_tete": " [740E] [E200][30A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26FE36",
+    "en": "Raime Gauntlet(*TERMINATOR*)",
+    "fr": "Gantelet Raime(*TERMINATOR*)",
+    "_tete": " [9411] [1D01][30A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26FE80",
+    "en": "Seiryuu Gauntlet(*TERMINATOR*)",
+    "fr": "Gantelet Seiryuu(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26FEB6",
+    "en": "Jagd Guard(*TERMINATOR*)",
+    "fr": "Garde Jagd(*TERMINATOR*)",
+    "_tete": " [581B] [1D01][30A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26FEF6",
+    "en": "Sturm Guard(*TERMINATOR*)",
+    "fr": "Garde Sturm(*TERMINATOR*)",
+    "_tete": " [1027] [E200][30A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26FF40",
+    "en": "Caesar Guard(*TERMINATOR*)",
+    "fr": "Garde César(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26FF76",
+    "en": "Spiegel Shield(*TERMINATOR*)",
+    "fr": "Bouclier Spiegel(*TERMINATOR*)",
+    "_tete": " [50C3] [0100][30A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26FFC0",
+    "en": "Leather Shoes(*TERMINATOR*)",
+    "fr": "Souliers de cuir(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_270000",
+    "en": "Toe Shoes(*TERMINATOR*)",
+    "fr": "Chaussons pointes(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_270036",
+    "en": "Black Shoes(*TERMINATOR*)",
+    "fr": "Souliers noirs(*TERMINATOR*)",
+    "_tete": " [0903] [1D01][38A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2700C0",
+    "en": "Hyper Fox(*TERMINATOR*)",
+    "fr": "Hyper Renard(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2700F6",
+    "en": "Bell Greaves(*TERMINATOR*)",
+    "fr": "Jambières à grelots(*TERMINATOR*)",
+    "_tete": " [3408] [E200][38A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_270140",
+    "en": "Parade Boots(*TERMINATOR*)",
+    "fr": "Bottes de parade(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_270176",
+    "en": "Slime Shoes(*TERMINATOR*)",
+    "fr": "Souliers gluants(*TERMINATOR*)",
+    "_tete": " [4904] a[38A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2701B6",
+    "en": "Ghost Geta(*TERMINATOR*)",
+    "fr": "Geta fantôme(*TERMINATOR*)",
+    "_tete": " [4A04] [0600][38A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2701F6",
+    "en": "Daybreak Greaves(*TERMINATOR*)",
+    "fr": "Jambières de l'aube(*TERMINATOR*)",
+    "_tete": " [AC0D] [E200][38A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_270236",
+    "en": "Vidar's Shoes(*TERMINATOR*)",
+    "fr": "Souliers de Vidar(*TERMINATOR*)",
+    "_tete": " [6810] [1D01][38A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_270280",
+    "en": "Byakko Greaves(*TERMINATOR*)",
+    "fr": "Jambières Byakko(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2702B6",
+    "en": "Jagd Leg(*TERMINATOR*)",
+    "fr": "Jambière Jagd(*TERMINATOR*)",
+    "_tete": " [7017] [1D01][38A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2702F6",
+    "en": "Sturm Leg(*TERMINATOR*)",
+    "fr": "Jambière Sturm(*TERMINATOR*)",
+    "_tete": " [2823] [E200][38A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_270340",
+    "en": "Caesar Leg(*TERMINATOR*)",
+    "fr": "Jambières César(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_270376",
+    "en": "Spiegel Beine(*TERMINATOR*)",
+    "fr": "Jambières Spiegel(*TERMINATOR*)",
+    "_tete": " [50C3] [0100][38A0]",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_2703C0",
+    "en": "Ruins Medal(*TERMINATOR*)",
+    "fr": "Médaille ruines(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_270400",
+    "en": "Snow Medal(*TERMINATOR*)",
+    "fr": "Médaille neige(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_270440",
+    "en": "Clean Salt(*TERMINATOR*)",
+    "fr": "Sel purifiant(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_270480",
+    "en": "Emergency Exit(*TERMINATOR*)",
+    "fr": "Sortie de secours(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  }
+]

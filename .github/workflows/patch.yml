@@ -32,7 +32,12 @@ jobs:
           ruby-version: '3.3'
 
       - name: Tout revalider
-        run: ruby outils/check_trad.rb trad/dialogues/*.json
+        # TOUTES les zones, pas seulement les dialogues : une version se
+        # fabrique a partir de l'ensemble, et un fichier d'EBOOT, de donjon ou
+        # de negociation casse se verrait en jeu, pas ici. Les fichiers
+        # techniques (prefixe _) ne sont pas des traductions.
+        run: |
+          git ls-files 'trad/**.json' | grep -v '/_' | xargs ruby outils/check_trad.rb
 
       - name: Recompter
         run: python outils/stats.py
