@@ -277,7 +277,7 @@
     "locuteur": "Nanjo",
     "en": "Money to spare, but no class whatsoever...{SAUT}Tsk, what a disgrace.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "De l'argent à ne plus savoir qu'en faire{SAUT}et aucune classe... Tsk, quelle honte.{ATTENTE}"
+    "fr": "Fortuné et sans la moindre classe...{SAUT}Tsk, quelle honte.{ATTENTE}"
   },
   {
     "id": "E2.BIN:096:0006",
@@ -298,7 +298,7 @@
     "locuteur": "Kaneda",
     "en": "Please, I'm begging you!{ATTENTE}",
     "locuteur_fr": "Kaneda",
-    "fr": "S'il vous plaît, je vous en supplie!{ATTENTE}"
+    "fr": "Je vous en supplie!{ATTENTE}"
   },
   {
     "id": "E2.BIN:097:0000",
@@ -312,7 +312,7 @@
     "locuteur": "Yukino",
     "en": "People are hurt. Can you help them, um...{SAUT}Officer...?{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Des gens sont blessés. Vous pouvez les{SAUT}aider, euh... Monsieur l'agent...?{ATTENTE}"
+    "fr": "Des gens sont blessés. Aidez-les, euh...{SAUT}l'agent...?{ATTENTE}"
   },
   {
     "id": "E2.BIN:097:0002",
@@ -326,7 +326,7 @@
     "locuteur": "Elly",
     "en": "Wait, Yukino. Something's not right{SAUT}about him...!{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Attends, Yukino. Il y a quelque chose{SAUT}d'anormal chez lui...!{ATTENTE}"
+    "fr": "Attends, Yukino. Il a quelque chose{SAUT}d'anormal...!{ATTENTE}"
   },
   {
     "id": "E2.BIN:097:0004",

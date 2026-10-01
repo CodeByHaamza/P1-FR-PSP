@@ -237,7 +237,7 @@
     "locuteur": "Nanjo",
     "en": "Allow me to explain.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Permettez-moi de vous expliquer.{ATTENTE}",
+    "fr": "Laissez-moi expliquer.{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -253,7 +253,7 @@
     "locuteur": "Setsuko Sonomura",
     "en": "But why don't I exist here...?{ATTENTE}",
     "locuteur_fr": "Setsuko Sonomura",
-    "fr": "Mais pourquoi suis-je absente d'ici...?{ATTENTE}",
+    "fr": "Mais moi, je n'existe pas ici...?{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -339,7 +339,7 @@
     "locuteur": "Setsuko Sonomura",
     "en": "Yes? Speak quickly... There isn't{SAUT}much time.{ATTENTE}",
     "locuteur_fr": "Setsuko Sonomura",
-    "fr": "Oui? Dis vite... Il ne reste pas{SAUT}beaucoup de temps.{ATTENTE}",
+    "fr": "Oui? Dis vite... Il reste peu de{SAUT}temps.{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -355,7 +355,7 @@
     "locuteur": "Maki",
     "en": "But if I did... I'd hope for one as{SAUT}kind and caring as you...{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "Mais si j'en avais une... je voudrais{SAUT}qu'elle soit douce comme vous...{ATTENTE}",
+    "fr": "Mais si j'en avais une... je voudrais{SAUT}qu'elle soit comme vous...{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -363,7 +363,7 @@
     "locuteur": "Maki",
     "en": "We'll beat Kandori and save your Maki{SAUT}while we're at it!{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "On battra Kandori et on sauvera votre{SAUT}Maki par la même occasion!{ATTENTE}",
+    "fr": "On battra Kandori et on sauvera votre{SAUT}Maki au passage!{ATTENTE}",
     "_occurrences": 2
   },
   {
