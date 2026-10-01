@@ -6,9 +6,9 @@
 Dialogues      ███████████████░░░░░░░░░   61 %    5 189 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
-Négociations   ███████████████████░░░░░   80 %    9 969 / 12 487 textes
+Négociations   ███████████████████████░   96 %   11 931 / 12 487 textes
 
-Total          ██████████████████░░░░░░   76 %   18 244 / 24 145 textes
+Total          ████████████████████░░░░   84 %   20 206 / 24 145 textes
 ```
 
 ## Poids à surveiller
@@ -17,6 +17,8 @@ Ces entrées alourdissent leur fichier. Un bloc qui franchit sa frontière fait 
 
 - [`E0_024.json`](trad/dialogues/E0_024.json) — 3 entrées
 - [`E2_017.json`](trad/dialogues/E2_017.json) — 1 entrée
+- [`KOROU_002.json`](trad/negociations/KOROU_002.json) — 1 entrée
+- [`KOUMAN_001.json`](trad/negociations/KOUMAN_001.json) — 2 entrées
 - [`SINSI_003.json`](trad/negociations/SINSI_003.json) — 2 entrées
 - [`SYOUJO_001.json`](trad/negociations/SYOUJO_001.json) — 1 entrée
 - [`SYOUJO_002.json`](trad/negociations/SYOUJO_002.json) — 1 entrée
@@ -72,7 +74,19 @@ Ces lignes sont plus larges que l'anglaise et approchent de la limite de la boî
 - [`KEMONO_006.json`](trad/negociations/KEMONO_006.json) — 4 lignes
 - [`KEMONO_007.json`](trad/negociations/KEMONO_007.json) — 6 lignes
 - [`KEMONO_008.json`](trad/negociations/KEMONO_008.json) — 3 lignes
+- [`KOROU_002.json`](trad/negociations/KOROU_002.json) — 2 lignes
+- [`KOROU_003.json`](trad/negociations/KOROU_003.json) — 7 lignes
+- [`KOROU_004.json`](trad/negociations/KOROU_004.json) — 5 lignes
+- [`KOROU_005.json`](trad/negociations/KOROU_005.json) — 7 lignes
+- [`KOROU_006.json`](trad/negociations/KOROU_006.json) — 3 lignes
+- [`KOROU_007.json`](trad/negociations/KOROU_007.json) — 2 lignes
 - [`KOSIKI_001.json`](trad/negociations/KOSIKI_001.json) — 3 lignes
+- [`KOUMAN_001.json`](trad/negociations/KOUMAN_001.json) — 2 lignes
+- [`KOUMAN_002.json`](trad/negociations/KOUMAN_002.json) — 6 lignes
+- [`KOUMAN_003.json`](trad/negociations/KOUMAN_003.json) — 13 lignes
+- [`KOUMAN_004.json`](trad/negociations/KOUMAN_004.json) — 4 lignes
+- [`KOUMAN_005.json`](trad/negociations/KOUMAN_005.json) — 2 lignes
+- [`KOUMAN_007.json`](trad/negociations/KOUMAN_007.json) — 5 lignes
 - [`KUTISAKE_001.json`](trad/negociations/KUTISAKE_001.json) — 1 ligne
 - [`KUTISAKE_002.json`](trad/negociations/KUTISAKE_002.json) — 3 lignes
 - [`KUTISAKE_003.json`](trad/negociations/KUTISAKE_003.json) — 7 lignes
@@ -299,8 +313,8 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 |---|---:|---:|---:|---|
 | [`ALIEN_001.json`](trad/negociations/ALIEN_001.json) | 100 | 100 | 100 % | terminé |
 | [`ALIEN_002.json`](trad/negociations/ALIEN_002.json) | 5 | 5 | 100 % | terminé |
-| [`BASKET_001.json`](trad/negociations/BASKET_001.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
-| [`BASKET_002.json`](trad/negociations/BASKET_002.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
+| [`BASKET_001.json`](trad/negociations/BASKET_001.json) | 100 | 100 | 100 % | terminé |
+| [`BASKET_002.json`](trad/negociations/BASKET_002.json) | 100 | 100 | 100 % | terminé |
 | [`BASKET_003.json`](trad/negociations/BASKET_003.json) | 100 | 0 | 0 % | libre |
 | [`BASKET_004.json`](trad/negociations/BASKET_004.json) | 100 | 0 | 0 % | libre |
 | [`BASKET_005.json`](trad/negociations/BASKET_005.json) | 100 | 0 | 0 % | libre |
@@ -335,15 +349,15 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`KEMONO_009.json`](trad/negociations/KEMONO_009.json) | 100 | 100 | 100 % | terminé |
 | [`KEMONO_010.json`](trad/negociations/KEMONO_010.json) | 69 | 69 | 100 % | terminé |
 | [`KOKURI_001.json`](trad/negociations/KOKURI_001.json) | 96 | 96 | 100 % | terminé par @ATMC14 |
-| [`KOROU_001.json`](trad/negociations/KOROU_001.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
-| [`KOROU_002.json`](trad/negociations/KOROU_002.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
-| [`KOROU_003.json`](trad/negociations/KOROU_003.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
-| [`KOROU_004.json`](trad/negociations/KOROU_004.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
-| [`KOROU_005.json`](trad/negociations/KOROU_005.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
-| [`KOROU_006.json`](trad/negociations/KOROU_006.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
-| [`KOROU_007.json`](trad/negociations/KOROU_007.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
-| [`KOROU_008.json`](trad/negociations/KOROU_008.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
-| [`KOROU_009.json`](trad/negociations/KOROU_009.json) | 69 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
+| [`KOROU_001.json`](trad/negociations/KOROU_001.json) | 100 | 100 | 100 % | terminé |
+| [`KOROU_002.json`](trad/negociations/KOROU_002.json) | 100 | 100 | 100 % | terminé · 1 à alléger |
+| [`KOROU_003.json`](trad/negociations/KOROU_003.json) | 100 | 100 | 100 % | terminé · 7 trop large |
+| [`KOROU_004.json`](trad/negociations/KOROU_004.json) | 100 | 100 | 100 % | terminé · 5 trop large |
+| [`KOROU_005.json`](trad/negociations/KOROU_005.json) | 100 | 100 | 100 % | terminé · 7 trop large |
+| [`KOROU_006.json`](trad/negociations/KOROU_006.json) | 100 | 100 | 100 % | terminé · 3 trop large |
+| [`KOROU_007.json`](trad/negociations/KOROU_007.json) | 100 | 100 | 100 % | terminé · 2 trop large |
+| [`KOROU_008.json`](trad/negociations/KOROU_008.json) | 100 | 100 | 100 % | terminé |
+| [`KOROU_009.json`](trad/negociations/KOROU_009.json) | 69 | 69 | 100 % | terminé |
 | [`KOSIKI_001.json`](trad/negociations/KOSIKI_001.json) | 100 | 100 | 100 % | terminé · 3 trop large |
 | [`KOSIKI_002.json`](trad/negociations/KOSIKI_002.json) | 100 | 100 | 100 % | terminé |
 | [`KOSIKI_003.json`](trad/negociations/KOSIKI_003.json) | 100 | 100 | 100 % | terminé |
@@ -351,15 +365,15 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`KOSIKI_005.json`](trad/negociations/KOSIKI_005.json) | 100 | 100 | 100 % | terminé |
 | [`KOSIKI_006.json`](trad/negociations/KOSIKI_006.json) | 100 | 100 | 100 % | terminé |
 | [`KOSIKI_007.json`](trad/negociations/KOSIKI_007.json) | 25 | 25 | 100 % | terminé |
-| [`KOUMAN_001.json`](trad/negociations/KOUMAN_001.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
-| [`KOUMAN_002.json`](trad/negociations/KOUMAN_002.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
-| [`KOUMAN_003.json`](trad/negociations/KOUMAN_003.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
-| [`KOUMAN_004.json`](trad/negociations/KOUMAN_004.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
-| [`KOUMAN_005.json`](trad/negociations/KOUMAN_005.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
-| [`KOUMAN_006.json`](trad/negociations/KOUMAN_006.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
-| [`KOUMAN_007.json`](trad/negociations/KOUMAN_007.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
-| [`KOUMAN_008.json`](trad/negociations/KOUMAN_008.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
-| [`KOUMAN_009.json`](trad/negociations/KOUMAN_009.json) | 93 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
+| [`KOUMAN_001.json`](trad/negociations/KOUMAN_001.json) | 100 | 100 | 100 % | terminé · 2 à alléger |
+| [`KOUMAN_002.json`](trad/negociations/KOUMAN_002.json) | 100 | 100 | 100 % | terminé · 6 trop large |
+| [`KOUMAN_003.json`](trad/negociations/KOUMAN_003.json) | 100 | 100 | 100 % | terminé · 13 trop large |
+| [`KOUMAN_004.json`](trad/negociations/KOUMAN_004.json) | 100 | 100 | 100 % | terminé · 4 trop large |
+| [`KOUMAN_005.json`](trad/negociations/KOUMAN_005.json) | 100 | 100 | 100 % | terminé · 2 trop large |
+| [`KOUMAN_006.json`](trad/negociations/KOUMAN_006.json) | 100 | 100 | 100 % | terminé |
+| [`KOUMAN_007.json`](trad/negociations/KOUMAN_007.json) | 100 | 100 | 100 % | terminé · 5 trop large |
+| [`KOUMAN_008.json`](trad/negociations/KOUMAN_008.json) | 100 | 100 | 100 % | terminé |
+| [`KOUMAN_009.json`](trad/negociations/KOUMAN_009.json) | 93 | 93 | 100 % | terminé |
 | [`KUTISAKE_001.json`](trad/negociations/KUTISAKE_001.json) | 100 | 100 | 100 % | terminé · 1 trop large |
 | [`KUTISAKE_002.json`](trad/negociations/KUTISAKE_002.json) | 100 | 100 | 100 % | terminé · 3 trop large |
 | [`KUTISAKE_003.json`](trad/negociations/KUTISAKE_003.json) | 81 | 81 | 100 % | terminé · 7 trop large |
