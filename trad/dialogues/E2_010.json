@@ -11,7 +11,7 @@
     "locuteur": "Nanjo",
     "en": "Love is all in the mind. You think you're{SAUT}in love, so you're in love.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "L'amour, c'est dans la tête. Pensez que vous{SAUT}êtes amoureux, et vous le devenez.{ATTENTE}"
+    "fr": "L'amour, c'est dans la tête. Pensez que{SAUT}vous êtes amoureux, et vous le devenez.{ATTENTE}"
   },
   {
     "id": "E2.BIN:171:0003",
@@ -258,239 +258,239 @@
     "id": "E2.BIN:173:0000",
     "locuteur": "Maki",
     "en": "The town's probably pretty different{SAUT}from your town, too!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "La ville est sûrement assez différente{SAUT}de la vôtre également!{ATTENTE}"
   },
   {
     "id": "E2.BIN:173:0001",
     "locuteur": "Nanjo",
     "en": "The school troubles have been settled{SAUT}for now, but...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Les problèmes liés au lycée sont{SAUT}réglés pour l'instant, mais...{ATTENTE}"
   },
   {
     "id": "E2.BIN:173:0002",
     "locuteur": "Mark",
     "en": "This is so weird. I know their faces,{SAUT}but they're not quite the same...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "C'est trop bizarre. Je reconnais leur{SAUT}visage, mais ils sont différents...{ATTENTE}"
   },
   {
     "id": "E2.BIN:173:0003",
     "locuteur": "Elly",
     "en": "We won't accomplish anything if we stay{SAUT}here. Let's go outside!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "On n'arrivera à rien si on reste ici.{SAUT}Allons dehors!{ATTENTE}"
   },
   {
     "id": "E2.BIN:173:0004",
     "locuteur": "Brown",
     "en": "This school can't contain my full glory!{SAUT}Mwahahahaha!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Ce lycée ne peut pas contenir toute ma{SAUT}splendeur! Mouhahaha!{ATTENTE}"
   },
   {
     "id": "E2.BIN:173:0005",
     "locuteur": "Ayase",
     "en": "Why was she trying to trap us here?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Pourquoi essayait-elle de nous piéger ici?{ATTENTE}"
   },
   {
     "id": "E2.BIN:173:0006",
     "locuteur": "Reiji",
     "en": "I got no business at a school. I just{SAUT}wanna hurry and kill that bastard.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Je n'ai rien à faire dans un lycée.{SAUT}Depêchons-nous d'aller tuer ce batard.{ATTENTE}"
   },
   {
     "id": "E2.BIN:173:0007",
     "locuteur": "Mark",
     "en": "Yo, Yukino! Long time no see!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Hé, Yukino! Ça faisait longtemps!{ATTENTE}"
   },
   {
     "id": "E2.BIN:173:0008",
     "locuteur": "Yukino",
     "en": "Well, not THAT long.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Pas tant que ça.{ATTENTE}"
   },
   {
     "id": "E2.BIN:173:0009",
     "locuteur": "Nanjo",
     "en": "No, I suppose not.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Non, en effet.{ATTENTE}"
   },
   {
     "id": "E2.BIN:173:0010",
     "locuteur": "Nanjo",
     "en": "We played that Persona game, visited the{SAUT}hospital, and then the incident happened.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Nous avons joué au jeu Persona, nous{SAUT}sommes allés à l'hôpital, puis cet incident est surveun.{ATTENTE}"
   },
   {
     "id": "E2.BIN:173:0011",
     "locuteur": "Yukino",
     "en": "......?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "......?{ATTENTE}"
   },
   {
     "id": "E2.BIN:173:0012",
     "locuteur": "Nanjo",
     "en": "Weren't you there? I thought I recalled{SAUT}you seeing everything alongside us.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "N'étiez-vous pas là? Je pensais me souvenir{SAUT}que vous étiez témoin tout comme nous.{ATTENTE}"
   },
   {
     "id": "E2.BIN:173:0013",
     "locuteur": "Yukino",
     "en": "\"Persona game\"? Visiting who at the{SAUT}hospital? What're you talking about?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "\"Un jeu Persona\"? Aller à l'hôpital?{SAUT}De quoi parles-tu?{ATTENTE}"
   },
   {
     "id": "E2.BIN:173:0014",
     "locuteur": "Nanjo",
     "en": "You don't remember? Or... are you not{SAUT}the Yukino we're familiar with?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Avez-vous oublié? Ou... N'êtes-vous{SAUT}pas la Yukino que nous connaissons?{ATTENTE}"
   },
   {
     "id": "E2.BIN:173:0015",
     "locuteur": "Nanjo",
     "en": "...In any case, we should leave soon.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "...Dans tous les cas, ne tardons pas.{ATTENTE}"
   },
   {
     "id": "E2.BIN:173:0016",
     "locuteur": "Mark",
     "en": "Hey (*APELLIDO_HEROE*), didn't Yosuke tell us{SAUT}to come to the library?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Hé (*APELLIDO_HEROE*), Yosuke nous avait dit{SAUT}de passer à la bibliothèque, non?{ATTENTE}"
   },
   {
     "id": "E2.BIN:173:0017",
     "locuteur": "Mark",
     "en": "We should hear him out before we go.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "On devrait y passer avant de partir.{ATTENTE}"
   },
   {
     "id": "E2.BIN:174:0000",
     "locuteur": "Maki",
     "en": "Looks like we're the only ones with{SAUT}these powers.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "On dirait que nous sommes les seuls{SAUT}à avoir ces pouvoirs.{ATTENTE}"
   },
   {
     "id": "E2.BIN:174:0001",
     "locuteur": "Nanjo",
     "en": "I doubt Kandori will stay this quiet.{SAUT}Heaven knows what he'll do next...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Je doute que Kandori reste silencieux.{SAUT}Qui sait ce qu'il mijote...{ATTENTE}"
   },
   {
     "id": "E2.BIN:174:0002",
     "locuteur": "Nanjo",
     "en": "That girl seems very powerful...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Cette fille semble très puissante...{ATTENTE}"
   },
   {
     "id": "E2.BIN:174:0003",
     "locuteur": "Nanjo",
     "en": "If someone else is abusing that power,{SAUT}we may be in serious trouble.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Si quelqu'un d'autre abuse de ce pouvoir,{SAUT}nous sommmes dans de beaux draps.{ATTENTE}"
   },
   {
     "id": "E2.BIN:174:0004",
     "locuteur": "Mark",
     "en": "Huh. There's no hole here.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Hm. Il n'y a pas de trou ici.{ATTENTE}"
   },
   {
     "id": "E2.BIN:174:0005",
     "locuteur": "Mark",
     "en": "No doubt about it, that's no ordinary{SAUT}little girl.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Aucun doute, ce n'est pas une petite{SAUT}fille ordinaire.{ATTENTE}"
   },
   {
     "id": "E2.BIN:174:0006",
     "locuteur": "Elly",
     "en": "Let the demons come! It'll be fine!{SAUT}We'll just have to get involved.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Laissez les démons venir! Ça va le{SAUT}faire! On devra juste s'impliquer.{ATTENTE}"
   },
   {
     "id": "E2.BIN:174:0007",
     "locuteur": "Elly",
     "en": "Though one may look innocent and angelic,{SAUT}one may be very different inside.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Bien qu'on puisse paraître bon et innocent,{SAUT}on peut avoir un fond très différent.{ATTENTE}"
   },
   {
     "id": "E2.BIN:174:0008",
     "locuteur": "Brown",
     "en": "Everywhere we go, it's demons this and{SAUT}demons that.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Où qu'on aille, c'est les démons{SAUT}par-ci, les démons par-là.{ATTENTE}"
   },
   {
     "id": "E2.BIN:174:0009",
     "locuteur": "Brown",
     "en": "Can't they talk about something fun?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Ils peuvent pas parler de trucs plus amusants?{ATTENTE}"
   },
   {
     "id": "E2.BIN:174:0010",
     "locuteur": "Brown",
     "en": "She keeps pulling those pranks, and I'm{SAUT}gonna give her a spanking!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "SI elle continue avec ses pièges, je{SAUT}vais lui mettre une fessée!{ATTENTE}"
   },
   {
     "id": "E2.BIN:174:0011",
     "locuteur": "Ayase",
     "en": "Something's weird about this school.{SAUT}It, like... smells fake.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Quelque chose cloche dans ce lycée.{SAUT}Ça... sonne faux.{ATTENTE}"
   },
   {
     "id": "E2.BIN:174:0012",
     "locuteur": "Ayase",
     "en": "So this isn't our school? No wonder it{SAUT}felt all phony!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Alors ce n'est pas notre lycée? Pas{SAUT}étonnant que tout soit étrange!{ATTENTE}"
   },
   {
     "id": "E2.BIN:174:0013",
     "locuteur": "Reiji",
     "en": "What a carefree bunch... Kicking back{SAUT}without knowing what's going on.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Quelle bande de branquignols... Se la{SAUT}couler douce sans savoir ce qui se passe.{ATTENTE}"
   },
   {
     "id": "E2.BIN:174:0014",
     "locuteur": "Student",
     "en": "Why does that girl keep attacking the{SAUT}school? Does she have some kinda grudge?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Pourquoi cette fille ne cesse d'attaquer le lycée? Est-elle rancunière?{ATTENTE}"
   },
   {
     "id": "E2.BIN:174:0015",
     "locuteur": "Male student",
     "en": "I don't think anything that happens now{SAUT}could surprise me.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Je pense que plus rien ne peut me{SAUT}surprendre, maintenant.{ATTENTE}"
   },
   {
     "id": "E2.BIN:174:0016",
