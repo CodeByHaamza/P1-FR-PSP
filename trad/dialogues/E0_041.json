@@ -200,56 +200,56 @@
     "locuteur": "Nanjo",
     "en": "The compact couldn't possibly have such{SAUT}powers in the real world.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Le poudrier ne peut pas avoir{SAUT}autant de pouvoirs dans le monde réel.{ATTENTE}"
+    "fr": "Le poudrier ne saurait avoir de tels{SAUT}pouvoirs dans le monde réel.{ATTENTE}"
   },
   {
     "id": "E0.BIN:153:0029",
     "locuteur": "Nanjo",
     "en": "If only the ideal Maki's compact was{SAUT}complete, then maybe...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Si seulement le poudrier de la vraie Maki{SAUT}serait au complet, alors peut être...{ATTENTE}"
+    "fr": "Si seulement le poudrier de la Maki{SAUT}idéale était complet, alors peut-être...{ATTENTE}"
   },
   {
     "id": "E0.BIN:153:0030",
     "locuteur": "Mark",
     "en": "Maki... Everyone wants to see you,{SAUT}y'know? There's no need to suffer alone.{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Maki... Tous le monde veut te voir,{Saut}t'sais? Il y a pas besoin de souffrir seul.{ATTENTE}"
+    "fr": "Maki... Tout le monde veut te voir,{SAUT}t'sais? Pas besoin de souffrir seule.{ATTENTE}"
   },
   {
     "id": "E0.BIN:153:0031",
     "locuteur": "Mark",
     "en": "Just call on us, please... I'd go{SAUT}anywhere for you...{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Juste dis le nous, s'il te plait... j'irais{SAUT}n'importe où pour toi...{ATTENTE}"
+    "fr": "Dis-le-nous, s'il te plaît... J'irais{SAUT}n'importe où pour toi...{ATTENTE}"
   },
   {
     "id": "E0.BIN:153:0032",
     "locuteur": "Nanjo",
     "en": "The ideal Maki is the manifestation of{SAUT}Maki wanting to change herself.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "La vraie Maki est la manifestation de{SAUT}Maki voulant changer.{ATTENTE}"
+    "fr": "La Maki idéale est la manifestation du{SAUT}désir de Maki de changer.{ATTENTE}"
   },
   {
     "id": "E0.BIN:153:0033",
     "locuteur": "Nanjo",
     "en": "But if her ideal self denied its own{SAUT}existence...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Mais si sa vraie elle renie sa propre{SAUT}existance...{ATTENTE}"
+    "fr": "Mais si son idéal reniait sa propre{SAUT}existence...{ATTENTE}"
   },
   {
     "id": "E0.BIN:153:0034",
     "locuteur": "Nanjo",
     "en": "Maki... have you really lost hope?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Maki...as tu vraiment perdu espoir?{ATTENTE}"
+    "fr": "Maki... avez-vous vraiment perdu espoir?{ATTENTE}"
   },
   {
     "id": "E0.BIN:153:0035",
     "locuteur": "Nanjo",
     "en": "If there's even a fragment left,{SAUT}call out to us...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Si il y a même un fragment restant,{SAUT}appelle nous...{ATTENTE}"
+    "fr": "S'il en reste ne serait-ce qu'un{SAUT}fragment, appelez-nous...{ATTENTE}"
   },
   {
     "id": "E0.BIN:153:0036",
