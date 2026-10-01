@@ -321,8 +321,8 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`BASKET_004.json`](trad/negociations/BASKET_004.json) | 100 | 100 | 100 % | terminé |
 | [`BASKET_005.json`](trad/negociations/BASKET_005.json) | 100 | 100 | 100 % | terminé |
 | [`BASKET_006.json`](trad/negociations/BASKET_006.json) | 100 | 100 | 100 % | terminé · 1 à alléger |
-| [`BASKET_007.json`](trad/negociations/BASKET_007.json) | 100 | 0 | 0 % | libre |
-| [`BASKET_008.json`](trad/negociations/BASKET_008.json) | 56 | 0 | 0 % | libre |
+| [`BASKET_007.json`](trad/negociations/BASKET_007.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#115) |
+| [`BASKET_008.json`](trad/negociations/BASKET_008.json) | 56 | 0 | 0 % | en cours par @CodeByHaamza (#115) |
 | [`DOPPEL_001.json`](trad/negociations/DOPPEL_001.json) | 100 | 100 | 100 % | terminé |
 | [`DOPPEL_002.json`](trad/negociations/DOPPEL_002.json) | 100 | 100 | 100 % | terminé |
 | [`DOPPEL_003.json`](trad/negociations/DOPPEL_003.json) | 14 | 14 | 100 % | terminé |
