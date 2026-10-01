@@ -123,14 +123,14 @@
     "locuteur": "Nanjo",
     "en": "Get a grip! You've sown these seeds{SAUT}and now it's time to reap them!{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Ressaisis-toi! Tu as semé ces graines{SAUT}il est temps de récolter!{ATTENTE}"
+    "fr": "Ressaisissez-vous! Vous avez semé ces{SAUT}graines, il est temps de récolter!{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0019",
     "locuteur": "Nanjo",
     "en": "If you want to die, then why sit around{SAUT}and mope about it?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Si tu veux mourir, pourquoi rester{SAUT}la à ruminer?{ATTENTE}",
+    "fr": "Si vous voulez mourir, pourquoi{SAUT}rester là à ruminer?{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -138,7 +138,7 @@
     "locuteur": "Nanjo",
     "en": "Don't make empty threats if you don't{SAUT}have the courage of your convictions!{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Ne fais pas de vaines menaces si tu n'as{SAUT}pas le courage de tes convictions!{ATTENTE}",
+    "fr": "Pas de vaines menaces sans le courage{SAUT}de vos convictions!{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -146,21 +146,21 @@
     "locuteur": "Nanjo",
     "en": "You spoke of pity? Don't make me laugh.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Tu parles de pitié? Me fais pas rire.{ATTENTE}"
+    "fr": "Vous parlez de pitié? Laissez-moi rire.{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0023",
     "locuteur": "Nanjo",
     "en": "We came here of our own will because{SAUT}we could sympathize with you.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "On est venus de notre plein gré{SAUT}car on compatit avec toi.{ATTENTE}"
+    "fr": "Nous sommes venus de notre plein gré{SAUT}car nous compatissons avec vous.{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0024",
     "locuteur": "Nanjo",
     "en": "But even before that... Did you think{SAUT}you were alone in this world?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Mais avant même cela... Te croyais-tu{SAUT}seule au monde?{ATTENTE}"
+    "fr": "Mais avant cela... Vous croyiez-vous{SAUT}seule au monde?{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0025",
@@ -174,7 +174,7 @@
     "locuteur": "Nanjo",
     "en": "Your careless decision would have left{SAUT}behind wounds that would never heal.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Ta décision irréfléchie aurait laissé{SAUT}des plaies qui jamais ne guérissent.{ATTENTE}"
+    "fr": "Votre décision irréfléchie aurait laissé{SAUT}des plaies qui jamais ne guérissent.{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0027",
@@ -188,7 +188,7 @@
     "locuteur": "Nanjo",
     "en": "But you're our friend, and we can never{SAUT}put you behind us.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Mais tu es notre amie, on ne pourra{SAUT}jamais t'oublier.{ATTENTE}"
+    "fr": "Mais vous êtes notre amie, nous ne{SAUT}pourrons jamais vous oublier.{ATTENTE}"
   },
   {
     "id": "E0.BIN:162:0029",
@@ -609,7 +609,7 @@
     "locuteur": "Nanjo",
     "en": "Where are you going? We don't have{SAUT}much time to spare, you know.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Où vas-tu? On n'a pas{SAUT}beaucoup de temps, tu sais.{ATTENTE}"
+    "fr": "Où allez-vous? Nous n'avons pas{SAUT}beaucoup de temps, vous savez.{ATTENTE}"
   },
   {
     "id": "E0.BIN:177:0023",

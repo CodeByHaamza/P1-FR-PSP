@@ -73,21 +73,21 @@
     "locuteur": "Nanjo",
     "en": "I've been waiting for you. I went on{SAUT}ahead so that I could give you this.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Je t'attendais. J'ai pris de{SAUT}l'avance pour te donner ceci.{ATTENTE}"
+    "fr": "Je vous attendais. J'ai pris de{SAUT}l'avance pour vous donner ceci.{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0012",
     "locuteur": "Nanjo",
     "en": "It's a (*TEXTBOX_PARAM,0500*)Phurba Dagger(*TEXTBOX_PARAM,0000*). I'm having some{SAUT}difficulty using it, so it's yours.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "C'est un (*TEXTBOX_PARAM,0500*)Poignard Phurba(*TEXTBOX_PARAM,0000*). J'ai du mal{SAUT}à m'en servir, il est donc à toi.{ATTENTE}"
+    "fr": "C'est un (*TEXTBOX_PARAM,0500*)Poignard Phurba(*TEXTBOX_PARAM,0000*). J'ai du mal{SAUT}à m'en servir, il est donc à vous.{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0013",
     "locuteur": "Nanjo",
     "en": "No need to thank me. You can show your{SAUT}gratitude by saving this school quickly.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Pas de merci à avoir. Montre ta{SAUT}gratitude en sauvant vite ce lycée.{ATTENTE}"
+    "fr": "Pas de merci à avoir. Montrez votre{SAUT}gratitude en sauvant vite ce lycée.{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0014",
@@ -391,14 +391,14 @@
     "locuteur": "Nanjo",
     "en": "Yes? What is it? Do you still require{SAUT}something of me?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Oui? Qu'y a-t-il? Tu as besoin{SAUT}de moi encore?{ATTENTE}"
+    "fr": "Oui? Qu'y a-t-il? Vous avez encore{SAUT}besoin de moi?{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0028",
     "locuteur": "Nanjo",
     "en": "Do you need my assistance after all?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Tu veux mon aide finalement?{ATTENTE}"
+    "fr": "Vous voulez mon aide finalement?{ATTENTE}"
   },
   {
     "id": "E3.BIN:011:0036",

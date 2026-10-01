@@ -349,6 +349,62 @@ def ecrire_badge(chemin: Path, label: str, fait: int, tout: int):
     chemin.write_text(json.dumps(badge, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
 
+# Les lignes de badges du README portent le pourcentage dans leur texte
+# alternatif. Sans ca, un lecteur d'ecran annonce « negociations » et s'arrete
+# la : le chiffre, qui est toute l'information, vit dans le pixel. Meme chose
+# pour qui bloque les images ou lit le depot hors ligne.
+#
+# Elles sont donc generees, comme SUIVI.md : un pourcentage ecrit a la main
+# serait faux a la fusion suivante, et un alt faux vaut moins que pas d'alt.
+DEBUT_BADGES = "<!-- badges:debut -->"
+FIN_BADGES = "<!-- badges:fin -->"
+URL_BADGE = ("https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/"
+             "CodeByHaamza/P1-FR-PSP/main/.github/{fichier}.json")
+
+
+def milliers(n):
+    """Separateur d'un espace, comme les chiffres de SUIVI.md."""
+    return f"{n:,}".replace(",", " ")
+
+
+def ligne_badge(alt, fichier, lien="SUIVI.md"):
+    return f"[![{alt}]({URL_BADGE.format(fichier=fichier)})]({lien})"
+
+
+def ecrire_badges_readme(racine: Path, sections, fait: int, tout: int):
+    """Reecrit le bloc de badges du README entre ses deux marqueurs."""
+    chemin = racine / "README.md"
+    texte = chemin.read_text(encoding="utf-8")
+    if DEBUT_BADGES not in texte or FIN_BADGES not in texte:
+        print(f"  {chemin.name} : marqueurs de badges absents, bloc laisse tel quel")
+        return
+    pct = lambda f, t: round(100 * f / t) if t else 0
+
+    lignes = [
+        ligne_badge(f"avancement total : {pct(fait, tout)} % des textes traduits", "badge"),
+        "![licence : CC BY-NC-SA 4.0]"
+        "(https://img.shields.io/badge/licence-CC%20BY--NC--SA%204.0-lightgrey)",
+        "[![Discord : Grimoire du Coeur]"
+        "(https://img.shields.io/badge/discord-Grimoire%20du%20C%C5%93ur-5865F2"
+        "?logo=discord&logoColor=white)](https://discord.gg/s6CRadvPa3)",
+        "",
+    ]
+    for nom, sous_dossier, _par_fichier, total, traduits in sections:
+        etiquette = nom.lower()
+        lignes.append(ligne_badge(
+            f"{etiquette} : {pct(traduits, total)} % traduits "
+            f"({milliers(traduits)} sur {milliers(total)} textes)",
+            f"badge_{Path(sous_dossier).name}"))
+
+    avant, _, reste = texte.partition(DEBUT_BADGES)
+    _, _, apres = reste.partition(FIN_BADGES)
+    bloc = "\n".join(lignes)
+    # newline="" : sans cela, un passage sous Windows réécrit tout le fichier en
+    # CRLF et noie la vraie modification sous des centaines de lignes.
+    with open(chemin, "w", encoding="utf-8", newline="") as f:
+        f.write(f"{avant}{DEBUT_BADGES}\n{bloc}\n{FIN_BADGES}{apres}")
+
+
 def rendre(sections, reservations, sante, auteurs=None):
     auteurs = auteurs or {}
     lignes = [
@@ -492,6 +548,7 @@ def main(argv=None):
     ecrire_badge(racine / ".github" / "badge.json", "total", fait, tout)
     for nom, sous_dossier, _par_fichier, total, traduits in sections:
         ecrire_badge(racine / ".github" / f"badge_{Path(sous_dossier).name}.json", nom.lower(), traduits, total)
+    ecrire_badges_readme(racine, sections, fait, tout)
 
     for nom, _, _, total, traduits in sections:
         print(f"  {nom:<14} {traduits} / {total}")

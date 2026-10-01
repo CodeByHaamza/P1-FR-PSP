@@ -7,14 +7,16 @@ américaine `ULUS-10432`). Le jeu n'est jamais sorti en français ; ce projet
 vise une version complète, jouable, et écrite en vrai français — accents
 compris.
 
-![total](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge.json)
-![licence](https://img.shields.io/badge/licence-CC%20BY--NC--SA%204.0-lightgrey)
-[![discord](https://img.shields.io/badge/discord-Grimoire%20du%20C%C5%93ur-5865F2?logo=discord&logoColor=white)](https://discord.gg/s6CRadvPa3)
+<!-- badges:debut -->
+[![avancement total : 86 % des textes traduits](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge.json)](SUIVI.md)
+![licence : CC BY-NC-SA 4.0](https://img.shields.io/badge/licence-CC%20BY--NC--SA%204.0-lightgrey)
+[![Discord : Grimoire du Coeur](https://img.shields.io/badge/discord-Grimoire%20du%20C%C5%93ur-5865F2?logo=discord&logoColor=white)](https://discord.gg/s6CRadvPa3)
 
-![dialogues](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_dialogues.json)
-![menus](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_eboot.json)
-![donjons](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_donjons.json)
-![négociations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_negociations.json)
+[![dialogues : 67 % traduits (5 742 sur 8 572 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_dialogues.json)](SUIVI.md)
+[![eboot : 100 % traduits (2 956 sur 2 956 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_eboot.json)](SUIVI.md)
+[![donjons : 100 % traduits (130 sur 130 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_donjons.json)](SUIVI.md)
+[![négociations : 96 % traduits (11 931 sur 12 487 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_negociations.json)](SUIVI.md)
+<!-- badges:fin -->
 
 **On cherche des traducteurs.** Rien à installer : tu ouvres un fichier dans
 ton navigateur, tu écris, tu proposes. Un robot vérifie la technique à ta
