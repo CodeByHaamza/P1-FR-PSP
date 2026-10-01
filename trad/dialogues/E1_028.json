@@ -365,28 +365,28 @@
     "locuteur": "Nanjo",
     "en": "I'm sure you're aware that Ambrosia is{SAUT}a rare commodity.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Tu sais sûrement que l' Ambroisie est une{SAUT}denrée rare.{ATTENTE}"
+    "fr": "Vous savez sûrement que l'Ambroisie est{SAUT}une denrée rare.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0060",
     "locuteur": "Nanjo",
     "en": "Am I to understand that you want me to{SAUT}have a totem?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Dois je comprendre que tu veux que j'aie{SAUT}un totem?{ATTENTE}"
+    "fr": "Dois-je comprendre que vous voulez que{SAUT}j'aie un totem?{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0061",
     "locuteur": "Nanjo",
     "en": "I leave it to your judgement.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Je te laisse en juger.{ATTENTE}"
+    "fr": "Je vous laisse en juger.{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0062",
     "locuteur": "Nanjo",
     "en": "If you're sure...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Si tu es sûr...{ATTENTE}"
+    "fr": "Si vous êtes sûr...{ATTENTE}"
   },
   {
     "id": "E1.BIN:160:0063",

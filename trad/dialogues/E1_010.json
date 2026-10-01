@@ -60,14 +60,14 @@
     "locuteur": "Nanjo",
     "en": "You fled to the Dream World for such{SAUT}absurd, trivial reasons?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Tu as fui au monde des rêves pour des{SAUT}raisons si futiles?{ATTENTE}"
+    "fr": "Vous avez fui au Monde des Rêves pour{SAUT}des raisons si futiles?{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0009",
     "locuteur": "Nanjo",
     "en": "That's so appalling that I'm speechless.{SAUT}You're making a mockery of your own life.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "C'est si affligeant que j'en reste sans{SAUT}voix. Tu tournes ta vie en dérision.{ATTENTE}"
+    "fr": "C'est si affligeant que j'en reste sans{SAUT}voix. Vous tournez votre vie en dérision.{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0010",
@@ -158,28 +158,28 @@
     "locuteur": "Nanjo",
     "en": "...\"The others\"? Hmph, you've certainly{SAUT}led an easy life.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "...\"Les autres\"? Hmph, tu as vraiment{SAUT}eu la vie facile.{ATTENTE}"
+    "fr": "...\"Les autres\"? Hmph, vous avez{SAUT}vraiment eu la vie facile.{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0023",
     "locuteur": "Nanjo",
     "en": "All you do is blame \"the others\" for{SAUT}everything while running away!{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Tu ne fais que rejeter la faute sur{SAUT}\"les autres\" tout en fuyant!{ATTENTE}"
+    "fr": "Vous ne faites que rejeter la faute sur{SAUT}\"les autres\" tout en fuyant!{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0024",
     "locuteur": "Nanjo",
     "en": "And now, tired of that, you've decided{SAUT}to frolic alone in your dream?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Et là, lassée, tu as décidé{SAUT}de t'amuser seule dans ton rêve?{ATTENTE}"
+    "fr": "Et là, lassée, vous avez décidé{SAUT}de vous amuser seule dans votre rêve?{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0025",
     "locuteur": "Nanjo",
     "en": "You're a coward, too afraid to face real{SAUT}life and real people.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Tu es lâché, trop effrayée par la vraie{SAUT}vie et les vrais gens.{ATTENTE}"
+    "fr": "Vous êtes lâche, trop effrayée par la{SAUT}vraie vie et les vrais gens.{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0026",
