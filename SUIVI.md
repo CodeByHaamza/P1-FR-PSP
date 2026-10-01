@@ -299,8 +299,8 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 |---|---:|---:|---:|---|
 | [`ALIEN_001.json`](trad/negociations/ALIEN_001.json) | 100 | 100 | 100 % | terminé |
 | [`ALIEN_002.json`](trad/negociations/ALIEN_002.json) | 5 | 5 | 100 % | terminé |
-| [`BASKET_001.json`](trad/negociations/BASKET_001.json) | 100 | 0 | 0 % | libre |
-| [`BASKET_002.json`](trad/negociations/BASKET_002.json) | 100 | 0 | 0 % | libre |
+| [`BASKET_001.json`](trad/negociations/BASKET_001.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
+| [`BASKET_002.json`](trad/negociations/BASKET_002.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
 | [`BASKET_003.json`](trad/negociations/BASKET_003.json) | 100 | 0 | 0 % | libre |
 | [`BASKET_004.json`](trad/negociations/BASKET_004.json) | 100 | 0 | 0 % | libre |
 | [`BASKET_005.json`](trad/negociations/BASKET_005.json) | 100 | 0 | 0 % | libre |
@@ -335,15 +335,15 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`KEMONO_009.json`](trad/negociations/KEMONO_009.json) | 100 | 100 | 100 % | terminé |
 | [`KEMONO_010.json`](trad/negociations/KEMONO_010.json) | 69 | 69 | 100 % | terminé |
 | [`KOKURI_001.json`](trad/negociations/KOKURI_001.json) | 96 | 96 | 100 % | terminé par @ATMC14 |
-| [`KOROU_001.json`](trad/negociations/KOROU_001.json) | 100 | 0 | 0 % | libre |
-| [`KOROU_002.json`](trad/negociations/KOROU_002.json) | 100 | 0 | 0 % | libre |
-| [`KOROU_003.json`](trad/negociations/KOROU_003.json) | 100 | 0 | 0 % | libre |
-| [`KOROU_004.json`](trad/negociations/KOROU_004.json) | 100 | 0 | 0 % | libre |
-| [`KOROU_005.json`](trad/negociations/KOROU_005.json) | 100 | 0 | 0 % | libre |
-| [`KOROU_006.json`](trad/negociations/KOROU_006.json) | 100 | 0 | 0 % | libre |
-| [`KOROU_007.json`](trad/negociations/KOROU_007.json) | 100 | 0 | 0 % | libre |
-| [`KOROU_008.json`](trad/negociations/KOROU_008.json) | 100 | 0 | 0 % | libre |
-| [`KOROU_009.json`](trad/negociations/KOROU_009.json) | 69 | 0 | 0 % | libre |
+| [`KOROU_001.json`](trad/negociations/KOROU_001.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
+| [`KOROU_002.json`](trad/negociations/KOROU_002.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
+| [`KOROU_003.json`](trad/negociations/KOROU_003.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
+| [`KOROU_004.json`](trad/negociations/KOROU_004.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
+| [`KOROU_005.json`](trad/negociations/KOROU_005.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
+| [`KOROU_006.json`](trad/negociations/KOROU_006.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
+| [`KOROU_007.json`](trad/negociations/KOROU_007.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
+| [`KOROU_008.json`](trad/negociations/KOROU_008.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
+| [`KOROU_009.json`](trad/negociations/KOROU_009.json) | 69 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
 | [`KOSIKI_001.json`](trad/negociations/KOSIKI_001.json) | 100 | 100 | 100 % | terminé · 3 trop large |
 | [`KOSIKI_002.json`](trad/negociations/KOSIKI_002.json) | 100 | 100 | 100 % | terminé |
 | [`KOSIKI_003.json`](trad/negociations/KOSIKI_003.json) | 100 | 100 | 100 % | terminé |
@@ -351,15 +351,15 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`KOSIKI_005.json`](trad/negociations/KOSIKI_005.json) | 100 | 100 | 100 % | terminé |
 | [`KOSIKI_006.json`](trad/negociations/KOSIKI_006.json) | 100 | 100 | 100 % | terminé |
 | [`KOSIKI_007.json`](trad/negociations/KOSIKI_007.json) | 25 | 25 | 100 % | terminé |
-| [`KOUMAN_001.json`](trad/negociations/KOUMAN_001.json) | 100 | 0 | 0 % | libre |
-| [`KOUMAN_002.json`](trad/negociations/KOUMAN_002.json) | 100 | 0 | 0 % | libre |
-| [`KOUMAN_003.json`](trad/negociations/KOUMAN_003.json) | 100 | 0 | 0 % | libre |
-| [`KOUMAN_004.json`](trad/negociations/KOUMAN_004.json) | 100 | 0 | 0 % | libre |
-| [`KOUMAN_005.json`](trad/negociations/KOUMAN_005.json) | 100 | 0 | 0 % | libre |
-| [`KOUMAN_006.json`](trad/negociations/KOUMAN_006.json) | 100 | 0 | 0 % | libre |
-| [`KOUMAN_007.json`](trad/negociations/KOUMAN_007.json) | 100 | 0 | 0 % | libre |
-| [`KOUMAN_008.json`](trad/negociations/KOUMAN_008.json) | 100 | 0 | 0 % | libre |
-| [`KOUMAN_009.json`](trad/negociations/KOUMAN_009.json) | 93 | 0 | 0 % | libre |
+| [`KOUMAN_001.json`](trad/negociations/KOUMAN_001.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
+| [`KOUMAN_002.json`](trad/negociations/KOUMAN_002.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
+| [`KOUMAN_003.json`](trad/negociations/KOUMAN_003.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
+| [`KOUMAN_004.json`](trad/negociations/KOUMAN_004.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
+| [`KOUMAN_005.json`](trad/negociations/KOUMAN_005.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
+| [`KOUMAN_006.json`](trad/negociations/KOUMAN_006.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
+| [`KOUMAN_007.json`](trad/negociations/KOUMAN_007.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
+| [`KOUMAN_008.json`](trad/negociations/KOUMAN_008.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
+| [`KOUMAN_009.json`](trad/negociations/KOUMAN_009.json) | 93 | 0 | 0 % | en cours par @CodeByHaamza (#106) |
 | [`KUTISAKE_001.json`](trad/negociations/KUTISAKE_001.json) | 100 | 100 | 100 % | terminé · 1 trop large |
 | [`KUTISAKE_002.json`](trad/negociations/KUTISAKE_002.json) | 100 | 100 | 100 % | terminé · 3 trop large |
 | [`KUTISAKE_003.json`](trad/negociations/KUTISAKE_003.json) | 81 | 81 | 100 % | terminé · 7 trop large |
