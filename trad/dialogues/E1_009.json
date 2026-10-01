@@ -10,295 +10,295 @@
     "id": "E1.BIN:053:0001",
     "locuteur": "Yukino",
     "en": "This doesn't feel like the other rooms.{SAUT}Is this someone else's dream?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Cette pièce est différente des autres.{SAUT}C'est le rêve de quelqu'un d'autre?{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0002",
     "locuteur": "Yukino",
     "en": "...Huh? Someone's back there!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "...Hein? Il y a quelqu'un là-bas!{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0003",
     "locuteur": "Glasses-wearing schoolgirl",
     "en": "Oh... We have company... What a surprise.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève à lunettes",
+    "fr": "Oh... De la visite... Quelle surprise.{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0004",
     "locuteur": "Robed man",
     "en": "Indeed it is. Shall we entertain{SAUT}our guests?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme en toge",
+    "fr": "En effet. Et si nous divertissions{SAUT}nos invités?{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0005",
     "locuteur": "Nanjo",
     "en": "What's going on?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Que se passe-t-il?{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0006",
     "locuteur": "Nanjo",
     "en": "She's wearing our school's uniform.{SAUT}Is this her dream, then?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Elle porte l'uniforme de notre lycée.{SAUT}Serait-ce donc son rêve?{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0007",
     "locuteur": "Brown",
     "en": "＊whistle＊ She's a cutie! Hm...?{SAUT}Wait a sec!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "＊sifflement＊ Mignonne! Hm...?{SAUT}Attends une seconde!{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0008",
     "locuteur": "Brown",
     "en": "Oh man, she's got our school uniform on!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Oh la vache, elle a notre uniforme!{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0009",
     "locuteur": "Brown",
     "en": "How the heck did I never notice a girl{SAUT}like her!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Comment j'ai pu ne jamais remarquer{SAUT}une fille comme elle!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0010",
     "locuteur": "Ayase",
     "en": "Hey, what's your name? Which homeroom{SAUT}are you in? Are you trapped here too?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Hé, tu t'appelles comment? T'es dans{SAUT}quelle classe? Tu es coincée ici aussi?{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0011",
     "locuteur": "Glasses-wearing schoolgirl",
     "en": "Heehee... Why are you people here?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève à lunettes",
+    "fr": "Héhé... Que faites-vous ici, vous?{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0012",
     "locuteur": "Glasses-wearing schoolgirl",
     "en": "This dream is for myself alone.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève à lunettes",
+    "fr": "Ce rêve n'est qu'à moi seule.{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0013",
     "locuteur": "Glasses-wearing schoolgirl",
     "en": "The Snow Queen entrusted me with guarding{SAUT}this Hypnos Tower...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève à lunettes",
+    "fr": "La Reine des Neiges m'a confié la garde{SAUT}de cette Tour Hypnos...{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0014",
     "locuteur": "Glasses-wearing schoolgirl",
     "en": "My name is Kumi Hirose.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève à lunettes",
+    "fr": "Je m'appelle Kumi Hirose.{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0015",
     "locuteur": "Kumi",
     "en": "It's very rude of you to barge into{SAUT}someone else's dream.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "C'est très impoli de faire irruption{SAUT}dans le rêve de quelqu'un d'autre.{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0016",
     "locuteur": "Kumi",
     "en": "Isn't it, Sir Hypnos?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "N'est-ce pas, Sire Hypnos?{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0017",
     "locuteur": "Hypnos",
     "en": "Indeed it is.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Hypnos",
+    "fr": "En effet.{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0018",
     "locuteur": "Hypnos",
     "en": "And not just anyone's dream, Kumi,{SAUT}but yours. They don't know their place.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Hypnos",
+    "fr": "Et pas le rêve de n'importe qui, Kumi,{SAUT}le tien. Ils oublient leur place.{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0019",
     "locuteur": "Hypnos",
     "en": "What would you have me do, Kumi?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Hypnos",
+    "fr": "Que veux-tu que je fasse, Kumi?{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0020",
     "locuteur": "Hypnos",
     "en": "If it's all right with you, I can teach{SAUT}them a lesson.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Hypnos",
+    "fr": "Si tu le permets, je peux leur{SAUT}donner une leçon.{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0021",
     "locuteur": "Nanjo",
     "en": "The guardian of this tower...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "La gardienne de cette tour...{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0022",
     "locuteur": "Nanjo",
     "en": "Then you're the ones responsible for{SAUT}confining people in the Dream World.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Vous êtes donc ceux qui enferment{SAUT}les gens dans le Monde des Rêves.{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0023",
     "locuteur": "Nanjo",
     "en": "But why go about it in such a roundabout{SAUT}way rather than simply kill them?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Mais pourquoi un procédé si détourné{SAUT}plutôt que de les tuer simplement?{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0024",
     "locuteur": "Nanjo",
     "en": "What do you intend to do with the souls{SAUT}trapped in the Dream World!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Que comptez-vous faire des âmes{SAUT}captives du Monde des Rêves!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0025",
     "locuteur": "Elly",
     "en": "You're guarding this tower?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Tu gardes cette tour?{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0026",
     "locuteur": "Elly",
     "en": "Then you're putting people to sleep and{SAUT}keeping them in the Dream World...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Alors c'est toi qui endors les gens{SAUT}et les gardes dans le Monde des Rêves...{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0027",
     "locuteur": "Elly",
     "en": "But simply disposing of them entirely{SAUT}would be simple for you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Mais t'en débarrasser complètement{SAUT}te serait facile.{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0028",
     "locuteur": "Elly",
     "en": "Why have you chosen to imprison their{SAUT}souls in the Dream World instead!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Pourquoi avoir choisi d'emprisonner{SAUT}leurs âmes dans le Monde des Rêves!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0029",
     "locuteur": "Kumi",
     "en": "Heehee... You came all this way to ask{SAUT}me that?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "Héhé... Vous êtes venus jusqu'ici{SAUT}pour me demander ça?{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0030",
     "locuteur": "Kumi",
     "en": "But I guess it can't be helped.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "Mais bon, on n'y peut rien.{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0031",
     "locuteur": "Kumi",
     "en": "You're forced to live in the real world,{SAUT}just like the rest.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "Vous êtes forcés de vivre dans le monde{SAUT}réel, comme tous les autres.{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0032",
     "locuteur": "Kumi",
     "en": "But isn't it clear that people are{SAUT}happiest living inside their dreams?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "Mais n'est-il pas clair qu'on est plus{SAUT}heureux à vivre dans ses rêves?{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0033",
     "locuteur": "Kumi",
     "en": "They can never be happy in the real{SAUT}world... I'm just helping them see that.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "On ne peut pas être heureux dans le{SAUT}monde réel... Je les aide à le voir.{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0034",
     "locuteur": "Kumi",
     "en": "Isn't that right, Sir Hypnos?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "N'est-ce pas vrai, Sire Hypnos?{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0035",
     "locuteur": "Hypnos",
     "en": "Indeed it is, Kumi.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Hypnos",
+    "fr": "En effet, Kumi.{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0036",
     "locuteur": "Hypnos",
     "en": "You've done nothing wrong. It's they{SAUT}who are the villains.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Hypnos",
+    "fr": "Tu n'as rien fait de mal. Ce sont eux{SAUT}les méchants.{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0037",
     "locuteur": "Hypnos",
     "en": "But it's inevitable that they don't{SAUT}understand you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Hypnos",
+    "fr": "Mais il est inévitable qu'ils ne te{SAUT}comprennent pas.{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0038",
     "locuteur": "Hypnos",
     "en": "They have no idea what you went through{SAUT}in the real world...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Hypnos",
+    "fr": "Ils n'ont aucune idée de ce que tu as{SAUT}vécu dans le monde réel...{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0039",
     "locuteur": "Hypnos",
     "en": "And the joy that filled your heart as{SAUT}you came to this world of dreams.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Hypnos",
+    "fr": "Ni de la joie qui a rempli ton coeur{SAUT}en venant dans ce monde de rêves.{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0040",
     "locuteur": "Hypnos",
     "en": "Now, let us show them the cruelty you{SAUT}faced in the real world...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Hypnos",
+    "fr": "À présent, montrons-leur la cruauté{SAUT}que tu as subie dans le monde réel...{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0041",
     "locuteur": "Hypnos",
     "en": "And teach them the splendor of dreams!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Hypnos",
+    "fr": "Et enseignons-leur la splendeur du rêve!{ATTENTE}"
   },
   {
     "id": "E1.BIN:053:0042",
     "locuteur": "Yukino",
     "en": "Huh...? Wh-What's going on!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Hein...? Q-Que se passe-t-il!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0000",
@@ -326,7 +326,7 @@
     "locuteur": "Drama club president",
     "en": "Do you feel even remotely guilty? Don't{SAUT}you realize how important your part is!?{ATTENTE}",
     "locuteur_fr": "Présidente",
-    "fr": "Tu te sens un tant soit peu coupable? Tu ne{SAUT}vois pas combien ton rôle est important!?{ATTENTE}"
+    "fr": "Ça te fait même pas un peu culpabiliser?{SAUT}Tu vois pas l'importance de ton rôle!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0004",
@@ -367,15 +367,15 @@
     "id": "E1.BIN:054:0009",
     "locuteur": "Kumi",
     "en": "Um... I've had to... s-study...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "Euh... Je devais... t-travailler...{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0010",
     "locuteur": "Kumi",
     "en": "My grades went down, and... my p-parents{SAUT}said to forget the club... and study...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "Mes notes ont baissé et... mes p-parents{SAUT}ont dit d'oublier le club, d'étudier...{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0011",
@@ -402,8 +402,8 @@
     "id": "E1.BIN:054:0014",
     "locuteur": "Kumi",
     "en": "Um... I wasn't... n-number one...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kumi",
+    "fr": "Euh... Je n'étais pas... p-première...{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0015",
@@ -430,8 +430,8 @@
     "id": "E1.BIN:054:0018",
     "locuteur": "Drama club member",
     "en": "I'm not gonna mince any more words...{SAUT}You've been a real pain in the ass!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre du club",
+    "fr": "Je vais plus prendre de gants...{SAUT}Tu nous emmerdes vraiment!{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0019",
@@ -514,15 +514,15 @@
     "id": "E1.BIN:054:0030",
     "locuteur": "Drama club member",
     "en": "You should think carefully, Kumi. What's{SAUT}more important: your life or your grades?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Membre du club",
+    "fr": "Réfléchis bien, Kumi. Qu'est-ce qui{SAUT}compte le plus, ta vie ou tes notes?{ATTENTE}"
   },
   {
     "id": "E1.BIN:054:0031",
     "locuteur": "Kumi",
     "en": "......{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Kumi",
+    "fr": "......{ATTENTE}",
     "_occurrences": 2
   }
 ]
