@@ -6,10 +6,10 @@
 Dialogues      ████████████████░░░░░░░░   67 %    5 742 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
-Négociations   ████████████████████████   99 %   12 331 / 12 487 textes
+Négociations   ████████████████████████  100 %   12 487 / 12 487 textes
 Noms           ████████████████████████  100 %      439 / 439 textes
 
-Total          █████████████████████░░░   88 %   21 598 / 24 584 textes
+Total          █████████████████████░░░   88 %   21 754 / 24 584 textes
 ```
 
 ## Poids à surveiller
@@ -18,6 +18,7 @@ Ces entrées alourdissent leur fichier. Un bloc qui franchit sa frontière fait 
 
 - [`E0_024.json`](trad/dialogues/E0_024.json) — 3 entrées
 - [`BASKET_006.json`](trad/negociations/BASKET_006.json) — 1 entrée
+- [`BASKET_007.json`](trad/negociations/BASKET_007.json) — 1 entrée
 - [`KOROU_002.json`](trad/negociations/KOROU_002.json) — 1 entrée
 - [`KOUMAN_001.json`](trad/negociations/KOUMAN_001.json) — 2 entrées
 - [`SINSI_003.json`](trad/negociations/SINSI_003.json) — 2 entrées
@@ -321,8 +322,8 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`BASKET_004.json`](trad/negociations/BASKET_004.json) | 100 | 100 | 100 % | terminé |
 | [`BASKET_005.json`](trad/negociations/BASKET_005.json) | 100 | 100 | 100 % | terminé |
 | [`BASKET_006.json`](trad/negociations/BASKET_006.json) | 100 | 100 | 100 % | terminé · 1 à alléger |
-| [`BASKET_007.json`](trad/negociations/BASKET_007.json) | 100 | 0 | 0 % | en cours par @CodeByHaamza (#115) |
-| [`BASKET_008.json`](trad/negociations/BASKET_008.json) | 56 | 0 | 0 % | en cours par @CodeByHaamza (#115) |
+| [`BASKET_007.json`](trad/negociations/BASKET_007.json) | 100 | 100 | 100 % | terminé · 1 à alléger |
+| [`BASKET_008.json`](trad/negociations/BASKET_008.json) | 56 | 56 | 100 % | terminé |
 | [`DOPPEL_001.json`](trad/negociations/DOPPEL_001.json) | 100 | 100 | 100 % | terminé |
 | [`DOPPEL_002.json`](trad/negociations/DOPPEL_002.json) | 100 | 100 | 100 % | terminé |
 | [`DOPPEL_003.json`](trad/negociations/DOPPEL_003.json) | 14 | 14 | 100 % | terminé |
