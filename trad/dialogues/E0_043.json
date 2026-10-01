@@ -130,7 +130,7 @@
     "locuteur": "Brown",
     "en": "What!? Then how do we get to Pandora!?{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "Quoi!? Mais on va comment jusqu'à Pandore!?{ATTENTE}"
+    "fr": "Quoi!? Et on arrive à Pandore comment!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0019",
@@ -305,402 +305,402 @@
     "id": "E0.BIN:161:0044",
     "locuteur": "Maki",
     "en": "That's all right... I'm the one who{SAUT}should apologize. I'm sorry, me.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Ce n'est rien... C'est moi qui devrais{SAUT}m'excuser. Pardon, moi.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0045",
     "locuteur": "Maki",
     "en": "I'm the ideal Maki Sonomura. It's not{SAUT}like me to be so down.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Je suis la Maki Sonomura idéale. Ça ne{SAUT}me ressemble pas d'être si abattue.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0046",
     "locuteur": "Maki",
     "en": "Now, can you tell us where the last{SAUT}compact is?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Bon, tu peux nous dire où est le{SAUT}dernier poudrier?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0047",
     "locuteur": "Maki",
     "en": "Uh-huh. The real me has it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Mm-hm. La vraie moi l'a.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0048",
     "locuteur": "Mark",
     "en": "The real you? Isn't that where we{SAUT}got the green one?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "La vraie toi? C'est pas là qu'on a eu{SAUT}le vert?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0049",
     "locuteur": "Mark",
     "en": "(*APELLIDO_HEROE*) already has that one.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "(*APELLIDO_HEROE*) l'a déjà, celui-là.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0050",
     "locuteur": "Maki",
     "en": "Nope. That's the one from the real{SAUT}world.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Non. Celui-là vient du monde{SAUT}réel.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0051",
     "locuteur": "Maki",
     "en": "The real me's consciousness is at the{SAUT}Alaya Cavern now.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "La conscience de la vraie moi est à la{SAUT}Grotte Alaya maintenant.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0052",
     "locuteur": "Maki",
     "en": "She has the last compact.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Elle a le dernier poudrier.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0053",
     "locuteur": "Maki",
     "en": "The Alaya Cavern?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "La Grotte Alaya?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0054",
     "locuteur": "Maki",
     "en": "It's behind the shrine.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "C'est derrière le temple.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0055",
     "locuteur": "Setsuko Sonomura",
     "en": "I'm--{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Je--{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0056",
     "locuteur": "Maki",
     "en": "Mommy... would you please wait here{SAUT}with me?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Maman... tu veux bien attendre ici{SAUT}avec moi?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0057",
     "locuteur": "Setsuko Sonomura",
     "en": "Why? Why can't I go too!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Pourquoi? Pourquoi pas moi aussi!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0058",
     "locuteur": "Maki",
     "en": "I want to deal with this. It'll be{SAUT}okay... I have friends to help.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Je veux régler ça moi-même. Ça ira...{SAUT}J'ai des amis pour m'aider.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0059",
     "locuteur": "Setsuko Sonomura",
     "en": "Maki... All right. But you'd better{SAUT}come back, do you hear me?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Maki... D'accord. Mais tu reviens,{SAUT}tu m'entends?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0060",
     "locuteur": "Maki",
     "en": "Hey, me? Look after Mom, okay?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Hé, moi? Occupe-toi de maman, d'accord?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0061",
     "locuteur": "Maki",
     "en": "Yep! I will. Be careful... me.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Oui! Promis. Fais attention... moi.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0062",
     "locuteur": "Maki",
     "en": "When you have all three compacts, chant{SAUT}the spell in front of Pandora's door.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Avec les trois poudriers, récite la{SAUT}formule devant la porte de Pandore.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0063",
     "locuteur": "Maki",
     "en": "That should open it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Ça devrait l'ouvrir.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0064",
     "locuteur": "Nanjo",
     "en": "Then let's be on our way to the{SAUT}(*TEXTBOX_PARAM,0700*)Alaya Shrine(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Mettons-nous donc en route pour le{SAUT}(*TEXTBOX_PARAM,0700*)Temple Alaya(*TEXTBOX_PARAM,0000*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0065",
     "locuteur": "Maki",
     "en": "Mai's me, too...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Mai, c'est moi aussi...{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0066",
     "locuteur": "Maki",
     "en": "I just realized... {PAUSE}[5800]I was pretty cute{SAUT}when I was little.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Je viens de réaliser... {PAUSE}[5800]j'étais plutôt{SAUT}mignonne, petite.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0067",
     "locuteur": "Maki",
     "en": "Huh? Heehee... maybe that was just{SAUT}a little bit conceited.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Hein? Héhé... c'était peut-être un{SAUT}petit peu prétentieux.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0068",
     "locuteur": "Mark",
     "en": "Man, I'm confused. How many Makis are{SAUT}there, anyways?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Mec, je m'y perds. Il y a combien de{SAUT}Maki au total?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0069",
     "locuteur": "Mark",
     "en": "Heh... She's been cute ever since she{SAUT}was a little girl, huh?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Héh... Elle est mignonne depuis qu'elle{SAUT}est toute petite, hein?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0070",
     "locuteur": "Nanjo",
     "en": "Deeper in the woods... We should hurry,{SAUT}(*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Plus loin dans les bois... Hâtons-nous,{SAUT}(*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0071",
     "locuteur": "Nanjo",
     "en": "Hm... a genuine conversation with one's{SAUT}inner child. A strange sight to see...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Hm... une vraie conversation avec son{SAUT}enfant intérieur. Étrange spectacle...{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0072",
     "locuteur": "Reiji",
     "en": "What? {PAUSE}[5800]My \"face looks gentle\"?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Quoi? {PAUSE}[5800]J'ai \"l'air doux\"?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0073",
     "locuteur": "Reiji",
     "en": "You keep joking around, and that{SAUT}won't be true for long.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Continue à plaisanter, et ça ne durera{SAUT}pas longtemps.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0074",
     "locuteur": "Reiji",
     "en": "Huh? I'm smiling!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Hein? Je souris!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0075",
     "locuteur": "Reiji",
     "en": "Don't get the wrong idea...{SAUT}It's just my cavities acting up.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Ne te fais pas d'idées...{SAUT}C'est juste mes caries qui me lancent.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0076",
     "locuteur": "Elly",
     "en": "Haha... Kids calm down quick when they{SAUT}can have a cry in their mom's arms.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Haha... Les enfants se calment vite{SAUT}en pleurant dans les bras de leur mère.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0077",
     "locuteur": "Elly",
     "en": "What do you think, (*APELLIDO_HEROE*)? Do you{SAUT}like domestic girls?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Qu'en penses-tu, (*APELLIDO_HEROE*)? Tu aimes{SAUT}les filles d'intérieur?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0078",
     "locuteur": "Elly",
     "en": "Ahah... Children feel most at ease{SAUT}crying in their mother's arms...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Ahah... Les enfants sont apaisés{SAUT}en pleurant dans les bras maternels...{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0079",
     "locuteur": "Elly",
     "en": "(*APELLIDO_HEROE*)? Do you prefer domestic{SAUT}girls yourself?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "(*APELLIDO_HEROE*)? Préfères-tu les filles{SAUT}d'intérieur, toi?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0080",
     "locuteur": "Elly",
     "en": "I was really cute too, at that age.{SAUT}Want to see a photo sometime?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "J'étais très mignonne à cet âge aussi.{SAUT}Tu veux voir une photo un jour?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0081",
     "locuteur": "Elly",
     "en": "I was quite cute myself, at that age.{SAUT}Would you like to see a photo sometime?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "J'étais plutôt mignonne à cet âge-là.{SAUT}Aimerais-tu voir une photo un jour?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0082",
     "locuteur": "Brown",
     "en": "Little Maki's so cute... But if it was{SAUT}like, Little Nanjo or Little Mark...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "La petite Maki est trop mignonne... Mais{SAUT}genre, un mini Nanjo ou un mini Mark...{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0083",
     "locuteur": "Brown",
     "en": "They wouldn't be cute at all. Hell,{SAUT}I'd probably punch 'em!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Pas mignons du tout. Franchement,{SAUT}je leur mettrais une baffe!{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0084",
     "locuteur": "Brown",
     "en": "I was really cute as a kid, too. The{SAUT}neighborhood ladies were all over me!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "J'étais très mignon petit, moi aussi.{SAUT}Les dames du quartier m'adoraient!{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0085",
     "locuteur": "Brown",
     "en": "No, really! I'd be walking around and{SAUT}they'd wipe my nose for me.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Non, vraiment! Je passais et elles me{SAUT}mouchaient le nez.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0086",
     "locuteur": "Ayase",
     "en": "Hey, (*APELLIDO_HEROE*), what kind of kid were{SAUT}you when you were little?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Hé, (*APELLIDO_HEROE*), tu étais comment{SAUT}quand tu étais petit?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0087",
     "locuteur": "Ayase",
     "en": "I was a little cutie, but isn't it gross{SAUT}to imagine Hidehiko and Nanjo like that?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Ayase",
+    "fr": "J'étais adorable, mais imaginer Hidehiko{SAUT}et Nanjo comme ça, c'est pas glauque?{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:161:0088",
     "locuteur": "Ayase",
     "en": "Hey, (*APODO_HEROE*), what kind of kid were{SAUT}you when you were little?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Hé, (*APODO_HEROE*), tu étais comment{SAUT}quand tu étais petit?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0090",
     "locuteur": "Ayase",
     "en": "Um, okay, so there's teeny Maki and{SAUT}ideal Maki, right?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Ayase",
+    "fr": "Bon, alors il y a la mini Maki et la{SAUT}Maki idéale, c'est ça?{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:161:0091",
     "locuteur": "Ayase",
     "en": "And then real Maki... Ugh, it makes my{SAUT}head hurt.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Ayase",
+    "fr": "Et la vraie Maki... Pff, ça me donne{SAUT}mal à la tête.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:161:0094",
     "locuteur": "Maki",
     "en": "My ideal self is crying deeper inside...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Mon moi idéal pleure plus au fond...{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0095",
     "locuteur": "Maki",
     "en": "Only my ideal self can save the{SAUT}real me...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Seul mon moi idéal peut sauver la{SAUT}vraie moi...{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0096",
     "locuteur": "Setsuko Sonomura",
     "en": "I never would have imagined that girl{SAUT}was the ideal Maki...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Je n'aurais jamais imaginé que cette{SAUT}fille était la Maki idéale...{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0097",
     "locuteur": "Setsuko Sonomura",
     "en": "Hm? Erusaer Tsymmom?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Hm? Namam ed Rosert?{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0098",
     "locuteur": "Setsuko Sonomura",
     "en": "Oh... {PAUSE}[5800]it's something I taught Maki when{SAUT}she was little.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Oh... {PAUSE}[5800]c'est ce que j'ai appris à Maki{SAUT}quand elle était petite.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0099",
     "locuteur": "Setsuko Sonomura",
     "en": "With her father dead and me busy with{SAUT}work, Maki was always alone...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Son père mort et moi prise par le{SAUT}travail, Maki était toujours seule...{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0100",
     "locuteur": "Setsuko Sonomura",
     "en": "So I taught her this spell to chant{SAUT}when she was lonely at the hospital.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Je lui ai appris cette formule à dire{SAUT}quand elle se sentait seule à l'hôpital.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0101",
     "locuteur": "Setsuko Sonomura",
     "en": "I told her that wherever Mommy was,{SAUT}I could always sense her presence...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Je lui disais que où que soit maman,{SAUT}je sentirais toujours sa présence...{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0102",
     "locuteur": "Setsuko Sonomura",
     "en": "And she remembered it all this time...{PAUSE}[5800]{SAUT}Try saying it backwards.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Et elle s'en souvenait depuis...{PAUSE}[5800]{SAUT}Essayez de le dire à l'envers.{ATTENTE}"
   },
   {
     "id": "E0.BIN:161:0103",
     "locuteur": "Setsuko Sonomura",
     "en": "That girl's still my treasure...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Setsuko Sonomura",
+    "fr": "Cette fille est toujours mon trésor...{ATTENTE}"
   }
 ]
