@@ -60,7 +60,7 @@
     "locuteur": "Rumor-loving student",
     "en": "See!? I told you so! SEBEC really was{SAUT}waging biological warfare!{ATTENTE}",
     "locuteur_fr": "Amateur de ragots",
-    "fr": "Tu vois!? Je te l'avais dit! SEBEC{SAUT}faisait bien de la guerre biologique!{ATTENTE}"
+    "fr": "Tu vois!? Je te l'avais dit! SEBEC{SAUT}faisait de la guerre biologique!{ATTENTE}"
   },
   {
     "id": "E2.BIN:142:0000",
@@ -198,7 +198,7 @@
     "locuteur": "Receptionist",
     "en": "Eh? You came through the basement?{ATTENTE}",
     "locuteur_fr": "Réceptionniste",
-    "fr": "Hein? Vous êtes passés par le sous-sol?{ATTENTE}"
+    "fr": "Hein? Vous êtes passés en sous-sol?{ATTENTE}"
   },
   {
     "id": "E2.BIN:155:0002",
@@ -245,7 +245,7 @@
     "locuteur": "Ayase",
     "en": "SEBEC's suits sure are ugly.{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "Les costumes de SEBEC sont bien laids.{ATTENTE}"
+    "fr": "Les costumes de SEBEC sont laids.{ATTENTE}"
   },
   {
     "id": "E2.BIN:155:0009",
@@ -515,7 +515,7 @@
     "locuteur": "Trish",
     "en": "It'll be 2,000 yen.{SAUT}That's okay, right?{ATTENTE}",
     "locuteur_fr": "Trish",
-    "fr": "Ce sera 2000 yens.{SAUT}Ça vous va, n'est-ce pas?{ATTENTE}",
+    "fr": "Ce sera 2 000 yens.{SAUT}Ça vous va?{ATTENTE}",
     "_occurrences": 3
   },
   {

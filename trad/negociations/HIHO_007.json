@@ -206,7 +206,7 @@
   {
     "id": "HIHO.BIN:resp:0280",
     "en": "You wanna die!?(*RESPONSE*)",
-    "fr": "Tu veux mourir?(*RESPONSE*)",
+    "fr": "Tu veux mourir!?(*RESPONSE*)",
     "_occurrences": 4
   },
   {
@@ -218,7 +218,7 @@
   {
     "id": "HIHO.BIN:resp:0289",
     "en": "Can't I yell!?(*RESPONSE*) ",
-    "fr": "Je peux crier?(*RESPONSE*)"
+    "fr": "Je peux pas crier!?(*RESPONSE*)"
   },
   {
     "id": "HIHO.BIN:resp:0290",

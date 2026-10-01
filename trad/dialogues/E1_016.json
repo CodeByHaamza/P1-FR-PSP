@@ -73,8 +73,8 @@
     "id": "E1.BIN:081:0010",
     "locuteur": "Toro",
     "en": "Bluuuuugh! ＊cough＊ ＊gag＊ ＊puke＊{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "Beuuuurk! ＊tousse＊ ＊dégluti＊ ＊vomit＊{ATTENTE}"
+    "locuteur_fr": "Toro",
+    "fr": "Beuuuurk! ＊tousse＊ ＊suffoque＊ ＊vomit＊{ATTENTE}"
   },
   {
     "id": "E1.BIN:081:0011",
@@ -137,7 +137,7 @@
     "locuteur": "Yukino",
     "en": "I thought you were both back at school!{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Vous n'êtes pas retournés au lycée?{ATTENTE}"
+    "fr": "Je vous croyais rentrés au lycée!{ATTENTE}"
   },
   {
     "id": "E1.BIN:081:0020",
@@ -510,7 +510,7 @@
     "locuteur": "Michiko",
     "en": "Those Mirror Shards you so eagerly seek...{ATTENTE}",
     "locuteur_fr": "Michiko",
-    "fr": "Ces Fragments de Miroir...{ATTENTE} "
+    "fr": "Ces Fragments de Miroir...{ATTENTE}"
   },
   {
     "id": "E1.BIN:081:0073",
@@ -623,7 +623,7 @@
     "locuteur": "Yukino",
     "en": "We gotta help them, but we need that{SAUT}Mirror Shard, too.{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "On doit les aider, mais on a aussi{SAUT}besoin de ce Fragment de[SAUT]Miroir.{ATTENTE}"
+    "fr": "On doit les aider, mais on a aussi{SAUT}besoin de ce Fragment de Miroir.{ATTENTE}"
   },
   {
     "id": "E1.BIN:081:0089",

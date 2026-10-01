@@ -93,7 +93,7 @@
     "locuteur": "Setsuko Sonomura",
     "en": "It's the (*TEXTBOX_PARAM,0700*)Deva System(*TEXTBOX_PARAM,0000*)...{ATTENTE}",
     "locuteur_fr": "Setsuko Sonomura",
-    "fr": "C'est le (*TEXTBOX_PARAM,0700*)Deva System(*TEXTBOX_PARAM,0000*)...{ATTENTE}"
+    "fr": "C'est le (*TEXTBOX_PARAM,0700*)système Deva(*TEXTBOX_PARAM,0000*)...{ATTENTE}"
   },
   {
     "id": "E0.BIN:029:0014",

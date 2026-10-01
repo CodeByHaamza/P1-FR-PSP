@@ -602,7 +602,7 @@
     "locuteur": "Nanjo",
     "en": "Careful. There's no knowing what may{SAUT}happen inside.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Prudence. On ignore ce qui peut{SAUT}arriver la-dedans.{ATTENTE}"
+    "fr": "Prudence. On ignore ce qui peut{SAUT}arriver là-dedans.{ATTENTE}"
   },
   {
     "id": "E0.BIN:177:0022",
@@ -623,7 +623,7 @@
     "locuteur": "Reiji",
     "en": "...You better not die in there. I still{SAUT}want to spar with you sometime.{ATTENTE}",
     "locuteur_fr": "Reiji",
-    "fr": "...Va pas mourir la-dedans. Je veux{SAUT}encore m'entraîner avec toi.{ATTENTE}"
+    "fr": "...Va pas mourir là-dedans. Je veux{SAUT}encore m'entraîner avec toi.{ATTENTE}"
   },
   {
     "id": "E0.BIN:177:0025",

@@ -137,7 +137,7 @@
     "locuteur": "Kumi",
     "en": "Right, Sir Hypnos!?{ATTENTE}",
     "locuteur_fr": "Kumi",
-    "fr": "Hein, sire Hypnos!?{ATTENTE}"
+    "fr": "Hein, Sire Hypnos!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0020",
@@ -235,7 +235,7 @@
     "locuteur": "Kumi",
     "en": "It was the Snow Queen's mask and{SAUT}Sir Hypnos who saved me, no one else!{ATTENTE}",
     "locuteur_fr": "Kumi",
-    "fr": "C'est le masque de la reine des neiges,{SAUT}Sire Hypnos qui m'ont sauvée!{ATTENTE}"
+    "fr": "C'est le masque de la Reine des Neiges,{SAUT}Sire Hypnos qui m'ont sauvée, eux seuls!{ATTENTE}"
   },
   {
     "id": "E1.BIN:055:0034",

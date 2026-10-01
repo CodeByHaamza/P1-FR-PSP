@@ -3,7 +3,7 @@
     "id": "E1.BIN:050:0000",
     "locuteur": "Yukino",
     "en": "This is... the fencing club room.{SAUT}Which means...{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Yukino",
     "fr": "C'est... la salle d'escrime.{SAUT}Ce qui veut dire...{ATTENTE}"
   },
   {
@@ -66,7 +66,7 @@
     "id": "E1.BIN:050:0009",
     "locuteur": "Ayase",
     "en": "Omigawd! I knew it!{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Ayase",
     "fr": "La vache! Je le savais!{ATTENTE}"
   },
   {
@@ -150,7 +150,7 @@
     "id": "E1.BIN:050:0021",
     "locuteur": "Yukino",
     "en": "Being in someone else's dream feels kinda{SAUT}awkward, you know?{ATTENTE}",
-    "locuteur_fr": "",
+    "locuteur_fr": "Yukino",
     "fr": "Être dans le rêve de quelqu'un,{SAUT}ça fait bizarre, non?{ATTENTE}"
   },
   {
@@ -186,7 +186,7 @@
     "locuteur": "Brown",
     "en": "Leave a poor, broken man alone for{SAUT}a while...{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "Laisse un pauvre homme brisé tranquille{SAUT}un moment...{ATTENTE}"
+    "fr": "Laisse un homme brisé tranquille{SAUT}un moment...{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0027",

@@ -32,7 +32,7 @@
     "locuteur": "Female student",
     "en": "That company's been cursed ever since{SAUT}they tore down the haunted mansion!{ATTENTE}",
     "locuteur_fr": "Élève",
-    "fr": "Cette société est maudite depuis qu'ils{SAUT}ont démoli le manoir hante!{ATTENTE}"
+    "fr": "Cette société est maudite depuis qu'ils{SAUT}ont démoli le manoir hanté!{ATTENTE}"
   },
   {
     "id": "E2.BIN:017:0005",
@@ -328,7 +328,7 @@
     "locuteur": "Male student",
     "en": "There was a weird old guy waiting by the{SAUT}gates a little earlier. Pretty creepy...{ATTENTE}",
     "locuteur_fr": "Élève",
-    "fr": "Un vieux type bizarre attendait près du{SAUT}portail tout a l'heure. Plutôt flippant...{ATTENTE}"
+    "fr": "Un vieux type bizarre attendait près du{SAUT}portail tout à l'heure. Assez flippant...{ATTENTE}"
   },
   {
     "id": "E2.BIN:023:0009",

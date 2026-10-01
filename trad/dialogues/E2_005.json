@@ -499,14 +499,14 @@
     "locuteur": "Nurse",
     "en": "You visited her last week too didn't you?{SAUT}And the week before...{ATTENTE}",
     "locuteur_fr": "Infirmière",
-    "fr": "Tu es venu la semaine dernière aussi, non?{SAUT}Et celle d'avant...{ATTENTE}"
+    "fr": "Tu es venu la semaine dernière aussi?{SAUT}Et celle d'avant...{ATTENTE}"
   },
   {
     "id": "E2.BIN:066:0003",
     "locuteur": "Nanjo",
     "en": "Is that so...? You're unexpectedly{SAUT}nice to her, I see.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Ah bon...? T'es étonnamment{SAUT}gentil avec elle, je vois.{ATTENTE}"
+    "fr": "Ah bon...? Tu es étonnamment{SAUT}gentil avec elle, je vois.{ATTENTE}"
   },
   {
     "id": "E2.BIN:066:0004",
