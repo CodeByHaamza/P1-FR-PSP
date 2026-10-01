@@ -515,7 +515,7 @@
     "locuteur": "Trish",
     "en": "It'll be 2,000 yen.{SAUT}That's okay, right?{ATTENTE}",
     "locuteur_fr": "Trish",
-    "fr": "Ce sera 2000 yens.{SAUT}Ça vous va, n'est-ce pas?{ATTENTE}",
+    "fr": "Ce sera 2 000 yens.{SAUT}Ça vous va?{ATTENTE}",
     "_occurrences": 3
   },
   {

@@ -640,7 +640,7 @@
     "locuteur": "Young man",
     "en": "This painting is worthless! There's not{SAUT}a shred of artistic talent in it!{ATTENTE}",
     "locuteur_fr": "Jeune homme",
-    "fr": "Ce tableau ne vaut rien! Pas la{SAUT}moindre trace de talent la-dedans!{ATTENTE}"
+    "fr": "Ce tableau ne vaut rien! Pas la{SAUT}moindre trace de talent là-dedans!{ATTENTE}"
   },
   {
     "id": "E2.BIN:198:0031",
