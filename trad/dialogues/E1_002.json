@@ -310,7 +310,7 @@
     "locuteur": "Nanjo",
     "en": "Yukino, not you too--{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Yukino, toi aussi-{ATTENTE}"
+    "fr": "Yukino, vous aussi-{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0015",
@@ -408,7 +408,7 @@
     "locuteur": "Nanjo",
     "en": "And you're expecting my help?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Et tu comptes sur mon aide?{ATTENTE}"
+    "fr": "Et vous comptez sur mon aide?{ATTENTE}"
   },
   {
     "id": "E1.BIN:004:0030",

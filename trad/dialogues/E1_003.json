@@ -212,7 +212,7 @@
     "locuteur": "Nanjo",
     "en": "Once the city returns to normal, I'll{SAUT}treat you to our chef's special dishes!{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Quand la ville reviendra à la normale,{SAUT}je t'offrirai les plats de notre chef!{ATTENTE}"
+    "fr": "Quand la ville reviendra à la normale,{SAUT}je vous offrirai les plats du chef!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0031",
@@ -387,7 +387,7 @@
     "locuteur": "Nanjo",
     "en": "You went too far, Yuka. Apologize to him!{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Tu as exagéré, Yuka. Excuse-toi!{ATTENTE}"
+    "fr": "Vous avez exagéré, Yuka. Excusez-vous!{ATTENTE}"
   },
   {
     "id": "E1.BIN:006:0056",
