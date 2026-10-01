@@ -107,6 +107,10 @@ développée. Le texte est simplement en résolution d'origine.
 5. Le robot te répond en une minute et annote précisément ce qui cloche, s'il
    y a lieu. Tu corriges au même endroit.
 
+Tu ne sais pas lequel prendre ? Les lots libres sont décrits un par un dans
+les [issues « bon premier lot »](../../issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) :
+la scène, qui parle, et ce qu'il faut savoir avant de commencer.
+
 Tout est détaillé dans **[CONTRIBUTING.md](CONTRIBUTING.md)**. Tu n'as pas
 besoin du jeu, ni de savoir coder, ni d'avoir fini le fichier d'un coup.
 
