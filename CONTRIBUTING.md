@@ -33,7 +33,7 @@ fichier. Dis-y que tu le prends, et il passera en « en cours ».
 | Dossier | Contenu | Bon pour |
 |---|---|---|
 | [`trad/dialogues/`](trad/dialogues/) | l'histoire, les personnages qui parlent | qui aime écrire du dialogue vivant |
-| [`trad/negociations/`](trad/negociations/) | ce que les démons disent quand on leur parle en combat, un dossier par personnalité (`SLIME_`, `YAKUZA_`, `TENSI_`…) | qui aime les voix bien typées : chaque démon a son ton, du voyou au petit ange |
+| [`trad/negociations/`](trad/negociations/) | ce que les démons disent quand on leur parle en combat, un dossier par personnalité (`SLIME_`, `YAKUZA_`, `TENSI_`…) | **terminé** — une relecture est toujours bienvenue, surtout sur le ton de chaque démon |
 | [`trad/eboot/`](trad/eboot/) | menus, écrans, noms de lieux, tutoriels, interface de combat et actions de négociation | **terminé** — une relecture est toujours bienvenue |
 | [`trad/donjons/`](trad/donjons/) | messages de couloir, portes fermées | **terminé** |
 | [`trad/noms/`](trad/noms/) | les noms d'objets, d'armes, d'armures et de sorts descriptifs | qui veut commencer petit : un nom par ligne, aucune mise en scène, et la place disponible écrite en face |
