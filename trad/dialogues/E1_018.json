@@ -179,21 +179,21 @@
     "locuteur": "Nanjo",
     "en": "Hmph! As if I gave a damn what that empty{SAUT}head of yours was scheming.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Hmpf! Comme si je me souciais de ce qu'une{SAUT}sotte comme toi manigance.{ATTENTE}"
+    "fr": "Hmph! Comme si je me souciais de ce{SAUT}qu'une sotte comme vous manigance.{ATTENTE}"
   },
   {
     "id": "E1.BIN:086:0026",
     "locuteur": "Nanjo",
     "en": "But you made one fatal error...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Mais tu as fait une erreur fatale...{ATTENTE}"
+    "fr": "Mais vous avez fait une erreur fatale...{ATTENTE}"
   },
   {
     "id": "E1.BIN:086:0027",
     "locuteur": "Nanjo",
     "en": "You have angered me.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Tu m'as mis en colère.{ATTENTE}"
+    "fr": "Vous m'avez mis en colère.{ATTENTE}"
   },
   {
     "id": "E1.BIN:086:0028",
