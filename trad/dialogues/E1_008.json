@@ -18,7 +18,7 @@
     "locuteur": "Tadashi",
     "en": "I love you with every fiber of my being!{ATTENTE}",
     "locuteur_fr": "Tadashi",
-    "fr": "Je t'aime de toutes les fibres de mon être!{ATTENTE}"
+    "fr": "Je t'aime de chaque fibre de mon être!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0003",
@@ -32,14 +32,14 @@
     "locuteur": "Nanjo",
     "en": "So we're inside their dream... In the{SAUT}real world, they argue incessantly.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": ""
+    "fr": "Nous sommes dans leur rêve... Dans le{SAUT}monde réel, ils se disputent sans cesse.{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0005",
     "locuteur": "Nanjo",
     "en": "But I see now. It's a classic example of{SAUT}\"fighting because they care.\"{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": ""
+    "fr": "Mais je comprends. Un cas d'école de{SAUT}\"qui s'aime bien se querelle\".{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0006",
@@ -59,8 +59,8 @@
     "id": "E1.BIN:050:0008",
     "locuteur": "Brown",
     "en": "Wait... it IS a dream! Or is this reality{SAUT}and the other side is the dream...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Attends... c'est bien un rêve! Ou c'est{SAUT}la réalité et l'autre côté le rêve...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0009",
@@ -81,28 +81,28 @@
     "locuteur": "Tamaki",
     "en": "I am, darling...!{ATTENTE}",
     "locuteur_fr": "Tamaki",
-    "fr": ""
+    "fr": "Mais oui, chéri...!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0012",
     "locuteur": "Nanjo",
     "en": "Far be it from me to cast aspersions,{SAUT}but this is unbearable to watch...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Loin de moi l'idée de les dénigrer,{SAUT}mais c'est insoutenable à regarder...{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0013",
     "locuteur": "Nanjo",
     "en": "In more ways than one.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "À plus d'un titre.{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0014",
     "locuteur": "Elly",
     "en": "Th-They seem awfully happy... Haha...{SAUT}I'd rather not interfere.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "I-Ils ont l'air si heureux... Haha...{SAUT}Je préfère ne pas intervenir.{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0015",
@@ -129,22 +129,22 @@
     "id": "E1.BIN:050:0018",
     "locuteur": "Tamaki",
     "en": "And you see yourself in mine? This is{SAUT}wonderful... You and I are one!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Et tu te vois dans les miens? C'est{SAUT}merveilleux... Nous sommes un!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0019",
     "locuteur": "Yukino",
     "en": "...＊sigh＊ They can keep at this once{SAUT}they're awake.{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": ""
+    "fr": "...＊soupir＊ Ils pourront continuer{SAUT}une fois réveillés.{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0020",
     "locuteur": "Yukino",
     "en": "Let's wake them up already.{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": ""
+    "fr": "Réveillons-les, maintenant.{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0021",
@@ -157,15 +157,15 @@
     "id": "E1.BIN:050:0022",
     "locuteur": "Ayase",
     "en": "Awww... Those two are like a pair of{SAUT}jailbirds. I wish I could be like them.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Oooh... Ces deux-là sont comme deux{SAUT}forçats enchaînés. J'aimerais ça, moi.{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0023",
     "locuteur": "Nanjo",
     "en": "It's often difficult to convey one's{SAUT}true feelings to another...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": ""
+    "fr": "Il est souvent difficile de dire ses{SAUT}vrais sentiments à autrui...{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0024",
@@ -178,15 +178,15 @@
     "id": "E1.BIN:050:0025",
     "locuteur": "Brown",
     "en": "＊sob＊ I'm begging you, man!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "＊sanglot＊ Je t'en supplie, mec!{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0026",
     "locuteur": "Brown",
     "en": "Leave a poor, broken man alone for{SAUT}a while...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Laisse un pauvre homme brisé tranquille{SAUT}un moment...{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0027",
@@ -199,8 +199,8 @@
     "id": "E1.BIN:050:0028",
     "locuteur": "Elly",
     "en": "One wouldn't think to look at this room{SAUT}that we were in the Dream World.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "À voir cette chambre, on ne croirait{SAUT}pas être dans le Monde des Rêves.{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0029",
@@ -219,7 +219,7 @@
   {
     "id": "E1.BIN:050:0031",
     "en": "{FERME}   > Pinch Tadashi?{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}   > Pincer Tadashi?{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0032",
@@ -231,7 +231,7 @@
   {
     "id": "E1.BIN:050:0033",
     "en": "{FERME}  > Pinch Tamaki?{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}  > Pincer Tamaki?{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0034",
@@ -251,264 +251,264 @@
     "id": "E1.BIN:050:0036",
     "locuteur": "Tadashi",
     "en": "Would you please leave us alone?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Voudriez-vous nous laisser seuls?{ATTENTE}"
   },
   {
     "id": "E1.BIN:050:0037",
     "locuteur": "Tamaki",
     "en": "Go away. You're getting on my nerves.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Allez-vous-en. Vous m'énervez.{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0000",
     "locuteur": "Yukino",
     "en": "Huh? Who has dreams about a convenience{SAUT}store?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Hein? Qui donc rêve d'une{SAUT}supérette?{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0001",
     "locuteur": "Nurse Natsumi",
     "en": "So, what do you want for dinner tonight?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "Alors, tu veux quoi pour le dîner?{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0002",
     "locuteur": "Nurse Natsumi's boyfriend",
     "en": "Anything's fine, as long as I have it{SAUT}with you... How was that? Hahaha!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Copain de Natsumi",
+    "fr": "N'importe quoi me va, du moment que{SAUT}c'est avec toi... C'était bien? Hahaha!{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0003",
     "locuteur": "Nanjo",
     "en": "Ah, this must be Nurse Natsumi's dream.{SAUT}Then I assume that's her recent ex.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Ah, voilà le rêve de Mlle Natsumi.{SAUT}Et voilà donc son ex tout récent.{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0004",
     "locuteur": "Nanjo",
     "en": "He's not bad, if not quite at my own{SAUT}level. None too bright, either.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Il n'est pas mal, sans être à mon{SAUT}niveau. Ni très vif d'esprit.{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0005",
     "locuteur": "Brown",
     "en": "Huh? Is that the guy Nurse Natsumi{SAUT}just broke up with?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Hein? C'est le type avec qui Mlle{SAUT}Natsumi vient de rompre?{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0006",
     "locuteur": "Brown",
     "en": "He's pretty handsome. Not like me,{SAUT}but not bad.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Il est plutôt beau gosse. Pas comme{SAUT}moi, mais pas mal.{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0007",
     "locuteur": "Ayase",
     "en": "Whoa! Nurse Natsumi's boyfriend is,{SAUT}like, smoking hot!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Waouh! Le copain de Mlle Natsumi est{SAUT}carrément canon!{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0008",
     "locuteur": "Ayase",
     "en": "I so wish I had an awesome guy like him.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "J'aimerais trop un mec génial comme lui.{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0009",
     "locuteur": "Nurse Natsumi",
     "en": "Oh, you're so funny! Come on, what are{SAUT}you in the mood for?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "Oh, tu es trop drôle! Allez, tu as{SAUT}envie de quoi?{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0010",
     "locuteur": "Nurse Natsumi",
     "en": "Let's decide quick and check out, so we{SAUT}can go back home and eat.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "Choisissons vite et passons en caisse,{SAUT}qu'on rentre manger.{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0011",
     "locuteur": "Nurse Natsumi's boyfriend",
     "en": "Uh, what?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Copain de Natsumi",
+    "fr": "Euh, quoi?{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0012",
     "locuteur": "Nurse Natsumi's boyfriend",
     "en": "Didn't you tell me you were gonna cook{SAUT}for me today, hon?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Copain de Natsumi",
+    "fr": "Tu m'avais pas dit que tu cuisinerais{SAUT}pour moi aujourd'hui, chérie?{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0013",
     "locuteur": "Nanjo",
     "en": "Wait, is she going to feed him the corner{SAUT}store's ready-made meal?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Attendez, va-t-elle lui servir un plat{SAUT}préparé de supérette?{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0014",
     "locuteur": "Nanjo",
     "en": "Correct me if I'm wrong, but I don't{SAUT}believe that counts as \"cooking\"...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Corrigez-moi si je me trompe, mais je{SAUT}ne crois pas que cela soit \"cuisiner\"...{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0015",
     "locuteur": "Elly",
     "en": "Oh, Nurse Natsumi...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Oh, Mlle Natsumi...{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0016",
     "locuteur": "Elly",
     "en": "Don't tell me she's acting as though she{SAUT}cooks the store's pre-made lunches...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Ne me dites pas qu'elle fait passer les{SAUT}plats préparés pour sa propre cuisine...{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0017",
     "locuteur": "Elly",
     "en": "I feel sorry for him...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Je le plains...{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0018",
     "locuteur": "Nurse Natsumi",
     "en": "Yeah, and I will!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "Oui, et je vais le faire!{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0019",
     "locuteur": "Nurse Natsumi",
     "en": "I'll warm it up for you in the microwave{SAUT}once we get to my place.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "Je te le réchaufferai au micro-ondes{SAUT}en arrivant chez moi.{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0020",
     "locuteur": "Nurse Natsumi",
     "en": "Oh, how about this \"Surprise Cutlet{SAUT}Combo\"? It says it's their latest item!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "Oh, et ce \"Combo Escalope{SAUT}Surprise\"? C'est leur nouveauté!{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0021",
     "locuteur": "Nurse Natsumi",
     "en": "Sounds delicious, doesn't it? Let's get{SAUT}two of these, honey!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "Ça a l'air délicieux, non? Prenons-en{SAUT}deux, chéri!{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0022",
     "locuteur": "Nurse Natsumi's boyfriend",
     "en": "Uh... Y-Yeah, anything's fine. I can't{SAUT}wait to dig in... Haha... ha...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Copain de Natsumi",
+    "fr": "Euh... O-Oui, n'importe quoi me va.{SAUT}J'ai hâte de goûter... Haha... ha...{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0023",
     "locuteur": "Yukino",
     "en": "This... is painful to watch, in so many{SAUT}ways. Let's wake her up and move on.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "C'est... pénible à regarder, à bien des{SAUT}égards. Réveillons-la et avançons.{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0024",
     "locuteur": "Yukino",
     "en": "Big surprise she got dumped, huh?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Pas étonnant qu'il l'ait larguée, hein?{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0025",
     "locuteur": "Ayase",
     "en": "Hey, you think eating the food in a dream{SAUT}is bad for you?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Hé, tu crois que manger dans un rêve,{SAUT}c'est mauvais pour la santé?{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0026",
     "locuteur": "Nanjo",
     "en": "No clerk, no other shoppers... {ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Pas de caissier, pas d'autres clients... {ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0027",
     "locuteur": "Nanjo",
     "en": "This place is more unsettling than a{SAUT}convenience store late at night.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Cet endroit est plus inquiétant qu'une{SAUT}supérette en pleine nuit.{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0028",
     "locuteur": "Brown",
     "en": "I wonder if we can bring any of this food{SAUT}back to the real world... What a waste.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Je me demande si on peut ramener ça{SAUT}dans le monde réel... Quel gâchis.{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0030",
     "locuteur": "Elly",
     "en": "To think that the human subconscious{SAUT}can create such a realistic environment!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Penser que le subconscient humain peut{SAUT}créer un décor aussi réaliste!{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0031",
     "locuteur": "Elly",
     "en": "This convenience store looks authentic{SAUT}in every respect!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Cette supérette est authentique{SAUT}dans ses moindres détails!{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0032",
     "locuteur": "Nurse Natsumi",
     "en": "What do you want!? Try anything funny{SAUT}and I'll call for the police!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "Qu'est-ce que vous voulez!? Un geste{SAUT}de travers et j'appelle la police!{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0033",
     "en": "{FERME}> Pinch Nurse Natsumi?{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}> Pincer Mlle Natsumi?{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0034",
     "locuteur": "Nurse Natsumi's boyfriend",
     "en": "What the hell do you want from us!?{SAUT}Huh!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Copain de Natsumi",
+    "fr": "Mais qu'est-ce que vous nous voulez!?{SAUT}Hein!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0035",
     "locuteur": "Nurse Natsumi",
     "en": "Wh-What's happening?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "Q-Que se passe-t-il?{ATTENTE}"
   },
   {
     "id": "E1.BIN:051:0036",
     "locuteur": "Nurse Natsumi",
     "en": "Go away! Shoo!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "Allez-vous-en! Ouste!{ATTENTE}"
   }
 ]
