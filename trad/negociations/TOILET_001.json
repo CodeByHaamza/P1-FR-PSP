@@ -213,7 +213,7 @@
   {
     "id": "TOILET.BIN:text:0051",
     "en": "  Your story sounds suspicious to me!{SAUT}Is it for real?[FFFD][23FF][F500]  Say what you want, but you wanna sit on{SAUT}me, huh? This is one comfortable toilet{SAUT}seat, after all!(*RESPONSE*)",
-    "fr": "Ton histoire me parait louche!{SAUT}Est-elle vraie?[FFFD][23FF][F500] Quoi que tu dises, tu aimerais t'asseoir sur{SAUT}moi, hein? C'est un siège de WC bien{SAUT}confortable, après tout!(*RESPONSE*)"
+    "fr": "Ton histoire me paraît louche!{SAUT}Est-elle vraie?[FFFD][23FF][F500] Quoi que tu dises, tu veux t'asseoir sur{SAUT}moi, hein? C'est un siège de WC bien{SAUT}confortable, après tout!(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0052",

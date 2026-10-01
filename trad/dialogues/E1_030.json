@@ -165,22 +165,22 @@
     "id": "E1.BIN:203:0000",
     "locuteur": "Night Queen's voice",
     "en": "Urgh... I failed... against these youths?{SAUT}How distressing...{ATTENTE}",
-    "locuteur_fr": "Voix de la Reine",
+    "locuteur_fr": "Voix de la Reine de la Nuit",
     "fr": "Urgh... J'ai échoué... face à ces jeunes?{SAUT}Quelle déconvenue...{ATTENTE}"
   },
   {
     "id": "E1.BIN:203:0001",
     "locuteur": "Night Queen's voice",
     "en": "But heed my words...{ATTENTE}",
-    "locuteur_fr": "Voix de la Reine",
+    "locuteur_fr": "Voix de la Reine de la Nuit",
     "fr": "Mais écoutez-moi...{ATTENTE}"
   },
   {
     "id": "E1.BIN:203:0002",
     "locuteur": "Night Queen's voice",
     "en": "Eternal night will fall again so long as{SAUT}people seek to turn hope to despair...{ATTENTE}",
-    "locuteur_fr": "Voix de la Reine",
-    "fr": "La nuit éternelle reviendra tant que des{SAUT}gens voudront tuer l'espoir...{ATTENTE}"
+    "locuteur_fr": "Voix de la Reine de la Nuit",
+    "fr": "La Nuit Éternelle reviendra tant que des{SAUT}gens voudront tuer l'espoir...{ATTENTE}"
   },
   {
     "id": "E1.BIN:203:0003",

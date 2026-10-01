@@ -451,7 +451,7 @@
     "locuteur": "Teacher in nurse's uniform",
     "en": "Oh, (*APELLIDO_HEROE*), you've come around.{ATTENTE}",
     "locuteur_fr": "Femme en blouse blanche",
-    "fr": "Oh, (*APELLIDO_HEROE*), vous voila réveillé.{ATTENTE}"
+    "fr": "Oh, (*APELLIDO_HEROE*), vous voilà réveillé.{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0001",
@@ -477,7 +477,7 @@
     "locuteur": "Worried teacher",
     "en": "Thank goodness you're awake, (*APELLIDO_HEROE*)!{ATTENTE}",
     "locuteur_fr": "Prof inquiète",
-    "fr": "Dieu merci, vous etes réveillé, (*APELLIDO_HEROE*)!{ATTENTE}"
+    "fr": "Dieu merci, vous êtes réveillé, (*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0005",
@@ -650,7 +650,7 @@
     "locuteur": "Yukino",
     "en": "I know I couldn't take being cooped up{SAUT}in the hospital for an entire year.{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Moi, je ne tiendrais pas un an entier{SAUT}enfermee a l'hôpital.{ATTENTE}"
+    "fr": "Moi, je ne tiendrais pas un an entier{SAUT}enfermée à l'hôpital.{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0030",
