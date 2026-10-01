@@ -1,0 +1,380 @@
+[
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BE00",
+    "en": "AqqIe Pie(*TERMINATOR*)",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BE40",
+    "en": "Snow Queen Mask(*TERMINATOR*)",
+    "fr": "Masque Reine Neiges(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BE80",
+    "en": "Mirror Shard(*TERMINATOR*)",
+    "fr": "Éclat de miroir(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BEC0",
+    "en": "Cell Key Ring(*TERMINATOR*)",
+    "fr": "Trousseau cellule(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BF40",
+    "en": "Mirror Frame(*TERMINATOR*)",
+    "fr": "Cadre du miroir(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BF80",
+    "en": "Last Apple Pie(*TERMINATOR*)",
+    "fr": "Dernière tarte(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BFC0",
+    "en": "Last AppIe Pie(*TERMINATOR*)",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C000",
+    "en": "Last AqqIe Pie(*TERMINATOR*)",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C040",
+    "en": "Security Card(*TERMINATOR*)",
+    "fr": "Carte de sécurité(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C080",
+    "en": "Broken Compact(*TERMINATOR*)",
+    "fr": "Poudrier cassé(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C0C0",
+    "en": "Prison Key(*TERMINATOR*)",
+    "fr": "Clé de la prison(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C140",
+    "en": "Expel Mirror(*TERMINATOR*)",
+    "fr": "Miroir de sortie(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C180",
+    "en": "Compact Half(*TERMINATOR*)",
+    "fr": "Demi-poudrier(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C1C0",
+    "en": "Green Compact(*TERMINATOR*)",
+    "fr": "Poudrier vert(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C200",
+    "en": "Mirror Piece(*TERMINATOR*)",
+    "fr": "Morceau de miroir(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C240",
+    "en": "Red Compact(*TERMINATOR*)",
+    "fr": "Poudrier rouge(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C280",
+    "en": "Blue Compact(*TERMINATOR*)",
+    "fr": "Poudrier bleu(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C2FE",
+    "en": " Rosetta Stone(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C33E",
+    "en": " Masamune's Eyepatch(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C37E",
+    "en": " Dragon Scale(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C3BE",
+    "en": " Blue Tablet(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C43E",
+    "en": " Pasque Flower(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C47E",
+    "en": " Present(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C4BE",
+    "en": " White Tablet(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C4FE",
+    "en": " Daily Meal(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C53E",
+    "en": " Prosecutor's Diary(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C57E",
+    "en": " Judgement Contract(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C5BE",
+    "en": " Flame Shawl(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C5FE",
+    "en": " Dordona's Oar(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C63E",
+    "en": " Stuffed Deer(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C67E",
+    "en": " Suitengu Talisman(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C6BE",
+    "en": " Black Garter Belt(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C6FE",
+    "en": " Kolkata Souvenir(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C73E",
+    "en": " Bisonskin Drums(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C77E",
+    "en": " Emperor Wu's Peach(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C7BE",
+    "en": " Raven Feather(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C7FE",
+    "en": " Olive Necklace(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C83E",
+    "en": " General Piece(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C87E",
+    "en": " Victorian Rune(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C8BE",
+    "en": " Maxi Tempest(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C8FE",
+    "en": " Purified Water(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C93E",
+    "en": " Gottabe Shoes(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C9BE",
+    "en": " Crimson Tablet(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26C9FE",
+    "en": " Tora Stomachband(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26CA3E",
+    "en": " Kaminari-Okoshi(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26CA7E",
+    "en": " Enma Notebook(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26CABE",
+    "en": " Black Tablet(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26CAFE",
+    "en": " Amber Glasses(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26CB3E",
+    "en": " Morning Star(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26CB7E",
+    "en": " Pagan Idol(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26CBBE",
+    "en": " Babylonian Coffin(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26CBFE",
+    "en": " Faceless Mask(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26CC3E",
+    "en": " Nibel Crystal(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26CC7E",
+    "en": " Fomor Lineage(*TERMINATOR*)",
+    "fr": "",
+    "max": 20,
+    "_fixe": true
+  }
+]

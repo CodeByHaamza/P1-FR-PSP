@@ -44,6 +44,13 @@
 # Et une ERREUR propre aux donjons :
 #
 #   8. DONJON    — un texte de donjon plus long que l'anglais.
+#   8bis. SLOT   — un nom (zone `noms`) plus long que son slot. Les noms vivent
+#      dans des tables à slots réguliers que le jeu lit par calcul d'indice :
+#      il n'y a pas de pointeur à rediriger, donc pas de code cave de secours,
+#      et le build refuse. D'où une erreur là où BUDGET se contente d'un
+#      avertissement. Ces entrées portent `_fixe`, et leur `max` est la place
+#      mesurée dans le slot — souvent bien plus que l'anglais : « Rapier » fait
+#      6 caractères dans un slot qui en accepte 19.
 #   9. ESPACE    — `[0000]` dans le français quand l'anglais a de vrais espaces :
 #      là, ce code termine la chaîne et le jeu n'affiche que le premier mot.
 #  10. PLACE     — les fichiers d'un même démon (négociations) font ensemble
@@ -442,7 +449,10 @@ module CheckTrad
       if e['max']
         # `max` est un nombre de caractères, jetons non comptés : compter pareil.
         n = e['fr'].gsub(JETON, '').length
-        if n > e['max']
+        if n > e['max'] && e['_fixe']
+          # Slot fixe : pas de code cave possible, le build refuserait.
+          soucis << "#{id} [SLOT] #{n} caractères pour un slot de #{e['max']} — à raccourcir, le jeu n'a pas la place"
+        elsif n > e['max']
           avertis << "#{id} [BUDGET] #{n} caractères pour un maximum de #{e['max']} — passe par un code cave, à vérifier en jeu"
         end
       end
@@ -605,6 +615,13 @@ module CheckTrad
     rapport = []
 
     argv.each do |chemin|
+      # Les fichiers techniques ne sont pas des fichiers de traduction : le
+      # canari est lu par `charger_canari`, pas verifie comme une liste
+      # d'entrees. Le glob documente (`trad/<zone>/*.json`) les ramasse, et la
+      # CI les ecarte a la main depuis toujours ; les ecarter ici evite que la
+      # meme commande plante quand on la joue sur son poste.
+      next if File.basename(chemin).start_with?('_')
+
       if (casse = erreur_json(chemin))
         ligne = casse[/ligne (\d+)/, 1].to_i
         if en_json

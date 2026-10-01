@@ -126,6 +126,23 @@ majuscules accentuées `É À Ê Î Ô Ç`. Elles sont dessinées et validées e
 - **Les jeux de mots intraduisibles** : signale-les dans ta proposition. On en
   discute, on trouve mieux à plusieurs.
 
+## Les noms d'objets, d'armes et de sorts
+
+Ils ont leurs propres règles, parce qu'ils ne sont pas des phrases.
+
+- **Pas d'article** : « Carte de sécurité », pas « La carte de sécurité ». Le nom
+  s'affiche seul dans un inventaire.
+- **Pas d'abréviation inventée** pour tenir dans la place. S'il faut couper,
+  change de mot : « Perle de renouveau » plutôt que « Perle de renaiss. ».
+- **Majuscule au premier mot seulement**, sauf nom propre : « Pierre Agidyne »,
+  « Gantelet Seiryuu », « Casque César ».
+- **Une famille, une forme.** Les objets vont par séries — les pierres de sort,
+  les plaques, les médailles, l'équipement « de parade ». Regarde ce qui est déjà
+  traduit autour de ta ligne et garde le même moule, même si ta tournure seule
+  serait plus jolie.
+- **Les noms de la série restent en anglais** et ne sont pas dans ces fichiers :
+  si tu vois passer Agi, Bufu ou Pixie, c'est une erreur de tri, signale-la.
+
 ## Les répliques qui reviennent
 
 Le champ `_occurrences` te dit combien de fois un texte apparaît. Au-delà de
