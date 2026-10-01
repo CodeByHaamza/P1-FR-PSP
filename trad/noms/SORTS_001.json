@@ -2,154 +2,154 @@
   {
     "id": "EBOOT.BIN:SKILL:OFF_268BF8",
     "en": "Paral Eyes",
-    "fr": "",
+    "fr": "Regard paralysant",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_268C28",
     "en": "Petra Eyes",
-    "fr": "",
+    "fr": "Regard pétrifiant",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_268C58",
     "en": "Hell Eyes",
-    "fr": "",
+    "fr": "Regard infernal",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_268C88",
     "en": "Guilt Eyes",
-    "fr": "",
+    "fr": "Regard accusateur",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_268CB8",
     "en": "Terror Eyes",
-    "fr": "",
+    "fr": "Regard terrifiant",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_268CE8",
     "en": "Sexy Dance",
-    "fr": "",
+    "fr": "Danse sensuelle",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_268D18",
     "en": "Happy Dance",
-    "fr": "",
+    "fr": "Danse joyeuse",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_268D48",
     "en": "Hula of Misfortune",
-    "fr": "",
+    "fr": "Hula du malheur",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_268D78",
     "en": "Tango of Dispelling",
-    "fr": "",
+    "fr": "Tango dissipateur",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_268DA8",
     "en": "Waltz of Sadness",
-    "fr": "",
+    "fr": "Valse de tristesse",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_268DD8",
     "en": "Lullaby",
-    "fr": "",
+    "fr": "Berceuse",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_268E08",
     "en": "Panic Voice",
-    "fr": "",
+    "fr": "Voix de panique",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_268E38",
     "en": "Bind Voice",
-    "fr": "",
+    "fr": "Voix entravante",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_268E68",
     "en": "Frenzy Song",
-    "fr": "",
+    "fr": "Chant de frénésie",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_268E98",
     "en": "Candy Voice",
-    "fr": "",
+    "fr": "Voix sucrée",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_268EC8",
     "en": "Passionate Kiss",
-    "fr": "",
+    "fr": "Baiser passionné",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_268EF8",
     "en": "Demon's Kiss",
-    "fr": "",
+    "fr": "Baiser du démon",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_268F28",
     "en": "Evil Smile",
-    "fr": "",
+    "fr": "Sourire malveillant",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_268F58",
     "en": "Deathtouch",
-    "fr": "",
+    "fr": "Toucher mortel",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_268F88",
     "en": "Fire Breath",
-    "fr": "",
+    "fr": "Souffle de feu",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_268FB8",
     "en": "Ice Breath",
-    "fr": "",
+    "fr": "Souffle de glace",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_268FE8",
     "en": "Poison Breath",
-    "fr": "",
+    "fr": "Souffle de poison",
     "max": 19,
     "_fixe": true
   },

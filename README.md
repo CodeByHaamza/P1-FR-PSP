@@ -8,15 +8,15 @@ vise une version complète, jouable, et écrite en vrai français — accents
 compris.
 
 <!-- badges:debut -->
-[![avancement total : 85 % des textes traduits](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge.json)](SUIVI.md)
+[![avancement total : 88 % des textes traduits](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge.json)](SUIVI.md)
 ![licence : CC BY-NC-SA 4.0](https://img.shields.io/badge/licence-CC%20BY--NC--SA%204.0-lightgrey)
 [![Discord : Grimoire du Coeur](https://img.shields.io/badge/discord-Grimoire%20du%20C%C5%93ur-5865F2?logo=discord&logoColor=white)](https://discord.gg/s6CRadvPa3)
 
 [![dialogues : 67 % traduits (5 742 sur 8 572 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_dialogues.json)](SUIVI.md)
 [![eboot : 100 % traduits (2 956 sur 2 956 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_eboot.json)](SUIVI.md)
 [![donjons : 100 % traduits (130 sur 130 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_donjons.json)](SUIVI.md)
-[![négociations : 96 % traduits (11 931 sur 12 487 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_negociations.json)](SUIVI.md)
-[![noms : 55 % traduits (242 sur 439 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_noms.json)](SUIVI.md)
+[![négociations : 99 % traduits (12 331 sur 12 487 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_negociations.json)](SUIVI.md)
+[![noms : 100 % traduits (439 sur 439 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_noms.json)](SUIVI.md)
 <!-- badges:fin -->
 
 **On cherche des traducteurs.** Rien à installer : tu ouvres un fichier dans
@@ -143,7 +143,7 @@ dans ta PR, donne-lui [CLAUDE.md](CLAUDE.md), et relis tout.
 | **Menus, écrans et combat** (`trad/eboot/`) | 2 956 textes, 32 fichiers — **terminé** le 20/09/2026 ; relecture bienvenue, surtout sur les lignes marquées « à vérifier en jeu » dans [SUIVI.md](SUIVI.md) |
 | **Donjons** (`trad/donjons/`) | 130 textes, 2 fichiers — **ouvert** |
 | **Négociations** (`trad/negociations/`) | 12 487 textes, 139 fichiers — **ouvert**. Ce que les démons répondent quand on leur parle en combat, un dossier par personnalité de démon |
-| **Noms d'objets, d'armes et de sorts** (`trad/noms/`) | 439 noms, 7 fichiers — **ouvert** depuis le 01/10/2026. Des lots courts, parfaits pour une première contribution : un nom par ligne, et la place disponible écrite en face |
+| **Noms d'objets, d'armes et de sorts** (`trad/noms/`) | 439 noms, 7 fichiers — **terminé** le 01/10/2026, jour de son ouverture ; relecture bienvenue, c'est de la terminologie qui se voit partout dans les menus |
 | Noms de démons, de Personae et sorts signature | **gardés en anglais** : Pixie reste Pixie, Bufu reste Bufu, comme dans toute la série |
 
 Le jeu répète énormément : 17 685 lignes de dialogue pour 8 572 textes
