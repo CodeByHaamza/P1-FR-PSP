@@ -21,6 +21,11 @@ installer, pas d'outil à télécharger, aucune ligne de code.
 **Un fichier = une proposition.** Ça évite que deux personnes traduisent la
 même chose.
 
+Et si tu préfères qu'on te propose quelque chose plutôt que de choisir dans une
+liste de cent fichiers : les [issues « bon premier lot »](../../issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+décrivent les lots libres un par un — la scène, qui parle, les pièges du
+fichier. Dis-y que tu le prends, et il passera en « en cours ».
+
 ---
 
 ## Les cinq dossiers
