@@ -1,0 +1,702 @@
+[
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_268BF8",
+    "en": "Paral Eyes",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_268C28",
+    "en": "Petra Eyes",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_268C58",
+    "en": "Hell Eyes",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_268C88",
+    "en": "Guilt Eyes",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_268CB8",
+    "en": "Terror Eyes",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_268CE8",
+    "en": "Sexy Dance",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_268D18",
+    "en": "Happy Dance",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_268D48",
+    "en": "Hula of Misfortune",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_268D78",
+    "en": "Tango of Dispelling",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_268DA8",
+    "en": "Waltz of Sadness",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_268DD8",
+    "en": "Lullaby",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_268E08",
+    "en": "Panic Voice",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_268E38",
+    "en": "Bind Voice",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_268E68",
+    "en": "Frenzy Song",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_268E98",
+    "en": "Candy Voice",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_268EC8",
+    "en": "Passionate Kiss",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_268EF8",
+    "en": "Demon's Kiss",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_268F28",
+    "en": "Evil Smile",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_268F58",
+    "en": "Deathtouch",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_268F88",
+    "en": "Fire Breath",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_268FB8",
+    "en": "Ice Breath",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_268FE8",
+    "en": "Poison Breath",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269018",
+    "en": "Fog Breath",
+    "fr": "Souffle de brume",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269048",
+    "en": "Water Wall",
+    "fr": "Mur d'eau",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269078",
+    "en": "Fire Wall",
+    "fr": "Mur de feu",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_2690A8",
+    "en": "Crystal Wall",
+    "fr": "Mur de cristal",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_2690D8",
+    "en": "Steel Wall",
+    "fr": "Mur d'acier",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269168",
+    "en": "Mighty Wave",
+    "fr": "Vague puissante",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269198",
+    "en": "Gentle Wave",
+    "fr": "Vague douce",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_2691C8",
+    "en": "Heavenly Cyclone",
+    "fr": "Cyclone céleste",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_2691F8",
+    "en": "Earthly Vortex",
+    "fr": "Vortex terrestre",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269228",
+    "en": "Hell Drop",
+    "fr": "Chute infernale",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269288",
+    "en": "Eastern Impact",
+    "fr": "Impact d'orient",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_2692B8",
+    "en": "Western Blow",
+    "fr": "Coup d'occident",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269348",
+    "en": "Eternal Black",
+    "fr": "Noir éternel",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269378",
+    "en": "Dark Verdict",
+    "fr": "Verdict sombre",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_2693A8",
+    "en": "Eternal White",
+    "fr": "Blanc éternel",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_2693D8",
+    "en": "Bright Judgement",
+    "fr": "Jugement éclatant",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269438",
+    "en": "Summon",
+    "fr": "Invocation",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269468",
+    "en": "Luna Trap",
+    "fr": "Piège de Luna",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269498",
+    "en": "Feral Bite",
+    "fr": "Morsure sauvage",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_2694C8",
+    "en": "Venom Bite",
+    "fr": "Morsure de venin",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_2694F8",
+    "en": "Stun Bite",
+    "fr": "Morsure assommante",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269528",
+    "en": "Virus Bite",
+    "fr": "Morsure de virus",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269558",
+    "en": "Stone Bite",
+    "fr": "Morsure de pierre",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269588",
+    "en": "Feral Claw",
+    "fr": "Griffe sauvage",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_2695B8",
+    "en": "Poison Claw",
+    "fr": "Griffe de poison",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_2695E8",
+    "en": "Stun Claw",
+    "fr": "Griffe assommante",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269618",
+    "en": "Virus Claw",
+    "fr": "Griffe de virus",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269648",
+    "en": "Stone Claw",
+    "fr": "Griffe de pierre",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269678",
+    "en": "Toxic Sting",
+    "fr": "Dard toxique",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_2696A8",
+    "en": "Stun Needle",
+    "fr": "Aiguille assommante",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_2696D8",
+    "en": "Needle Rush",
+    "fr": "Assaut d'aiguilles",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269708",
+    "en": "Genocide Fan",
+    "fr": "Éventail génocide",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269738",
+    "en": "Tackle",
+    "fr": "Plaquage",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269768",
+    "en": "Bonecrusher",
+    "fr": "Broyeur d'os",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269798",
+    "en": "Squash",
+    "fr": "Écrasement",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_2697C8",
+    "en": "Heavenly Hit",
+    "fr": "Frappe céleste",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_2697F8",
+    "en": "Megaton Raid",
+    "fr": "Raid mégatonne",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269828",
+    "en": "Beak",
+    "fr": "Bec",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269858",
+    "en": "Wing Flap",
+    "fr": "Battement d'ailes",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269888",
+    "en": "Dive",
+    "fr": "Plongeon",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_2698B8",
+    "en": "Spike Claw",
+    "fr": "Griffe à pointes",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_2698E8",
+    "en": "Death Claw",
+    "fr": "Griffe mortelle",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269918",
+    "en": "Twinkle Punch",
+    "fr": "Coup scintillant",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269948",
+    "en": "Fist of Fury",
+    "fr": "Poing de fureur",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269978",
+    "en": "Deadly Fist",
+    "fr": "Poing mortel",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_2699A8",
+    "en": "Spin Kick",
+    "fr": "Pied tournant",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_2699D8",
+    "en": "Thunder Kick",
+    "fr": "Pied de tonnerre",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269A08",
+    "en": "Lightning Kick",
+    "fr": "Pied de foudre",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269A38",
+    "en": "Twin Slash",
+    "fr": "Taillade double",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269A68",
+    "en": "Heat Wave",
+    "fr": "Vague de chaleur",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269A98",
+    "en": "Deathbound",
+    "fr": "Lien de mort",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269AF8",
+    "en": "Wolf Fang",
+    "fr": "Croc de loup",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269B28",
+    "en": "Triple Slice",
+    "fr": "Triple taillade",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269B58",
+    "en": "Double Thrust",
+    "fr": "Double estoc",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269B88",
+    "en": "Dragon Whirl",
+    "fr": "Tourbillon dragon",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269BB8",
+    "en": "Burning Spear",
+    "fr": "Lance ardente",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269BE8",
+    "en": "Flurry Stab",
+    "fr": "Rafale d'estocs",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269C18",
+    "en": "Destruction Smash",
+    "fr": "Fracas destructeur",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269C48",
+    "en": "Earth Slicer",
+    "fr": "Trancheur de terre",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269C78",
+    "en": "Love Whip",
+    "fr": "Fouet d'amour",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269CA8",
+    "en": "Infinite Spiral",
+    "fr": "Spirale infinie",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269CD8",
+    "en": "Moon Shatterer",
+    "fr": "Briseur de lune",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269D08",
+    "en": "Fastball",
+    "fr": "Balle rapide",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269D38",
+    "en": "Darkness Nail",
+    "fr": "Clou des ténèbres",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269D68",
+    "en": "Sonic Bullet",
+    "fr": "Balle sonique",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269D98",
+    "en": "Rapid Fire",
+    "fr": "Tir rapide",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269DC8",
+    "en": "Myriad Arrows",
+    "fr": "Myriade de flèches",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269DF8",
+    "en": "Arrow Volley",
+    "fr": "Volée de flèches",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269E28",
+    "en": "Single Shot",
+    "fr": "Tir simple",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269E58",
+    "en": "Drive Shot",
+    "fr": "Tir puissant",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269E88",
+    "en": "Middle Shot",
+    "fr": "Tir moyen",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269EB8",
+    "en": "Powder Shot",
+    "fr": "Tir de poudre",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269EE8",
+    "en": "Long Shot",
+    "fr": "Tir long",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269F18",
+    "en": "Sweet Trap",
+    "fr": "Piège sucré",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269F48",
+    "en": "Viper Smash",
+    "fr": "Frappe vipère",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269F78",
+    "en": "Drumroll Punch",
+    "fr": "Poing tambour",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269FA8",
+    "en": "Rainbow Strike",
+    "fr": "Frappe arc-en-ciel",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:SKILL:OFF_269FD8",
+    "en": "Binal Strike",
+    "fr": "Double frappe",
+    "max": 19,
+    "_fixe": true
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A440",
+    "en": "Medicine(*TERMINATOR*)",
+    "fr": "Médicament(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A480",
+    "en": "Rattle Drink(*TERMINATOR*)",
+    "fr": "Boisson crécelle(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A4C0",
+    "en": "Bead(*TERMINATOR*)",
+    "fr": "Perle(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A500",
+    "en": "Revival Bead(*TERMINATOR*)",
+    "fr": "Perle de renouveau(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A540",
+    "en": "Balm of Life(*TERMINATOR*)",
+    "fr": "Baume de vie(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A580",
+    "en": "Dis-Stone(*TERMINATOR*)",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A5C0",
+    "en": "Dis-Para(*TERMINATOR*)",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A600",
+    "en": "Dis-Poison(*TERMINATOR*)",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A640",
+    "en": "Dis-Sick(*TERMINATOR*)",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A680",
+    "en": "Slick Drop(*TERMINATOR*)",
+    "fr": "Goutte glissante(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A6C0",
+    "en": "Turtle Candy(*TERMINATOR*)",
+    "fr": "Bonbon tortue(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A700",
+    "en": "Silver Prayer Wheel(*TERMINATOR*)",
+    "fr": "Moulin à prières(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A740",
+    "en": "Magical Guard(*TERMINATOR*)",
+    "fr": "Garde magique(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A780",
+    "en": "Physical Guard(*TERMINATOR*)",
+    "fr": "Garde physique(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A7C0",
+    "en": "Skull Pendulum(*TERMINATOR*)",
+    "fr": "Pendule à crâne(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A800",
+    "en": "Life Stone(*TERMINATOR*)",
+    "fr": "Pierre de vie(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A840",
+    "en": "Repulse Bell(*TERMINATOR*)",
+    "fr": "Cloche de répulsion(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A880",
+    "en": "Core Shield(*TERMINATOR*)",
+    "fr": "Bouclier du noyau(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A8C0",
+    "en": "St Incense(*TERMINATOR*)",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A900",
+    "en": "Vi Incense(*TERMINATOR*)",
+    "fr": "Encens Vi(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A940",
+    "en": "Dx Incense(*TERMINATOR*)",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A980",
+    "en": "Ag Incense(*TERMINATOR*)",
+    "fr": "Encens Ag(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26A9C0",
+    "en": "Lu Incense(*TERMINATOR*)",
+    "fr": "Encens Lu(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26AA00",
+    "en": "HP Incense(*TERMINATOR*)",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26AA40",
+    "en": "SP Incense(*TERMINATOR*)",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26AA80",
+    "en": "Muscle Drink(*TERMINATOR*)",
+    "fr": "Boisson muscle(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26AB40",
+    "en": "Numerous Bell(*TERMINATOR*)",
+    "fr": "Cloche multiple(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26AB80",
+    "en": "Divine Voice(*TERMINATOR*)",
+    "fr": "Voix divine(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26ABC0",
+    "en": "Millionaire Bomb(*TERMINATOR*)",
+    "fr": "Bombe millionnaire(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26AC00",
+    "en": "Demon House(*TERMINATOR*)",
+    "fr": "Maison des démons(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26AC40",
+    "en": "Demon Den(*TERMINATOR*)",
+    "fr": "Repaire de démons(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26ACC0",
+    "en": "Metal Card(*TERMINATOR*)",
+    "fr": "Carte métal(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26AD00",
+    "en": "Agidyne Stone(*TERMINATOR*)",
+    "fr": "Pierre Agidyne(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26AD40",
+    "en": "Maragi Stone(*TERMINATOR*)",
+    "fr": "Pierre Maragi(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26AD80",
+    "en": "Maragion Stone(*TERMINATOR*)",
+    "fr": "Pierre Maragion(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26ADC0",
+    "en": "Evil Fire Tablet(*TERMINATOR*)",
+    "fr": "Plaque feu maudite(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26AE00",
+    "en": "Bufudyne Stone(*TERMINATOR*)",
+    "fr": "Pierre Bufudyne(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26AE40",
+    "en": "Mabufu Stone(*TERMINATOR*)",
+    "fr": "Pierre Mabufu(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26AE80",
+    "en": "Mabufula Stone(*TERMINATOR*)",
+    "fr": "Pierre Mabufula(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26AEC0",
+    "en": "Evil Ice Tablet(*TERMINATOR*)",
+    "fr": "Plaque gel maudite(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26AF00",
+    "en": "Garudyne Stone(*TERMINATOR*)",
+    "fr": "Pierre Garudyne(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26AF40",
+    "en": "Magaru Stone(*TERMINATOR*)",
+    "fr": "Pierre Magaru(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26AF80",
+    "en": "Magarula Stone(*TERMINATOR*)",
+    "fr": "Pierre Magarula(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26AFC0",
+    "en": "Evil Wind Tablet(*TERMINATOR*)",
+    "fr": "Plaque vent maudite(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B000",
+    "en": "Magnadyne Stone(*TERMINATOR*)",
+    "fr": "Pierre Magnadyne(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B040",
+    "en": "Mamagna Stone(*TERMINATOR*)",
+    "fr": "Pierre Mamagna(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B080",
+    "en": "Mamagnara Stone(*TERMINATOR*)",
+    "fr": "Pierre Mamagnara(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B0C0",
+    "en": "Evil Quake Tablet(*TERMINATOR*)",
+    "fr": "Plaque sol maudite(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B100",
+    "en": "Freidyne Stone(*TERMINATOR*)",
+    "fr": "Pierre Freidyne(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B140",
+    "en": "Megido Stone(*TERMINATOR*)",
+    "fr": "Pierre Megido(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B180",
+    "en": "Megidola Stone(*TERMINATOR*)",
+    "fr": "Pierre Megidola(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B1C0",
+    "en": "Scorching Tablet(*TERMINATOR*)",
+    "fr": "Plaque brûlante(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B200",
+    "en": "Zandyne Stone(*TERMINATOR*)",
+    "fr": "Pierre Zandyne(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B240",
+    "en": "Mazan Stone(*TERMINATOR*)",
+    "fr": "Pierre Mazan(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B280",
+    "en": "Mazanma Stone(*TERMINATOR*)",
+    "fr": "Pierre Mazanma(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B2C0",
+    "en": "Gale Tablet(*TERMINATOR*)",
+    "fr": "Plaque de rafale(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B300",
+    "en": "Grydyne Stone(*TERMINATOR*)",
+    "fr": "Pierre Grydyne(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B340",
+    "en": "Magry Stone(*TERMINATOR*)",
+    "fr": "Pierre Magry(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B380",
+    "en": "Magryva Stone(*TERMINATOR*)",
+    "fr": "Pierre Magryva(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B3C0",
+    "en": "Wall Tablet(*TERMINATOR*)",
+    "fr": "Plaque de mur(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B400",
+    "en": "Ziodyne Stone(*TERMINATOR*)",
+    "fr": "Pierre Ziodyne(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B440",
+    "en": "Mazio Stone(*TERMINATOR*)",
+    "fr": "Pierre Mazio(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B480",
+    "en": "Mazionga Stone(*TERMINATOR*)",
+    "fr": "Pierre Mazionga(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B4C0",
+    "en": "Flash Tablet(*TERMINATOR*)",
+    "fr": "Plaque d'éclair(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B500",
+    "en": "Dark Wave Tablet(*TERMINATOR*)",
+    "fr": "Plaque onde sombre(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B540",
+    "en": "Doggerel Tablet(*TERMINATOR*)",
+    "fr": "Plaque de confusion(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B580",
+    "en": "Ebon Rope Tablet(*TERMINATOR*)",
+    "fr": "Plaque corde ébène(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B5C0",
+    "en": "Petra Stone(*TERMINATOR*)",
+    "fr": "Pierre Petra(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B600",
+    "en": "Para Stone(*TERMINATOR*)",
+    "fr": "Pierre Para(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B640",
+    "en": "Poisma Stone(*TERMINATOR*)",
+    "fr": "Pierre Poisma(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B680",
+    "en": "Nerve Stone(*TERMINATOR*)",
+    "fr": "Pierre Nerve(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B6C0",
+    "en": "Falsehood Tablet(*TERMINATOR*)",
+    "fr": "Plaque du mensonge(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B700",
+    "en": "Light Wave Tablet(*TERMINATOR*)",
+    "fr": "Plaque onde claire(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B740",
+    "en": "Holy Writ Tablet(*TERMINATOR*)",
+    "fr": "Plaque écrit sacré(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B780",
+    "en": "Quarter Moon Tablet(*TERMINATOR*)",
+    "fr": "Plaque quart lune(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B7C0",
+    "en": "Half Moon Tablet(*TERMINATOR*)",
+    "fr": "Plaque demi-lune(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B800",
+    "en": "Posumudi Stone(*TERMINATOR*)",
+    "fr": "Pierre Posumudi(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B840",
+    "en": "Paraladi Stone(*TERMINATOR*)",
+    "fr": "Pierre Paraladi(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B880",
+    "en": "Petradi Stone(*TERMINATOR*)",
+    "fr": "Pierre Petradi(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B8C0",
+    "en": "Nervundi Stone(*TERMINATOR*)",
+    "fr": "Pierre Nervundi(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B900",
+    "en": "Full Moon Tablet(*TERMINATOR*)",
+    "fr": "Plaque pleine lune(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B940",
+    "en": "Verity Tablet(*TERMINATOR*)",
+    "fr": "Plaque de vérité(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B980",
+    "en": "Alexandrite(*TERMINATOR*)",
+    "fr": "Alexandrite(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26B9C0",
+    "en": "Diamond(*TERMINATOR*)",
+    "fr": "Diamant(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BA00",
+    "en": "Sapphire(*TERMINATOR*)",
+    "fr": "Saphir(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BA40",
+    "en": "Emerald(*TERMINATOR*)",
+    "fr": "Émeraude(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BA80",
+    "en": "Ruby(*TERMINATOR*)",
+    "fr": "Rubis(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BAC0",
+    "en": "Pearl(*TERMINATOR*)",
+    "fr": "Perle(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BB00",
+    "en": "Tanzanite(*TERMINATOR*)",
+    "fr": "Tanzanite(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BB40",
+    "en": "Opal(*TERMINATOR*)",
+    "fr": "Opale(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BB80",
+    "en": "Amethyst(*TERMINATOR*)",
+    "fr": "Améthyste(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BBC0",
+    "en": "Garnet(*TERMINATOR*)",
+    "fr": "Grenat(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BC00",
+    "en": "Aquamarine(*TERMINATOR*)",
+    "fr": "Aigue-marine(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BC40",
+    "en": "Topaz(*TERMINATOR*)",
+    "fr": "Topaze(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BC80",
+    "en": "Moonstone(*TERMINATOR*)",
+    "fr": "Pierre de lune(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BCC0",
+    "en": "Malachite(*TERMINATOR*)",
+    "fr": "Malachite(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BD00",
+    "en": "Onyx(*TERMINATOR*)",
+    "fr": "Onyx(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BD40",
+    "en": "Turquoise(*TERMINATOR*)",
+    "fr": "Turquoise(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BD80",
+    "en": "Apple Pie(*TERMINATOR*)",
+    "fr": "Tarte aux pommes(*TERMINATOR*)",
+    "max": 19,
+    "_fixe": true
+  },
+  {
+    "id": "EBOOT.BIN:BE2:OFF_26BDC0",
+    "en": "AppIe Pie(*TERMINATOR*)",
+    "fr": "",
+    "max": 19,
+    "_fixe": true
+  }
+]
