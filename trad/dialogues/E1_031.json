@@ -66,8 +66,8 @@
     "id": "E1.BIN:209:0009",
     "locuteur": "Night Queen",
     "en": "I shall enshroud this world in black and{SAUT}white; nothingness and despair.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reine de la Nuit",
+    "fr": "J'envelopperai ce monde de noir et de{SAUT}blanc; de néant et de désespoir.{ATTENTE}"
   },
   {
     "id": "E1.BIN:209:0010",
@@ -206,471 +206,471 @@
     "id": "E2.BIN:000:0000",
     "locuteur": "Nanjo",
     "en": "What's the matter? Are the school gates{SAUT}closed?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Qu'y a-t-il? Les portes du lycée sont{SAUT}fermées?{ATTENTE}"
   },
   {
     "id": "E2.BIN:000:0001",
     "locuteur": "Nanjo",
     "en": "If we don't hurry, visiting hours at the{SAUT}hospital might end.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Si nous ne nous hâtons pas, les visites{SAUT}à l'hôpital seront terminées.{ATTENTE}"
   },
   {
     "id": "E2.BIN:000:0002",
     "locuteur": "Mark",
     "en": "Ugh, it's Hamya. I hate that guy...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ugh, c'est Hamya. Je déteste ce type...{ATTENTE}"
   },
   {
     "id": "E2.BIN:000:0003",
     "locuteur": "Mark",
     "en": "Cheese it, (*APELLIDO_HEROE*)!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "On file, (*APELLIDO_HEROE*)!{ATTENTE}"
   },
   {
     "id": "E2.BIN:000:0004",
     "locuteur": "Yukino",
     "en": "Tch... Isn't there one decent teacher here{SAUT}besides Ms. Saeko and the principal?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Tch... Il y a pas un prof correct ici à{SAUT}part Mme Saeko et la proviseure?{ATTENTE}"
   },
   {
     "id": "E2.BIN:000:0005",
     "locuteur": "Vice-Principal Hanya",
     "en": "Who told you kids that you could go{SAUT}through here?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Proviseur adjoint Hanya",
+    "fr": "Qui vous a dit que vous pouviez passer{SAUT}par ici?{ATTENTE}"
   },
   {
     "id": "E2.BIN:000:0006",
     "locuteur": "Vice-Principal Hanya",
     "en": "If you want to get outside, the school{SAUT}gates are there for a reason!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Proviseur adjoint Hanya",
+    "fr": "Si vous voulez sortir, le portail du{SAUT}lycée est là pour ça!{ATTENTE}"
   },
   {
     "id": "E2.BIN:000:0007",
     "locuteur": "Vice-Principal Hanya",
     "en": "Our school's swarming with degenerates{SAUT}like you! Ooishi is far too lenient!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Proviseur adjoint Hanya",
+    "fr": "Notre lycée grouille de dégénérés comme{SAUT}vous! Ooishi est bien trop laxiste!{ATTENTE}"
   },
   {
     "id": "E2.BIN:000:0008",
     "locuteur": "Vice-Principal Hanya",
     "en": "Now get outta here! I'm going to call{SAUT}a specialist and have this blocked off!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Proviseur adjoint Hanya",
+    "fr": "Dehors! Je vais appeler un spécialiste{SAUT}pour faire boucher ce passage!{ATTENTE}"
   },
   {
     "id": "E2.BIN:000:0010",
     "locuteur": "Vice-Principal Hanya",
     "en": "You there! I TOLD you not to use{SAUT}this place!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Proviseur adjoint Hanya",
+    "fr": "Vous là! Je vous ai DIT de ne pas{SAUT}utiliser cet endroit!{ATTENTE}"
   },
   {
     "id": "E2.BIN:001:0000",
     "locuteur": "Meek girl",
     "en": "Um... (*APELLIDO_HEROE*)? You're going to the{SAUT}hospital, right...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Fille timide",
+    "fr": "Euh... (*APELLIDO_HEROE*)? Tu vas à{SAUT}l'hôpital, c'est ça...?{ATTENTE}"
   },
   {
     "id": "E2.BIN:001:0001",
     "en": "{FERME}   (*TEXTBOX_PARAM,0300*)> Yuko Himeno{SAUT}Maki's friend. She works part-time to{SAUT}support her family.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}   (*TEXTBOX_PARAM,0300*)> Yuko Himeno{SAUT}Amie de Maki. Elle travaille à mi-temps{SAUT}pour aider sa famille.{ATTENTE}"
   },
   {
     "id": "E2.BIN:001:0002",
     "locuteur": "Yuko",
     "en": "Um, I hate to ask, but...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yuko",
+    "fr": "Euh, désolée de demander, mais...{ATTENTE}"
   },
   {
     "id": "E2.BIN:001:0003",
     "locuteur": "Yuko",
     "en": "Could you tell Maki I'll give back that{SAUT}book next time I go visit her...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yuko",
+    "fr": "Tu pourrais dire à Maki que je lui rends{SAUT}son livre à ma prochaine visite...?{ATTENTE}"
   },
   {
     "id": "E2.BIN:001:0004",
     "locuteur": "Yuko",
     "en": "U-Um, thanks. I'm sorry to ask you to{SAUT}go out of your way like that...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yuko",
+    "fr": "E-Euh, merci. Désolée de te faire faire{SAUT}un détour comme ça...{ATTENTE}"
   },
   {
     "id": "E2.BIN:001:0005",
     "locuteur": "Yuko",
     "en": "O-Oh... Um, sorry I asked... It's okay,{SAUT}don't worry about it...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yuko",
+    "fr": "O-Oh... Euh, pardon d'avoir demandé...{SAUT}C'est rien, t'inquiète pas...!{ATTENTE}"
   },
   {
     "id": "E2.BIN:001:0006",
     "locuteur": "Yukino",
     "en": "(*APELLIDO_HEROE*)! Don't be such an asshole!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "(*APELLIDO_HEROE*)! Fais pas le con!{ATTENTE}"
   },
   {
     "id": "E2.BIN:001:0007",
     "locuteur": "Yuko",
     "en": "It was a really good book, so I wanted{SAUT}to read it again before I return it...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yuko",
+    "fr": "C'était un très bon livre, je voulais{SAUT}le relire avant de le rendre...{ATTENTE}"
   },
   {
     "id": "E2.BIN:001:0008",
     "locuteur": "Mark",
     "en": "That good, huh? What's it called?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Si bon que ça? Il s'appelle comment?{ATTENTE}"
   },
   {
     "id": "E2.BIN:001:0009",
     "locuteur": "Yuko",
     "en": "U-Um, \"Gate to Paradise\"...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yuko",
+    "fr": "E-Euh, \"La Porte du Paradis\"...{ATTENTE}"
   },
   {
     "id": "E2.BIN:001:0010",
     "locuteur": "Mark",
     "en": "Whoa, that's deep! I didn't know Maki{SAUT}was into that kinda thing...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ouah, c'est profond! Je savais pas que{SAUT}Maki aimait ce genre de truc...{ATTENTE}"
   },
   {
     "id": "E2.BIN:001:0011",
     "locuteur": "Nanjo",
     "en": "If you enjoyed it that much, why not{SAUT}simply buy your own copy?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Si vous l'avez tant apprécié, pourquoi{SAUT}ne pas en acheter un exemplaire?{ATTENTE}"
   },
   {
     "id": "E2.BIN:001:0012",
     "locuteur": "Yuko",
     "en": "W-Well... It's kind of expensive... and{SAUT}my brothers and sisters need new clothes.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yuko",
+    "fr": "E-Enfin... C'est un peu cher... et mes{SAUT}frères et soeurs ont besoin d'habits.{ATTENTE}"
   },
   {
     "id": "E2.BIN:001:0013",
     "locuteur": "Yukino",
     "en": "Nanjo, you moron! Don't you know she{SAUT}works part-time to help her family out?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Nanjo, espèce d'idiot! Tu sais pas{SAUT}qu'elle bosse pour aider sa famille?{ATTENTE}"
   },
   {
     "id": "E2.BIN:001:0014",
     "locuteur": "Mark",
     "en": "Alright, well, we gotta get goin', but{SAUT}we'll be sure to pass on your message!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Bon, on doit filer, mais on passera{SAUT}ton message, promis!{ATTENTE}"
   },
   {
     "id": "E2.BIN:001:0015",
     "locuteur": "Yuko",
     "en": "U-Um... Did you tell Maki...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yuko",
+    "fr": "E-Euh... Tu as dit à Maki...?{ATTENTE}"
   },
   {
     "id": "E2.BIN:001:0016",
     "locuteur": "Yukino",
     "en": "Uh, sorry, not yet. But we're going soon,{SAUT}promise.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Euh, désolée, pas encore. Mais on y va{SAUT}bientôt, promis.{ATTENTE}"
   },
   {
     "id": "E2.BIN:001:0017",
     "locuteur": "Yukino",
     "en": "...Hey (*APELLIDO_HEROE*)! Let's get to the{SAUT}hospital already!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "...Hé (*APELLIDO_HEROE*)! On va à{SAUT}l'hôpital, maintenant!{ATTENTE}"
   },
   {
     "id": "E2.BIN:002:0000",
     "locuteur": "Nanjo",
     "en": "Reiji Kido, eh...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Reiji Kido, hein...?{ATTENTE}"
   },
   {
     "id": "E2.BIN:002:0001",
     "locuteur": "Nanjo",
     "en": "He keeps to himself... I feel as though{SAUT}he does so deliberately.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Il reste dans son coin... J'ai le{SAUT}sentiment qu'il le fait exprès.{ATTENTE}"
   },
   {
     "id": "E2.BIN:002:0002",
     "locuteur": "Mark",
     "en": "That girl's supposedly got a thing{SAUT}for Reiji...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Il paraît que cette fille a un faible{SAUT}pour Reiji...{ATTENTE}"
   },
   {
     "id": "E2.BIN:002:0003",
     "locuteur": "Mark",
     "en": "Not that I'm jealous or anything!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Pas que je sois jaloux, hein!{ATTENTE}"
   },
   {
     "id": "E2.BIN:002:0004",
     "locuteur": "Yukino",
     "en": "We don't have time to deal with this{SAUT}nonsense. Let's get to the hospital.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "On a pas le temps pour ces bêtises.{SAUT}Allons à l'hôpital.{ATTENTE}"
   },
   {
     "id": "E2.BIN:002:0005",
     "locuteur": "Smitten girl",
     "en": "Um, there's a guy named Reiji in your{SAUT}class, right?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Amoureuse",
+    "fr": "Euh, il y a un gars qui s'appelle Reiji{SAUT}dans ta classe, non?{ATTENTE}"
   },
   {
     "id": "E2.BIN:002:0006",
     "locuteur": "Smitten girl",
     "en": "No matter how much I hang around your{SAUT}homeroom at break or after school...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Amoureuse",
+    "fr": "J'ai beau traîner devant votre salle à{SAUT}la récré ou après les cours...{ATTENTE}"
   },
   {
     "id": "E2.BIN:002:0007",
     "locuteur": "Smitten girl",
     "en": "I never see him! How am I supposed to{SAUT}strike up a conversation?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Amoureuse",
+    "fr": "Je le vois jamais! Comment je suis{SAUT}censée lui parler?{ATTENTE}"
   },
   {
     "id": "E2.BIN:002:0008",
     "locuteur": "Smitten girl",
     "en": "That romantic air of mystery he has...{SAUT}Ooooh! But yeah...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Amoureuse",
+    "fr": "Cet air de mystère romantique qu'il a...{SAUT}Oooh! Mais bon...{ATTENTE}"
   },
   {
     "id": "E2.BIN:003:0000",
     "locuteur": "Nanjo",
     "en": "It's true that not even I think Chisato{SAUT}has an especially attractive personality.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Il est vrai que même moi ne trouve pas{SAUT}Chisato d'un caractère attachant.{ATTENTE}"
   },
   {
     "id": "E2.BIN:003:0001",
     "locuteur": "Nanjo",
     "en": "It seemed as if she was dating Yosuke to{SAUT}show off as much as anything.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "On aurait dit qu'elle sortait avec{SAUT}Yosuke surtout pour se montrer.{ATTENTE}"
   },
   {
     "id": "E2.BIN:003:0002",
     "locuteur": "Mark",
     "en": "Yosuke's handsome and a nice guy. I hate{SAUT}to admit it, but he's hard to beat!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Yosuke est beau et sympa. Ça me coûte,{SAUT}mais il est dur à battre!{ATTENTE}"
   },
   {
     "id": "E2.BIN:003:0003",
     "locuteur": "Yukino",
     "en": "I was surprised too when Chisato started{SAUT}dating Yosuke.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "J'ai été surprise aussi quand Chisato{SAUT}a commencé à sortir avec Yosuke.{ATTENTE}"
   },
   {
     "id": "E2.BIN:003:0004",
     "locuteur": "Yukino",
     "en": "It was so sudden... Chisato never acted{SAUT}like she cared about him before.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "C'était si soudain... Chisato avait{SAUT}jamais eu l'air de s'intéresser à lui.{ATTENTE}"
   },
   {
     "id": "E2.BIN:003:0005",
     "locuteur": "Yukino",
     "en": "Actually, I always thought Ma--{PAUSE}[3000]{SAUT}Hey, shouldn't we get going?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "En fait, j'ai toujours pensé que Ma--{PAUSE}[3000]{SAUT}Hé, on devrait pas y aller?{ATTENTE}"
   },
   {
     "id": "E2.BIN:003:0006",
     "locuteur": "Female student",
     "en": "Uh, isn't it time you gave up on Yosuke?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Il serait pas temps d'oublier Yosuke?{ATTENTE}"
   },
   {
     "id": "E2.BIN:003:0007",
     "locuteur": "Female student",
     "en": "He obviously ran off with his girlfriend!{SAUT}C'mon, it's been two months already!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Il s'est clairement enfui avec sa copine!{SAUT}Allez, ça fait deux mois déjà!{ATTENTE}"
   },
   {
     "id": "E2.BIN:003:0008",
     "locuteur": "Female student",
     "en": "Yosuke was popular with the girls,{SAUT}but no one's seen him in two months.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Yosuke avait du succès avec les filles,{SAUT}mais personne l'a vu depuis deux mois.{ATTENTE}"
   },
   {
     "id": "E2.BIN:003:0009",
     "locuteur": "Female student",
     "en": "That's a lie! That Chisato bitch{SAUT}tricked him!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "C'est un mensonge! Cette garce de{SAUT}Chisato l'a piégé!{ATTENTE}"
   },
   {
     "id": "E2.BIN:003:0010",
     "locuteur": "Female student",
     "en": "Everyone knows that girl's bad news!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Tout le monde sait qu'elle est mauvaise!{ATTENTE}"
   },
   {
     "id": "E2.BIN:003:0011",
     "locuteur": "Female student",
     "en": "Wasn't Yosuke best friends with Maki?{SAUT}If you're visiting her, ask her about it!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Yosuke était pas le meilleur ami de{SAUT}Maki? Si tu la vois, demande-lui!{ATTENTE}"
   },
   {
     "id": "E2.BIN:004:0000",
     "locuteur": "Nanjo",
     "en": "I believe I've asked this before, but{SAUT}shouldn't we be going to the hospital?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Je crois l'avoir déjà demandé, mais ne{SAUT}devrions-nous pas aller à l'hôpital?{ATTENTE}"
   },
   {
     "id": "E2.BIN:004:0001",
     "locuteur": "Mark",
     "en": "Toro's got balls, man! I mean, asking{SAUT}out Ayase!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Toro a du cran, mec! Inviter Ayase,{SAUT}quand même!?{ATTENTE}"
   },
   {
     "id": "E2.BIN:004:0002",
     "locuteur": "Mark",
     "en": "Dude... I wouldn't go after her in a{SAUT}million years!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Mec... J'irais pas la draguer même dans{SAUT}un million d'années!{ATTENTE}"
   },
   {
     "id": "E2.BIN:004:0003",
     "locuteur": "Yukino",
     "en": "I hate guys who see someone who's serious{SAUT}about something and just make fun of it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Je déteste les gars qui voient quelqu'un{SAUT}de sincère et se moquent de lui.{ATTENTE}"
   },
   {
     "id": "E2.BIN:004:0004",
     "locuteur": "Toro",
     "en": "I-I had a weird dream! There was this{SAUT}girl, and she was saying, \"Help me...\"{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "J-J'ai fait un rêve bizarre! Il y avait{SAUT}une fille qui disait \"Aide-moi...\"{ATTENTE}"
   },
   {
     "id": "E2.BIN:004:0005",
     "locuteur": "Toro",
     "en": "Was it a vision? Is there really a girl{SAUT}waiting for me to rescue her?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "C'était une vision? Il y a vraiment une{SAUT}fille qui attend que je la sauve?{ATTENTE}"
   },
   {
     "id": "E2.BIN:004:0006",
     "locuteur": "Toro",
     "en": "W-Wow... that's awesome...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Toro",
+    "fr": "O-Ouah... c'est génial...{ATTENTE}"
   },
   {
     "id": "E2.BIN:004:0007",
     "en": "{FERME} (*TEXTBOX_PARAM,0200*)> Kenta Yokouchi (Nickname: Toro){SAUT}His love of food has made him physically{SAUT}strong, but emotionally fragile.(*TEXTBOX_PARAM,0000*){ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} (*TEXTBOX_PARAM,0200*)> Kenta Yokouchi (Surnom : Toro){SAUT}Son amour de la nourriture l'a rendu{SAUT}fort de corps, mais fragile de coeur.(*TEXTBOX_PARAM,0000*){ATTENTE}"
   },
   {
     "id": "E2.BIN:004:0008",
     "locuteur": "Well-informed student",
     "en": "Dude, guess what I saw! Toro asked out{SAUT}Ayase and got rejected on the spot!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève au courant",
+    "fr": "Mec, devine ce que j'ai vu! Toro a{SAUT}invité Ayase et s'est fait jeter net!{ATTENTE}"
   },
   {
     "id": "E2.BIN:004:0009",
     "locuteur": "Well-informed student",
     "en": "I hear he's still following her around,{SAUT}though.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève au courant",
+    "fr": "Il paraît qu'il la suit encore partout,{SAUT}pourtant.{ATTENTE}"
   },
   {
     "id": "E2.BIN:004:0010",
     "en": "{FERME} > The lunchlady seems to have already{SAUT}gone home.{ATTENTE}",
-    "fr": "",
+    "fr": "{FERME} > La dame de la cantine semble{SAUT}déjà rentrée.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:005:0000",
     "locuteur": "Nanjo",
     "en": "I'm not interested in this sort of{SAUT}foolishness.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Ce genre de sottise ne{SAUT}m'intéresse pas.{ATTENTE}"
   },
   {
     "id": "E2.BIN:005:0001",
     "locuteur": "Mark",
     "en": "Guys our age tend to go for older women.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Les gars de notre âge visent les aînées.{ATTENTE}"
   },
   {
     "id": "E2.BIN:005:0002",
     "locuteur": "Yukino",
     "en": "Seriously, guys, the sun's going down.{SAUT}Are we going to the hospital or not?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Sérieusement, les gars, le soleil se{SAUT}couche. On va à l'hôpital ou pas?{ATTENTE}"
   },
   {
     "id": "E2.BIN:005:0003",
     "locuteur": "Brown-haired student",
     "en": "Nurse Natsumi is hot as hell! I love that{SAUT}mature air she has...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève châtain",
+    "fr": "L'infirmière Natsumi est canon! J'adore{SAUT}cet air mature qu'elle a...{ATTENTE}"
   },
   {
     "id": "E2.BIN:005:0004",
     "locuteur": "Brown-haired student",
     "en": "Urk! P-Please... not that... I'm sorry!{SAUT}I shouldn't have said anything!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève châtain",
+    "fr": "Urk! P-Pitié... pas ça... Désolé!{SAUT}J'aurais rien dû dire!{ATTENTE}"
   },
   {
     "id": "E2.BIN:005:0005",
     "locuteur": "Brown-haired student",
     "en": "Even if she's a bad cook, you could just{SAUT}live off convenience store food.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève châtain",
+    "fr": "Même si elle cuisine mal, tu pourrais{SAUT}vivre de plats de supérette.{ATTENTE}"
   },
   {
     "id": "E2.BIN:005:0006",
     "locuteur": "Girl with braids",
     "en": "Oh, reaaaaally!? Then why don't you have{SAUT}her pack your lunches from now on?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Fille à tresses",
+    "fr": "Ah ouaaaais!? Alors pourquoi tu lui{SAUT}demandes pas de préparer tes repas?{ATTENTE}"
   },
   {
     "id": "E2.BIN:005:0007",
     "locuteur": "Girl with braids",
     "en": "That reminds me, I heard Nurse Natsumi{SAUT}just had a breakup. I wonder why?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Fille à tresses",
+    "fr": "Ça me rappelle, j'ai entendu que{SAUT}l'infirmière Natsumi a rompu. Pourquoi?{ATTENTE}"
   }
 ]
