@@ -3,52 +3,52 @@
     "id": "E1.BIN:013:0003",
     "locuteur": "Mysterious butterfly",
     "en": "This door leads to (*TEXTBOX_PARAM,0700*)Thanatos Tower(*TEXTBOX_PARAM,0000*), one of{SAUT}the three towers surrounding this school.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Cette porte mène à la (*TEXTBOX_PARAM,0700*)Tour Thanatos(*TEXTBOX_PARAM,0000*), une{SAUT}des trois tours qui entourent ce lycée.{ATTENTE}"
   },
   {
     "id": "E1.BIN:013:0004",
     "locuteur": "Mysterious butterfly",
     "en": "This tower is filled with immensely{SAUT}powerful demons.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Cette tour est remplie de démons d'une{SAUT}puissance immense.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:013:0005",
     "locuteur": "Mysterious butterfly",
     "en": "Gathering the Mirror Shards here will be{SAUT}a formidable task indeed.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Rassembler les Fragments de Miroir ici{SAUT}sera une tâche redoutable.{ATTENTE}"
   },
   {
     "id": "E1.BIN:013:0009",
     "locuteur": "Mysterious butterfly",
     "en": "This is the entrance to (*TEXTBOX_PARAM,0700*)Thanatos Tower(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Voici l'entrée de la (*TEXTBOX_PARAM,0700*)Tour Thanatos(*TEXTBOX_PARAM,0000*).{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:013:0010",
     "locuteur": "Mysterious butterfly",
     "en": "Of the three masters, Thanatos is{SAUT}possessed of the strongest will.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Des trois maîtres, Thanatos est celui{SAUT}dont la volonté est la plus forte.{ATTENTE}"
   },
   {
     "id": "E1.BIN:013:0011",
     "locuteur": "Mysterious butterfly",
     "en": "Be fully prepared for the menace within.{SAUT}Though you may be equal to the task...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Prépare-toi bien à la menace qui y rôde.{SAUT}Tu es peut-être de taille, pourtant...{ATTENTE}"
   },
   {
     "id": "E1.BIN:013:0016",
     "locuteur": "Mysterious butterfly",
     "en": "Your chances of survival are low, but if{SAUT}you insist on going, I will not stop you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Tes chances de survie sont minces, mais{SAUT}si tu insistes, je ne t'arrêterai pas.{ATTENTE}"
   },
   {
     "id": "E1.BIN:013:0019",
@@ -74,94 +74,94 @@
   {
     "id": "E1.BIN:013:0022",
     "en": "{FERME}> The door is frozen shut. A heavy,{SAUT}cold draft can be felt from beyond...{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}> La porte est gelée. Un courant{SAUT}d'air lourd et froid vient d'au-delà...{ATTENTE}"
   },
   {
     "id": "E1.BIN:013:0023",
     "en": "{FERME} > A heavy, cold draft can be felt{SAUT}from beyond the door.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} > Un courant d'air lourd et froid{SAUT}vient d'au-delà de la porte.{ATTENTE}"
   },
   {
     "id": "E1.BIN:013:0024",
     "en": "{FERME}   > Enter Thanatos Tower?{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}   > Entrer dans la Tour Thanatos?{ATTENTE}"
   },
   {
     "id": "E1.BIN:013:0025",
     "locuteur": "Yukino",
     "en": "What an awful feeling... The air here is{SAUT}as bad as the hospital basement.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Quelle horreur... L'air ici est aussi{SAUT}mauvais qu'au sous-sol de l'hôpital.{ATTENTE}"
   },
   {
     "id": "E1.BIN:013:0026",
     "locuteur": "Yukino",
     "en": "Even with Yuriko gone, the air here is{SAUT}still cold.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Même sans Yuriko, l'air ici reste{SAUT}glacial.{ATTENTE}"
   },
   {
     "id": "E1.BIN:013:0027",
     "locuteur": "Ayase",
     "en": "It's soooo cooooold... Ow, my{SAUT}lower back...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Il fait si froooid... Aïe, mes{SAUT}reins...{ATTENTE}"
   },
   {
     "id": "E1.BIN:013:0028",
     "locuteur": "Ayase",
     "en": "I'm hungry... how much longer is this{SAUT}gonna take?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "J'ai faim... ça va durer encore{SAUT}longtemps?{ATTENTE}"
   },
   {
     "id": "E1.BIN:013:0029",
     "locuteur": "Nanjo",
     "en": "Hm. Better weapons would be nice.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Hm. De meilleures armes seraient utiles.{ATTENTE}"
   },
   {
     "id": "E1.BIN:013:0030",
     "locuteur": "Nanjo",
     "en": "A god of death... That's one Persona{SAUT}I'd as soon not assume.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Un dieu de la mort... Voilà un Persona{SAUT}que je préférerais ne pas endosser.{ATTENTE}"
   },
   {
     "id": "E1.BIN:013:0031",
     "locuteur": "Brown",
     "en": "Wow, it's FREEZING here! I think it's{SAUT}even colder than the other classrooms!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Ouah, ça GÈLE ici! Je crois qu'il fait{SAUT}encore plus froid que dans les classes!{ATTENTE}"
   },
   {
     "id": "E1.BIN:013:0032",
     "locuteur": "Brown",
     "en": "Ah... ah... ACHOO! Argh! We really need{SAUT}to get rid of all this stupid ice!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Ah... ah... ATCHOUM! Argh! Il faut{SAUT}vraiment virer toute cette glace!{ATTENTE}"
   },
   {
     "id": "E1.BIN:013:0033",
     "locuteur": "Elly",
     "en": "Hm... Thanatos Tower...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Hm... La Tour Thanatos...{ATTENTE}"
   },
   {
     "id": "E1.BIN:013:0034",
     "locuteur": "Elly",
     "en": "Thanatos is the Greek god of death.{SAUT}Not someone you'd want as a friend...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Thanatos est le dieu grec de la mort.{SAUT}Pas le genre d'ami qu'on se souhaite...{ATTENTE}"
   },
   {
     "id": "E1.BIN:013:0035",
     "locuteur": "Elly",
     "en": "The desire to remain beautiful... I can{SAUT}somewhat understand how Yuriko felt.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Ce désir de rester belle... Je comprends{SAUT}un peu ce que Yuriko ressentait.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0000",
@@ -181,8 +181,8 @@
     "id": "E1.BIN:033:0002",
     "locuteur": "Yukino",
     "en": "What are they doing here? Weren't they{SAUT}back at school? ＊gasp＊ No way...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Qu'est-ce qu'ils font ici? Ils étaient{SAUT}pas au lycée? ＊sursaut＊ Pas possible...!{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0003",
@@ -230,15 +230,15 @@
     "id": "E1.BIN:033:0009",
     "locuteur": "Tadashi",
     "en": "Zzzz... hrnk... {PAUSE}[1E00]lo... you... {PAUSE}[1E00]Tamaki...!{SAUT}Zzzz...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Zzzz... ronf... {PAUSE}[1E00]t'ai... me... {PAUSE}[1E00]Tamaki...!{SAUT}Zzzz...{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0010",
     "locuteur": "Yukino",
     "en": "T-Tamaki!? Is he talking in his sleep?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "T-Tamaki!? Il parle dans son sommeil?{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0011",
@@ -307,8 +307,8 @@
     "id": "E1.BIN:033:0020",
     "locuteur": "Tamaki",
     "en": "Zzzz... Mmmm... {PAUSE}[1E00]I love you...{PAUSE}[1E00]{SAUT}da... shi... {PAUSE}[1E00]Zzzz...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Zzzz... Mmmm... {PAUSE}[1E00]Je t'aime...{PAUSE}[1E00]{SAUT}da... shi... {PAUSE}[1E00]Zzzz...{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0021",
@@ -328,8 +328,8 @@
     "id": "E1.BIN:033:0023",
     "locuteur": "Nurse Natsumi",
     "en": "Zzzz... Hahaha... {PAUSE}[1E00]Now be a good boy...{PAUSE}[1E00]{SAUT}Clean your plate...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "Zzzz... Hahaha... {PAUSE}[1E00]Sois sage...{PAUSE}[1E00]{SAUT}Finis ton assiette...{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0024",
@@ -377,8 +377,8 @@
     "id": "E1.BIN:033:0030",
     "locuteur": "Ayase",
     "en": "＊yawn＊ I'm tired... I'm getting sleepy.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "＊bâillement＊ Fatiguée... J'ai sommeil.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0031",
@@ -398,8 +398,8 @@
     "id": "E1.BIN:033:0033",
     "locuteur": "Nanjo",
     "en": "..{PAUSE}[1E00]..{PAUSE}[1E00]..{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "..{PAUSE}[1E00]..{PAUSE}[1E00]..{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0034",
@@ -433,15 +433,15 @@
     "id": "E1.BIN:033:0038",
     "locuteur": "Brown",
     "en": "..{PAUSE}[1E00]..{PAUSE}[1E00]..{PAUSE}[1E00]{SAUT}...{PAUSE}[1E00]...{PAUSE}[1E00]Guh!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "..{PAUSE}[1E00]..{PAUSE}[1E00]..{PAUSE}[1E00]{SAUT}...{PAUSE}[1E00]...{PAUSE}[1E00]Gah!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0039",
     "locuteur": "Brown",
     "en": "What!? What is it!? I-I wasn't sleeping.{SAUT}Nope, not me.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Quoi!? Qu'est-ce qu'il y a!? Je-Je{SAUT}dormais pas. Non, pas moi.{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0040",
@@ -482,29 +482,29 @@
     "id": "E1.BIN:033:0045",
     "locuteur": "Tadashi",
     "en": "Zzzz... ＊hrnk＊... {PAUSE}[1E00]I'll always hold you{SAUT}close to me...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Zzzz... ＊ronf＊... {PAUSE}[1E00]Je te garderai{SAUT}toujours tout près de moi...{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0046",
     "locuteur": "Tamaki",
     "en": "Zzzz... {PAUSE}[1E00]I'll always be with you...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Zzzz... {PAUSE}[1E00]Je serai toujours avec toi...{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0047",
     "locuteur": "Nurse Natsumi",
     "en": "Zzzz... Mmmm... {PAUSE}[1E00]You won't escape this{SAUT}time... {PAUSE}[1E00]Now eat up...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "Zzzz... Mmmm... {PAUSE}[1E00]Tu ne m'échapperas{SAUT}pas cette fois... {PAUSE}[1E00]Mange tout...{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0048",
     "locuteur": "Nurse Natsumi",
     "en": "..{PAUSE}[1E00]..{PAUSE}[1E00]..!{SAUT}Ow ow ow, my head... Owwww...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "..{PAUSE}[1E00]..{PAUSE}[1E00]..!{SAUT}Aïe aïe aïe, ma tête... Aïïïe...{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0049",
@@ -517,17 +517,17 @@
     "id": "E1.BIN:033:0050",
     "locuteur": "Nurse Natsumi",
     "en": "...{PAUSE}[1E00]Anyway, be careful, guys...{SAUT}Ow ow ow...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "...{PAUSE}[1E00]Bref, faites attention...{SAUT}Aïe aïe aïe...{ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0051",
     "en": "{FERME}(*SCENE_END*)[0300]> Tamaki{SAUT}A transfer student who joined the Fencing{SAUT}Club. She's always arguing with Tadashi.(*SCENE_END*) {ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}(*SCENE_END*)[0300]> Tamaki{SAUT}Nouvelle élève qui a rejoint le club{SAUT}d'escrime. Elle se dispute avec Tadashi.(*SCENE_END*) {ATTENTE}"
   },
   {
     "id": "E1.BIN:033:0052",
     "en": "{FERME}   (*SCENE_END*)β> Tadashi{SAUT}A lazy member of the Fencing Club who{SAUT}quarrels with Tamaki every day.(*SCENE_END*) {ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}   (*SCENE_END*)β> Tadashi{SAUT}Membre paresseux du club d'escrime qui{SAUT}se dispute avec Tamaki tous les jours.(*SCENE_END*) {ATTENTE}"
   }
 ]
