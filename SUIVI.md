@@ -3,13 +3,13 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Dialogues      ██████████████████░░░░░░   74 %    6 355 / 8 572 textes
+Dialogues      ███████████████████████░   97 %    8 285 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
 Négociations   ████████████████████████  100 %   12 487 / 12 487 textes
 Noms           ████████████████████████  100 %      439 / 439 textes
 
-Total          ██████████████████████░░   91 %   22 367 / 24 584 textes
+Total          ████████████████████████   99 %   24 297 / 24 584 textes
 ```
 
 ## Poids à surveiller
@@ -183,35 +183,35 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_029.json`](trad/dialogues/E0_029.json) | 55 | 55 | 100 % | terminé |
 | [`E0_030.json`](trad/dialogues/E0_030.json) | 100 | 100 | 100 % | terminé |
 | [`E0_031.json`](trad/dialogues/E0_031.json) | 74 | 74 | 100 % | terminé |
-| [`E0_032.json`](trad/dialogues/E0_032.json) | 100 | 11 | 11 % | en cours par @CodeByHaamza (#117) |
+| [`E0_032.json`](trad/dialogues/E0_032.json) | 100 | 100 | 100 % | terminé |
 | [`E0_033.json`](trad/dialogues/E0_033.json) | 74 | 74 | 100 % | terminé |
-| [`E0_034.json`](trad/dialogues/E0_034.json) | 70 | 1 | 1 % | en cours par @CodeByHaamza (#117) |
+| [`E0_034.json`](trad/dialogues/E0_034.json) | 70 | 70 | 100 % | terminé |
 | [`E0_035.json`](trad/dialogues/E0_035.json) | 57 | 57 | 100 % | terminé par @DiCEO0 · 2 trop large |
 | [`E0_036.json`](trad/dialogues/E0_036.json) | 53 | 53 | 100 % | terminé |
-| [`E0_037.json`](trad/dialogues/E0_037.json) | 99 | 4 | 4 % | en cours par @CodeByHaamza (#117) |
-| [`E0_038.json`](trad/dialogues/E0_038.json) | 79 | 1 | 1 % | en cours par @CodeByHaamza (#117) |
+| [`E0_037.json`](trad/dialogues/E0_037.json) | 99 | 99 | 100 % | terminé |
+| [`E0_038.json`](trad/dialogues/E0_038.json) | 79 | 79 | 100 % | terminé |
 | [`E0_039.json`](trad/dialogues/E0_039.json) | 56 | 56 | 100 % | terminé |
-| [`E0_040.json`](trad/dialogues/E0_040.json) | 89 | 2 | 2 % | en cours par @CodeByHaamza (#117) |
+| [`E0_040.json`](trad/dialogues/E0_040.json) | 89 | 89 | 100 % | terminé |
 | [`E0_041.json`](trad/dialogues/E0_041.json) | 89 | 89 | 100 % | terminé par @Colonel-Maskou |
 | [`E0_042.json`](trad/dialogues/E0_042.json) | 82 | 82 | 100 % | terminé par @s3rei |
 | [`E0_043.json`](trad/dialogues/E0_043.json) | 100 | 100 | 100 % | terminé par @Colonel-Maskou · 1 terme |
 | [`E0_044.json`](trad/dialogues/E0_044.json) | 100 | 100 | 100 % | terminé · 2 trop large |
-| [`E0_045.json`](trad/dialogues/E0_045.json) | 100 | 30 | 30 % | en cours par @CodeByHaamza (#117) |
-| [`E0_046.json`](trad/dialogues/E0_046.json) | 92 | 12 | 13 % | en cours par @CodeByHaamza (#117) |
+| [`E0_045.json`](trad/dialogues/E0_045.json) | 100 | 100 | 100 % | terminé |
+| [`E0_046.json`](trad/dialogues/E0_046.json) | 92 | 92 | 100 % | terminé |
 | [`E0_047.json`](trad/dialogues/E0_047.json) | 69 | 69 | 100 % | terminé |
 | [`E0_048.json`](trad/dialogues/E0_048.json) | 50 | 50 | 100 % | terminé par @Gyotre, @ATMC14 |
 | [`E1_001.json`](trad/dialogues/E1_001.json) | 80 | 77 | 96 % | commencé · 2 trop large |
 | [`E1_002.json`](trad/dialogues/E1_002.json) | 100 | 99 | 99 % | commencé · 1 trop large |
 | [`E1_003.json`](trad/dialogues/E1_003.json) | 94 | 94 | 100 % | terminé |
-| [`E1_004.json`](trad/dialogues/E1_004.json) | 87 | 4 | 5 % | en cours par @CodeByHaamza (#117) |
-| [`E1_005.json`](trad/dialogues/E1_005.json) | 81 | 1 | 1 % | en cours par @CodeByHaamza (#117) |
+| [`E1_004.json`](trad/dialogues/E1_004.json) | 87 | 87 | 100 % | terminé |
+| [`E1_005.json`](trad/dialogues/E1_005.json) | 81 | 76 | 94 % | commencé |
 | [`E1_006.json`](trad/dialogues/E1_006.json) | 77 | 74 | 96 % | commencé |
-| [`E1_007.json`](trad/dialogues/E1_007.json) | 97 | 1 | 1 % | en cours par @CodeByHaamza (#117) |
+| [`E1_007.json`](trad/dialogues/E1_007.json) | 97 | 97 | 100 % | terminé |
 | [`E1_008.json`](trad/dialogues/E1_008.json) | 74 | 74 | 100 % | terminé par @vikmorp |
 | [`E1_009.json`](trad/dialogues/E1_009.json) | 75 | 75 | 100 % | terminé |
 | [`E1_010.json`](trad/dialogues/E1_010.json) | 63 | 63 | 100 % | terminé |
 | [`E1_011.json`](trad/dialogues/E1_011.json) | 87 | 87 | 100 % | terminé |
-| [`E1_012.json`](trad/dialogues/E1_012.json) | 83 | 1 | 1 % | en cours par @CodeByHaamza (#117) |
+| [`E1_012.json`](trad/dialogues/E1_012.json) | 83 | 83 | 100 % | terminé |
 | [`E1_013.json`](trad/dialogues/E1_013.json) | 60 | 60 | 100 % | terminé par @Uolil-Raccoon · 2 trop large |
 | [`E1_014.json`](trad/dialogues/E1_014.json) | 43 | 43 | 100 % | terminé |
 | [`E1_015.json`](trad/dialogues/E1_015.json) | 65 | 65 | 100 % | terminé |
@@ -222,34 +222,34 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E1_020.json`](trad/dialogues/E1_020.json) | 67 | 67 | 100 % | terminé |
 | [`E1_021.json`](trad/dialogues/E1_021.json) | 66 | 66 | 100 % | terminé par @vikmorp |
 | [`E1_022.json`](trad/dialogues/E1_022.json) | 95 | 95 | 100 % | terminé par @Uolil-Raccoon · 8 trop large |
-| [`E1_023.json`](trad/dialogues/E1_023.json) | 96 | 9 | 9 % | en cours par @CodeByHaamza (#117) |
-| [`E1_024.json`](trad/dialogues/E1_024.json) | 93 | 1 | 1 % | en cours par @CodeByHaamza (#117) |
+| [`E1_023.json`](trad/dialogues/E1_023.json) | 96 | 96 | 100 % | terminé |
+| [`E1_024.json`](trad/dialogues/E1_024.json) | 93 | 93 | 100 % | terminé |
 | [`E1_025.json`](trad/dialogues/E1_025.json) | 86 | 86 | 100 % | terminé par @Uolil-Raccoon · 4 trop large |
 | [`E1_026.json`](trad/dialogues/E1_026.json) | 97 | 97 | 100 % | terminé · 5 trop large |
-| [`E1_027.json`](trad/dialogues/E1_027.json) | 89 | 8 | 9 % | en cours par @CodeByHaamza (#117) |
+| [`E1_027.json`](trad/dialogues/E1_027.json) | 89 | 89 | 100 % | terminé |
 | [`E1_028.json`](trad/dialogues/E1_028.json) | 79 | 79 | 100 % | terminé · 1 trop large |
-| [`E1_029.json`](trad/dialogues/E1_029.json) | 99 | 23 | 23 % | en cours par @CodeByHaamza (#117) |
+| [`E1_029.json`](trad/dialogues/E1_029.json) | 99 | 99 | 100 % | terminé |
 | [`E1_030.json`](trad/dialogues/E1_030.json) | 96 | 96 | 100 % | terminé · 2 trop large |
-| [`E1_031.json`](trad/dialogues/E1_031.json) | 97 | 28 | 29 % | en cours par @CodeByHaamza (#117) · 1 trop large |
+| [`E1_031.json`](trad/dialogues/E1_031.json) | 97 | 97 | 100 % | terminé · 1 trop large |
 | [`E2_001.json`](trad/dialogues/E2_001.json) | 95 | 95 | 100 % | terminé |
 | [`E2_002.json`](trad/dialogues/E2_002.json) | 100 | 100 | 100 % | terminé |
-| [`E2_003.json`](trad/dialogues/E2_003.json) | 96 | 7 | 7 % | en cours par @CodeByHaamza (#117) |
-| [`E2_004.json`](trad/dialogues/E2_004.json) | 97 | 4 | 4 % | en cours par @CodeByHaamza (#117) |
+| [`E2_003.json`](trad/dialogues/E2_003.json) | 96 | 96 | 100 % | terminé |
+| [`E2_004.json`](trad/dialogues/E2_004.json) | 97 | 97 | 100 % | terminé |
 | [`E2_005.json`](trad/dialogues/E2_005.json) | 92 | 92 | 100 % | terminé · 1 trop large |
 | [`E2_006.json`](trad/dialogues/E2_006.json) | 92 | 92 | 100 % | terminé |
-| [`E2_007.json`](trad/dialogues/E2_007.json) | 99 | 7 | 7 % | en cours par @CodeByHaamza (#117) |
+| [`E2_007.json`](trad/dialogues/E2_007.json) | 99 | 99 | 100 % | terminé |
 | [`E2_008.json`](trad/dialogues/E2_008.json) | 99 | 99 | 100 % | terminé |
 | [`E2_009.json`](trad/dialogues/E2_009.json) | 97 | 97 | 100 % | terminé |
 | [`E2_010.json`](trad/dialogues/E2_010.json) | 97 | 0 | 0 % | en cours par @Uolil-Raccoon (#87) |
 | [`E2_011.json`](trad/dialogues/E2_011.json) | 90 | 0 | 0 % | libre |
-| [`E2_012.json`](trad/dialogues/E2_012.json) | 91 | 4 | 4 % | en cours par @CodeByHaamza (#117) |
+| [`E2_012.json`](trad/dialogues/E2_012.json) | 91 | 91 | 100 % | terminé |
 | [`E2_013.json`](trad/dialogues/E2_013.json) | 88 | 0 | 0 % | libre |
 | [`E2_014.json`](trad/dialogues/E2_014.json) | 95 | 95 | 100 % | terminé |
 | [`E2_015.json`](trad/dialogues/E2_015.json) | 91 | 91 | 100 % | terminé · 3 trop large |
-| [`E2_016.json`](trad/dialogues/E2_016.json) | 100 | 3 | 3 % | en cours par @CodeByHaamza (#117) |
+| [`E2_016.json`](trad/dialogues/E2_016.json) | 100 | 100 | 100 % | terminé |
 | [`E2_017.json`](trad/dialogues/E2_017.json) | 80 | 80 | 100 % | terminé · 7 trop large |
-| [`E3_001.json`](trad/dialogues/E3_001.json) | 93 | 14 | 15 % | en cours par @CodeByHaamza (#117) |
-| [`E3_002.json`](trad/dialogues/E3_002.json) | 97 | 13 | 13 % | en cours par @CodeByHaamza (#117) |
+| [`E3_001.json`](trad/dialogues/E3_001.json) | 93 | 93 | 100 % | terminé |
+| [`E3_002.json`](trad/dialogues/E3_002.json) | 97 | 97 | 100 % | terminé |
 | [`E3_003.json`](trad/dialogues/E3_003.json) | 70 | 70 | 100 % | terminé |
 | [`E3_004.json`](trad/dialogues/E3_004.json) | 95 | 95 | 100 % | terminé · 1 trop large |
 | [`E3_005.json`](trad/dialogues/E3_005.json) | 97 | 97 | 100 % | terminé · 4 trop large |
