@@ -3,531 +3,531 @@
     "id": "E3.BIN:005:0000",
     "locuteur": "Male student",
     "en": "Huh? What's with this song!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Hein? C'est quoi cette chanson!?{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0001",
     "locuteur": "Male student",
     "en": "It's all going to hell outside, but it's{SAUT}hard to be nervous with this store around.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Tout part en enfer dehors, mais dur{SAUT}d'être inquiet avec cette boutique.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0002",
     "locuteur": "Clerk",
     "en": "Hello. Thanks for always being nice to{SAUT}my great-grandson.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Vendeur",
+    "fr": "Bonjour. Merci d'être toujours gentils{SAUT}avec mon arrière-petit-fils.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0003",
     "locuteur": "Clerk",
     "en": "I'm always watching from up above.{SAUT}Heeheehee!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Vendeur",
+    "fr": "Je regarde toujours d'en haut.{SAUT}Hihihi!{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0004",
     "locuteur": "Clerk",
     "en": "Well! Rather chilly outside, isn't it?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Vendeur",
+    "fr": "Eh bien! Il fait frisquet dehors, non?{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0005",
     "locuteur": "Yukino",
     "en": "What's with the old guy? And what does{SAUT}he mean by \"up above\"?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "C'est quoi ce vieux? Et ça veut dire{SAUT}quoi, \"d'en haut\"?{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0006",
     "locuteur": "Yukino",
     "en": "And never mind that--why's there a{SAUT}pharmacy here at school!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Et peu importe ça--pourquoi il y a une{SAUT}pharmacie ici, au lycée!?{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0007",
     "locuteur": "Yukino",
     "en": "Where'd this store pop up from?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "D'où elle sort, cette boutique?{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0008",
     "locuteur": "Ayase",
     "en": "Ooooooh! A frog! Sooooo cuuuute!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Ooooooh! Une grenouille! Trop mignonne!{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0009",
     "locuteur": "Ayase",
     "en": "I want this frog. Buy it for me, Daddy!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Je la veux. Achète-la-moi, papa!{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0010",
     "locuteur": "Nanjo",
     "en": "Why is there a pharmacy here...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Pourquoi y a-t-il une pharmacie ici...?{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0011",
     "locuteur": "Nanjo",
     "en": "Is this a legitimate place of business?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Est-ce un commerce légitime?{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0012",
     "locuteur": "Brown",
     "en": "No's-Bleed Z... Sounds like that'll{SAUT}do the trick, all right.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Saigne-du-Nez Z... Ça a l'air de faire{SAUT}l'affaire, en effet.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0013",
     "locuteur": "Brown",
     "en": "Maybe I should buy up all the No's-Bleed Z{SAUT}before things go back to normal...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Je devrais racheter tout le Saigne-du-Nez{SAUT}Z avant que tout redevienne normal...{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0014",
     "locuteur": "Elly",
     "en": "So many suspicious medicines... I hope{SAUT}they aren't harmful to one's health.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Tant de médicaments douteux... J'espère{SAUT}qu'ils ne nuisent pas à la santé.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0015",
     "locuteur": "Elly",
     "en": "Aren't there more ordinary medicines,{SAUT}for everyday use?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "N'y a-t-il pas des médicaments plus{SAUT}ordinaires, pour l'usage courant?{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0016",
     "locuteur": "Frog",
     "en": "You're talking to a frog. A complete{SAUT}stranger frog, at that. You must be bored.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Grenouille",
+    "fr": "Tu parles à une grenouille. Et à une{SAUT}inconnue. Tu dois t'ennuyer.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0017",
     "locuteur": "Frog",
     "en": "I respect your curiosity. Here's a sample{SAUT}recommended by Satomi Tadashi himself.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Grenouille",
+    "fr": "Je respecte ta curiosité. Un échantillon{SAUT}recommandé par Satomi Tadashi.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0018",
     "en": "{FERME} > Obtained (*TEXTBOX_STYLE*) (*TEXTBOX_PARAM,0500*)Muscle Drink(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} > (*TEXTBOX_STYLE*) (*TEXTBOX_PARAM,0500*)Boisson muscle(*TEXTBOX_PARAM,0000*) obtenue.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0019",
     "locuteur": "Frog",
     "en": "Sample Muscle Drink. That is my, Frog's,{SAUT}essence. It's pure love for you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Grenouille",
+    "fr": "Boisson muscle en échantillon. C'est mon{SAUT}essence, à moi, Grenouille. De l'amour.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0020",
     "locuteur": "Frog",
     "en": "Hmm. Missing a syllable.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Grenouille",
+    "fr": "Hmm. Il manque une syllabe.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0021",
     "locuteur": "Frog",
     "en": "N-No way. You have more than I do.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Grenouille",
+    "fr": "N-Non. Tu en as plus que moi.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0022",
     "locuteur": "Frog",
     "en": "Rude to try to bum more from me.{SAUT}You'll pay the piper, no doubt.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Grenouille",
+    "fr": "C'est grossier de m'en quémander plus.{SAUT}Tu le paieras, sans doute.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0023",
     "locuteur": "Frog",
     "en": "Just go die. No, no, seriously.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Grenouille",
+    "fr": "Va mourir. Non, non, sérieusement.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E3.BIN:005:0024",
     "locuteur": "Frog",
     "en": "Just kidding. I give you three and you{SAUT}don't even thank me?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Grenouille",
+    "fr": "Je plaisante. Je t'en donne trois et tu{SAUT}me remercies même pas?{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0025",
     "locuteur": "Frog",
     "en": "Wait... don't tell me...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Grenouille",
+    "fr": "Attends... ne me dis pas...{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0026",
     "locuteur": "Frog",
     "en": "You're not stealing clothes and mini{SAUT}medals from people's houses, are you?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Grenouille",
+    "fr": "Tu ne voles pas des habits et des{SAUT}mini-médailles chez les gens, si?{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0028",
     "locuteur": "Frog",
     "en": "Ooooooh! Sooooo cuuuute!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Grenouille",
+    "fr": "Ooooooh! Troooop miiiignon!{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0029",
     "locuteur": "Frog",
     "en": "My impression of Ms. Yuka Ayase.{SAUT}No, no, seriously.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Grenouille",
+    "fr": "Mon imitation de Mlle Yuka Ayase.{SAUT}Non, non, sérieusement.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0030",
     "locuteur": "Frog",
     "en": "...You're always so quiet.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Grenouille",
+    "fr": "...Tu es toujours si silencieux.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0031",
     "locuteur": "Frog",
     "en": "I make a joke, and you stare at me with{SAUT}your hands on your hips. No laughs.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Grenouille",
+    "fr": "Je fais une blague, et tu me fixes les{SAUT}mains sur les hanches. Aucun rire.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0032",
     "locuteur": "Frog",
     "en": "In honor of your sullness, have a sample{SAUT}recommended by Satomi Tadashi himself.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Grenouille",
+    "fr": "En l'honneur de ta mine renfrognée, un{SAUT}échantillon signé Satomi Tadashi.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0033",
     "en": "{FERME} > Obtained (*TEXTBOX_STYLE*) (*TEXTBOX_PARAM,0500*)Balm of Life(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} > (*TEXTBOX_STYLE*) (*TEXTBOX_PARAM,0500*)Baume de vie(*TEXTBOX_PARAM,0000*) obtenu.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0034",
     "locuteur": "Frog",
     "en": "This Balm of Life is so strong it brings{SAUT}back the dead. Wasn't that educational?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Grenouille",
+    "fr": "Ce Baume de vie est si puissant qu'il{SAUT}ressuscite. C'était instructif, non?{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0035",
     "locuteur": "Frog",
     "en": "Just kidding... No sweet nothings to{SAUT}whisper to me after all those gifts?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Grenouille",
+    "fr": "Je plaisante... Pas un mot doux à me{SAUT}murmurer après tous ces cadeaux?{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0036",
     "locuteur": "Frog",
     "en": "You're at the right age to study the{SAUT}subtleties of men's and women's feelings.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Grenouille",
+    "fr": "Tu as l'âge d'étudier les subtilités des{SAUT}sentiments entre hommes et femmes.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0037",
     "locuteur": "Frog",
     "en": "What I'm trying to say is... I'm a girl!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Grenouille",
+    "fr": "Ce que je veux dire... je suis fille!{ATTENTE}"
   },
   {
     "id": "E3.BIN:006:0000",
     "locuteur": "Chemistry teacher",
     "en": "This is pretty elaborate for a Culture{SAUT}Festival stall. I'm impressed.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Prof de chimie",
+    "fr": "C'est plutôt élaboré pour un stand de{SAUT}festival culturel. Je suis admiratif.{ATTENTE}"
   },
   {
     "id": "E3.BIN:006:0001",
     "locuteur": "Chemistry teacher",
     "en": "This place sells some pretty expensive{SAUT}stuff for a Culture Festival stall.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Prof de chimie",
+    "fr": "Cet endroit vend des choses bien chères{SAUT}pour un stand de festival.{ATTENTE}"
   },
   {
     "id": "E3.BIN:006:0002",
     "locuteur": "Chemistry teacher",
     "en": "And those are two old-looking students...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Prof de chimie",
+    "fr": "Et voilà deux élèves à l'air bien âgé...{ATTENTE}"
   },
   {
     "id": "E3.BIN:006:0009",
     "locuteur": "Yukino",
     "en": "Wasn't Sennen Mannen-Do a sweets shop?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Sennen Mannen-Do, pas une confiserie?{ATTENTE}"
   },
   {
     "id": "E3.BIN:006:0010",
     "locuteur": "Yukino",
     "en": "This place has some weird stuff for a{SAUT}sweets shop.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Cet endroit a des trucs bizarres pour{SAUT}une confiserie.{ATTENTE}"
   },
   {
     "id": "E3.BIN:006:0011",
     "locuteur": "Ayase",
     "en": "Wow! What beautiful gems... Hey, buy me{SAUT}some! Pleeeease!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Ouah! Quelles belles gemmes... Hé,{SAUT}achète-m'en! S'il te plaîîît!{ATTENTE}"
   },
   {
     "id": "E3.BIN:006:0012",
     "locuteur": "Ayase",
     "en": "I could stare at shiny stuff all day...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Je fixerais ça pendant des heures...!{ATTENTE}"
   },
   {
     "id": "E3.BIN:006:0013",
     "locuteur": "Nanjo",
     "en": "What is this store? A sweets shop...?{SAUT}Ahhh... a sweatshop. Yes, of course.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Qu'est-ce que cette boutique? Une{SAUT}confiserie...? Ahhh... une con-fiserie.{ATTENTE}"
   },
   {
     "id": "E3.BIN:006:0014",
     "locuteur": "Nanjo",
     "en": "This \"sweets shop\" is rather bizarre.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Cette \"confiserie\" est assez bizarre.{ATTENTE}"
   },
   {
     "id": "E3.BIN:006:0015",
     "locuteur": "Brown",
     "en": "Hey, why's there a sweets shop at school?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Hé, pourquoi une confiserie au lycée?{ATTENTE}"
   },
   {
     "id": "E3.BIN:006:0016",
     "locuteur": "Brown",
     "en": "That reminds me... it's not cold in here!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Ça me rappelle... il fait pas froid ici!{ATTENTE}"
   },
   {
     "id": "E3.BIN:006:0017",
     "locuteur": "Elly",
     "en": "Hm? This place isn't frozen...{SAUT}Now why is that?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Hm? Cet endroit n'est pas gelé...{SAUT}Pourquoi donc?{ATTENTE}"
   },
   {
     "id": "E3.BIN:006:0018",
     "locuteur": "Elly",
     "en": "The stores here seem as if they exist in{SAUT}another world. They're not cold at all.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Ces boutiques semblent exister dans un{SAUT}autre monde. Il n'y fait pas froid.{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0000",
     "locuteur": "Female student",
     "en": "What are we going to do? There's no way{SAUT}out. We're trapped in here!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Qu'est-ce qu'on va faire? Il y a pas de{SAUT}sortie. On est piégés ici!{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0001",
     "locuteur": "Female student",
     "en": "The demons will get us eventually{SAUT}anyways...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Les démons nous auront de toute{SAUT}façon...{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0002",
     "locuteur": "Female student",
     "en": "Tons of demons will invade and we'll all{SAUT}be tortured to death!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Des tonnes de démons vont envahir et on{SAUT}sera tous torturés à mort!{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0003",
     "locuteur": "Female student",
     "en": "Even if you defeat the Snow Queen, there{SAUT}will still be demons left, right!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Même si vous battez la Reine des Neiges,{SAUT}il restera des démons, non!?{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0004",
     "locuteur": "Female student",
     "en": "We're sunk...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "On est foutus...{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0005",
     "locuteur": "Female student",
     "en": "Who's the one who claimed the school was{SAUT}safe? I wanna go home...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "C'est qui qui a dit que le lycée était{SAUT}sûr? Je veux rentrer...{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0006",
     "locuteur": "Female student",
     "en": "Why can't we get outside yet?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Pourquoi on peut pas encore sortir?{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0007",
     "locuteur": "Female student",
     "en": "Are we forced to just sit here and wait{SAUT}until we freeze to death?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "On est obligés de rester assis à{SAUT}attendre de mourir de froid?{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0008",
     "locuteur": "Female student",
     "en": "I'm not having any of that! There's still{SAUT}a lot I want to accomplish in life!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Pas question! Il me reste beaucoup de{SAUT}choses à accomplir dans la vie!{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0009",
     "locuteur": "Satori",
     "en": "We're sunk. We were always going to die{SAUT}someday... It's just been sped up a bit.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Satori",
+    "fr": "On est foutus. On allait mourir un{SAUT}jour... C'est juste un peu accéléré.{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0010",
     "locuteur": "Satori",
     "en": "I get to go out while I'm still beautiful,{SAUT}so I thank the Snow Queen for that.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Satori",
+    "fr": "Je partirai encore belle, alors je{SAUT}remercie la Reine des Neiges pour ça.{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0011",
     "locuteur": "Satori",
     "en": "When I keep my eyes shut like this, it's{SAUT}like everything's stopped breathing.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Satori",
+    "fr": "Quand je garde les yeux fermés comme ça,{SAUT}tout semble avoir cessé de respirer.{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0012",
     "locuteur": "Satori",
     "en": "It's so quiet. You know... I think I'm{SAUT}starting... to get... slee... py...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Satori",
+    "fr": "C'est si calme. Tu sais... je crois que{SAUT}je commence... à m'endor... mir...{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0013",
     "locuteur": "Yukino",
     "en": "Talk about an annoying bunch.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Quelle bande pénible.{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0014",
     "locuteur": "Yukino",
     "en": "Let's go before they make me as crazy{SAUT}as they are.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Partons avant qu'elles me rendent aussi{SAUT}folle qu'elles.{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0015",
     "locuteur": "Yukino",
     "en": "They're still spouting that crap. It's{SAUT}depressing me, too... let's just go.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Elles débitent encore ces bêtises. Ça me{SAUT}déprime aussi... allons-y.{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0016",
     "locuteur": "Ayase",
     "en": "Actually, I joke around a lot and stuff,{SAUT}but I'm worried too.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "En fait, je blague beaucoup et tout,{SAUT}mais je suis inquiète aussi.{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0017",
     "locuteur": "Ayase",
     "en": "It's like, are we really gonna be able{SAUT}to rescue Ms. Saeko?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "C'est comme, est-ce qu'on va vraiment{SAUT}pouvoir sauver Mme Saeko?{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0018",
     "locuteur": "Ayase",
     "en": "I mean, we're just high schoolers!{SAUT}What can we do!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Enfin, on est juste des lycéens!{SAUT}Qu'est-ce qu'on peut faire!?{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0019",
     "locuteur": "Ayase",
     "en": "You're really strong, (*APELLIDO_HEROE*).{SAUT}You never complain.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Tu es vraiment fort, (*APELLIDO_HEROE*).{SAUT}Tu te plains jamais.{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0020",
     "locuteur": "Ayase",
     "en": "That's why I look up to you, y'know?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "C'est pour ça que je t'admire, tu sais?{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0021",
     "locuteur": "Nanjo",
     "en": "They're forfeiting before even making{SAUT}a move...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Elles abandonnent avant même d'avoir{SAUT}bougé...?{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0022",
     "locuteur": "Nanjo",
     "en": "Not I! I'll fight to the bitter end!{SAUT}I refuse to throw my future away.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Pas moi! Je me battrai jusqu'au bout!{SAUT}Je refuse de jeter mon avenir.{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0023",
     "locuteur": "Nanjo",
     "en": "We'll accomplish nothing by staying here.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Nous n'accomplirons rien en restant ici.{ATTENTE}"
   },
   {
     "id": "E3.BIN:007:0024",
     "locuteur": "Brown",
     "en": "Don't worry. I'll melt that Queen's icy{SAUT}heart with my smoldering gaze.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Brown",
+    "fr": "T'inquiète. Je ferai fondre le coeur{SAUT}glacé de cette Reine d'un regard.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E3.BIN:007:0026",
     "locuteur": "Elly",
     "en": "One sees a glimpse of humanity's true{SAUT}nature during extreme conditions. Haha...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "On aperçoit la vraie nature humaine dans{SAUT}les situations extrêmes. Haha...{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -585,8 +585,8 @@
     "id": "E3.BIN:009:0009",
     "locuteur": "Brown",
     "en": "Heyyy, c'mon! Forget the Queen for{SAUT}a while and kick back!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Héééé, allez! Oubliez la Reine un{SAUT}moment et détendez-vous!{ATTENTE}"
   },
   {
     "id": "E3.BIN:009:0010",
@@ -606,8 +606,8 @@
     "id": "E3.BIN:009:0015",
     "locuteur": "Clerk",
     "en": "Wanna see what I've got?(*UNK_0E,0000*){FERME}(*SPEAKER*)Male student{SAUT}Woo-ha! I'm on a roll today!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Vendeur",
+    "fr": "Tu veux voir ce que j'ai?(*UNK_0E,0000*){FERME}(*SPEAKER*)Élève{SAUT}Woo-ha! Je suis en forme aujourd'hui!{ATTENTE}"
   },
   {
     "id": "E3.BIN:009:0016",
@@ -620,16 +620,16 @@
     "id": "E3.BIN:009:0017",
     "locuteur": "Fro-Man",
     "en": "Yyyeah! Shoobee da ba da, oh yeah!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Fro[003C]Man",
+    "fr": "Ouaaais! Shoobee da ba da, oh yeah!{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E3.BIN:009:0018",
     "locuteur": "Fro-Man",
     "en": "While I was puzzlin' out future jive,{SAUT}my mama was workin' a nine to five.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Fro[003C]Man",
+    "fr": "Pendant que je cherchais le bon tempo,{SAUT}ma mère, elle, bossait comme un dingo.{ATTENTE}"
   },
   {
     "id": "E3.BIN:009:0019",
@@ -642,27 +642,27 @@
     "id": "E3.BIN:009:0020",
     "locuteur": "Fro-Man",
     "en": "Ya dig? Da ba shoobee bop, oh yeah!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Fro[003C]Man",
+    "fr": "Tu captes? Da ba shoobee bop, oh yeah!{ATTENTE}"
   },
   {
     "id": "E3.BIN:009:0022",
     "locuteur": "Fro-Man",
     "en": "While I was tryin' to make ends meet,{SAUT}my sis was walkin' those cruel streets.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Fro[003C]Man",
+    "fr": "Pendant que je ramais pour m'en sortir,{SAUT}ma soeur battait le pavé sans faiblir.{ATTENTE}"
   },
   {
     "id": "E3.BIN:009:0023",
     "locuteur": "Fro-Man",
     "en": "Don't get it, do ya?{SAUT}Da ba shoobee bop, oh yeah!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Fro[003C]Man",
+    "fr": "Tu captes pas, hein?{SAUT}Da ba shoobee bop, oh yeah!{ATTENTE}"
   },
   {
     "id": "E3.BIN:009:0024",
     "en": "{FERME}> You have (*UNK_1A*)[8200] Metal Cards.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}> Tu as (*UNK_1A*)[8200] Cartes métal.{ATTENTE}"
   },
   {
     "id": "E3.BIN:009:0067",

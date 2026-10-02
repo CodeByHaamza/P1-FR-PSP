@@ -3,85 +3,85 @@
     "id": "E0.BIN:179:0003",
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "Remember this? You left the poor woman{SAUT}to die...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de (*APODO_HEROE*)",
+    "fr": "Tu te souviens? Tu as laissé cette{SAUT}pauvre femme mourir...{ATTENTE}"
   },
   {
     "id": "E0.BIN:179:0004",
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "\"I'm looking out for number one\"... Are{SAUT}you sure that wasn't your reasoning?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de (*APODO_HEROE*)",
+    "fr": "\"Chacun pour soi\"... Tu es sûr que{SAUT}ce n'était pas ton raisonnement?{ATTENTE}"
   },
   {
     "id": "E0.BIN:179:0005",
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "Remember this? You saved this woman,{SAUT}heedless of your own safety...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de (*APODO_HEROE*)",
+    "fr": "Tu te souviens? Tu as sauvé cette femme,{SAUT}sans songer à ta propre sécurité...{ATTENTE}"
   },
   {
     "id": "E0.BIN:180:0003",
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "And here, you tried to abandon an old{SAUT}man, though he was only a pawn...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de (*APODO_HEROE*)",
+    "fr": "Et ici, tu as voulu abandonner un{SAUT}vieillard, pourtant simple pion...{ATTENTE}"
   },
   {
     "id": "E0.BIN:180:0004",
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "And here, you chose to save an old man{SAUT}at the risk of losing Kandori...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de (*APODO_HEROE*)",
+    "fr": "Et ici, tu as choisi de sauver un{SAUT}vieillard au risque de perdre Kandori...{ATTENTE}"
   },
   {
     "id": "E0.BIN:181:0003",
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "Did you really think that Chisato's{SAUT}painting was superior...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de (*APODO_HEROE*)",
+    "fr": "As-tu vraiment cru que le tableau de{SAUT}Chisato était supérieur...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:181:0004",
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "Say, \"I wasn't afraid of being turned{SAUT}to stone.\" Can you say that honestly?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de (*APODO_HEROE*)",
+    "fr": "Dis \"je n'avais pas peur d'être changé{SAUT}en pierre\". Peux-tu le dire sincèrement?{ATTENTE}"
   },
   {
     "id": "E0.BIN:181:0005",
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "Asserting one's beliefs in the face of{SAUT}danger... it isn't easily done.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de (*APODO_HEROE*)",
+    "fr": "Affirmer ses convictions face au{SAUT}danger... ce n'est pas donné à tous.{ATTENTE}"
   },
   {
     "id": "E0.BIN:182:0004",
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "You lacked the vision to see through{SAUT}to the truth...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de (*APODO_HEROE*)",
+    "fr": "Tu n'as pas eu la clairvoyance de{SAUT}percer jusqu'à la vérité...{ATTENTE}"
   },
   {
     "id": "E0.BIN:182:0005",
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "You judge only with your eyes, and fail{SAUT}to see with your heart...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de (*APODO_HEROE*)",
+    "fr": "Tu ne juges qu'avec tes yeux, et tu ne{SAUT}sais pas voir avec ton coeur...{ATTENTE}"
   },
   {
     "id": "E0.BIN:182:0006",
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "You had vision enough to see through{SAUT}to the truth...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de (*APODO_HEROE*)",
+    "fr": "Tu as eu la clairvoyance de percer{SAUT}jusqu'à la vérité...{ATTENTE}"
   },
   {
     "id": "E0.BIN:182:0007",
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "You see not only with your eyes, but{SAUT}also with your heart...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de (*APODO_HEROE*)",
+    "fr": "Tu ne vois pas qu'avec tes yeux, mais{SAUT}aussi avec ton coeur...{ATTENTE}"
   },
   {
     "id": "E0.BIN:183:0000",
@@ -94,93 +94,93 @@
     "id": "E0.BIN:183:0001",
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "This man's soul was sick with doubt...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Voix de (*APODO_HEROE*)",
+    "fr": "L'âme de cet homme doutait, malade...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:183:0002",
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "But you could not give his soul the{SAUT}salvation it yearned for...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de (*APODO_HEROE*)",
+    "fr": "Mais tu n'as pas pu donner à son âme{SAUT}le salut qu'elle appelait...{ATTENTE}"
   },
   {
     "id": "E0.BIN:183:0003",
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "And the cause was the doubt gnawing at{SAUT}your own soul.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de (*APODO_HEROE*)",
+    "fr": "Et la cause en était le doute qui{SAUT}rongeait ta propre âme.{ATTENTE}"
   },
   {
     "id": "E0.BIN:183:0005",
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "But you were able to soothe his soul's{SAUT}torment...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de (*APODO_HEROE*)",
+    "fr": "Mais tu as su apaiser le tourment{SAUT}de son âme...{ATTENTE}"
   },
   {
     "id": "E0.BIN:183:0006",
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "You could do this because your own soul{SAUT}was free and clear of doubt.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de (*APODO_HEROE*)",
+    "fr": "Tu l'as pu parce que ta propre âme{SAUT}était libre de tout doute.{ATTENTE}"
   },
   {
     "id": "E0.BIN:184:0000",
     "locuteur": "Maki",
     "en": "You know it, don't you, (*APELLIDO_HEROE*)!?{SAUT}You know I'm the worst girl alive!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Tu le sais, hein, (*APELLIDO_HEROE*)!?{SAUT}Je suis la pire fille au monde!{ATTENTE}"
   },
   {
     "id": "E0.BIN:184:0001",
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "And what did you say to that?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de (*APODO_HEROE*)",
+    "fr": "Et qu'as-tu répondu à cela?{ATTENTE}"
   },
   {
     "id": "E0.BIN:184:0002",
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "You couldn't tell her not to run, for{SAUT}you too were running, weren't you?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de (*APODO_HEROE*)",
+    "fr": "Tu n'as pas pu lui dire de ne pas fuir,{SAUT}car toi aussi tu fuyais, n'est-ce pas?{ATTENTE}"
   },
   {
     "id": "E0.BIN:184:0003",
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "Can you look me in the eye and deny{SAUT}that, self?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de (*APODO_HEROE*)",
+    "fr": "Peux-tu me regarder en face et le{SAUT}nier, toi-même?{ATTENTE}"
   },
   {
     "id": "E0.BIN:184:0004",
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "You answered well. It's easy to run{SAUT}from one's problems, yes...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de (*APODO_HEROE*)",
+    "fr": "Tu as bien répondu. Il est facile de{SAUT}fuir ses problèmes, oui...{ATTENTE}"
   },
   {
     "id": "E0.BIN:184:0005",
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "But the further you run, the more you{SAUT}resent yourself. You know all too well.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix de (*APODO_HEROE*)",
+    "fr": "Mais plus tu fuis, plus tu te hais{SAUT}toi-même. Tu ne le sais que trop bien.{ATTENTE}"
   },
   {
     "id": "E0.BIN:185:0005",
     "locuteur": "Trish",
     "en": "It'll be 5,000 yen.{SAUT}That's okay, right?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Trish",
+    "fr": "Ce sera 5 000 yens.{SAUT}Ça te va, non?{ATTENTE}"
   },
   {
     "id": "E0.BIN:197:0000",
     "locuteur": "Maki",
     "en": "Who's there!? (*APELLIDO_HEROE*)! Someone's here!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Qui est là!? (*APELLIDO_HEROE*)! Quelqu'un!{ATTENTE}"
   },
   {
     "id": "E0.BIN:197:0001",
@@ -193,8 +193,8 @@
     "id": "E0.BIN:197:0002",
     "locuteur": "Maki",
     "en": "(*APELLIDO_HEROE*)! There's two of you! How...!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "(*APELLIDO_HEROE*)! Vous êtes deux! Comment!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:197:0003",
@@ -207,8 +207,8 @@
     "id": "E0.BIN:197:0004",
     "locuteur": "(*APODO_HEROE*)",
     "en": "...Could you shut up for a second?{SAUT}Who gives a damn what I do...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "...Tu peux te taire une seconde?{SAUT}Qu'est-ce que ça peut faire...{ATTENTE}"
   },
   {
     "id": "E0.BIN:197:0005",
@@ -221,85 +221,85 @@
     "id": "E0.BIN:197:0006",
     "locuteur": "(*APODO_HEROE*)",
     "en": "That's right. I'm (*APELLIDO_HEROE*) (*PLAYER_NAME*).{SAUT}You can call me (*APODO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "C'est ça. Je suis (*APELLIDO_HEROE*) (*PLAYER_NAME*).{SAUT}Tu peux m'appeler (*APODO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:197:0007",
     "locuteur": "(*APODO_HEROE*)",
     "en": "I'm a second-year at St. Hermelin High{SAUT}in class 4.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Je suis en 2e année à St. Hermelin,{SAUT}classe 4.{ATTENTE}"
   },
   {
     "id": "E0.BIN:197:0008",
     "locuteur": "(*APODO_HEROE*)",
     "en": "Don't believe me? Want me to tell you{SAUT}my height, weight, and favorite girl?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Tu me crois pas? Tu veux ma taille, mon{SAUT}poids et la fille qui me plaît?{ATTENTE}"
   },
   {
     "id": "E0.BIN:197:0010",
     "locuteur": "(*APODO_HEROE*)",
     "en": "I'm you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Je suis toi.{ATTENTE}"
   },
   {
     "id": "E0.BIN:197:0011",
     "locuteur": "(*APODO_HEROE*)",
     "en": "I know everything you've done up to now.{SAUT}And the kind of person you really are...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Je sais tout ce que tu as fait jusqu'ici{SAUT}et le genre de personne que tu es...{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0000",
     "locuteur": "(*APODO_HEROE*)",
     "en": "Get it now?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Tu comprends, maintenant?{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0001",
     "locuteur": "(*APODO_HEROE*)",
     "en": "I'm every inch like you. I'm you...{SAUT}and you're me.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Je suis en tout point comme toi. Je{SAUT}suis toi... et tu es moi.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0002",
     "locuteur": "(*APODO_HEROE*)",
     "en": "We're two sides of the same coin...{SAUT}No, not just two.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "On est deux faces d'une même pièce...{SAUT}Non, pas seulement deux.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0003",
     "locuteur": "(*APODO_HEROE*)",
     "en": "There are tens of thousands of \"you\"s{SAUT}inside yourself.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Il y a des dizaines de milliers de{SAUT}\"toi\" à l'intérieur de toi.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0005",
     "locuteur": "(*APODO_HEROE*)",
     "en": "...So quit bothering me. You must{SAUT}know how it feels.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "...Alors arrête de m'embêter. Tu dois{SAUT}savoir ce que ça fait.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0006",
     "locuteur": "(*APODO_HEROE*)",
     "en": "Long as I can play games all day, I'm{SAUT}good. I'd rather stay out of trouble.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Tant que je peux jouer toute la journée,{SAUT}ça me va. J'évite les ennuis.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0007",
     "locuteur": "(*APODO_HEROE*)",
     "en": "Hurry up and get outta here... Seeya.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Dépêche-toi de filer... À plus.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0008",
@@ -319,125 +319,125 @@
     "id": "E0.BIN:199:0010",
     "locuteur": "(*APODO_HEROE*)",
     "en": "...If you made it this far, it means{SAUT}there's some hope for you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "...Si tu es arrivé jusqu'ici, c'est{SAUT}qu'il y a de l'espoir pour toi.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0011",
     "locuteur": "(*APODO_HEROE*)",
     "en": "Alright, self... Go do the best you can.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Bon, toi-même... Fais de ton mieux.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0012",
     "locuteur": "(*APODO_HEROE*)",
     "en": "...Someone seems to be aiming to take{SAUT}your place, but that won't happen.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "...Quelqu'un semble vouloir prendre ta{SAUT}place, mais ça n'arrivera pas.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0013",
     "locuteur": "(*APODO_HEROE*)",
     "en": "Your will is rooted nice and deep. You{SAUT}have a good grip on yourself.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Ta volonté est bien enracinée. Tu te{SAUT}tiens bien en main.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0014",
     "locuteur": "(*APODO_HEROE*)",
     "en": "Here, take this.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Tiens, prends ça.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0015",
     "locuteur": "(*APODO_HEROE*)",
     "en": "I think you can handle it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Je pense que tu peux le gérer.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0016",
     "locuteur": "(*APODO_HEROE*)",
     "en": "It's the key to awakening the strongest{SAUT}Persona sealed deep in your soul.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "C'est la clé pour éveiller le Persona le{SAUT}plus fort scellé au fond de ton âme.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0017",
     "locuteur": "(*APODO_HEROE*)",
     "en": "Ask that old geezer Igor how to use it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Demande au vieil Igor comment faire.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0018",
     "locuteur": "(*APODO_HEROE*)",
     "en": "But... don't forget. The \"me\" you see{SAUT}here is still you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Mais... n'oublie pas. Ce \"moi\"-là,{SAUT}c'est encore toi.{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "E0.BIN:199:0019",
     "locuteur": "(*APODO_HEROE*)",
     "en": "As long as you're aware of it, you'll{SAUT}be fine. You're one strong guy.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Tant que tu en as conscience, ça ira.{SAUT}Tu es un gars solide.{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "E0.BIN:199:0020",
     "locuteur": "(*APODO_HEROE*)",
     "en": "Here, take these.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Tiens, prends-les.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:199:0021",
     "locuteur": "(*APODO_HEROE*)",
     "en": "I think you and the girl can handle{SAUT}them.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Je pense que toi et la fille pouvez{SAUT}les gérer.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0022",
     "locuteur": "(*APODO_HEROE*)",
     "en": "They're keys to awakening the strongest{SAUT}Personas sealed deep in one's soul.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Ce sont les clés pour éveiller les{SAUT}Personae les plus forts scellés en soi.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:199:0023",
     "locuteur": "(*APODO_HEROE*)",
     "en": "Ask that old geezer Igor how to use{SAUT}them.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Demande au vieux Igor comment vous en{SAUT}servir.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:199:0027",
     "locuteur": "(*APODO_HEROE*)",
     "en": "I think you and your friends can{SAUT}handle them.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Je pense que toi et tes amis pouvez{SAUT}les gérer.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0032",
     "locuteur": "(*APODO_HEROE*)",
     "en": "What's wrong? Hurry up and go.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Quoi encore? Allez, file.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0033",
     "locuteur": "(*APODO_HEROE*)",
     "en": "Your friends are waiting.{SAUT}Seeya, self.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Tes amis t'attendent.{SAUT}À plus, toi-même.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0034",
@@ -456,60 +456,60 @@
   {
     "id": "E0.BIN:199:0036",
     "en": "{FERME}   > Obtained (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Rosetta Stone(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}   > (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Pierre de Rosette(*TEXTBOX_PARAM,0000*) obtenue.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0037",
     "en": "{FERME}   > Obtained (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Rosetta Stone(*TEXTBOX_PARAM,0000*) and{SAUT}(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Pasque Flower(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}   > (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Pierre de Rosette(*TEXTBOX_PARAM,0000*) et{SAUT}(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Fleur de Pâques(*TEXTBOX_PARAM,0000*) obtenues.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0038",
     "en": "{FERME}   > Obtained (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Rosetta Stone(*TEXTBOX_PARAM,0000*), (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Pasque{SAUT}Flower(*TEXTBOX_PARAM,0000*), (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Purified Water(*TEXTBOX_PARAM,0000*)...{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}   > Obtenu : (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Pierre de Rosette(*TEXTBOX_PARAM,0000*), (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Fleur de{SAUT}Pâques(*TEXTBOX_PARAM,0000*), (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Eau purifiée(*TEXTBOX_PARAM,0000*)...{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0039",
     "en": "{PAGE}> ...(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Amber Glasses(*TEXTBOX_PARAM,0000*), and{SAUT}(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Babylonian Coffin(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}> ...(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Lunettes d'ambre(*TEXTBOX_PARAM,0000*) et{SAUT}(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Cercueil babylonien(*TEXTBOX_PARAM,0000*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0040",
     "en": "{FERME}  > Obtained (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Rosetta Stone(*TEXTBOX_PARAM,0000*), (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Pasque{SAUT}Flower(*TEXTBOX_PARAM,0000*), (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Purified Water(*TEXTBOX_PARAM,0000*)...{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}  > Obtenu : (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Pierre de Rosette(*TEXTBOX_PARAM,0000*), (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Fleur de{SAUT}Pâques(*TEXTBOX_PARAM,0000*), (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Eau purifiée(*TEXTBOX_PARAM,0000*)...{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0041",
     "en": "{PAGE}> ...(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Amber Glasses(*TEXTBOX_PARAM,0000*), and{SAUT}(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Judgement Contract(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}> ...(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Lunettes d'ambre(*TEXTBOX_PARAM,0000*) et{SAUT}(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Contrat de jugement(*TEXTBOX_PARAM,0000*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0042",
     "en": "{FERME} > Obtained (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Rosetta Stone(*TEXTBOX_PARAM,0000*), (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Pasque{SAUT}Flower(*TEXTBOX_PARAM,0000*), (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Purified Water(*TEXTBOX_PARAM,0000*)...{ATTENTE}",
-    "fr": "",
+    "fr": "{FERME} > Obtenu : (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Pierre de Rosette(*TEXTBOX_PARAM,0000*), (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Fleur de{SAUT}Pâques(*TEXTBOX_PARAM,0000*), (*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Eau purifiée(*TEXTBOX_PARAM,0000*)...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E0.BIN:199:0043",
     "en": "{PAGE}> ...(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Amber Glasses(*TEXTBOX_PARAM,0000*), and{SAUT}(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Victorian Rune(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}> ...(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Lunettes d'ambre(*TEXTBOX_PARAM,0000*) et{SAUT}(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Rune victorienne(*TEXTBOX_PARAM,0000*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0045",
     "en": "{PAGE}> ...(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Amber Glasses(*TEXTBOX_PARAM,0000*), and{SAUT}(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Stuffed Deer(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}> ...(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Lunettes d'ambre(*TEXTBOX_PARAM,0000*) et{SAUT}(*TEXTBOX_STYLE*)β(*TEXTBOX_PARAM,0500*)Cerf en peluche(*TEXTBOX_PARAM,0000*).{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0046",
     "locuteur": "(*APODO_HEROE*)",
     "en": "Will you shut up and let me alone?{SAUT}Get outta here already.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "(*APODO_HEROE*)",
+    "fr": "Tu veux bien te taire et me laisser?{SAUT}Dégage d'ici, maintenant.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0047",
     "en": "{FERME} > It's the Atlus fighting game,{SAUT}Groove On Fight. You haven't seen{SAUT}this game in years...{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} > C'est le jeu de combat d'Atlus,{SAUT}Groove On Fight. Tu n'avais pas vu ce{SAUT}jeu depuis des années...{ATTENTE}"
   },
   {
     "id": "E0.BIN:201:0000",
@@ -536,8 +536,8 @@
     "id": "E0.BIN:201:0004",
     "locuteur": "Maki",
     "en": "Those countless bubbles... Each one,{SAUT}a different person's consciousness...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Ces bulles innombrables... Chacune,{SAUT}la conscience d'une personne...{ATTENTE}"
   },
   {
     "id": "E0.BIN:201:0005",
@@ -595,8 +595,8 @@
     "id": "E0.BIN:201:0012",
     "locuteur": "Maki",
     "en": "And (*APELLIDO_HEROE*)...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Maki",
+    "fr": "Et (*APELLIDO_HEROE*)...{ATTENTE}",
     "_occurrences": 4
   },
   {
@@ -688,6 +688,6 @@
   {
     "id": "E0.BIN:201:0044",
     "en": "{FERME} > Obtained (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Blue Compact(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} > (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Poudrier bleu(*TEXTBOX_PARAM,0000*) obtenu.{ATTENTE}"
   }
 ]
