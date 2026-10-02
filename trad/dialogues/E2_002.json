@@ -17,15 +17,15 @@
     "id": "E2.BIN:017:0002",
     "locuteur": "Yukino",
     "en": "Looks like SEBEC's reputation is at an{SAUT}all-time low.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "On dirait que la réputation de SEBEC{SAUT}est au plus bas.{ATTENTE}"
   },
   {
     "id": "E2.BIN:017:0003",
     "locuteur": "Female student",
     "en": "Like, no way am I gonna walk by the{SAUT}SEBEC building at night.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Genre, je passe pas devant l'immeuble{SAUT}SEBEC la nuit, pas question.{ATTENTE}"
   },
   {
     "id": "E2.BIN:017:0004",
@@ -59,8 +59,8 @@
     "id": "E2.BIN:018:0001",
     "locuteur": "Mark",
     "en": "Why's everyone so pissed at SEBEC?{SAUT}It's just a regular company.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Pourquoi tout le monde en veut à SEBEC?{SAUT}C'est une boîte comme une autre.{ATTENTE}"
   },
   {
     "id": "E2.BIN:018:0002",
@@ -80,8 +80,8 @@
     "id": "E2.BIN:018:0004",
     "locuteur": "Rumor-loving boy",
     "en": "This \"SEBEC curse\" is a load of crap.{SAUT}I bet they're making biological weapons.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Fan de rumeurs",
+    "fr": "Cette \"malédiction SEBEC\", c'est du{SAUT}vent. Je parie sur des armes bio.{ATTENTE}"
   },
   {
     "id": "E2.BIN:019:0000",
@@ -115,8 +115,8 @@
     "id": "E2.BIN:019:0004",
     "locuteur": "Gambling-addicted student",
     "en": "Slots, blackjack, Code Breaker... ＊sigh＊{SAUT}I can't wait until I'm old enough to go.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Accro au jeu",
+    "fr": "Machines, blackjack, Casse-code...{SAUT}＊soupir＊ Vivement que j'aie l'âge.{ATTENTE}"
   },
   {
     "id": "E2.BIN:020:0000",
@@ -150,8 +150,8 @@
     "id": "E2.BIN:020:0004",
     "locuteur": "Female student",
     "en": "Do you want to hear about it?(*UNK_0E,0000*){FERME}(*SPEAKER*)Female student{SAUT}It takes place in a blue room.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Tu veux que je te raconte?(*UNK_0E,0000*){FERME}(*SPEAKER*)Élève{SAUT}Ça se passe dans une chambre bleue.{ATTENTE}"
   },
   {
     "id": "E2.BIN:020:0005",
@@ -185,15 +185,15 @@
     "id": "E2.BIN:021:0001",
     "locuteur": "Mark",
     "en": "Looks like the principal isn't here.{SAUT}She's probably at the courtyard again...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "On dirait que la proviseure est pas là.{SAUT}Encore dans la cour, sûrement...{ATTENTE}"
   },
   {
     "id": "E2.BIN:021:0002",
     "locuteur": "Yukino",
     "en": "Wow, these flowers are beautiful...{SAUT}So it's true about the principal, huh?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Ouah, ces fleurs sont magnifiques...{SAUT}C'est donc vrai, pour la proviseure?{ATTENTE}"
   },
   {
     "id": "E2.BIN:022:0000",
@@ -213,8 +213,8 @@
     "id": "E2.BIN:022:0002",
     "locuteur": "Mark",
     "en": "I wish this place was even bigger...{SAUT}The stage is too small for a guy like me!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "J'aimerais que ce soit plus grand...{SAUT}La scène est trop petite pour moi!{ATTENTE}"
   },
   {
     "id": "E2.BIN:022:0003",
@@ -242,7 +242,7 @@
     "locuteur": "Drama club member",
     "en": "Though the stage be no more, the passion{SAUT}of those who stood here shall not fade...{ATTENTE}",
     "locuteur_fr": "Membre du club",
-    "fr": "Même si la scène n'est plus, la passion de{SAUT}ceux qui l'ont foulée ne faiblira pas...{ATTENTE}"
+    "fr": "Même si la scène n'est plus, la passion{SAUT}de ceux qui l'ont foulée reste...{ATTENTE}"
   },
   {
     "id": "E2.BIN:022:0007",
@@ -285,22 +285,22 @@
     "id": "E2.BIN:023:0002",
     "locuteur": "Nanjo",
     "en": "Yes, yes, what IS it, (*APELLIDO_HEROE*)!? If{SAUT}you have nothing to say, away with you!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Oui, oui, qu'y a-t-il, (*APELLIDO_HEROE*)!?{SAUT}Si vous n'avez rien à dire, partez!{ATTENTE}"
   },
   {
     "id": "E2.BIN:023:0003",
     "locuteur": "Mark",
     "en": "That Nanjo pisses me off so bad...{SAUT}I'll find a chink in his armor someday.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ce Nanjo me gonfle tellement...{SAUT}Je trouverai sa faille un jour.{ATTENTE}"
   },
   {
     "id": "E2.BIN:023:0004",
     "locuteur": "Mark",
     "en": "\"Young master\"! Hah! Did you hear that?{SAUT}He's a young master!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "\"Jeune maître\"! Hah! Tu as entendu ça?{SAUT}C'est un jeune maître!{ATTENTE}"
   },
   {
     "id": "E2.BIN:023:0005",
@@ -328,21 +328,21 @@
     "locuteur": "Male student",
     "en": "There was a weird old guy waiting by the{SAUT}gates a little earlier. Pretty creepy...{ATTENTE}",
     "locuteur_fr": "Élève",
-    "fr": "Un vieux type bizarre attendait près du{SAUT}portail tout à l'heure. Assez flippant...{ATTENTE}"
+    "fr": "Un vieux type bizarre attendait près du{SAUT}portail tantôt. Assez flippant...{ATTENTE}"
   },
   {
     "id": "E2.BIN:023:0009",
     "locuteur": "Female student",
     "en": "Hey, isn't Nanjo kinda scary? He's gone{SAUT}past \"cool\" straight on to \"cold.\"{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Dis, Nanjo fait pas peur? Il est passé{SAUT}de \"cool\" à carrément \"glacial\".{ATTENTE}"
   },
   {
     "id": "E2.BIN:023:0010",
     "locuteur": "Male student",
     "en": "Yo, (*APELLIDO_HEROE*)! I heard you collapsed!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Hé, (*APELLIDO_HEROE*)! Il paraît que tu es tombé!{ATTENTE}"
   },
   {
     "id": "E2.BIN:023:0011",
@@ -376,331 +376,331 @@
     "id": "E2.BIN:032:0000",
     "locuteur": "Stern-faced man",
     "en": "What do you kids want?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme sévère",
+    "fr": "Qu'est-ce que vous voulez, les gamins?{ATTENTE}"
   },
   {
     "id": "E2.BIN:032:0001",
     "locuteur": "Stern-faced man",
     "en": "This ain't a playground for brats like{SAUT}you. Hey, toss these kids out!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme sévère",
+    "fr": "C'est pas un terrain de jeu pour des{SAUT}mioches. Hé, virez-moi ces gosses!{ATTENTE}"
   },
   {
     "id": "E2.BIN:032:0002",
     "locuteur": "Man's voice",
     "en": "Takeda? What's this disturbance about?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Voix d'homme",
+    "fr": "Takeda? C'est quoi ce remue-ménage?{ATTENTE}"
   },
   {
     "id": "E2.BIN:032:0003",
     "locuteur": "Nanjo",
     "en": "Kandori...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Kandori...!{ATTENTE}"
   },
   {
     "id": "E2.BIN:032:0004",
     "locuteur": "Kandori",
     "en": "My, what a rare pleasure.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kandori",
+    "fr": "Tiens, quel plaisir rare.{ATTENTE}"
   },
   {
     "id": "E2.BIN:032:0005",
     "locuteur": "Kandori",
     "en": "What business does the scion of the{SAUT}Nanjo family have with us?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kandori",
+    "fr": "Que nous veut l'héritier de la famille{SAUT}Nanjo?{ATTENTE}"
   },
   {
     "id": "E2.BIN:032:0006",
     "locuteur": "Nanjo",
     "en": "I didn't come here for you. I'm only{SAUT}tagging along with these people.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Je ne suis pas venu pour vous. Je ne{SAUT}fais qu'accompagner ces gens.{ATTENTE}"
   },
   {
     "id": "E2.BIN:032:0007",
     "locuteur": "Kandori",
     "en": "Aha... Then these must be the young{SAUT}master's school friends.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kandori",
+    "fr": "Ah... Alors voici les camarades de{SAUT}classe du jeune maître.{ATTENTE}"
   },
   {
     "id": "E2.BIN:032:0008",
     "locuteur": "Kandori",
     "en": "You accompanied them to a sordid place{SAUT}like this? Quite a friendship indeed...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kandori",
+    "fr": "Vous les avez suivis dans un endroit{SAUT}aussi sordide? Quelle belle amitié...{ATTENTE}"
   },
   {
     "id": "E2.BIN:032:0009",
     "locuteur": "Nanjo",
     "en": "Cease calling me \"young master.\" I never{SAUT}gave you permission to use that name.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Cessez de m'appeler \"jeune maître\". Je{SAUT}ne vous ai jamais permis ce nom.{ATTENTE}"
   },
   {
     "id": "E2.BIN:032:0010",
     "locuteur": "Takeda",
     "en": "You little--!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Takeda",
+    "fr": "Petit--!{ATTENTE}"
   },
   {
     "id": "E2.BIN:032:0011",
     "locuteur": "Kandori",
     "en": "Stand down, Takeda. It seems the Nanjo{SAUT}family lacks discipline...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kandori",
+    "fr": "Du calme, Takeda. Il semble que la{SAUT}famille Nanjo manque de discipline...{ATTENTE}"
   },
   {
     "id": "E2.BIN:032:0012",
     "locuteur": "Kandori",
     "en": "Well, I'll allow it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kandori",
+    "fr": "Enfin, je le tolère.{ATTENTE}"
   },
   {
     "id": "E2.BIN:032:0013",
     "locuteur": "Kandori",
     "en": "But Nanjo... I will teach you the proper{SAUT}form of address to your betters.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kandori",
+    "fr": "Mais Nanjo... je vous apprendrai la{SAUT}façon de parler à vos supérieurs.{ATTENTE}"
   },
   {
     "id": "E2.BIN:032:0014",
     "locuteur": "Mark",
     "en": "Nanjo's an insufferable dick, but you're{SAUT}a hell of a lot worse...!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Nanjo est un connard insupportable, mais{SAUT}toi tu es cent fois pire...!{ATTENTE}"
   },
   {
     "id": "E2.BIN:032:0015",
     "locuteur": "Takeda",
     "en": "Tch... It's almost time, Mr. Kandori.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Takeda",
+    "fr": "Tch... C'est l'heure, M. Kandori.{ATTENTE}"
   },
   {
     "id": "E2.BIN:032:0016",
     "locuteur": "Kandori",
     "en": "Yes, I'll be right there.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kandori",
+    "fr": "Oui, j'arrive.{ATTENTE}"
   },
   {
     "id": "E2.BIN:032:0017",
     "locuteur": "Kandori",
     "en": "Now then, the time has come for me to{SAUT}ask you all to leave.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kandori",
+    "fr": "Bien, le moment est venu de vous{SAUT}demander de partir.{ATTENTE}"
   },
   {
     "id": "E2.BIN:032:0018",
     "locuteur": "Mark",
     "en": "Heh! Let's go, (*APELLIDO_HEROE*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Héh! On y va, (*APELLIDO_HEROE*).{ATTENTE}"
   },
   {
     "id": "E2.BIN:032:0019",
     "locuteur": "Man",
     "en": "Excuse me, do you have an appointment?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme",
+    "fr": "Excusez-moi, vous avez rendez-vous?{ATTENTE}"
   },
   {
     "id": "E2.BIN:032:0020",
     "locuteur": "Man",
     "en": "I'm sorry, but if you don't have one,{SAUT}I must ask you to leave.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Homme",
+    "fr": "Désolé, mais sans rendez-vous, je dois{SAUT}vous demander de partir.{ATTENTE}"
   },
   {
     "id": "E2.BIN:032:0021",
     "en": "{FERME}  (*TEXTBOX_PARAM,0200*)> Takeda{SAUT}Kandori's right-hand man who carries{SAUT}out SEBEC's illegal operations.(*TEXTBOX_PARAM,0000*){ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}  (*TEXTBOX_PARAM,0200*)> Takeda{SAUT}Le bras droit de Kandori, qui exécute{SAUT}les opérations illégales de SEBEC.(*TEXTBOX_PARAM,0000*){ATTENTE}"
   },
   {
     "id": "E2.BIN:033:0000",
     "locuteur": "Kaneda",
     "en": "What do YOU children want? You'd better{SAUT}not be here to steal my treasure!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kaneda",
+    "fr": "Qu'est-ce que VOUS voulez, les enfants?{SAUT}Pas venus voler mon trésor, j'espère!{ATTENTE}"
   },
   {
     "id": "E2.BIN:033:0001",
     "en": "{FERME} (*TEXTBOX_PARAM,0300*)> Katsue Kaneda{SAUT}A resident of Mikage-cho who seems to{SAUT}be living the high life lately.(*TEXTBOX_PARAM,0000*){ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} (*TEXTBOX_PARAM,0300*)> Katsue Kaneda{SAUT}Habitante de Mikage-cho qui semble vivre{SAUT}sur un grand pied ces derniers temps.(*TEXTBOX_PARAM,0000*){ATTENTE}"
   },
   {
     "id": "E2.BIN:033:0002",
     "locuteur": "Nanjo",
     "en": "What nonsense!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Nanjo",
+    "fr": "Quelle absurdité!{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:033:0003",
     "locuteur": "Nanjo",
     "en": "To my eyes, this old woman's so-called{SAUT}\"treasure\" is little more than rubbish.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "À mes yeux, le soi-disant \"trésor\" de{SAUT}cette vieille n'est que du bric-à-brac.{ATTENTE}"
   },
   {
     "id": "E2.BIN:033:0004",
     "locuteur": "Nanjo",
     "en": "She purports to be an antique collector...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Elle se prétend collectionneuse.{ATTENTE}"
   },
   {
     "id": "E2.BIN:033:0005",
     "locuteur": "Nanjo",
     "en": "But she'll buy anything that's priced{SAUT}high enough. What could be more absurd?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Mais elle achète tout ce qui coûte assez{SAUT}cher. Quoi de plus absurde?{ATTENTE}"
   },
   {
     "id": "E2.BIN:033:0006",
     "locuteur": "Yukino",
     "en": "That old biddy treats everyone like{SAUT}a thief. Just ignore her.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Cette vieille prend tout le monde pour{SAUT}un voleur. Ignore-la.{ATTENTE}"
   },
   {
     "id": "E2.BIN:033:0007",
     "locuteur": "Mark",
     "en": "Can we leave yet, (*APELLIDO_HEROE*)? I'm sick{SAUT}of taking her crap!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "On peut partir, (*APELLIDO_HEROE*)? J'en ai{SAUT}marre de ses conneries!{ATTENTE}"
   },
   {
     "id": "E2.BIN:033:0008",
     "locuteur": "Kaneda",
     "en": "Hmph! Children like you can't grasp my{SAUT}treasure's true worth!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kaneda",
+    "fr": "Hmph! Des enfants comme vous ne peuvent{SAUT}saisir la vraie valeur de mon trésor!{ATTENTE}"
   },
   {
     "id": "E2.BIN:033:0009",
     "locuteur": "Kaneda",
     "en": "Now get out of my sight!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kaneda",
+    "fr": "Maintenant, hors de ma vue!{ATTENTE}"
   },
   {
     "id": "E2.BIN:033:0010",
     "locuteur": "Kaneda",
     "en": "What are the police doing!? I pay more{SAUT}taxes than anyone else!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Kaneda",
+    "fr": "Que fait la police!? Je paie plus{SAUT}d'impôts que n'importe qui!{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:033:0011",
     "locuteur": "Kaneda",
     "en": "Shouldn't they come protect me first at{SAUT}times like these?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Kaneda",
+    "fr": "Ils devraient venir me protéger en{SAUT}premier dans ces moments-là, non?{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:033:0012",
     "locuteur": "Kaneda",
     "en": "If anything happens to my treasure,{SAUT}I'll sue!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Kaneda",
+    "fr": "Touchez à mon trésor et je porte{SAUT}plainte!{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:033:0013",
     "locuteur": "Elly",
     "en": "But everyone pays taxes. There's no{SAUT}call to boast about it.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "Mais tout le monde paie des impôts.{SAUT}Il n'y a pas de quoi s'en vanter.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:033:0014",
     "locuteur": "Kaneda",
     "en": "Don't act like such a know-it-all, missy!{SAUT}Ugh, hurry up and get off my property!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Kaneda",
+    "fr": "Fais pas la maligne, ma petite! Ugh,{SAUT}dépêchez-vous de quitter ma propriété!{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:034:0000",
     "locuteur": "Nanjo",
     "en": "Masao seems to be acquainted with these{SAUT}officers...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Masao semble connaître ces{SAUT}policiers...{ATTENTE}"
   },
   {
     "id": "E2.BIN:034:0001",
     "locuteur": "Nanjo",
     "en": "Though he doesn't appear to be{SAUT}particularly happy to see them.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Bien qu'il n'ait pas l'air ravi{SAUT}de les voir.{ATTENTE}"
   },
   {
     "id": "E2.BIN:034:0002",
     "locuteur": "Mark",
     "en": "Yeah, well... sorta...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Ouais, bon... un peu...{ATTENTE}"
   },
   {
     "id": "E2.BIN:034:0003",
     "locuteur": "Mark",
     "en": "Geez, (*APELLIDO_HEROE*)! What'd you gotta bring{SAUT}me to the police station for!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Bon sang, (*APELLIDO_HEROE*)! Pourquoi tu{SAUT}m'emmènes au commissariat!?{ATTENTE}"
   },
   {
     "id": "E2.BIN:034:0004",
     "locuteur": "Yukino",
     "en": "Hah, that look on Mark's face...{SAUT}priceless. But uh... the hospital...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Ha, la tête de Mark... impayable.{SAUT}Mais euh... l'hôpital...?{ATTENTE}"
   },
   {
     "id": "E2.BIN:034:0005",
     "locuteur": "Lieutenant",
     "en": "Well, if it isn't Masao. You've been{SAUT}attending school, I hope?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Lieutenant",
+    "fr": "Tiens, mais c'est Masao. Tu vas bien{SAUT}à l'école, j'espère?{ATTENTE}"
   },
   {
     "id": "E2.BIN:034:0006",
     "locuteur": "Lieutenant",
     "en": "Not causing trouble for your teachers,{SAUT}are you?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Lieutenant",
+    "fr": "Tu ne causes pas d'ennuis à tes{SAUT}professeurs, j'espère?{ATTENTE}"
   },
   {
     "id": "E2.BIN:034:0007",
     "locuteur": "Lieutenant",
     "en": "I'm the one who set him straight...{SAUT}I feel somewhat responsible for him now.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Lieutenant",
+    "fr": "C'est moi qui l'ai remis dans le droit{SAUT}chemin... Je me sens un peu responsable.{ATTENTE}"
   },
   {
     "id": "E2.BIN:034:0008",
     "locuteur": "Female officer",
     "en": "That's a little harsh, Lieutenant.{SAUT}You're no trouble anymore, right Masao?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Policière",
+    "fr": "C'est un peu dur, lieutenant.{SAUT}Tu ne fais plus d'ennuis, hein Masao?{ATTENTE}"
   },
   {
     "id": "E2.BIN:034:0009",
     "locuteur": "Female officer",
     "en": "You must be Masao's friend. He's a nice{SAUT}boy, don't you think? I like him.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Policière",
+    "fr": "Tu dois être un ami de Masao. C'est un{SAUT}gentil garçon, non? Je l'aime bien.{ATTENTE}"
   }
 ]
