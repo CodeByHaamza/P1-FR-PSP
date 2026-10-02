@@ -11,346 +11,346 @@
     "id": "E1.BIN:011:0001",
     "locuteur": "Mysterious butterfly",
     "en": "The Snow Queen's power seems to be weaker{SAUT}after you saved Toro from his Persona.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Le pouvoir de la Reine des Neiges faiblit{SAUT}depuis que tu as sauvé Toro du Persona.{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "E1.BIN:011:0002",
     "locuteur": "Mysterious butterfly",
     "en": "The doors that were previously frozen{SAUT}shut should now be open to you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Les portes qui étaient prises dans la{SAUT}glace devraient s'ouvrir à toi.{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "E1.BIN:011:0003",
     "locuteur": "Mysterious butterfly",
     "en": "This door leads to (*TEXTBOX_PARAM,0700*)Hypnos Tower(*TEXTBOX_PARAM,0000*), one of{SAUT}the three towers surrounding this school.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Cette porte mène à la (*TEXTBOX_PARAM,0700*)Tour Hypnos(*TEXTBOX_PARAM,0000*), une{SAUT}des trois tours qui entourent ce lycée.{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0004",
     "locuteur": "Mysterious butterfly",
     "en": "Of the three, this tower has the simplest{SAUT}structure.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Des trois, cette tour a la structure{SAUT}la plus simple.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:011:0005",
     "locuteur": "Mysterious butterfly",
     "en": "I believe it will be comparatively easy{SAUT}to find the Mirror Shards there.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Je crois qu'il y sera assez facile de{SAUT}trouver les Fragments de Miroir.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:011:0006",
     "locuteur": "Mysterious butterfly",
     "en": "But I must warn you...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Mais je dois t'avertir...{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0007",
     "locuteur": "Mysterious butterfly",
     "en": "Once you set foot in a tower, you cannot{SAUT}leave until you defeat its master.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Une fois le pied dans une tour, tu ne{SAUT}peux sortir sans vaincre son maître.{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "E1.BIN:011:0008",
     "locuteur": "Mysterious butterfly",
     "en": "Be sure of yourself before entering one.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Sois sûr de toi avant d'y entrer.{ATTENTE}",
     "_occurrences": 8
   },
   {
     "id": "E1.BIN:011:0009",
     "locuteur": "Mysterious butterfly",
     "en": "This is the entrance to (*TEXTBOX_PARAM,0700*)Hypnos Tower(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Voici l'entrée de la (*TEXTBOX_PARAM,0700*)Tour Hypnos(*TEXTBOX_PARAM,0000*).{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:011:0012",
     "locuteur": "Mysterious butterfly",
     "en": "Remember: once you enter a tower, you{SAUT}cannot leave until you defeat its master.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Souviens-toi : dans une tour, tu ne{SAUT}sors pas sans vaincre son maître.{ATTENTE}",
     "_occurrences": 5
   },
   {
     "id": "E1.BIN:011:0015",
     "locuteur": "Mysterious butterfly",
     "en": "Though you have bested its master, it{SAUT}still teems with demons. Be careful.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Tu as vaincu son maître, mais elle{SAUT}grouille encore de démons. Prudence.{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0016",
     "en": "{FERME} > The door is frozen shut. A sweet,{SAUT}drowsy smell wafts from beyond it.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} > La porte est gelée. Une odeur{SAUT}douce et somnolente vient d'au-delà.{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0017",
     "en": "{FERME}> A sweet, drowsy smell wafts from beyond{SAUT}the door.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}> Une odeur douce et somnolente vient{SAUT}d'au-delà de la porte.{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0018",
     "en": "{FERME}   > Enter Hypnos Tower?{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}   > Entrer dans la Tour Hypnos?{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0019",
     "locuteur": "Tadashi",
     "en": "C'mon, it's not THAT big a deal,{SAUT}is it!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Allez, c'est pas SI grave,{SAUT}si?{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0020",
     "locuteur": "Tadashi",
     "en": "You tightwad!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Espèce de radin!{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0021",
     "locuteur": "Tadashi",
     "en": "Oh, uh, sorry. That was meant for this{SAUT}loudmouth over here.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Oh, euh, pardon. C'était pour la{SAUT}grande gueule à côté.{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0022",
     "locuteur": "Tadashi",
     "en": "Two people, seeing the same dream at{SAUT}the same time...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Deux personnes, faisant le même rêve{SAUT}au même moment...{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0023",
     "locuteur": "Tadashi",
     "en": "It can't be a coincidence! Clearly,{SAUT}we were meant for each other.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Ça peut pas être une coïncidence! On{SAUT}est clairement faits l'un pour l'autre.{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0024",
     "locuteur": "Tadashi",
     "en": "I see myself in your eyes...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Je me vois dans tes yeux...{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0025",
     "locuteur": "Tadashi",
     "en": "Uh... could you excuse us, please?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tadashi",
+    "fr": "Euh... vous pouvez nous laisser, svp?{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0026",
     "en": "{FERME}(*SCENE_END*)β> Tadashi{SAUT}A lazy member of the Fencing Club who{SAUT}quarrels with Tamaki every day.(*SCENE_END*) {ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}(*SCENE_END*)β> Tadashi{SAUT}Membre paresseux du club d'escrime qui{SAUT}se dispute avec Tamaki tous les jours.(*SCENE_END*) {ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0027",
     "locuteur": "Tamaki",
     "en": "Tadashi is such a jerk!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Tadashi est un vrai crétin!{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0028",
     "locuteur": "Tamaki",
     "en": "I TOLD him those sports drinks were for{SAUT}everyone, and he drank them all!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Je lui avais DIT que ces boissons{SAUT}étaient pour tous, il a tout bu!{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0029",
     "locuteur": "Tamaki",
     "en": "I had a wonderful dream, and it made me{SAUT}realize my true feelings.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "J'ai fait un rêve merveilleux, et il m'a{SAUT}révélé mes vrais sentiments.{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0030",
     "locuteur": "Tamaki",
     "en": "Starting today... I'll always be{SAUT}with Tadashi!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "À partir d'aujourd'hui... je serai{SAUT}toujours avec Tadashi!{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0031",
     "locuteur": "Tamaki",
     "en": "I'm happy just being by his side!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tamaki",
+    "fr": "Je suis heureuse juste à ses côtés!{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0032",
     "en": "{FERME} (*SCENE_END*)[0300]> Tamaki{SAUT}A transfer student who joined the Fencing{SAUT}Club. She's always arguing with Tadashi.(*SCENE_END*) {ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} (*SCENE_END*)[0300]> Tamaki{SAUT}Nouvelle élève qui a rejoint le club{SAUT}d'escrime. Elle se dispute avec Tadashi.(*SCENE_END*) {ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0033",
     "locuteur": "Yukino",
     "en": "There they go again. Don't those two ever{SAUT}get tired of fighting with each other?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Ils recommencent. Ces deux-là se lassent{SAUT}jamais de se disputer?{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0034",
     "locuteur": "Yukino",
     "en": "Ugh! Quit being all lovey-dovey!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Ugh! Arrêtez vos mièvreries!{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0035",
     "locuteur": "Yukino",
     "en": "There they go again. Don't those two ever{SAUT}get tired of swooning over each other?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Ils recommencent. Ces deux-là se lassent{SAUT}jamais de se pâmer l'un pour l'autre?{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0036",
     "locuteur": "Ayase",
     "en": "Tamaki is pretty cute. Hey maybe I should{SAUT}get my hair cut short, too!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Tamaki est plutôt mignonne. Je devrais{SAUT}peut-être me couper les cheveux aussi!{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0037",
     "locuteur": "Ayase",
     "en": "Awwww... that's so sweet!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Awww... c'est trop chou!{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0038",
     "locuteur": "Ayase",
     "en": "Two kids in a cold room, their hearts{SAUT}burning with love... a pair of jailbirds.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Deux gamins dans une pièce glacée, le{SAUT}coeur brûlant... deux oiseaux en cage.{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0039",
     "locuteur": "Nanjo",
     "en": "The temperature is making me sleepy...{SAUT}No, no, that's not good.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "La température me donne sommeil...{SAUT}Non, non, ce n'est pas bon.{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0040",
     "locuteur": "Nanjo",
     "en": "What's Yuka trying to say?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Qu'essaie de dire Yuka?{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0041",
     "locuteur": "Brown",
     "en": "At least he has someone to argue with.{SAUT}＊sigh＊ Being single is a drag... Brrrr!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Au moins il a quelqu'un à qui parler.{SAUT}＊soupir＊ Célibataire, c'est dur! Brrr!{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0042",
     "locuteur": "Brown",
     "en": "I see my handsome face in your eyes.{SAUT}＊gasp＊ Does that mean you...!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Je vois mon beau visage dans tes yeux.{SAUT}＊sursaut＊ Ça veut dire que tu...!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0043",
     "locuteur": "Elly",
     "en": "Hm... Hypnos Tower...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Hm... La Tour Hypnos...{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0044",
     "locuteur": "Elly",
     "en": "Hypnos is the Greek god of sleep.{SAUT}That doesn't sound so scary, does it?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Hypnos est le dieu grec du sommeil.{SAUT}Ça n'a pas l'air si effrayant, si?{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0045",
     "locuteur": "Elly",
     "en": "Jailbirds...? Not lovebirds?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "En cage...? Pas des tourtereaux?{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0046",
     "locuteur": "Elly",
     "en": "Was Ayase joking when she said that?{SAUT}Or did she really...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Ayase plaisantait en disant ça?{SAUT}Ou est-ce qu'elle a vraiment...?{ATTENTE}"
   },
   {
     "id": "E1.BIN:011:0047",
     "locuteur": "Elly",
     "en": "＊sigh＊ Honestly, I don't understand her{SAUT}sometimes.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "＊soupir＊ Franchement, je ne la comprends{SAUT}pas toujours.{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0003",
     "locuteur": "Mysterious butterfly",
     "en": "This door leads to (*TEXTBOX_PARAM,0700*)Nemesis Tower(*TEXTBOX_PARAM,0000*), one of{SAUT}the three towers surrounding this school.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Cette porte mène à la (*TEXTBOX_PARAM,0700*)Tour Némésis(*TEXTBOX_PARAM,0000*), une{SAUT}des trois tours qui entourent ce lycée.{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0004",
     "locuteur": "Mysterious butterfly",
     "en": "This tower has a complex structure as{SAUT}well as a cruel, calculating master.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Cette tour a une structure complexe et{SAUT}un maître cruel et calculateur.{ATTENTE}",
     "_occurrences": 3
   },
   {
     "id": "E1.BIN:012:0005",
     "locuteur": "Mysterious butterfly",
     "en": "In your current state, it may be a{SAUT}perilous path to take.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Dans ton état actuel, ce chemin pourrait{SAUT}s'avérer périlleux.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:012:0006",
     "locuteur": "Mysterious butterfly",
     "en": "I must warn you of this, as well...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Je dois t'avertir de ceci, aussi...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:012:0009",
     "locuteur": "Mysterious butterfly",
     "en": "This is the entrance to (*TEXTBOX_PARAM,0700*)Nemesis Tower(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Voici l'entrée de la (*TEXTBOX_PARAM,0700*)Tour Némésis(*TEXTBOX_PARAM,0000*).{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:012:0011",
     "locuteur": "Mysterious butterfly",
     "en": "Brace yourselves if you intend to proceed.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Papillon mystérieux",
+    "fr": "Préparez-vous si vous comptez avancer.{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0019",
@@ -369,145 +369,145 @@
   {
     "id": "E1.BIN:012:0021",
     "en": "{FERME}> A deep, resounding howl can be heard{SAUT}from beyond the door.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}> Un hurlement grave et puissant se{SAUT}fait entendre derrière la porte.{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0022",
     "en": "{PAGE}> The door is frozen shut.{ATTENTE}",
-    "fr": ""
+    "fr": "{PAGE}> La porte est prise dans la glace.{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0023",
     "en": "{FERME}  > A deep, resounding howl can be heard{SAUT}from beyond the door.{ATTENTE}",
-    "fr": ""
+    "fr": "{FERME}  > Un hurlement grave et puissant se{SAUT}fait entendre derrière la porte.{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0024",
     "locuteur": "Tsutomu",
     "en": "Oh yeah, my uncle's a detective, and he{SAUT}once told me he saw a demon.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tsutomu",
+    "fr": "Ah oui, mon oncle est inspecteur, et il{SAUT}m'a dit un jour avoir vu un démon.{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0025",
     "locuteur": "Tsutomu",
     "en": "I wonder if Yarai-Ku is okay. Eeeheehee...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tsutomu",
+    "fr": "Yarai-Ku va bien? Eeeheehee...{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0026",
     "locuteur": "Tsutomu",
     "en": "By the way, I heard there was some{SAUT}commotion at the (*TEXTBOX_PARAM,0700*)cafeteria(*TEXTBOX_PARAM,0000*). Eeeheehee...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tsutomu",
+    "fr": "Au fait, il y aurait eu du remue-ménage{SAUT}à la (*TEXTBOX_PARAM,0700*)cantine(*TEXTBOX_PARAM,0000*). Eeeheehee...{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0027",
     "locuteur": "Tsutomu",
     "en": "Owwww... My arms are so sore, I can't{SAUT}even lift them. Eeehee... hee...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tsutomu",
+    "fr": "Aïïïe... J'ai les bras si douloureux que{SAUT}je peux pas les lever. Eeehee... hee...{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0028",
     "locuteur": "Tsutomu",
     "en": "You know the classroom that's all frozen?{SAUT}Eeeheehee... The isolated one.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Tsutomu",
+    "fr": "Tu connais la salle toute gelée?{SAUT}Eeeheehee... Celle qui est isolée.{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:012:0029",
     "locuteur": "Tsutomu",
     "en": "They say the door opens now. Eeeheehee...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Tsutomu",
+    "fr": "La porte s'ouvre, dit-on. Eeeheehee...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:012:0032",
     "locuteur": "Tsutomu",
     "en": "The lovely miss Eriko just left to check{SAUT}it out. Eeeheehee...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Tsutomu",
+    "fr": "La charmante Eriko vient de partir voir{SAUT}ça. Eeeheehee...{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0033",
     "locuteur": "Yukino",
     "en": "Hey, lots of paper here. Wanna make{SAUT}a bonfire?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Hé, il y a plein de papier ici. On fait{SAUT}un feu de joie?{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0034",
     "locuteur": "Yukino",
     "en": "Ugh! If I never see Michiko again, it'll{SAUT}be too soon.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yukino",
+    "fr": "Ugh! Si je revois jamais Michiko, ce{SAUT}sera déjà trop tôt.{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0035",
     "locuteur": "Ayase",
     "en": "The hospital was all messed up inside,{SAUT}just like the school, right?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "L'hôpital était tout retourné à{SAUT}l'intérieur, comme le lycée, non?{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0036",
     "locuteur": "Ayase",
     "en": "You think my house is okay? I don't wanna{SAUT}see some demon kickin' it in the den.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Tu crois que ma maison va bien? J'ai pas{SAUT}envie d'un démon installé au salon.{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0037",
     "locuteur": "Ayase",
     "en": "Michiko was really something. I'm gonna{SAUT}be seeing her in my nightmares...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Michiko était quelque chose. Je vais la{SAUT}voir dans mes cauchemars...{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0038",
     "locuteur": "Nanjo",
     "en": "Frozen books as far as the eye can see...{SAUT}How dismal.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Des livres gelés à perte de vue...{SAUT}Quelle tristesse.{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0039",
     "locuteur": "Nanjo",
     "en": "Hm? My scarf's on crooked? Ah, thanks{SAUT}for that.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Hm? Mon écharpe est de travers? Ah,{SAUT}merci bien.{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0040",
     "locuteur": "Brown",
     "en": "There's no need to worry as long as{SAUT}you follow me!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Pas besoin de s'inquiéter du moment{SAUT}que vous me suivez!{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0041",
     "locuteur": "Brown",
     "en": "Hey, uh, how about we stop talking about{SAUT}Nemesis Tower, huh? Sound good?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Hé, euh, et si on arrêtait de parler de{SAUT}la Tour Némésis? Ça vous va?{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0042",
     "locuteur": "Elly",
     "en": "It's so cold... At this rate, we'll all{SAUT}freeze to death.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Il fait si froid... À ce rythme, on va{SAUT}tous mourir gelés.{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0051",
     "locuteur": "Elly",
     "en": "I'm gathering information on that play,{SAUT}\"The Snow Queen.\"{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Je rassemble des informations sur cette{SAUT}pièce, \"La Reine des Neiges\".{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0052",
@@ -534,37 +534,37 @@
     "id": "E1.BIN:012:0055",
     "locuteur": "Elly",
     "en": "Hm... Nemesis Tower...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "Hm... La Tour Némésis...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:012:0056",
     "locuteur": "Elly",
     "en": "Nemesis is the Greek goddess of{SAUT}retribution. I'm uneasy about this...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "Némésis est la déesse grecque de la{SAUT}vengeance. Cela m'inquiète...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E1.BIN:012:0059",
     "locuteur": "Elly",
     "en": "I hope Toro is all right. He was forced{SAUT}to drink quite a lot of milk...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "J'espère que Toro va bien. On l'a forcé{SAUT}à boire beaucoup de lait...{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0060",
     "locuteur": "Elly",
     "en": "Did you hear what Tsutomu said?{SAUT}Let's go investigate!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Tu as entendu ce que Tsutomu a dit?{SAUT}Allons enquêter!{ATTENTE}"
   },
   {
     "id": "E1.BIN:012:0061",
     "locuteur": "Elly",
     "en": "Let's hurry upstairs!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Montons vite à l'étage!{ATTENTE}"
   }
 ]
