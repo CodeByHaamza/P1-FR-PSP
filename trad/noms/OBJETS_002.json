@@ -16,7 +16,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26BE80",
     "en": "Mirror Shard(*TERMINATOR*)",
-    "fr": "Éclat de miroir(*TERMINATOR*)",
+    "fr": "Fragment de Miroir(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
@@ -79,7 +79,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26C140",
     "en": "Expel Mirror(*TERMINATOR*)",
-    "fr": "Miroir de sortie(*TERMINATOR*)",
+    "fr": "Miroir Expel(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
