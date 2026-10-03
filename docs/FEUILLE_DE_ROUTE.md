@@ -131,7 +131,7 @@ ils ne sont pas du bruit :
 | `[PLACE]` | 9 | négociations : absorbé par les autres fichiers du démon, rien à faire |
 | `[TERMINO]` | 1 | faux positif (« Maki Sonomura » signalé comme à aligner sur lui-même) |
 
-### 3b. Uniformisation du dictionnaire — **il manque un outil**
+### 3b. ✅ Uniformisation des noms — l'outil existe *(03/10/2026)*
 
 C'est le trou le plus net de notre outillage. Deux incohérences réelles ont été
 trouvées à la main pendant la dernière campagne, et seulement parce qu'on
@@ -141,11 +141,35 @@ cherchait ailleurs :
   Miroir » dans les dialogues et le dictionnaire ;
 - « Expel Mirror » : « Miroir de sortie » contre « Miroir Expel ».
 
-Pour le joueur, ce sont deux objets différents. Aucun validateur ne le voit, car
-chaque fichier est correct **séparément**. Il faut un script qui prenne chaque
-nom d'objet, de sort, d'arme et d'armure de `game/scripts/noms/`, le cherche
-dans les dialogues, et signale toute forme française qui ne correspond pas. Tant
-qu'il n'existe pas, cette cohérence repose sur la chance.
+Pour le joueur, ce sont deux objets différents. Aucun validateur ne le voyait,
+car chaque fichier est correct **séparément**.
+
+`outils/coherence_noms.py` comble le trou. Il prend les 423 noms de
+`trad/noms` comme référence — c'est elle qui nomme l'objet dans l'inventaire —
+et les cherche dans les 24 133 lignes traduites des quatre autres zones.
+
+Son contrôle le plus sûr ne devine rien : **le jeu encadre le nom d'un objet**
+pour le colorer à l'écran, donc ce qui est dans ce cadre *est* le nom. Comparer
+le cadre français au cadre anglais est exact, pas heuristique.
+
+Il a trouvé **sept contradictions** dès le premier passage, toutes dans les
+messages « X obtenu », c'est-à-dire juste avant que le joueur ouvre son
+inventaire :
+
+| anglais | inventaire | dialogues | qui a raison |
+|---|---|---|---|
+| Phurba Dagger | Dague phurba | Poignard Phurba | l'inventaire (« Athame Knife » → « Couteau athamé ») |
+| Spiegel Mail | Cotte Spiegel | Armure Spiegel | l'inventaire (« Mail Breaker » → « Brise-mailles ») |
+| Full Moon Tablet | Plaque pleine lune | Tablette de Pleine Lune | l'inventaire (22 plaques, toutes en minuscules) |
+| Scorching Tablet | Plaque brûlante | Plaque Brûlante | l'inventaire (même famille) |
+| Bisonskin Drums | Tambours en bison | Tambour de bison | les dialogues (le tambour est en *peau* de bison) |
+| Judgement Contract | Contrat de jugement | Contrat du Jugement | les dialogues (le Jugement est un arcane) |
+| Stuffed Deer | Cerf en peluche | Cerf empaillé | les dialogues (c'est la blague d'E1_028) |
+
+La règle qui s'en dégage, et qu'on garde : **la famille décide**, pas le dernier
+qui a traduit. L'outil tourne maintenant à chaque proposition — pour information,
+puisqu'une incohérence naît du rapprochement de deux fichiers dont un seul bouge
+— et **bloque** avant la fabrication d'une version.
 
 ### 3c. Les passes de langue
 

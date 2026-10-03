@@ -80,6 +80,29 @@ reformulé exprès, ou si le mot n'avait pas sa place, dis-le en un mot dans ta
 proposition. Le but est d'éviter qu'un même nom soit traduit de trois façons
 dans le jeu, pas de te forcer à répéter un mot là où le français n'en veut pas.
 
+**`[NOM-ENCADRE] X — l'inventaire dit « Y »`**
+Un nom d'objet affiché à l'écran ne s'écrit pas comme dans l'inventaire. C'est
+le constat le plus sûr des trois, parce qu'il ne devine rien : le jeu **encadre**
+le nom d'un objet pour le colorer, et ce qui est dans ce cadre, c'est le nom.
+Si le message dit « Poignard Phurba obtenu » et que l'inventaire affiche « Dague
+phurba », le joueur cherche deux objets différents. À corriger, toujours — reste
+à décider lequel des deux a raison, et c'est **la famille** qui tranche : les
+vingt-deux plaques s'écrivent « Plaque … » en minuscules, donc une « Tablette de
+Pleine Lune » est fautive même si elle sonne bien.
+
+**`[NOM-CASSE] X — à l'écran : « Y »`**
+Même nom, autre écriture : « Plaque Brûlante » contre « Plaque brûlante ». Sans
+gravité pour le jeu, visible pour le joueur. On uniformise.
+
+**`[NOM-VARIANTE] X : « A » ×3, « B » ×1`**
+Le même nom anglais est rendu de plusieurs façons dans le corpus. Il y a donc
+forcément une erreur parmi elles — sauf si l'écart est imposé, et il l'est
+parfois : « Masque Reine Neiges » tient dans les dix-neuf caractères de
+l'inventaire, « masque de la Reine des Neiges » non, alors qu'en dialogue c'est
+la seule forme juste. Ces cas-là se rangent dans `outils/noms_tolerances.json`,
+**avec leur raison écrite** : une tolérance sans raison est une incohérence
+qu'on a seulement cachée.
+
 **Le robot refuse une ligne que je trouve correcte.**
 Ça arrive. Dis-le dans ta proposition ; si l'outil a tort, on le corrige. Il
 n'est pas sacré, il est juste plus rapide que nous.

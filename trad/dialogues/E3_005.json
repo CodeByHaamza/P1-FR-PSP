@@ -37,7 +37,7 @@
   {
     "id": "E3.BIN:036:0007",
     "en": "{FERME}> Obtained (*TEXTBOX_STYLE*)[1400](*TEXTBOX_PARAM,0500*)Spiegel Mail(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": "{FERME}> (*TEXTBOX_STYLE*)[1400](*TEXTBOX_PARAM,0500*)Armure Spiegel(*TEXTBOX_PARAM,0000*) obtenue.{ATTENTE}"
+    "fr": "{FERME}> (*TEXTBOX_STYLE*)[1400](*TEXTBOX_PARAM,0500*)Cotte Spiegel(*TEXTBOX_PARAM,0000*) obtenue.{ATTENTE}"
   },
   {
     "id": "E3.BIN:036:0008",

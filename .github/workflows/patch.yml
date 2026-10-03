@@ -39,6 +39,12 @@ jobs:
         run: |
           git ls-files 'trad/**.json' | grep -v '/_' | xargs ruby outils/check_trad.rb
 
+      # Bloquant, ici : une version qui nomme un objet de deux facons est un
+      # bug qu'on expedie, et le joueur le verra entre son inventaire et un
+      # dialogue.
+      - name: Cohérence des noms
+        run: python outils/coherence_noms.py --tolerances outils/noms_tolerances.json
+
       - name: Recompter
         run: python outils/stats.py
 
