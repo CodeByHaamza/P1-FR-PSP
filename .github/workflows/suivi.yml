@@ -78,11 +78,24 @@ jobs:
           gh pr list --state merged --limit 500 --json number,author,files,mergedAt \
             > /tmp/fusionnees.json || echo '[]' > /tmp/fusionnees.json
 
+      # L'avancement de la RELECTURE. Il ne vivait que dans les issues, donc
+      # seul le site de relecture savait le lire : quelqu'un qui arrivait ici
+      # voyait « 100 % traduit » et rien sur la relecture, ni qu'elle avait
+      # commencé ni où elle en était. Le site est un lecteur ; l'état doit se
+      # voir dans le dépôt qui le porte.
+      - name: Relever les relectures
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue list --state all --limit 500 --json number,title,state,author \
+            > /tmp/relectures.json || echo '[]' > /tmp/relectures.json
+
       - name: Recompter
         run: |
           python outils/stats.py \
             --reservations /tmp/pr.json \
             --fusionnees /tmp/fusionnees.json \
+            --relectures /tmp/relectures.json \
             --rapport /tmp/a_corriger.md \
             --depot "${{ github.server_url }}/${{ github.repository }}"
 

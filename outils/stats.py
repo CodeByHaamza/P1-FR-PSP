@@ -90,6 +90,49 @@ def lire_reservations(chemin: Path):
     return reserve
 
 
+def lire_relectures(chemin: Path):
+    """{ nom de fichier => fiche de relecture } a partir de la sortie de gh.
+
+    L'outil de relecture ouvre une issue « Relecture : <script> » par script
+    passe en revue. C'est la seule trace partagee : le `localStorage` d'un
+    navigateur ne regarde personne d'autre, et un relecteur qui change de
+    machine perdrait tout.
+
+    Mais cette trace vivait UNIQUEMENT dans les issues, donc seul le site
+    savait la lire. Quelqu'un qui arrivait ici voyait « 100 % traduit » et rien
+    sur la relecture — ni qu'elle avait commence, ni ou elle en etait. Le site
+    est un lecteur ; l'etat, lui, doit se voir dans le depot qui le porte.
+
+      issue fermee    relu, les retours sont traites
+      issue ouverte   quelqu'un s'en occupe, ne pas doubler
+    """
+    fiches = {}
+    try:
+        for issue in json.loads(chemin.read_text(encoding="utf-8")):
+            titre = str(issue.get("title", ""))
+            if ":" not in titre or not titre.lower().startswith("relecture"):
+                continue
+            nom = titre.split(":", 1)[1].strip()
+            # Le titre est tape par un humain : il peut porter une precision
+            # apres le nom du script. On garde le premier mot, qui est le nom
+            # du fichier, et on compare sans extension.
+            nom = nom.split()[0].strip("`") if nom.split() else ""
+            if not nom:
+                continue
+            cle = f"{Path(nom).stem}.json"
+            fiche = fiches.setdefault(cle, {"relu": False, "en_cours": False, "qui": "", "numero": 0})
+            qui = nettoyer(issue.get("author", {}).get("login", ""))
+            fiche["qui"] = fiche["qui"] or f"@{qui}" if qui else fiche["qui"]
+            fiche["numero"] = int(issue.get("number", 0)) or fiche["numero"]
+            if str(issue.get("state", "")).upper() == "OPEN":
+                fiche["en_cours"] = True
+            else:
+                fiche["relu"] = True
+    except (json.JSONDecodeError, OSError, KeyError, TypeError, ValueError, AttributeError) as e:
+        print(f"  relectures ignorees : {e}", file=sys.stderr)
+    return fiches
+
+
 def lire_auteurs(chemin: Path, proprietaire: str = ""):
     """{ nom de fichier => ['@a', '@b'] } : qui a deja contribue, dans l'ordre
     des fusions.
@@ -229,9 +272,18 @@ def mention(sante):
     return f"{len(tags)} à relire"
 
 
-def etat(n, f, reserve, sante=None, auteurs=None):
+def etat(n, f, reserve, sante=None, auteurs=None, relecture=None):
     erreurs, _ = compte(sante)
     par = f" par {', '.join(auteurs)}" if auteurs else ""
+    # La relecture est une seconde vie du fichier : elle vient APRES la
+    # traduction, donc elle s'ajoute a l'etat au lieu de le remplacer.
+    relu = ""
+    if relecture:
+        if relecture.get("relu"):
+            relu = f" · relu (#{relecture['numero']})"
+        elif relecture.get("en_cours"):
+            qui = relecture.get("qui") or "quelqu'un"
+            relu = f" · relecture en cours par {qui} (#{relecture['numero']})"
 
     # Une erreur passe devant tout le reste : c'est la seule chose qui demande
     # une action precise, sur une ligne precise.
@@ -243,11 +295,11 @@ def etat(n, f, reserve, sante=None, auteurs=None):
     if f == 0:
         return f"en cours par {reserve}" if reserve else "libre"
     if f == n:
-        return f"terminé{par} · {note}" if note else f"terminé{par}"
+        return (f"terminé{par} · {note}" if note else f"terminé{par}") + relu
     # Une reservation ouverte passe devant l'historique : c'est elle qui dit
     # qu'il ne faut pas prendre le fichier maintenant.
     suite = f"en cours par {reserve}" if reserve else f"commencé{par}"
-    return f"{suite} · {note}" if note else suite
+    return (f"{suite} · {note}" if note else suite) + relu
 
 
 def milliers(n):
@@ -375,7 +427,7 @@ def ligne_badge(alt, fichier, lien="SUIVI.md"):
     return f"[![{alt}]({URL_BADGE.format(fichier=fichier)})]({lien})"
 
 
-def ecrire_badges_readme(racine: Path, sections, fait: int, tout: int):
+def ecrire_badges_readme(racine: Path, sections, fait: int, tout: int, relecture=None):
     """Reecrit le bloc de badges du README entre ses deux marqueurs."""
     chemin = racine / "README.md"
     texte = chemin.read_text(encoding="utf-8")
@@ -394,6 +446,20 @@ def ecrire_badges_readme(racine: Path, sections, fait: int, tout: int):
         "?logo=discord&logoColor=white)](https://discord.gg/s6CRadvPa3)",
         "",
     ]
+    # La relecture sur sa propre ligne, et en tete : c'est l'etape en cours.
+    # Collee aux badges de traduction, qui sont tous a 100 %, elle se lirait
+    # comme un detail — alors que c'est elle qui dit ce qui reste a faire.
+    if relecture is not None:
+        relus, scripts = relecture
+        lignes.insert(
+            3,
+            ligne_badge(
+                f"relecture : {pct(relus, scripts)} %"
+                f" ({relus} script{'s' if relus > 1 else ''} relu{'s' if relus > 1 else ''}"
+                f" sur {scripts})",
+                "badge_relecture",
+            ),
+        )
     for nom, sous_dossier, _par_fichier, total, traduits in sections:
         etiquette = nom.lower()
         lignes.append(
@@ -412,7 +478,7 @@ def ecrire_badges_readme(racine: Path, sections, fait: int, tout: int):
         f.write(f"{avant}{DEBUT_BADGES}\n{bloc}\n{FIN_BADGES}{apres}")
 
 
-def rendre(sections, reservations, sante, auteurs=None):
+def rendre(sections, reservations, sante, auteurs=None, relectures=None):
     auteurs = auteurs or {}
     lignes = [
         "# Avancement de la traduction",
@@ -421,6 +487,20 @@ def rendre(sections, reservations, sante, auteurs=None):
         "",
         "```text",
     ]
+
+    # La relecture d'abord : c'est l'etape en cours, et un lecteur qui arrive
+    # ici doit savoir ou elle en est avant de lire des pourcentages de
+    # traduction qui sont tous a 100.
+    if relectures is not None:
+        tous = [f for _, _, pf, _, _ in sections for f, _, _ in pf]
+        relus = sum(1 for f in tous if relectures.get(f, {}).get("relu"))
+        cours = sum(1 for f in tous if relectures.get(f, {}).get("en_cours"))
+        lignes.append(
+            f"{'Relecture':<14} {barre(relus, len(tous))}  "
+            f"{round(100 * relus / len(tous)) if tous else 0:>3} %   "
+            f"{relus:>6} / {len(tous)} script{'s' if relus > 1 else ''} relu{'s' if relus > 1 else ''}"
+            + (f", {cours} en cours" if cours else "")
+        )
 
     a_corriger = sorted(f for f, e in sante.items() if e["soucis"])
     par_categorie = grouper_avertissements(sante)
@@ -444,6 +524,18 @@ def rendre(sections, reservations, sante, auteurs=None):
     lignes.append("")
     lignes.append(f"{'Total':<14} {barre(fait, tout)}  {pct:>3} %   {milliers(fait):>6} / {milliers(tout)} textes")
     lignes += ["```", ""]
+
+    if relectures is not None:
+        lignes.append(
+            "La **relecture** se compte en scripts, pas en textes : on relit un fichier "
+            "d'un bout à l'autre ou pas du tout. Un script compte pour relu quand son "
+            "issue `Relecture : …` est **fermée**, c'est-à-dire quand ses retours ont été "
+            "traités. Le plus simple pour relire est "
+            "[l'outil de relecture](https://codebyhaamza.github.io/p1-relecture/) : rien "
+            "à installer, il montre ce qui est déjà pris et mène au prochain script que "
+            "personne n'a lu."
+        )
+        lignes.append("")
 
     # Ce qui demande une action passe avant l'inventaire : quelqu'un qui vient
     # aider doit voir en premier ce qui est casse, pas defiler cent lignes.
@@ -495,9 +587,10 @@ def rendre(sections, reservations, sante, auteurs=None):
         for fichier, n, f in par_fichier:
             pct = round(100 * f / n) if n else 0
             sante_fichier = sante.get(f"{sous_dossier}/{fichier}")
+            relu = (relectures or {}).get(fichier)
             lignes.append(
                 f"| [`{fichier}`]({sous_dossier}/{fichier}) | {n} | {f} | {pct} % | "
-                f"{etat(n, f, reservations.get(fichier), sante_fichier, auteurs.get(fichier))} |"
+                f"{etat(n, f, reservations.get(fichier), sante_fichier, auteurs.get(fichier), relu)} |"
             )
         lignes.append("")
 
@@ -509,6 +602,11 @@ def main(argv=None):
     ap.add_argument("--racine", default=".", type=Path)
     ap.add_argument("--reservations", type=Path)
     ap.add_argument("--fusionnees", type=Path, help="JSON des propositions fusionnees, pour nommer qui a contribue")
+    ap.add_argument(
+        "--relectures",
+        type=Path,
+        help="JSON des issues (gh issue list --json number,title,state,author) : l'avancement de la relecture",
+    )
     ap.add_argument("--sortie", type=Path, help="defaut : <racine>/SUIVI.md")
     ap.add_argument(
         "--sans-valider", action="store_true", help="ne pas lancer check_trad.rb (plus rapide, etats moins precis)"
@@ -522,6 +620,7 @@ def main(argv=None):
     # Le proprietaire se lit dans l'URL du depot : github.com/<proprietaire>/<nom>.
     proprietaire = args.depot.rstrip("/").split("/")[-2] if args.depot.count("/") >= 2 else ""
     auteurs = lire_auteurs(args.fusionnees, proprietaire) if args.fusionnees else {}
+    relectures = lire_relectures(args.relectures) if args.relectures else None
 
     sections = []
     for nom, sous_dossier, attendu in SECTIONS:
@@ -547,7 +646,7 @@ def main(argv=None):
                 sante.update(valider(racine, sous_dossier))
 
     sortie = args.sortie or racine / "SUIVI.md"
-    sortie.write_text(rendre(sections, reservations, sante, auteurs), encoding="utf-8")
+    sortie.write_text(rendre(sections, reservations, sante, auteurs, relectures), encoding="utf-8")
 
     # Les badges du README : un pour le jeu entier, un par zone. Le badge
     # principal comptait autrefois les seuls dialogues, ce qui faisait dire
@@ -556,7 +655,19 @@ def main(argv=None):
     ecrire_badge(racine / ".github" / "badge.json", "total", fait, tout)
     for nom, sous_dossier, _par_fichier, total, traduits in sections:
         ecrire_badge(racine / ".github" / f"badge_{Path(sous_dossier).name}.json", nom.lower(), traduits, total)
-    ecrire_badges_readme(racine, sections, fait, tout)
+    # Le badge de relecture : il ne se mele pas aux autres, qui comptent des
+    # textes traduits. Celui-ci compte des scripts relus, et c'est l'etape en
+    # cours — un depot qui affiche « 100 % » partout laisse croire que c'est
+    # fini alors que personne n'a encore relu une ligne.
+    if relectures is not None:
+        tous = [f for _, _, pf, _, _ in sections for f, _, _ in pf]
+        relus = sum(1 for f in tous if relectures.get(f, {}).get("relu"))
+        ecrire_badge(racine / ".github" / "badge_relecture.json", "relecture", relus, len(tous))
+        cours = sum(1 for f in tous if relectures.get(f, {}).get("en_cours"))
+        print(f"  {'Relecture':<14} {relus} / {len(tous)} scripts relus, {cours} en cours")
+        ecrire_badges_readme(racine, sections, fait, tout, (relus, len(tous)))
+    else:
+        ecrire_badges_readme(racine, sections, fait, tout)
 
     for nom, _, _, total, traduits in sections:
         print(f"  {nom:<14} {traduits} / {total}")
