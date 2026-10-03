@@ -47,7 +47,7 @@ Ces lignes sont plus larges que l'anglaise et approchent de la limite de la boî
 - [`E1_001.json`](trad/dialogues/E1_001.json) — 2 lignes
 - [`E1_002.json`](trad/dialogues/E1_002.json) — 1 ligne
 - [`E1_013.json`](trad/dialogues/E1_013.json) — 2 lignes
-- [`E1_016.json`](trad/dialogues/E1_016.json) — 9 lignes
+- [`E1_016.json`](trad/dialogues/E1_016.json) — 8 lignes
 - [`E1_018.json`](trad/dialogues/E1_018.json) — 10 lignes
 - [`E1_019.json`](trad/dialogues/E1_019.json) — 2 lignes
 - [`E1_022.json`](trad/dialogues/E1_022.json) — 8 lignes
@@ -214,7 +214,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E1_013.json`](trad/dialogues/E1_013.json) | 60 | 60 | 100 % | terminé par @Uolil-Raccoon · 2 trop large |
 | [`E1_014.json`](trad/dialogues/E1_014.json) | 43 | 43 | 100 % | terminé |
 | [`E1_015.json`](trad/dialogues/E1_015.json) | 65 | 65 | 100 % | terminé |
-| [`E1_016.json`](trad/dialogues/E1_016.json) | 100 | 100 | 100 % | terminé par @Uolil-Raccoon · 9 trop large |
+| [`E1_016.json`](trad/dialogues/E1_016.json) | 100 | 100 | 100 % | terminé par @Uolil-Raccoon · 8 trop large |
 | [`E1_017.json`](trad/dialogues/E1_017.json) | 38 | 38 | 100 % | terminé |
 | [`E1_018.json`](trad/dialogues/E1_018.json) | 100 | 100 | 100 % | terminé par @Uolil-Raccoon · 10 trop large |
 | [`E1_019.json`](trad/dialogues/E1_019.json) | 46 | 46 | 100 % | terminé · 2 trop large |
