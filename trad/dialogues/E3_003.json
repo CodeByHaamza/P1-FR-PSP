@@ -80,7 +80,7 @@
     "locuteur": "Nanjo",
     "en": "It's a (*TEXTBOX_PARAM,0500*)Phurba Dagger(*TEXTBOX_PARAM,0000*). I'm having some{SAUT}difficulty using it, so it's yours.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "C'est un (*TEXTBOX_PARAM,0500*)Poignard Phurba(*TEXTBOX_PARAM,0000*). J'ai du mal{SAUT}à m'en servir, il est donc à vous.{ATTENTE}"
+    "fr": "C'est un (*TEXTBOX_PARAM,0500*)Dague phurba(*TEXTBOX_PARAM,0000*). J'ai du mal{SAUT}à m'en servir, il est donc à vous.{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0013",
@@ -92,7 +92,7 @@
   {
     "id": "E3.BIN:010:0014",
     "en": "{FERME}> Obtained (*TEXTBOX_STYLE*)[0700](*TEXTBOX_PARAM,0500*)Phurba Dagger(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": "{FERME}> (*TEXTBOX_STYLE*)[0700](*TEXTBOX_PARAM,0500*)Poignard Phurba(*TEXTBOX_PARAM,0000*) obtenu.{ATTENTE}"
+    "fr": "{FERME}> (*TEXTBOX_STYLE*)[0700](*TEXTBOX_PARAM,0500*)Dague phurba(*TEXTBOX_PARAM,0000*) obtenu.{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0015",
@@ -143,7 +143,7 @@
     "locuteur": "Brown",
     "en": "It's a (*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Scorching Tablet(*TEXTBOX_PARAM,0000*).{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "C'est une (*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Plaque Brûlante(*TEXTBOX_PARAM,0000*).{ATTENTE}"
+    "fr": "C'est une (*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Plaque brûlante(*TEXTBOX_PARAM,0000*).{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0023",
@@ -162,7 +162,7 @@
   {
     "id": "E3.BIN:010:0025",
     "en": "{FERME}> Obtained (*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Scorching Tablet(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": "{FERME}> (*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Plaque Brûlante(*TEXTBOX_PARAM,0000*) obtenue.{ATTENTE}"
+    "fr": "{FERME}> (*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Plaque brûlante(*TEXTBOX_PARAM,0000*) obtenue.{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0027",
@@ -190,7 +190,7 @@
     "locuteur": "Elly",
     "en": "I came to give you this. It's a{SAUT}(*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Full Moon Tablet(*TEXTBOX_PARAM,0000*).{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Je viens te donner ça. C'est une{SAUT}(*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Tablette de Pleine Lune(*TEXTBOX_PARAM,0000*).{ATTENTE}"
+    "fr": "Je viens te donner ça. C'est une{SAUT}(*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Plaque pleine lune(*TEXTBOX_PARAM,0000*).{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0031",
@@ -209,7 +209,7 @@
   {
     "id": "E3.BIN:010:0033",
     "en": "{FERME} > Obtained (*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Full Moon Tablet(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": "{FERME} > (*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Plaque Pleine Lune(*TEXTBOX_PARAM,0000*) obtenue.{ATTENTE}"
+    "fr": "{FERME} > (*TEXTBOX_STYLE*)[0500](*TEXTBOX_PARAM,0500*)Plaque pleine lune(*TEXTBOX_PARAM,0000*) obtenue.{ATTENTE}"
   },
   {
     "id": "E3.BIN:010:0034",

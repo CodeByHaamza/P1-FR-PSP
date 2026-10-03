@@ -1,0 +1,38 @@
+{
+  "_lire": [
+    "Les ecarts ADMIS entre le nom de l'inventaire et le texte, pour que le",
+    "rapport de coherence_noms.py ne montre que ce qui reste a arbitrer.",
+    "",
+    "`noms_ignores` : des noms anglais qu'on ne compare pas du tout.",
+    "`ignorer` : des lignes precises, sous la forme \"<id de la ligne>|<nom anglais>\".",
+    "",
+    "On n'ajoute une tolerance qu'avec sa raison, en clair, dans `_pourquoi`.",
+    "Une tolerance sans raison est une incoherence qu'on a juste cachee."
+  ],
+
+  "noms_ignores": [
+    "AppIe Pie",
+    "AqqIe Pie",
+    "Apple Pie",
+    "Snow Queen Mask",
+    "Core Shield",
+    "Mirror Frame",
+    "School Uniform",
+    "Security Card",
+    "Life Stone",
+    "Mirror Shard"
+  ],
+
+  "_pourquoi": {
+    "AppIe Pie / AqqIe Pie": "Le jeu contient trois ecritures de « Apple Pie », dont deux volontairement abimees : un I majuscule a la place du l, un q a la place du p. Dans la police du jeu, ces lettres se ressemblent — c'est une facon de faire tenir le meme nom dans des slots differents. Notre francais imite le procede avec « pornmes » et « pornrnes ». Comparer ces entrees n'a donc aucun sens.",
+    "Snow Queen Mask": "Le slot fait 19 caracteres et « Masque Reine Neiges » en fait exactement 19. « masque de la Reine des Neiges » (29) ne tiendra jamais dans l'inventaire, mais c'est la forme juste dans les dialogues, ou il n'y a pas de slot. L'ecart est impose par le jeu.",
+    "Core Shield": "L'inventaire dit « Bouclier du noyau » ; le message d'effet dit « l'effet du Bouclier s'est dissipe », sans repeter « du noyau » parce que la ligne deborderait. Le joueur sait de quel bouclier on parle, il vient de le lancer.",
+    "Mirror Frame": "Meme chose : « Le cadre contient fragment(s) » tient, « Le cadre du miroir contient fragment(s) » non. Et le cadre est a l'ecran.",
+    "School Uniform": "« notre uniforme » suffit quand un lycien parle de son propre lycee. Repeter « scolaire » alourdit sans rien dire.",
+    "Security Card": "La ligne parle d'un « lecteur de carte », pas de la carte : le nom complet y serait faux autant que trop long.",
+    "Life Stone": "Les demons l'emploient comme nom commun, parfois en langage casse (« MOI AIMER PIERRE VIE! »). La minuscule et l'absence d'article sont voulues.",
+    "Mirror Shard": "Deux ecarts, tous deux legitimes : « les fragments du miroir » comme nom commun dans une phrase parlee, et « Fragment du Miroir du Chaos », qui est un AUTRE objet et n'a pas d'entree propre dans l'inventaire."
+  },
+
+  "ignorer": []
+}

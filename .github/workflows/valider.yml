@@ -16,6 +16,8 @@ on:
       - 'outils/check_trad.rb'
       - 'outils/*.tbl'
       - 'outils/glyphes_disponibles.json'
+      - 'outils/coherence_noms.py'
+      - 'outils/noms_tolerances.json'
       - 'docs/Dictionnaire.md'
 
 permissions:
@@ -32,6 +34,10 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
 
       # Une proposition qui touche au validateur, a la table de caracteres ou au
       # dictionnaire est validee sur TOUT le depot : l'outil change, donc son
@@ -78,6 +84,22 @@ jobs:
             exit 0
           fi
           echo "$liste" | xargs ruby outils/check_trad.rb --annoter             --base "${{ github.event.pull_request.base.sha }}"
+
+      # Les noms d'objets ne se contredisent-ils pas d'un fichier a l'autre ?
+      # Sur TOUT le corpus, parce qu'une incoherence se voit en rapprochant
+      # deux fichiers dont un seul bouge. Informatif : on ne refuse pas une
+      # proposition pour un ecart qu'elle n'a pas cree.
+      - name: Cohérence des noms
+        if: always()
+        continue-on-error: true
+        run: |
+          {
+            echo "## Cohérence des noms d'objets"
+            echo
+            echo '```text'
+            python outils/coherence_noms.py --tolerances outils/noms_tolerances.json 2>&1 || true
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Récapitulatif
         if: always()
