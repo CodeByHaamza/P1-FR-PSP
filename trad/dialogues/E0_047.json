@@ -46,7 +46,7 @@
     "locuteur": "Maki",
     "en": "No! That's no \"gate to paradise\"{SAUT}at all!{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "Non! Ce n'est pas du tout une \"porte{SAUT}du paradis\"!{ATTENTE}"
+    "fr": "Non! Pas du tout une \"porte{SAUT}du paradis\"!{ATTENTE}"
   },
   {
     "id": "E0.BIN:213:0007",
@@ -67,14 +67,14 @@
     "locuteur": "Pandora",
     "en": "These things... I do not need...{SAUT}Now begone from me... Fsssshrrrraaaa!{ATTENTE}",
     "locuteur_fr": "Pandore",
-    "fr": "Ces choses... je n'en ai pas besoin...{SAUT}Disparaissez donc... Fsssshrrrraaaa!{ATTENTE}"
+    "fr": "Ces choses... je n'en veux pas...{SAUT}Disparaissez... Fsssshrrrraaaa!{ATTENTE}"
   },
   {
     "id": "E0.BIN:215:0000",
     "locuteur": "Pandora",
     "en": "Why won't you give in? How...{SAUT}How can you be so strong!?{ATTENTE}",
     "locuteur_fr": "Pandore",
-    "fr": "Pourquoi ne cédez-vous pas? Comment...{SAUT}Comment pouvez-vous être si forts!?{ATTENTE}"
+    "fr": "Pourquoi résistez-vous? Comment...{SAUT}Comment êtes-vous si forts!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:215:0001",
@@ -95,21 +95,21 @@
     "locuteur": "Elly",
     "en": "Because we work not as individuals,{SAUT}but as a team.{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Parce que nous n'agissons pas en{SAUT}individus, mais en équipe.{ATTENTE}"
+    "fr": "Parce que nous agissons en équipe,{SAUT}pas en individus.{ATTENTE}"
   },
   {
     "id": "E0.BIN:215:0004",
     "locuteur": "Elly",
     "en": "Because we're not here alone...{SAUT}We're all here together.{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Parce que nous ne sommes pas seuls...{SAUT}Nous sommes tous ensemble.{ATTENTE}"
+    "fr": "Parce que nous ne sommes pas seuls...{SAUT}Nous sommes ensemble.{ATTENTE}"
   },
   {
     "id": "E0.BIN:215:0005",
     "locuteur": "Brown",
     "en": "It's because we work together.{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "C'est parce qu'on travaille ensemble.{ATTENTE}"
+    "fr": "Parce qu'on travaille ensemble.{ATTENTE}"
   },
   {
     "id": "E0.BIN:215:0006",
@@ -130,7 +130,7 @@
     "locuteur": "Nanjo",
     "en": "People can't live in isolation. If{SAUT}things are hard, just look around.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "On ne peut vivre isolé. Si les choses{SAUT}sont dures, regardez autour de vous.{ATTENTE}"
+    "fr": "On ne vit pas isolé. Si c'est dur,{SAUT}regardez autour de vous.{ATTENTE}"
   },
   {
     "id": "E0.BIN:215:0009",
@@ -144,7 +144,7 @@
     "locuteur": "Maki",
     "en": "You and me... We're both part of{SAUT}Maki Sonomura. These are our friends.{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "Toi et moi... On fait toutes les deux{SAUT}partie de Maki Sonomura. Voici nos amis.{ATTENTE}"
+    "fr": "Toi et moi... On est toutes les deux{SAUT}Maki Sonomura. Voici nos amis.{ATTENTE}"
   },
   {
     "id": "E0.BIN:215:0011",
@@ -179,7 +179,7 @@
     "locuteur": "Maki",
     "en": "Thank you... all of you. We have to{SAUT}part ways now...{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "Merci... à vous tous. Nous devons nous{SAUT}séparer maintenant...{ATTENTE}"
+    "fr": "Merci... à tous. Il faut nous{SAUT}séparer maintenant...{ATTENTE}"
   },
   {
     "id": "E0.BIN:215:0016",
@@ -200,7 +200,7 @@
     "locuteur": "Maki",
     "en": "I'm only a shadow of Maki Sonomura.{SAUT}I can't go with you...{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "Je ne suis qu'une ombre de Maki{SAUT}Sonomura. Je ne peux pas vous suivre...{ATTENTE}"
+    "fr": "Je ne suis qu'une ombre de Maki{SAUT}Sonomura. Je ne peux pas venir...{ATTENTE}"
   },
   {
     "id": "E0.BIN:215:0019",
@@ -221,7 +221,7 @@
     "locuteur": "Maki",
     "en": "I'll send you all back to the real{SAUT}world...{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "Je vais vous renvoyer tous dans le{SAUT}vrai monde...{ATTENTE}"
+    "fr": "Je vous renvoie dans le vrai{SAUT}monde...{ATTENTE}"
   },
   {
     "id": "E0.BIN:215:0022",
@@ -235,7 +235,7 @@
     "locuteur": "Maki",
     "en": "Thanks... I hope you'll think about me{SAUT}sometimes...{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "Merci... J'espère que tu penseras à moi{SAUT}de temps en temps...{ATTENTE}"
+    "fr": "Merci... Pense à moi de temps{SAUT}en temps...{ATTENTE}"
   },
   {
     "id": "E0.BIN:215:0024",
@@ -256,7 +256,7 @@
     "locuteur": "Maki",
     "en": "Goodbye, everyone...{SAUT}{PAUSE}[5800]Goodbye, (*APELLIDO_HEROE*)...{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "Au revoir, tout le monde...{SAUT}{PAUSE}[5800]Au revoir, (*APELLIDO_HEROE*)...{ATTENTE}"
+    "fr": "Adieu, tout le monde...{SAUT}{PAUSE}[5800]Adieu, (*APELLIDO_HEROE*)...{ATTENTE}"
   },
   {
     "id": "E0.BIN:216:0000",
@@ -333,7 +333,7 @@
     "locuteur": "Nanjo",
     "en": "\"A wise man never courts danger.\"{SAUT}Use your head, man.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "\"Le sage ne courtise pas le danger.\"{SAUT}Sers-toi de ta tête, mon vieux.{ATTENTE}"
+    "fr": "\"Le sage évite le danger.\"{SAUT}Sers-toi de ta tête, mon vieux.{ATTENTE}"
   },
   {
     "id": "E0.BIN:216:0011",
@@ -382,14 +382,14 @@
     "locuteur": "Mark",
     "en": "Aw, man, there they go...{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Ah, mec, les voilà qui partent...{ATTENTE}"
+    "fr": "Ah, mec, les voilà partis...{ATTENTE}"
   },
   {
     "id": "E0.BIN:216:0018",
     "locuteur": "Mark",
     "en": "Heheh... Looking at Maki now, that{SAUT}mess before seems like a bad dream...{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Héhé... En voyant Maki maintenant, tout{SAUT}ce bazar a l'air d'un mauvais rêve...{ATTENTE}"
+    "fr": "Héhé... En voyant Maki, tout ce{SAUT}bazar a l'air d'un mauvais rêve...{ATTENTE}"
   },
   {
     "id": "E0.BIN:216:0019",

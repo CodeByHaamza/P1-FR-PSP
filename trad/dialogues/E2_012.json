@@ -102,7 +102,7 @@
     "locuteur": "Area man",
     "en": "I wonder what she's been up to since the{SAUT}place turned into a forest.{ATTENTE}",
     "locuteur_fr": "Habitant",
-    "fr": "Je me demande ce qu'elle devient depuis{SAUT}que l'endroit s'est changé en forêt.{ATTENTE}"
+    "fr": "Que devient-elle, depuis que{SAUT}l'endroit s'est changé en forêt?{ATTENTE}"
   },
   {
     "id": "E2.BIN:183:0015",
@@ -501,7 +501,7 @@
     "locuteur": "Nanjo",
     "en": "Demons that ignore humans...?{SAUT}But clearly, they've attacked us.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Des démons qui ignorent les humains...?{SAUT}Mais ils nous ont clairement attaqués.{ATTENTE}"
+    "fr": "Des démons qui ignorent les humains...?{SAUT}Mais ils nous ont attaqués.{ATTENTE}"
   },
   {
     "id": "E2.BIN:186:0003",
@@ -543,7 +543,7 @@
     "locuteur": "Ayase",
     "en": "N-No way! There's pit viper in{SAUT}Gara Gara Drinks!?{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "P-Pas possible! Il y a de la vipère{SAUT}dans les boissons Gara Gara!?{ATTENTE}"
+    "fr": "P-Pas possible! De la vipère dans{SAUT}le Gara Gara!?{ATTENTE}"
   },
   {
     "id": "E2.BIN:186:0009",

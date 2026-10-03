@@ -11,7 +11,7 @@
     "locuteur": "Secret Police",
     "en": "Let judgement fall on mankind!{ATTENTE}",
     "locuteur_fr": "Police secrète",
-    "fr": "Que le jugement tombe sur l'humanité!{ATTENTE}"
+    "fr": "Que le jugement tombe sur l'homme!{ATTENTE}"
   },
   {
     "id": "E2.BIN:205:0002",
@@ -25,7 +25,7 @@
     "locuteur": "Secret Police",
     "en": "Mankind doesn't need a future! You think{SAUT}so too, right!?{ATTENTE}",
     "locuteur_fr": "Police secrète",
-    "fr": "L'humanité n'a pas besoin d'avenir!{SAUT}Tu le penses aussi, pas vrai!?{ATTENTE}"
+    "fr": "L'humanité n'a pas besoin d'avenir!{SAUT}Tu le penses aussi, non!?{ATTENTE}"
   },
   {
     "id": "E2.BIN:205:0004",
@@ -417,7 +417,7 @@
     "locuteur": "Area man",
     "en": "I feel like someone's going around and{SAUT}destroying this town...{ATTENTE}",
     "locuteur_fr": "Habitant",
-    "fr": "J'ai l'impression que quelqu'un se{SAUT}promène et détruit cette ville...{ATTENTE}"
+    "fr": "On dirait que quelqu'un se promène{SAUT}en détruisant la ville...{ATTENTE}"
   },
   {
     "id": "E2.BIN:209:0002",
@@ -431,7 +431,7 @@
     "locuteur": "Mark",
     "en": "This song's always on when we come here.{SAUT}It's driving me nuts.{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Cette chanson passe toujours quand on{SAUT}vient ici. Ça me rend dingue.{ATTENTE}"
+    "fr": "Toujours cette chanson quand on{SAUT}vient. Ça me rend dingue.{ATTENTE}"
   },
   {
     "id": "E2.BIN:209:0004",

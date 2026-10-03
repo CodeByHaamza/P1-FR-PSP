@@ -13,9 +13,45 @@ suivante.
 
 ---
 
-## Étape 1 — Rognage des blocs qui débordent
+## ✅ Étape 1 — Rognage des blocs qui débordent *(faite le 03/10/2026)*
 
-**C'est le verrou.** Rien d'autre ne peut avancer avant.
+C'était le verrou. `budget_blocs.py` dit maintenant **« aucun bloc en
+surplus »** : les 3 010 octets de départ sont rentrés.
+
+Deux leviers, dans cet ordre. D'abord les **étiquettes de locuteur**, qui sont
+encodées avec chaque réplique : trois caractères de trop sur quelqu'un qui
+parle cinquante fois coûtent trois cents octets. Trois renommages ont rendu
+512 octets et fait rentrer six blocs d'un coup — c'étaient aussi les plus
+longues étiquettes du corpus, qui débordaient probablement la boîte du
+locuteur, calibrée sur 21 caractères en anglais :
+
+| avant | caractères | après |
+|---|---|---|
+| Proviseur adjoint Hanya | 23 | **Adjoint Hanya** |
+| Proviseure adjointe Ooishi | 26 | **Adjointe Ooishi** |
+| Fille aux cheveux courts | 24 | **Fille coupe courte** |
+
+Ensuite le texte, bloc par bloc, du plus lourd au plus léger : **106 répliques
+reformulées plus court, à sens égal**. La langue y gagne souvent, le français
+traduit depuis l'anglais étant naturellement délayé (« C'est la raison pour
+laquelle vous avez abandonné » → « C'est pour ça que vous avez abandonné »).
+
+Deux cas ont demandé autre chose qu'un raccourcissement :
+
+- `E3.BIN` bloc 005 : l'étiquette « Grenouille » coûte 240 octets à elle seule
+  et ne peut pas raccourcir, c'est le nom du personnage. Les 91 caractères sont
+  venus de son monologue, qui était bavard.
+- Les huit blocs `E4.BIN` tenaient tous à la même phrase, répétée sur les sept
+  monuments des péchés : « Le péché de X de l'homme est enterré ici » devient
+  « Ici gît le péché de X de l'homme », plus court que l'anglais et plus juste
+  pour *interred*.
+
+Ce qu'on retient pour la suite : **toute correction qui rallonge une réplique
+doit repasser par `budget_blocs.py`**, parce que le symptôme d'un bloc qui
+déborde est un fichier entier en anglais, sans erreur.
+
+<details>
+<summary>L'état au départ, pour mémoire</summary>
 
 Le jeu lit son texte par blocs de taille fixe. Traduire plus long que l'anglais
 fait grossir un bloc, et **un bloc qui dépasse sa frontière fait rester tout son
@@ -36,22 +72,11 @@ avant la relecture : relire un texte qui ne s'affichera pas est du travail jeté
 Les pires : `E1.BIN` bloc 066 (+310 o), `E1.BIN` bloc 080 (+214 o), `E0.BIN`
 bloc 215 (+188 o), `E3.BIN` bloc 005 (+182 o), `E0.BIN` bloc 147 (+172 o).
 
-**Par quoi commencer.** Un levier rend beaucoup pour peu d'effort : les
-étiquettes de locuteur. `locuteur_fr` est écrit une fois par réplique, donc
-« Proviseur adjoint Hanya » (23 caractères) contre « Vice-Principal Hanya » (20)
-coûte trois caractères **à chaque ligne du personnage**. Le bloc 066 d'`E1.BIN`,
-le pire du lot, est en grande partie payé par Hanya et Ooishi. Raccourcir une
-étiquette répare des dizaines de lignes d'un coup, sans toucher au dialogue.
-`budget_blocs.py` signale ce coût ligne par ligne.
-
-Ensuite seulement, raccourcir les répliques elles-mêmes, en commençant par les
-blocs lourds.
-
-**Critère de sortie :** `budget_blocs.py` finit par « aucun bloc en surplus ».
+</details>
 
 ---
 
-## Étape 2 — Construire l'ISO et le vérifier à la machine
+## ✅ Étape 2 — Construire l'ISO et la vérifier à la machine *(faite le 03/10/2026)*
 
 Une fois les blocs rentrés dans leurs frontières, la chaîne complète peut
 tourner pour la première fois avec les cinq zones à 100 % :
@@ -62,15 +87,33 @@ tourner pour la première fois avec les cinq zones à 100 % :
 3. `verif_iso.py` pour comparer l'ISO produite à l'originale.
 
 Ce qu'on cherche ici n'est pas « est-ce beau », c'est « est-ce que le texte
-français est bien arrivé » : aucun fichier retombé en anglais, le compte de
-lignes françaises conforme, la taille et la structure de l'ISO saines.
+français est bien arrivé ».
 
-**Critère de sortie :** `verif_iso.py` passe, et un relevé des octets du jeu
-construit montre du français dans chacune des cinq zones.
+**Résultat.** Les 22 221 traductions sont posées dans les CSV, l'ISO se
+construit, et `verif_iso.py` conclut **« OK, aucun fichier de données
+déplacé »** : 58 fichiers modifiés en place, 198 identiques.
+
+Un point a demandé vérification : le build affiche `apendado=1`. Le fichier
+réécrit en fin d'image est `PSP_GAME/SYSDIR/EBOOT.BIN`, que le firmware charge
+**par l'index ISO9660** — le réécrire ailleurs est donc sans danger. La règle
+« un fichier de données ne doit jamais grossir » vise les `pack/E*.BIN`, que le
+code du jeu adresse par LBA en dur, et ceux-là sont tous restés en place. Les
+builds précédents ajoutaient déjà les mêmes 3 002 secteurs, soit exactement la
+taille de l'EBOOT.
+
+Reste que `verif_iso.py` ne prouve pas que le texte *dedans* est en français.
+D'où `game/tools/verif_fr_iso.rb`, ajouté pour ça : il encode une phrase
+française de chaque zone avec la table du jeu et la cherche dans les octets de
+l'ISO construite. Les sept témoins sont trouvés, accents compris (« Ici gît le
+péché », « Fragment de Miroir », « Grotte Alaya »). Le piège, au premier essai :
+**l'espace n'est pas dans `persona1_psp.tbl`**, il s'encode `0x0000`, et le
+chercher dans la table rend `nil` — les sept témoins paraissaient absents.
+
+**Critère de sortie :** atteint.
 
 ---
 
-## Étape 3 — Notre propre relecture, outillée
+## Étape 3 — Notre propre relecture, outillée  ⬅️ **la suivante**
 
 Avant de faire lire des inconnus, on passe nous-mêmes. Trois passes, dans cet
 ordre, parce que chacune rend la suivante moins bruyante.
@@ -83,8 +126,8 @@ ils ne sont pas du bruit :
 | type | nombre | ce que ça veut dire |
 |---|---|---|
 | `[BUDGET]` | 290 | entrée de l'EBOOT plus longue que l'anglais : elle passe par un code cave, qui marche mais demande une vérification en jeu |
-| `[LARGEUR]` | 275 | ligne plus large que l'anglais ; le mur réel est en pixels, pas en caractères, donc chacune demande un œil |
-| `[OCTETS]` | 22 | la ligne pousse son bloc ; à surveiller même après l'étape 1 |
+| `[LARGEUR]` | 275 → **90 dans les dialogues** | ligne plus large que l'anglais ; le mur réel est en pixels, pas en caractères, donc chacune demande un œil. L'étape 1 en a résorbé une bonne part au passage |
+| `[OCTETS]` | 22 → **3 dans les dialogues** | la ligne pousse son bloc ; à surveiller même après l'étape 1 |
 | `[PLACE]` | 9 | négociations : absorbé par les autres fichiers du démon, rien à faire |
 | `[TERMINO]` | 1 | faux positif (« Maki Sonomura » signalé comme à aligner sur lui-même) |
 

@@ -53,7 +53,7 @@
     "locuteur": "Night Queen",
     "en": "You have my thanks. I am at last freed{SAUT}from my host and the mask that bound me.{ATTENTE}",
     "locuteur_fr": "Reine de la Nuit",
-    "fr": "Merci à vous. Je suis enfin libre de{SAUT}mon hôte et du masque qui m'enchaînait.{ATTENTE}"
+    "fr": "Merci. Je suis enfin libre de mon{SAUT}hôte et du masque qui m'enchaînait.{ATTENTE}"
   },
   {
     "id": "E1.BIN:209:0008",
@@ -95,7 +95,7 @@
     "locuteur": "Yukino",
     "en": "H-Hey! Wait!{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "H-He! Stop!{ATTENTE}"
+    "fr": "H-Hé! Stop!{ATTENTE}"
   },
   {
     "id": "E1.BIN:210:0000",
@@ -241,35 +241,35 @@
     "id": "E2.BIN:000:0005",
     "locuteur": "Vice-Principal Hanya",
     "en": "Who told you kids that you could go{SAUT}through here?{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Qui vous a dit que vous pouviez passer{SAUT}par ici?{ATTENTE}"
   },
   {
     "id": "E2.BIN:000:0006",
     "locuteur": "Vice-Principal Hanya",
     "en": "If you want to get outside, the school{SAUT}gates are there for a reason!{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Si vous voulez sortir, le portail du{SAUT}lycée est là pour ça!{ATTENTE}"
   },
   {
     "id": "E2.BIN:000:0007",
     "locuteur": "Vice-Principal Hanya",
     "en": "Our school's swarming with degenerates{SAUT}like you! Ooishi is far too lenient!{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Notre lycée grouille de dégénérés comme{SAUT}vous! Ooishi est bien trop laxiste!{ATTENTE}"
   },
   {
     "id": "E2.BIN:000:0008",
     "locuteur": "Vice-Principal Hanya",
     "en": "Now get outta here! I'm going to call{SAUT}a specialist and have this blocked off!{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Dehors! Je vais appeler un spécialiste{SAUT}pour faire boucher ce passage!{ATTENTE}"
   },
   {
     "id": "E2.BIN:000:0010",
     "locuteur": "Vice-Principal Hanya",
     "en": "You there! I TOLD you not to use{SAUT}this place!{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Vous là! Je vous ai DIT de ne pas{SAUT}utiliser cet endroit!{ATTENTE}"
   },
   {

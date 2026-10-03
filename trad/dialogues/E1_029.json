@@ -217,14 +217,14 @@
     "locuteur": "Elly",
     "en": "Ayase! Can't you think rationally for{SAUT}a change?{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Ayase! Tu ne peux pas réfléchir{SAUT}rationnellement, pour une fois?{ATTENTE}"
+    "fr": "Ayase! Tu peux pas réfléchir un peu,{SAUT}pour une fois?{ATTENTE}"
   },
   {
     "id": "E1.BIN:193:0008",
     "locuteur": "Elly",
     "en": "How could a small girl be here?{SAUT}She clearly must be a monster!{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Comment une petite fille pourrait être{SAUT}ici? C'est forcément un monstre!{ATTENTE}"
+    "fr": "Une petite fille, ici? C'est{SAUT}forcément un monstre!{ATTENTE}"
   },
   {
     "id": "E1.BIN:193:0009",
@@ -246,7 +246,7 @@
     "locuteur": "Girl in white",
     "en": "I'm Mai. I'm not lost, and I'm not{SAUT}a demon, either.{ATTENTE}",
     "locuteur_fr": "Fille en blanc",
-    "fr": "Je suis Mai. Je suis pas perdue, et je{SAUT}suis pas un démon non plus.{ATTENTE}"
+    "fr": "Je suis Mai. Pas perdue, et pas un{SAUT}démon non plus.{ATTENTE}"
   },
   {
     "id": "E1.BIN:193:0012",
@@ -359,7 +359,7 @@
     "locuteur": "Elly",
     "en": "A little girl alone, here of all{SAUT}places... It has to be a monster!{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Une petite fille seule, ici de tous les{SAUT}endroits... C'est forcément un monstre!{ATTENTE}"
+    "fr": "Une petite fille seule, ici...{SAUT}C'est forcément un monstre!{ATTENTE}"
   },
   {
     "id": "E1.BIN:195:0000",
@@ -380,7 +380,7 @@
     "locuteur": "Masked man",
     "en": "She should be painting on the floor{SAUT}below.{ATTENTE}",
     "locuteur_fr": "Homme masqué",
-    "fr": "Elle doit être en train de peindre à{SAUT}l'étage du dessous.{ATTENTE}"
+    "fr": "Elle doit peindre à l'étage{SAUT}du dessous.{ATTENTE}"
   },
   {
     "id": "E1.BIN:195:0003",
@@ -478,7 +478,7 @@
     "locuteur": "Ayase",
     "en": "So like, this is the old Student Council{SAUT}room?{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "Alors genre, c'est l'ancienne salle du{SAUT}conseil des élèves?{ATTENTE}"
+    "fr": "Genre, c'est l'ancienne salle du{SAUT}conseil?{ATTENTE}"
   },
   {
     "id": "E1.BIN:195:0018",
@@ -492,7 +492,7 @@
     "locuteur": "Nanjo",
     "en": "Did you find anything useful?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Avez-vous trouvé quelque chose d'utile?{ATTENTE}"
+    "fr": "Trouvé quelque chose d'utile?{ATTENTE}"
   },
   {
     "id": "E1.BIN:195:0021",
@@ -534,7 +534,7 @@
     "locuteur": "Girl in black",
     "en": "I can't waste time like this!{ATTENTE}",
     "locuteur_fr": "Fille en noir",
-    "fr": "Je peux pas perdre de temps comme ça!{ATTENTE}"
+    "fr": "Je peux pas perdre de temps!{ATTENTE}"
   },
   {
     "id": "E1.BIN:196:0001",
@@ -660,7 +660,7 @@
     "locuteur": "Yukino",
     "en": "We saw him one floor up. It was this{SAUT}place that looked like a stage.{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "On l'a vu un étage au-dessus. C'était{SAUT}un endroit qui ressemblait à une scène.{ATTENTE}"
+    "fr": "On l'a vu un étage au-dessus. Ça{SAUT}ressemblait à une scène.{ATTENTE}"
   },
   {
     "id": "E1.BIN:196:0023",

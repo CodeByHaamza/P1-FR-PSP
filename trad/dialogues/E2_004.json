@@ -27,7 +27,7 @@
     "locuteur": "Mark",
     "en": "I wonder if kids still come to places{SAUT}like this nowadays.{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Je me demande si les gamins viennent{SAUT}encore dans des endroits comme ça.{ATTENTE}"
+    "fr": "Les gamins viennent encore dans ce{SAUT}genre d'endroit?{ATTENTE}"
   },
   {
     "id": "E2.BIN:046:0004",
@@ -225,7 +225,7 @@
     "locuteur": "Rumor-loving housewife",
     "en": "In the space of only a year, she's{SAUT}struck it rich somehow!{ATTENTE}",
     "locuteur_fr": "Fan de rumeurs",
-    "fr": "En l'espace d'un an à peine, elle s'est{SAUT}enrichie je sais pas comment!{ATTENTE}"
+    "fr": "En un an à peine, elle s'est{SAUT}enrichie je sais pas comment!{ATTENTE}"
   },
   {
     "id": "E2.BIN:047:0020",

@@ -397,42 +397,42 @@
     "id": "E3.BIN:000:0004",
     "locuteur": "Vice-Principal Hanya",
     "en": "How dare he give me lip that way!{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Comment ose-t-il me répondre ainsi!{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0005",
     "locuteur": "Vice-Principal Hanya",
     "en": "I'm not listening to his excuses!{SAUT}They're only lies, anyway.{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Je n'écoute pas ses excuses!{SAUT}Ce ne sont que des mensonges.{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0006",
     "locuteur": "Vice-Principal Hanya",
     "en": "As punishment, he must clean windows,{SAUT}write lines, and polish my shoes!{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Pour le punir, il lavera les vitres,{SAUT}copiera des lignes et cirera mes souliers!{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0007",
     "locuteur": "Vice-Principal Hanya",
     "en": "Oh, if only it had been real...{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Oh, si seulement ç'avait été vrai...{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0008",
     "locuteur": "Vice-Principal Hanya",
     "en": "Hm? No, it's nothing. Don't interfere{SAUT}with his punishment.{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Hm? Non, ce n'est rien. Ne gênez pas{SAUT}sa punition.{ATTENTE}"
   },
   {
     "id": "E3.BIN:000:0009",
     "locuteur": "Vice-Principal Hanya",
     "en": "Hey! Don't interfere with his punishment!{SAUT}Unless you want to join him?{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Hé! Ne gênez pas sa punition!{SAUT}À moins de vouloir le rejoindre?{ATTENTE}"
   },
   {

@@ -61,7 +61,7 @@
     "locuteur": "Nanjo",
     "en": "I'm... not sure what you're trying{SAUT}to say, but...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Je... ne vois pas bien ce que tu{SAUT}essaies de dire, mais...{ATTENTE}"
+    "fr": "Je... ne vois pas où tu veux en{SAUT}venir, mais...{ATTENTE}"
   },
   {
     "id": "E1.BIN:009:0009",
@@ -89,7 +89,7 @@
     "locuteur": "Elly",
     "en": "It also seems related to the demon{SAUT}invasion somehow...{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Cela semble aussi lié à l'invasion des{SAUT}démons, d'une façon ou d'une autre...{ATTENTE}"
+    "fr": "Cela semble lié à l'invasion des{SAUT}démons, aussi...{ATTENTE}"
   },
   {
     "id": "E1.BIN:009:0013",
@@ -180,7 +180,7 @@
     "locuteur": "Nanjo",
     "en": "If you use this power for personal gain,{SAUT}you'll reap what you sow.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Si tu uses de ce pouvoir pour toi seule,{SAUT}tu récolteras ce que tu as semé.{ATTENTE}"
+    "fr": "Si tu uses de ce pouvoir pour toi,{SAUT}tu récolteras ce que tu sèmes.{ATTENTE}"
   },
   {
     "id": "E1.BIN:009:0026",
@@ -194,7 +194,7 @@
     "locuteur": "Brown",
     "en": "Oh, duh! I know exactly what that{SAUT}butterfly wants me to do!{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "Oh, mais oui! Je sais exactement ce que{SAUT}ce papillon veut que je fasse!{ATTENTE}"
+    "fr": "Oh, mais oui! Je sais ce que ce{SAUT}papillon veut que je fasse!{ATTENTE}"
   },
   {
     "id": "E1.BIN:009:0028",
@@ -279,7 +279,7 @@
     "locuteur": "Brown",
     "en": "Plus, I heard it's your fault the school{SAUT}is in this mess.{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "En plus, il paraît que c'est ta faute si{SAUT}le lycée est dans cet état.{ATTENTE}"
+    "fr": "En plus, paraît que c'est ta faute,{SAUT}le lycée dans cet état.{ATTENTE}"
   },
   {
     "id": "E1.BIN:009:0040",
@@ -491,7 +491,7 @@
     "locuteur": "Ayase",
     "en": "Omigosh! Look at those dolls!{SAUT}They're, like, sooooo cute!{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "Oh mon dieu! Regardez ces poupées!{SAUT}Elles sont, genre, trooop mignonnes!{ATTENTE}"
+    "fr": "Oh mon dieu! Ces poupées!{SAUT}Elles sont, genre, trooop mignonnes!{ATTENTE}"
   },
   {
     "id": "E1.BIN:010:0027",

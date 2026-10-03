@@ -242,7 +242,7 @@
     "locuteur": "Ayase",
     "en": "It's kinda weird for shops to stay open{SAUT}at a time like this.{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "C'est un peu bizarre que des magasins{SAUT}restent ouverts à un moment comme ça.{ATTENTE}"
+    "fr": "C'est bizarre que des magasins{SAUT}restent ouverts, à ce moment-là.{ATTENTE}"
   },
   {
     "id": "E2.BIN:111:0012",
@@ -354,14 +354,14 @@
     "locuteur": "Teacher",
     "en": "Oh, it's you, (*APELLIDO_HEROE*). Hey, go{SAUT}patrol around the school!{ATTENTE}",
     "locuteur_fr": "Professeur",
-    "fr": "Oh, c'est toi, (*APELLIDO_HEROE*). Tiens,{SAUT}va patrouiller dans l'école!{ATTENTE}"
+    "fr": "Oh, c'est toi, (*APELLIDO_HEROE*). Va{SAUT}patrouiller dans l'école!{ATTENTE}"
   },
   {
     "id": "E2.BIN:128:0001",
     "locuteur": "Teacher",
     "en": "Me? I-I can't leave this spot... I have{SAUT}to sort out all the reports I get!{ATTENTE}",
     "locuteur_fr": "Professeur",
-    "fr": "Moi? J-Je peux pas quitter ce poste...{SAUT}Je dois trier tous les rapports reçus!{ATTENTE}"
+    "fr": "Moi? J-Je peux pas bouger d'ici...{SAUT}Je dois trier tous ces rapports!{ATTENTE}"
   },
   {
     "id": "E2.BIN:129:0000",
@@ -414,14 +414,14 @@
     "id": "E2.BIN:131:0000",
     "locuteur": "Short-haired girl",
     "en": "Hey, the principal was right after all{SAUT}about the guardian of this school!{ATTENTE}",
-    "locuteur_fr": "Fille aux cheveux courts",
+    "locuteur_fr": "Fille coupe courte",
     "fr": "Hé, la proviseure avait raison, après{SAUT}tout, sur le gardien de cette école!{ATTENTE}"
   },
   {
     "id": "E2.BIN:131:0001",
     "locuteur": "Short-haired girl",
     "en": "I mean, not a single demon has gotten in{SAUT}here yet, right?{ATTENTE}",
-    "locuteur_fr": "Fille aux cheveux courts",
+    "locuteur_fr": "Fille coupe courte",
     "fr": "Enfin, aucun démon est entré ici pour{SAUT}l'instant, pas vrai?{ATTENTE}"
   },
   {
@@ -579,7 +579,7 @@
     "locuteur": "Rumor-loving girl",
     "en": "It must be the ghost of a Sengoku-era{SAUT}general or something!{ATTENTE}",
     "locuteur_fr": "Fan de rumeurs",
-    "fr": "Ça doit être le fantôme d'un général{SAUT}de l'ère Sengoku ou un truc du genre!{ATTENTE}"
+    "fr": "Ça doit être le fantôme d'un général{SAUT}de l'ère Sengoku ou autre!{ATTENTE}"
   },
   {
     "id": "E2.BIN:134:0000",
