@@ -101,6 +101,28 @@ manque un mot.
 Ce message **ne bloque pas** ta proposition ; il bloque la fabrication d'une
 version.
 
+**`[TYPO] 'commnet' ×1 → comment ×180 (inversion)`**
+Une faute de frappe, trouvée **sans dictionnaire**. Le principe : un vrai mot
+revient dans le corpus, une faute n'y apparaît qu'une fois — et il existe
+presque toujours, ailleurs, le mot juste à un accident de frappe près.
+
+On ne cherche pas « à une lettre près », ce qui rapprocherait des milliers de
+vrais mots (`absurde` et `absurdes`, `agent` et `argent`). On cherche **trois
+accidents** : deux lettres voisines échangées (`commnet`), une lettre tapée
+trois fois (`sommmes`), une apostrophe oubliée (`Quest-ce`). Entre deux vrais
+mots français, ces accidents-là sont rares.
+
+Le corpus est propre depuis le 03/10/2026 : si ce message apparaît sur ta
+proposition, c'est qu'elle l'a introduit.
+
+**`[DOUBLON] 'de'`**
+Le même mot deux fois de suite. Une ponctuation entre les deux ne compte pas :
+« Persona! Persona! » est une emphase, pas une faute.
+
+**`[TYPOGRAPHIE] espace avant ! ou ?`**
+Le projet écrit `blague!` et `déjà?`, sans espace — c'est la typographie des
+lignes déjà validées en jeu, pas celle du français soigné.
+
 **`[NOM-ENCADRE] X — l'inventaire dit « Y »`**
 Un nom d'objet affiché à l'écran ne s'écrit pas comme dans l'inventaire. C'est
 le constat le plus sûr des trois, parce qu'il ne devine rien : le jeu **encadre**
