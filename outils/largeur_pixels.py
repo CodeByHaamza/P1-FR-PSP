@@ -81,6 +81,29 @@ ANCHOS = {"…": "...", "’": "'", "‘": "'", "“": '"', "”": '"', "—": "
 # moins sur ce libelle, et autant sur toute la zone des menus.
 ESPACE_BRUT = re.compile(r"\[0000\]")
 
+# Une entree de negociation contient PLUSIEURS repliques du demon : sa reaction
+# change selon ce que le joueur a dit. Elles sont separees par un marqueur
+# encadre — `[FFFD]` un code `[F5xx]` — dont le milieu s'ecrit `[72FF]`, ou
+# sous la forme du caractere que la table donne a ce code : « E » accentue pour
+# 0x00FF, « alpha » pour 0x01FF. Aucune ambiguite avec du vrai francais : le
+# marqueur n'est reconnu qu'entre ses crochets, donc « IMPERATRICE » reste un
+# mot. 3 118 marqueurs, dans les negociations uniquement — zero ailleurs.
+#
+# Ne pas couper la, c'est mesurer deux ou trois repliques comme une seule
+# ligne : c'est d'ou venait la limite de 568 px, pour une boite qui n'en fait
+# que 426. La jauge laissait passer un tiers de trop sur la moitie du corpus.
+SEPARATEUR = re.compile(r"\[FFFD\](?:\[[0-9A-Fa-f]{4}\]|[^\[])*?\[F5[0-9A-Fa-f]{2}\](?:\[[0-9A-Fa-f]{4}\])*")
+
+# Deux entrees collent leurs repliques sans aucun marqueur, une double espace
+# pour toute frontiere : « ANYWAY!  HMM... YOU BAD MOUTH! ». On ne reconnait
+# que ce cas — ponctuation de fin, deux espaces LITTERALES, puis une capitale —
+# et il ne se presente nulle part ailleurs : zero occurrence dans les
+# dialogues, l'EBOOT, les donjons et les noms. A ne pas confondre avec le trou
+# laisse par un jeton retire (« teacher for  and the ») : celui-la n'a qu'une
+# espace de chaque cote dans le texte brut. Sans cette regle, ces deux lignes a
+# elles seules portaient l'etalon de 426 a 519 px.
+COLLAGE = re.compile(r"(?<=[.!?])  +(?=[A-ZÀ-Ý])")
+
 
 def lignes_affichees(texte: str) -> list[str]:
     """Le texte decoupe comme le jeu l'affiche, une ligne par entree, ROGNEE.
@@ -95,12 +118,18 @@ def lignes_affichees(texte: str) -> list[str]:
     texte = ESPACE_BRUT.sub(" ", texte or "")
     for a, b in ANCHOS.items():
         texte = texte.replace(a, b)
-    # Tout ce qui termine une ligne a l'ecran : le saut manuel, le changement
-    # de page, la fermeture de la boite, l'attente d'une touche, le nom du
-    # locuteur dans son cadre, et `(*RESPONSE*)` — une entree de negociation
-    # en contient plusieurs, et chacune s'affiche a son tour.
-    morceaux = re.split(r"\{SAUT\}|\{PAGE\}|\{FERME\}|\{ATTENTE\}|\(\*SPEAKER\*\)|\(\*RESPONSE\*\)", texte)
-    return [JETON.sub("", m).strip() for m in morceaux]
+    # D'abord les frontieres entre repliques d'une meme entree, tant que les
+    # jetons sont encore la : le marqueur EST un jeton.
+    morceaux = []
+    for part in SEPARATEUR.split(texte):
+        morceaux += COLLAGE.split(part)
+    # Puis tout ce qui termine une ligne a l'ecran : le saut manuel, le
+    # changement de page, la fermeture de la boite, l'attente d'une touche, le
+    # nom du locuteur dans son cadre, et `(*RESPONSE*)`.
+    lignes = []
+    for part in morceaux:
+        lignes += re.split(r"\{SAUT\}|\{PAGE\}|\{FERME\}|\{ATTENTE\}|\(\*SPEAKER\*\)|\(\*RESPONSE\*\)", part)
+    return [JETON.sub("", m).strip() for m in lignes]
 
 
 # Une ligne de mise en scene (marqueurs de scene, remplissage) n'est jamais
