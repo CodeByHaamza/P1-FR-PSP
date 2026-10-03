@@ -20,17 +20,18 @@ compris.
 <!-- badges:fin -->
 
 **Le texte est traduit à 100 %. On cherche maintenant des relecteurs et des
-testeurs.** Rien à installer pour relire : tu ouvres un fichier dans ton
-navigateur, tu corriges, tu proposes. Un robot vérifie la technique à ta place.
-Ce qui reste à faire, et dans quel ordre, est écrit dans la
-[feuille de route](docs/FEUILLE_DE_ROUTE.md).
+testeurs.** Rien à installer : l'**[outil de relecture](https://codebyhaamza.github.io/p1-relecture/)** ouvre les 284
+scripts comme un roman, et vérifie chaque proposition contre les contraintes du
+jeu pendant que tu la tapes. Il montre aussi ce qui est déjà relu, pour que
+personne ne refasse le travail d'un autre. Ce qui reste à faire, et dans quel
+ordre, est écrit dans la [feuille de route](docs/FEUILLE_DE_ROUTE.md).
 
 On travaille avec la communauté du **[Grimoire du Cœur](https://discord.gg/s6CRadvPa3)**,
 le Discord francophone des traductions Persona : c'est là qu'on discute d'une
 réplique, d'un terme, d'un doute — avant de trancher, et souvent avant
 d'ouvrir une issue. Viens dire bonjour.
 
-👉 **[Comment aider](CONTRIBUTING.md)** · **[Avancement](SUIVI.md)** · **[Feuille de route](docs/FEUILLE_DE_ROUTE.md)** · **[FAQ](docs/FAQ.md)** · **[Discord](https://discord.gg/s6CRadvPa3)**
+👉 **[Relire en ligne](https://codebyhaamza.github.io/p1-relecture/)** · **[Comment aider](CONTRIBUTING.md)** · **[Avancement](SUIVI.md)** · **[Feuille de route](docs/FEUILLE_DE_ROUTE.md)** · **[FAQ](docs/FAQ.md)** · **[Discord](https://discord.gg/s6CRadvPa3)**
 
 <br clear="right">
 

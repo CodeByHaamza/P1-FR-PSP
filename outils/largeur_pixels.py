@@ -46,6 +46,13 @@ RACINE = Path(__file__).resolve().parents[2]
 ICI = Path(__file__).resolve().parent
 sys.path.insert(0, str(ICI))
 
+# La console Windows tourne en cp1252 : afficher un caractere du corpus y leve
+# une exception et fait echouer un outil qui n'avait rien trouve a redire.
+# Ecrire en UTF-8, et remplacer ce que le terminal ne sait pas dessiner.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
 
 def a_cote(nom: str, *replis: Path) -> Path:
     """Le fichier a cote de l'outil (depot public), sinon son chemin prive.
@@ -67,17 +74,33 @@ JETON = re.compile(r"\{[A-Z]+\}|\(\*[^*]*\*\)|\[[0-9A-Fa-f]{4}\]")
 # Le moteur remplace ces caracteres avant d'encoder : les mesurer autrement
 # serait mesurer un texte que le jeu n'affiche pas.
 ANCHOS = {"…": "...", "’": "'", "‘": "'", "“": '"', "”": '"', "—": "-", "–": "-"}
+# `[0000]` n'est pas un code de controle : c'est L'ESPACE. Elle ne figure pas
+# dans la table de caracteres, elle s'encode sur le code 0, et l'extracteur de
+# l'EBOOT l'ecrit sous cette forme — d'ou `Teacher's[0000]Lounge`. La retirer
+# avec les autres jetons, c'est mesurer « Salledesprofs » : quinze pixels de
+# moins sur ce libelle, et autant sur toute la zone des menus.
+ESPACE_BRUT = re.compile(r"\[0000\]")
 
 
 def lignes_affichees(texte: str) -> list[str]:
-    """Le texte decoupe comme le jeu l'affiche : une entree par ligne a l'ecran."""
+    """Le texte decoupe comme le jeu l'affiche, une ligne par entree, ROGNEE.
+
+    Un libelle de menu est centre par des espaces de tete, et les compter dans
+    sa largeur porterait l'etalon des menus a 1 880 px — une limite qui
+    n'interdit plus rien. Ce que le relecteur ecrit, c'est le texte ; c'est donc
+    le texte qu'on mesure. Les espaces INTERIEURES comptent, elles : « Salle
+    des profs » est plus large que « Salledesprofs », et c'est tout l'interet
+    de rendre son espace a `[0000]`.
+    """
+    texte = ESPACE_BRUT.sub(" ", texte or "")
     for a, b in ANCHOS.items():
-        texte = (texte or "").replace(a, b)
+        texte = texte.replace(a, b)
     # Tout ce qui termine une ligne a l'ecran : le saut manuel, le changement
-    # de page, la fermeture de la boite, l'attente d'une touche, et le nom du
-    # locuteur qui s'affiche dans son propre cadre.
-    morceaux = re.split(r"\{SAUT\}|\{PAGE\}|\{FERME\}|\{ATTENTE\}|\(\*SPEAKER\*\)", texte)
-    return [JETON.sub("", m) for m in morceaux]
+    # de page, la fermeture de la boite, l'attente d'une touche, le nom du
+    # locuteur dans son cadre, et `(*RESPONSE*)` — une entree de negociation
+    # en contient plusieurs, et chacune s'affiche a son tour.
+    morceaux = re.split(r"\{SAUT\}|\{PAGE\}|\{FERME\}|\{ATTENTE\}|\(\*SPEAKER\*\)|\(\*RESPONSE\*\)", texte)
+    return [JETON.sub("", m).strip() for m in morceaux]
 
 
 # Une ligne de mise en scene (marqueurs de scene, remplissage) n'est jamais
@@ -90,9 +113,14 @@ CJK = re.compile(r"[\u3040-\u30ff\u4e00-\u9fff]")
 
 
 def est_affichee(ligne: str) -> bool:
-    if REMPLISSAGE.search(ligne) or CJK.search(ligne):
+    if CJK.search(ligne):
         return False
     net = ligne.strip()
+    # Le remplissage ne se juge que sur l'INTERIEUR. Les lignes arrivent deja
+    # rognees ; un libelle de menu centre par des espaces de tete est une ligne
+    # que le jeu affiche pour de bon, et la regle brute en ecartait 188.
+    if REMPLISSAGE.search(net):
+        return False
     return 0 < len(net) <= 60 and any(c.isalpha() for c in net)
 
 

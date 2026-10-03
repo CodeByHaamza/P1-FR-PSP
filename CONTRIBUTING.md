@@ -5,6 +5,28 @@ installer, pas d'outil à télécharger, aucune ligne de code.
 
 ---
 
+## Relire : le plus simple
+
+Le texte est écrit ; ce qui manque, ce sont des yeux. L'**[outil de relecture](https://codebyhaamza.github.io/p1-relecture/)**
+est fait pour ça et ne demande rien à installer :
+
+1. Le sommaire montre les 284 scripts. Le filtre **Pas encore relus** mène droit
+   au travail qui reste — et un sceau d'or dit si quelqu'un s'en occupe déjà,
+   pour que deux personnes ne relisent pas le même.
+2. Tu lis le fil du script comme un roman. L'anglais ne se montre qu'à la
+   demande.
+3. Une réplique à reprendre : **Proposer**. Trois jauges répondent pendant la
+   frappe — les codes du jeu, la largeur en pixels, et le budget du bloc — et le
+   bouton reste gris tant que ça ne tient pas. Tu ne peux pas envoyer quelque
+   chose qui casserait le jeu.
+4. **Envoyer** ouvre une issue préremplie ici. Rien à corriger ? Le même bouton
+   dit **Signaler relu** : un script impeccable doit pouvoir ressortir relu.
+
+Les quatre règles ci-dessous restent vraies, mais l'outil les vérifie pour toi.
+La suite de cette page sert à **traduire ou corriger les fichiers à la main**.
+
+---
+
 ## En deux minutes
 
 1. Ouvre [SUIVI.md](SUIVI.md) et prends un fichier marqué **libre**. S'il y a
@@ -129,7 +151,8 @@ La largeur de chaque glyphe vient de la table du jeu, et la limite de la ligne
 anglaise la plus large — l'anglais d'origine tient forcément. Le robot fait
 cette mesure sur chaque proposition et l'écrit dans le récapitulatif.
 
-Vise 38 en écrivant, laisse la mesure dire le dernier mot.
+Vise 38 en écrivant, laisse la mesure dire le dernier mot — ou laisse
+l'[outil de relecture](https://codebyhaamza.github.io/p1-relecture/) la faire pendant que tu tapes.
 
 Le français est 20 à 30 % plus long que l'anglais. Reformuler court fait partie
 du travail : c'est souvent là que la traduction devient bonne.
