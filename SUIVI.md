@@ -200,7 +200,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_047.json`](trad/dialogues/E0_047.json) | 69 | 69 | 100 % | terminé |
 | [`E0_048.json`](trad/dialogues/E0_048.json) | 50 | 50 | 100 % | terminé par @Gyotre, @ATMC14 |
 | [`E1_001.json`](trad/dialogues/E1_001.json) | 80 | 77 | 96 % | commencé · 2 trop large |
-| [`E1_002.json`](trad/dialogues/E1_002.json) | 100 | 99 | 99 % | commencé · 1 trop large |
+| [`E1_002.json`](trad/dialogues/E1_002.json) | 100 | 99 | 99 % | en cours par @CodeByHaamza (#126) · 1 trop large |
 | [`E1_003.json`](trad/dialogues/E1_003.json) | 94 | 94 | 100 % | terminé |
 | [`E1_004.json`](trad/dialogues/E1_004.json) | 87 | 87 | 100 % | terminé |
 | [`E1_005.json`](trad/dialogues/E1_005.json) | 81 | 76 | 94 % | commencé |
