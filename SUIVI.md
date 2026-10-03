@@ -3,13 +3,13 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Dialogues      ███████████████████████░   97 %    8 285 / 8 572 textes
+Dialogues      ████████████████████████  100 %    8 560 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
 Négociations   ████████████████████████  100 %   12 487 / 12 487 textes
 Noms           ████████████████████████  100 %      439 / 439 textes
 
-Total          ████████████████████████   99 %   24 297 / 24 584 textes
+Total          ████████████████████████  100 %   24 572 / 24 584 textes
 ```
 
 ## Poids à surveiller
@@ -240,10 +240,10 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E2_007.json`](trad/dialogues/E2_007.json) | 99 | 99 | 100 % | terminé |
 | [`E2_008.json`](trad/dialogues/E2_008.json) | 99 | 99 | 100 % | terminé |
 | [`E2_009.json`](trad/dialogues/E2_009.json) | 97 | 97 | 100 % | terminé |
-| [`E2_010.json`](trad/dialogues/E2_010.json) | 97 | 0 | 0 % | en cours par @Uolil-Raccoon (#87) |
-| [`E2_011.json`](trad/dialogues/E2_011.json) | 90 | 0 | 0 % | en cours par @CodeByHaamza (#119) |
+| [`E2_010.json`](trad/dialogues/E2_010.json) | 97 | 97 | 100 % | terminé |
+| [`E2_011.json`](trad/dialogues/E2_011.json) | 90 | 90 | 100 % | terminé |
 | [`E2_012.json`](trad/dialogues/E2_012.json) | 91 | 91 | 100 % | terminé |
-| [`E2_013.json`](trad/dialogues/E2_013.json) | 88 | 0 | 0 % | en cours par @CodeByHaamza (#119) |
+| [`E2_013.json`](trad/dialogues/E2_013.json) | 88 | 88 | 100 % | terminé |
 | [`E2_014.json`](trad/dialogues/E2_014.json) | 95 | 95 | 100 % | terminé |
 | [`E2_015.json`](trad/dialogues/E2_015.json) | 91 | 91 | 100 % | terminé · 3 trop large |
 | [`E2_016.json`](trad/dialogues/E2_016.json) | 100 | 100 | 100 % | terminé |
