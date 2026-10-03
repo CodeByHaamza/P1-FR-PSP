@@ -221,7 +221,7 @@
   {
     "id": "E4.BIN:192:0003",
     "en": "(*UNK_0E,0000*){FERME} (*PLAY_SFX*)[8402][D012] (*PLAY_SFX*)[9802][A012] (*SCENE_LOAD*) [D012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5B00]Í (*SET_CHOICE*)[4400]Í (*HIDE_MSG*) (*WAIT_INPUT*) [D812] (*SHOW_MSG*) (*PLAY_BGM*)[8402](*SCENE_INIT*) (*SCENE_INIT*)   > Light pours from the monument and{SAUT}coalesces into matter.{ATTENTE}",
-    "fr": "(*UNK_0E,0000*){FERME} (*PLAY_SFX*)[8402][D012] (*PLAY_SFX*)[9802][A012] (*SCENE_LOAD*) [D012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5B00]Í (*SET_CHOICE*)[4400]Í (*HIDE_MSG*) (*WAIT_INPUT*) [D812] (*SHOW_MSG*) (*PLAY_BGM*)[8402](*SCENE_INIT*) (*SCENE_INIT*)   > La lumière jaillit du monument et{SAUT}se condense en matière.{ATTENTE}"
+    "fr": "(*UNK_0E,0000*){FERME} (*PLAY_SFX*)[8402][D012] (*PLAY_SFX*)[9802][A012] (*SCENE_LOAD*) [D012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5B00]Í (*SET_CHOICE*)[4400]Í (*HIDE_MSG*) (*WAIT_INPUT*) [D812] (*SHOW_MSG*) (*PLAY_BGM*)[8402](*SCENE_INIT*) (*SCENE_INIT*)   > La lumière jaillit du monument et{SAUT}prend forme.{ATTENTE}"
   },
   {
     "id": "E4.BIN:192:0004",
@@ -236,7 +236,7 @@
   {
     "id": "E4.BIN:193:0003",
     "en": "(*UNK_0E,0000*){FERME} (*PLAY_SFX*)[8302][D812] (*PLAY_SFX*)[9702][A812] (*SCENE_LOAD*) [D812] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5A00]Í (*SET_CHOICE*)[4D00]Í (*HIDE_MSG*) (*WAIT_INPUT*) [E012] (*SHOW_MSG*) (*PLAY_BGM*)[8302](*SCENE_INIT*) (*SCENE_INIT*)   > Light pours from the monument and{SAUT}coalesces into matter.{ATTENTE}",
-    "fr": "(*UNK_0E,0000*){FERME} (*PLAY_SFX*)[8302][D812] (*PLAY_SFX*)[9702][A812] (*SCENE_LOAD*) [D812] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5A00]Í (*SET_CHOICE*)[4D00]Í (*HIDE_MSG*) (*WAIT_INPUT*) [E012] (*SHOW_MSG*) (*PLAY_BGM*)[8302](*SCENE_INIT*) (*SCENE_INIT*)   > La lumière jaillit du monument et{SAUT}se condense en matière.{ATTENTE}"
+    "fr": "(*UNK_0E,0000*){FERME} (*PLAY_SFX*)[8302][D812] (*PLAY_SFX*)[9702][A812] (*SCENE_LOAD*) [D812] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5A00]Í (*SET_CHOICE*)[4D00]Í (*HIDE_MSG*) (*WAIT_INPUT*) [E012] (*SHOW_MSG*) (*PLAY_BGM*)[8302](*SCENE_INIT*) (*SCENE_INIT*)   > La lumière jaillit du monument et{SAUT}prend forme.{ATTENTE}"
   },
   {
     "id": "E4.BIN:193:0004",
@@ -246,7 +246,7 @@
   {
     "id": "E4.BIN:194:0003",
     "en": "(*UNK_0E,0000*){FERME} (*PLAY_SFX*)[8502][D012] (*PLAY_SFX*)[9902][A012] (*SCENE_LOAD*) [D012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5900]Í (*SET_CHOICE*)[4600]Í (*HIDE_MSG*) (*WAIT_INPUT*) [D812] (*SHOW_MSG*) (*PLAY_BGM*)[8502](*SCENE_INIT*) (*SCENE_INIT*)   > Light pours from the monument and{SAUT}coalesces into matter.{ATTENTE}",
-    "fr": "(*UNK_0E,0000*){FERME} (*PLAY_SFX*)[8502][D012] (*PLAY_SFX*)[9902][A012] (*SCENE_LOAD*) [D012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5900]Í (*SET_CHOICE*)[4600]Í (*HIDE_MSG*) (*WAIT_INPUT*) [D812] (*SHOW_MSG*) (*PLAY_BGM*)[8502](*SCENE_INIT*) (*SCENE_INIT*)   > La lumière jaillit du monument et{SAUT}se condense en matière.{ATTENTE}"
+    "fr": "(*UNK_0E,0000*){FERME} (*PLAY_SFX*)[8502][D012] (*PLAY_SFX*)[9902][A012] (*SCENE_LOAD*) [D012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5900]Í (*SET_CHOICE*)[4600]Í (*HIDE_MSG*) (*WAIT_INPUT*) [D812] (*SHOW_MSG*) (*PLAY_BGM*)[8502](*SCENE_INIT*) (*SCENE_INIT*)   > La lumière jaillit du monument et{SAUT}prend forme.{ATTENTE}"
   },
   {
     "id": "E4.BIN:194:0004",
@@ -261,7 +261,7 @@
   {
     "id": "E4.BIN:195:0003",
     "en": "(*UNK_0E,0000*){FERME}(*PLAY_SFX*)[8002][D012] (*PLAY_SFX*)[9402][A012] (*SCENE_LOAD*) [D012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5700]Í (*SET_CHOICE*)[2700]Í (*HIDE_MSG*) (*WAIT_INPUT*) [D812] (*SHOW_MSG*) (*PLAY_BGM*)[8002](*SCENE_INIT*) (*SCENE_INIT*)   > Light pours from the monument and{SAUT}coalesces into matter.{ATTENTE}",
-    "fr": "(*UNK_0E,0000*){FERME}(*PLAY_SFX*)[8002][D012] (*PLAY_SFX*)[9402][A012] (*SCENE_LOAD*) [D012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5700]Í (*SET_CHOICE*)[2700]Í (*HIDE_MSG*) (*WAIT_INPUT*) [D812] (*SHOW_MSG*) (*PLAY_BGM*)[8002](*SCENE_INIT*) (*SCENE_INIT*)   > La lumière jaillit du monument et{SAUT}se condense en matière.{ATTENTE}"
+    "fr": "(*UNK_0E,0000*){FERME}(*PLAY_SFX*)[8002][D012] (*PLAY_SFX*)[9402][A012] (*SCENE_LOAD*) [D012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5700]Í (*SET_CHOICE*)[2700]Í (*HIDE_MSG*) (*WAIT_INPUT*) [D812] (*SHOW_MSG*) (*PLAY_BGM*)[8002](*SCENE_INIT*) (*SCENE_INIT*)   > La lumière jaillit du monument et{SAUT}prend forme.{ATTENTE}"
   },
   {
     "id": "E4.BIN:195:0004",
@@ -276,7 +276,7 @@
   {
     "id": "E4.BIN:196:0003",
     "en": "(*UNK_0E,0000*){FERME}(*PLAY_SFX*)[8202][D012] (*PLAY_SFX*)[9602][A012] (*SCENE_LOAD*) [D012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5800]Í (*SET_CHOICE*)[4500]Í (*HIDE_MSG*) (*WAIT_INPUT*) [D812] (*SHOW_MSG*) (*PLAY_BGM*)[8202](*SCENE_INIT*) (*SCENE_INIT*)   > Light pours from the monument and{SAUT}coalesces into matter.{ATTENTE}",
-    "fr": "(*UNK_0E,0000*){FERME}(*PLAY_SFX*)[8202][D012] (*PLAY_SFX*)[9602][A012] (*SCENE_LOAD*) [D012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5800]Í (*SET_CHOICE*)[4500]Í (*HIDE_MSG*) (*WAIT_INPUT*) [D812] (*SHOW_MSG*) (*PLAY_BGM*)[8202](*SCENE_INIT*) (*SCENE_INIT*)   > La lumière jaillit du monument et{SAUT}se condense en matière.{ATTENTE}"
+    "fr": "(*UNK_0E,0000*){FERME}(*PLAY_SFX*)[8202][D012] (*PLAY_SFX*)[9602][A012] (*SCENE_LOAD*) [D012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5800]Í (*SET_CHOICE*)[4500]Í (*HIDE_MSG*) (*WAIT_INPUT*) [D812] (*SHOW_MSG*) (*PLAY_BGM*)[8202](*SCENE_INIT*) (*SCENE_INIT*)   > La lumière jaillit du monument et{SAUT}prend forme.{ATTENTE}"
   },
   {
     "id": "E4.BIN:196:0004",
@@ -286,12 +286,12 @@
   {
     "id": "E4.BIN:197:0001",
     "en": "{PAGE}> \"Man's deadly sin of Pride is{SAUT}interred here.\"{ATTENTE}",
-    "fr": "{PAGE}> \"Le péché d'Orgueil de l'homme{SAUT}est enterré ici.\"{ATTENTE}"
+    "fr": "{PAGE}> \"Ici gît le péché d'Orgueil{SAUT}de l'homme.\"{ATTENTE}"
   },
   {
     "id": "E4.BIN:197:0003",
     "en": "(*UNK_0E,0000*){FERME}(*PLAY_SFX*)[8102][D012] (*PLAY_SFX*)[9502][A012] (*SCENE_LOAD*) [D012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5600]Í (*SET_CHOICE*)[3700]Í (*HIDE_MSG*) (*WAIT_INPUT*) [D812] (*SHOW_MSG*) (*PLAY_BGM*)[8102](*SCENE_INIT*) (*SCENE_INIT*)   > Light pours from the monument and{SAUT}coalesces into matter.{ATTENTE}",
-    "fr": "(*UNK_0E,0000*){FERME}(*PLAY_SFX*)[8102][D012] (*PLAY_SFX*)[9502][A012] (*SCENE_LOAD*) [D012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5600]Í (*SET_CHOICE*)[3700]Í (*HIDE_MSG*) (*WAIT_INPUT*) [D812] (*SHOW_MSG*) (*PLAY_BGM*)[8102](*SCENE_INIT*) (*SCENE_INIT*)   > La lumière jaillit du monument et{SAUT}se condense en matière.{ATTENTE}"
+    "fr": "(*UNK_0E,0000*){FERME}(*PLAY_SFX*)[8102][D012] (*PLAY_SFX*)[9502][A012] (*SCENE_LOAD*) [D012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[5600]Í (*SET_CHOICE*)[3700]Í (*HIDE_MSG*) (*WAIT_INPUT*) [D812] (*SHOW_MSG*) (*PLAY_BGM*)[8102](*SCENE_INIT*) (*SCENE_INIT*)   > La lumière jaillit du monument et{SAUT}prend forme.{ATTENTE}"
   },
   {
     "id": "E4.BIN:197:0004",
@@ -306,12 +306,12 @@
   {
     "id": "E4.BIN:198:0003",
     "en": "(*UNK_0E,0000*){FERME}   (*PLAY_SFX*)[9302][E012] (*PLAY_SFX*)[9A02][B812] (*SCENE_LOAD*) [E012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[7F01]Í (*HIDE_MSG*) (*WAIT_INPUT*) [E812] (*SHOW_MSG*) (*PLAY_BGM*)[9302](*SCENE_INIT*) (*SCENE_INIT*)   > Light pours from the monument and{SAUT}coalesces into matter.{ATTENTE}",
-    "fr": "(*UNK_0E,0000*){FERME}   (*PLAY_SFX*)[9302][E012] (*PLAY_SFX*)[9A02][B812] (*SCENE_LOAD*) [E012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[7F01]Í (*HIDE_MSG*) (*WAIT_INPUT*) [E812] (*SHOW_MSG*) (*PLAY_BGM*)[9302](*SCENE_INIT*) (*SCENE_INIT*)   > La lumière jaillit du monument et{SAUT}se condense en matière.{ATTENTE}"
+    "fr": "(*UNK_0E,0000*){FERME}   (*PLAY_SFX*)[9302][E012] (*PLAY_SFX*)[9A02][B812] (*SCENE_LOAD*) [E012] (*FADE_SCREEN*)[0F00](*FADE_SCREEN*)[0A00](*SET_CHOICE*)[7F01]Í (*HIDE_MSG*) (*WAIT_INPUT*) [E812] (*SHOW_MSG*) (*PLAY_BGM*)[9302](*SCENE_INIT*) (*SCENE_INIT*)   > La lumière jaillit du monument et{SAUT}prend forme.{ATTENTE}"
   },
   {
     "id": "E4.BIN:198:0004",
     "en": "{PAGE}> Obtained (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Ruins Medal(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": "{PAGE}> (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Médaille ruines(*TEXTBOX_PARAM,0000*) obtenue.{ATTENTE}"
+    "fr": "{PAGE}> (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Médaille ruines(*TEXTBOX_PARAM,0000*) reçue.{ATTENTE}"
   },
   {
     "id": "E4.BIN:198:0005",
@@ -377,12 +377,12 @@
   {
     "id": "E4.BIN:210:0003",
     "en": "{PAGE}> Light pours from the monument and{SAUT}coalesces into matter.{ATTENTE}",
-    "fr": "{PAGE}> La lumière jaillit du monument et{SAUT}se condense en matière.{ATTENTE}"
+    "fr": "{PAGE}> La lumière jaillit du monument et{SAUT}prend forme.{ATTENTE}"
   },
   {
     "id": "E4.BIN:210:0004",
     "en": "{PAGE}> Obtained (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Snow Medal(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": "{PAGE}> (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Médaille neige(*TEXTBOX_PARAM,0000*) obtenue.{ATTENTE}"
+    "fr": "{PAGE}> (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Médaille neige(*TEXTBOX_PARAM,0000*) reçue.{ATTENTE}"
   },
   {
     "id": "E4.BIN:210:0005",

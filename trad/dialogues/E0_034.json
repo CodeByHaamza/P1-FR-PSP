@@ -145,14 +145,14 @@
     "locuteur": "Maki",
     "en": "What is this...? A mirror!?{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "Qu'est-ce que c'est...? Un miroir!?{ATTENTE}"
+    "fr": "C'est quoi...? Un miroir!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:133:0021",
     "locuteur": "Kandori",
     "en": "It's my ambition given shape...{SAUT}Now witness its power!{ATTENTE}",
     "locuteur_fr": "Kandori",
-    "fr": "C'est mon ambition prenant forme...{SAUT}Voyez maintenant sa puissance!{ATTENTE}"
+    "fr": "Mon ambition prend forme...{SAUT}Voyez sa puissance!{ATTENTE}"
   },
   {
     "id": "E0.BIN:133:0022",
@@ -180,7 +180,7 @@
     "locuteur": "Kandori",
     "en": "...But what's the use? A stray bitch{SAUT}will breed stray dogs.{ATTENTE}",
     "locuteur_fr": "Kandori",
-    "fr": "...Mais à quoi bon? Une chienne errante{SAUT}ne fait que des chiens errants.{ATTENTE}"
+    "fr": "...Mais à quoi bon? Chienne errante{SAUT}ne fait que chiens errants.{ATTENTE}"
   },
   {
     "id": "E0.BIN:133:0026",
@@ -264,7 +264,7 @@
     "locuteur": "Mark",
     "en": "Wh... What is that...? Don't tell me{SAUT}that's our town...{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Qu... Qu'est-ce que c'est...? Me dis pas{SAUT}que c'est notre ville...{ATTENTE}"
+    "fr": "Qu... Qu'est-ce que c'est...? Pas{SAUT}notre ville, si...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:134:0001",
@@ -278,7 +278,7 @@
     "locuteur": "Kandori",
     "en": "It's my new castle... I call it{SAUT}Deva Yuga.{ATTENTE}",
     "locuteur_fr": "Kandori",
-    "fr": "C'est mon nouveau château... Je{SAUT}l'appelle Deva Yuga.{ATTENTE}"
+    "fr": "Mon nouveau château... Je l'appelle{SAUT}Deva Yuga.{ATTENTE}"
   },
   {
     "id": "E0.BIN:134:0003",
@@ -369,7 +369,7 @@
     "locuteur": "Nanjo",
     "en": "The compacts and the Deva System were{SAUT}only laying the groundwork.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Les poudriers et le système Deva ne{SAUT}faisaient que préparer le terrain.{ATTENTE}"
+    "fr": "Les poudriers et le système Deva{SAUT}préparaient le terrain.{ATTENTE}"
   },
   {
     "id": "E0.BIN:134:0016",
@@ -383,7 +383,7 @@
     "locuteur": "Kandori",
     "en": "I will become a god on Earth. And a god{SAUT}has only one duty...{ATTENTE}",
     "locuteur_fr": "Kandori",
-    "fr": "Je deviendrai un dieu sur Terre. Et un{SAUT}dieu n'a qu'un seul devoir...{ATTENTE}"
+    "fr": "Je serai un dieu sur Terre. Et un{SAUT}dieu n'a qu'un devoir...{ATTENTE}"
   },
   {
     "id": "E0.BIN:134:0018",
@@ -411,7 +411,7 @@
     "locuteur": "Nanjo",
     "en": "I won't allow it, Kandori!{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Je ne le permettrai pas, Kandori!{ATTENTE}"
+    "fr": "Pas question, Kandori!{ATTENTE}"
   },
   {
     "id": "E0.BIN:134:0022",
@@ -432,7 +432,7 @@
     "locuteur": "Kandori",
     "en": "I'll now return to the real world.{ATTENTE}",
     "locuteur_fr": "Kandori",
-    "fr": "Je retourne maintenant au vrai monde.{ATTENTE}"
+    "fr": "Je retourne au vrai monde.{ATTENTE}"
   },
   {
     "id": "E0.BIN:134:0025",
@@ -453,7 +453,7 @@
     "locuteur": "Mark",
     "en": "Y-You son of a...{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "E-Espèce de fils de...{ATTENTE}"
+    "fr": "E-Enfoiré de...{ATTENTE}"
   },
   {
     "id": "E0.BIN:134:0028",
@@ -489,6 +489,6 @@
     "locuteur": "Saurva",
     "en": "It is showtime! I'll make you dance...{SAUT}A dance of death!{ATTENTE}",
     "locuteur_fr": "Saurva",
-    "fr": "C'est l'heure du spectacle! Je vais te{SAUT}faire danser... Une danse de mort!{ATTENTE}"
+    "fr": "Place au spectacle! Tu vas danser...{SAUT}La danse de la mort!{ATTENTE}"
   }
 ]

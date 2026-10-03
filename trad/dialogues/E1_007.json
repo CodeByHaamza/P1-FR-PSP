@@ -59,7 +59,7 @@
     "id": "E1.BIN:034:0008",
     "locuteur": "Vice-Principal Hanya",
     "en": "Zzzz... {PAUSE}[1E00]Heh heh heh... {PAUSE}[1E00]Hehe... hee...{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Zzzz... {PAUSE}[1E00]Héhéhé... {PAUSE}[1E00]Héhé... hé...{ATTENTE}"
   },
   {
@@ -206,7 +206,7 @@
     "id": "E1.BIN:034:0029",
     "locuteur": "Vice-Principal Hanya",
     "en": "Zzzz... {PAUSE}[1E00]Prepare... {PAUSE}[1E00]for dictation...{SAUT}{PAUSE}[1E00]Shine... {PAUSE}[1E00]shoes... {PAUSE}[1E00]hehehe...{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Zzzz... {PAUSE}[1E00]Préparez... {PAUSE}[1E00]la dictée...{SAUT}{PAUSE}[1E00]Cirez... {PAUSE}[1E00]mes souliers... {PAUSE}[1E00]héhéhé...{ATTENTE}"
   },
   {
@@ -384,21 +384,21 @@
     "id": "E1.BIN:048:0004",
     "locuteur": "Vice-Principal Ooishi",
     "en": "No, Mr. Hanya, I didn't mean it that way.{ATTENTE}",
-    "locuteur_fr": "Proviseure adjointe Ooishi",
+    "locuteur_fr": "Adjointe Ooishi",
     "fr": "Non, M. Hanya, ce n'est pas ça.{ATTENTE}"
   },
   {
     "id": "E1.BIN:048:0005",
     "locuteur": "Vice-Principal Ooishi",
     "en": "I just think punishing students for being{SAUT}tardy three times with either expulsion...{ATTENTE}",
-    "locuteur_fr": "Proviseure adjointe Ooishi",
+    "locuteur_fr": "Adjointe Ooishi",
     "fr": "Je pense juste que punir les élèves{SAUT}après trois retards par l'exclusion...{ATTENTE}"
   },
   {
     "id": "E1.BIN:048:0006",
     "locuteur": "Vice-Principal Ooishi",
     "en": "...or having to shine the principal's{SAUT}shoes until graduation is a bit... harsh.{ATTENTE}",
-    "locuteur_fr": "Proviseure adjointe Ooishi",
+    "locuteur_fr": "Adjointe Ooishi",
     "fr": "...ou cirer les souliers du proviseur{SAUT}jusqu'au diplôme, c'est un peu... dur.{ATTENTE}"
   },
   {
@@ -482,14 +482,14 @@
     "id": "E1.BIN:048:0018",
     "locuteur": "Vice-Principal Ooishi",
     "en": "\"Came up with\"!?{ATTENTE}",
-    "locuteur_fr": "Proviseure adjointe Ooishi",
+    "locuteur_fr": "Adjointe Ooishi",
     "fr": "\"Pondues\"!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:048:0019",
     "locuteur": "Vice-Principal Ooishi",
     "en": "Do you often \"come up\" with regulations{SAUT}without putting any thought into them!?{ATTENTE}",
-    "locuteur_fr": "Proviseure adjointe Ooishi",
+    "locuteur_fr": "Adjointe Ooishi",
     "fr": "Vous \"pondez\" souvent des règlements{SAUT}sans y réfléchir une seconde!?{ATTENTE}"
   },
   {
@@ -545,14 +545,14 @@
     "id": "E1.BIN:048:0027",
     "locuteur": "Vice-Principal Ooishi",
     "en": "Mr. Hanya! What do you think the purpose{SAUT}of education is!?{ATTENTE}",
-    "locuteur_fr": "Proviseure adjointe Ooishi",
+    "locuteur_fr": "Adjointe Ooishi",
     "fr": "M. Hanya! Quel est selon vous le but{SAUT}de l'éducation!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:048:0028",
     "locuteur": "Vice-Principal Ooishi",
     "en": "To begin with...{ATTENTE}",
-    "locuteur_fr": "Proviseure adjointe Ooishi",
+    "locuteur_fr": "Adjointe Ooishi",
     "fr": "Pour commencer...{ATTENTE}"
   },
   {
@@ -634,7 +634,7 @@
     "id": "E1.BIN:048:0040",
     "locuteur": "Vice-Principal Ooishi",
     "en": "Not now, please. I must get the principal{SAUT}to reconsider.{ATTENTE}",
-    "locuteur_fr": "Proviseure adjointe Ooishi",
+    "locuteur_fr": "Adjointe Ooishi",
     "fr": "Pas maintenant, je vous prie. Je dois{SAUT}faire changer le proviseur d'avis.{ATTENTE}"
   },
   {
@@ -653,7 +653,7 @@
     "id": "E1.BIN:048:0043",
     "locuteur": "Vice-Principal Ooishi",
     "en": "Oh!{ATTENTE}",
-    "locuteur_fr": "Proviseure adjointe Ooishi",
+    "locuteur_fr": "Adjointe Ooishi",
     "fr": "Oh!{ATTENTE}"
   },
   {
@@ -667,7 +667,7 @@
     "id": "E1.BIN:048:0045",
     "locuteur": "Vice-Principal Ooishi",
     "en": "If you'll please excuse us...{ATTENTE}",
-    "locuteur_fr": "Proviseure adjointe Ooishi",
+    "locuteur_fr": "Adjointe Ooishi",
     "fr": "Si vous voulez bien nous excuser...{ATTENTE}"
   }
 ]

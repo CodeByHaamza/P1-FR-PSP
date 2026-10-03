@@ -25,7 +25,7 @@
     "locuteur": "Haughty voice",
     "en": "Allow me to extend a warm welcome.{SAUT}Ohohohohohohohoho!{ATTENTE}",
     "locuteur_fr": "Voix hautaine",
-    "fr": "Permettez-moi de vous souhaiter la{SAUT}bienvenue. Ohohohohohohohoho!{ATTENTE}"
+    "fr": "Permettez-moi de vous accueillir.{SAUT}Ohohohohohohohoho!{ATTENTE}"
   },
   {
     "id": "E1.BIN:080:0004",
@@ -116,7 +116,7 @@
     "locuteur": "Haughty schoolgirl",
     "en": "What a litter of witless, yapping{SAUT}whelps you are!{ATTENTE}",
     "locuteur_fr": "Lycéenne hautaine",
-    "fr": "Quelle portée de chiots braillards et{SAUT}sans cervelle vous faites!{ATTENTE}"
+    "fr": "Quelle portée de chiots sans cervelle{SAUT}vous faites!{ATTENTE}"
   },
   {
     "id": "E1.BIN:080:0017",
@@ -221,14 +221,14 @@
     "locuteur": "Nanjo",
     "en": "How dare you insult me thus!{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Comment osez-vous m'insulter ainsi!{ATTENTE}"
+    "fr": "Comment osez-vous!{ATTENTE}"
   },
   {
     "id": "E1.BIN:080:0032",
     "locuteur": "Nanjo",
     "en": "I'll personally make you regret speaking{SAUT}that way to Kei Nanjo!{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Je vous ferai personnellement regretter{SAUT}d'avoir parlé ainsi à Kei Nanjo!{ATTENTE}"
+    "fr": "Je vous ferai regretter d'avoir parlé{SAUT}ainsi à Kei Nanjo!{ATTENTE}"
   },
   {
     "id": "E1.BIN:080:0033",
@@ -270,7 +270,7 @@
     "locuteur": "Brown",
     "en": "I'll take that ugly face and make{SAUT}it uglier!{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "Je vais prendre ce visage moche et le{SAUT}rendre encore plus moche!{ATTENTE}"
+    "fr": "Ce visage moche, je vais l'enlaidir{SAUT}encore plus!{ATTENTE}"
   },
   {
     "id": "E1.BIN:080:0039",
@@ -298,14 +298,14 @@
     "locuteur": "Michiko",
     "en": "I suppose you commoners could never{SAUT}understand my greatness.{ATTENTE}",
     "locuteur_fr": "Michiko",
-    "fr": "Je suppose que vous autres roturiers ne{SAUT}pourrez jamais saisir ma grandeur.{ATTENTE}"
+    "fr": "Des roturiers ne peuvent sans doute{SAUT}pas saisir ma grandeur.{ATTENTE}"
   },
   {
     "id": "E1.BIN:080:0043",
     "locuteur": "Michiko",
     "en": "Very well... Then I'll execute each of{SAUT}you whelps myself...{ATTENTE}",
     "locuteur_fr": "Michiko",
-    "fr": "Fort bien... Alors j'exécuterai chacun{SAUT}de vous, petits chiots, moi-même...{ATTENTE}"
+    "fr": "Fort bien... Je vous exécuterai{SAUT}moi-même, chiots...{ATTENTE}"
   },
   {
     "id": "E1.BIN:080:0044",
@@ -326,7 +326,7 @@
     "locuteur": "Michiko",
     "en": "Once more... take as much time as{SAUT}you want!{ATTENTE}",
     "locuteur_fr": "Michiko",
-    "fr": "Encore une fois... prenez tout le temps{SAUT}que vous voulez!{ATTENTE}"
+    "fr": "Encore une fois... prenez tout{SAUT}votre temps!{ATTENTE}"
   },
   {
     "id": "E1.BIN:080:0047",

@@ -207,7 +207,7 @@
     "locuteur": "Maki",
     "en": "That's a cute mask! I want to hang it{SAUT}up in my room.{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "Il est mignon, ce masque! J'aimerais{SAUT}l'accrocher dans ma chambre.{ATTENTE}"
+    "fr": "Mignon, ce masque! J'aimerais{SAUT}l'accrocher dans ma chambre.{ATTENTE}"
   },
   {
     "id": "E2.BIN:189:0001",
@@ -235,7 +235,7 @@
     "locuteur": "Brown",
     "en": "Is this... a beckoning dog? That doesn't{SAUT}seem right somehow...{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "C'est... un chien porte-bonheur? Ça{SAUT}sonne pas très juste, quand même...{ATTENTE}"
+    "fr": "C'est... un chien porte-bonheur?{SAUT}Ça sonne faux, quand même...{ATTENTE}"
   },
   {
     "id": "E2.BIN:189:0005",
@@ -256,7 +256,7 @@
     "locuteur": "Area man",
     "en": "There've been more demons lately,{SAUT}I've noticed.{ATTENTE}",
     "locuteur_fr": "Habitant",
-    "fr": "Il y a plus de démons ces derniers{SAUT}temps, j'ai remarqué.{ATTENTE}"
+    "fr": "Il y a plus de démons ces temps-ci,{SAUT}j'ai remarqué.{ATTENTE}"
   },
   {
     "id": "E2.BIN:189:0008",
@@ -343,14 +343,14 @@
     "locuteur": "Clerk",
     "en": "Hi! How's everyone doing? Welcome to{SAUT}Yin&Yan!{ATTENTE}",
     "locuteur_fr": "Vendeur",
-    "fr": "Salut! Comment allez-vous? Bienvenue{SAUT}chez Yin&Yan!{ATTENTE}"
+    "fr": "Salut! Ça va? Bienvenue{SAUT}chez Yin&Yan!{ATTENTE}"
   },
   {
     "id": "E2.BIN:190:0008",
     "locuteur": "Clerk",
     "en": "Wanna buy something?{ATTENTE}",
     "locuteur_fr": "Vendeur",
-    "fr": "Vous voulez acheter quelque chose?{ATTENTE}"
+    "fr": "Envie d'acheter?{ATTENTE}"
   },
   {
     "id": "E2.BIN:190:0009",
@@ -385,7 +385,7 @@
     "locuteur": "Customer",
     "en": "I heard the Queen's gone! Ahhh...{SAUT}At last, I can relax!{ATTENTE}",
     "locuteur_fr": "Client",
-    "fr": "J'ai entendu que la Reine est partie!{SAUT}Ahhh... Enfin, je peux respirer!{ATTENTE}"
+    "fr": "La Reine est partie, paraît-il!{SAUT}Ahhh... Enfin, je respire!{ATTENTE}"
   },
   {
     "id": "E2.BIN:191:0000",

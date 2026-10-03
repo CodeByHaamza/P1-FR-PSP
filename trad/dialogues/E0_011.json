@@ -260,28 +260,28 @@
     "id": "E0.BIN:039:0002",
     "locuteur": "Vice-Principal Hanya",
     "en": "This is outrageous! If something happens,{SAUT}they'll hold the school responsible...{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "C'est scandaleux! S'il arrive quoi que{SAUT}ce soit, on accusera le lycée...{ATTENTE}"
   },
   {
     "id": "E0.BIN:039:0003",
     "locuteur": "Vice-Principal Hanya",
     "en": "And we can kiss our careers goodbye!{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Et adieu nos carrières!{ATTENTE}"
   },
   {
     "id": "E0.BIN:039:0004",
     "locuteur": "Vice-Principal Hanya",
     "en": "If this had just happened a little later,{SAUT}all the students would've gone home...{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Un peu plus tard, et tous les élèves{SAUT}seraient déjà rentrés chez eux...{ATTENTE}"
   },
   {
     "id": "E0.BIN:039:0005",
     "locuteur": "Vice-Principal Hanya",
     "en": "Why is my luck so terrible!?{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Quelle malchance, vraiment!?{ATTENTE}"
   },
   {
@@ -337,7 +337,7 @@
     "id": "E0.BIN:039:0013",
     "locuteur": "Vice-Principal Hanya",
     "en": "M-Ma'am! What're you saying!?{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "M-Madame! Que dites-vous là!?{ATTENTE}"
   },
   {
@@ -379,7 +379,7 @@
     "id": "E0.BIN:039:0019",
     "locuteur": "Vice-Principal Hanya",
     "en": "H-Hey, the principal is just joking,{SAUT}okay? Don't believe that junk...!{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "H-Hé, le proviseur plaisante,{SAUT}d'accord? Ne croyez pas ces sornettes!{ATTENTE}"
   },
   {
@@ -399,7 +399,7 @@
     "id": "E0.BIN:039:0023",
     "locuteur": "Vice-Principal Hanya",
     "en": "Huh? You're still here? I'm busy!{SAUT}Get outta my sight already!{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Hein? Encore là? Je suis occupé!{SAUT}Disparaissez de ma vue!{ATTENTE}"
   },
   {

@@ -46,7 +46,7 @@
     "locuteur": "Ms. Saeko",
     "en": "Maybe I was too in love with the idea of{SAUT}being \"considerate Saeko\"...{ATTENTE}",
     "locuteur_fr": "Mme Saeko",
-    "fr": "J'étais peut-être trop amoureuse de{SAUT}l'idée d'être \"Saeko l'attentionnée\"...{ATTENTE}"
+    "fr": "J'aimais trop l'idée d'être{SAUT}\"Saeko l'attentionnée\"...{ATTENTE}"
   },
   {
     "id": "E1.BIN:149:0007",
@@ -67,7 +67,7 @@
     "locuteur": "Ms. Saeko",
     "en": "It's not the mask's curse! What really{SAUT}made her that way is--{ATTENTE}",
     "locuteur_fr": "Mme Saeko",
-    "fr": "Ce n'est pas la malédiction du masque!{SAUT}Ce qui l'a rendue ainsi, c'est--{ATTENTE}"
+    "fr": "Pas la malédiction du masque!{SAUT}Ce qui l'a rendue ainsi, c'est--{ATTENTE}"
   },
   {
     "id": "E1.BIN:149:0010",
@@ -102,7 +102,7 @@
     "locuteur": "Elly",
     "en": "Oh! This can't be...{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Oh! Ce n'est pas possible...{ATTENTE}"
+    "fr": "Oh! Pas possible...{ATTENTE}"
   },
   {
     "id": "E1.BIN:149:0015",
@@ -179,7 +179,7 @@
     "locuteur": "Queen",
     "en": "Now I can be complete! I will become the{SAUT}Night Queen in full!{ATTENTE}",
     "locuteur_fr": "Reine",
-    "fr": "Je peux enfin être complète! Je serai{SAUT}pleinement la Reine de la Nuit!{ATTENTE}"
+    "fr": "Je peux enfin être complète! Je serai{SAUT}la Reine de la Nuit!{ATTENTE}"
   },
   {
     "id": "E1.BIN:149:0026",
@@ -201,7 +201,7 @@
     "locuteur": "Night Queen",
     "en": "Foolish mortals who cling to hope...{SAUT}I shall teach you a lesson!{ATTENTE}",
     "locuteur_fr": "Reine de la Nuit",
-    "fr": "Mortels insensés accrochés à l'espoir...{SAUT}Je vais vous donner une leçon!{ATTENTE}"
+    "fr": "Mortels accrochés à l'espoir...{SAUT}Je vais vous donner une leçon!{ATTENTE}"
   },
   {
     "id": "E1.BIN:149:0029",
@@ -279,7 +279,7 @@
     "locuteur": "Nanjo",
     "en": "Sorry, the Snow Queen, saw how vile her{SAUT}heart had become.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Pardon, la Reine des Neiges, a vu{SAUT}combien son coeur était devenu vil.{ATTENTE}"
+    "fr": "Pardon, la Reine des Neiges, a vu{SAUT}son coeur devenu vil.{ATTENTE}"
   },
   {
     "id": "E1.BIN:150:0007",
@@ -335,7 +335,7 @@
     "locuteur": "Ayase",
     "en": "Huh... So that means we like, have to{SAUT}defeat that Night thing too?{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "Hein... Alors ça veut dire qu'on doit,{SAUT}genre, battre ce truc de la Nuit aussi?{ATTENTE}"
+    "fr": "Hein... Alors on doit, genre, battre{SAUT}ce truc de la Nuit aussi?{ATTENTE}"
   },
   {
     "id": "E1.BIN:150:0015",
@@ -370,7 +370,7 @@
     "locuteur": "Yukino",
     "en": "It's like I understand for the first{SAUT}time why I'm alive.{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "C'est comme si je comprenais pour la{SAUT}première fois pourquoi je suis en vie.{ATTENTE}"
+    "fr": "Je comprends pour la première fois{SAUT}pourquoi je suis en vie.{ATTENTE}"
   },
   {
     "id": "E1.BIN:150:0020",

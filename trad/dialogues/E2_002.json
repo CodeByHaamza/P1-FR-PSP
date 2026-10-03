@@ -584,7 +584,7 @@
     "locuteur": "Kaneda",
     "en": "Hmph! Children like you can't grasp my{SAUT}treasure's true worth!{ATTENTE}",
     "locuteur_fr": "Kaneda",
-    "fr": "Hmph! Des enfants comme vous ne peuvent{SAUT}saisir la vraie valeur de mon trésor!{ATTENTE}"
+    "fr": "Hmph! Des enfants ne peuvent saisir{SAUT}la vraie valeur de mon trésor!{ATTENTE}"
   },
   {
     "id": "E2.BIN:033:0009",
@@ -606,7 +606,7 @@
     "locuteur": "Kaneda",
     "en": "Shouldn't they come protect me first at{SAUT}times like these?{ATTENTE}",
     "locuteur_fr": "Kaneda",
-    "fr": "Ils devraient venir me protéger en{SAUT}premier dans ces moments-là, non?{ATTENTE}",
+    "fr": "Ils devraient me protéger d'abord,{SAUT}dans ces moments-là, non?{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -622,7 +622,7 @@
     "locuteur": "Elly",
     "en": "But everyone pays taxes. There's no{SAUT}call to boast about it.{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Mais tout le monde paie des impôts.{SAUT}Il n'y a pas de quoi s'en vanter.{ATTENTE}",
+    "fr": "Mais tout le monde paie des impôts.{SAUT}Pas de quoi s'en vanter.{ATTENTE}",
     "_occurrences": 2
   },
   {

@@ -207,7 +207,7 @@
     "locuteur": "Nanjo",
     "en": "If only the ideal Maki's compact was{SAUT}complete, then maybe...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Si seulement le poudrier de la Maki{SAUT}idéale était complet, alors peut-être...{ATTENTE}"
+    "fr": "Si le poudrier de la Maki idéale{SAUT}était complet, alors peut-être...{ATTENTE}"
   },
   {
     "id": "E0.BIN:153:0030",
@@ -532,7 +532,7 @@
     "locuteur": "Nanjo",
     "en": "This size and shape... I think it may{SAUT}fit Maki's compact!{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Cette taille, cette forme... Il irait{SAUT}peut-être sur le poudrier de Maki!{ATTENTE}"
+    "fr": "Cette taille, cette forme... Ça irait{SAUT}sur le poudrier de Maki!{ATTENTE}"
   },
   {
     "id": "E0.BIN:153:0077",

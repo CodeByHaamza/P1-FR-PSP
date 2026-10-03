@@ -4,7 +4,7 @@
     "locuteur": "Male student",
     "en": "Huh? What's with this song!?{ATTENTE}",
     "locuteur_fr": "Élève",
-    "fr": "Hein? C'est quoi cette chanson!?{ATTENTE}"
+    "fr": "Hein? Quoi, cette chanson!?{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0001",
@@ -18,7 +18,7 @@
     "locuteur": "Clerk",
     "en": "Hello. Thanks for always being nice to{SAUT}my great-grandson.{ATTENTE}",
     "locuteur_fr": "Vendeur",
-    "fr": "Bonjour. Merci d'être toujours gentils{SAUT}avec mon arrière-petit-fils.{ATTENTE}"
+    "fr": "Bonjour. Merci d'être si gentils{SAUT}avec mon arrière-petit-fils.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0003",
@@ -46,7 +46,7 @@
     "locuteur": "Yukino",
     "en": "And never mind that--why's there a{SAUT}pharmacy here at school!?{ATTENTE}",
     "locuteur_fr": "Yukino",
-    "fr": "Et peu importe ça--pourquoi il y a une{SAUT}pharmacie ici, au lycée!?{ATTENTE}"
+    "fr": "Et peu importe--pourquoi une{SAUT}pharmacie ici, au lycée!?{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0007",
@@ -74,7 +74,7 @@
     "locuteur": "Nanjo",
     "en": "Why is there a pharmacy here...?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Pourquoi y a-t-il une pharmacie ici...?{ATTENTE}"
+    "fr": "Pourquoi une pharmacie ici...?{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0011",
@@ -109,7 +109,7 @@
     "locuteur": "Elly",
     "en": "Aren't there more ordinary medicines,{SAUT}for everyday use?{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "N'y a-t-il pas des médicaments plus{SAUT}ordinaires, pour l'usage courant?{ATTENTE}"
+    "fr": "Pas de médicaments plus ordinaires,{SAUT}pour l'usage courant?{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0016",
@@ -135,7 +135,7 @@
     "locuteur": "Frog",
     "en": "Sample Muscle Drink. That is my, Frog's,{SAUT}essence. It's pure love for you.{ATTENTE}",
     "locuteur_fr": "Grenouille",
-    "fr": "Boisson muscle en échantillon. C'est mon{SAUT}essence, à moi, Grenouille. De l'amour.{ATTENTE}"
+    "fr": "Échantillon de Boisson muscle. Mon{SAUT}essence à moi, Grenouille. De l'amour.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0020",
@@ -156,14 +156,14 @@
     "locuteur": "Frog",
     "en": "Rude to try to bum more from me.{SAUT}You'll pay the piper, no doubt.{ATTENTE}",
     "locuteur_fr": "Grenouille",
-    "fr": "C'est grossier de m'en quémander plus.{SAUT}Tu le paieras, sans doute.{ATTENTE}"
+    "fr": "C'est grossier d'en quémander plus.{SAUT}Tu le paieras.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0023",
     "locuteur": "Frog",
     "en": "Just go die. No, no, seriously.{ATTENTE}",
     "locuteur_fr": "Grenouille",
-    "fr": "Va mourir. Non, non, sérieusement.{ATTENTE}",
+    "fr": "Va mourir. Non, sérieusement.{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -171,7 +171,7 @@
     "locuteur": "Frog",
     "en": "Just kidding. I give you three and you{SAUT}don't even thank me?{ATTENTE}",
     "locuteur_fr": "Grenouille",
-    "fr": "Je plaisante. Je t'en donne trois et tu{SAUT}me remercies même pas?{ATTENTE}"
+    "fr": "Je plaisante. J'en donne trois et tu{SAUT}me remercies pas?{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0025",
@@ -199,21 +199,21 @@
     "locuteur": "Frog",
     "en": "My impression of Ms. Yuka Ayase.{SAUT}No, no, seriously.{ATTENTE}",
     "locuteur_fr": "Grenouille",
-    "fr": "Mon imitation de Mlle Yuka Ayase.{SAUT}Non, non, sérieusement.{ATTENTE}"
+    "fr": "Mon imitation de Yuka Ayase.{SAUT}Non, non, sérieusement.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0030",
     "locuteur": "Frog",
     "en": "...You're always so quiet.{ATTENTE}",
     "locuteur_fr": "Grenouille",
-    "fr": "...Tu es toujours si silencieux.{ATTENTE}"
+    "fr": "...Tu es toujours silencieux.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0031",
     "locuteur": "Frog",
     "en": "I make a joke, and you stare at me with{SAUT}your hands on your hips. No laughs.{ATTENTE}",
     "locuteur_fr": "Grenouille",
-    "fr": "Je fais une blague, et tu me fixes les{SAUT}mains sur les hanches. Aucun rire.{ATTENTE}"
+    "fr": "Je blague, et tu me fixes les mains{SAUT}sur les hanches. Aucun rire.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0032",
@@ -246,7 +246,7 @@
     "locuteur": "Frog",
     "en": "You're at the right age to study the{SAUT}subtleties of men's and women's feelings.{ATTENTE}",
     "locuteur_fr": "Grenouille",
-    "fr": "Tu as l'âge d'étudier les subtilités des{SAUT}sentiments entre hommes et femmes.{ATTENTE}"
+    "fr": "Tu as l'âge d'étudier les sentiments{SAUT}entre hommes et femmes.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0037",

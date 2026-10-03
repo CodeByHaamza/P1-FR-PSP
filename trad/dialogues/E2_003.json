@@ -216,7 +216,7 @@
     "locuteur": "Mark",
     "en": "It's safe... You can come out...{SAUT}We'll take you home.{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "C'est sans danger... Tu peux sortir...{SAUT}On te ramène à la maison.{ATTENTE}",
+    "fr": "C'est sans danger... Sors...{SAUT}On te ramène chez toi.{ATTENTE}",
     "_occurrences": 2
   },
   {

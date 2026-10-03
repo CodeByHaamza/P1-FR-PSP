@@ -109,7 +109,7 @@
     "locuteur": "Setsuko Sonomura",
     "en": "No... That can't be...{ATTENTE}",
     "locuteur_fr": "Setsuko Sonomura",
-    "fr": "Non... Ce n'est pas possible...{ATTENTE}"
+    "fr": "Non... Pas possible...{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0016",
@@ -319,7 +319,7 @@
     "locuteur": "Nanjo",
     "en": "I don't even know my own mother's{SAUT}birthday...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Je ne connais même pas la date{SAUT}d'anniversaire de ma mère...{ATTENTE}"
+    "fr": "J'ignore même l'anniversaire{SAUT}de ma mère...{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0046",
@@ -522,7 +522,7 @@
     "locuteur": "Maki",
     "en": "The next one's the real me, huh?{SAUT}I wonder how many mes there are...{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "La prochaine, c'est la vraie moi, hein?{SAUT}Je me demande combien de moi il y a...{ATTENTE}"
+    "fr": "La prochaine, c'est la vraie moi?{SAUT}Combien de moi y a-t-il...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:160:0075",
