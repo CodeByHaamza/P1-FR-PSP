@@ -8,27 +8,29 @@ vise une version complète, jouable, et écrite en vrai français — accents
 compris.
 
 <!-- badges:debut -->
-[![avancement total : 99 % des textes traduits](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge.json)](SUIVI.md)
+[![avancement total : 100 % des textes traduits](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge.json)](SUIVI.md)
 ![licence : CC BY-NC-SA 4.0](https://img.shields.io/badge/licence-CC%20BY--NC--SA%204.0-lightgrey)
 [![Discord : Grimoire du Coeur](https://img.shields.io/badge/discord-Grimoire%20du%20C%C5%93ur-5865F2?logo=discord&logoColor=white)](https://discord.gg/s6CRadvPa3)
 
-[![dialogues : 97 % traduits (8 285 sur 8 572 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_dialogues.json)](SUIVI.md)
+[![dialogues : 100 % traduits (8 560 sur 8 572 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_dialogues.json)](SUIVI.md)
 [![eboot : 100 % traduits (2 956 sur 2 956 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_eboot.json)](SUIVI.md)
 [![donjons : 100 % traduits (130 sur 130 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_donjons.json)](SUIVI.md)
 [![négociations : 100 % traduits (12 487 sur 12 487 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_negociations.json)](SUIVI.md)
 [![noms : 100 % traduits (439 sur 439 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_noms.json)](SUIVI.md)
 <!-- badges:fin -->
 
-**On cherche des traducteurs.** Rien à installer : tu ouvres un fichier dans
-ton navigateur, tu écris, tu proposes. Un robot vérifie la technique à ta
-place.
+**Le texte est traduit à 100 %. On cherche maintenant des relecteurs et des
+testeurs.** Rien à installer pour relire : tu ouvres un fichier dans ton
+navigateur, tu corriges, tu proposes. Un robot vérifie la technique à ta place.
+Ce qui reste à faire, et dans quel ordre, est écrit dans la
+[feuille de route](docs/FEUILLE_DE_ROUTE.md).
 
 On travaille avec la communauté du **[Grimoire du Cœur](https://discord.gg/s6CRadvPa3)**,
 le Discord francophone des traductions Persona : c'est là qu'on discute d'une
 réplique, d'un terme, d'un doute — avant de trancher, et souvent avant
 d'ouvrir une issue. Viens dire bonjour.
 
-👉 **[Comment aider](CONTRIBUTING.md)** · **[Avancement](SUIVI.md)** · **[FAQ](docs/FAQ.md)** · **[Discord](https://discord.gg/s6CRadvPa3)**
+👉 **[Comment aider](CONTRIBUTING.md)** · **[Avancement](SUIVI.md)** · **[Feuille de route](docs/FEUILLE_DE_ROUTE.md)** · **[FAQ](docs/FAQ.md)** · **[Discord](https://discord.gg/s6CRadvPa3)**
 
 <br clear="right">
 
