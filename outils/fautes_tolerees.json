@@ -1,0 +1,48 @@
+{
+  "_lire": [
+    "Ce que relire_fautes.py signale a tort, et pourquoi.",
+    "",
+    "`mots` : des mots rares qui ressemblent a un mot frequent par accident.",
+    "`doublons` : des mots qu'on repete expres.",
+    "",
+    "Comme pour noms_tolerances.json, on n'ajoute rien sans ecrire la raison.",
+    "Une tolerance sans raison est une faute qu'on a seulement cachee."
+  ],
+  "mots": [
+    "bougre",
+    "cases",
+    "cirer",
+    "devines",
+    "gwaohhhhh",
+    "laide",
+    "noter",
+    "gras",
+    "puer",
+    "ronge"
+  ],
+  "doublons": [
+    "argent",
+    "aïe",
+    "bye",
+    "dring",
+    "gara",
+    "hum",
+    "hyuk",
+    "hé",
+    "héh",
+    "ia",
+    "là",
+    "moi",
+    "oh",
+    "ouh",
+    "qui",
+    "splash",
+    "ton",
+    "tss",
+    "vraiment"
+  ],
+  "_pourquoi": {
+    "mots": "Tous sont de vrais mots francais qui se trouvent etre l'inversion de deux lettres d'un autre mot : bougre/bouger, cases/casse, cirer/crier, devines/deviens, laide/l'aide, noter/notre, gras/gars, puer/peur, ronge/rogne. « gwaohhhhh » est un cri du Worm, qui en a plusieurs longueurs.",
+    "doublons": "Des repetitions voulues : « Aïe aïe aïe », « Bye bye », « Hum hum », « Hé hé », « Oh oh », « Ouh ouh », « là là », « Tss tss » sont des interjections ; « Gara Gara » est le nom d'une boisson ; « C'est qui qui a dit » est un tour familier, dans la bouche d'un lyceen apeure ; « Hyuk hyuk! » est le rire du Poltergeist, quarante-sept fois. Les demons parlent casse, et ca s'entend : « SPLASH SPLASH », « ARGENT ARGENT ARGENT », « Moi moi un yakuza ». « vraiment vraiment » est une insistance ordinaire, « A ia ia ia » un chant, « dring dring » une sonnette. « TON TON DE VOIX » n'est meme pas une repetition : c'est « ton » possessif suivi de « ton » de voix."
+  }
+}

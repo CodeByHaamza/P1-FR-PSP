@@ -19,6 +19,8 @@ on:
       - 'outils/coherence_noms.py'
       - 'outils/largeur_pixels.py'
       - 'outils/largeurs_glyphes.json'
+      - 'outils/relire_fautes.py'
+      - 'outils/fautes_tolerees.json'
       - 'outils/noms_tolerances.json'
       - 'docs/Dictionnaire.md'
 
@@ -117,6 +119,21 @@ jobs:
             for zone in dialogues negociations eboot donjons; do
               python outils/largeur_pixels.py --racine trad --zone "$zone" --montrer 8 2>&1 || true
             done
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      # Les fautes de frappe que le corpus trahit lui-meme : un mot vu une
+      # fois a une inversion de lettres d'un mot vu deux cents fois. Base
+      # propre au 03/10/2026, donc tout ce qui apparait ici est nouveau.
+      - name: Fautes de frappe
+        if: always()
+        continue-on-error: true
+        run: |
+          {
+            echo "## Fautes de frappe et typographie"
+            echo
+            echo '```text'
+            python outils/relire_fautes.py --racine trad 2>&1 || true
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
 

@@ -198,10 +198,20 @@ puisqu'une incohérence naît du rapprochement de deux fichiers dont un seul bou
 
 ### 3c. Les passes de langue
 
-- **Orthographe et grammaire** sur les 24 572 textes, avec un correcteur
-  automatique (le texte est dans des JSON, donc facile à extraire et à
-  réinjecter). Il faudra apprendre au correcteur à ignorer les jetons et les
-  noms propres du jeu.
+- ✅ **Orthographe** *(03/10/2026)* — `outils/relire_fautes.py`. Pas de
+  correcteur : aucun ne connaît Kandori, Mikage, SEBEC ni « hi-ho », et sur
+  24 572 textes il rendrait des centaines de faux positifs que personne ne
+  lirait. Le corpus sert de dictionnaire à lui-même — un vrai mot revient, une
+  faute apparaît une fois. On ne cherche pas « à une lettre près » (ça
+  rapproche `absurde` et `absurdes`) mais **trois accidents de frappe** :
+  inversion de deux lettres, lettre tapée trois fois, apostrophe oubliée.
+  Résultat : **douze signalements, deux vraies fautes** — `Commnet` pour
+  « Comment » et `soritr` pour « sortir ». Corrigées. Les dix autres étaient
+  de vrais mots français (`bougre`/`bouger`, `cirer`/`crier`), consignés dans
+  `outils/fautes_tolerees.json` avec leur raison.
+  Reste à faire, et ce n'est pas la même chose : **la grammaire** — accords,
+  temps, et les fautes sur un mot qui n'a pas de voisin dans le corpus. Il
+  faudra un vrai analyseur.
 - **Tutoiement et vouvoiement**, par personnage. Nanjo vouvoie, Mark tutoie
   tout le monde, Elly vouvoie les adultes. C'est posé fichier par fichier
   depuis des mois, donc il y a sûrement des flottements — surtout aux endroits

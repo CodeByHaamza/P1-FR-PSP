@@ -53,6 +53,11 @@ jobs:
             python outils/largeur_pixels.py --racine trad --zone "$zone"
           done
 
+      # Bloquant : une faute de frappe dans une version se lit a l'ecran et
+      # ne se corrige que par une autre version.
+      - name: Fautes de frappe
+        run: python outils/relire_fautes.py --racine trad
+
       - name: Recompter
         run: python outils/stats.py
 
