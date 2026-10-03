@@ -133,26 +133,42 @@ Même chose pour les codes en `(*MAJUSCULES*)` et `[1A2B]` : recopie-les à
 l'identique. `(*APELLIDO_HEROE*)` porte le nom que le joueur a choisi ; tu peux
 le **déplacer** si le français l'exige, mais il ne disparaît pas.
 
-### 2. Environ 40 caractères par ligne affichée
+### 2. La ligne doit tenir dans la boîte — et ça se mesure
 
 La boîte de dialogue est étroite et ne va pas à la ligne toute seule : c'est
-`{SAUT}` qui décide. Compte **entre deux codes**, pas sur la phrase entière.
+`{SAUT}` qui décide. Chaque morceau **entre deux codes** est une ligne à
+l'écran, et chacune doit tenir.
 
-**Mais 40 n'est qu'un repère, pas la règle.** La police est à chasse variable :
-`WWWWW` et `iiiii` n'occupent pas la même place. Une ligne de 44 signes étroits
-passe, une ligne de 39 signes larges peut déborder. La vraie limite est en
-pixels, et elle se mesure :
+**Ne compte pas les caractères.** La police est à chasse variable : `WWWWW` et
+`iiiii` n'occupent pas la même place, donc compter se trompe dans les deux
+sens — on refuse des lignes qui passent et on laisse passer des lignes qui
+débordent. La vraie limite est en **pixels** :
+
+| zone | la boîte fait |
+|---|---|
+| dialogues | **375 px** |
+| négociations | **426 px** |
+| menus (eboot) | **373 px** |
+| donjons | **344 px** |
+| noms | **183 px** |
+
+Ce ne sont pas des estimations : c'est la **ligne anglaise affichée la plus
+large** de chaque zone. Le jeu l'affiche sans la couper, donc tout ce qui est
+en dessous passe. La largeur de chaque glyphe vient de la table du jeu
+(`outils/largeurs_glyphes.json`, sortie de l'EBOOT).
+
+Le robot mesure chaque proposition et te le dit. Tu peux le faire toi-même :
 
 ```bash
 python outils/largeur_pixels.py --racine trad --zone dialogues
 ```
 
-La largeur de chaque glyphe vient de la table du jeu, et la limite de la ligne
-anglaise la plus large — l'anglais d'origine tient forcément. Le robot fait
-cette mesure sur chaque proposition et l'écrit dans le récapitulatif.
+Mais le plus simple reste
+l'[outil de relecture](https://codebyhaamza.github.io/p1-relecture/) : la jauge
+répond pendant que tu tapes, et le bouton reste gris tant que ça ne tient pas.
 
-Vise 38 en écrivant, laisse la mesure dire le dernier mot — ou laisse
-l'[outil de relecture](https://codebyhaamza.github.io/p1-relecture/) la faire pendant que tu tapes.
+En écrivant, un repère utile : une quarantaine de signes. Laisse la mesure dire
+le dernier mot.
 
 Le français est 20 à 30 % plus long que l'anglais. Reformuler court fait partie
 du travail : c'est souvent là que la traduction devient bonne.

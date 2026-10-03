@@ -11,6 +11,13 @@ Chaque étape finit par un critère vérifiable — une commande qui passe, pas 
 impression. C'est ce qui permet de savoir qu'on a le droit de passer à la
 suivante.
 
+**Où on en est au 03/10/2026 :** les étapes 1, 2 et 3 sont faites. L'ISO se
+construit et se vérifie, aucun bloc ne déborde, les cinq contrôles de qualité
+sont verts, et l'outil de relecture est en ligne. Restent **les images**
+(étape 4, la suivante), **la grammaire** (3c), et surtout **la relecture
+elle-même** : l'outil est prêt et vide. C'est du temps humain, et c'est
+désormais le chemin critique.
+
 ---
 
 ## ✅ Étape 1 — Rognage des blocs qui débordent *(faite le 03/10/2026)*
@@ -113,10 +120,19 @@ chercher dans la table rend `nil` — les sept témoins paraissaient absents.
 
 ---
 
-## Étape 3 — Notre propre relecture, outillée  ⬅️ **la suivante**
+## ✅ Étape 3 — Notre propre relecture, outillée *(faite le 03/10/2026)*
 
-Avant de faire lire des inconnus, on passe nous-mêmes. Trois passes, dans cet
+Avant de faire lire des inconnus, on passe nous-mêmes. Quatre passes, dans cet
 ordre, parce que chacune rend la suivante moins bruyante.
+
+Ce qu'elles ont donné : **sept incohérences de nom**, **deux fautes de frappe**,
+**trois écarts de voix**, **quatre lignes trop larges** et le vouvoiement de
+Nanjo aligné sur trente répliques. Tous les contrôles sont verts, ce qui veut
+dire quelque chose de précis : **à partir d'ici, toute alerte est une
+régression.** C'est le seul état dans lequel un contrôle automatique sert à
+quelque chose.
+
+Reste un trou, nommé en 3c : **la grammaire**.
 
 ### 3a. ✅ Les largeurs, mesurées *(03/10/2026)*
 
@@ -129,32 +145,64 @@ pixel d'avance, cinq pixels pour l'espace, et un accent qui hérite de la
 métrique de sa lettre de base).
 
 La limite n'est pas inventée non plus : l'anglais d'origine tient forcément,
-donc sa ligne affichée la plus large est une borne observée — 375 px en
-dialogues, 568 en négociations, 373 dans l'EBOOT, 344 dans les donjons.
+donc sa ligne affichée la plus large est une borne observée — **375 px** en
+dialogues, **426** en négociations, **373** dans l'EBOOT, **344** dans les
+donjons, **183** pour les noms.
+
+Les négociations ont d'abord donné 568 px, et c'était faux. Une entrée de
+négociation ne contient pas une réplique mais plusieurs : la réaction du démon
+change selon ce que le joueur vient de dire, et elles sont séparées par un
+marqueur encadré `[FFFD]…[F5xx]`. Tant qu'on ne coupait pas là, deux répliques
+étaient mesurées comme une seule ligne — `YOU LOVE ME?   AWOOO! YOU SEDUCE ME!`
+— et la jauge laissait passer **un tiers de trop sur la moitié du corpus**.
+Trois dépassements réels, invisibles jusque-là, sont apparus à la correction.
 
 Contrôle contre une capture réelle du jeu : la mesure donne 279 px là où la
 capture en montre ~297, soit 6 % d'écart — **dans le même sens pour l'anglais et
 le français**, et comme la limite vient de l'anglais mesuré pareil, la
 comparaison reste exacte.
 
-Sur 14 174 lignes françaises, **quatre dépassaient vraiment**. Corrigées. Les
-quatre zones sont à zéro.
+Sur 14 174 lignes de dialogue, **quatre dépassaient vraiment**. Corrigées, plus
+les trois des négociations. Les **cinq** zones sont à zéro.
 
-La table des largeurs est publiée (`outils/largeurs_glyphes.json`, 334 entiers)
-pour que la mesure tourne ici aussi : l'EBOOT, lui, ne sort jamais.
+Deux autres pièges de mesure, trouvés au même endroit et qui valent d'être su :
+`[0000]` n'est pas un code de contrôle mais **l'espace** (elle n'est pas dans la
+table, elle s'encode sur le code 0), donc la retirer avec les jetons revenait à
+mesurer « Salledesprofs » ; et la ligne se mesure **rognée**, parce qu'un
+libellé de menu est centré par des espaces de tête — les compter portait
+l'étalon des menus à 1 880 px, soit une limite qui n'interdit plus rien.
 
-### 3a bis. Les avertissements restants
+La table des largeurs est publiée (`outils/largeurs_glyphes.json`, 334 entiers
+et la borne de chaque zone) pour que la mesure tourne ici aussi : l'EBOOT, lui,
+ne sort jamais. `check_trad.rb` la lit désormais, donc le robot des propositions
+mesure exactement comme nous — voir 3a bis.
 
-`check_trad.rb` sort aujourd'hui 597 avertissements. Ils ne bloquent pas, mais
-ils ne sont pas du bruit :
+### 3a bis. ✅ Les avertissements du validateur *(03/10/2026)*
 
-| type | nombre | ce que ça veut dire |
-|---|---|---|
-| `[BUDGET]` | 290 | entrée de l'EBOOT plus longue que l'anglais : elle passe par un code cave. **Ce n'est pas du travail de bureau** — aucun script ne peut dire si le menu est coupé à l'écran, donc c'est une feuille de contrôle pour la beta (étape 5), pas pour ici |
-| `[LARGEUR]` | 275 → **90 dans les dialogues** | ligne plus large que l'anglais ; le mur réel est en pixels, pas en caractères, donc chacune demande un œil. L'étape 1 en a résorbé une bonne part au passage |
-| `[OCTETS]` | 22 → **3 dans les dialogues** | la ligne pousse son bloc ; à surveiller même après l'étape 1 |
-| `[PLACE]` | 9 | négociations : absorbé par les autres fichiers du démon, rien à faire |
-| `[TERMINO]` | 1 | faux positif (« Maki Sonomura » signalé comme à aligner sur lui-même) |
+Il en sortait **597**. Il en sort **336**, et c'est le changement qui compte :
+les 273 `[LARGEUR]` n'étaient pas du bruit, c'était une **mauvaise unité**.
+
+`check_trad.rb` comptait des caractères. La police étant à chasse variable, la
+règle des 40 signes se trompait dans les deux sens — elle refusait des lignes
+qui passent et laissait passer des lignes qui débordent. Le contrôle mesure
+maintenant en **pixels**, avec la métrique de l'EBOOT et la borne observée de
+chaque zone (`outils/largeurs_glyphes.json`).
+
+| type | avant | après | ce que ça veut dire |
+|---|---|---|---|
+| `[LARGEUR]` | 273 | **15** | et les 15 disent quelque chose : « 425 px, la boîte en fait 426 — il reste 1 px ». Aucune n'est bloquante |
+| `[BUDGET]` | 290 | **290** | entrée de l'EBOOT plus longue que l'anglais : elle passe par un code cave. **Ce n'est pas du travail de bureau** — aucun script ne peut dire si le menu est coupé à l'écran. C'est la feuille de contrôle de la beta (étape 5) |
+| `[OCTETS]` | 22 | **22** | proxy assumé : on sait ce que l'entrée ajoute, pas la marge de son bloc. L'autorité est `budget_blocs.py`, côté privé, qui dit **0 bloc en surplus** |
+| `[PLACE]` | 9 | **9** | négociations : absorbé par les autres fichiers du démon, rien à faire |
+| `[TERMINO]` | 1 | **1** | faux positif (« Maki Sonomura » signalé comme à aligner sur lui-même) |
+
+Au passage, deux défauts de la table de caractères : `charger_table` gardait le
+**premier** code de chaque caractère en affirmant faire comme le moteur, qui
+garde le **dernier**. Vingt caractères ont deux codes, et l'écart n'est pas
+cosmétique — `é` vaut 17 px sur son premier code (une cellule vide) contre 9 px
+sur le vrai. Mesurer ainsi aurait gonflé chaque accent de huit pixels. Et trois
+caractères (`Á`, `Ñ`, `ú`) ont un premier code que la police ne dessine pas : le
+contrôle GLYPHE les aurait déclarés muets le jour où quelqu'un les écrit.
 
 ### 3b. ✅ Uniformisation des noms — l'outil existe *(03/10/2026)*
 
@@ -196,7 +244,7 @@ qui a traduit. L'outil tourne maintenant à chaque proposition — pour informat
 puisqu'une incohérence naît du rapprochement de deux fichiers dont un seul bouge
 — et **bloque** avant la fabrication d'une version.
 
-### 3c. Les passes de langue
+### 3c. Les passes de langue — ⬜ la grammaire reste
 
 - ✅ **Orthographe** *(03/10/2026)* — `outils/relire_fautes.py`. Pas de
   correcteur : aucun ne connaît Kandori, Mikage, SEBEC ni « hi-ho », et sur
@@ -234,17 +282,42 @@ puisqu'une incohérence naît du rapprochement de deux fichiers dont un seul bou
   réplique rendrait le personnage mécanique. Une voix doit revenir assez
   souvent pour qu'on la reconnaisse, pas tomber à chaque phrase.
 
-  **Reste une question ouverte**, et c'est une décision de traduction, pas une
-  mesure : Nanjo vouvoie 226 fois et tutoie 31 fois, y compris ses camarades
-  (« Vous êtes... le moi idéalisé de la Maki Sonomura »). Les 31 sont donc des
-  écarts — sauf la citation de Sun Tzu, qui est figée.
+  **Tranché** : Nanjo vouvoie tout le monde, y compris ses camarades. Il
+  vouvoyait 226 fois et tutoyait 31 fois ; les trente écarts sont alignés, et
+  seule la citation de Sun Tzu garde son tutoiement, qui est figé. Les lignes
+  rallongées ont fait déborder cinq blocs de 30 octets — raccourcies sur place,
+  sans revenir sur la décision.
 
-**Critère de sortie :** zéro `[OCTETS]`, chaque `[LARGEUR]` arbitré, le script
-de cohérence des noms écrit et vert, le correcteur passé.
+- ⬜ **La grammaire** — et c'est le seul trou qui reste dans cette étape.
+  Accords, temps, et les fautes sur un mot qui n'a pas de voisin dans le
+  corpus : rien de tout cela ne se trouve par comparaison. Il faut un vrai
+  analyseur, et ce n'est pas un correcteur orthographique (aucun ne connaît
+  Kandori, Mikage ni « hi-ho »).
+
+### 3d. ✅ L'outil de relecture *(03/10/2026)*
+
+Lire 24 572 textes dans des fichiers JSON, personne ne le fera. D'où
+**<https://codebyhaamza.github.io/p1-relecture/>** : les 284 scripts se lisent
+comme un roman, chaque ligne à l'écran est une ligne du jeu, et une proposition
+est vérifiée **pendant la frappe** contre les trois contraintes — les codes, la
+largeur en pixels, le budget du bloc. Le bouton reste gris tant que ça ne tient
+pas, donc rien ne part qui casserait le jeu.
+
+Il se régénère tout seul depuis ce dépôt, chaque jour, sans jeton ni secret, et
+ne publie que si ses quatre contrôles passent. L'état « déjà relu » vient des
+issues `Relecture : …` d'ici même : fermée = relu, ouverte = quelqu'un s'en
+occupe. Personne ne relit donc le script d'un autre.
+
+C'est l'instrument des étapes 5 et 6. Il est prêt, et **vide : 0 script relu sur
+284.**
+
+**Critère de sortie :** les cinq contrôles verts (noms, largeurs, fautes, voix,
+budget des blocs), ce qui est le cas. La grammaire reste à faire et ne bloque
+pas la suite — elle peut se mener pendant les images.
 
 ---
 
-## Étape 4 — Les images
+## Étape 4 — Les images  ⬅️ **la suivante**
 
 Une partie du texte n'est pas dans les scripts : il est gravé dans des
 textures. La méthode est tranchée (remplacement de textures PPSSPP, pas de
@@ -253,6 +326,10 @@ réinjection dans les `.BIN`) et quatre images sont faites. Détail dans
 
 Ce qui reste :
 
+- **le bandeau de commandes** (512×128 : Confirmer, Retour, Choisir, Détails,
+  Modifier, Quitter…). C'est le plus urgent de toute l'étape, et de loin : il
+  est **affiché en permanence pendant le jeu**. C'est lui, bien plus que
+  l'écran-titre, qui donne l'impression d'un jeu traduit ou pas ;
 - **trier**, et c'est le travail réel. 582 textures HD recensées, dont des
   portraits, des cartes d'arcane et des illustrations qui n'ont aucun intérêt à
   être traduits. Aucune mesure ne les distingue d'une étiquette d'interface. Le
@@ -295,6 +372,17 @@ Comment la tenir :
   resté en anglais (symptôme d'un bloc qui déborde encore), un nom d'objet
   incohérent entre deux endroits, un plantage.
 
+Deux listes attendent exactement cette étape, parce qu'aucune commande ne peut
+y répondre :
+
+- les **290 `[BUDGET]`** de l'EBOOT. Ces entrées passent par un code cave : le
+  jeu les affiche ailleurs que là où le validateur sait regarder, et seul un œil
+  en jeu dira si le menu est coupé ;
+- les **426 px** des négociations. C'est une borne *déduite* — la ligne anglaise
+  la plus large, une fois les répliques correctement séparées — mais jamais
+  *vue*. Si une ligne de négociation est coupée à l'écran, la borne est trop
+  haute et il faut le savoir.
+
 **Critère de sortie :** une session complète du jeu par au moins deux
 personnes, sans texte coupé ni fichier en anglais.
 
@@ -307,9 +395,12 @@ plutôt qu'une grande. Chaque correction de largeur ou de longueur repasse par
 `budget_blocs.py` : rallonger une réplique peut refaire déborder son bloc, et le
 symptôme serait un fichier entier en anglais.
 
-C'est aussi le moment d'ouvrir la relecture à qui veut, par lots, comme on l'a
-fait pour la traduction. Relire est une porte d'entrée plus facile que traduire :
-pas besoin de connaître les jetons ni les budgets.
+C'est aussi le moment d'ouvrir la relecture à qui veut, et il n'y a plus de lots
+à découper : l'**[outil de relecture](https://codebyhaamza.github.io/p1-relecture/)**
+montre les 284 scripts, dit lesquels sont déjà pris, et mène au prochain que
+personne n'a lu. Relire est une porte d'entrée plus facile que traduire — pas
+besoin de connaître les jetons ni les budgets, l'outil s'en occupe et refuse
+d'envoyer ce qui ne tient pas.
 
 **Critère de sortie :** plus aucune remontée ouverte, et le validateur et
 `budget_blocs.py` toujours verts.

@@ -22,12 +22,17 @@
 #      Un contributeur qui écrase une lettre de l'anglais en tapant sa
 #      traduction fabrique une divergence que plus rien ne rattrape : le
 #      moteur cherche la ligne d'origine et ne la retrouve pas.
-#   4. LARGEUR   — chaque ligne affichée doit tenir dans la boîte, jugée PAR
-#      RAPPORT à la ligne anglaise correspondante. Le script original compte
-#      42 lignes au-delà de 43 caractères : refuser dans l'absolu reviendrait à
-#      signaler un traducteur pour une largeur qu'il n'a pas créée. Erreur donc
-#      seulement si le français est à la fois plus large que l'anglais ET
-#      au-delà de 43 ; avertissement entre 40 et 43.
+#   4. LARGEUR   — chaque ligne affichée doit tenir dans la boîte, et cela se
+#      MESURE, en pixels. La police est à chasse variable : `WWWWW` et `iiiii`
+#      n'occupent pas la même place, donc compter les caractères se trompe dans
+#      les deux sens. L'ancienne règle des 40 signes sortait 273 avertissements
+#      là où la mesure n'en trouve aucun, et un validateur qui crie sans raison,
+#      on apprend à l'ignorer.
+#      La borne de chaque zone est la ligne anglaise affichée la plus large,
+#      relevée dans `largeurs_glyphes.json` : le jeu l'affiche sans la couper,
+#      donc c'est une borne observée et non une estimation. Elle est absolue,
+#      ce qui n'est plus injuste pour personne — l'original la respecte par
+#      construction.
 #
 # Puis trois AVERTISSEMENTS, qui ne font jamais échouer :
 #
@@ -78,8 +83,10 @@ require 'digest'
 AQUI = File.dirname(File.expand_path(__FILE__)) unless defined?(AQUI)
 
 module CheckTrad
-  LARGEUR_MAX = 40   # visé ; le script anglais monte à 43 en chasse étroite
-  LARGEUR_DURE = 43  # au-delà, débordement certain
+  # Plus de seuil en caractères : la largeur se mesure en pixels, cf. `metrique`.
+  # Celui-ci reste, et c'est un PROXY assumé : l'autorité sur le budget des
+  # blocs est `budget_blocs.py`, qui exige `_occurrences.json` et ne tourne donc
+  # que côté privé, avant chaque construction.
   SEUIL_OCTETS = 48  # au-delà, une entrée pèse assez pour faire déborder un bloc
 
   # Repère un code de contrôle sous ses trois formes : nom lisible {SAUT},
@@ -92,10 +99,59 @@ module CheckTrad
     texte.to_s.scan(JETON)
   end
 
+  # Ce que le moteur remplace avant d'encoder : « … » devient trois points, donc
+  # trois glyphes. Mesurer autrement, c'est mesurer un texte que le jeu
+  # n'affiche pas.
+  ANCHOS = {
+    '…' => '...', '’' => "'", '‘' => "'",
+    '“' => '"', '”' => '"', '—' => '-', '–' => '-'
+  }.freeze
+
+  # Une entrée de négociation contient PLUSIEURS répliques du démon : sa
+  # réaction change selon ce que le joueur vient de dire. Elles sont séparées
+  # par un marqueur encadré — `[FFFD]` un code `[F5xx]` — dont le milieu
+  # s'écrit `[72FF]`, ou sous la forme du caractère que la table donne à ce
+  # code : `É` pour 0x00FF, `α` pour 0x01FF. Comme il n'est reconnu qu'entre ses
+  # crochets, « IMPÉRATRICE » reste un mot. Il n'apparaît que dans les
+  # négociations, 3 118 fois.
+  SEPARATEUR = /\[FFFD\](?:\[[0-9A-Fa-f]{4}\]|[^\[])*?\[F5[0-9A-Fa-f]{2}\](?:\[[0-9A-Fa-f]{4}\])*/
+  # Deux entrées collent leurs répliques sans marqueur : ponctuation de fin,
+  # deux espaces LITTÉRALES, une capitale. Nulle part ailleurs dans le corpus.
+  COLLAGE = /(?<=[.!?])  +(?=[[:upper:]])/
+
+  # Tout ce qui termine une ligne à l'écran. `{PAUSE}` n'en fait PAS partie :
+  # il marque un temps, et le texte continue sur la même ligne — couper là
+  # faisait croire à deux lignes courtes au lieu d'une longue. `(*SPEAKER*)` et
+  # `(*RESPONSE*)`, eux, en terminent bien une.
+  COUPE = /\{SAUT\}|\{PAGE\}|\{ATTENTE\}|\{FERME\}|\(\*SPEAKER\*\)|\(\*RESPONSE\*\)/
+
+  # `[0000]` n'est pas un code de contrôle : c'est l'ESPACE. Elle n'est pas dans
+  # la table, elle s'encode sur le code 0. La retirer avec les jetons, c'était
+  # mesurer « Salledesprofs ».
   def lignes_affichees(texte)
-    texte.to_s.split(/\{SAUT\}|\{PAGE\}|\{ATTENTE\}|\{FERME\}|\{PAUSE\}/)
-         .map { |l| l.gsub(JETON, '').strip }
-         .reject(&:empty?)
+    brut = texte.to_s.gsub(SEPARATEUR, "\n").gsub(COLLAGE, "\n").gsub('[0000]', ' ')
+    ANCHOS.each { |a, b| brut = brut.gsub(a, b) }
+    brut.split(COUPE).flat_map { |p| p.split("\n") }
+        .map { |l| l.gsub(JETON, '').strip }
+        .reject(&:empty?)
+  end
+
+  # Cette ligne est-elle rendue dans une boîte ?
+  #
+  # Un remplissage d'espaces appartient à un bloc de mise en scène, le japonais
+  # inutilisé n'est jamais atteint, et au-delà d'une soixantaine de signes ce
+  # n'est pas une ligne mais une entrée dont on ne modélise pas la découpe
+  # interne. Le remplissage ne se juge que sur l'INTÉRIEUR : un libellé de menu
+  # centré par des espaces de tête est bien affiché. Même règle que
+  # `largeur_pixels.py`, et il faut que ce soit exactement la même : deux
+  # filtres différents, c'est un outil qui contredit l'autre.
+  def ligne_rendue?(ligne)
+    net = ligne.strip
+    return false if net.empty? || net.length > 60
+    return false if net =~ /\s{6,}/
+    return false if net =~ /[\u3040-\u30ff\u4e00-\u9fff]/
+
+    net =~ /[[:alpha:]]/ ? true : false
   end
 
   # Les fichiers de négociation (pack/talk/*.BIN) ne peuvent pas grossir
@@ -157,8 +213,18 @@ module CheckTrad
   # Lit la table de caractères du jeu : des lignes `XXXX=c`, hexadécimal à
   # gauche, caractère à droite. Rend { caractère => code }.
   #
-  # Un même caractère peut apparaître plusieurs fois ; la première occurrence
-  # gagne, comme dans le moteur.
+  # Un même caractère peut apparaître plusieurs fois, et c'est le DERNIER qui
+  # gagne — `car_a_valor[car] = valor` dans `text.rb`, sans garde. Vingt
+  # caractères sont dans ce cas, tous les accentués compris, et l'écart n'est
+  # pas cosmétique :
+  #
+  #   `é` 0x00AB (premier) : cellule vide, 17 px d'avance
+  #   `é` 0x00DA (dernier) : le glyphe réel, 9 px
+  #
+  # Mesurer avec le premier gonflerait donc chaque accent de huit pixels, sur
+  # une langue qui en est truffée. Et trois caractères (`Á`, `Ñ`, `ú`) ont un
+  # premier code que la police ne dessine pas : le contrôle GLYPHE les aurait
+  # déclarés muets le jour où quelqu'un les écrit.
   def charger_table(chemin)
     table = {}
     File.read(chemin, encoding: 'UTF-8').each_line do |ligne|
@@ -170,9 +236,66 @@ module CheckTrad
       next unless hex.to_s.strip.length == 4
 
       code = Integer(hex.strip, 16) rescue next
-      table[car] ||= code
+      table[car] = code
     end
     table
+  end
+
+  # --- La métrique du jeu, pas une estimation -------------------------------
+  #
+  # `largeurs_glyphes.json` porte l'avance de chaque code en pixels et la borne
+  # de chaque zone. Les deux sortent de l'EBOOT par `extraire_largeurs.py` : la
+  # métrique vient des tables du moteur p1es de Zenshou, la borne est la ligne
+  # anglaise affichée la plus large — donc une borne OBSERVÉE, puisque le jeu
+  # l'affiche sans la couper.
+  #
+  # Avant, ce contrôle comptait des CARACTÈRES. La police est à chasse
+  # variable : `WWWWW` et `iiiii` n'occupent pas la même place, donc compter se
+  # trompe dans les deux sens — on refusait des lignes qui tiennent et on
+  # laissait passer des lignes qui débordent. Sur le corpus entier, la règle des
+  # 40 signes sortait 273 avertissements là où la mesure n'en trouve aucun. Un
+  # validateur qui crie sans raison, on apprend à l'ignorer.
+  def metrique
+    return @metrique if defined?(@metrique)
+
+    chemin = File.join(AQUI, 'largeurs_glyphes.json')
+    @metrique = File.exist?(chemin) ? JSON.parse(File.read(chemin, encoding: 'UTF-8')) : nil
+  rescue StandardError
+    @metrique = nil
+  end
+
+  # { caractère => avance en pixels }, l'espace mis à part : il n'est pas dans
+  # la table de caractères, il s'encode sur le code 0, et `ancho_glifo` lui
+  # donne 5 px.
+  def avances_car(tabla)
+    return nil if metrique.nil?
+
+    @avances_car ||= begin
+      brut = metrique['avances']
+      tabla.each_with_object({}) do |(car, code), h|
+        px = brut[code.to_s]
+        h[car] = px if px
+      end
+    end
+  end
+
+  def espace_px
+    return 5 if metrique.nil?
+
+    (metrique['avances']['0'] || 5)
+  end
+
+  # La borne de la zone, déduite du dossier qui contient le fichier.
+  def limite_px(chemin)
+    return nil if metrique.nil?
+
+    zone = File.basename(File.dirname(File.expand_path(chemin)))
+    fiche = (metrique['_limites'] || {})[zone]
+    fiche && fiche['limite_px']
+  end
+
+  def mesurer_px(ligne, avances)
+    ligne.each_char.sum { |c| c == ' ' ? espace_px : (avances[c] || 0) }
   end
 
   def caracteres_hors_table(texte, tabla)
@@ -391,6 +514,11 @@ module CheckTrad
 
   def verifier(chemin, tabla, glyphes, canari = nil, termes = [], reference = nil)
     entrees = JSON.parse(File.read(chemin, encoding: 'UTF-8'))
+    # La métrique et la borne de la zone, une fois pour tout le fichier. Sans
+    # `largeurs_glyphes.json` à côté, la mesure ne se fait pas du tout plutôt
+    # que de se faire mal : une largeur fausse est pire que pas de largeur.
+    avances = avances_car(tabla)
+    limite = limite_px(chemin)
     soucis = []
     avertis = []
     traduites = 0
@@ -457,36 +585,23 @@ module CheckTrad
         end
       end
 
-      # La largeur se juge PAR RAPPORT À L'ANGLAIS. 42 lignes du script
-      # original dépassent déjà 43 caractères : un traducteur fidèle y serait
-      # refusé pour une largeur qu'il n'a pas créée. On ne reproche donc que ce
-      # que le français ajoute — et on n'avertit qu'à partir de 40, comme
-      # annoncé aux contributeurs.
-      anglaises = lignes_affichees(e['en'])
-      lignes_affichees(e['fr']).each_with_index do |l, i|
-        origine = (anglaises[i] || anglaises.max_by(&:length) || '').length
-        next unless l.length > LARGEUR_MAX
+      # LARGEUR, en PIXELS. La borne de la zone est la ligne anglaise affichée
+      # la plus large : le jeu l'affiche sans la couper, donc tout ce qui est en
+      # dessous passe. Plus besoin de juger « par rapport à l'anglais » comme
+      # du temps où l'on comptait des caractères — une borne absolue ne peut
+      # pas, par construction, reprocher au traducteur une largeur que
+      # l'original avait déjà.
+      if avances && limite
+        lignes_affichees(e['fr']).each do |l|
+          next unless ligne_rendue?(l)
 
-        if l.length <= origine
-          # Aussi large que l'original : par définition pas une régression. Rien
-          # à reprendre, donc rien à signaler — un avertissement sur lequel
-          # personne ne peut agir noie ceux sur lesquels on peut.
-          next
-        elsif origine > LARGEUR_DURE
-          # L'anglais lui-même dépasse déjà la boîte : ce n'est donc pas une
-          # ligne affichée. Ce sont les blocs de mise en scène — des centaines
-          # de (*SCENE_LOAD*) et (*SET_ANIM_LAYER*) dont les espaces se
-          # retrouvent dans le texte — avec une phrase courte au bout.
-          #
-          # Mesuré sur E0.BIN:016:0285 : 1 491 caractères annoncés pour 19 de
-          # texte réellement affiché (« > Vous avez pièces. »). La largeur n'a
-          # pas de sens sur ces entrées, et le traducteur n'y peut rien : on ne
-          # signale pas.
-          next
-        elsif l.length > LARGEUR_DURE
-          soucis << "#{id} [LARGEUR] #{l.length} car. contre #{origine} en anglais (debordement certain) : #{l.inspect}"
-        else
-          avertis << "#{id} [LARGEUR] #{l.length} car. contre #{origine} en anglais — a surveiller"
+          px = mesurer_px(l, avances)
+          if px > limite
+            soucis << "#{id} [LARGEUR] #{px} px pour une boite de #{limite} px " \
+                      "(+#{px - limite}) — la ligne sera coupee : #{l.inspect}"
+          elsif px > limite * 93 / 100
+            avertis << "#{id} [LARGEUR] #{px} px, la boite en fait #{limite} — il reste #{limite - px} px"
+          end
         end
       end
 
@@ -526,8 +641,12 @@ module CheckTrad
         soucis << "#{id} [DONJON] #{gonfle} car. de plus que l'anglais — " \
                   'un fichier de donjon ne peut pas grossir (chargement infini)'
       elsif cout > SEUIL_OCTETS
+        # Prudent sur ce qu'il affirme : on sait ce que CETTE entrée ajoute, pas
+        # combien son bloc avait de marge. Un bloc qui déborde renvoie bien tout
+        # son fichier en anglais, mais la plupart ont de la place — l'autorité
+        # est `budget_blocs.py`, côté privé, avant chaque construction.
         avertis << "#{id} [OCTETS] +#{cout} octets (#{gonfle} car. x#{n} occurrences) — " \
-                   'un bloc qui deborde renvoie tout le fichier en anglais'
+                   'a confronter au budget des blocs, seul a connaitre la marge reelle'
       end
 
       termes_manquants(e['en'], e['fr'], termes).each do |en, fr|
