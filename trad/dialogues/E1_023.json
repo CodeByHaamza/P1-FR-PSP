@@ -158,14 +158,14 @@
     "locuteur": "Nanjo",
     "en": "You're under orders from Yuriko to bar{SAUT}our path, aren't you!?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Tu as reçu de Yuriko l'ordre de nous{SAUT}barrer la route, n'est-ce pas!?{ATTENTE}"
+    "fr": "Vous avez reçu de Yuriko l'ordre de{SAUT}nous barrer la route, n'est-ce pas!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:099:0023",
     "locuteur": "Nanjo",
     "en": "I demand you let us through!{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "J'exige que tu nous laisses passer!{ATTENTE}"
+    "fr": "J'exige que vous nous laissiez passer!{ATTENTE}"
   },
   {
     "id": "E1.BIN:099:0024",

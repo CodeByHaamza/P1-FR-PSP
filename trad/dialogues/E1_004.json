@@ -61,7 +61,7 @@
     "locuteur": "Nanjo",
     "en": "I'm... not sure what you're trying{SAUT}to say, but...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Je... ne vois pas où tu veux en{SAUT}venir, mais...{ATTENTE}"
+    "fr": "Je... ne vois pas où vous voulez en{SAUT}venir, mais...{ATTENTE}"
   },
   {
     "id": "E1.BIN:009:0009",
@@ -180,7 +180,7 @@
     "locuteur": "Nanjo",
     "en": "If you use this power for personal gain,{SAUT}you'll reap what you sow.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Si tu uses de ce pouvoir pour toi,{SAUT}tu récolteras ce que tu sèmes.{ATTENTE}"
+    "fr": "Si vous usez de ce pouvoir pour vous,{SAUT}vous le récolterez.{ATTENTE}"
   },
   {
     "id": "E1.BIN:009:0026",

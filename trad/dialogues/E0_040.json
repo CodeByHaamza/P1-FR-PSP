@@ -390,7 +390,7 @@
     "locuteur": "Nanjo",
     "en": "...Wait, Masao. Do you know the story of{SAUT}the foolish girl named Pandora?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "...Attends, Masao. Connais-tu l'histoire{SAUT}de cette sotte nommée Pandore?{ATTENTE}"
+    "fr": "...Un instant, Masao. Connaissez-vous{SAUT}l'histoire de cette sotte, Pandore?{ATTENTE}"
   },
   {
     "id": "E0.BIN:149:0059",
@@ -460,7 +460,7 @@
     "locuteur": "Nanjo",
     "en": "Don't let your personal feelings sway{SAUT}you...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Ne laisse pas tes sentiments te{SAUT}détourner...{ATTENTE}"
+    "fr": "Ne laissez pas vos sentiments vous{SAUT}égarer...{ATTENTE}"
   },
   {
     "id": "E0.BIN:149:0069",
@@ -537,7 +537,7 @@
     "locuteur": "Nanjo",
     "en": "Heh... You believe in her, eh?{SAUT}Yamaoka said he believed in me, too...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Heh... Tu crois en elle, hein?{SAUT}Yamaoka disait croire en moi, aussi...{ATTENTE}"
+    "fr": "Heh... Vous croyez en elle, hein?{SAUT}Yamaoka disait croire en moi, aussi...{ATTENTE}"
   },
   {
     "id": "E0.BIN:149:0080",

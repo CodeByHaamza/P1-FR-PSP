@@ -336,21 +336,21 @@
     "locuteur": "Nanjo",
     "en": "Do you understand the substance of what{SAUT}you're saying?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Comprends-tu la portée de ce que tu{SAUT}es en train de dire?{ATTENTE}"
+    "fr": "Comprenez-vous la portée de ce que{SAUT}vous êtes en train de dire?{ATTENTE}"
   },
   {
     "id": "E1.BIN:128:0017",
     "locuteur": "Nanjo",
     "en": "What you obtained through death and the{SAUT}power of the mask...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Ce que tu as obtenu par la mort et le{SAUT}pouvoir du masque...{ATTENTE}"
+    "fr": "Ce que vous avez obtenu par la mort{SAUT}et le pouvoir du masque...{ATTENTE}"
   },
   {
     "id": "E1.BIN:128:0018",
     "locuteur": "Nanjo",
     "en": "It is merely the end of your existence,{SAUT}the real world without you...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Ce n'est que la fin de ton existence,{SAUT}le monde réel sans toi...{ATTENTE}"
+    "fr": "Ce n'est que la fin de votre existence,{SAUT}le monde réel sans vous...{ATTENTE}"
   },
   {
     "id": "E1.BIN:128:0019",
@@ -525,14 +525,14 @@
     "locuteur": "Nanjo",
     "en": "Yuka is most like you of all of us, and{SAUT}you can see she has utterly rejected you.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Yuka est la plus proche de toi d'entre{SAUT}nous, et elle te rejette en bloc.{ATTENTE}"
+    "fr": "Yuka est la plus proche de vous{SAUT}d'entre nous, et elle vous rejette.{ATTENTE}"
   },
   {
     "id": "E1.BIN:128:0044",
     "locuteur": "Nanjo",
     "en": "In other words, no one is buying the{SAUT}nonsense you're trying to peddle.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Autrement dit, personne ne croit aux{SAUT}sottises que tu essaies de vendre.{ATTENTE}"
+    "fr": "Autrement dit, personne ne croit aux{SAUT}sottises que vous essayez de vendre.{ATTENTE}"
   },
   {
     "id": "E1.BIN:128:0045",
