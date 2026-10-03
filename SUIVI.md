@@ -241,9 +241,9 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E2_008.json`](trad/dialogues/E2_008.json) | 99 | 99 | 100 % | terminé |
 | [`E2_009.json`](trad/dialogues/E2_009.json) | 97 | 97 | 100 % | terminé |
 | [`E2_010.json`](trad/dialogues/E2_010.json) | 97 | 0 | 0 % | en cours par @Uolil-Raccoon (#87) |
-| [`E2_011.json`](trad/dialogues/E2_011.json) | 90 | 0 | 0 % | libre |
+| [`E2_011.json`](trad/dialogues/E2_011.json) | 90 | 0 | 0 % | en cours par @CodeByHaamza (#119) |
 | [`E2_012.json`](trad/dialogues/E2_012.json) | 91 | 91 | 100 % | terminé |
-| [`E2_013.json`](trad/dialogues/E2_013.json) | 88 | 0 | 0 % | libre |
+| [`E2_013.json`](trad/dialogues/E2_013.json) | 88 | 0 | 0 % | en cours par @CodeByHaamza (#119) |
 | [`E2_014.json`](trad/dialogues/E2_014.json) | 95 | 95 | 100 % | terminé |
 | [`E2_015.json`](trad/dialogues/E2_015.json) | 91 | 91 | 100 % | terminé · 3 trop large |
 | [`E2_016.json`](trad/dialogues/E2_016.json) | 100 | 100 | 100 % | terminé |
