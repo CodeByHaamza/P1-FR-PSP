@@ -165,14 +165,14 @@
     "locuteur": "Nanjo",
     "en": "You're playing games now?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Tu joues à des jeux, maintenant?{ATTENTE}"
+    "fr": "Vous jouez à des jeux, maintenant?{ATTENTE}"
   },
   {
     "id": "E2.BIN:206:0010",
     "locuteur": "Nanjo",
     "en": "I can't tell if you're supremely confident{SAUT}or supremely uncaring...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Je n'arrive pas à dire si tu as une{SAUT}confiance suprême ou tu t'en fiches.{ATTENTE}"
+    "fr": "Je n'arrive pas à dire si c'est de la{SAUT}confiance suprême ou de l'indifférence.{ATTENTE}"
   },
   {
     "id": "E2.BIN:206:0011",

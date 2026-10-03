@@ -644,7 +644,7 @@
     "locuteur": "Nanjo",
     "en": "You're getting rather worked up over{SAUT}something so trivial, Masao. Let's go.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Tu t'emportes pour bien peu, Masao.{SAUT}Allons-y.{ATTENTE}"
+    "fr": "Vous vous emportez pour peu, Masao.{SAUT}Allons-y.{ATTENTE}"
   },
   {
     "id": "E2.BIN:176:0000",

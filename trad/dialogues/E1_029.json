@@ -555,14 +555,14 @@
     "locuteur": "Nanjo",
     "en": "Honestly! Do you seriously believe{SAUT}there'd be a lost child here?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Franchement! Tu crois sérieusement{SAUT}qu'il y aurait un enfant perdu ici?{ATTENTE}"
+    "fr": "Franchement! Vous croyez vraiment{SAUT}qu'il y aurait un enfant perdu ici?{ATTENTE}"
   },
   {
     "id": "E1.BIN:196:0006",
     "locuteur": "Nanjo",
     "en": "Who can say what she has in mind?{SAUT}Don't let your guard down!{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Qui sait ce qu'elle a en tête?{SAUT}Ne baisse pas ta garde!{ATTENTE}"
+    "fr": "Qui sait ce qu'elle a en tête?{SAUT}Ne baissez pas votre garde!{ATTENTE}"
   },
   {
     "id": "E1.BIN:196:0007",

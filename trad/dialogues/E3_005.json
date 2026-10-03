@@ -646,7 +646,7 @@
     "locuteur": "Nanjo",
     "en": "I'm considering implementing a labyrinth{SAUT}to enhance my home security. Well?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "J'envisage un labyrinthe pour sécuriser{SAUT}ma demeure. Qu'en dis-tu?{ATTENTE}"
+    "fr": "J'envisage un labyrinthe pour sécuriser{SAUT}ma demeure. Qu'en dites-vous?{ATTENTE}"
   },
   {
     "id": "E3.BIN:042:0004",

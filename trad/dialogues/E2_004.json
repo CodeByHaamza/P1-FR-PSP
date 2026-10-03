@@ -19,7 +19,7 @@
     "locuteur": "Nanjo",
     "en": "But ARE we really still human now that we{SAUT}have this power? What do you think?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Mais SOMMES-nous encore humains, avec{SAUT}ce pouvoir? Qu'en penses-tu?{ATTENTE}",
+    "fr": "Mais SOMMES-nous encore humains, avec{SAUT}ce pouvoir? Qu'en pensez-vous?{ATTENTE}",
     "_occurrences": 2
   },
   {
@@ -261,21 +261,21 @@
     "locuteur": "Nanjo",
     "en": "I wasn't aware you were a gambler. Looks{SAUT}can evidently be deceiving.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Je ne te savais pas joueur. Les{SAUT}apparences sont trompeuses, en effet.{ATTENTE}"
+    "fr": "Je ne vous savais pas joueur. Les{SAUT}apparences sont trompeuses, en effet.{ATTENTE}"
   },
   {
     "id": "E2.BIN:048:0001",
     "locuteur": "Nanjo",
     "en": "You don't seem to have a care in the{SAUT}world...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Tu ne sembles avoir aucun souci au{SAUT}monde...{ATTENTE}"
+    "fr": "Vous ne semblez avoir aucun souci au{SAUT}monde...{ATTENTE}"
   },
   {
     "id": "E2.BIN:048:0002",
     "locuteur": "Nanjo",
     "en": "I'm rather envious of your composure at{SAUT}a time like this.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "J'envie plutôt ton sang-froid dans un{SAUT}moment comme celui-ci.{ATTENTE}"
+    "fr": "J'envie plutôt votre sang-froid dans{SAUT}un moment comme celui-ci.{ATTENTE}"
   },
   {
     "id": "E2.BIN:048:0003",
