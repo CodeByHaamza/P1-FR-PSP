@@ -80,6 +80,27 @@ reformulé exprès, ou si le mot n'avait pas sa place, dis-le en un mot dans ta
 proposition. Le but est d'éviter qu'un même nom soit traduit de trois façons
 dans le jeu, pas de te forcer à répéter un mot là où le français n'en veut pas.
 
+**`+55 px (430 px) ... ` dans « Largeur des lignes »**
+Ta ligne est plus large que la boîte. Ce n'est pas un comptage de caractères,
+c'est une **mesure** : la police du jeu est à chasse variable, donc `WWWWW` et
+`iiiii` n'occupent pas la même place, et la règle des « 40 caractères » se
+trompe dans les deux sens.
+
+La largeur de chaque glyphe est lue dans la table du jeu — celle que le moteur
+**p1es de Zenshou** sait localiser dans l'EBOOT — plus un pixel d'avance, et
+cinq pixels pour l'espace. Un accent n'ajoute rien à la largeur : il hérite de
+la métrique de sa lettre de base, règle donnée par Zenshou et appliquée par le
+build.
+
+La limite, elle, ne sort pas d'un chapeau : **l'anglais d'origine tient
+forcément**, donc on mesure toutes ses lignes et on prend la plus large. Pour
+les dialogues, c'est 375 px — `Holy son of a--Wh-Wh-Wh-What the hell!?`. Si ta
+ligne dépasse ça, elle sera coupée à l'écran et le joueur ne saura pas qu'il lui
+manque un mot.
+
+Ce message **ne bloque pas** ta proposition ; il bloque la fabrication d'une
+version.
+
 **`[NOM-ENCADRE] X — l'inventaire dit « Y »`**
 Un nom d'objet affiché à l'écran ne s'écrit pas comme dans l'inventaire. C'est
 le constat le plus sûr des trois, parce qu'il ne devine rien : le jeu **encadre**
