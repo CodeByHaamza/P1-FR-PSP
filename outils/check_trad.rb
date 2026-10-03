@@ -519,6 +519,14 @@ module CheckTrad
     # que de se faire mal : une largeur fausse est pire que pas de largeur.
     avances = avances_car(tabla)
     limite = limite_px(chemin)
+    # Un contrôle qui disparaît en silence est pire que pas de contrôle : on
+    # croit qu'il a passé. Si la métrique manque, ou si le dossier n'est pas une
+    # zone connue, on le dit une fois.
+    if (avances.nil? || limite.nil?) && !defined?(@largeur_dite)
+      @largeur_dite = true
+      raison = avances.nil? ? 'largeurs_glyphes.json absent' : "zone inconnue (#{File.basename(File.dirname(File.expand_path(chemin)))})"
+      warn "  [LARGEUR] mesure desactivee : #{raison}"
+    end
     soucis = []
     avertis = []
     traduites = 0
