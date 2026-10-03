@@ -11,6 +11,7 @@ compris.
 [![avancement total : 100 % des textes traduits](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge.json)](SUIVI.md)
 ![licence : CC BY-NC-SA 4.0](https://img.shields.io/badge/licence-CC%20BY--NC--SA%204.0-lightgrey)
 [![Discord : Grimoire du Coeur](https://img.shields.io/badge/discord-Grimoire%20du%20C%C5%93ur-5865F2?logo=discord&logoColor=white)](https://discord.gg/s6CRadvPa3)
+[![relecture : 0 % (0 script relu sur 284)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_relecture.json)](SUIVI.md)
 
 [![dialogues : 100 % traduits (8 560 sur 8 572 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_dialogues.json)](SUIVI.md)
 [![eboot : 100 % traduits (2 956 sur 2 956 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_eboot.json)](SUIVI.md)

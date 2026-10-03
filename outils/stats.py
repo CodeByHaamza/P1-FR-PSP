@@ -449,7 +449,19 @@ def ecrire_badges_readme(racine: Path, sections, fait: int, tout: int, relecture
     # La relecture sur sa propre ligne, et en tete : c'est l'etape en cours.
     # Collee aux badges de traduction, qui sont tous a 100 %, elle se lirait
     # comme un detail — alors que c'est elle qui dit ce qui reste a faire.
-    if relecture is not None:
+    #
+    # Sans donnee de relecture, on GARDE la ligne deja presente au lieu de la
+    # jeter. Cette fonction est appelee de deux endroits : la CI du suivi, qui
+    # interroge les issues, et `generer_public.py`, qui ne le fait pas. Le
+    # second effacait donc ce que le premier venait d'ecrire, a chaque
+    # publication. Une regeneration ne doit pas supprimer une information
+    # qu'elle n'avait simplement pas sous la main.
+    if relecture is None:
+        for ligne in texte.partition(DEBUT_BADGES)[2].partition(FIN_BADGES)[0].splitlines():
+            if "badge_relecture" in ligne:
+                lignes.insert(3, ligne.strip())
+                break
+    else:
         relus, scripts = relecture
         lignes.insert(
             3,
