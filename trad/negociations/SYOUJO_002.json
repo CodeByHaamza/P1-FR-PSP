@@ -17,7 +17,7 @@
   {
     "id": "SYOUJO.BIN:text:0107",
     "en": " Um... Didn't you need something from me?[FFFD][58FF][F500] Huh, you're pretty confident. I'll be{SAUT}impressed if you can keep that up until{SAUT}the end.(*RESPONSE*)",
-    "fr": " Euh... Tu n'avais pas besoin de quelque chose de ma part?[FFFD][58FF][F500]Oh, t'as de l'assurance. Je serai{SAUT}impressionnée si tu tiens ça{SAUT}jusqu'au bout.(*RESPONSE*)",
+    "fr": " Euh... Tu voulais pas quelque chose de ma part?[FFFD][58FF][F500]Oh, t'as de l'assurance. Je serai{SAUT}impressionnée si tu tiens ça{SAUT}jusqu'au bout.(*RESPONSE*)",
     "_occurrences": 2
   },
   {
@@ -33,7 +33,7 @@
   {
     "id": "SYOUJO.BIN:text:0110",
     "en": " Um... Didn't you need something from me?[FFFD][5BFF][F500] You're confident, aren't ya mister?{SAUT}But I bet you're all talk!(*RESPONSE*)",
-    "fr": " Euh... Tu n'avais pas besoin de quelque chose de ma part?[FFFD][5BFF][F500]T'as confiance en toi, monsieur?{SAUT}Mais je parie que c'est du vent!(*RESPONSE*)"
+    "fr": " Euh... Tu voulais pas quelque chose de ma part?[FFFD][5BFF][F500]T'as confiance en toi, monsieur?{SAUT}Mais je parie que c'est du vent!(*RESPONSE*)"
   },
   {
     "id": "SYOUJO.BIN:text:0111",

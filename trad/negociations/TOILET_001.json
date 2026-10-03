@@ -468,7 +468,7 @@
   {
     "id": "TOILET.BIN:text:0111",
     "en": " Um... Didn't you need something from me?[FFFD][5BFF][F500] Normally someone who threatened a toilet{SAUT}would be seen as a freak... but you{SAUT}might be an interesting person.(*RESPONSE*)",
-    "fr": "Euh... Tu n'avais pas besoin de quelque chose de ma part?[FFFD][5BFF][F500] D'habitude, qui menace des WC{SAUT}passe pour un fou... mais tu es{SAUT}peut-être intéressant.(*RESPONSE*)"
+    "fr": "Euh... Tu voulais pas quelque chose de ma part?[FFFD][5BFF][F500] D'habitude, qui menace des WC{SAUT}passe pour un fou... mais tu es{SAUT}peut-être intéressant.(*RESPONSE*)"
   },
   {
     "id": "TOILET.BIN:text:0112",
