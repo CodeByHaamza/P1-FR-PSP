@@ -1,0 +1,36 @@
+{
+  "_lire": [
+    "Les tics de langage qui doivent survivre a la traduction.",
+    "",
+    "Chaque regle dit : quand l'anglais porte cette marque (chez ce personnage,",
+    "s'il est nomme), le francais doit en porter une. L'outil ne devine rien, il",
+    "verifie une correspondance qu'on a decidee.",
+    "",
+    "`anglais` et `francais` sont des expressions regulieres, insensibles a la",
+    "casse. `locuteur` est facultatif : certaines marques appartiennent a",
+    "plusieurs personnages, comme le tic de Jack Frost et des siens."
+  ],
+
+  "tics": [
+    {
+      "quoi": "Jack Frost et les siens gardent leur tic",
+      "anglais": "hee-",
+      "francais": "hi-|ho",
+      "_pourquoi": "En anglais « hee- » FUSIONNE avec le mot suivant quand il commence par h : « hee-hopens », « hee-how », « hee-hot ». Le francais ne peut pas fusionner pareil, alors il rend le tic autrement : « hi- » colle devant le mot, « ho » glisse dans la phrase, ou la fusion tombe bien quand le mot s'y prete (« ho-ccasion »). On verifie donc que le tic est rendu D'UNE facon, pas qu'il l'est d'UNE SEULE : sur 380 lignes anglaises portant la marque, une seule la perdait."
+    },
+    {
+      "quoi": "Ayase ponctue ses phrases de « genre »",
+      "locuteur": "Ayase",
+      "anglais": "\\blike,",
+      "francais": "\\bgenre",
+      "_pourquoi": "Le « like, » d'Ayase est un tic de lyceenne, pas une comparaison. « genre » en est l'equivalent francais exact, et c'est lui qui la distingue des autres filles du jeu."
+    },
+    {
+      "quoi": "Mark appelle les gens « mec »",
+      "locuteur": "Mark",
+      "anglais": "\\b(dude|man)\\b",
+      "francais": "\\b(mec|mon vieux|vieux)\\b",
+      "_pourquoi": "Mark ponctue de « dude » et de « man ». « mec » le rend, et c'est sa marque a lui : Brown dit « mon pote », Ayase dit « genre »."
+    }
+  ]
+}

@@ -58,6 +58,11 @@ jobs:
       - name: Fautes de frappe
         run: python outils/relire_fautes.py --racine trad
 
+      # Seulement les tics : eux se mesurent. Un personnage qui perd sa marque
+      # entre deux versions, le joueur l'entend.
+      - name: Tics de langage
+        run: python outils/voix_personnages.py --racine trad --tics
+
       - name: Recompter
         run: python outils/stats.py
 

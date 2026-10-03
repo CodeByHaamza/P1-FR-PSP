@@ -212,12 +212,32 @@ puisqu'une incohérence naît du rapprochement de deux fichiers dont un seul bou
   Reste à faire, et ce n'est pas la même chose : **la grammaire** — accords,
   temps, et les fautes sur un mot qui n'a pas de voisin dans le corpus. Il
   faudra un vrai analyseur.
-- **Tutoiement et vouvoiement**, par personnage. Nanjo vouvoie, Mark tutoie
-  tout le monde, Elly vouvoie les adultes. C'est posé fichier par fichier
-  depuis des mois, donc il y a sûrement des flottements — surtout aux endroits
-  où deux campagnes se touchent.
-- **Les tics de langage** : le « hi-ho » de Jack Frost, le « genre » d'Ayase,
-  le « mec » de Mark. Vérifier qu'ils sont tenus de bout en bout.
+- ✅ **Tutoiement et tics** *(03/10/2026)* — `outils/voix_personnages.py`.
+
+  Le tutoiement ne se vérifie pas : **« vous » est aussi le pluriel**, et un
+  « vous » chez Mark s'adresse au groupe sans vouvoyer personne. L'outil rend
+  donc un rapport à lire, pas un verdict — mais regarder huit lignes vaut mieux
+  que quatre mille. Trois écarts francs corrigés : Michiko vouvoyait 46 fois et
+  tutoyait une, Igor pareil, et une réplique de Reiho perdait le tic de Jack
+  Frost.
+
+  Les tics, eux, se mesurent. Le résultat dit que les voix tiennent :
+
+  | tic | rendu |
+  |---|---|
+  | Jack Frost et les siens | **380 / 380** |
+  | le « genre » d'Ayase | 71 / 99 |
+  | le « mec » de Mark | 41 / 60 |
+
+  Et 72 % n'est pas un défaut : « Man, why I gotta do this? » rendu « Sérieux,
+  pourquoi je dois faire ça? » est un bon choix. Forcer la marque à chaque
+  réplique rendrait le personnage mécanique. Une voix doit revenir assez
+  souvent pour qu'on la reconnaisse, pas tomber à chaque phrase.
+
+  **Reste une question ouverte**, et c'est une décision de traduction, pas une
+  mesure : Nanjo vouvoie 226 fois et tutoie 31 fois, y compris ses camarades
+  (« Vous êtes... le moi idéalisé de la Maki Sonomura »). Les 31 sont donc des
+  écarts — sauf la citation de Sun Tzu, qui est figée.
 
 **Critère de sortie :** zéro `[OCTETS]`, chaque `[LARGEUR]` arbitré, le script
 de cohérence des noms écrit et vert, le correcteur passé.
