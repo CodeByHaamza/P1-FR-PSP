@@ -60,7 +60,7 @@
     "locuteur": "(*APODO_HEROE*)'s voice",
     "en": "You lacked the vision to see through{SAUT}to the truth...{ATTENTE}",
     "locuteur_fr": "Voix de (*APODO_HEROE*)",
-    "fr": "Tu n'as pas eu la clairvoyance de{SAUT}percer jusqu'à la vérité...{ATTENTE}"
+    "fr": "Tu n'as pas su voir{SAUT}jusqu'à la vérité...{ATTENTE}"
   },
   {
     "id": "E0.BIN:182:0005",
@@ -257,7 +257,7 @@
     "locuteur": "(*APODO_HEROE*)",
     "en": "Get it now?{ATTENTE}",
     "locuteur_fr": "(*APODO_HEROE*)",
-    "fr": "Tu comprends, maintenant?{ATTENTE}"
+    "fr": "Tu comprends?{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0001",
@@ -271,7 +271,7 @@
     "locuteur": "(*APODO_HEROE*)",
     "en": "We're two sides of the same coin...{SAUT}No, not just two.{ATTENTE}",
     "locuteur_fr": "(*APODO_HEROE*)",
-    "fr": "On est deux faces d'une même pièce...{SAUT}Non, pas seulement deux.{ATTENTE}"
+    "fr": "Deux faces d'une même pièce...{SAUT}Non, pas seulement deux.{ATTENTE}"
   },
   {
     "id": "E0.BIN:199:0003",
@@ -509,7 +509,7 @@
   {
     "id": "E0.BIN:199:0047",
     "en": "{FERME} > It's the Atlus fighting game,{SAUT}Groove On Fight. You haven't seen{SAUT}this game in years...{ATTENTE}",
-    "fr": "{FERME} > C'est le jeu de combat d'Atlus,{SAUT}Groove On Fight. Tu n'avais pas vu ce{SAUT}jeu depuis des années...{ATTENTE}"
+    "fr": "{FERME} > Le jeu de combat d'Atlus,{SAUT}Groove On Fight. Pas vu depuis{SAUT}des années...{ATTENTE}"
   },
   {
     "id": "E0.BIN:201:0000",

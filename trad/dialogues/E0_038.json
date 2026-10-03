@@ -201,14 +201,14 @@
     "locuteur": "Kandori",
     "en": "Boy... I allowed you to come here in{SAUT}order to ask you this:{ATTENTE}",
     "locuteur_fr": "Kandori",
-    "fr": "Garçon... je t'ai laissé venir ici{SAUT}afin de te poser cette question :{ATTENTE}"
+    "fr": "Garçon... je t'ai laissé venir ici{SAUT}pour te poser une question :{ATTENTE}"
   },
   {
     "id": "E0.BIN:147:0030",
     "locuteur": "Kandori",
     "en": "Why do you cling to life?{ATTENTE}",
     "locuteur_fr": "Kandori",
-    "fr": "Pourquoi t'accroches-tu à la vie?{ATTENTE}"
+    "fr": "Pourquoi tiens-tu à la vie?{ATTENTE}"
   },
   {
     "id": "E0.BIN:147:0031",
@@ -229,7 +229,7 @@
     "locuteur": "Maki",
     "en": "We may never understand it.{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "On ne la comprendra peut-être jamais.{ATTENTE}"
+    "fr": "On ne comprendra peut-être jamais.{ATTENTE}"
   },
   {
     "id": "E0.BIN:147:0034",
@@ -258,7 +258,7 @@
     "locuteur": "Maki",
     "en": "We may never understand it.{PAUSE}[5800]{SAUT}But I still believe in myself!{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "On ne la comprendra peut-être jamais.{PAUSE}[5800]{SAUT}Mais je crois encore en moi!{ATTENTE}"
+    "fr": "On ne comprendra peut-être jamais.{PAUSE}[5800]{SAUT}Mais je crois en moi!{ATTENTE}"
   },
   {
     "id": "E0.BIN:147:0039",
@@ -314,14 +314,14 @@
     "locuteur": "Elly",
     "en": "The people you see here are my most{SAUT}trusted friends...{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Les personnes que vous voyez ici sont{SAUT}mes amis les plus chers...{ATTENTE}"
+    "fr": "Ceux que vous voyez ici sont mes{SAUT}amis les plus chers...{ATTENTE}"
   },
   {
     "id": "E0.BIN:147:0047",
     "locuteur": "Elly",
     "en": "Now that I have them, I won't give them{SAUT}up that easily!{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Maintenant que je les ai, je ne les{SAUT}abandonnerai pas si facilement!{ATTENTE}"
+    "fr": "Je les ai, et je ne les lâcherai pas{SAUT}si facilement!{ATTENTE}"
   },
   {
     "id": "E0.BIN:147:0048",
@@ -398,7 +398,7 @@
     "locuteur": "Nanjo",
     "en": "Deep down, you know none of it was{SAUT}your doing...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Au fond, vous savez que rien de tout{SAUT}cela n'était votre oeuvre...{ATTENTE}"
+    "fr": "Au fond, vous savez que rien n'était{SAUT}votre oeuvre...{ATTENTE}"
   },
   {
     "id": "E0.BIN:147:0059",
@@ -433,7 +433,7 @@
     "locuteur": "Nanjo",
     "en": "The same goes for her wish to erase{SAUT}mankind.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Il en va de même pour son souhait{SAUT}d'effacer l'humanité.{ATTENTE}"
+    "fr": "De même pour son souhait{SAUT}d'effacer l'humanité.{ATTENTE}"
   },
   {
     "id": "E0.BIN:147:0064",
@@ -454,7 +454,7 @@
     "locuteur": "Nanjo",
     "en": "\"I want to risk it... But I can't...{SAUT}If only I could disappear...\"{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "\"Je veux tout risquer... Mais je ne peux{SAUT}pas... Si seulement je disparaissais...\"{ATTENTE}"
+    "fr": "\"Je veux risquer... Mais non...{SAUT}Si seulement je disparaissais...\"{ATTENTE}"
   },
   {
     "id": "E0.BIN:147:0067",
@@ -552,6 +552,6 @@
     "locuteur": "Kandori",
     "en": "You, boy... I haven't heard your answer{SAUT}yet.{ATTENTE}",
     "locuteur_fr": "Kandori",
-    "fr": "Toi, garçon... je n'ai pas encore{SAUT}entendu ta réponse.{ATTENTE}"
+    "fr": "Toi, garçon... toujours pas de{SAUT}réponse.{ATTENTE}"
   }
 ]

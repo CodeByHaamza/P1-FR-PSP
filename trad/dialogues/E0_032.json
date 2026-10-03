@@ -116,14 +116,14 @@
     "locuteur": "Mai",
     "en": "＊sniffle＊ I was lonely... That's when{SAUT}Kandori came.{ATTENTE}",
     "locuteur_fr": "Mai",
-    "fr": "＊sanglot＊ Je me sentais seule... C'est{SAUT}là que Kandori est venu.{ATTENTE}"
+    "fr": "＊sanglot＊ Je me sentais seule...{SAUT}Et Kandori est venu.{ATTENTE}"
   },
   {
     "id": "E0.BIN:118:0017",
     "locuteur": "Mai",
     "en": "Then she came out of me and left with{SAUT}Kandori.{ATTENTE}",
     "locuteur_fr": "Mai",
-    "fr": "Puis elle est sortie de moi et elle est{SAUT}partie avec Kandori.{ATTENTE}"
+    "fr": "Puis elle est sortie de moi et{SAUT}partie avec Kandori.{ATTENTE}"
   },
   {
     "id": "E0.BIN:118:0018",

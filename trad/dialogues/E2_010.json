@@ -11,7 +11,7 @@
     "locuteur": "Nanjo",
     "en": "Love is all in the mind. You think you're{SAUT}in love, so you're in love.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "L'amour, c'est dans la tête. Pensez que{SAUT}vous êtes amoureux, et vous le devenez.{ATTENTE}"
+    "fr": "L'amour est dans la tête. Vous vous{SAUT}croyez amoureux, donc vous l'êtes.{ATTENTE}"
   },
   {
     "id": "E2.BIN:171:0003",
@@ -67,7 +67,7 @@
     "locuteur": "Ayase",
     "en": "Sure, he's kinda mature... But Reiji's{SAUT}different, y'know?{ATTENTE}",
     "locuteur_fr": "Ayase",
-    "fr": "C'est vrai qu'il est plutôt mature...{SAUT}Mais Reiji est différent, tu vois?{ATTENTE}"
+    "fr": "C'est vrai qu'il est mature...{SAUT}Mais Reiji est différent, tu vois?{ATTENTE}"
   },
   {
     "id": "E2.BIN:171:0011",
@@ -81,7 +81,7 @@
     "locuteur": "Smitten girl",
     "en": "Oh, hey. Um... {PAUSE}[2000]I saw this really cool{SAUT}guy a second ago.{ATTENTE}",
     "locuteur_fr": "Amoureuse",
-    "fr": "Oh, hé. Euh... {PAUSE}[2000]J'ai vu un gars{SAUT}super canon il y a une seconde.{ATTENTE}"
+    "fr": "Oh, hé. Euh... {PAUSE}[2000]J'ai vu un gars{SAUT}super canon à l'instant.{ATTENTE}"
   },
   {
     "id": "E2.BIN:171:0013",
@@ -129,14 +129,14 @@
     "id": "E2.BIN:172:0003",
     "locuteur": "Vice-Principal Hanya",
     "en": "You haven't heard about her, Kei? A girl{SAUT}in black clothes has been appearing...{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Vous n'êtes pas au courant, Kei? Une{SAUT}fille en noir apparaît ces temps-ci...{ATTENTE}"
   },
   {
     "id": "E2.BIN:172:0004",
     "locuteur": "Vice-Principal Hanya",
     "en": "It only started happening recently.{SAUT}They say she controls demons.{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Ça a commencé il y a peu. On raconte{SAUT}qu'elle contrôle les démons.{ATTENTE}"
   },
   {
@@ -171,7 +171,7 @@
     "id": "E2.BIN:172:0009",
     "locuteur": "Vice-Principal Hanya",
     "en": "But don't worry! Principal Ooishi and I{SAUT}will protect you children!{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Mais pas d'inquiétude! La proviseure{SAUT}Ooishi et moi vous protégerons!{ATTENTE}"
   },
   {
@@ -199,14 +199,14 @@
     "id": "E2.BIN:172:0013",
     "locuteur": "Vice-Principal Hanya",
     "en": "Thank goodness... But what was that?{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Dieu merci... Mais c'était quoi, ça?{ATTENTE}"
   },
   {
     "id": "E2.BIN:172:0014",
     "locuteur": "Vice-Principal Hanya",
     "en": "From what I can tell, the school's layout{SAUT}has been shaken up...{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "De ce que je vois, la disposition du{SAUT}lycée a été bouleversée...{ATTENTE}"
   },
   {
@@ -220,14 +220,14 @@
     "id": "E2.BIN:172:0016",
     "locuteur": "Vice-Principal Hanya",
     "en": "Did you hear that, Ms. Ooishi!?{SAUT}So considerate of her...{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Entendez-vous ça, Mme Ooishi!?{SAUT}Elle est si aimable...{ATTENTE}"
   },
   {
     "id": "E2.BIN:172:0017",
     "locuteur": "Vice-Principal Hanya",
     "en": "It can only be the result of the stellar{SAUT}education you provide!{ATTENTE}",
-    "locuteur_fr": "Proviseur adjoint Hanya",
+    "locuteur_fr": "Adjoint Hanya",
     "fr": "Ça ne peut être que le fruit de votre{SAUT}éducation exemplaire!{ATTENTE}"
   },
   {
@@ -665,7 +665,7 @@
     "locuteur": "Maki",
     "en": "Everything will be fine! Don't worry...{SAUT}Leave it to us!{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "Tout va bien se passer! Ne t'inquiète{SAUT}pas... Laisse-nous faire!{ATTENTE}"
+    "fr": "Tout ira bien! Ne t'inquiète{SAUT}pas... Laisse-nous faire!{ATTENTE}"
   },
   {
     "id": "E2.BIN:176:0003",

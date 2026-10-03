@@ -32,7 +32,7 @@
     "locuteur": "Maki",
     "en": "This is me...? No... I made everyone{SAUT}suffer...?{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "C'est moi, ça...? Non... j'ai fait{SAUT}souffrir tout le monde...?{ATTENTE}"
+    "fr": "C'est moi...? Non... j'ai fait{SAUT}souffrir tout le monde...?{ATTENTE}"
   },
   {
     "id": "E0.BIN:149:0005",
@@ -67,7 +67,7 @@
     "locuteur": "Brown",
     "en": "There's three Makis? No way... This is{SAUT}some sick joke, right?{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "Il y a trois Maki? Pas possible...{SAUT}C'est une blague de malade, hein?{ATTENTE}"
+    "fr": "Trois Maki? Pas possible...{SAUT}Une blague de malade, hein?{ATTENTE}"
   },
   {
     "id": "E0.BIN:149:0010",
@@ -165,7 +165,7 @@
     "locuteur": "Maki",
     "en": "I was jealous of everyone...{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "J'étais jalouse de tout le monde...{ATTENTE}"
+    "fr": "J'étais jalouse d'eux tous...{ATTENTE}"
   },
   {
     "id": "E0.BIN:149:0025",
@@ -313,7 +313,7 @@
     "locuteur": "Maki",
     "en": "Hm... You like this boy now...{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "Hm... Tu aimes ce garçon, à présent...{ATTENTE}"
+    "fr": "Hm... Tu l'aimes, ce garçon...{ATTENTE}"
   },
   {
     "id": "E0.BIN:149:0047",
@@ -327,7 +327,7 @@
     "locuteur": "Maki",
     "en": "It's easy... Bye bye, mister.{ATTENTE}",
     "locuteur_fr": "Maki",
-    "fr": "C'est facile... Au revoir, monsieur.{ATTENTE}"
+    "fr": "C'est facile... Adieu, monsieur.{ATTENTE}"
   },
   {
     "id": "E0.BIN:149:0049",
@@ -376,7 +376,7 @@
     "locuteur": "Mark",
     "en": "You... you idiot! Why, dammit!?{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Toi... espèce d'idiote! Pourquoi, zut!?{ATTENTE}"
+    "fr": "Toi... idiote! Pourquoi, zut!?{ATTENTE}"
   },
   {
     "id": "E0.BIN:149:0057",
@@ -467,7 +467,7 @@
     "locuteur": "Nanjo",
     "en": "A small sacrifice for the greater{SAUT}good... The choice is obvious.{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "Un petit sacrifice pour le bien du{SAUT}plus grand nombre... Le choix est clair.{ATTENTE}"
+    "fr": "Un petit sacrifice pour le plus grand{SAUT}nombre... Le choix est clair.{ATTENTE}"
   },
   {
     "id": "E0.BIN:149:0070",

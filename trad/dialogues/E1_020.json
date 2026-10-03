@@ -39,7 +39,7 @@
     "locuteur": "Michiko",
     "en": "Oh! How can this be?{ATTENTE}",
     "locuteur_fr": "Michiko",
-    "fr": "Oh! Comment est-ce possible?{ATTENTE}"
+    "fr": "Oh! Est-ce possible?{ATTENTE}"
   },
   {
     "id": "E1.BIN:087:0006",
@@ -81,7 +81,7 @@
     "locuteur": "Nanjo",
     "en": "...Please. I beg of you...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "...S'il vous plaît. Je vous en prie...{ATTENTE}"
+    "fr": "...Je vous en prie...{ATTENTE}"
   },
   {
     "id": "E1.BIN:087:0012",
@@ -116,7 +116,7 @@
     "locuteur": "Brown",
     "en": "So stop horking like a seal and get out{SAUT}of our sight!{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "Alors arrête de brailler comme un phoque{SAUT}et disparais de notre vue!{ATTENTE}"
+    "fr": "Arrête de brailler comme un phoque{SAUT}et disparais!{ATTENTE}"
   },
   {
     "id": "E1.BIN:087:0017",
@@ -277,7 +277,7 @@
     "locuteur": "Nanjo",
     "en": "This is the reason why you abandoned{SAUT}your life in the real world?{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "C'est la raison pour laquelle vous avez{SAUT}abandonné votre vie dans le vrai monde?{ATTENTE}"
+    "fr": "C'est pour ça que vous avez abandonné{SAUT}votre vie dans le vrai monde?{ATTENTE}"
   },
   {
     "id": "E1.BIN:087:0040",
@@ -347,7 +347,7 @@
     "locuteur": "Michiko",
     "en": "How could you, the poor in spirit,{SAUT}understand my sorrow!?{ATTENTE}",
     "locuteur_fr": "Michiko",
-    "fr": "Comment des pauvres d'esprit comme vous{SAUT}pourraient comprendre mon chagrin!?{ATTENTE}"
+    "fr": "Comment des pauvres d'esprit{SAUT}comprendraient-ils mon chagrin!?{ATTENTE}"
   },
   {
     "id": "E1.BIN:087:0050",
