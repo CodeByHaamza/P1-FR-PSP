@@ -193,7 +193,7 @@
     "locuteur": "Nurse Natsumi",
     "en": "I thought she'd at least speak up at a{SAUT}time like this... {PAUSE}[3000]But she's still down.{ATTENTE}",
     "locuteur_fr": "Natsumi",
-    "fr": "Je pensais qu'elle parlerait au moins{SAUT}dans un moment comme ça... {PAUSE}[3000]Mais elle reste abattue.{ATTENTE}"
+    "fr": "Je pensais qu'elle parlerait au moins{SAUT}à un moment pareil... {PAUSE}[3000]Mais non.{ATTENTE}"
   },
   {
     "id": "E2.BIN:178:0016",

@@ -115,7 +115,21 @@ le **déplacer** si le français l'exige, mais il ne disparaît pas.
 
 La boîte de dialogue est étroite et ne va pas à la ligne toute seule : c'est
 `{SAUT}` qui décide. Compte **entre deux codes**, pas sur la phrase entière.
-Au-delà de 43 caractères, le texte sort de la boîte.
+
+**Mais 40 n'est qu'un repère, pas la règle.** La police est à chasse variable :
+`WWWWW` et `iiiii` n'occupent pas la même place. Une ligne de 44 signes étroits
+passe, une ligne de 39 signes larges peut déborder. La vraie limite est en
+pixels, et elle se mesure :
+
+```bash
+python outils/largeur_pixels.py --racine trad --zone dialogues
+```
+
+La largeur de chaque glyphe vient de la table du jeu, et la limite de la ligne
+anglaise la plus large — l'anglais d'origine tient forcément. Le robot fait
+cette mesure sur chaque proposition et l'écrit dans le récapitulatif.
+
+Vise 38 en écrivant, laisse la mesure dire le dernier mot.
 
 Le français est 20 à 30 % plus long que l'anglais. Reformuler court fait partie
 du travail : c'est souvent là que la traduction devient bonne.

@@ -17,6 +17,8 @@ on:
       - 'outils/*.tbl'
       - 'outils/glyphes_disponibles.json'
       - 'outils/coherence_noms.py'
+      - 'outils/largeur_pixels.py'
+      - 'outils/largeurs_glyphes.json'
       - 'outils/noms_tolerances.json'
       - 'docs/Dictionnaire.md'
 
@@ -98,6 +100,23 @@ jobs:
             echo
             echo '```text'
             python outils/coherence_noms.py --tolerances outils/noms_tolerances.json 2>&1 || true
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      # Les lignes tiennent-elles dans la boite ? Mesure, pas comptage : la
+      # police est a chasse variable, donc « 40 caracteres » se trompe dans les
+      # deux sens. La metrique vient du jeu, via le moteur p1es de Zenshou.
+      - name: Largeur des lignes
+        if: always()
+        continue-on-error: true
+        run: |
+          {
+            echo "## Largeur des lignes (mesurée)"
+            echo
+            echo '```text'
+            for zone in dialogues negociations eboot donjons; do
+              python outils/largeur_pixels.py --racine trad --zone "$zone" --montrer 8 2>&1 || true
+            done
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
 

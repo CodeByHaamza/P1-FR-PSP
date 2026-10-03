@@ -118,14 +118,39 @@ chercher dans la table rend `nil` — les sept témoins paraissaient absents.
 Avant de faire lire des inconnus, on passe nous-mêmes. Trois passes, dans cet
 ordre, parce que chacune rend la suivante moins bruyante.
 
-### 3a. Les avertissements du validateur
+### 3a. ✅ Les largeurs, mesurées *(03/10/2026)*
+
+Les `[LARGEUR]` du validateur comptaient des caractères. Ça ne pouvait pas
+marcher : la police est à chasse variable. `outils/largeur_pixels.py` mesure
+désormais chaque ligne avec **la métrique du jeu**, lue dans l'EBOOT aux
+emplacements que le moteur **p1es de Zenshou** utilise (`eboot.rb` :
+`TABLA_DIALOGO_OFF`, huit octets par caractère, la largeur au `+4`, plus un
+pixel d'avance, cinq pixels pour l'espace, et un accent qui hérite de la
+métrique de sa lettre de base).
+
+La limite n'est pas inventée non plus : l'anglais d'origine tient forcément,
+donc sa ligne affichée la plus large est une borne observée — 375 px en
+dialogues, 568 en négociations, 373 dans l'EBOOT, 344 dans les donjons.
+
+Contrôle contre une capture réelle du jeu : la mesure donne 279 px là où la
+capture en montre ~297, soit 6 % d'écart — **dans le même sens pour l'anglais et
+le français**, et comme la limite vient de l'anglais mesuré pareil, la
+comparaison reste exacte.
+
+Sur 14 174 lignes françaises, **quatre dépassaient vraiment**. Corrigées. Les
+quatre zones sont à zéro.
+
+La table des largeurs est publiée (`outils/largeurs_glyphes.json`, 334 entiers)
+pour que la mesure tourne ici aussi : l'EBOOT, lui, ne sort jamais.
+
+### 3a bis. Les avertissements restants
 
 `check_trad.rb` sort aujourd'hui 597 avertissements. Ils ne bloquent pas, mais
 ils ne sont pas du bruit :
 
 | type | nombre | ce que ça veut dire |
 |---|---|---|
-| `[BUDGET]` | 290 | entrée de l'EBOOT plus longue que l'anglais : elle passe par un code cave, qui marche mais demande une vérification en jeu |
+| `[BUDGET]` | 290 | entrée de l'EBOOT plus longue que l'anglais : elle passe par un code cave. **Ce n'est pas du travail de bureau** — aucun script ne peut dire si le menu est coupé à l'écran, donc c'est une feuille de contrôle pour la beta (étape 5), pas pour ici |
 | `[LARGEUR]` | 275 → **90 dans les dialogues** | ligne plus large que l'anglais ; le mur réel est en pixels, pas en caractères, donc chacune demande un œil. L'étape 1 en a résorbé une bonne part au passage |
 | `[OCTETS]` | 22 → **3 dans les dialogues** | la ligne pousse son bloc ; à surveiller même après l'étape 1 |
 | `[PLACE]` | 9 | négociations : absorbé par les autres fichiers du démon, rien à faire |

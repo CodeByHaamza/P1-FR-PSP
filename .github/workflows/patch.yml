@@ -45,6 +45,14 @@ jobs:
       - name: Cohérence des noms
         run: python outils/coherence_noms.py --tolerances outils/noms_tolerances.json
 
+      # Bloquant : une ligne plus large que la plus large ligne anglaise sera
+      # coupee a l'ecran, et le joueur ne saura pas qu'il lui manque un mot.
+      - name: Largeur des lignes
+        run: |
+          for zone in dialogues negociations eboot donjons; do
+            python outils/largeur_pixels.py --racine trad --zone "$zone"
+          done
+
       - name: Recompter
         run: python outils/stats.py
 
