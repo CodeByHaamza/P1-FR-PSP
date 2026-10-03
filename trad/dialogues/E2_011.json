@@ -3,629 +3,629 @@
     "id": "E2.BIN:177:0000",
     "locuteur": "Male student",
     "en": "I've seen someone before who looked{SAUT}kinda like that girl in black.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "J'ai déjà vu quelqu'un qui ressemblait{SAUT}un peu à cette fille en noir.{ATTENTE}"
   },
   {
     "id": "E2.BIN:177:0001",
     "locuteur": "Nanjo",
     "en": "Are you saying there's another one{SAUT}like her, then?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Vous dites qu'il en existe une autre{SAUT}comme elle, alors?{ATTENTE}"
   },
   {
     "id": "E2.BIN:177:0002",
     "locuteur": "Male student",
     "en": "I think so.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Je crois bien.{ATTENTE}"
   },
   {
     "id": "E2.BIN:177:0003",
     "locuteur": "Male student",
     "en": "Well... it's a forest now, but remember{SAUT}what used to be the flower garden?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Enfin... c'est une forêt maintenant,{SAUT}mais tu te rappelles le jardin fleuri?{ATTENTE}"
   },
   {
     "id": "E2.BIN:177:0004",
     "locuteur": "Male student",
     "en": "I saw her playing there.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Je l'ai vue jouer là-bas.{ATTENTE}"
   },
   {
     "id": "E2.BIN:177:0005",
     "locuteur": "Mark",
     "en": "Uhh, if this forest used to be a flower{SAUT}garden... I don't get this town at all.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Euh, si cette forêt était un jardin{SAUT}fleuri... Je comprends plus rien ici.{ATTENTE}"
   },
   {
     "id": "E2.BIN:177:0006",
     "locuteur": "Elly",
     "en": "A forest... Could it be the one Yosuke{SAUT}mentioned, where the police station was?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Une forêt... Serait-ce celle dont{SAUT}parlait Yosuke, avec le commissariat?{ATTENTE}"
   },
   {
     "id": "E2.BIN:177:0007",
     "locuteur": "Ayase",
     "en": "Think that's the forest Yosuke talked{SAUT}about? He said it was the police station.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Tu crois que c'est la forêt dont Yosuke{SAUT}parlait? Il a dit le commissariat.{ATTENTE}"
   },
   {
     "id": "E2.BIN:177:0008",
     "locuteur": "Brown",
     "en": "Yosuke was talking about some forest. He{SAUT}said it's where the police station was.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Yosuke parlait d'une forêt. Il a dit{SAUT}que c'était là, le commissariat.{ATTENTE}"
   },
   {
     "id": "E2.BIN:177:0009",
     "locuteur": "Nanjo",
     "en": "A forest? Hmmm... Yosuke did say that a{SAUT}forest had replaced the police station.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Une forêt? Hmmm... Yosuke a bien dit{SAUT}qu'une forêt avait pris sa place.{ATTENTE}"
   },
   {
     "id": "E2.BIN:177:0010",
     "locuteur": "Maki",
     "en": "The police station is where we went to{SAUT}rescue Masao and Hidehiko, right?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Le commissariat, c'est là qu'on est{SAUT}allés sauver Masao et Hidehiko, non?{ATTENTE}"
   },
   {
     "id": "E2.BIN:177:0011",
     "locuteur": "Maki",
     "en": "Now that you mention it, that is the{SAUT}area where it should be...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Maintenant que tu le dis, c'est bien{SAUT}le quartier où il devrait être...{ATTENTE}"
   },
   {
     "id": "E2.BIN:177:0012",
     "locuteur": "Maki",
     "en": "It was a beautiful flower garden. I was{SAUT}surprised to see it become a forest.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "C'était un beau jardin fleuri. Ça m'a{SAUT}surprise de le voir devenir une forêt.{ATTENTE}"
   },
   {
     "id": "E2.BIN:177:0013",
     "locuteur": "Male student",
     "en": "What're you people mumbling about?{SAUT}Something's funny about you guys...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Vous marmonnez quoi, tous? Y a un truc{SAUT}de bizarre chez vous...{ATTENTE}"
   },
   {
     "id": "E2.BIN:177:0014",
     "locuteur": "Male student",
     "en": "Hey, are you really (*APELLIDO_HEROE*)?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Élève",
+    "fr": "Hé, tu es vraiment (*APELLIDO_HEROE*)?{ATTENTE}"
   },
   {
     "id": "E2.BIN:177:0015",
     "locuteur": "Maki",
     "en": "Hey, we should hurry and get going!{SAUT}We have to go... See you!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Hé, on devrait se dépêcher de partir!{SAUT}On doit y aller... À plus!{ATTENTE}"
   },
   {
     "id": "E2.BIN:178:0000",
     "locuteur": "Maki",
     "en": "Let's find that girl! She must be{SAUT}somewhere in the school!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Trouvons cette fille! Elle doit être{SAUT}quelque part dans le lycée!{ATTENTE}"
   },
   {
     "id": "E2.BIN:178:0001",
     "locuteur": "Nanjo",
     "en": "Why is that girl attacking the school...?{SAUT}What does she hope to gain?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Pourquoi cette fille attaque-t-elle le{SAUT}lycée...? Qu'espère-t-elle y gagner?{ATTENTE}"
   },
   {
     "id": "E2.BIN:178:0002",
     "locuteur": "Mark",
     "en": "When are we gonna get to rescue the{SAUT}real Maki...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Quand est-ce qu'on va pouvoir sauver{SAUT}la vraie Maki...?{ATTENTE}"
   },
   {
     "id": "E2.BIN:178:0003",
     "locuteur": "Elly",
     "en": "Do you think the girl in black will have{SAUT}demons with her?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Tu crois que la fille en noir aura des{SAUT}démons avec elle?{ATTENTE}"
   },
   {
     "id": "E2.BIN:178:0004",
     "locuteur": "Elly",
     "en": "If so, we should prepare ourselves before{SAUT}facing her.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Si oui, nous devrions nous préparer{SAUT}avant de l'affronter.{ATTENTE}"
   },
   {
     "id": "E2.BIN:178:0005",
     "locuteur": "Brown",
     "en": "Dude, (*APELLIDO_HEROE*), aren't you worried{SAUT}about leaving these ladies behind?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Mec, (*APELLIDO_HEROE*), ça t'inquiète pas{SAUT}de laisser ces demoiselles ici?{ATTENTE}"
   },
   {
     "id": "E2.BIN:178:0006",
     "locuteur": "Brown",
     "en": "Just say the word and I'll stay here to{SAUT}protect 'em for you!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Dis un mot et je reste ici pour les{SAUT}protéger à ta place!{ATTENTE}"
   },
   {
     "id": "E2.BIN:178:0007",
     "locuteur": "Ayase",
     "en": "It's kind of a relief to see an infirmary{SAUT}in a place like this... I dunno why.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Ça rassure un peu de voir une{SAUT}infirmerie ici... je sais pas pourquoi.{ATTENTE}"
   },
   {
     "id": "E2.BIN:178:0008",
     "locuteur": "Reiji",
     "en": "What's with the silent teacher?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "C'est quoi, cette prof muette?{ATTENTE}"
   },
   {
     "id": "E2.BIN:178:0012",
     "locuteur": "Nurse Natsumi",
     "en": "Oh, hi (*APELLIDO_HEROE*). What's going on{SAUT}out there?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "Oh, salut (*APELLIDO_HEROE*). Ça donne quoi{SAUT}dehors?{ATTENTE}"
   },
   {
     "id": "E2.BIN:178:0013",
     "locuteur": "Nurse Natsumi",
     "en": "I don't know what to do... I'm in a real{SAUT}fix. {PAUSE}[2500]Right, Ms. Saeko?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "Je sais pas quoi faire... Je suis bien{SAUT}embêtée. {PAUSE}[2500]Pas vrai, Mlle Saeko?{ATTENTE}"
   },
   {
     "id": "E2.BIN:178:0015",
     "locuteur": "Nurse Natsumi",
     "en": "I thought she'd at least speak up at a{SAUT}time like this... {PAUSE}[3000]But she's still down.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "Je pensais qu'elle parlerait au moins{SAUT}dans un moment comme ça... {PAUSE}[3000]Mais elle reste abattue.{ATTENTE}"
   },
   {
     "id": "E2.BIN:178:0016",
     "locuteur": "Nurse Natsumi",
     "en": "If you're hurt, come to the infirmary!{SAUT}Let's have a look at you.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Natsumi",
+    "fr": "Si tu es blessé, viens à l'infirmerie!{SAUT}On va regarder ça.{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0000",
     "locuteur": "Yuko",
     "en": "Oh... What do you want? Did you come to{SAUT}longingly examine our valuables?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yuko",
+    "fr": "Oh... Que voulez-vous? Vous venez{SAUT}lorgner nos objets de valeur?{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0001",
     "locuteur": "Yuko",
     "en": "I'm afraid they're not accessible to the{SAUT}public. So they're not stolen, you see.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yuko",
+    "fr": "Ils ne sont malheureusement pas{SAUT}accessibles au public. Donc pas volés.{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0002",
     "locuteur": "Mark",
     "en": "Why would we care about that stuff?{SAUT}What, you think we're thieves?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Pourquoi on s'intéresserait à ça?{SAUT}Quoi, tu nous prends pour des voleurs?{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0003",
     "locuteur": "Yuko",
     "en": "My, is that how it came across? I didn't{SAUT}mean that at all.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yuko",
+    "fr": "Tiens, c'est ainsi que ça sonnait?{SAUT}Ce n'était pas mon intention.{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0004",
     "locuteur": "Yuko",
     "en": "It sounds as though you have an{SAUT}inferiority complex.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yuko",
+    "fr": "On dirait que tu souffres d'un{SAUT}complexe d'infériorité.{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0005",
     "locuteur": "Elly",
     "en": "(*APELLIDO_HEROE*)... I'm a little disgusted now.{SAUT}Do you mind if I wait outside?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "(*APELLIDO_HEROE*)... Je suis un peu écoeurée.{SAUT}Je peux attendre dehors?{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0006",
     "locuteur": "Brown",
     "en": "Ugh That does it! You think you're all{SAUT}that just 'cause you're sorta rich!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Ugh, ça suffit! Tu te crois tout permis{SAUT}juste parce que t'es un peu riche!?{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0007",
     "locuteur": "Ayase",
     "en": "Y'know, you were a lot cuter before.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Tu étais bien plus mignonne avant.{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0008",
     "locuteur": "Reiji",
     "en": "...I'll be waiting outside.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "...J'attends dehors.{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0009",
     "locuteur": "Maki",
     "en": "Yuko! That's so rude! Apologize to them.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Yuko! C'est très impoli! Excuse-toi.{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0010",
     "locuteur": "Yuko",
     "en": "But Maki... You're my friend!{SAUT}These people are just... just...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yuko",
+    "fr": "Mais Maki... Tu es mon amie!{SAUT}Ces gens sont juste... juste...{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0011",
     "locuteur": "Maki",
     "en": "Sheesh, Yuko... Oh, well.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Franchement, Yuko... Bon, tant pis.{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0012",
     "locuteur": "Maki",
     "en": "C'mon, everyone, let's go.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Venez, tout le monde, on s'en va.{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0014",
     "locuteur": "Yuko",
     "en": "Maki, won't you come in for some tea?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yuko",
+    "fr": "Maki, tu ne viens pas prendre le thé?{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0015",
     "locuteur": "Yuko",
     "en": "I have an extra serving of cake that our{SAUT}own personal patissier baked.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yuko",
+    "fr": "J'ai une part de gâteau en trop, faite{SAUT}par notre pâtissier personnel.{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0016",
     "locuteur": "Yuko",
     "en": "I'm sure my brothers would be delighted{SAUT}to see you, too!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yuko",
+    "fr": "Et mes frères seraient ravis de te{SAUT}voir, aussi!{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0017",
     "locuteur": "Maki",
     "en": "Yuko... All right. I'll stop by with{SAUT}everyone next time.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Yuko... D'accord. Je passerai avec{SAUT}tout le monde la prochaine fois.{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0018",
     "locuteur": "Yuko",
     "en": "...How dull.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yuko",
+    "fr": "...Quel ennui.{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0019",
     "locuteur": "Yuko",
     "en": "Hm? You again? All right... Just today,{SAUT}you're all specially invited.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yuko",
+    "fr": "Hm? Encore vous? Bon... Juste{SAUT}aujourd'hui, vous êtes tous invités.{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0020",
     "locuteur": "Mark",
     "en": "Why're you so... Ohhh, I get it. You're{SAUT}scared 'cause the town's gone weird, huh?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Pourquoi t'es si... Ohhh, j'ai compris.{SAUT}T'as peur parce que la ville a changé?{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0021",
     "locuteur": "Yuko",
     "en": "N-Not at all!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yuko",
+    "fr": "P-Pas du tout!{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0022",
     "locuteur": "Yuko",
     "en": "I have my doberman, John, and our butler,{SAUT}Sebastian with me!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yuko",
+    "fr": "J'ai mon doberman, John, et notre{SAUT}majordome, Sebastian, avec moi!{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0023",
     "locuteur": "Yuko",
     "en": "I'm not afraid in the least!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Yuko",
+    "fr": "Je n'ai pas peur le moins du monde!{ATTENTE}"
   },
   {
     "id": "E2.BIN:181:0024",
     "locuteur": "Nanjo",
     "en": "Heh. Perhaps we'll stop by after{SAUT}everything's been resolved.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Heh. Nous repasserons peut-être quand{SAUT}tout sera réglé.{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0000",
     "locuteur": "Kaneda",
     "en": "What d'you kids want?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kaneda",
+    "fr": "Qu'est-ce que vous voulez, les gamins?{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0001",
     "locuteur": "Kaneda",
     "en": "You're not debt collectors, are you?{SAUT}'Cause there's no money here!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kaneda",
+    "fr": "Vous êtes pas huissiers, dites?{SAUT}Parce qu'ici, y a pas d'argent!{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0002",
     "locuteur": "Kaneda",
     "en": "Those ruins I was countin' on didn't have{SAUT}any treasure, so there goes my business!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kaneda",
+    "fr": "Les ruines sur lesquelles je comptais{SAUT}n'avaient rien! Adieu, les affaires!{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0003",
     "en": "{FERME} (*TEXTBOX_PARAM,0300*)> Katsue Kaneda{SAUT}She should have been rich and living{SAUT}in an opulent mansion, but...(*TEXTBOX_PARAM,0000*){ATTENTE}",
-    "fr": ""
+    "fr": "{FERME} (*TEXTBOX_PARAM,0300*)> Katsue Kaneda{SAUT}Elle devrait être riche et vivre dans{SAUT}un manoir fastueux, mais...(*TEXTBOX_PARAM,0000*){ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0004",
     "locuteur": "Nanjo",
     "en": "Business? What sort of business were{SAUT}you conducting in the ruins?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Des affaires? Quel genre d'affaires{SAUT}meniez-vous dans les ruines?{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0005",
     "locuteur": "Maki",
     "en": "Sheesh, Nanjo! Kaneda's a ruin raider.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Nanjo! Kaneda pille les ruines, voyons.{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0006",
     "locuteur": "Elly",
     "en": "That's not a real job. And anyway, that{SAUT}kind of thing is illegal in this country.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Ce n'est pas un vrai métier. Et de{SAUT}toute façon, c'est illégal ici.{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0007",
     "locuteur": "Elly",
     "en": "You say some odd things, Maki.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Tu dis de drôles de choses, Maki.{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0008",
     "locuteur": "Brown",
     "en": "Ruin raiding!? You can't do that in{SAUT}Japan! Talk sense, Maki.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "Piller des ruines!? On peut pas faire{SAUT}ça au Japon! Sois sérieuse, Maki.{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0009",
     "locuteur": "Ayase",
     "en": "Ruin raiding? Really?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Piller des ruines? Sérieux?{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0010",
     "locuteur": "Ayase",
     "en": "No way would anyone do something like{SAUT}that for a living...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Jamais personne ferait ça pour{SAUT}gagner sa vie...{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0011",
     "locuteur": "Ayase",
     "en": "Snap out of it, Maki.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Reprends-toi, Maki.{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0012",
     "locuteur": "Reiji",
     "en": "Ruin raiding...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Piller des ruines...?{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0013",
     "locuteur": "Reiji",
     "en": "No one actually does that. You're not a{SAUT}kid, Maki, so cut it out with that stuff.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Personne fait ça pour de vrai. T'es{SAUT}plus une gamine, Maki, arrête ça.{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0014",
     "locuteur": "Maki",
     "en": "But that's what everyone says...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Mais c'est ce que tout le monde dit...{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0015",
     "locuteur": "Mark",
     "en": "Hey, that reminds me... There was a rumor{SAUT}about how that old lady got so rich...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Hé, ça me rappelle... Il y avait une{SAUT}rumeur sur la fortune de la vieille...{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0016",
     "locuteur": "Mark",
     "en": "About a year back, people were sayin' it{SAUT}was 'cause she went around raidin' ruins.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Il y a environ un an, on disait que{SAUT}c'était en allant piller des ruines.{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0017",
     "locuteur": "Mark",
     "en": "You believed that stuff, Maki? But then{SAUT}again... you are a different Maki.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Tu croyais ça, Maki? Mais après tout...{SAUT}t'es une autre Maki.{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0018",
     "locuteur": "Kaneda",
     "en": "Will you shut your yap!? If you got no{SAUT}business with me, scram!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kaneda",
+    "fr": "Vous allez la fermer!? Si vous avez{SAUT}rien à me demander, dégagez!{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0019",
     "locuteur": "Kaneda",
     "en": "You're still here!? If you got no{SAUT}business with me, scram!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kaneda",
+    "fr": "Vous êtes encore là!? Si vous avez{SAUT}rien à me demander, dégagez!{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0020",
     "locuteur": "Nanjo",
     "en": "(*APELLIDO_HEROE*). Maki said that Kaneda was{SAUT}working as a ruin raider, yes?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "(*APELLIDO_HEROE*). Maki a dit que Kaneda{SAUT}pillait les ruines, c'est bien ça?{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0021",
     "locuteur": "Nanjo",
     "en": "In our town, that was nothing more than{SAUT}a rumor...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Dans notre ville, ce n'était rien de{SAUT}plus qu'une rumeur...{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0022",
     "locuteur": "Nanjo",
     "en": "But it seems the rumor has become reality{SAUT}here. Why, though...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Nanjo",
+    "fr": "Mais ici, la rumeur semble devenue{SAUT}réalité. Pourquoi, cependant...?{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0023",
     "locuteur": "Maki",
     "en": "A rumor becoming reality...?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "Une rumeur devenue réalité...?{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0024",
     "locuteur": "Maki",
     "en": "N-No... my head hurts... Hey guys,{SAUT}can we get going?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Maki",
+    "fr": "N-Non... j'ai mal à la tête... Dites,{SAUT}on peut y aller?{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0025",
     "locuteur": "Kaneda",
     "en": "What the hell's happened to this town!?{SAUT}Everything's gone to the dogs!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kaneda",
+    "fr": "Qu'est-il arrivé à cette ville!?{SAUT}Tout est parti en vrille!{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0026",
     "locuteur": "Kaneda",
     "en": "You kids are strong, huh? Aren'tcha{SAUT}ashamed of doing nothing about it all!?{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Kaneda",
+    "fr": "Vous êtes forts, hein, les jeunes? Pas{SAUT}honte de rien faire contre tout ça!?{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0027",
     "locuteur": "Mark",
     "en": "Listen, you old hag, we're doin' the{SAUT}best we can!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Mark",
+    "fr": "Écoute, vieille sorcière, on fait de{SAUT}notre mieux!{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0028",
     "locuteur": "Elly",
     "en": "Cool it, Mark...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": "",
+    "locuteur_fr": "Elly",
+    "fr": "Du calme, Mark...{ATTENTE}",
     "_occurrences": 2
   },
   {
     "id": "E2.BIN:182:0029",
     "locuteur": "Elly",
     "en": "I'm sure Maki's fine. Let's get{SAUT}back to searching for her!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Je suis sûre que Maki va bien.{SAUT}Reprenons nos recherches!{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0030",
     "locuteur": "Elly",
     "en": "Stay calm, Mark...{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Reste calme, Mark...{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0031",
     "locuteur": "Elly",
     "en": "Mark will be just fine, I know it.{SAUT}Now let's resume our search for her.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Mark s'en sortira bien, je le sais.{SAUT}Reprenons nos recherches.{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0033",
     "locuteur": "Elly",
     "en": "Relax! It'll all be over soon.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Détends-toi! Ce sera bientôt fini.{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0034",
     "locuteur": "Elly",
     "en": "Stay calm, Mark... Never fear. It will{SAUT}all be resolved soon.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Elly",
+    "fr": "Reste calme, Mark... N'aie crainte.{SAUT}Tout sera bientôt réglé.{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0035",
     "locuteur": "Brown",
     "en": "Don't get all pissy, dude. I'll fix{SAUT}everything before you know it!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Brown",
+    "fr": "T'énerve pas, mec. Je vais tout{SAUT}arranger avant que tu le voies!{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0036",
     "locuteur": "Ayase",
     "en": "Aww, don't get mad, Masao. Everything'll{SAUT}be back to normal soon!{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Ayase",
+    "fr": "Allez, te fâche pas, Masao. Tout va{SAUT}bientôt redevenir normal!{ATTENTE}"
   },
   {
     "id": "E2.BIN:182:0037",
     "locuteur": "Reiji",
     "en": "Calm down, Masao. Just put up with this{SAUT}a little longer, and it'll fix itself.{ATTENTE}",
-    "locuteur_fr": "",
-    "fr": ""
+    "locuteur_fr": "Reiji",
+    "fr": "Calme-toi, Masao. Supporte ça encore un{SAUT}peu et ça s'arrangera tout seul.{ATTENTE}"
   }
 ]
