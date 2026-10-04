@@ -410,7 +410,14 @@ d'envoyer ce qui ne tient pas.
 ## Étape 7 — La 1.0
 
 - un patch xdelta contre l'ISO Redump **USA `ULUS-10432`**, avec l'empreinte de
-  l'ISO de départ écrite noir sur blanc ;
+  l'ISO de départ écrite noir sur blanc. Elle est relevée :
+  `CRC32 7756A333`, `MD5 c75f75b0f1e92d7cca77d75585bebd82`,
+  820 740 096 octets — **à confronter à la fiche Redump avant publication**,
+  parce qu'une empreinte qui ne correspond pas rend le patch inapplicable chez
+  tout le monde sauf nous, et ça se découvre le jour de la sortie ;
+- **l'outil qui fabrique ce patch**, qui n'existe pas encore. `patch.yml` dit
+  que le correctif « n'est PAS construit ici, et ne peut pas l'être », et rien
+  ne le construit ailleurs. C'est le dernier verrou technique avant la 1.0 ;
 - des notes de version qui disent ce qui est traduit, ce qui ne l'est pas, et
   les limites connues ;
 - les crédits : chaque contributeur, nommé. Le suivi garde déjà qui a travaillé
