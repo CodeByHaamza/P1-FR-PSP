@@ -3,7 +3,7 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Relecture      ░░░░░░░░░░░░░░░░░░░░░░░░    0 %        0 / 284 script relu
+Relecture      ░░░░░░░░░░░░░░░░░░░░░░░░    0 %        0 / 284 script relu, 3 en cours
 Dialogues      ████████████████████████  100 %    8 560 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
@@ -94,7 +94,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 
 | Fichier | Textes | Traduits | % | État |
 |---|---:|---:|---:|---|
-| [`E0_001.json`](trad/dialogues/E0_001.json) | 99 | 99 | 100 % | terminé |
+| [`E0_001.json`](trad/dialogues/E0_001.json) | 99 | 99 | 100 % | terminé · relecture en cours par @Yo-3DS (#127) |
 | [`E0_002.json`](trad/dialogues/E0_002.json) | 92 | 92 | 100 % | terminé |
 | [`E0_003.json`](trad/dialogues/E0_003.json) | 40 | 40 | 100 % | terminé |
 | [`E0_004.json`](trad/dialogues/E0_004.json) | 100 | 100 | 100 % | terminé |
@@ -404,6 +404,6 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`ARMURES_001.json`](trad/noms/ARMURES_001.json) | 65 | 65 | 100 % | terminé |
 | [`OBJETS_001.json`](trad/noms/OBJETS_001.json) | 100 | 100 | 100 % | terminé |
 | [`OBJETS_002.json`](trad/noms/OBJETS_002.json) | 54 | 54 | 100 % | terminé |
-| [`SORTS_001.json`](trad/noms/SORTS_001.json) | 100 | 100 | 100 % | terminé |
-| [`SORTS_002.json`](trad/noms/SORTS_002.json) | 18 | 18 | 100 % | terminé |
+| [`SORTS_001.json`](trad/noms/SORTS_001.json) | 100 | 100 | 100 % | terminé · relecture en cours par @FrankoPaulo (#128) |
+| [`SORTS_002.json`](trad/noms/SORTS_002.json) | 18 | 18 | 100 % | terminé · relecture en cours par @FrankoPaulo (#129) |
 
