@@ -3,7 +3,7 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Relecture      ░░░░░░░░░░░░░░░░░░░░░░░░    0 %        0 / 284 script relu, 5 en cours
+Relecture      ░░░░░░░░░░░░░░░░░░░░░░░░    0 %        0 / 284 script relu, 6 en cours
 Dialogues      ████████████████████████  100 %    8 560 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
@@ -402,7 +402,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`ARMES_001.json`](trad/noms/ARMES_001.json) | 100 | 100 | 100 % | terminé · 1 trop large · relecture en cours par @Uolil-Raccoon (#131) |
 | [`ARMES_002.json`](trad/noms/ARMES_002.json) | 2 | 2 | 100 % | terminé · relecture en cours par @Uolil-Raccoon (#132) |
 | [`ARMURES_001.json`](trad/noms/ARMURES_001.json) | 65 | 65 | 100 % | terminé |
-| [`OBJETS_001.json`](trad/noms/OBJETS_001.json) | 100 | 100 | 100 % | terminé |
+| [`OBJETS_001.json`](trad/noms/OBJETS_001.json) | 100 | 100 | 100 % | terminé · relecture en cours par @Uolil-Raccoon (#134) |
 | [`OBJETS_002.json`](trad/noms/OBJETS_002.json) | 54 | 54 | 100 % | terminé |
 | [`SORTS_001.json`](trad/noms/SORTS_001.json) | 100 | 100 | 100 % | terminé · relecture en cours par @FrankoPaulo (#128) |
 | [`SORTS_002.json`](trad/noms/SORTS_002.json) | 18 | 18 | 100 % | terminé · relecture en cours par @FrankoPaulo (#129) |
