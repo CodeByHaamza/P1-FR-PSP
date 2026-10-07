@@ -33,7 +33,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2BB7EE",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]1F[0000]Entrance[0000]Hall{FERME}",
-    "fr": "1F[0000]Hall[0000]d'entrée{FERME}",
+    "fr": "RC[0000]Hall[0000]d'entrée{FERME}",
     "max": 14,
     "_occurrences": 2
   },
@@ -46,13 +46,13 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2BB8D8",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]1F[0000]Passageway{FERME}",
-    "fr": "1F[0000]Couloir{FERME}",
+    "fr": "RC[0000]Couloir{FERME}",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2BBB7E",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]1F[0000]Empty[0000]Classroom{FERME}",
-    "fr": "1F[0000]Salle[0000]vide{FERME}",
+    "fr": "RC[0000]Salle[0000]vide{FERME}",
     "max": 16
   },
   {
@@ -77,7 +77,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2BBD36",
     "en": "[0000][0000][0000][0000][0000][0000][0000]2F[0000]Empty[0000]Classroom{FERME}",
-    "fr": "2F[0000]Salle[0000]vide{FERME}",
+    "fr": "1e[0000]Salle[0000]vide{FERME}",
     "max": 16
   },
   {
@@ -150,13 +150,13 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2BBF9C",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]2F[0000]Lobby{FERME}",
-    "fr": "2F[0000]Hall{FERME}",
+    "fr": "1e[0000]Hall{FERME}",
     "max": 7
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2BBFC6",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]2F[0000]Lobby{FERME}",
-    "fr": "2F[0000]Hall{FERME}",
+    "fr": "1e[0000]Hall{FERME}",
     "max": 7
   },
   {
@@ -223,13 +223,13 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2BC32C",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]1F[0000]Passageway{FERME}",
-    "fr": "1F[0000]Couloir{FERME}",
+    "fr": "RC[0000]Couloir{FERME}",
     "max": 12
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2BC360",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]1F[0000]Passageway{FERME}",
-    "fr": "1F[0000]Couloir{FERME}",
+    "fr": "RC[0000]Couloir{FERME}",
     "max": 12
   },
   {
@@ -484,7 +484,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2BE33C",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]1F[0000]Entrance[0000]Hall{FERME}",
-    "fr": "1F[0000]Hall[0000]d'entrée{FERME}",
+    "fr": "RC[0000]Hall[0000]d'entrée{FERME}",
     "max": 14
   },
   {

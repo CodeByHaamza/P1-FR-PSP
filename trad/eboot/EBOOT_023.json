@@ -346,20 +346,20 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_28FC3E",
     "en": "                               St. Hermelin 1F{FERME}",
-    "fr": "                               St. Hermelin 1F{FERME}",
+    "fr": "                               St. Hermelin RC{FERME}",
     "max": 46
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28FC9C",
     "en": "                St. Hermelin 2F{FERME}",
-    "fr": "                St. Hermelin 2F{FERME}",
+    "fr": "                St. Hermelin 1e{FERME}",
     "max": 31,
     "_occurrences": 4
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28FCDC",
     "en": "                St. Hermelin 3F{FERME}",
-    "fr": "                St. Hermelin 3F{FERME}",
+    "fr": "                St. Hermelin 2e{FERME}",
     "max": 31,
     "_occurrences": 4
   },
@@ -373,235 +373,235 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_28FDD6",
     "en": "                   Ice Castle 9F{FERME}",
-    "fr": "             Château de Glace 9F{FERME}",
+    "fr": "             Château de Glace 8e{FERME}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28FE18",
     "en": "                  Ice Castle 10F{FERME}",
-    "fr": "            Château de Glace 10F{FERME}",
+    "fr": "            Château de Glace 9e{FERME}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28FE5A",
     "en": "                 Ice Castle 11F{FERME}",
-    "fr": "           Château de Glace 11F{FERME}",
+    "fr": "           Château de Glace 10e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28FE9A",
     "en": "                 Ice Castle 5F{FERME}",
-    "fr": "           Château de Glace 5F{FERME}",
+    "fr": "           Château de Glace 4e{FERME}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28FED8",
     "en": "                  Ice Castle 6F{FERME}",
-    "fr": "            Château de Glace 6F{FERME}",
+    "fr": "            Château de Glace 5e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28FF18",
     "en": "                  Ice Castle 7F{FERME}",
-    "fr": "            Château de Glace 7F{FERME}",
+    "fr": "            Château de Glace 6e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28FF58",
     "en": "                  Ice Castle 8F{FERME}",
-    "fr": "            Château de Glace 8F{FERME}",
+    "fr": "            Château de Glace 7e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_28FFBE",
     "en": "                               Ice Castle 2F{FERME}",
-    "fr": "                         Château de Glace 2F{FERME}",
+    "fr": "                         Château de Glace 1e{FERME}",
     "max": 44
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_290018",
     "en": "                  Ice Castle 3F{FERME}",
-    "fr": "            Château de Glace 3F{FERME}",
+    "fr": "            Château de Glace 2e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_290058",
     "en": "                  Ice Castle 4F{FERME}",
-    "fr": "            Château de Glace 4F{FERME}",
+    "fr": "            Château de Glace 3e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2900CE",
     "en": "                       Thanatos Tower 1F{FERME}",
-    "fr": "                       Tour Thanatos 1F{FERME}",
+    "fr": "                       Tour Thanatos RC{FERME}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_290120",
     "en": "              Thanatos Tower 2F{FERME}",
-    "fr": "              Tour Thanatos 2F{FERME}",
+    "fr": "              Tour Thanatos 1e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_290160",
     "en": "              Thanatos Tower 3F{FERME}",
-    "fr": "              Tour Thanatos 3F{FERME}",
+    "fr": "              Tour Thanatos 2e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2901A0",
     "en": "              Thanatos Tower 4F{FERME}",
-    "fr": "              Tour Thanatos 4F{FERME}",
+    "fr": "              Tour Thanatos 3e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2901E0",
     "en": "              Thanatos Tower 5F{FERME}",
-    "fr": "              Tour Thanatos 5F{FERME}",
+    "fr": "              Tour Thanatos 4e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_290220",
     "en": "              Thanatos Tower 6F{FERME}",
-    "fr": "              Tour Thanatos 6F{FERME}",
+    "fr": "              Tour Thanatos 5e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_290260",
     "en": "              Thanatos Tower 7F{FERME}",
-    "fr": "              Tour Thanatos 7F{FERME}",
+    "fr": "              Tour Thanatos 6e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2902A0",
     "en": "              Nemesis Tower 1F{FERME}",
-    "fr": "              Tour Némésis 1F{FERME}",
+    "fr": "              Tour Némésis RC{FERME}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2902DE",
     "en": "               Nemesis Tower 2F{FERME}",
-    "fr": "               Tour Némésis 2F{FERME}",
+    "fr": "               Tour Némésis 1e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29031E",
     "en": "               Nemesis Tower 3F{FERME}",
-    "fr": "               Tour Némésis 3F{FERME}",
+    "fr": "               Tour Némésis 2e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29035E",
     "en": "               Nemesis Tower 4F{FERME}",
-    "fr": "               Tour Némésis 4F{FERME}",
+    "fr": "               Tour Némésis 3e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29039E",
     "en": "               Nemesis Tower 5F{FERME}",
-    "fr": "               Tour Némésis 5F{FERME}",
+    "fr": "               Tour Némésis 4e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2903DE",
     "en": "               Nemesis Tower 6F{FERME}",
-    "fr": "               Tour Némésis 6F{FERME}",
+    "fr": "               Tour Némésis 5e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29041E",
     "en": "               Nemesis Tower 7F{FERME}",
-    "fr": "               Tour Némésis 7F{FERME}",
+    "fr": "               Tour Némésis 6e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29045E",
     "en": "               Nemesis Tower 8F{FERME}",
-    "fr": "               Tour Némésis 8F{FERME}",
+    "fr": "               Tour Némésis 7e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2904D4",
     "en": "                    Hypnos Tower 1F{FERME}",
-    "fr": "                    Tour Hypnos 1F{FERME}",
+    "fr": "                    Tour Hypnos RC{FERME}",
     "max": 35
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29051C",
     "en": "                Hypnos Tower 2F{FERME}",
-    "fr": "                Tour Hypnos 2F{FERME}",
+    "fr": "                Tour Hypnos 1e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29055C",
     "en": "                Hypnos Tower 3F{FERME}",
-    "fr": "                Tour Hypnos 3F{FERME}",
+    "fr": "                Tour Hypnos 2e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29059C",
     "en": "                Hypnos Tower 4F{FERME}",
-    "fr": "                Tour Hypnos 4F{FERME}",
+    "fr": "                Tour Hypnos 3e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2905DC",
     "en": "                Hypnos Tower 5F{FERME}",
-    "fr": "                Tour Hypnos 5F{FERME}",
+    "fr": "                Tour Hypnos 4e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29061C",
     "en": "                Hypnos Tower 6F{FERME}",
-    "fr": "                Tour Hypnos 6F{FERME}",
+    "fr": "                Tour Hypnos 5e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29065C",
     "en": "                Hypnos Tower 7F{FERME}",
-    "fr": "                Tour Hypnos 7F{FERME}",
+    "fr": "                Tour Hypnos 6e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29069C",
     "en": "                Hypnos Tower 8F{FERME}",
-    "fr": "                Tour Hypnos 8F{FERME}",
+    "fr": "                Tour Hypnos 7e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2906DC",
     "en": "                Devil's Peak 1F{FERME}",
-    "fr": "               Pic du Diable 1F{FERME}",
+    "fr": "               Pic du Diable RC{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29071C",
     "en": "                Devil's Peak 2F{FERME}",
-    "fr": "               Pic du Diable 2F{FERME}",
+    "fr": "               Pic du Diable 1e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29075C",
     "en": "                Devil's Peak 3F{FERME}",
-    "fr": "               Pic du Diable 3F{FERME}",
+    "fr": "               Pic du Diable 2e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29079C",
     "en": "                Devil's Peak 4F{FERME}",
-    "fr": "               Pic du Diable 4F{FERME}",
+    "fr": "               Pic du Diable 3e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2907DC",
     "en": "                Devil's Peak 5F{FERME}",
-    "fr": "               Pic du Diable 5F{FERME}",
+    "fr": "               Pic du Diable 4e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29081C",
     "en": "                Devil's Peak 6F{FERME}",
-    "fr": "               Pic du Diable 6F{FERME}",
+    "fr": "               Pic du Diable 5e{FERME}",
     "max": 31
   }
 ]

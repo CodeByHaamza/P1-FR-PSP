@@ -93,26 +93,26 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2B70B6",
     "en": "       2F Lobby{FERME}",
-    "fr": "       2F Hall{FERME}",
+    "fr": "       1e Hall{FERME}",
     "max": 15
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2B70D6",
     "en": "               2F Nurse's Center{FERME}",
-    "fr": "               2F Infirmerie{FERME}",
+    "fr": "               1e Infirmerie{FERME}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2B7118",
     "en": "      3F Lobby{FERME}",
-    "fr": "      3F Hall{FERME}",
+    "fr": "      2e Hall{FERME}",
     "max": 14,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2B7136",
     "en": "               3F Nurse's Center{FERME}",
-    "fr": "               3F Infirmerie{FERME}",
+    "fr": "               2e Infirmerie{FERME}",
     "max": 32
   },
   {
@@ -124,13 +124,13 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2B737E",
     "en": "           2F Nurse's Center{FERME}",
-    "fr": "           2F Infirmerie{FERME}",
+    "fr": "           1e Infirmerie{FERME}",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2B73B8",
     "en": "      3F Nurse's Center{FERME}",
-    "fr": "      3F Infirmerie{FERME}",
+    "fr": "      2e Infirmerie{FERME}",
     "max": 23
   },
   {

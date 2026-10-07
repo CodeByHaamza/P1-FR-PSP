@@ -228,19 +228,19 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2C0B0C",
     "en": "Go to 8F{SAUT}",
-    "fr": "Au 8F{SAUT}",
+    "fr": "Au 7e{SAUT}",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0B1E",
     "en": "Go to 4F{SAUT}",
-    "fr": "Au 4F{SAUT}",
+    "fr": "Au 3e{SAUT}",
     "max": 8
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0B30",
     "en": "Go to 1F{SAUT}",
-    "fr": "Au 1F{SAUT}",
+    "fr": "Au RC{SAUT}",
     "max": 8
   },
   {

@@ -123,13 +123,13 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2B84FA",
     "en": "[0000][0000][0000][0000][0000]1F[0000]Entrance[0000]Hall{FERME}",
-    "fr": "1F[0000]Hall[0000]d'entrée{FERME}",
+    "fr": "RC[0000]Hall[0000]d'entrée{FERME}",
     "max": 14
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2B8526",
     "en": "[0000][0000][0000][0000][0000][0000][0000]1F[0000]Passageway{FERME}",
-    "fr": "1F[0000]Couloir{FERME}",
+    "fr": "RC[0000]Couloir{FERME}",
     "max": 12
   },
   {
@@ -147,7 +147,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2B85A8",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]1F[0000]Empty[0000]Classroom{FERME}",
-    "fr": "1F[0000]Salle[0000]vide{FERME}",
+    "fr": "RC[0000]Salle[0000]vide{FERME}",
     "max": 16
   },
   {
@@ -271,13 +271,13 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2B89FC",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]1F[0000]Chamber{FERME}",
-    "fr": "1F[0000]Salle{FERME}",
+    "fr": "RC[0000]Salle{FERME}",
     "max": 9
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2B8A2A",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]2F[0000]Chamber{FERME}",
-    "fr": "2F[0000]Salle{FERME}",
+    "fr": "1e[0000]Salle{FERME}",
     "max": 9
   },
   {

@@ -2,62 +2,62 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_29085C",
     "en": "                Devil's Peak 7F{FERME}",
-    "fr": "               Pic du Diable 7F{FERME}",
+    "fr": "               Pic du Diable 6e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29089C",
     "en": "                Devil's Peak 8F{FERME}",
-    "fr": "               Pic du Diable 8F{FERME}",
+    "fr": "               Pic du Diable 7e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2908DC",
     "en": "                Devil's Peak 9F{FERME}",
-    "fr": "               Pic du Diable 9F{FERME}",
+    "fr": "               Pic du Diable 8e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29091C",
     "en": "                Devil's Peak 10F{FERME}",
-    "fr": "               Pic du Diable 10F{FERME}",
+    "fr": "               Pic du Diable 9e{FERME}",
     "max": 32
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29095E",
     "en": "               Devil's Peak 11F{FERME}",
-    "fr": "              Pic du Diable 11F{FERME}",
+    "fr": "              Pic du Diable 10e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29099E",
     "en": "               Devil's Peak 12F{FERME}",
-    "fr": "              Pic du Diable 12F{FERME}",
+    "fr": "              Pic du Diable 11e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2909DE",
     "en": "               Ice Castle 1F{FERME}",
-    "fr": "         Château de Glace 1F{FERME}",
+    "fr": "         Château de Glace RC{FERME}",
     "max": 28
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_290A18",
     "en": "                  Avidya World 1F{FERME}",
-    "fr": "                  Monde Avidya 1F{FERME}",
+    "fr": "                  Monde Avidya RC{FERME}",
     "max": 33
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_290A5C",
     "en": "                Avidya World 2F{FERME}",
-    "fr": "                Monde Avidya 2F{FERME}",
+    "fr": "                Monde Avidya 1e{FERME}",
     "max": 31,
     "_occurrences": 3
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_290A9C",
     "en": "                Avidya World 1F{FERME}",
-    "fr": "                Monde Avidya 1F{FERME}",
+    "fr": "                Monde Avidya RC{FERME}",
     "max": 31,
     "_occurrences": 2
   },
@@ -118,85 +118,85 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_290E20",
     "en": "              Deva Yuga 1F{FERME}",
-    "fr": "              Deva Yuga 1F{FERME}",
+    "fr": "              Deva Yuga RC{FERME}",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_290E56",
     "en": "                   Deva Yuga 2F{FERME}",
-    "fr": "                   Deva Yuga 2F{FERME}",
+    "fr": "                   Deva Yuga 1e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_290E96",
     "en": "                   Deva Yuga 3F{FERME}",
-    "fr": "                   Deva Yuga 3F{FERME}",
+    "fr": "                   Deva Yuga 2e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_290ED6",
     "en": "                   Deva Yuga 4F{FERME}",
-    "fr": "                   Deva Yuga 4F{FERME}",
+    "fr": "                   Deva Yuga 3e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_290F16",
     "en": "                   Deva Yuga 5F{FERME}",
-    "fr": "                   Deva Yuga 5F{FERME}",
+    "fr": "                   Deva Yuga 4e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_290F56",
     "en": "                   Deva Yuga 6F{FERME}",
-    "fr": "                   Deva Yuga 6F{FERME}",
+    "fr": "                   Deva Yuga 5e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_290F96",
     "en": "                   Haunted Mansion 1F{FERME}",
-    "fr": "                   Manoir hanté 1F{FERME}",
+    "fr": "                   Manoir hanté RC{FERME}",
     "max": 37
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_290FE2",
     "en": "             Haunted Mansion 2F{FERME}",
-    "fr": "             Manoir hanté 2F{FERME}",
+    "fr": "             Manoir hanté 1e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_291022",
     "en": "             Haunted Mansion 3F{FERME}",
-    "fr": "             Manoir hanté 3F{FERME}",
+    "fr": "             Manoir hanté 2e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_291062",
     "en": "             Mana Castle 1F{FERME}",
-    "fr": "            Château Mana 1F{FERME}",
+    "fr": "            Château Mana RC{FERME}",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29109A",
     "en": "                 Mana Castle 2F{FERME}",
-    "fr": "                Château Mana 2F{FERME}",
+    "fr": "                Château Mana 1e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2910DA",
     "en": "                 Mana Castle 3F{FERME}",
-    "fr": "                Château Mana 3F{FERME}",
+    "fr": "                Château Mana 2e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29111A",
     "en": "                 Mana Castle 4F{FERME}",
-    "fr": "                Château Mana 4F{FERME}",
+    "fr": "                Château Mana 3e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29115A",
     "en": "                 Mana Castle 5F{FERME}",
-    "fr": "                Château Mana 5F{FERME}",
+    "fr": "                Château Mana 4e{FERME}",
     "max": 31
   },
   {
@@ -348,13 +348,13 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_291ADE",
     "en": "               St. Hermelin 1F{FERME}",
-    "fr": "               St. Hermelin 1F{FERME}",
+    "fr": "               St. Hermelin RC{FERME}",
     "max": 30
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_291B9C",
     "en": "                St. Hermelin 1F{FERME}",
-    "fr": "                St. Hermelin 1F{FERME}",
+    "fr": "                St. Hermelin RC{FERME}",
     "max": 31
   },
   {
@@ -366,37 +366,37 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_291CA8",
     "en": "          SEBEC Building 5F{FERME}",
-    "fr": "          Immeuble SEBEC 5F{FERME}",
+    "fr": "          Immeuble SEBEC 4e{FERME}",
     "max": 27
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_291CE0",
     "en": "              SEBEC Building 1F{FERME}",
-    "fr": "              Immeuble SEBEC 1F{FERME}",
+    "fr": "              Immeuble SEBEC RC{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_291D20",
     "en": "              SEBEC Building 2F{FERME}",
-    "fr": "              Immeuble SEBEC 2F{FERME}",
+    "fr": "              Immeuble SEBEC 1e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_291D60",
     "en": "              SEBEC Building 3F{FERME}",
-    "fr": "              Immeuble SEBEC 3F{FERME}",
+    "fr": "              Immeuble SEBEC 2e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_291DA0",
     "en": "              SEBEC Building 4F{FERME}",
-    "fr": "              Immeuble SEBEC 4F{FERME}",
+    "fr": "              Immeuble SEBEC 3e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_291DE0",
     "en": "              SEBEC Building 5F{FERME}",
-    "fr": "              Immeuble SEBEC 5F{FERME}",
+    "fr": "              Immeuble SEBEC 4e{FERME}",
     "max": 31
   },
   {
@@ -414,45 +414,45 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_291F9C",
     "en": "                Mikage Police Station 1F{FERME}",
-    "fr": "                Police Mikage 1F{FERME}",
+    "fr": "                Police Mikage RC{FERME}",
     "max": 40
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_291FEE",
     "en": "       Mikage Police Station 2F{FERME}",
-    "fr": "       Police Mikage 2F{FERME}",
+    "fr": "       Police Mikage 1e{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_29202E",
     "en": "       Mikage Hospital 1F{FERME}",
-    "fr": "       Hôpital Mikage 1F{FERME}",
+    "fr": "       Hôpital Mikage RC{FERME}",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_292062",
     "en": "             Mikage Hospital 2F{FERME}",
-    "fr": "             Hôpital Mikage 2F{FERME}",
+    "fr": "             Hôpital Mikage 1e{FERME}",
     "max": 31,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2920A2",
     "en": "             Mikage Hospital 3F{FERME}",
-    "fr": "             Hôpital Mikage 3F{FERME}",
+    "fr": "             Hôpital Mikage 2e{FERME}",
     "max": 31,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2920E2",
     "en": "             Mikage Hospital 1F{FERME}",
-    "fr": "             Hôpital Mikage 1F{FERME}",
+    "fr": "             Hôpital Mikage RC{FERME}",
     "max": 31
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2921D2",
     "en": "                     St. Hermelin 1F{FERME}",
-    "fr": "                     St. Hermelin 1F{FERME}",
+    "fr": "                     St. Hermelin RC{FERME}",
     "max": 36
   },
   {

@@ -254,7 +254,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2B4CA8",
     "en": "              1F Room{FERME}",
-    "fr": "             1F Salle{FERME}",
+    "fr": "             RC Salle{FERME}",
     "max": 21
   },
   {
@@ -341,45 +341,45 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2B530A",
     "en": "             3F Classroom{FERME}",
-    "fr": "             3F Salle{FERME}",
+    "fr": "             2e Salle{FERME}",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2B533E",
     "en": "           3F Warehouse{FERME}",
-    "fr": "           3F Entrepôt{FERME}",
+    "fr": "           2e Entrepôt{FERME}",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2B536E",
     "en": "           3F Classroom{FERME}",
-    "fr": "           3F Salle{FERME}",
+    "fr": "           2e Salle{FERME}",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2B539E",
     "en": "           4F Classroom{FERME}",
-    "fr": "           4F Salle{FERME}",
+    "fr": "           3e Salle{FERME}",
     "max": 23
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2B53CE",
     "en": "           5F Classroom{FERME}",
-    "fr": "           5F Salle{FERME}",
+    "fr": "           4e Salle{FERME}",
     "max": 23,
     "_occurrences": 3
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2B545E",
     "en": "           8F Classroom{FERME}",
-    "fr": "           8F Salle{FERME}",
+    "fr": "           7e Salle{FERME}",
     "max": 23,
     "_occurrences": 2
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2B54BE",
     "en": "           9F Classroom{FERME}",
-    "fr": "           9F Salle{FERME}",
+    "fr": "           8e Salle{FERME}",
     "max": 23
   },
   {
@@ -452,7 +452,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2B647E",
     "en": "           1F Passageway{FERME}",
-    "fr": "           1F Couloir{FERME}",
+    "fr": "           RC Couloir{FERME}",
     "max": 24
   },
   {
@@ -587,7 +587,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2B68C8",
     "en": "              1F Entrance Hall{FERME}",
-    "fr": "              1F Hall d'entrée{FERME}",
+    "fr": "              RC Hall d'entrée{FERME}",
     "max": 30
   },
   {
