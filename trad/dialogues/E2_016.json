@@ -217,7 +217,7 @@
   {
     "id": "E2.BIN:206:0022",
     "en": "(*UNK_0E,0000*){FERME}   > You have (*UNK_1A*)[8200] Metal Cards.{ATTENTE}",
-    "fr": "(*UNK_0E,0000*){FERME}   > Tu as (*UNK_1A*)[8200] Cartes Métal.{ATTENTE}"
+    "fr": "(*UNK_0E,0000*){FERME}   > Tu as (*UNK_1A*)[8200] Cartes en métal.{ATTENTE}"
   },
   {
     "id": "E2.BIN:206:0065",

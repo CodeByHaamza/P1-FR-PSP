@@ -9,7 +9,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26F400",
     "en": "Headgear(*TERMINATOR*)",
-    "fr": "Coiffe(*TERMINATOR*)",
+    "fr": "Couvre-chef(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
@@ -230,7 +230,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26FBC0",
     "en": "Arm Guard(*TERMINATOR*)",
-    "fr": "Garde-bras(*TERMINATOR*)",
+    "fr": "Protège-bras(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
@@ -290,7 +290,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26FDB6",
     "en": "Demon Gauntlet(*TERMINATOR*)",
-    "fr": "Gantelet démon(*TERMINATOR*)",
+    "fr": "Gantelet démoniaque(*TERMINATOR*)",
     "_tete": " [4804] [8800][30A0]",
     "max": 19,
     "_fixe": true
@@ -466,14 +466,14 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2703C0",
     "en": "Ruins Medal(*TERMINATOR*)",
-    "fr": "Médaille ruines(*TERMINATOR*)",
+    "fr": "Médaille des ruines(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_270400",
     "en": "Snow Medal(*TERMINATOR*)",
-    "fr": "Médaille neige(*TERMINATOR*)",
+    "fr": "Médaille de neige(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },

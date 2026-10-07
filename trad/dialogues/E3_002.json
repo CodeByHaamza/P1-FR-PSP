@@ -128,14 +128,14 @@
   {
     "id": "E3.BIN:005:0018",
     "en": "{FERME} > Obtained (*TEXTBOX_STYLE*) (*TEXTBOX_PARAM,0500*)Muscle Drink(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": "{FERME} > (*TEXTBOX_STYLE*) (*TEXTBOX_PARAM,0500*)Boisson muscle(*TEXTBOX_PARAM,0000*) obtenue.{ATTENTE}"
+    "fr": "{FERME} > (*TEXTBOX_STYLE*) (*TEXTBOX_PARAM,0500*)Boisson énergisante(*TEXTBOX_PARAM,0000*) obtenue.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0019",
     "locuteur": "Frog",
     "en": "Sample Muscle Drink. That is my, Frog's,{SAUT}essence. It's pure love for you.{ATTENTE}",
     "locuteur_fr": "Grenouille",
-    "fr": "Échantillon de Boisson muscle. Mon{SAUT}essence à moi, Grenouille. De l'amour.{ATTENTE}"
+    "fr": "Échantillon de Boisson énergisante. Mon{SAUT}essence à moi, Grenouille. De l'amour.{ATTENTE}"
   },
   {
     "id": "E3.BIN:005:0020",
@@ -662,7 +662,7 @@
   {
     "id": "E3.BIN:009:0024",
     "en": "{FERME}> You have (*UNK_1A*)[8200] Metal Cards.{ATTENTE}",
-    "fr": "{FERME}> Tu as (*UNK_1A*)[8200] Cartes métal.{ATTENTE}"
+    "fr": "{FERME}> Tu as (*UNK_1A*)[8200] Cartes en métal.{ATTENTE}"
   },
   {
     "id": "E3.BIN:009:0067",

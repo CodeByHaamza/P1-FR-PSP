@@ -361,7 +361,7 @@
     "locuteur": "Elly",
     "en": "This is fantastic! Oh, how intriguing!{ATTENTE}",
     "locuteur_fr": "Elly",
-    "fr": "Fantastique! Comme c'est intriguant!{ATTENTE}"
+    "fr": "Fantastique! Comme c'est intrigant!{ATTENTE}"
   },
   {
     "id": "E0.BIN:000:0052",
@@ -435,7 +435,7 @@
     "locuteur": "Agastya Tree",
     "en": "Will you inscribe your story on me?{ATTENTE}",
     "locuteur_fr": "Arbre Agastya",
-    "fr": "Gravez votre histoire en moi?{ATTENTE}",
+    "fr": "M'inscrirez-vous votre récit?{ATTENTE}",
     "_occurrences": 572
   },
   {
@@ -678,6 +678,6 @@
     "locuteur": "Nurse Natsumi",
     "en": "They say plants grow better if you talk{SAUT}to them. Give it a try, (*APELLIDO_HEROE*).{ATTENTE}",
     "locuteur_fr": "Natsumi",
-    "fr": "Les plantes pousseraient mieux si on{SAUT}leur parle. Essayez, (*APELLIDO_HEROE*).{ATTENTE}"
+    "fr": "Les plantes pousseraient mieux si on{SAUT}leur parlait. Essayez, (*APELLIDO_HEROE*).{ATTENTE}"
   }
 ]

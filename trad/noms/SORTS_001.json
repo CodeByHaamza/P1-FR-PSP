@@ -149,7 +149,7 @@
   {
     "id": "EBOOT.BIN:SKILL:OFF_268FE8",
     "en": "Poison Breath",
-    "fr": "Souffle de poison",
+    "fr": "Souffle toxique",
     "max": 19,
     "_fixe": true
   },
@@ -289,7 +289,7 @@
   {
     "id": "EBOOT.BIN:SKILL:OFF_2694C8",
     "en": "Venom Bite",
-    "fr": "Morsure de venin",
+    "fr": "Morsure venimeuse",
     "max": 19,
     "_fixe": true
   },
@@ -303,7 +303,7 @@
   {
     "id": "EBOOT.BIN:SKILL:OFF_269528",
     "en": "Virus Bite",
-    "fr": "Morsure de virus",
+    "fr": "Morsure virale",
     "max": 19,
     "_fixe": true
   },
@@ -324,7 +324,7 @@
   {
     "id": "EBOOT.BIN:SKILL:OFF_2695B8",
     "en": "Poison Claw",
-    "fr": "Griffe de poison",
+    "fr": "Griffe toxique",
     "max": 19,
     "_fixe": true
   },
@@ -338,7 +338,7 @@
   {
     "id": "EBOOT.BIN:SKILL:OFF_269618",
     "en": "Virus Claw",
-    "fr": "Griffe de virus",
+    "fr": "Griffe virale",
     "max": 19,
     "_fixe": true
   },

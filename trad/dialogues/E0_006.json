@@ -18,7 +18,7 @@
   {
     "id": "E0.BIN:013:0270",
     "en": "{PAGE}This game accepts (*TEXTBOX_PARAM,0700*)Metal Cards(*TEXTBOX_PARAM,0000*) instead{SAUT}of coins.{ATTENTE}",
-    "fr": "{PAGE}Ici on paie en (*TEXTBOX_PARAM,0700*)Cartes Métal(*TEXTBOX_PARAM,0000*),{SAUT}pas en pièces.{ATTENTE}",
+    "fr": "{PAGE}Ici on paie en (*TEXTBOX_PARAM,0700*)Cartes en métal(*TEXTBOX_PARAM,0000*),{SAUT}pas en pièces.{ATTENTE}",
     "_occurrences": 9
   },
   {
@@ -48,7 +48,7 @@
   {
     "id": "E0.BIN:013:0286",
     "en": "{PAGE}<Before starting>{SAUT}Inserts 1 Metal Card to start the game.{ATTENTE}",
-    "fr": "{PAGE}<Avant de jouer>{SAUT}Insère 1 Carte Métal pour jouer.{ATTENTE}",
+    "fr": "{PAGE}<Avant de jouer>{SAUT}Insère 1 Carte en métal pour jouer.{ATTENTE}",
     "_occurrences": 9
   },
   {

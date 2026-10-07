@@ -128,7 +128,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26C33E",
     "en": " Masamune's Eyepatch(*TERMINATOR*)",
-    "fr": " Bandeau Masamune(*TERMINATOR*)",
+    "fr": " Cache-oeil Masamune(*TERMINATOR*)",
     "max": 20,
     "_fixe": true
   },
@@ -254,7 +254,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26C7FE",
     "en": " Olive Necklace(*TERMINATOR*)",
-    "fr": " Collier d'olivier(*TERMINATOR*)",
+    "fr": " Collier d'olives(*TERMINATOR*)",
     "max": 20,
     "_fixe": true
   },

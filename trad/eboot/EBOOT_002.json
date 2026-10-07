@@ -539,7 +539,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2BE63C",
     "en": "Hmm...[0000]It[0000]seems[0000]there's[0000]been[0000]an{SAUT}",
-    "fr": "Hmm...[0000]Il[0000]semble[0000]qu'il[0000]y[0000]ait[0000]eu{SAUT}",
+    "fr": "Hum...[0000]Il[0000]semble[0000]qu'il[0000]y[0000]ait[0000]eu{SAUT}",
     "max": 26
   },
   {
@@ -602,7 +602,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2BFF9A",
     "en": "[0000]>[0000]There's[0000]nothing[0000]inside...{ATTENTE}",
-    "fr": ">[0000]Il[0000]n'y[0000]a[0000]rien[0000]dedans...{ATTENTE}",
+    "fr": ">[0000]C'est[0000]vide...{ATTENTE}",
     "max": 24
   },
   {

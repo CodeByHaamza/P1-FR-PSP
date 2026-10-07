@@ -16,14 +16,14 @@
   {
     "id": "EBOOT.BIN:SKILL:OFF_26A068",
     "en": "Clone",
-    "fr": "Clone",
+    "fr": "Clonage",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_26A098",
     "en": "Dissolvent",
-    "fr": "Dissolvant",
+    "fr": "Dissolution",
     "max": 19,
     "_fixe": true
   },
@@ -121,7 +121,7 @@
   {
     "id": "EBOOT.BIN:SKILL:OFF_26A368",
     "en": "Derangement Voice",
-    "fr": "Voix dérangeante",
+    "fr": "Voix affolante",
     "max": 19,
     "_fixe": true
   }

@@ -64,7 +64,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2C07EC",
     "en": "Sure, put me down.{SAUT}",
-    "fr": "Oui, pose-moi.{SAUT}",
+    "fr": "Oui, inscris-moi.{SAUT}",
     "max": 18
   },
   {
@@ -421,13 +421,13 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2C0EDC",
     "en": "Let them join{SAUT}",
-    "fr": "Les accepter{SAUT}",
+    "fr": "Accepter{SAUT}",
     "max": 13
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2C0EF8",
     "en": "Don't let them join{SAUT}",
-    "fr": "Les refuser{SAUT}",
+    "fr": "Refuser{SAUT}",
     "max": 19
   },
   {

@@ -583,7 +583,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2BA67E",
     "en": "[0000][0000][0000][0000][0000][0000][0000][0000][0000][0000][0000]Tartarus{FERME}",
-    "fr": "Tartarus{FERME}",
+    "fr": "Tartare{FERME}",
     "max": 8,
     "_occurrences": 2
   },

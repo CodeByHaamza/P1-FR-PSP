@@ -89,7 +89,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26D034",
     "en": "Plasma Sword(*TERMINATOR*)",
-    "fr": "Épée plasma(*TERMINATOR*)",
+    "fr": "Épée plasmatique(*TERMINATOR*)",
     "_tete": "q [800C] [0800][08A0]",
     "max": 19,
     "_fixe": true
@@ -417,7 +417,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26E2EA",
     "en": "Adamantium Claw(*TERMINATOR*)",
-    "fr": "Griffe adamantium(*TERMINATOR*)",
+    "fr": "Griffe d'adamantium(*TERMINATOR*)",
     "_tete": " [211E][0907]a[0570][0517] [401F] [0001][08A0]",
     "max": 19,
     "_fixe": true
@@ -728,7 +728,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26F100",
     "en": "Shot Shells(*TERMINATOR*)",
-    "fr": "Cartouches plomb(*TERMINATOR*)",
+    "fr": "Cartouches de plomb(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
@@ -763,7 +763,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26F240",
     "en": "Circle Bullets(*TERMINATOR*)",
-    "fr": "Balles cercle(*TERMINATOR*)",
+    "fr": "Balles circulaires(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },

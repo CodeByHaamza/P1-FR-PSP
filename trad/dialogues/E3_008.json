@@ -311,7 +311,7 @@
   {
     "id": "E4.BIN:198:0004",
     "en": "{PAGE}> Obtained (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Ruins Medal(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": "{PAGE}> (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Médaille ruines(*TEXTBOX_PARAM,0000*) reçue.{ATTENTE}"
+    "fr": "{PAGE}> (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Médaille des ruines(*TEXTBOX_PARAM,0000*) reçue.{ATTENTE}"
   },
   {
     "id": "E4.BIN:198:0005",
@@ -382,7 +382,7 @@
   {
     "id": "E4.BIN:210:0004",
     "en": "{PAGE}> Obtained (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Snow Medal(*TEXTBOX_PARAM,0000*).{ATTENTE}",
-    "fr": "{PAGE}> (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Médaille neige(*TEXTBOX_PARAM,0000*) reçue.{ATTENTE}"
+    "fr": "{PAGE}> (*TEXTBOX_STYLE*)[0300](*TEXTBOX_PARAM,0500*)Médaille de neige(*TEXTBOX_PARAM,0000*) reçue.{ATTENTE}"
   },
   {
     "id": "E4.BIN:210:0005",

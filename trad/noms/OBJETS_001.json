@@ -9,7 +9,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26A480",
     "en": "Rattle Drink(*TERMINATOR*)",
-    "fr": "Boisson crécelle(*TERMINATOR*)",
+    "fr": "Boisson pétillante(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
@@ -128,35 +128,35 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26A8C0",
     "en": "St Incense(*TERMINATOR*)",
-    "fr": "Encens St(*TERMINATOR*)",
+    "fr": "Encens de force(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_26A900",
     "en": "Vi Incense(*TERMINATOR*)",
-    "fr": "Encens Vi(*TERMINATOR*)",
+    "fr": "Encens de vitalité(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_26A940",
     "en": "Dx Incense(*TERMINATOR*)",
-    "fr": "Encens Dx(*TERMINATOR*)",
+    "fr": "Encens de dextérité(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_26A980",
     "en": "Ag Incense(*TERMINATOR*)",
-    "fr": "Encens Ag(*TERMINATOR*)",
+    "fr": "Encens d'agilité(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_26A9C0",
     "en": "Lu Incense(*TERMINATOR*)",
-    "fr": "Encens Lu(*TERMINATOR*)",
+    "fr": "Encens de chance(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
@@ -177,7 +177,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26AA80",
     "en": "Muscle Drink(*TERMINATOR*)",
-    "fr": "Boisson muscle(*TERMINATOR*)",
+    "fr": "Boisson énergisante(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
@@ -219,7 +219,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26ACC0",
     "en": "Metal Card(*TERMINATOR*)",
-    "fr": "Carte métal(*TERMINATOR*)",
+    "fr": "Carte en métal(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
