@@ -55,6 +55,7 @@ Ces lignes sont plus larges que l'anglaise et approchent de la limite de la boî
 - [`SYOUJO_001.json`](trad/negociations/SYOUJO_001.json) — 1 ligne
 - [`TOILET_001.json`](trad/negociations/TOILET_001.json) — 2 lignes
 - [`ARMES_001.json`](trad/noms/ARMES_001.json) — 1 ligne
+- [`OBJETS_002.json`](trad/noms/OBJETS_002.json) — 1 ligne
 
 ## À vérifier en jeu
 
@@ -403,7 +404,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`ARMES_002.json`](trad/noms/ARMES_002.json) | 2 | 2 | 100 % | terminé · relecture en cours par @Uolil-Raccoon (#132) |
 | [`ARMURES_001.json`](trad/noms/ARMURES_001.json) | 65 | 65 | 100 % | terminé |
 | [`OBJETS_001.json`](trad/noms/OBJETS_001.json) | 100 | 100 | 100 % | terminé · relecture en cours par @Uolil-Raccoon (#134) |
-| [`OBJETS_002.json`](trad/noms/OBJETS_002.json) | 54 | 54 | 100 % | terminé · relecture en cours par @Uolil-Raccoon (#135) |
+| [`OBJETS_002.json`](trad/noms/OBJETS_002.json) | 54 | 54 | 100 % | terminé · 1 trop large · relecture en cours par @Uolil-Raccoon (#135) |
 | [`SORTS_001.json`](trad/noms/SORTS_001.json) | 100 | 100 | 100 % | terminé · relecture en cours par @FrankoPaulo (#128) |
 | [`SORTS_002.json`](trad/noms/SORTS_002.json) | 18 | 18 | 100 % | terminé · relecture en cours par @FrankoPaulo (#129) |
 
