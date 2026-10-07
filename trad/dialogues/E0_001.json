@@ -277,7 +277,7 @@
     "locuteur": "Brown",
     "en": "C'mon, you gotta take it seriously{SAUT}when you do it.{ATTENTE}",
     "locuteur_fr": "Brown",
-    "fr": "Allez, faut le faire sérieusement{SAUT}sinon ça marche pas.{ATTENTE}"
+    "fr": "Allez, faut le faire sérieusement,{SAUT}sinon ça marche pas.{ATTENTE}"
   },
   {
     "id": "E0.BIN:000:0040",
@@ -503,7 +503,7 @@
     "locuteur": "Mark",
     "en": "C'mon, taking care of students is her{SAUT}whole job! What's so bad about us...?{ATTENTE}",
     "locuteur_fr": "Mark",
-    "fr": "Ben quoi, s'occuper des élèves c'est{SAUT}son boulot! On est si terribles?{ATTENTE}"
+    "fr": "Ben quoi, s'occuper des élèves, c'est{SAUT}son boulot! On est si terribles?{ATTENTE}"
   },
   {
     "id": "E0.BIN:003:0009",
