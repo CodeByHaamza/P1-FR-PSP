@@ -3,7 +3,7 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Relecture      ░░░░░░░░░░░░░░░░░░░░░░░░    0 %        0 / 284 script relu, 6 en cours
+Relecture      ░░░░░░░░░░░░░░░░░░░░░░░░    0 %        0 / 284 script relu, 10 en cours
 Dialogues      ████████████████████████  100 %    8 560 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
@@ -205,9 +205,9 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 
 | Fichier | Textes | Traduits | % | État |
 |---|---:|---:|---:|---|
-| [`EBOOT_001.json`](trad/eboot/EBOOT_001.json) | 100 | 100 | 100 % | terminé · 5 à vérifier |
-| [`EBOOT_002.json`](trad/eboot/EBOOT_002.json) | 100 | 100 | 100 % | terminé · 2 à vérifier |
-| [`EBOOT_003.json`](trad/eboot/EBOOT_003.json) | 100 | 100 | 100 % | terminé · 15 à vérifier |
+| [`EBOOT_001.json`](trad/eboot/EBOOT_001.json) | 100 | 100 | 100 % | terminé · 5 à vérifier · relecture en cours par @Uolil-Raccoon (#136) |
+| [`EBOOT_002.json`](trad/eboot/EBOOT_002.json) | 100 | 100 | 100 % | terminé · 2 à vérifier · relecture en cours par @Uolil-Raccoon (#137) |
+| [`EBOOT_003.json`](trad/eboot/EBOOT_003.json) | 100 | 100 | 100 % | terminé · 15 à vérifier · relecture en cours par @Uolil-Raccoon (#138) |
 | [`EBOOT_004.json`](trad/eboot/EBOOT_004.json) | 100 | 100 | 100 % | terminé · 1 à vérifier |
 | [`EBOOT_005.json`](trad/eboot/EBOOT_005.json) | 100 | 100 | 100 % | terminé |
 | [`EBOOT_006.json`](trad/eboot/EBOOT_006.json) | 100 | 100 | 100 % | terminé |
@@ -403,7 +403,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`ARMES_002.json`](trad/noms/ARMES_002.json) | 2 | 2 | 100 % | terminé · relecture en cours par @Uolil-Raccoon (#132) |
 | [`ARMURES_001.json`](trad/noms/ARMURES_001.json) | 65 | 65 | 100 % | terminé |
 | [`OBJETS_001.json`](trad/noms/OBJETS_001.json) | 100 | 100 | 100 % | terminé · relecture en cours par @Uolil-Raccoon (#134) |
-| [`OBJETS_002.json`](trad/noms/OBJETS_002.json) | 54 | 54 | 100 % | terminé |
+| [`OBJETS_002.json`](trad/noms/OBJETS_002.json) | 54 | 54 | 100 % | terminé · relecture en cours par @Uolil-Raccoon (#135) |
 | [`SORTS_001.json`](trad/noms/SORTS_001.json) | 100 | 100 | 100 % | terminé · relecture en cours par @FrankoPaulo (#128) |
 | [`SORTS_002.json`](trad/noms/SORTS_002.json) | 18 | 18 | 100 % | terminé · relecture en cours par @FrankoPaulo (#129) |
 
