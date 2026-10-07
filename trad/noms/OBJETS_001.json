@@ -163,14 +163,14 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_26AA00",
     "en": "HP Incense(*TERMINATOR*)",
-    "fr": "Encens HP(*TERMINATOR*)",
+    "fr": "Encens PV(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_26AA40",
     "en": "SP Incense(*TERMINATOR*)",
-    "fr": "Encens SP(*TERMINATOR*)",
+    "fr": "Encens PC(*TERMINATOR*)",
     "max": 19,
     "_fixe": true
   },

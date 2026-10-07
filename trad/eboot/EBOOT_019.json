@@ -38,7 +38,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_27878C",
     "en": "Restores a little SP (1 ally)(*TERMINATOR*)",
-    "fr": "Rend un peu de SP (1 allié)(*TERMINATOR*)",
+    "fr": "Rend un peu de PC (1 allié)(*TERMINATOR*)",
     "max": 29
   },
   {
@@ -56,13 +56,13 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_278820",
     "en": "Reduce HP to 1 (all foes)(*TERMINATOR*)",
-    "fr": "HP à 1 (ts enn.)(*TERMINATOR*)",
+    "fr": "PV à 1 (ts enn.)(*TERMINATOR*)",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_278854",
     "en": "Restores a little HP each turn (all allies)(*TERMINATOR*)",
-    "fr": "Rend un peu de HP par tour (ts alliés)(*TERMINATOR*)",
+    "fr": "Rend un peu de PV par tour (ts alliés)(*TERMINATOR*)",
     "max": 43
   },
   {
@@ -80,25 +80,25 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_27891C",
     "en": "Restores a little HP and SP (1 ally)(*TERMINATOR*)",
-    "fr": "Rend un peu de HP et SP (1 allié)(*TERMINATOR*)",
+    "fr": "Rend un peu de PV et PC (1 allié)(*TERMINATOR*)",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_278966",
     "en": " Restores HP[001E]Increase max HP (1 ally)(*TERMINATOR*)",
-    "fr": " Rend HP[001E]HP max + (1 allié)(*TERMINATOR*)",
+    "fr": " Rend PV[001E]PV max + (1 allié)(*TERMINATOR*)",
     "max": 36
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2789B2",
     "en": " Increase maximum SP by 5(*TERMINATOR*)",
-    "fr": " SP max +5(*TERMINATOR*)",
+    "fr": " PC max +5(*TERMINATOR*)",
     "max": 25
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_2789E6",
     "en": " Increase maximum HP by 5(*TERMINATOR*)",
-    "fr": " HP max +5(*TERMINATOR*)",
+    "fr": " PV max +5(*TERMINATOR*)",
     "max": 25
   },
   {
@@ -206,7 +206,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_278DE0",
     "en": "Revives 1 ally with full HP(*TERMINATOR*)",
-    "fr": "Ranime 1 allié, HP pleins(*TERMINATOR*)",
+    "fr": "Ranime 1 allié, PV pleins(*TERMINATOR*)",
     "max": 27
   },
   {
@@ -218,19 +218,19 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_278E36",
     "en": " Restores full HP (1 ally)(*TERMINATOR*)",
-    "fr": "Rend tous les HP (1 allié)(*TERMINATOR*)",
+    "fr": "Rend tous les PV (1 allié)(*TERMINATOR*)",
     "max": 26
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_278E6C",
     "en": "Restores moderate HP (1 ally)(*TERMINATOR*)",
-    "fr": "Rend moitié des HP (1 allié)(*TERMINATOR*)",
+    "fr": "Rend moitié des PV (1 allié)(*TERMINATOR*)",
     "max": 29
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_278EA8",
     "en": "Restores a little HP (1 ally)(*TERMINATOR*)",
-    "fr": "Rend un peu de HP (1 allié)(*TERMINATOR*)",
+    "fr": "Rend un peu de PV (1 allié)(*TERMINATOR*)",
     "max": 29
   },
   {

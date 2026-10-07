@@ -572,7 +572,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2BFD00",
     "en": "{PAGE}>[0000][FF15]'s[0000]HP[0000]is[0000]lowered[0000]to[0000]1!{ATTENTE}",
-    "fr": "{PAGE}>[0000][FF15][0000]tombe[0000]à[0000]1[0000]HP!{ATTENTE}",
+    "fr": "{PAGE}>[0000][FF15][0000]tombe[0000]à[0000]1[0000]PV!{ATTENTE}",
     "max": 18
   },
   {

@@ -385,7 +385,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_277CB8",
     "en": "Restores full HP (all allies)(*TERMINATOR*)",
-    "fr": "Rend tous les HP (ts alliés)(*TERMINATOR*)",
+    "fr": "Rend tous les PV (ts alliés)(*TERMINATOR*)",
     "max": 29
   },
   {

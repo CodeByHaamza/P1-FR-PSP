@@ -140,7 +140,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_2871FC",
     "en": "character's HP.{FERME}",
-    "fr": "ses HP.{FERME}",
+    "fr": "ses PV.{FERME}",
     "max": 15
   },
   {
@@ -152,7 +152,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_287270",
     "en": "SP slowly decreases.{FERME}",
-    "fr": "des SP peu à peu.{FERME}",
+    "fr": "des PC peu à peu.{FERME}",
     "max": 20
   },
   {
@@ -170,7 +170,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_287378",
     "en": "decreases HP.{FERME}",
-    "fr": "ronge les HP.{FERME}",
+    "fr": "ronge les PV.{FERME}",
     "max": 13
   },
   {

@@ -329,13 +329,13 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2DA70A",
     "en": "[0000]SP[0000]Incense{FERME}",
-    "fr": "Encens[0000]SP{FERME}",
+    "fr": "Encens[0000]PC{FERME}",
     "max": 9
   },
   {
     "id": "EBOOT.BIN:BE:OFF_2DA806",
     "en": "[0000]HP[0000]Incense{FERME}",
-    "fr": "Encens[0000]HP{FERME}",
+    "fr": "Encens[0000]PV{FERME}",
     "max": 9
   },
   {

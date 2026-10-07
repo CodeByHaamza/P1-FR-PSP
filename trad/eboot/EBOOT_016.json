@@ -92,7 +92,7 @@
   {
     "id": "EBOOT.BIN:LE_UI:OFF_2925CC",
     "en": "Spring: Recover HP, SP, and status ailments。",
-    "fr": "Source: soigne HP, SP et les états。",
+    "fr": "Source: soigne PV, PC et les états。",
     "max": 44
   },
   {

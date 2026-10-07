@@ -208,7 +208,7 @@
     "locuteur": "Nanjo",
     "en": "...If you want to recover HP then use...{ATTENTE}",
     "locuteur_fr": "Nanjo",
-    "fr": "...Pour récupérer des HP, prenez...{ATTENTE}"
+    "fr": "...Pour récupérer des PV, prenez...{ATTENTE}"
   },
   {
     "id": "E2.BIN:194:0004",

@@ -164,7 +164,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_29B690",
     "en": "Not enough SP to invoke{ATTENTE}",
-    "fr": "SP insuffisants{ATTENTE}",
+    "fr": "PC insuffisants{ATTENTE}",
     "max": 23
   },
   {
@@ -272,7 +272,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_29B9A0",
     "en": "SP won't decrease{ATTENTE}",
-    "fr": "SP inépuisables{ATTENTE}",
+    "fr": "PC inépuisables{ATTENTE}",
     "max": 17
   },
   {

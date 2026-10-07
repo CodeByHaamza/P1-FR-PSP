@@ -500,7 +500,7 @@
     "locuteur": "Igor",
     "en": "Even if your Persona learns a powerful{SAUT}skill, the SP required remains constant.{ATTENTE}",
     "locuteur_fr": "Igor",
-    "fr": "Même si votre Persona apprend un don{SAUT}puissant, le coût en SP ne change pas.{ATTENTE}",
+    "fr": "Même si votre Persona apprend un don{SAUT}puissant, le coût en PC ne change pas.{ATTENTE}",
     "_occurrences": 47
   },
   {

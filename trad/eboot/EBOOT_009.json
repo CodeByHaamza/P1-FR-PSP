@@ -476,7 +476,7 @@
   {
     "id": "EBOOT.BIN:BE:OFF_2D29D6",
     "en": "skill,[0000]the[0000]SP[0000]required[0000]remains[0000]constant.{ATTENTE}",
-    "fr": "puissant,[0000]le[0000]SP[0000]requis[0000]ne[0000]change[0000]pas.{ATTENTE}",
+    "fr": "puissant,[0000]le[0000]PC[0000]requis[0000]ne[0000]change[0000]pas.{ATTENTE}",
     "max": 35
   },
   {

@@ -224,13 +224,13 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_27ADCA",
     "en": " Restores moderate HP (all allies)(*TERMINATOR*)",
-    "fr": " Rend moitié des HP (ts alliés)(*TERMINATOR*)",
+    "fr": " Rend moitié des PV (ts alliés)(*TERMINATOR*)",
     "max": 34
   },
   {
     "id": "EBOOT.BIN:BE2:OFF_27AE10",
     "en": "Restores a little HP (all allies)(*TERMINATOR*)",
-    "fr": "Rend un peu de HP (ts alliés)(*TERMINATOR*)",
+    "fr": "Rend un peu de PV (ts alliés)(*TERMINATOR*)",
     "max": 33
   },
   {
@@ -356,7 +356,7 @@
   {
     "id": "EBOOT.BIN:BE2:OFF_27B398",
     "en": "No HP recovery for 3 turns (1 foe)(*TERMINATOR*)",
-    "fr": "Pas de soin HP 3 tours (1 enn.)(*TERMINATOR*)",
+    "fr": "Pas de soin PV 3 tours (1 enn.)(*TERMINATOR*)",
     "max": 34
   },
   {
