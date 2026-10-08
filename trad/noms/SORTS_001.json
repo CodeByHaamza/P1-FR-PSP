@@ -226,14 +226,14 @@
   {
     "id": "EBOOT.BIN:SKILL:OFF_269288",
     "en": "Eastern Impact",
-    "fr": "Impact d'orient",
+    "fr": "Impact d'Orient",
     "max": 19,
     "_fixe": true
   },
   {
     "id": "EBOOT.BIN:SKILL:OFF_2692B8",
     "en": "Western Blow",
-    "fr": "Coup d'occident",
+    "fr": "Coup d'Occident",
     "max": 19,
     "_fixe": true
   },
