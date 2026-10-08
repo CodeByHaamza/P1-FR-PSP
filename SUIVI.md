@@ -3,7 +3,7 @@
 > Fichier **généré**. Ne pas le modifier à la main : chaque fusion l'écrase.
 
 ```text
-Relecture      █░░░░░░░░░░░░░░░░░░░░░░░    4 %       11 / 284 scripts relus
+Relecture      █░░░░░░░░░░░░░░░░░░░░░░░    4 %       10 / 284 scripts relus
 Dialogues      ████████████████████████  100 %    8 560 / 8 572 textes
 EBOOT          ████████████████████████  100 %    2 956 / 2 956 textes
 Donjons        ████████████████████████  100 %      130 / 130 textes
@@ -122,27 +122,27 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E0_025.json`](trad/dialogues/E0_025.json) | 93 | 93 | 100 % | terminé |
 | [`E0_026.json`](trad/dialogues/E0_026.json) | 77 | 77 | 100 % | terminé |
 | [`E0_027.json`](trad/dialogues/E0_027.json) | 40 | 40 | 100 % | terminé |
-| [`E0_028.json`](trad/dialogues/E0_028.json) | 78 | 78 | 100 % | terminé |
+| [`E0_028.json`](trad/dialogues/E0_028.json) | 78 | 78 | 100 % | terminé par @vikmorp |
 | [`E0_029.json`](trad/dialogues/E0_029.json) | 55 | 55 | 100 % | terminé |
 | [`E0_030.json`](trad/dialogues/E0_030.json) | 100 | 100 | 100 % | terminé |
 | [`E0_031.json`](trad/dialogues/E0_031.json) | 74 | 74 | 100 % | terminé |
 | [`E0_032.json`](trad/dialogues/E0_032.json) | 100 | 100 | 100 % | terminé |
 | [`E0_033.json`](trad/dialogues/E0_033.json) | 74 | 74 | 100 % | terminé |
 | [`E0_034.json`](trad/dialogues/E0_034.json) | 70 | 70 | 100 % | terminé |
-| [`E0_035.json`](trad/dialogues/E0_035.json) | 57 | 57 | 100 % | terminé |
+| [`E0_035.json`](trad/dialogues/E0_035.json) | 57 | 57 | 100 % | terminé par @DiCEO0 |
 | [`E0_036.json`](trad/dialogues/E0_036.json) | 53 | 53 | 100 % | terminé |
 | [`E0_037.json`](trad/dialogues/E0_037.json) | 99 | 99 | 100 % | terminé |
 | [`E0_038.json`](trad/dialogues/E0_038.json) | 79 | 79 | 100 % | terminé |
 | [`E0_039.json`](trad/dialogues/E0_039.json) | 56 | 56 | 100 % | terminé |
 | [`E0_040.json`](trad/dialogues/E0_040.json) | 89 | 89 | 100 % | terminé |
-| [`E0_041.json`](trad/dialogues/E0_041.json) | 89 | 89 | 100 % | terminé |
-| [`E0_042.json`](trad/dialogues/E0_042.json) | 82 | 82 | 100 % | terminé |
-| [`E0_043.json`](trad/dialogues/E0_043.json) | 100 | 100 | 100 % | terminé · 1 terme |
+| [`E0_041.json`](trad/dialogues/E0_041.json) | 89 | 89 | 100 % | terminé par @Colonel-Maskou |
+| [`E0_042.json`](trad/dialogues/E0_042.json) | 82 | 82 | 100 % | terminé par @s3rei |
+| [`E0_043.json`](trad/dialogues/E0_043.json) | 100 | 100 | 100 % | terminé par @Colonel-Maskou · 1 terme |
 | [`E0_044.json`](trad/dialogues/E0_044.json) | 100 | 100 | 100 % | terminé |
 | [`E0_045.json`](trad/dialogues/E0_045.json) | 100 | 100 | 100 % | terminé |
 | [`E0_046.json`](trad/dialogues/E0_046.json) | 92 | 92 | 100 % | terminé |
 | [`E0_047.json`](trad/dialogues/E0_047.json) | 69 | 69 | 100 % | terminé |
-| [`E0_048.json`](trad/dialogues/E0_048.json) | 50 | 50 | 100 % | terminé |
+| [`E0_048.json`](trad/dialogues/E0_048.json) | 50 | 50 | 100 % | terminé par @Gyotre, @ATMC14 |
 | [`E1_001.json`](trad/dialogues/E1_001.json) | 80 | 77 | 96 % | commencé |
 | [`E1_002.json`](trad/dialogues/E1_002.json) | 100 | 99 | 99 % | commencé |
 | [`E1_003.json`](trad/dialogues/E1_003.json) | 94 | 94 | 100 % | terminé · 1 trop large |
@@ -150,24 +150,24 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E1_005.json`](trad/dialogues/E1_005.json) | 81 | 76 | 94 % | commencé |
 | [`E1_006.json`](trad/dialogues/E1_006.json) | 77 | 74 | 96 % | commencé |
 | [`E1_007.json`](trad/dialogues/E1_007.json) | 97 | 97 | 100 % | terminé |
-| [`E1_008.json`](trad/dialogues/E1_008.json) | 74 | 74 | 100 % | terminé |
+| [`E1_008.json`](trad/dialogues/E1_008.json) | 74 | 74 | 100 % | terminé par @vikmorp |
 | [`E1_009.json`](trad/dialogues/E1_009.json) | 75 | 75 | 100 % | terminé |
 | [`E1_010.json`](trad/dialogues/E1_010.json) | 63 | 63 | 100 % | terminé |
 | [`E1_011.json`](trad/dialogues/E1_011.json) | 87 | 87 | 100 % | terminé |
 | [`E1_012.json`](trad/dialogues/E1_012.json) | 83 | 83 | 100 % | terminé · 1 trop large |
-| [`E1_013.json`](trad/dialogues/E1_013.json) | 60 | 60 | 100 % | terminé |
+| [`E1_013.json`](trad/dialogues/E1_013.json) | 60 | 60 | 100 % | terminé par @Uolil-Raccoon |
 | [`E1_014.json`](trad/dialogues/E1_014.json) | 43 | 43 | 100 % | terminé |
 | [`E1_015.json`](trad/dialogues/E1_015.json) | 65 | 65 | 100 % | terminé |
-| [`E1_016.json`](trad/dialogues/E1_016.json) | 100 | 100 | 100 % | terminé · 1 trop large |
+| [`E1_016.json`](trad/dialogues/E1_016.json) | 100 | 100 | 100 % | terminé par @Uolil-Raccoon · 1 trop large |
 | [`E1_017.json`](trad/dialogues/E1_017.json) | 38 | 38 | 100 % | terminé |
-| [`E1_018.json`](trad/dialogues/E1_018.json) | 100 | 100 | 100 % | terminé |
+| [`E1_018.json`](trad/dialogues/E1_018.json) | 100 | 100 | 100 % | terminé par @Uolil-Raccoon |
 | [`E1_019.json`](trad/dialogues/E1_019.json) | 46 | 46 | 100 % | terminé |
 | [`E1_020.json`](trad/dialogues/E1_020.json) | 67 | 67 | 100 % | terminé |
-| [`E1_021.json`](trad/dialogues/E1_021.json) | 66 | 66 | 100 % | terminé |
-| [`E1_022.json`](trad/dialogues/E1_022.json) | 95 | 95 | 100 % | terminé |
+| [`E1_021.json`](trad/dialogues/E1_021.json) | 66 | 66 | 100 % | terminé par @vikmorp |
+| [`E1_022.json`](trad/dialogues/E1_022.json) | 95 | 95 | 100 % | terminé par @Uolil-Raccoon |
 | [`E1_023.json`](trad/dialogues/E1_023.json) | 96 | 96 | 100 % | terminé · 1 trop large |
 | [`E1_024.json`](trad/dialogues/E1_024.json) | 93 | 93 | 100 % | terminé |
-| [`E1_025.json`](trad/dialogues/E1_025.json) | 86 | 86 | 100 % | terminé |
+| [`E1_025.json`](trad/dialogues/E1_025.json) | 86 | 86 | 100 % | terminé par @Uolil-Raccoon |
 | [`E1_026.json`](trad/dialogues/E1_026.json) | 97 | 97 | 100 % | terminé · 1 trop large |
 | [`E1_027.json`](trad/dialogues/E1_027.json) | 89 | 89 | 100 % | terminé |
 | [`E1_028.json`](trad/dialogues/E1_028.json) | 79 | 79 | 100 % | terminé |
@@ -197,7 +197,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`E3_004.json`](trad/dialogues/E3_004.json) | 95 | 95 | 100 % | terminé |
 | [`E3_005.json`](trad/dialogues/E3_005.json) | 97 | 97 | 100 % | terminé |
 | [`E3_006.json`](trad/dialogues/E3_006.json) | 98 | 98 | 100 % | terminé |
-| [`E3_007.json`](trad/dialogues/E3_007.json) | 96 | 96 | 100 % | terminé · 1 trop large |
+| [`E3_007.json`](trad/dialogues/E3_007.json) | 96 | 96 | 100 % | terminé par @Uolil-Raccoon · 1 trop large |
 | [`E3_008.json`](trad/dialogues/E3_008.json) | 66 | 66 | 100 % | terminé |
 
 ## EBOOT
@@ -274,13 +274,13 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`GAKI_001.json`](trad/negociations/GAKI_001.json) | 100 | 100 | 100 % | terminé |
 | [`GAKI_002.json`](trad/negociations/GAKI_002.json) | 100 | 100 | 100 % | terminé |
 | [`GAKI_003.json`](trad/negociations/GAKI_003.json) | 28 | 28 | 100 % | terminé |
-| [`HIHO_001.json`](trad/negociations/HIHO_001.json) | 100 | 100 | 100 % | terminé |
-| [`HIHO_002.json`](trad/negociations/HIHO_002.json) | 100 | 100 | 100 % | terminé |
-| [`HIHO_003.json`](trad/negociations/HIHO_003.json) | 100 | 100 | 100 % | terminé |
-| [`HIHO_004.json`](trad/negociations/HIHO_004.json) | 100 | 100 | 100 % | terminé |
-| [`HIHO_005.json`](trad/negociations/HIHO_005.json) | 100 | 100 | 100 % | terminé |
-| [`HIHO_006.json`](trad/negociations/HIHO_006.json) | 100 | 100 | 100 % | terminé |
-| [`HIHO_007.json`](trad/negociations/HIHO_007.json) | 68 | 68 | 100 % | terminé |
+| [`HIHO_001.json`](trad/negociations/HIHO_001.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`HIHO_002.json`](trad/negociations/HIHO_002.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`HIHO_003.json`](trad/negociations/HIHO_003.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`HIHO_004.json`](trad/negociations/HIHO_004.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`HIHO_005.json`](trad/negociations/HIHO_005.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`HIHO_006.json`](trad/negociations/HIHO_006.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`HIHO_007.json`](trad/negociations/HIHO_007.json) | 68 | 68 | 100 % | terminé par @ATMC14 |
 | [`KEMONO_001.json`](trad/negociations/KEMONO_001.json) | 100 | 100 | 100 % | terminé |
 | [`KEMONO_002.json`](trad/negociations/KEMONO_002.json) | 100 | 100 | 100 % | terminé |
 | [`KEMONO_003.json`](trad/negociations/KEMONO_003.json) | 100 | 100 | 100 % | terminé |
@@ -291,7 +291,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`KEMONO_008.json`](trad/negociations/KEMONO_008.json) | 100 | 100 | 100 % | terminé |
 | [`KEMONO_009.json`](trad/negociations/KEMONO_009.json) | 100 | 100 | 100 % | terminé |
 | [`KEMONO_010.json`](trad/negociations/KEMONO_010.json) | 69 | 69 | 100 % | terminé |
-| [`KOKURI_001.json`](trad/negociations/KOKURI_001.json) | 96 | 96 | 100 % | terminé · 1 trop large |
+| [`KOKURI_001.json`](trad/negociations/KOKURI_001.json) | 96 | 96 | 100 % | terminé par @ATMC14 · 1 trop large |
 | [`KOROU_001.json`](trad/negociations/KOROU_001.json) | 100 | 100 | 100 % | terminé |
 | [`KOROU_002.json`](trad/negociations/KOROU_002.json) | 100 | 100 | 100 % | terminé · 1 à alléger |
 | [`KOROU_003.json`](trad/negociations/KOROU_003.json) | 100 | 100 | 100 % | terminé · 1 à relire |
@@ -330,10 +330,10 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`MAYOERU_001.json`](trad/negociations/MAYOERU_001.json) | 100 | 100 | 100 % | terminé |
 | [`MAYOERU_002.json`](trad/negociations/MAYOERU_002.json) | 100 | 100 | 100 % | terminé |
 | [`MAYOERU_003.json`](trad/negociations/MAYOERU_003.json) | 39 | 39 | 100 % | terminé |
-| [`POLUTAR_001.json`](trad/negociations/POLUTAR_001.json) | 100 | 100 | 100 % | terminé |
-| [`POLUTAR_002.json`](trad/negociations/POLUTAR_002.json) | 100 | 100 | 100 % | terminé |
-| [`POLUTAR_003.json`](trad/negociations/POLUTAR_003.json) | 100 | 100 | 100 % | terminé |
-| [`POLUTAR_004.json`](trad/negociations/POLUTAR_004.json) | 36 | 36 | 100 % | terminé |
+| [`POLUTAR_001.json`](trad/negociations/POLUTAR_001.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`POLUTAR_002.json`](trad/negociations/POLUTAR_002.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`POLUTAR_003.json`](trad/negociations/POLUTAR_003.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`POLUTAR_004.json`](trad/negociations/POLUTAR_004.json) | 36 | 36 | 100 % | terminé par @ATMC14 |
 | [`QSIRUBA_001.json`](trad/negociations/QSIRUBA_001.json) | 100 | 100 | 100 % | terminé |
 | [`QSIRUBA_002.json`](trad/negociations/QSIRUBA_002.json) | 100 | 100 | 100 % | terminé |
 | [`QSIRUBA_003.json`](trad/negociations/QSIRUBA_003.json) | 20 | 20 | 100 % | terminé |
@@ -353,20 +353,20 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`SYOUJO_004.json`](trad/negociations/SYOUJO_004.json) | 100 | 100 | 100 % | terminé |
 | [`SYOUJO_005.json`](trad/negociations/SYOUJO_005.json) | 100 | 100 | 100 % | terminé · 4 à alléger |
 | [`SYOUJO_006.json`](trad/negociations/SYOUJO_006.json) | 100 | 100 | 100 % | terminé · 4 à alléger |
-| [`SYOUJO_007.json`](trad/negociations/SYOUJO_007.json) | 9 | 9 | 100 % | terminé |
+| [`SYOUJO_007.json`](trad/negociations/SYOUJO_007.json) | 9 | 9 | 100 % | terminé par @Uolil-Raccoon |
 | [`TENSI_001.json`](trad/negociations/TENSI_001.json) | 100 | 100 | 100 % | terminé |
 | [`TENSI_002.json`](trad/negociations/TENSI_002.json) | 100 | 100 | 100 % | terminé |
 | [`TENSI_003.json`](trad/negociations/TENSI_003.json) | 100 | 100 | 100 % | terminé |
 | [`TENSI_004.json`](trad/negociations/TENSI_004.json) | 100 | 100 | 100 % | terminé |
 | [`TENSI_005.json`](trad/negociations/TENSI_005.json) | 100 | 100 | 100 % | terminé |
 | [`TENSI_006.json`](trad/negociations/TENSI_006.json) | 82 | 82 | 100 % | terminé |
-| [`TINPRA_001.json`](trad/negociations/TINPRA_001.json) | 100 | 100 | 100 % | terminé |
-| [`TINPRA_002.json`](trad/negociations/TINPRA_002.json) | 100 | 100 | 100 % | terminé |
-| [`TINPRA_003.json`](trad/negociations/TINPRA_003.json) | 69 | 69 | 100 % | terminé |
-| [`TOILET_001.json`](trad/negociations/TOILET_001.json) | 100 | 100 | 100 % | terminé · 1 à alléger |
+| [`TINPRA_001.json`](trad/negociations/TINPRA_001.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`TINPRA_002.json`](trad/negociations/TINPRA_002.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`TINPRA_003.json`](trad/negociations/TINPRA_003.json) | 69 | 69 | 100 % | terminé par @ATMC14 |
+| [`TOILET_001.json`](trad/negociations/TOILET_001.json) | 100 | 100 | 100 % | terminé par @Uolil-Raccoon · 1 à alléger |
 | [`TOILET_002.json`](trad/negociations/TOILET_002.json) | 100 | 100 | 100 % | terminé |
 | [`TOILET_003.json`](trad/negociations/TOILET_003.json) | 100 | 100 | 100 % | terminé |
-| [`TOILET_004.json`](trad/negociations/TOILET_004.json) | 19 | 19 | 100 % | terminé |
+| [`TOILET_004.json`](trad/negociations/TOILET_004.json) | 19 | 19 | 100 % | terminé par @Uolil-Raccoon |
 | [`WORM_001.json`](trad/negociations/WORM_001.json) | 100 | 100 | 100 % | terminé |
 | [`WORM_002.json`](trad/negociations/WORM_002.json) | 100 | 100 | 100 % | terminé |
 | [`WORM_003.json`](trad/negociations/WORM_003.json) | 100 | 100 | 100 % | terminé |
@@ -376,23 +376,23 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 | [`WORM_007.json`](trad/negociations/WORM_007.json) | 100 | 100 | 100 % | terminé |
 | [`WORM_008.json`](trad/negociations/WORM_008.json) | 100 | 100 | 100 % | terminé |
 | [`WORM_009.json`](trad/negociations/WORM_009.json) | 86 | 86 | 100 % | terminé |
-| [`WTENSI_001.json`](trad/negociations/WTENSI_001.json) | 80 | 80 | 100 % | terminé |
+| [`WTENSI_001.json`](trad/negociations/WTENSI_001.json) | 80 | 80 | 100 % | terminé par @ATMC14 |
 | [`YAKUZA_001.json`](trad/negociations/YAKUZA_001.json) | 100 | 100 | 100 % | terminé |
 | [`YAKUZA_002.json`](trad/negociations/YAKUZA_002.json) | 100 | 100 | 100 % | terminé |
 | [`YAKUZA_003.json`](trad/negociations/YAKUZA_003.json) | 59 | 59 | 100 % | terminé |
-| [`YOUEN_001.json`](trad/negociations/YOUEN_001.json) | 100 | 100 | 100 % | terminé |
-| [`YOUEN_002.json`](trad/negociations/YOUEN_002.json) | 100 | 100 | 100 % | terminé |
-| [`YOUEN_003.json`](trad/negociations/YOUEN_003.json) | 100 | 100 | 100 % | terminé |
-| [`YOUEN_004.json`](trad/negociations/YOUEN_004.json) | 100 | 100 | 100 % | terminé |
-| [`YOUEN_005.json`](trad/negociations/YOUEN_005.json) | 100 | 100 | 100 % | terminé |
-| [`YOUEN_006.json`](trad/negociations/YOUEN_006.json) | 87 | 87 | 100 % | terminé |
+| [`YOUEN_001.json`](trad/negociations/YOUEN_001.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`YOUEN_002.json`](trad/negociations/YOUEN_002.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`YOUEN_003.json`](trad/negociations/YOUEN_003.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`YOUEN_004.json`](trad/negociations/YOUEN_004.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`YOUEN_005.json`](trad/negociations/YOUEN_005.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`YOUEN_006.json`](trad/negociations/YOUEN_006.json) | 87 | 87 | 100 % | terminé par @ATMC14 |
 | [`ZMBITYAN_001.json`](trad/negociations/ZMBITYAN_001.json) | 100 | 100 | 100 % | terminé |
 | [`ZMBITYAN_002.json`](trad/negociations/ZMBITYAN_002.json) | 100 | 100 | 100 % | terminé |
 | [`ZMBITYAN_003.json`](trad/negociations/ZMBITYAN_003.json) | 22 | 22 | 100 % | terminé |
+| [`ZOMBIKO_001.json`](trad/negociations/ZOMBIKO_001.json) | 100 | 100 | 100 % | terminé par @ATMC14 |
+| [`ZOMBIKO_002.json`](trad/negociations/ZOMBIKO_002.json) | 90 | 90 | 100 % | terminé par @ATMC14 |
 | [`ZOMB_MAN_001.json`](trad/negociations/ZOMB_MAN_001.json) | 100 | 100 | 100 % | terminé |
-| [`ZOMB_MAN_002.json`](trad/negociations/ZOMB_MAN_002.json) | 82 | 82 | 100 % | terminé |
-| [`ZOMBIKO_001.json`](trad/negociations/ZOMBIKO_001.json) | 100 | 100 | 100 % | terminé |
-| [`ZOMBIKO_002.json`](trad/negociations/ZOMBIKO_002.json) | 90 | 90 | 100 % | terminé |
+| [`ZOMB_MAN_002.json`](trad/negociations/ZOMB_MAN_002.json) | 82 | 82 | 100 % | terminé par @vikmorp |
 
 ## Noms
 
@@ -402,7 +402,7 @@ Prends un fichier **libre**, dis-le en ouvrant ta proposition, et il passera en 
 |---|---:|---:|---:|---|
 | [`ARMES_001.json`](trad/noms/ARMES_001.json) | 100 | 100 | 100 % | terminé · 1 trop large · relu (#131) |
 | [`ARMES_002.json`](trad/noms/ARMES_002.json) | 2 | 2 | 100 % | terminé · relu (#132) |
-| [`ARMURES_001.json`](trad/noms/ARMURES_001.json) | 65 | 65 | 100 % | terminé · relu (#133) |
+| [`ARMURES_001.json`](trad/noms/ARMURES_001.json) | 65 | 65 | 100 % | terminé |
 | [`OBJETS_001.json`](trad/noms/OBJETS_001.json) | 100 | 100 | 100 % | terminé · relu (#134) |
 | [`OBJETS_002.json`](trad/noms/OBJETS_002.json) | 54 | 54 | 100 % | terminé · 1 trop large · relu (#135) |
 | [`SORTS_001.json`](trad/noms/SORTS_001.json) | 100 | 100 | 100 % | terminé · relu (#128) |
